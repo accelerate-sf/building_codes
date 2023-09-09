@@ -3,31 +3,31 @@
 ## California Codes
 <ol>
     <li>
-        <a href="https://codes.iccsafe.org/content/CABC2022P1" target="_blank" rel="noopener noreferrer">CA Building Code (2022) Volume 1 & 2/a>
+        <a href="https://codes.iccsafe.org/content/CABC2022P1" target="_blank" rel="noopener noreferrer">CA Building Code (2022) Volume 1 & 2</a>
     </li>
     <li>
-        <a href="https://codes.iccsafe.org/content/CAHBC2022P1" target="_blank" rel="noopener noreferrer">CA Historical Building Code/a>
+        <a href="https://codes.iccsafe.org/content/CAHBC2022P1" target="_blank" rel="noopener noreferrer">CA Historical Building Code</a>
     </li>
     <li>
-        <a href="https://codes.iccsafe.org/content/CAEBC2022P1" target="_blank" rel="noopener noreferrer">CA Existing Building Code/a>
+        <a href="https://codes.iccsafe.org/content/CAEBC2022P1" target="_blank" rel="noopener noreferrer">CA Existing Building Code</a>
     </li>
     <li>
-        <a href="https://www.nfpa.org/Login" target="_blank" rel="noopener noreferrer">CA Existing Building Code/a>
+        <a href="https://www.nfpa.org/Login" target="_blank" rel="noopener noreferrer">CA Existing Building Code</a>
     </li>
     <li>
-        <a href="https://www.nfpa.org/codes-and-standards/all-codes-and-standards/codes-and-standards/free-access?mode=view&t=other&c=CALNEC2022" target="_blank" rel="noopener noreferrer">CA Electrical Code/a>
+        <a href="https://www.nfpa.org/codes-and-standards/all-codes-and-standards/codes-and-standards/free-access?mode=view&t=other&c=CALNEC2022" target="_blank" rel="noopener noreferrer">CA Electrical Code</a>
     </li>
     <li>
-        <a href="https://epubs.iapmo.org/2022/CMC/index.html" target="_blank" rel="noopener noreferrer">CA Mechanical Code/a>
+        <a href="https://epubs.iapmo.org/2022/CMC/index.html" target="_blank" rel="noopener noreferrer">CA Mechanical Code</a>
     </li>
     <li>
-        <a href="https://codes.iccsafe.org/content/CAGBC2022P1" target="_blank" rel="noopener noreferrer">CA Green Building Code/a>
+        <a href="https://codes.iccsafe.org/content/CAGBC2022P1" target="_blank" rel="noopener noreferrer">CA Green Building Code</a>
     </li>
     <li>
-        <a href="https://epubs.iapmo.org/2022/CPC/" target="_blank" rel="noopener noreferrer">CA Plumbing Code/a>
+        <a href="https://epubs.iapmo.org/2022/CPC/" target="_blank" rel="noopener noreferrer">CA Plumbing Code</a>
     </li>
     <li>
-        <a href="https://codes.iccsafe.org/content/CAEC2022P1" target="_blank" rel="noopener noreferrer">CA Energy Code/a>
+        <a href="https://codes.iccsafe.org/content/CAEC2022P1" target="_blank" rel="noopener noreferrer">CA Energy Code</a>
     </li>
     
 </ol>
