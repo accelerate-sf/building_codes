@@ -20,6 +20,6 @@ Local Government Officials
 
 ## Expected Outcomes:
 
-Improved Construction Compliance: Minimize legal disputes and construction delays by proactively identifying conflicts between codes.
-Streamlined Planning: Enable smoother planning processes by resolving regulatory contradictions.
-Enhanced Collaboration: Facilitate better understanding and communication between state and local regulatory bodies.
+- Improved Construction Compliance: Minimize legal disputes and construction delays by proactively identifying conflicts between codes.
+- Streamlined Planning: Enable smoother planning processes by resolving regulatory contradictions.
+- Enhanced Collaboration: Facilitate better understanding and communication between state and local regulatory bodies.
