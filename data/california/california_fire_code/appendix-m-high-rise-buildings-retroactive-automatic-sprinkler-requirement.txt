@@ -1,0 +1,50 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX M – HIGH-RISE BUILDINGS—RETROACTIVEAUTOMATIC SPRINKLER REQUIREMENT
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX M HIGH-RISE BUILDINGS—RETROACTIVEAUTOMATIC SPRINKLER REQUIREMENT
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix M was created with the intent to provide an option for adoption by jurisdictions that choose to require existing high-rise buildings to be retrofitted with automatic sprinklers. Modern fire and building codes require complete automatic fire sprinkler protection and a variety of other safety features in new high-rise construction. Many older high-rise buildings lack automatic sprinkler protection and other basic fire protection features necessary to protect the occupants, emergency responders and the structure itself. Without complete automatic sprinkler protection, fire departments cannot provide the level of protection that high-rise buildings demand. Existing high-rise buildings that are not protected with automatic sprinklers represent a significant hazard to occupants and fire fighters, and can significantly impact a community’s infrastructure and economic viability in the event of a fire loss.
+
+SECTION M101 SCOPE
+
+M101.1 Scope.
+
+An automatic sprinkler system shall be installed in all existing high-rise buildings in accordance with the requirements and compliance schedule of this appendix.
+
+SECTION M102 WHERE REQUIRED
+
+M102.1 High-rise buildings.
+
+An automatic sprinkler system installed in accordance with Section 903.3.1.1 shall be provided throughout existing high-rise buildings.
+
+Exceptions:
+
+1.Airport traffic control towers.
+
+2.Open parking structures.
+
+3.Group U occupancies.
+
+4.Occupancies in Group F-2.
+
+SECTION M103 COMPLIANCE
+
+M103.1 Compliance schedule.
+
+Building owners shall file a compliance schedule with the fire code official not later than 365 days after receipt of a written notice of violation. The compliance schedule shall not exceed 12 years for an automatic sprinkler system retrofit.
+

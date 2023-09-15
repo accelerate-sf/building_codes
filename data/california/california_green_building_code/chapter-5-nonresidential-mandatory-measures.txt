@@ -1,0 +1,1519 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 5 – NONRESIDENTIAL MANDATORY MEASURES  DIVISION 5.1 – PLANNING AND DESIGN
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below								X														
+Chapter/Section																						
+5.101								X														
+5.102 Definitions								X														
+5.106.4.2 and subsections		†						X														
+5.106.5.3 and subsections								X														
+5.106.5.4 and subsections								†														
+5.106.8								X														
+5.106.10								X														
+5.106.12 and subsections		†						X														The state agency does not adopt sections identified with the following symbol: †
+
+CHAPTER 5 NONRESIDENTIAL MANDATORY MEASURES NONRESIDENTIAL MANDATORY MEASURES
+
+Division5.1 – PLANNING AND DESIGN Division Division 5.1 5.1 – PLANNING AND DESIGN PLANNING AND DESIGN
+
+SECTION 5.101 GENERAL
+
+5.101.1 Scope.
+
+The provisions of this chapter outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore and enhance the environmental quality of the site and respect the integrity of adjacent properties.
+
+SECTION 5.102 DEFINITIONS
+
+5.102.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+CUTOFF LUMINAIRES.
+
+TENANT-OCCUPANTS.
+
+ZEV.
+
+SECTION 5.103 SITE SELECTION
+
+(Reserved)
+
+SECTION 5.104 SITE PRESERVATION
+
+(Reserved)
+
+SECTION 5.105 DECONSTRUCTION AND REUSE  OF EXISTING STRUCTURES
+
+(Reserved)
+
+SECTION 5.106 SITE DEVELOPMENT
+
+5.106.1 Stormwater pollution prevention for projects that disturb less than one acre of land.
+
+Newly constructed projects and additions which disturb less than one acre of land and are not part of a larger common plan of development or sale shall prevent the pollution of stormwater runoff from the construction activities through one or more of the following measures:
+
+5.106.1.1 Local ordinance.
+
+Comply with a lawfully enacted stormwater management and/or erosion control ordinance.
+
+5.106.1.2 Best management practices (BMP’s).
+
+Prevent the loss of soil through wind or water erosion by implementing an effective combination of erosion and sediment control and good housekeeping BMP’s.
+
+1.Soil loss BMP’s that should be considered for implementation as appropriate for each project include, but are not limited to, the following:
+
+a.Scheduling construction activity during dry weather, when possible.
+
+b.Preservation of natural features, vegetation, soil and buffers around surface waters.
+
+c.Drainage swales or lined ditches to control stormwater flow.
+
+d.Mulching or hydroseeding to stabilize disturbed soils.
+
+e.Erosion control to protect slopes.
+
+f.Protection of storm drain inlets (gravel bags or catch basin inserts).
+
+g.Perimeter sediment control (perimeter silt fence, fiber rolls).
+
+h.Sediment trap or sediment basin to retain sediment on site.
+
+i.Stabilized construction exits.
+
+j.Wind erosion control.
+
+k.Other soil loss BMP’s acceptable to the enforcing agency.
+
+2.Good housekeeping BMP’s to manage construction equipment, materials, non-stormwater discharges and wastes that should be considered for implementation as appropriate for each project include, but are not limited to, the following:
+
+a.Dewatering activities.
+
+b.Material handling and waste management.
+
+c.Building materials stockpile management.
+
+d.Management of washout areas (concrete, paints, stucco, etc.).
+
+e.Control of vehicle/equipment fueling to contractor’s staging area.
+
+f.Vehicle and equipment cleaning performed off site.
+
+g.Spill prevention and control.
+
+h.Other housekeeping BMP’s acceptable to the enforcing agency.
+
+5.106.2 Stormwater pollution prevention for projects that disturb one or more acres of land.
+
+Comply with all lawfully enacted stormwater discharge regulations for projects that (1) disturb one acre or more of land, or (2) disturb less than one acre of land but are part of a larger common plan of development or sale.
+
+Note: Projects that (1) disturb one acre or more of land, or (2) disturb less than one acre of land but are part of a larger common plan of development or sale must comply with the postconstruction requirements detailed in the applicable National Pollutant Discharge Elimination System (NPDES) General Permit for Stormwater Discharges Associated with Construction and Land Disturbance Activities issued by the State Water Resources Control Board or the Lahontan Regional Water Quality Control Board (for projects in the Lake Tahoe Hydrologic Unit).
+
+The NPDES permits require postconstruction runoff (postproject hydrology) to match the preconstruction runoff (pre-project hydrology) with the installation of postconstruction stormwater management measures. The NPDES permits emphasize runoff reduction through on-site stormwater use, interception, evapotranspiration and infiltration through nonstructural controls, such as Low Impact Development (LID) practices and conservation design measures. Stormwater volume that cannot be addressed using nonstructural practices is required to be captured in structural practices and be approved by the enforcing agency.
+
+Refer to the current applicable permits on the State Water Resources Control Board website at: www.waterboards.ca.gov/constructionstormwater. Consideration to the stormwater runoff management measures should be given during the initial design process for appropriate integration into site development.
+
+5.106.4 Bicycle parking.
+
+For buildings within the authority of California Building Standards Commission as specified in Section 103, comply with Section 5.106.4.1. For buildings within the authority of the Division of the State Architect pursuant to Section 105, comply with Section 5.106.4.2.
+
+5.106.4.1 Bicycle parking.
+
+[BSC-CG] Comply with Sections 5.106.4.1.1 and 5.106.4.1.2; or meet the applicable local ordinance, whichever is stricter.
+
+5.106.4.1.1 Short-term bicycle parking.
+
+If the new project or an addition or alteration is anticipated to generate visitor traffic, provide permanently anchored bicycle racks within 200 feet of the visitors’ entrance, readily visible to passers-by, for 5 percent of new visitor motorized vehicle parking spaces being added, with a minimum of one two-bike capacity rack.
+
+Exception: Additions or alterations which add nine or less visitor vehicular parking spaces.
+
+5.106.4.1.2 Long-term bicycle parking.
+
+For new buildings with tenant spaces that have 10 or more tenant-occupants, provide secure bicycle parking for 5 percent of the tenant-occupant vehicular parking spaces with a minimum of one bicycle parking facility.
+
+5.106.4.1.3.
+
+For additions or alterations that add 10 or more tenant-occupant vehicular parking spaces, provide secure bicycle parking for 5 percent of the tenant vehicular parking spaces being added, with a minimum of one bicycle parking facility.
+
+5.106.4.1.4.
+
+For new shell buildings in phased projects provide secure bicycle parking for 5 percent of the anticipated tenant-occupant vehicular parking spaces with a minimum of one bicycle parking facility.
+
+5.106.4.1.5.
+
+Acceptable bicycle parking facility for Sections 5.106.4.1.2, 5.106.4.1.3 and 5.106.4.1.4 shall be convenient from the street and shall meet one of the following:
+
+1.Covered, lockable enclosures with permanently anchored racks for bicycles;
+
+2.Lockable bicycle rooms with permanently anchored racks; or
+
+3.Lockable, permanently anchored bicycle lockers.
+
+Note: Additional information on recommended bicycle accommodations may be obtained from Sacramento Area Bicycle Advocates.
+
+5.106.4.2 Bicycle parking.
+
+[DSA-SS] For public schools and community colleges, comply with Sections 5.106.4.2.1 and 5.106.4.2.2.
+
+5.106.4.2.1 Student bicycle parking.
+
+Provide permanently anchored bicycle racks conveniently accessed with a minimum of four two-bike capacity racks per new building.
+
+5.106.4.2.2 Staff bicycle parking.
+
+Provide permanent, secure bicycle parking conveniently accessed with a minimum of two staff bicycle parking spaces per new building. Acceptable bicycle parking facilities shall be convenient from the street or staff parking area and shall meet one of the following:
+
+1.Covered, lockable enclosures with permanently anchored racks for bicycles;
+
+2.Lockable bicycle rooms with permanently anchored racks; or
+
+3.Lockable, permanently anchored bicycle lockers.
+
+
+
+5.106.5.3 Electric vehicle (EV) charging.
+
+[N] Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3.1 and shall be provided in accordance with regulations in the California Building Code and  the California Electrical Code.
+
+
+
+Exceptions:
+
+1.On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:
+
+a.Where there is no local utility power supply.
+
+b.Where the local utility is unable to supply adequate power.
+
+c.Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may adversely impact the construction cost of the project.
+
+2.Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.
+
+5.106.5.3.1 EV capable spaces.
+
+[N] EV capable spaces shall be provided in accordance with Table 5.106.5.3.1 and the following requirements:
+
+1.Raceways complying with the California Electrical Code and no less than 1-inch (25 mm) diameter shall be provided and shall originate at a service panel or a subpanel(s) serving the area, and shall terminate in close proximity to the proposed location of the EV capable space and into a suitable listed cabinet, box, enclosure or equivalent. A common raceway may be used to serve multiple EV capable spaces.
+
+2.A service panel or subpanel(s) shall be provided with panel space and electrical load capacity for a dedicated 208/240 volt, 40-ampere minimum branch circuit for each EV capable space, with delivery of 30-ampere minimum to an installed EVSE at each EVCS.
+
+3.The electrical system and any on-site distribution  transformers shall have sufficient capacity to supply full rated amperage at each EV capable space.
+
+
+
+4.The service panel or subpanel circuit directory shall identify the reserved overcurrent protective device space(s) as “EV CAPABLE”. The raceway termination location shall be permanently and visibly marked as “EV CAPABLE.”
+
+Note: A parking space served by electric vehicle supply equipment or designed as a future EV charging space shall count as at least one standard automobile parking space only for the purpose of complying with any applicable minimum parking space requirements established by an enforcement agency. See Vehicle Code Section 22511.2 for further details.
+Note: A parking space served by electric vehicle supply equipment or designed as a future EV charging space shall count as at least one standard automobile parking space only for the purpose of complying with any applicable minimum parking space requirements established by an enforcement agency. See Vehicle Code Section 22511.2 for further details.
+
+TABLE 5.106.5.3.1
+
+TOTAL NUMBER OF ACTUAL PARKING SPACES	NUMBER OF REQUIRED EV CAPABLE SPACES	NUMBER OF EVCS (EV CAPABLE SPACES PROVIDED WITH EVSE)2
+0–9	0	0
+10–25	4	0
+26–50	8	2
+51–75	13	3
+76–100	17	4
+101–150	25	6
+151–200	35	9
+201 and over	20 percent of total1	25 percent of EV capable spaces11.Calculation for spaces shall be rounded up to the nearest whole number.
+
+2.The number of required EVCS (EV capable spaces provided with EVSE) in column 3 count toward the total number of required EV capable spaces shown in column 2.
+
+5.106.5.3.2 Electric vehicle charging stations (EVCS).
+
+EV capable spaces shall be provided with EVSE to create EVCS in the number indicated in Table 5.106.5.3.1. The EVCS required by Table 5.106.5.3.1 may be provided with EVSE in any combination of Level 2 and Direct Current Fast Charging (DCFC), except that at least one Level 2 EVSE shall be provided.
+
+One EV charger with multiple connectors capable of charging multiple EVs simultaneously shall be permitted if the electrical load capacity required by Section 5.106.5.3.1 for each EV capable space is accumulatively supplied to the EV charger.
+
+The installation of each DCFC EVSE shall be permitted to reduce the minimum number of required EV capable spaces without EVSE by five and reduce proportionally the required electrical load capacity to the service panel or subpanel.
+
+5.106.5.3.3 Use of automatic load management systems (ALMS).
+
+ALMS shall be permitted  for EVCS. When ALMS is installed, the required electrical load capacity specified in Section 5.106.5.3.1 for each EVCS may be reduced when serviced by an EVSE controlled by an ALMS. Each EVSE controlled by an ALMS shall deliver a minimum 30 amperes to an EV when charging one vehicle and shall deliver a minimum 3.3 kW while simultaneously charging multiple EVs.
+
+5.106.5.3.4 5.106.5.3.4 Accessible EVCS.
+
+When EVSE is  installed, accessible EVCS shall be provided in accordance with the California Building Code, Chapter 11B, Section 11B-228.3.
+
+Note: For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).
+Note: For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).
+
+5.106.5.4 Electric vehicle (EV) charging: medium-duty and heavy-duty. [N]
+
+Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE.
+
+Exceptions:
+
+1. On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:
+
+a.Where there is no local utility power supply.
+
+b.Where the local utility is unable to supply adequate power.
+
+c.Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may adversely impact the construction cost of the project.
+
+When EVSE(s) is/are installed, it shall be in accordance with the California Building Code, the California Electrical Code and as follows:
+
+5.106.5.4.1 Electric vehicle charging readiness requirements for warehouses, grocery stores and retail stores with planned off-street loading spaces.
+
+[N] In order to avoid future demolition when adding EV supply and distribution equipment, spare raceway(s) or busway(s) and adequate capacity for transformer(s), service panel(s) or subpanel(s) shall be installed at the time of construction in accordance with the California Electrical Code. Construction plans and specifications shall include, but are not limited to, the following:
+
+1.The transformer, main service equipment and subpanels shall meet the minimum power requirement in Table 5.106.5.4.1 to accommodate the dedicated branch circuits for the future installation of EVSE.
+
+2.The construction documents shall indicate one or more location(s) convenient to the planned offstreet loading space(s) reserved for medium- and heavy-duty ZEV charging cabinets and charging dispensers, and a pathway reserved for routing of conduit from the termination of the raceway(s) or busway(s) to the charging cabinet(s) and dispenser(s), as shown in Table 5.106.5.4.1.
+
+3.Raceway(s) or busway(s) originating at a main service panel or a subpanel(s) serving the area where potential future medium- and heavy-duty EVSE will be located and shall terminate in close proximity to the potential future location of the charging equipment for medium- and heavy-duty vehicles.
+
+4.The raceway(s) or busway(s) shall be of sufficient size to carry the minimum additional system load to the future location of the charging for medium- and heavy-duty ZEVs as shown in Table 5.106.5.4.1.
+
+TABLE 5.106.5.4.1
+
+RACEWAY CONDUIT AND PANEL POWER REQUIREMENTS FOR MEDIUM- AND HEAVY-DUTY EVSE [N]
+
+BUILDING TYPE	BUILDING SIZE (SQ. FT.)	NUMBER OF OFF-STREET LOADING SPACES	ADDITIONAL CAPACITY REQUIRED (KVA) FOR RACEWAY & BUSWAY AND TRANSFORMER & PANEL
+Grocery	10,000 to 90,000	1 or 2	200
+3 or Greater	400
+Greater than 90,000	1 or Greater	400
+Retail	10,000 to 135,000	1 or 2	200
+3 or Greater	400
+Greater than 135,000	1 or Greater	400
+Warehouse	20,000 to 256,000	1 or 2	200
+3 or Greater	400
+Greater than 256,000	1 or Greater	4005.106.8 Light pollution reduction.
+
+[N] Outdoor lighting systems shall be designed and installed to comply with the following:
+
+1.The minimum requirements in the California Energy Code for Lighting Zones 0-4 as defined in Chapter 10, Section 10-114 of the California Administrative Code; and
+
+2.Backlight (B) ratings as defined in IES TM-15-11 (shown in Table A-1 in Chapter 8);
+
+3.Uplight and Glare ratings as defined in California Energy Code (shown in Tables 130.2-A and 130.2-B in Chapter 8) and
+
+4.Allowable BUG ratings not exceeding those shown in Table 5.106.8 [N], or
+
+Comply with a local ordinance lawfully enacted pursuant to Section 101.7, whichever is more stringent.
+
+Exceptions:
+
+1.Luminaires that qualify as exceptions in Sections 130.2(b) and 140.7 of the California Energy Code.
+
+2.Emergency lighting.
+
+3.Building facade meeting the requirements in Table 140.7-B of the California Energy Code, Part 6.
+
+4.Custom lighting features as allowed by the local enforcing agency, as permitted by Section 101.8 Alternate materials, designs and methods of construction.
+
+5.Luminaires with less than 6,200 initial luminaire lumens.
+
+TABLE 5.106.8 [N]
+
+MAXIMUM ALLOWABLE BACKLIGHT, UPLIGHT AND GLARE (BUG) RATINGS1,2
+
+ALLOWABLE RATING	LIGHTING ZONE LZ0	LIGHTING ZONE LZ1	LIGHTING ZONE LZ2	LIGHTING ZONE LZ3	LIGHTING ZONE LZ4
+Maximum Allowable Backlight Rating (B)					
+Luminaire greater than 2 mounting heights (MH) from property line	N/A	No Limit	No Limit	No Limit	No Limit
+Luminaire back hemisphere is 1 – 2 MH from property line	N/A	B2	B3	B4	B4
+Luminaire back hemisphere is 0.5 – 1 MH from property line	N/A	B1	B2	B3	B3
+Luminaire back hemisphere is less than 0.5 MH from property line	N/A	B0	B0	B1	B2
+Maximum Allowable Uplight Rating (U)					
+For area lighting3	N/A	U0	U0	U0	U0
+For all other outdoor lighting, including decorative luminaires	N/A	U1	U2	U3	U4
+Maximum Allowable Glare Rating (G)					
+Luminaire greater than 2 MH from property line	N/A	G1	G2	G3	G4
+Luminaire front hemisphere is 1 – 2 MH from property line	N/A	G0	G1	G1	G2
+Luminaire front hemisphere is 0.5 – 1 MH from property line	N/A	G0	G0	G1	G1
+Luminaire front hemisphere is less than 0.5 MH from property line	N/A	G0	G0	G0	G11.IESNA Lighting Zones 0 are not applicable; refer to Lighting Zones as defined in the California Energy Code and Chapter 10 of the California Administrative Code.
+
+2.For property lines that abut public walkways, bikeways, plazas and parking lots, the property line may be considered to be 5 feet beyond the actual property line for purpose of determining compliance with this section. For property lines that abut public roadways and public transit corridors, the property line may be considered to be the centerline of the public roadway or public transit corridor for the purpose of determining compliance with this section.
+
+3.General lighting luminaires in areas such as outdoor parking, sales or storage lots shall meet these reduced ratings. Decorative luminaires located in these areas shall meet U-value limits for “all other outdoor lighting.”
+
+5.106.8.1 Facing – Backlight.
+
+Luminaires within 2MH of a property line shall be oriented so that the nearest property line is behind the fixture, and shall comply with the backlight rating specified in Table 5.106.8 based on the lighting zone and distance to the nearest point of that property line.
+
+Exception: Corners. If two property lines (or two segments of the same property line) have equidistant points to the luminaire, then the luminaire may be oriented so that the intersection of the two lines (the corner) is directly behind the luminaire. The luminaire shall still use the distance to the nearest point(s) on the property lines to determine the required backlight rating.
+
+5.106.8.2 Facing – Glare.
+
+For luminaires covered by 5.106.8.1, if a property line also exists within or extends into the front hemisphere within 2MH of the luminaire then the luminaire shall comply with the more stringent glare rating specified in Table 5.106.8 based on the lighting zone and distance to the nearest point on the nearest property line within the front hemisphere.
+
+Notes:
+
+1.See also California Building Code, Chapter 12, Section 1205.7 for college campus lighting requirements for parking facilities and walkways.
+
+2.Refer to Chapter 8 (Compliance Forms, Worksheets and Reference Material) for IES TM-15-11 Table A-1, California Energy Code Tables 130.2-A and 130.2-B.
+
+3.Refer to the California Energy Code for requirements for additions and alterations.
+1.See also California Building Code, Chapter 12, Section 1205.7 for college campus lighting requirements for parking facilities and walkways.
+
+2.Refer to Chapter 8 (Compliance Forms, Worksheets and Reference Material) for IES TM-15-11 Table A-1, California Energy Code Tables 130.2-A and 130.2-B.
+
+3.Refer to the California Energy Code for requirements for additions and alterations.
+
+5.106.10 Grading and paving.
+
+Construction plans shall indicate how site grading or a drainage system will manage all surface water flows to keep water from entering buildings. Examples of methods to manage surface water include, but are not limited to, the following:
+
+1.Swales.
+
+2.Water collection and disposal systems.
+
+3.French drains.
+
+4.Water retention gardens.
+
+5.Other water measures which keep surface water away from buildings and aid in groundwater recharge.
+
+Exception: Additions and alterations not altering the drainage path.
+
+5.106.12 Shade trees.
+
+[DSA-SS] Shade trees shall be planted to comply with Sections 5.106.12.1, 5.106.12.2 and 5.106.12.3. Percentages shown shall be measured at noon on the summer solstice. Landscape irrigation necessary to establish and maintain tree health shall comply with Section 5.304.6.
+
+5.106.12.1 Surface parking areas.
+
+Shade tree plantings, minimum No. 10 container size or equal, shall be installed to provide shade over 50 percent of the parking area within 15 years.
+
+
+
+Exceptions: Surface parking area covered by solar photovoltaic shade structures or shade structures with roofing materials that comply with Table A5.106.11.2.2 in Appendix A5 shall be permitted in whole or in part in lieu of shade tree plantings.
+
+5.106.12.2 Landscape areas.
+
+Shade tree plantings, minimum No. 10 container size or equal shall be installed to provide shade of 20% of the landscape area within 15 years.
+
+Exception: Playfields for organized sport activity are not included in the total area calculation.
+
+5.106.12.3 Hardscape areas.
+
+Shade tree plantings, minimum No. 10 container size or equal shall be installed to provide shade over 20 percent of the hardscape area within 15 years.
+
+Exceptions:
+
+1.Walks, hardscape areas covered by solar photovoltaic shade structures or shade structures with roofing materials that comply with Table A5.106.11.2.2 in Appendix A5 shall be permitted in whole or in part in lieu of shade tree plantings.
+
+2.Designated and marked play areas of organized sport activity are not included in the total area calculation.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 5 – NONRESIDENTIAL MANDATORY MEASURES  DIVISION 5.2 – ENERGY EFFICIENCY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+>	Adopt entire CA chapter																						
+	Adopt entire chapter as amended (amended sections listed below)																						
+	Adopt only those sections that are listed below																			X			
+	Chapter/Section																						
+	Division 5.2																			X			Division5.2 – ENERGY EFFICIENCY Division 5.2 – ENERGY EFFICIENCY
+
+SECTION 5.201 GENERAL
+
+5.201.1 Scope.
+
+California Energy Code. For the purposes of mandatory energy efficiency standards in this code, the California Energy Commission will continue to adopt mandatory building standards.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 5 – NONRESIDENTIAL MANDATORY MEASURES DIVISION 5.3 – WATER EFFICIENCY AND CONSERVATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below								X														
+Chapter/Section																						
+5.301.1								X														
+5.302.1 Definitions								X														
+5.303.3.1								X														
+5.303.3.2								X														
+5.303.3.3								X														
+5.303.3.4								X														
+5.303.6								X														
+5.304.6 and subsections		†						X														The state agency does not adopt sections identified by the following symbol: †.
+
+Division5.3 – WATER EFFICIENCY AND CONSERVATION Division 5.3 – WATER EFFICIENCY AND CONSERVATION
+
+SECTION 5.301 GENERAL
+
+5.301.1 Scope.
+
+The provisions of this chapter shall establish the means of conserving water used indoors, outdoors and in wastewater conveyance.
+
+SECTION 5.302 DEFINITIONS
+
+5.302.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+EVAPOTRANSPIRATION ADJUSTMENT FACTOR (ETAF).
+
+GRAYWATER.
+
+METERING FAUCET.
+
+MODEL WATER EFFICIENT LANDSCAPE ORDINANCE (MWELO).
+
+POTABLE WATER.
+
+SPECIAL LANDSCAPE AREA (SLA). [DSA-SS]
+
+SUBMETER.
+
+SECTION 5.303 INDOOR WATER USE
+
+5.303.1 Meters.
+
+Separate submeters or metering devices shall be installed for the uses described in Sections 5.303.1.1 and 5.303.1.2.
+
+5.303.1.1 New buildings or additions in excess of 50,000 square feet.
+
+Separate submeters shall be installed as follows:
+
+1.For each individual leased, rented or other tenant space within the building projected to consume more than 100 gal/day (380 L/day), including, but not limited to, spaces used for laundry or cleaners, restaurant or food service, medical or dental office, laboratory, or beauty salon or barber shop.
+
+2.Where separate submeters for individual building tenants are unfeasible, for water supplied to the following subsystems:
+
+a.Makeup water for cooling towers where flow through is greater than 500 gpm (30 L/s).
+
+b.Makeup water for evaporative coolers greater than 6 gpm (0.04 L/s).
+
+c.Steam and hot-water boilers with energy input more than 500,000 Btu/h (147 kW).
+
+5.303.1.2 Excess consumption.
+
+A separate submeter or metering device shall be provided for any tenant within a new building or within an addition that is projected to consume more than 1,000 gal/day.
+
+5.303.2 Reserved.
+
+5.303.3 Water conserving plumbing fixtures and fittings.
+
+Plumbing fixtures (water closets and urinals) and fittings (faucets and showerheads) shall comply with the following:
+
+5.303.3.1 Water closets.
+
+The effective flush volume of all water closets shall not exceed 1.28 gallons per flush. Tank-type water closets shall be certified to the performance criteria of the US EPA WaterSense Specification for Tank-Type Toilets.
+
+Note: The effective flush volume of dual flush toilets is defined as the composite, average flush volume of two reduced flushes and one full flush.
+
+5.303.3.2 Urinals.
+
+5.303.3.2.1 Wall-mounted urinals.
+
+The effective flush volume of wall-mounted urinals shall not exceed 0.125 gallons per flush.
+
+5.303.3.2.2 Floor-mounted urinals.
+
+The effective flush volume of floor-mounted or other urinals shall not exceed 0.5 gallons per flush.
+
+5.303.3.3 Showerheads.
+
+5.303.3.3.1 Single showerhead.
+
+Showerheads shall have a maximum flow rate of not more than 1.8 gallons per minute at 80 psi. Showerheads shall be certified to the performance criteria of the US EPA WaterSense Specification for Showerheads.
+
+5.303.3.3.2 Multiple showerheads serving one shower.
+
+When a shower is served by more than one showerhead, the combined flow rate of all showerheads and/or other shower outlets controlled by a single valve shall not exceed 1.8 gallons per minute at 80 psi, or the shower shall be designed to allow only one shower outlet to be in operation at a time.
+
+Note: A hand-held shower shall be considered a showerhead.
+
+5.303.3.4 Faucets and fountains.
+
+5.303.3.4.1 Nonresidential lavatory faucets.
+
+Lavatory faucets shall have a maximum flow rate of not more than 0.5 gallons per minute at 60 psi.
+
+5.303.3.4.2 Kitchen faucets.
+
+Kitchen faucets shall have a maximum flow rate of not more than 1.8 gallons per minute at 60 psi. Kitchen faucets may temporarily increase the flow above the maximum rate, but not to exceed 2.2 gallons per minute at 60 psi, and must default to a maximum flow rate of 1.8 gallons per minute at 60 psi.
+
+5.303.3.4.3 Wash fountains.
+
+Wash fountains shall have a maximum flow rate of not more than 1.8 gallons per minute/20 [rim space (inches) at 60 psi].
+
+5.303.3.4.4 Metering faucets.
+
+Metering faucets shall not deliver more than 0.20 gallons per cycle.
+
+5.303.3.4.5 Metering faucets for wash fountains.
+
+Metering faucets for wash fountains shall have a maximum flow rate of not more than 0.20 gallons per cycle/20 [rim space (inches) at 60 psi].
+
+Note: Where complying faucets are unavailable, aerators or other means may be used to achieve reduction.
+
+5.303.3.4.6 Pre-rinse spray valve.
+
+When installed, shall meet the requirements in the California Code of Regulations, Title 20 (Appliance Efficiency Regulations), Section 1605.1(h)(4) Table H-2, Section 1605.3(h)(4)(A), and Section 1607(d)(7), and shall be equipped with an integral automatic shutoff.
+
+FOR REFERENCE ONLY: The following table and code section have been reprinted from the California Code of Regulations, Title 20 (Appliance Efficiency Regulations), Section 1605.1(h)(4) and Section 1605.3(h)(4)(A).
+
+TABLE H-2
+
+STANDARDS FOR COMMERCIAL PRE-RINSE SPRAY VALVES MANUFACTURED ON OR AFTER JANUARY 28, 2019
+
+PRODUCT CLASS [spray force in ounce force (ozf)]	MAXIMUM FLOW RATE (gpm)
+Product Class 1 (≤ 5.0 ozf)	1.00
+Product Class 2 (> 5.0 ozf and ≤ 8.0 ozf)	1.20
+Product Class 3 (> 8.0 ozf)	1.28Title 20 Section 1605.3(h)(4)(A): Commercial prerinse spray valves manufactured on or after January 1, 2006, shall have a minimum spray force of not less than 4.0 ounces-force (ozf) [113 grams-force (gf)].
+
+5.303.4 Commercial kitchen equipment.
+
+5.303.4.1 Food waste disposers.
+
+Disposers shall either modulate the use of water to no more than 1 gpm when the disposer is not in use (not actively grinding food waste/no-load) or shall automatically shut off after no more than 10 minutes of inactivity. Disposers shall use no more than 8 gpm of water.
+
+Note: This code section does not affect local jurisdiction authority to prohibit or require disposer installation.
+
+5.303.5 Areas of addition or alteration.
+
+For those occupancies within the authority of the California Building Standards Commission as specified in Section 103, the provisions of Sections 5.303.3 and 5.303.4 shall apply to new fixtures in additions or areas of alteration to the building.
+
+5.303.6 Standards for plumbing fixtures and fittings.
+
+Plumbing fixtures and fittings shall be installed in accordance with the California Plumbing Code, and shall meet the applicable standards referenced in Table 1701.1 of the California Plumbing Code and in Chapter 6 of this code.
+
+SECTION 5.304 OUTDOOR WATER USE
+
+5.304.1 Outdoor potable water use in landscape areas.
+
+Nonresidential developments shall comply with a local water efficient landscape ordinance or the current California Department of Water Resources’ Model Water Efficient Landscape Ordinance (MWELO), whichever is more stringent.
+
+Notes:
+
+1.The Model Water Efficient Landscape Ordinance (MWELO) is located in the California Code of Regulations, Title 23, Chapter 2.7, Division 2.
+
+2.MWELO and supporting documents, including a water budget calculator, are available at: https://www.water.ca.gov/.
+
+5.304.6 Outdoor potable water use in landscape areas.
+
+For public schools and community colleges, landscape projects as described in Sections 5.304.6.1 and 5.304.6.2 shall comply with the California Department of Water Resources Model Water Efficient Landscape Ordinance (MWELO) commencing with Section 490 of Chapter 2.7, Division 2, Title 23, California Code of Regulations, except that the evapotranspiration adjustment factor (ETAF) shall be 0.65 with an additional water allowance for special landscape areas (SLA) of 0.35.
+
+Exception: Any project with an aggregate landscape area of 2,500 square feet or less may comply with the prescriptive measures contained in Appendix D of the MWELO.
+
+5.304.6.1 Newly constructed landscapes.
+
+New construction projects with an aggregate landscape area equal to or greater than 500 square feet.
+
+5.304.6.2 Rehabilitated landscapes.
+
+Rehabilitated landscape projects with an aggregate landscape area equal to or greater than 1,200 square feet.
+
+SECTION 5.305 WATER REUSE SYSTEMS
+
+(Reserved)
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE CHAPTER 5 – NONRESIDENTIAL MANDATORY MEASURES DIVISION 5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below								X														
+Chapter/Section																						
+5.401.1								X														
+5.402.1 Definitions								X														
+5.407 and subsections								X														
+5.408.1 and subsections								X														
+5.410.1								X														
+5.410.1.2								X														Division5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY Division 5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+SECTION 5.401 GENERAL
+
+5.401.1 Scope.
+
+The provisions of this chapter shall outline means of achieving material conservation and resource efficiency through protection of buildings from exterior moisture, construction waste diversion, employment of techniques to reduce pollution through recycling of materials, and building commissioning or testing and adjusting.
+
+SECTION 5.402 DEFINITIONS
+
+5.402.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+ADJUST.
+
+BALANCE.
+
+BUILDING COMMISSIONING.
+
+ORGANIC WASTE.
+
+TEST.
+
+SECTION 5.403 FOUNDATION SYSTEMS  (Reserved)
+
+SECTION 5.404 EFFICIENT FRAMING TECHNIQUES
+
+(Reserved)
+
+SECTION 5.405 MATERIAL SOURCES
+
+(Reserved)
+
+SECTION 5.406 ENHANCED DURABILITY AND REDUCED MAINTENANCE  (Reserved)
+
+SECTION 5.407 WATER RESISTANCE AND MOISTURE MANAGEMENT
+
+5.407.1 Weather protection.
+
+Provide a weather-resistant exterior wall and foundation envelope as required by California Building Code Section 1402.2 (Weather Protection), manufacturer’s installation instructions or local ordinance, whichever is more stringent.
+
+5.407.2 Moisture control.
+
+Employ moisture control measures by the following methods.
+
+5.407.2.1 Sprinklers.
+
+Design and maintain landscape irrigation systems to prevent spray on structures.
+
+5.407.2.2 Entries and openings.
+
+Design exterior entries and/or openings subject to foot traffic or wind-driven rain to prevent water intrusion into buildings as follows:
+
+5.407.2.2.1 Exterior door protection.
+
+Primary exterior entries shall be covered to prevent water intrusion by using nonabsorbent floor and wall finishes within at least 2 feet around and perpendicular to such openings plus at least one of the following:
+
+1.An installed awning at least 4 feet in depth.
+
+2.The door is protected by a roof overhang at least 4 feet in depth.
+
+3.The door is recessed at least 4 feet.
+
+4.Other methods which provide equivalent protection.
+
+5.407.2.2.2 Flashing.
+
+Install flashings integrated with a drainage plane.
+
+SECTION 5.408 CONSTRUCTION WASTE REDUCTION, DISPOSAL AND RECYCLING
+
+5.408.1 Construction waste management.
+
+Recycle and/or salvage for reuse a minimum of 65 percent of the nonhazardous construction and demolition waste in accordance with Section 5.408.1.1, 5.408.1.2 or 5.408.1.3; or meet a local construction and demolition waste management ordinance, whichever is more stringent.
+
+5.408.1.1 Construction waste management plan.
+
+Where a local jurisdiction does not have a construction and demolition waste management ordinance that is more stringent, submit a construction waste management plan that
+
+1.Identifies the construction and demolition waste materials to be diverted from disposal by efficient usage, recycling, reuse on the project or salvage for future use or sale.
+
+2.Determines if construction and demolition waste materials will be sorted on-site (source-separated) or bulk mixed (single stream).
+
+3.Identifies diversion facilities where construction and demolition waste material collected will be taken.
+
+4.Specifies that the amount of construction and demolition waste materials diverted shall be calculated by weight or volume, but not by both.
+
+5.408.1.2 Waste management company.
+
+Utilize a waste management company that can provide verifiable documentation that the percentage of construction and demolition waste material diverted from the landfill complies with this section.
+
+Note: The owner or contractor shall make the determination if the construction and demolition waste material will be diverted by a waste management company.
+
+Exceptions to Sections 5.408.1.1 and 5.408.1.2:
+
+1.Excavated soil and land-clearing debris.
+
+2.Alternate waste reduction methods developed by working with local agencies if diversion or recycle facilities capable of compliance with this item do not exist.
+
+3.Demolition waste meeting local ordinance or calculated in consideration of local recycling facilities and markets.
+
+5.408.1.3 Waste stream reduction alternative.
+
+The combined weight of new construction disposal that does not exceed two pounds per square foot of building area may be deemed to meet the 65 percent minimum requirement as approved by the enforcing agency.
+
+5.408.1.4 Documentation.
+
+Documentation shall be provided to the enforcing agency which demonstrates compliance with Sections 5.408.1.1 through 5.408.1.3. The waste management plan shall be updated as necessary and shall be accessible during construction for examination by the enforcing agency.
+
+Notes:
+
+1.Sample forms found in “A Guide to the California Green Building Standards Code (Nonresidential)” located at https://www.dgs.ca.gov/BSC/Resources/Page-Content/Building-Standards-CommissionResources-List-Folder/CALGreen may be used to assist in documenting compliance with the waste management plan.
+
+2.Mixed construction and demolition debris (C&D) processors can be located at the California Department of Resources Recycling and Recovery (CalRecycle).
+
+5.408.2 Universal waste.
+
+[A] Additions and alterations to a building or tenant space that meet the scoping provisions in Section 301.3 for nonresidential additions and alterations, shall require verification that Universal Waste items such as fluorescent lamps and ballast and mercury containing thermostats as well as other California prohibited Universal Waste materials are disposed of properly and are diverted from landfills. A list of prohibited Universal Waste materials shall be included in the construction documents.
+
+Note: Refer to the Universal Waste Rule link at: https://dtsc.ca.gov/universalwaste/
+
+5.408.3 Excavated soil and land clearing debris.
+
+100 percent of trees, stumps, rocks and associated vegetation and soils resulting primarily from land clearing shall be reused or recycled. For a phased project, such material may be stockpiled on site until the storage site is developed.
+
+Exception: Reuse, either on-or off-site, of vegetation or soil contaminated by disease or pest infestation.
+
+Notes:
+
+1.If contamination by disease or pest infestation is suspected, contact the County Agricultural Commissioner and follow its direction for recycling or disposal of the material. (www.cdfa.ca.gov/exec/county/county_contacts.html)
+
+2.For a map of known pest and/or disease quarantine zones, consult with the California Department of Food and Agriculture. (www.cdfa.ca.gov)
+
+SECTION 5.409 LIFE CYCLE ASSESSMENT
+
+(Reserved)
+
+SECTION 5.410 BUILDING MAINTENANCE AND OPERATION
+
+5.410.1 Recycling by occupants.
+
+Provide readily accessible areas that serve the entire building and are identified for the depositing, storage and collection of non-hazardous materials for recycling, including (at a minimum) paper, corrugated cardboard, glass, plastics, organic waste and metals, or meet a lawfully enacted local recycling ordinance, if more restrictive.
+
+Exception: Rural jurisdictions that meet and apply for the exemption in Public Resources Code 42649.82 (a)(2)(A) et seq. shall also be exempt from the organic waste portion of this section.
+
+5.410.1.1 Additions.
+
+All additions conducted within a 12-month period under single or multiple permits, resulting in an increase of 30 percent or more in floor area, shall provide recycling areas on site.
+
+Exception: Additions within a tenant space resulting in less than a 30-percent increase in the tenant space floor area.
+
+5.410.1.2 Sample ordinance.
+
+Space allocation for recycling areas shall comply with Chapter 18, Part 3, Division 30 of the Public Resources Code. Chapter 18 is known as the California Solid Waste Reuse and Recycling Access Act of 1991 (Act).
+
+Note: A sample ordinance for use by local agencies may be found in Appendix A of the document at the CalRecycle’s web site.
+
+5.410.2 Commissioning.
+
+[N] New buildings 10,000 square feet and over. For new buildings 10,000 square feet and over, building commissioning shall be included in the design and construction processes of the building project to verify that the building systems and components meet the owner’s or owner representative’s project requirements. Commissioning shall be performed in accordance with this section by trained personnel with experience on projects of comparable size and complexity. For I-occupancies that are not regulated by OSHPD or for I-occupancies and L-occupancies that are not regulated by the California Energy Code Section 100.0 Scope, all requirements in Sections 5.410.2 through 5.410.2.6 shall apply.
+
+Note: For energy-related systems under the scope (Section 100) of the California Energy Code, including heating, ventilation, air conditioning (HVAC) systems and controls, indoor lighting systems and controls, as well as water heating systems and controls, refer to California Energy Code Section 120.8 for commissioning requirements.
+
+Commissioning requirements shall include:
+
+1.Owner’s or owner representative’s project requirements.
+
+2.Basis of design.
+
+3.Commissioning measures shown in the construction documents.
+
+4.Commissioning plan.
+
+5.Functional performance testing.
+
+6.Documentation and training.
+
+7.Commissioning report.
+
+Exceptions:
+
+1.Unconditioned warehouses of any size.
+
+2.Areas less than 10,000 square feet used for offices or other conditioned accessory spaces within unconditioned warehouses.
+
+3.Tenant improvements less than 10,000 square feet as described in Section 303.1.1.
+
+4.Open parking garages of any size, or open parking garage areas, of any size, within a structure.
+
+Note: For the purposes of this section, unconditioned shall mean a building, area or room which does not provide heating and or air conditioning.
+
+Informational Notes:
+
+1.IAS AC 476 is an accreditation criteria for organizations providing training and/or certification of commissioning personnel. AC 476 is available to the Authority Having Jurisdiction as a reference for qualifications of commissioning personnel. AC 476 does not certify individuals to conduct functional performance tests or to adjust and balance systems.
+
+2.Functional performance testing for heating, ventilation, air conditioning systems and lighting controls must be performed in compliance with the California Energy Code.
+
+5.410.2.1 Owner’s or Owner representative’s Project Requirements (OPR).
+
+[N] The expectations and requirements of the building appropriate to its phase shall be documented before the design phase of the project begins. This documentation shall include the following:
+
+1.Environmental and sustainability goals.
+
+2.Building sustainable goals.
+
+3.Indoor environmental quality requirements.
+
+4.Project program, including facility functions and hours of operation, and need for after hours operation.
+
+5.Equipment and systems expectations.
+
+6.Building occupant and operation and maintenance (O&M) personnel expectations.
+
+5.410.2.2 Basis of Design (BOD).
+
+[N] A written explanation of how the design of the building systems meets the OPR shall be completed at the design phase of the building project. The Basis of Design document shall cover the following systems:
+
+1.Renewable energy systems.
+
+2.Landscape irrigation systems.
+
+3.Water reuse systems.
+
+5.410.2.3 Commissioning plan.
+
+[N] Prior to permit issuance a commissioning plan shall be completed to document how the project will be commissioned. The commissioning plan shall include the following:
+
+1.General project information.
+
+2.Commissioning goals.
+
+3.Systems to be commissioned. Plans to test systems and components shall include:
+
+a.An explanation of the original design intent.
+
+b.Equipment and systems to be tested, including the extent of tests.
+
+c.Functions to be tested.
+
+d.Conditions under which the test shall be performed.
+
+e.Measurable criteria for acceptable performance.
+
+4.Commissioning team information.
+
+5.Commissioning process activities, schedules and responsibilities. Plans for the completion of commissioning shall be included.
+
+5.410.2.4 Functional performance testing.
+
+[N] Functional performance tests shall demonstrate the correct installation and operation of each component, system and system- to-system interface in accordance with the approved plans and specifications. Functional performance testing reports shall contain information addressing each of the building components tested, the testing methods utilized, and include any readings and adjustments made.
+
+5.410.2.5 Documentation and training.
+
+[N] A systems manual and systems operations training are required, including Occupational Safety and Health Act (OSHA) requirements in California Code of Regulations (CCR), Title 8, Section 5142, and other related regulations.
+
+5.410.2.5.1 Systems manual.
+
+[N] Documentation of the operational aspects of the building shall be completed within the systems manual and delivered to the building owner or representative. The systems manual shall include the following:
+
+1.Site information, including facility description, history and current requirements.
+
+2.Site contact information.
+
+3.Basic operations and maintenance, including general site operating procedures, basic troubleshooting, recommended maintenance requirements, site events log.
+
+4.Major systems.
+
+5.Site equipment inventory and maintenance notes.
+
+6.A copy of verifications required by the enforcing agency or this code.
+
+7.Other resources and documentation, if applicable.
+
+5.410.2.5.2 Systems operations training.
+
+[N] A program for training of the appropriate maintenance staff for each equipment type and/or system shall be developed and documented in the commissioning report and shall include the following:
+
+1.System/equipment overview (what it is, what it does and with what other systems and/or equipment it interfaces).
+
+2.Review and demonstration of servicing/preventive maintenance.
+
+3.Review of the information in the systems manual.
+
+4.Review of the record drawings on the system/equipment.
+
+5.410.2.6 Commissioning report.
+
+[N] A report of commissioning process activities undertaken through the design and construction phases of the building project shall be completed and provided to the owner or representative.
+
+5.410.4 Testing and adjusting. New buildings less than 10,000 square feet.
+
+Testing and adjusting of systems shall be required for new buildings less than 10,000 square feet or new systems to serve an addition or alteration subject to Section 303.1.
+
+5.410.4.1 (Reserved)
+
+Note: For energy-related systems under the scope (Section 100) of the California Energy Code, including heating, ventilation, air conditioning (HVAC) systems and controls, indoor lighting system and controls, as well as water heating systems and controls, refer to California Energy Code Section 120.8 for commissioning requirements and Sections 120.5, 120.6, 130.4 and 140.9(b)3 for additional testing requirements of specific systems.
+
+5.410.4.2 Systems.
+
+Develop a written plan of procedures for testing and adjusting systems. Systems to be included for testing and adjusting shall include, as applicable to the project:
+
+1.Renewable energy systems.
+
+2.Landscape irrigation systems.
+
+3.Water reuse systems.
+
+5.410.4.3 Procedures.
+
+Perform testing and adjusting procedures in accordance with manufacturer's specifications and applicable standards on each system.
+
+5.410.4.3.1 HVAC balancing.
+
+In addition to testing and adjusting, before a new space-conditioning system serving a building or space is operated for normal use, balance the system in accordance with the procedures defined by the Testing Adjusting and Balancing Bureau National Standards; the National Environmental Balancing Bureau Procedural Standards; Associated Air Balance Council National Standards or as approved by the enforcing agency.
+
+5.410.4.4 Reporting.
+
+After completion of testing, adjusting and balancing, provide a final report of testing signed by the individual responsible for performing these services.
+
+5.410.4.5 Operation and maintenance (O & M) manual.
+
+Provide the building owner or representative with detailed operating and maintenance instructions and copies of guaranties/warranties for each system. O & M instructions shall be consistent with OSHA requirements in CCR, Title 8, Section 5142, and other related regulations.
+
+5.410.4.5.1 Inspections and reports.
+
+Include a copy of all inspection verifications and reports required by the enforcing agency.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 5 – NONRESIDENTIAL MANDATORY MEASURES  DIVISION 5.5 – ENVIRONMENTAL QUALITY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below								X														
+Chapter/Section																						
+5.501.1								X														
+5.502.1 Definitions								X														
+5.504.3								X														
+5.504.4								X														
+5.504.4.1								X														
+Table 5.504.4.1								X														
+Table 5.504.4.2								X														
+5.504.4.3								X														
+5.504.4.3.1								X														
+Table 5.504.4.3								X														
+5.504.4.3.2								X														
+5.504.4.4 and subsections								X														
+5.504.4.5								X														
+Table 5.504.4.5								X														
+5.504.4.6								X														
+5.504.4.7 and subsections								X														
+5.504.4.8 and subsections								X														
+5.504.5.3								X														
+5.505								X														
+5.506.1								X														
+5.506.3		†						X														
+5.507.4 and subsections								X														
+5.508.1 and subsections								X														The state agency does not adopt sections identified by the following symbol: †.
+
+Division5.5 – ENVIRONMENTAL QUALITY Division 5.5 – ENVIRONMENTAL QUALITY
+
+SECTION 5.501 GENERAL
+
+5.501.1 Scope.
+
+The provisions of this chapter shall outline means of reducing the quantity of air contaminants that are odorous, irritating and/or harmful to the comfort and well-being of a building’s installers, occupants and neighbors.
+
+SECTION 5.502 DEFINITIONS
+
+5.502.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+ARTERIAL HIGHWAY.
+
+A-WEIGHTED SOUND LEVEL (dBA).
+
+1 BTU/HOUR.
+
+COMMUNITY NOISE EQUIVALENT LEVEL (CNEL).
+
+COMPOSITE WOOD PRODUCTS.
+
+DAY-NIGHT AVERAGE SOUND LEVEL (Ldn).
+
+DECIBEL (dB).
+
+ENERGY EQUIVALENT (NOISE) LEVEL (Leq).
+
+EXPRESSWAY.
+
+FREEWAY.
+
+GLOBAL WARMING POTENTIAL (GWP).
+
+GLOBAL WARMING POTENTIAL VALUE (GWP VALUE).
+
+HIGH-GWP REFRIGERANT.
+
+LONG RADIUS ELBOW.
+
+LOW-GWP REFRIGERANT.
+
+MERV.
+
+MAXIMUM INCREMENTAL REACTIVITY (MIR).
+
+PRODUCT-WEIGHTED MIR (PWMIR).
+
+PSIG.
+
+REACTIVE ORGANIC COMPOUND (ROC).
+
+SCHRADER ACCESS VALVES.
+
+SHORT RADIUS ELBOW.
+
+SUPERMARKET.
+
+VOC.
+
+SECTION 5.503 FIREPLACES
+
+5.503.1 Fireplaces.
+
+Install only a direct-vent sealed-combustion gas or sealed wood-burning fireplace, or a sealed wood-stove or pellet stove, and refer to residential requirements in the California Energy Code, Title 24, Part 6, Subchapter 7, Section 150. Woodstoves, pellet stoves and fireplaces shall comply with applicable local ordinances.
+
+5.503.1.1 Woodstoves.
+
+Woodstove and pellet stoves shall comply with US EPA New Source Performance Standards (NSPS) emission limits as applicable, and shall have a permanent label indicating they are certified to meet the emission limits.
+
+SECTION 5.504 POLLUTANT CONTROL
+
+5.504.1 Temporary ventilation.
+
+The permanent HVAC system shall only be used during construction if necessary to condition the building or areas of addition or alteration within the required temperature range for material and equipment installation. If the HVAC system is used during construction, use return air filters with a Minimum Efficiency Reporting Value (MERV) of 8, based on ASHRAE 52.2-1999, or an average efficiency of 30 percent based on ASHRAE 52.1-1992. Replace all filters immediately prior to occupancy, or, if the building is occupied during alteration, at the conclusion of construction.
+
+5.504.3 Covering of duct openings and protection of mechanical equipment during construction.
+
+At the time of rough installation and during storage on the construction site until final startup of the heating, cooling and ventilating equipment, all duct and other related air distribution component openings shall be covered with tape, plastic, sheetmetal or other methods acceptable to the enforcing agency to reduce the amount of dust, water and debris which may enter the system.
+
+5.504.4 Finish material pollutant control.
+
+Finish materials shall comply with Sections 5.504.4.1 through 5.504.4.6.
+
+5.504.4.1 Adhesives, sealants and caulks.
+
+Adhesives, sealants and caulks used on the project shall meet the requirements of the following standards:
+
+1.Adhesives, adhesive bonding primers, adhesive primers, sealants, sealant primers and caulks shall comply with local or regional air pollution control or air quality management district rules where applicable, or SCAQMD Rule 1168 VOC limits, as shown in Tables 5.504.4.1 and 5.504.4.2. Such products also shall comply with the Rule 1168 prohibition on the use of certain toxic compounds (chloroform, ethylene dichloride, methylene chloride, perchloroethylene and trichloroethylene), except for aerosol products as specified in subsection 2, below.
+
+2.Aerosol adhesives, and smaller unit sizes of adhesives, and sealant or caulking compounds (in units of product, less packaging, which do not weigh more than one pound and do not consist of more than 16 fluid ounces) shall comply with statewide VOC standards and other requirements, including prohibitions on use of certain toxic compounds, of California Code of Regulations, Title 17, commencing with Section 94507.
+
+TABLE 5.504.4.1
+
+ADHESIVE VOC LIMIT1,2
+
+Less Water and Less Exempt Compounds in Grams Per Liter
+
+ARCHITECTURAL APPLICATIONS	CURRENT VOC LIMIT
+Indoor carpet adhesives	50
+Carpet pad adhesives	50
+Outdoor carpet adhesives	150
+Wood flooring adhesive	100
+Rubber floor adhesives	60
+Subfloor adhesives	50
+Ceramic tile adhesives	65
+VCT and asphalt tile adhesives	50
+Drywall and panel adhesives	50
+Cove base adhesives	50
+Multipurpose construction adhesives	70
+Structural glazing adhesives	100
+Single-ply roof membrane adhesives	250
+Other adhesive not specifically listed	50
+SPECIALTY APPLICATIONS	
+PVC welding	510
+CPVC welding	490
+ABS welding	325
+Plastic cement welding	250
+Adhesive primer for plastic	550
+Contact adhesive	80
+Special purpose contact adhesive	250
+Structural wood member adhesive	140
+Top and trim adhesive	250
+SUBSTRATE SPECIFIC APPLICATIONS	
+Metal to metal	30
+Plastic foams	50
+Porous material (except wood)	50
+Wood	30
+Fiberglass	801.If an adhesive is used to bond dissimilar substrates together the adhesive with the highest VOC content shall be allowed.
+
+2.For additional information regarding methods to measure the VOC content specified in this table, see South Coast Air Quality Management District Rule 1168, http://www.arb.ca.gov/DRDB/SC/CURHTML/R1168.PDF.
+
+TABLE 5.504.4.2
+
+SEALANT VOC LIMIT
+
+Less Water and Less Exempt Compounds in Grams per Liter
+
+SEALANTS	CURRENT VOC LIMIT
+Architectural	250
+Marine deck	760
+Nonmembrane roof	300
+Roadway	250
+Single-ply roof membrane	450
+Other	420
+SEALANT PRIMERS	
+Architectural	
+ Nonporous	250
+ Porous	775
+Modified bituminous	500
+Marine deck	760
+Other	750Note: For additional information regarding methods to measure the VOC content specified in these tables, see South Coast Air Quality Management District Rule 1168.
+
+5.504.4.3 Paints and coatings.
+
+Architectural paints and coatings shall comply with VOC limits in Table 1 of the ARB Architectural Coatings Suggested Control Measure, as shown in Table 5.504.4.3, unless more stringent local limits apply. The VOC content limit for coatings that do not meet the definitions for the specialty coatings categories listed in Table 5.504.4.3 shall be determined by classifying the coating as a Flat, Nonflat or Nonflat-High Gloss coating, based on its gloss, as defined in Subsections 4.21, 4.36 and 4.37 of the 2007 California Air Resources Board Suggested Control Measure, and the corresponding Flat, Nonflat or Nonflat-High Gloss VOC limit in Table 5.504.4.3 shall apply.
+
+TABLE 5.504.4.3
+
+VOC CONTENT LIMITS FOR ARCHITECTURAL COATINGS2, 3
+
+Grams of VOC per Liter of Coating, Less Water and Less Exempt Compounds
+
+COATING CATEGORY	CURRENT LIMIT
+Flat coatings	50
+Nonflat coatings	100
+Nonflat-high gloss coatings	150
+SPECIALTY COATINGS	
+Aluminum roof coatings	400
+Basement specialty coatings	400
+Bituminous roof coatings	50
+Bituminous roof primers	350
+Bond breakers	350
+Concrete curing compounds	350
+Concrete/masonry sealers	100
+Driveway sealers	50
+Dry fog coatings	150
+Faux finishing coatings	350
+Fire resistive coatings	350
+Floor coatings	100
+Form-release compounds	250
+Graphic arts coatings (sign paints)	500
+High temperature coatings	420
+Industrial maintenance coatings	250
+Low solids coatings1	120
+Magnesite cement coatings	450
+Mastic texture coatings	100
+Metallic pigmented coatings	500
+Multicolor coatings	250
+Pretreatment wash primers	420
+Primers, sealers and undercoaters	100
+Reactive penetrating sealers	350
+Recycled coatings	250
+Roof coatings	50
+Rust preventative coatings	250
+Shellacs	
+Clear	730
+Opaque	550
+Specialty primers, sealers and undercoaters	100
+Stains	250
+Stone consolidants	450
+Swimming pool coatings	340
+Traffic marking coatings	100
+Tub and tile refinish coatings	420
+Waterproofing membranes	250
+Wood coatings	275
+Wood preservatives	350
+Zinc-rich primers	3401.Grams of VOC per liter of coating, including water and including exempt compounds.
+
+2.The specified limits remain in effect unless revised limits are listed in subsequent columns in the table.
+
+3.Values in this table are derived from those specified by the California Air Resources Board, Architectural Coatings Suggested Control Measure, February 1, 2008. More information is available from the Air Resources Board.
+
+5.504.4.3.1 Aerosol paints and coatings.
+
+Aerosol paints and coatings shall meet the PWMIR Limits for ROC in Section 94522(a)(3) and other requirements, including prohibitions on use of certain toxic compounds and ozone depleting substances, in Sections 94522(c)(2) and (d)(2) of California Code of Regulations, Title 17, commencing with Section 94520; and in areas under the jurisdiction of the Bay Area Air Quality Management District additionally comply with the percent VOC by weight of product limits of Regulation 8 Rule 49.
+
+5.504.4.3.2 Verification.
+
+Verification of compliance with this section shall be provided at the request of the enforcing agency. Documentation may include, but is not limited to, the following:
+
+1.Manufacturer’s product specification
+
+2.Field verification of on-site product containers
+
+5.504.4.4 Carpet systems.
+
+All carpet installed in the building interior shall meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+5.504.4.4.1 Carpet cushion.
+
+All carpet cushion installed in the building interior shall meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+5.504.4.4.2 Carpet adhesive.
+
+All carpet adhesive shall meet the requirements of Table 5.504.4.1.
+
+5.504.4.5 Composite wood products.
+
+Hardwood plywood, particleboard and medium density fiberboard composite wood products used on the interior or exterior of the building shall meet the requirements for formaldehyde as specified in ARB’s Air Toxics Control Measure (ATCM) for Composite Wood (17 CCR 93120 et seq.) Those materials not exempted under the ATCM must meet the specified emission limits, as shown in Table 5.504.4.5.
+
+TABLE 5.504.4.5
+
+FORMALDEHYDE LIMITS1
+
+Maximum Formaldehyde Emissions in Parts per Million
+
+PRODUCT	CURRENT LIMIT
+Hardwood plywood veneer core	0.05
+Hardwood plywood composite core	0.05
+Particleboard	0.09
+Medium density fiberboard	0.11
+Thin medium density fiberboard2	0.131.Values in this table are derived from those specified by the California Air Resources Board, Air Toxics Control Measure for Composite Wood as tested in accordance with ASTM E1333. For additional information, see California Code of Regulations, Title 17, Sections 93120 through 93120.12.
+
+2.Thin medium density fiberboard has a maximum thickness of 5/16 inch (8 mm).
+
+5.504.4.5.1 Early compliance.
+
+Reserved.
+
+5.504.4.5.3 Documentation.
+
+Verification of compliance with this section shall be provided as requested by the enforcing agency. Documentation shall include at least one of the following:
+
+1.Product certifications and specifications.
+
+2.Chain of custody certifications.
+
+3.Product labeled and invoiced as meeting the Composite Wood Products regulation (see CCR, Title 17, Section 93120, et seq.).
+
+4.Exterior grade products marked as meeting the PS-1 or PS-2 standards of the Engineered Wood Association, the Australian AS/NZS 2269 or European 636 3S standards.
+
+5.Other methods acceptable to the enforcing agency.
+
+5.504.4.6 Resilient flooring systems.
+
+Where resilient flooring is installed, at least 80 percent of floor area receiving resilient flooring shall meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+5.504.4.6.1 Verification of compliance.
+
+Documentation shall be provided verifying that resilient flooring materials meet the pollutant emission limits.
+
+5.504.4.7 Thermal insulation.
+
+Comply with the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+5.504.4.7.1 Verification of compliance.
+
+Documentation shall be provided verifying that thermal insulation materials meet the pollutant emission limits.
+
+5.504.4.8 Acoustical ceilings and wall panels.
+
+Comply with the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+5.504.4.8.1 Verification of compliance.
+
+Documentation shall be provided verifying that acoustical finish materials meet the pollutant emission limits.
+
+5.504.5.3 Filters.
+
+In mechanically ventilated buildings, provide regularly occupied areas of the building with air filtration media for outside and return air that provides at least a Minimum Efficiency Reporting Value (MERV) of 13. MERV 13 filters shall be installed prior to occupancy, and recommendations for maintenance with filters of the same value shall be included in the operation and maintenance manual.
+
+Exception: Existing mechanical equipment.
+
+5.504.5.3.1 Labeling.
+
+Installed filters shall be clearly labeled by the manufacturer indicating the MERV rating.
+
+5.504.7 Environmental tobacco smoke (ETS) control.
+
+Where outdoor areas are provided for smoking, prohibit smoking within 25 feet of building entries, outdoor air intakes and operable windows and within the building as already prohibited by other laws or regulations; or as enforced by ordinances, regulations or policies of any city, county, city and county, California Community College, campus of the California State University, or campus of the University of California, whichever are more stringent. When ordinances, regulations or policies are not in place, post signage to inform building occupants of the prohibitions.
+
+SECTION 5.505 INDOOR MOISTURE CONTROL
+
+5.505.1 Indoor moisture control.
+
+Buildings shall meet or exceed the provisions of California Building Code, CCR, Title 24, Part 2, Sections 1202 (Ventilation) and Chapter 14 (Exterior Walls). For additional measures, see Section 5.407.2 of this code.
+
+SECTION 5.506 INDOOR AIR QUALITY
+
+5.506.1 Outside air delivery.
+
+For mechanically or naturally ventilated spaces in buildings, meet the minimum requirements of Section 120.1 (Requirements For Ventilation) of the California Energy Code, or the applicable local code, whichever is more stringent, and Division 1, Chapter 4 of CCR, Title 8.
+
+5.506.2 Carbon dioxide (CO2) monitoring.
+
+For buildings or additions equipped with demand control ventilation, CO2 sensors and ventilation controls shall be specified and installed in accordance with the requirements of the California Energy Code, Section 120.1(c)(4).
+
+5.506.3 Carbon dioxide (CO2) monitoring in classrooms.
+
+(DSA-SS) Each public K-12 school classroom, as listed in Table 120.1-A of the California Energy Code, shall be equipped with a carbon dioxide monitor or sensor that meets the following requirements:
+
+1.The monitor or sensor shall be permanently affixed in a tamper-proof manner in each classroom between 3 and 6 feet (914 mm and 1829 mm) above the floor and at least 5 feet (1524 mm) away from doors and operable windows.
+
+2.When the monitor or sensor is not integral to an Energy Management Control System (EMCS), the monitor or sensor shall display the carbon dioxide readings on the device. When the sensor is integral to an EMCS, the carbon dioxide readings shall be available to and regularly monitored by facility personnel.
+
+3.A monitor shall provide notification through a visual indicator on the monitor when the carbon dioxide levels in the classroom have exceeded 1,100 ppm. A sensor integral to an EMCS shall provide notification to facility personnel through a visual and/or audible indicator when the carbon dioxide levels in the classroom have exceeded 1,100 ppm.
+
+4.The monitor or sensor shall measure carbon dioxide levels at minimum 15-minute intervals and shall maintain a record of previous carbon dioxide measurements of not less than 30 days duration.
+
+5.The monitor or sensor used to measure carbon dioxide levels shall have the capacity to measure carbon dioxide levels with a range of 400 ppm to 2000 ppm or greater.
+
+6.The monitor or sensor shall be certified by the manufacturer to be accurate within 75 ppm at 1,000 ppm carbon dioxide concentration and shall be certified by the manufacturer to require calibration no more frequently than once every 5 years.
+
+SECTION 5.507 ENVIRONMENTAL COMFORT
+
+5.507.4 Acoustical control.
+
+Employ building assemblies and components with Sound Transmission Class (STC) values determined in accordance with ASTM E90 and ASTM E413 or Outdoor-Indoor Sound Transmission Class (OITC) determined in accordance with ASTM E1332, using either the prescriptive or performance method in Section 5.507.4.1 or 5.507.4.2.
+
+Exception: Buildings with few or no occupants or where occupants are not likely to be affected by exterior noise, as determined by the enforcement authority, such as factories, stadiums, storage, enclosed parking structures and utility buildings.
+
+Exception: [DSA-SS] For public schools and community colleges, the requirements of this section and all subsections apply only to new construction.
+
+5.507.4.1 Exterior noise transmission, prescriptive method.
+
+Wall and roof-ceiling assemblies exposed to the noise source making up the building or addition envelope or altered envelope shall meet a composite STC rating of at least 50 or a composite OITC rating of no less than 40, with exterior windows of a minimum STC of 40 or OITC of 30 in the following locations:
+
+1.Within the 65 CNEL noise contour of an airport.
+
+Exceptions:
+
+1.Ldn or CNEL for military airports shall be determined by the facility Air Installation Compatible Land Use Zone (AICUZ) plan.
+
+2.Ldn or CNEL for other airports and heliports for which a land use plan has not been developed shall be determined by the local general plan noise element.
+
+2.Within the 65 CNEL or Ldn noise contour of a freeway or expressway, railroad, industrial source or fixed-guideway source as determined by the Noise Element of the General Plan.
+
+5.507.4.1.1 Noise exposure where noise contours are not readily available.
+
+Buildings exposed to a noise level of 65 dB Leq-1-hr during any hour of operation shall have building, addition or alteration exterior wall and roof-ceiling assemblies exposed to the noise source meeting a composite STC rating of at least 45 (or OITC 35), with exterior windows of a minimum STC of 40 (or OITC 30).
+
+5.507.4.2 Performance method.
+
+For buildings located as defined in Section 5.507.4.1 or 5.507.4.1.1, wall and roof-ceiling assemblies exposed to the noise source making up the building or addition envelope or altered envelope shall be constructed to provide an interior noise environment attributable to exterior sources that does not exceed an hourly equivalent noise level (Leq-1Hr) of 50 dBA in occupied areas during any hour of operation.
+
+5.507.4.2.1 Site features.
+
+Exterior features such as sound walls or earth berms may be utilized as appropriate to the building, addition or alteration project to mitigate sound migration to the interior.
+
+5.507.4.2.2 Documentation of compliance.
+
+An acoustical analysis documenting complying interior sound levels shall be prepared by personnel approved by the architect or engineer of record.
+
+5.507.4.3 Interior sound transmission.
+
+Wall and floor-ceiling assemblies separating tenant spaces and tenant spaces and public places shall have an STC of at least 40.
+
+Note: Examples of assemblies and their various STC ratings may be found at the California Office of Noise Control: http://www.toolbase.org/PDF/CaseStudies/stc_icc_ratings.pdf.
+
+SECTION 5.508 OUTDOOR AIR QUALITY
+
+5.508.1 Ozone depletion and greenhouse gas reductions.
+
+Installations of HVAC, refrigeration and fire suppression equipment shall comply with Sections 5.508.1.1 and 5.508.1.2.
+
+5.508.1.1 Chlorofluorocarbons (CFCs).
+
+Install HVAC, refrigeration and fire suppression equipment that do not contain CFCs.
+
+5.508.1.2 Halons.
+
+Install HVAC, refrigeration and fire suppression equipment that do not contain Halons.
+
+5.508.2 Supermarket refrigerant leak reduction.
+
+New commercial refrigeration systems shall comply with the provisions of this section when installed in retail food stores 8,000 square feet or more conditioned area, and that utilize either refrigerated display cases, or walk-in coolers or freezers connected to remote compressor units or condensing units. The leak reduction measures apply to refrigeration systems containing high-global-warming potential (high-GWP) refrigerants with a GWP of 150 or greater. New refrigeration systems include both new facilities and the replacement of existing refrigeration systems in existing facilities.
+
+Exception: Refrigeration systems containing low-global warming potential (low-GWP) refrigerant with a GWP value less than 150 are not subject to this section. Low-GWP refrigerants are nonozone-depleting refrigerants that include ammonia, carbon dioxide (CO2), and potentially other refrigerants.
+
+5.508.2.1 Refrigerant piping.
+
+Piping compliant with the California Mechanical Code shall be installed to be accessible for leak protection and repairs. Piping runs using threaded pipe, copper tubing with an outside diameter (OD) less than 1/4 inch, flared tubing connections and short radius elbows shall not be used in refrigerant systems except as noted below.
+
+5.508.2.1.1 Threaded pipe.
+
+Threaded connections are permitted at the compressor rack.
+
+5.508.2.1.2 Copper pipe.
+
+Copper tubing with an OD less than 1/4 inch may be used in systems with a refrigerant charge of 5 pounds or less.
+
+5.508.2.1.2.1 Anchorage.
+
+One-fourth-inch OD tubing shall be securely clamped to a rigid base to keep vibration levels below 8 mils.
+
+5.508.2.1.3 Flared tubing connections.
+
+Double-flared tubing connections may be used for pressure controls, valve pilot lines and oil.
+
+Exception: Single-flared tubing connections may be used with a multiring seal coated with industrial sealant suitable for use with refrigerants and tightened in accordance with manufacturer’s recommendations.
+
+5.508.2.1.4 Elbows.
+
+Short radius elbows are only permitted where space limitations prohibit use of long radius elbows.
+
+5.508.2.2 Valves.
+
+Valves and fittings shall comply with the California Mechanical Code and as follows.
+
+5.508.2.2.1 Pressure relief valves.
+
+For vessels containing high-GWP refrigerant, a rupture disc shall be installed between the outlet of the vessel and the inlet of the pressure relief valve.
+
+5.508.2.2.1.1 Pressure detection.
+
+A pressure gauge, pressure transducer or other device shall be installed in the space between the rupture disc and the relief valve inlet to indicate a disc rupture or discharge of the relief valve.
+
+5.508.2.2.2 Access valves.
+
+Only Schrader access valves with a brass or steel body are permitted for use.
+
+5.508.2.2.2.1 Valve caps.
+
+For systems with a refrigerant charge of 5 pounds or more, valve caps shall be brass or steel and not plastic.
+
+5.508.2.2.2.2 Seal caps.
+
+If designed for it, the cap shall have a neoprene O-ring in place.
+
+5.508.2.2.2.2.1 Chain tethers.
+
+Chain tethers to fit over the stem are required for valves designed to have seal caps.
+
+Exception: Valves with seal caps that are not removed from the valve during stem operation.
+
+5.508.2.3 Refrigerated service cases.
+
+Refrigerated service cases holding food products containing vinegar and salt shall have evaporator coils of corrosion-resistant material, such as stainless steel; or be coated to prevent corrosion from these substances.
+
+5.508.2.3.1 Coil coating.
+
+Consideration shall be given to the heat transfer efficiency of coil coating to maximize energy efficiency.
+
+5.508.2.4 Refrigerant receivers.
+
+Refrigerant receivers with capacities greater than 200 pounds shall be fitted with a device that indicates the level of refrigerant in the receiver.
+
+5.508.2.5 Pressure testing.
+
+The system shall be pressure tested during installation prior to evacuation and charging.
+
+5.508.2.5.1 Minimum pressure.
+
+The system shall be charged with regulated dry nitrogen and appropriate tracer gas to bring system pressure up to 300 psig minimum.
+
+5.508.2.5.2 Leaks.
+
+Check the system for leaks, repair any leaks and retest for pressure using the same gauge.
+
+5.508.2.5.3 Allowable pressure change.
+
+The system shall stand, unaltered, for 24 hours with no more than a +/- one pound pressure change from 300 psig, measured with the same gauge.
+
+5.508.2.6 Evacuation.
+
+The system shall be evacuated after pressure testing and prior to charging.
+
+5.508.2.6.1 First vacuum.
+
+Pull a system vacuum down to at least 1000 microns (+/- 50 microns), and hold for 30 minutes.
+
+5.508.2.6.2 Second vacuum.
+
+Pull a second system vacuum to a minimum of 500 microns and hold for 30 minutes.
+
+5.508.2.6.3 Third vacuum.
+
+Pull a third vacuum down to a minimum of 300 microns, and hold for 24 hours with a maximum drift of 100 microns over a 24-hour period.
+

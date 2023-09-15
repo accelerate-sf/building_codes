@@ -1,0 +1,239 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX K – CONSTRUCTION REQUIREMENTS FOREXISTING AMBULATORY CARE FACILITIES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX K CONSTRUCTION REQUIREMENTS FOREXISTING AMBULATORY CARE FACILITIES
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix K was created with the intent to provide jurisdictions with an option for assessing minimum fire and life safety requirements for buildings containing ambulatory care facilities. While this appendix is written with the intent to apply retroactive minimum standards, it is recognized that the ambulatory care requirements are relatively recent additions to the International Building Code®. For that reason, these requirements are presented as an appendix so that the adopting authority can exercise judgment in the adoption and application of this section. This appendix would also be useful for those local and state jurisdictions that are specifically focused on ensuring the safety of existing ambulatory care facilities by providing minimum criteria that could be used to bring older facilities into compliance with the current standards at the discretion of the adopting jurisdiction. The technical requirements are based on the current International Building Code language, which is consistent with the overall concept of the current federal requirements.
+
+SECTION K101 GENERAL
+
+K101.1 Scope.
+
+The provisions of this chapter shall apply to existing buildings containing ambulatory care facilities in addition to the requirements of Chapter 11. Where the provisions of this chapter conflict with either the construction requirements in Chapter 11 or the construction requirements that applied at the time of construction, the most restrictive provision shall apply.
+
+K101.2 Intent.
+
+The intent of this appendix is to provide a minimum degree of fire and life safety to persons occupying existing buildings containing ambulatory care facilities where such buildings do not comply with the minimum requirements of the California Building Code.
+
+SECTION K102 FIRE SAFETY REQUIREMENTS FOR EXISTING AMBULATORY CARE FACILITIES
+
+K102.1 Separation.
+
+Ambulatory care facilities where the potential exists for four or more care recipients to be incapable of self-preservation at any time, whether rendered incapable by staff or staff has accepted responsibility for a care recipient already incapable, shall be separated from adjacent spaces, corridors or tenants with a fire partition installed in accordance with Section 708 of the California Building Code.
+
+K102.2 Smoke compartments.
+
+Where the aggregate area of one or more ambulatory care facilities is greater than 10,000 square feet (929 m2) on one story, the story shall be provided with a smoke barrier to subdivide the story into not fewer than two smoke compartments. The area of any one such smoke compartment shall be not greater than 22,500 square feet (2092 m2). The travel distance from any point in a smoke compartment to a smoke barrier door shall be not greater than 200 feet (60 960 mm). The smoke barrier shall be installed in accordance with Section 709 of the California Building Code with the exception that smoke barriers shall be continuous from an outside wall to an outside wall, a floor to a floor, or from a smoke barrier to a smoke barrier or a combination thereof.
+
+K102.2.1 Refuge area.
+
+Not less than 30 net square feet (2.8 m2) for each nonambulatory care recipient shall be provided within the aggregate area of corridors, care recipient rooms, treatment rooms, lounge or dining areas and other low-hazard areas within each smoke compartment. Each occupant of an ambulatory care facility shall be provided with access to a refuge area without passing through or utilizing adjacent tenant spaces.
+
+K102.2.2 Smoke barriers.
+
+Smoke barriers shall be constructed in accordance with Sections 422 and 709 of the California Building Code.
+
+Exceptions:
+
+1.Smoke barriers shall be permitted to terminate at an atrium enclosure in accordance with Section 404.6 of the California Building Code.
+
+2.Smoke barriers shall be continuous from an outside wall to an outside wall, a floor to a floor, a smoke barrier to a smoke barrier or a combination thereof.
+
+K102.2.3 Opening protectives.
+
+Openings in smoke barriers shall be protected in accordance with Section 716 of the California Building Code. Opening protectives shall have a minimum fire protection rating of 1/3 hour.
+
+Exception: Existing wired glass vision panels in doors shall be permitted to remain.
+
+K102.2.4 Penetrations.
+
+Penetrations of smoke barriers shall comply with the California Building Code.
+
+Exception: Approved existing materials and methods of construction.
+
+K102.2.5 Joints.
+
+Joints made in or between smoke barriers shall comply with the California Building Code.
+
+Exception: Approved existing materials and methods of construction.
+
+K102.2.6 Duct and air transfer openings.
+
+Penetrations in a smoke barrier by duct and air-transfer openings shall comply with Section 717 of the California Building Code.
+
+Exception: Where existing duct and air-transfer openings in smoke barriers exist without smoke dampers, they shall be permitted to remain. Any changes to existing smoke dampers shall be submitted for review and approved in accordance with Section 717 of the California Building Code.
+
+K102.2.7 Independent egress.
+
+A means of egress shall be provided from each smoke compartment created by smoke barriers without having to return through the smoke compartment from which means of egress originated.
+
+K102.3 Automatic sprinkler system.
+
+An automatic sprinkler system shall be provided in ambulatory care facilities where required by Sections K102.3.1 and K102.3.2.
+
+K102.3.1 Types IIB, IIIB and VB construction.
+
+An automatic sprinkler system shall be provided throughout the entire floor containing an ambulatory care facility in Types IIB, IIIB and VB construction where either of the following conditions exist at any time:
+
+1.Four or more care recipients are rendered incapable of self-preservation.
+
+2.One or more care recipients that are rendered incapable of self-preservation are located at other than the level of exit discharge serving such a facility.
+
+In buildings where ambulatory care is provided on levels other than the level of exit discharge, an automatic sprinkler system shall be installed throughout the entire floor where such care is provided, all floors below and all floors between the level of ambulatory care and the nearest level of exit discharge, including the level of exit discharge.
+
+K102.3.2 High-rise buildings.
+
+In high-rise buildings containing ambulatory care facilities, an automatic sprinkler system shall be provided throughout the entire floor containing an ambulatory care facility where either of the following conditions exist at any time:
+
+1.Four or more care recipients are rendered incapable of self-preservation.
+
+2.One or more care recipients that are rendered incapable of self-preservation are located at other than the level of exit discharge serving such a facility.
+
+In buildings where ambulatory care is provided on levels other than the level of exit discharge, an automatic sprinkler system shall be installed throughout the entire floor where such care is provided, all floors below and all floors between the level of ambulatory care and the nearest level of exit discharge, including the level of exit discharge.
+
+K102.4 Automatic fire alarm system.
+
+Fire areas containing ambulatory care facilities shall be provided with an electronically supervised automatic smoke detection system installed within the ambulatory care facility and in public use areas outside of tenant spaces, including public corridors and elevator lobbies.
+
+Exception: Buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, provided that the occupant notification appliances will activate throughout the notification zones upon sprinkler waterflow.
+
+K102.5 Waste and linen chutes.
+
+In ambulatory care facilities, existing waste and linen chutes shall comply with Sections K102.5.1 through K102.5.5.
+
+K102.5.1 Enclosures.
+
+Chutes shall be enclosed with 1-hour fire-resistance-rated construction. Opening protectives shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+K102.5.2 Chute intakes.
+
+Chute intakes shall comply with Section K102.5.2.1 or K102.5.2.2.
+
+K102.5.2.1 Chute intake direct from corridor.
+
+Where intake to chutes is direct from a corridor, the intake opening shall be equipped with a chute-intake door in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+K102.5.2.2 Chute intake via a chute-intake room.
+
+Where the intake to chutes is accessed through a chuteintake room, the room shall be enclosed with 1-hour fire-resistance-rated construction. Opening protectives for the intake room shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 3/4 hour. Opening protectives for the chute enclosure shall be in accordance with Section K102.5.1.
+
+K102.5.3 Automatic sprinkler system.
+
+Chutes shall be equipped with an approved automatic sprinkler system in accordance with Section 903.2.11.2.
+
+K102.5.4 Chute discharge rooms.
+
+Chutes shall terminate in a dedicated chute discharge room. Such rooms shall be separated from the remainder of the building by not less than 1-hour fire-resistance-rated construction. Opening protectives shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+K102.5.5 Chute discharge protection.
+
+Chute discharges shall be equipped with a self-closing or automatic-closing opening protective in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+SECTION K103 INCIDENTAL USES IN EXISTING AMBULATORY CARE FACILITIES
+
+K103.1 General.
+
+Incidental uses associated with and located within existing ambulatory care facilities required to be separated by Section 422 of the California Building Code, and that generally pose a greater level of risk to such occupancies, shall comply with the provisions of Sections K103.2 through K103.4.2.1. Incidental uses in ambulatory care facilities required to be separated by Section 422 of the California Building Code are limited to those listed in Table K103.1.
+
+TABLE K103.1
+
+INCIDENTAL USES IN EXISTING AMBULATORY CARE FACILITIES
+
+ROOM OR AREA	SEPARATION AND/OR PROTECTION
+Furnace room where any piece of equipment is over 400,000 Btu per hour input	1 hour or provide automatic sprinkler system
+Rooms with boilers where the largest piece of equipment is over 15 psi and 10 horsepower	1 hour or provide automatic sprinkler system
+Refrigerant machinery room	1 hour or provide automatic sprinkler system
+Hydrogen fuel gas rooms, not classified as Group H	1 hour
+Incinerator rooms	2 hours and provide automatic sprinkler system
+Laboratories not classified as Group H	1 hour or provide automatic sprinkler system
+Laundry rooms over 100 square feet	1 hour or provide automatic sprinkler system
+Waste and linen collection rooms with containers with total volume of 10 cubic feet or greater	1 hour or provide automatic sprinkler system
+Storage rooms greater than 100 square feet	1 hour or provide automatic sprinkler system
+Stationary storage battery systems having a liquid electrolyte capacity of more than 50 gallons for flooded lead-acid, nickel cadmium or VRLA, or more than 1,000 pounds for lithium-ion and lithium metal polymer used for facility standby power, emergency power or uninterruptible power supplies	1 hourFor SI: 1 square foot = 0.0929 m2, 1 pound per square inch (psi) = 6.9 kPa, 1 British thermal unit (Btu) per hour = 0.293 watts, 1 horsepower = 746 watts, 1 gallon = 3.785 L.
+
+K103.2 Occupancy classification.
+
+Incidental uses shall not be individually classified in accordance with Section 302.1 of the California Building Code. Incidental uses shall be included in the building occupancies in which they are located.
+
+K103.3 Area limitations.
+
+Incidental uses shall not occupy more than 10 percent of the building area of the story in which they are located.
+
+K103.4 Separation and protection.
+
+The incidental uses listed in Table K103.1 shall be separated from the remainder of the building or be equipped with an automatic sprinkler system, or both, in accordance with the provisions of that table.
+
+K103.4.1 Separation.
+
+Where Table K103.1 specifies a fire-resistance-rated separation, the incidental uses shall be separated from the remainder of the building in accordance with Section 509.4.1 of the California Building Code.
+
+K103.4.2 Protection.
+
+Where Table K103.1 permits an automatic sprinkler system without a fire-resistance-rated separation, the incidental uses shall be separated from the remainder of the building by construction capable of resisting the passage of smoke in accordance with Section 509.4.2 of the California Building Code.
+
+K103.4.2.1 Protection limitation.
+
+Except as otherwise specified in Table K103.1 for certain incidental uses, where an automatic sprinkler system is provided in accordance with Table K103.1, only the space occupied by the incidental use need be equipped with such a system.
+
+SECTION K104 MEANS OF EGRESS REQUIREMENTS FOR EXISTING AMBULATORY CARE FACILITIES
+
+K104.1 Size of doors.
+
+The required capacity of each door opening shall be sufficient for the occupant load thereof and shall provide a minimum clear opening width of 28 inches (711 mm). Where this section requires a minimum clear opening width of 28 inches (711 mm) and a door opening includes two door leaves without a mullion, one leaf shall provide a minimum clear opening width of 28 inches (711 mm). In ambulatory care facilities, doors serving as means of egress from patient treatment rooms shall provide a minimum clear opening width of 32 inches (813 mm). The maximum width of a swinging door leaf shall be 48 inches (1219 mm) nominal. The minimum clear opening height of doors shall be 80 inches (2032 mm).
+
+Exceptions:
+
+1.Door openings to storage closets less than 10 square feet (0.93 m2) in area shall not be limited by the minimum clear opening width.
+
+2.The width of door leaves in revolving doors that comply with Section 1010.3.1 shall not be limited.
+
+3.The maximum width of door leaves in revolving doors that comply with Section 1010.3.2 shall not be limited.
+
+4.Exit access doors serving a room not larger than 70 square feet (6.5 m2) shall have a door leaf width of not less than 24 inches (610 mm).
+
+5.Door closers and door stops shall be permitted to be 78 inches (1981 mm) minimum above the floor.
+
+K104.2 Corridor and aisle width.
+
+Corridor width shall be as determined in Section 1005.1 and this section. The minimum width of corridors and aisles that serve gurney traffic in areas where patients receive care that causes them to be incapable of self-preservation shall be not less than 72 inches (1829 mm).
+
+K104.3 Existing elevators.
+
+Existing elevators, escalators, dumbwaiters and moving walks shall comply with the requirements of Sections K104.3.1 and K104.3.2.
+
+K104.3.1 Elevators, escalators, dumbwaiters and moving walks.
+
+Existing elevators, escalators, dumbwaiters and moving walks in ambulatory care facilities required to be separated by Section 422 of the California Building Code shall comply with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+K104.3.2 Elevator emergency operation.
+
+Existing elevators with a travel distance of 25 feet (7620 mm) or more above or below the main floor or other level of a building and intended to serve the needs of emergency personnel for fire-fighting or rescue purposes shall be provided with emergency operation in accordance with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+SECTION K105 REFERENCED STANDARDS
+
+K105.1 General.
+
+See Table K105.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE K105.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+CBC—22	California Building Code	K101.2, K102.1, K102.2, K102.2.2,K102.2.3, K102.2.4,K102.2.5, K102.2.6,K102.5.1, K102.5.2.1,K102.5.2.2, K102.5.4,K102.5.5, K103.1, K103.2, K103.4.1,K103.4.2, K104.3.1
+ASME A17.3—2020	California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders	K104.3.1, K104.3.2

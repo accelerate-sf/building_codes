@@ -1,0 +1,2233 @@
+SUBCHAPTER 1 ALL OCCUPANCIES—GENERAL PROVISIONS
+
+SECTION 100.0 SCOPE
+
+(a) Buildings covered. The provisions of Part 6 apply to all buildings:
+
+1.That are of Occupancy Group A, B, E, F, H, I, M, R, S or U; and
+
+2.For which an application for a building permit or renewal of an existing permit is filed (or is required by law to be filed) on or after the effective date of the provisions, or which are constructed by a governmental agency; and
+
+3.That are:
+
+A.Unconditioned; or
+
+B. Indirectly or directly conditioned, or process spaces.
+
+Exception 1 to Section 100.0(a): Qualified historic buildings as regulated by the California Historic Building Code (Title 24, Part 8). Lighting in qualified historic buildings shall comply with the applicable requirements in Section 140.6(a)3Q.
+
+Exception 2 to Section 100.0(a): Building departments, at their discretion, may exempt temporary buildings, temporary outdoor lighting or temporary lighting in an unconditioned building, or structures erected in response to a natural disaster. Temporary buildings or structures shall be completely removed upon the expiration of the time limit stated in the permit.
+
+Exception 3 to Section 100.0(a): Buildings in Occupancy Group I-3 and I-4.
+
+(b) Parts of buildings regulated. The provisions of Part 6 apply to the building envelope, space-conditioning systems, water-heating systems, pool and spas, solar ready buildings, indoor lighting systems of buildings, outdoor lighting systems, electrical power distribution systems, and signs located either indoors or outdoors, in buildings that are:
+
+1.Covered by Section 100.0(a); and
+
+2.Set forth in Table 100.0-A.
+
+(c) Habitable stories.
+
+1.All conditioned space in a story shall comply with Part 6, whether or not the story is a habitable space.
+
+2.All unconditioned space in a story shall comply with the lighting requirements of Part 6, whether or not the story is a habitable space.
+
+(d) Outdoor lighting and indoor and outdoor signs. The provisions of Part 6 apply to outdoor lighting systems and to signs located either indoors or outdoors as set forth in Table 100.0-A.
+
+(e) Sections applicable to particular buildings. Table 100.0-A and this subsection list the provisions of Part 6 that are applicable to different types of buildings covered by Section 100.0(a).
+
+1. All buildings. Sections 100.0 through 110.12 apply to all buildings.
+
+Exception to Section 100.0(e)1: Spaces or requirements not listed in Table 100.0-A.
+
+2. Newly constructed buildings.
+
+A. All newly constructed buildings. Sections 110.0 through 110.12 apply to all newly constructed buildings within the scope of Section 100.0(a). In addition, newly constructed buildings shall meet the requirements of Subsections B, C, D or E, as applicable.
+
+B. Nonresidential and hotel/motel buildings that are  mechanically heated or mechanically cooled.
+
+i. Sections applicable. Sections 120.0 through 140.8 apply to newly constructed nonresidential buildings and hotels/motels that are mechanically heated or mechanically cooled.
+
+ii. Compliance approaches. In order to comply with Part 6, newly constructed nonresidential buildings and hotels/motels that are mechanically heated or mechanically cooled must meet the requirements of:
+
+a.Mandatory measures: The applicable provisions of Sections 120.0 through 130.5; and
+
+b. Either:
+
+(i) Performance approach: Section 140.1; or
+
+(ii) Prescriptive approach: Sections 140.2 through 140.10.
+
+C. Unconditioned nonresidential buildings and process space. Sections 110.9, 110.10, 120.6, 130.0 through 130.5, 140.3(c), 140.6, 140.7 and 140.8 apply to all newly constructed unconditioned buildings and 140.1, and 140.3(c), for process spaces within the scope of Section 100.0(a).
+
+D. Single-family buildings.
+
+i. Sections applicable. Sections 150.0 through 150.1 apply to newly constructed single-family buildings.
+
+ii. Compliance approaches. In order to comply
+with Part 6, newly constructed single-family buildings must meet the requirements of:
+
+a.Mandatory measures: The applicable provisions of Sections 110.0 through 110.10 and 150.0; and
+
+b. Either:
+
+(i) Performance approach: Sections 150.1(a) and (b); or
+
+(ii) Prescriptive approach: Sections 150.1(a) and (c).
+
+Exception to Section 100.0(e)2Diib:  Seasonally occupied agricultural housing limited by state or federal agency contract to occupancy not more than 180 days in any calendar year.
+
+E. Multifamily Buildings.
+
+i. Sections applicable. Sections 160.0 through 170.2 apply to newly constructed multifamily buildings.
+
+ii. Compliance approaches. In order to comply with Part 6, newly constructed multifamily buildings must meet the requirements of:
+
+a. Mandatory measures: The applicable
+provisions of Sections 110.0 through
+110.10, and 160.0; and
+
+b. Either:
+
+(i) Performance approach: Section 170.1; or
+
+(ii)Prescriptive approach: Section 170.2(a) through (f).
+
+F.  Covered processes.
+
+i.Sections applicable. Sections 110.2, 120.6 and 140.9 apply to covered processes.
+
+ii. Compliance approaches. In order to comply with
+Part 6, covered processes must meet the requirements of:
+
+a.The applicable mandatory measures in Section 120.6; and
+
+b. Either:
+
+(i) The performance approach requirements
+of Section 140.1; or
+
+(ii)The prescriptive approach requirements
+of Section 140.9.
+
+Note: If covered processes do not have prescriptive requirements, then only the applicable mandatory measures in Section 120.6 must be met.
+
+3. New construction in existing buildings (additions, alterations and repairs).
+
+A. Nonresidential and hotel/motel buildings. Section 141.0 applies to new construction in existing nonresidential, high-rise residential and hotel/motel buildings. New construction in existing buildings includes additions, alterations and repairs. Section 141.0 specifies requirements that uniquely apply to additions, alterations or repairs to existing buildings, and specify which requirements in other sections also apply. For alterations that change the occupancy classification of the building, the requirements specified in Section 141.0 apply to the occupancy after the alterations.
+
+B.  Single-family buildings. Section 150.2 applies to new construction in existing single-family buildings. New construction in existing buildings includes additions, alterations and repairs. Section 150.2 specifies requirements that uniquely apply to additions, alterations or repairs to existing buildings, and specifies which requirements in other sections also apply. For alterations that change the occupancy classification of the building, the requirements specified in Section 150.2 apply to the occupancy after the alterations.
+
+C.  Multifamily buildings. Section 180.0 applies to new construction in existing multifamily buildings. New construction in existing buildings includes additions, alterations and repairs. Section 180.0 specifies requirements that uniquely apply to additions, alterations or repairs to existing buildings, and specifies which requirements in other sections also apply. For alterations that change the occupancy classification of the building, the requirements specified in Section 180.0 apply to the occupancy after the alterations.
+
+4. Installation of insulation in existing buildings. Section 110.8(d) applies to buildings in which insulation is being installed in existing attics, or on existing water heaters or existing space conditioning ducts.
+
+5. Outdoor lighting. Sections 110.9, 130.0, 130.2, 130.4, 140.7, and 150.0 apply to newly constructed outdoor lighting systems, and Section 141.0 applies to outdoor lighting that is either added or altered.
+
+6. Signs. Sections 130.0, 130.3 and 140.8 apply to newly constructed signs located either indoors or outdoors, and Section 141.0 applies to sign alterations located either indoors or outdoors.
+
+(f) Mixed occupancy. When a building is designed and constructed for more than one type of occupancy (residential and nonresidential), the space for each occupancy shall meet the provisions of Part 6 applicable to that occupancy.
+
+Exception 1 to Section 100.0(f): If one occupancy constitutes at least 80 percent of the conditioned floor area of the building, the entire building envelope, HVAC and water heating may be designed to comply with the provisions of Part 6 applicable to that occupancy, provided that the applicable lighting requirements in Sections 140.6 through 140.8, 150.0(k), or 160.5 and 170.2(e) are met for each occupancy and space, and mandatory measures in Sections 110.0 through 130.5, 150.0, and 160.0 through 160.9 are met for each occupancy and space.
+
+Exception 2 to Section 100.0(f): If one occupancy constitutes at least 90 percent of the combined conditioned plus unconditioned floor area of the building, the entire building indoor lighting may be designed to comply with only the lighting provisions of Part 6 applicable to that occupancy.
+
+(g) Administrative requirements. Administrative requirements relating to permit requirements, enforcement by the Commission, locally adopted energy standards, interpretations, claims of exemption, approved calculation methods, rights of appeal, and certification and labeling requirements of fenestration products and roofing products are specified in California Code of Regulations, Title 24, Part 1, Sections 10-101 to 10-114.
+
+(h) Certification requirements for manufactured equipment, products and devices. Part 6 limits the installation of manufactured equipment, products and devices to those that have been certified as specified by Sections 110.0 and 110.1. Requirements for manufactured equipment, products, and devices, when not specified in Title 24 Part 6, are specified in California Code of Regulations, Title 20, Sections 1601–1609.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 100.0-A—
+
+APPLICATION OF STANDARDS
+
+OCCUPANCIES	APPLICATION	MANDATORY	PRESCRIPTIVE	PERFORMANCE	ADDITIONS/ALTERATIONS
+All Buildings	General	100.0, 
+100.1, 
+100.2, 
+110.0	100.0, 
+100.1, 
+100.2, 
+110.0	100.0, 
+100.1, 
+100.2, 
+110.0	100.0, 
+100.1, 
+100.2, 
+110.0
+Nonresidential and Hotels/Motels	General	120.0	140.0, 
+140.2	140.0, 
+140.1	141.0
+Envelope (conditioned)	110.6, 
+110.7, 
+110.8, 
+120.7	140.3
+Envelope (unconditioned, process spaces)	N.A.	140.3(c)
+HVAC (conditioned)	110.2, 
+110.5, 
+120.1, 
+120.2, 
+120.3, 
+120.4, 
+120.5, 
+120.8	140.4
+Water Heating	110.3, 
+120.3, 
+120.8, 
+120.9	140.5
+Indoor Lighting (conditioned, process spaces)	110.9,
+120.8, 
+130.0, 
+130.1, 
+130.4	140.3(c), 
+140.6
+Indoor Lighting (unconditioned and parking garages)	110.9, 
+120.8, 
+130.0, 
+130.1, 
+130.4	140.3(c), 
+140.6	N.A.
+Outdoor Lighting	110.9, 
+130.0, 
+130.2, 
+130.4	140.7
+Electrical Power Distribution	110.11, 
+130.5	N.A.
+Pool and Spa Systems	110.4, 
+110.5, 
+150.0(p)
+Solar Ready Buildings	110.10	141.0(a)
+Solar PV and Battery Storage Systems	N.A.	141.10	140.0, 140.1	N.A.
+Covered Processes1	Envelope, Ventilation, Process Loads	110.2, 
+120.6	140.9	140.1	120.6, 
+140.9, 141.1
+Signs	Indoor and Outdoor	110.9, 
+130.0, 
+130.3	140.8	N.A.	141.0, 
+141.0(b)2H
+Single-family	General	150.0	150.1(a), (c)	150.1(a), (b)	150.2(a), (b)
+Envelope (conditioned)	110.6, 
+110.7, 
+110.8, 
+150(a), 
+150.0(b), 
+150.0(c), 
+150.0(d), 
+150.0(e), 
+150.0(g), 
+150.0(q)
+HVAC (conditioned)	110.2, 
+110.5,
+150.0(h),
+150.0(i), 
+150.0(j), 
+150.0(m), 
+150.0(o)
+Water Heating	110.3, 
+150.0(j, n)
+Indoor Lighting (conditioned, unconditioned and parking garages)	110.9, 
+130.0, 
+150.0(k)
+Outdoor Lighting	110.9, 
+130.0, 
+150.0(k)
+Pool and Spa Systems	110.4, 
+150.0(p)	N.A.	N.A.
+Solar Ready Buildings	110.10	N.A.	N.A.	N.A.
+Electric Ready	150.0(s), 150.0(t), 150.0(u) , 150.0(v)	N.A.	N.A.	N.A.
+Solar PV Systems	N.A.	150.0(c)14	150.1(a), (b)	N.A.
+Multifamily
+General	160.0	170.2	170.1	180.0
+HVAC (conditioned)	110.6, 110.7, 110.8, 160.1	170.1(a)
+Ventilation and Indoor Air Quality	160.2	N.A.
+HVAC (conditioned)	110.2, 110.5, 160.3	170.2(c)
+Water Heating	110.3, 160.4	170.2(d)
+Indoor Lighting	110.9, 160.5	170.2(e)
+Outdoor Lighting	110.9, 160.5	170.2(e)
+Electrical Power Distribution	110.11, 160.6	N.A.	N.A.
+Pool and Spa Systems	110.4, 110.5, 160.7
+Solar Ready Buildings	110.10, 160.8
+Electric Ready	160.9	N.A.
+Solar PV and Battery Storage Systems	N.A.	170.2(f), (g), (h)	170.1	N.A.1. Nonresidential and hotel/motel buildings that contain covered processes may conform to the applicable requirements of both occupancy types listed in this table.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 100.1 DEFINITIONS AND RULES OF CONSTRUCTION
+
+(a) Rules of Construction.
+
+1.Where the context requires, the singular includes the plural and the plural includes the singular.
+
+2.The use of “and” in a conjunctive provision means that all elements in the provision must be complied with or must exist to make the provision applicable. Where compliance with one or more elements suffices, or where existence of one or more elements makes the provision applicable, “or” (rather than “and/or”) is used.
+
+3. “Shall” is mandatory and “may” is permissive.
+
+(b) Definitions. Terms, phrases, words and their derivatives in Part 6, shall be defined as specified in Section 100.1. Terms, phrases, words and their derivatives not found in Section 100.1 shall be defined as specified in the “Definitions” chapters of Title 24, Parts 1 through 5 of the California Code of Regulations. Where terms, phrases, words and their derivatives are not defined in any of the references above, they shall be defined as specified in Webster’s Third New International Dictionary of the English Language, Unabridged (1961 edition, through the 2002 addenda), unless the context requires otherwise.
+
+AAMA/WDMA/CSA 101/I.S.2/A440-17 are the American Architectural Manufacturers Association/Window and Door Manufacturers Association/Canadian Standards Association document titled “North American Fenestration Standard/Specification for windows, doors, and skylights” (2017).
+
+ACCA is the Air Conditioning Contractors of America.
+
+ACCA MANUAL J is the Air Conditioning Contractors of America document titled “Manual J-Residential Load Calculation,” (ANSI/ACCA 2 Manual J – 2016).
+
+ACCEPTANCE REQUIREMENTS FOR CODE COMPLIANCE is a description of test procedures in the Reference Nonresidential Appendices that includes equipment and systems to be tested, functions to be tested, conditions under which the test shall be performed, the scope of the tests, results to be obtained and measurable criteria for acceptable performance.
+
+ACCESSIBLE is having access thereto, but which first may require removal or opening of access panels, doors or similar obstructions.
+
+ADDITION is any change to a building that increases conditioned floor area and conditioned volume. See also, “newly conditioned space.” Addition is also any change that increases the floor area and volume of an unconditioned building of an occupancy group or type regulated by Part 6. Addition is also any change that increases the illuminated area of an outdoor lighting application regulated by Part 6.
+
+ADIABATIC PAD is a material located before the heat transfer surface of an adiabatic condenser, which precools the ambient air by becoming fully wetted during precool mode operation.
+
+AGRICULTURAL BUILDING is a structure designed and constructed to house farm implements, hay, grain, poultry, livestock or other horticultural products. It is not a structure that is a place of human habitation, a place of employment where agricultural products are processed, treated or packaged, or a place used by the public.
+
+AHAM  is the Association of Home Appliance Manufacturers.
+
+AHAM HRH-2 is the Association of Home Appliance Manufacturers document titled “Residential Kitchen Range Hood Performance Test Procedures,” 2020 (AHAM HRH-2).
+
+AHAM RKRH-CPPG  is the Association of Home Appliance Manufacturers document titled “Residential Kitchen
+Range Hood Certification Program Procedural Guide,” 2020
+(version 3).
+
+AHRI is the Air-Conditioning, Heating and Refrigeration
+Institute.
+
+AHRI 210/240 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Unitary Air-Conditioning and Air-Source Heat Pump Equipment,” 2017 (AHRI Standard 210/240-2017 with Addenda 1).
+
+AHRI 310/380 is the Air-Conditioning, Heating and Refrigeration  Institute document titled “Packaged Terminal AirConditioners  and Heat Pumps (CSA-C744-17),” 2004 (AHRI 310/380-2017).
+
+AHRI 340/360 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Commercial and Industrial Unitary Air-Conditioning and Heat Pump Equipment,” 2019 (AHRI Standard 340/360 (I-P)-2019).
+
+AHRI 365 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Commercial and Industrial Unitary Air-Conditioning Condensing Units,” 2009 (ANSI/AHRI Standard 365 (I-P)-2009).
+
+AHRI 400 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Liquid to Liquid Heat Exchangers,” 2015 (ANSI/AHRI Standard
+400 (I-P)-2015).
+
+AHRI 430 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Central
+Station Air-handling Unit Supply Fans,” 2020 (AHRI Standard 430 (I-P)-2020).
+
+AHRI 440 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Fancoil Units,” 2019 (AHRI Standard 440 (I-P)-2019).
+
+AHRI 460 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Remote
+Mechanical-Draft Air-Cooled Refrigerant Condensers,” 2005
+(ANSI/AHRI Standard 460-2005).
+
+AHRI 550/590 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Water Chilling and Heat Pump Water-heating Packages Using the Vapor Compression Cycle,” 2020 (AHRI Standard 550/590 (I-P)-2020).
+
+AHRI 560 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Absorption  Water Chilling and Water Heating Packages,” 2000 (AHRI Standard 560-2000).
+
+AHRI 680 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of  Residential Air Filter Equipment,” 2017 (AHRI Standard 680-2017).
+
+AHRI 920 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Direct
+Expansion-Dedicated Outdoor Air System Units,” 2020
+(AHRI Standard 920 (I-P)-2020).
+
+AHRI 1060 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Air-toAir Exchangers for Energy Recovery Ventilation Equipment,” 2018 (AHRI Standard 1060 (I-P)-2018).
+
+AHRI 1230 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning
+and Heat Pump Equipment,” 2014 (AHRI Standard 1230-
+2014) with Addendum 1.
+
+AHRI 1360 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Computer and Data Processing Room Air Conditioners,” 2017
+(AHRI Standard 1360 (I-P)-2017).
+
+AIR, AVAILABLE TRANSFER is that portion of total outdoor ventilation air that is not required to satisfy other exhaust needs or to maintain pressurization of other spaces and that is transferable according to Section 120.1(g).
+
+AIR, INFILTRATION is outdoor air that enters a building or space through openings in the building or space envelope due to negative pressure in the space or building relative to the exterior of the building envelope.
+
+AIR, MAKEUP, or COMPENSATING OUTDOOR AIR  is outdoor air that is intentionally conveyed by openings or ducts into the building from the outside; is supplied to the vicinity of an exhaust hood; and replaces air, vapor and contaminants being exhausted by the exhaust hood. Makeup air is generally filtered and fan-forced, and it may be heated or cooled. Makeup air may be delivered through openings or ducts integral to the exhaust hood.
+
+AIR, REPLACEMENT is air that is used to replace air removed from a building through an exhaust system. Replacement air may be derived from one or more of the following: makeup air, portions of supply air, transfer air, or infiltration air.
+
+AIR, SUPPLY is air entering a space from an air-conditioning, heating, or ventilating system for the purpose of comfort conditioning. Supply air is generally filtered, fan-forced, and heated, cooled, humidified or dehumidified as necessary to maintain specified temperature and humidity conditions.
+
+AIR, TRANSFER is air transferred, whether actively by fans or passively by pressure differentials, from one room to another within a building through openings in the room envelope.
+
+AIR BARRIER is a combination of interconnected materials and assemblies joined and sealed together to provide a continuous barrier to air leakage through the building envelope that separates conditioned from unconditioned space, or that separates adjoining conditioned spaces of different occupancies or uses.
+
+AIR CONDITIONER is an appliance that supplies cooled and dehumidified air to a space for the purpose of cooling objects within the space.
+
+AIR CURTAIN UNIT means equipment providing a directionally controlled stream of air moving across the entire
+height and width of an opening that reduces the infiltration or
+transfer of air from one side of the opening.
+
+AIR FILTER, AIR FILTER EQUIPMENT, or AIR FILTER DEVICE is air-cleaning equipment used for removing
+particulate matter from the air.
+
+AIR FILTER MEDIA is the part of the air filter equipment
+which is the actual particulate removing agent.
+
+AIR-COOLED AIR CONDITIONER is an air conditioner
+using an air-cooled condenser.
+
+AIR-HANDLING UNIT or AIR HANDLER  is a blower or
+fan that distributes supply air to a room, space or area.
+
+AIR-SOURCE HEAT PUMP is an appliance that consists
+of one or more factory-made assemblies that includes an
+indoor conditioning coil, a compressor and a refrigerant-toair heat exchanger, and that provides heating and cooling
+functions.
+
+AIR-TO-AIR HEAT EXCHANGER is a device which will
+reduce the heat losses or gains that occur when a building is
+mechanically ventilated, by transferring heat between the
+conditioned air being exhausted and outside air being supplied.
+
+ALTERATION  is any change to a building’s water-heating
+system, space-conditioning system, lighting system, electrical
+power distribution system, or envelope that is not an addition.
+Alteration is also any change that is regulated by Part 6 to an
+outdoor lighting system that is not an addition. Alteration is
+also any change that is regulated by Part 6 to signs located
+either indoors or outdoors. Alteration is also any change that
+is regulated by Part 6 to a covered process that is not an addition. (See also “fenestration alteration”.)
+
+ALTERED COMPONENT  is a component that has undergone an alteration.
+
+ALTERNATING CURRENT-OUTPUT UNINTERRUPTIBLE POWER SUPPLY (AC-OUTPUT UPS)  is a combination of converters, switches and energy storage devices, such as batteries, constituting a power system for maintaining continuity of load power in case of input power failure. Input power failure occurs when voltage and frequency are outside rated steady-state and transient tolerance bands or when distortion or interruptions are outside the limits specified for the uninterruptible power supply. An ACoutput UPS is an uninterruptible power supply that supplies power with a continuous flow of electric charge that periodically reverses direction.
+
+ALTERNATIVE CALCULATION METHODS (ACM) are compliance software, or alternative component packages, or exceptional methods approved by the Commission under Section 10-109. ACMs are also referred to as Compliance Software.
+
+ALTERNATIVE CALCULATION METHODS (ACM) APPROVAL MANUAL are the documents establishing the
+requirements for Energy Commission approval of Compliance Software used to demonstrate compliance with the
+Building Energy Efficiency Standards for Residential and
+Nonresidential Buildings currently adopted by the Energy
+Commission.
+
+AMCA is the Air Movement and Control Association.
+
+ANNUAL FUEL UTILIZATION EFFICIENCY (AFUE) is a measure of the percentage of heat from the combustion of
+gas or oil which is transferred to the space being heated
+during a year, as determined using the applicable test method
+in the Appliance Efficiency Regulations or Section 110.2.
+
+ANNUNCIATED  is a type of visual signaling device that indicates the on, off, or other status of a load.
+
+ANSI is the American National Standards Institute.
+
+ANSI/AHRI 390 is the Air-Conditioning, Heating and Refrigeration Institute document titled “Performance Rating of Single Package Vertical Air-Conditioners and Heat Pumps,” 2003 (ANSI/AHRI Standard 390 (I-P)-2003).
+
+ANSI/AMCA 208  is the Air Movement and Control Association document titled “Calculation of the Fan Energy Index,” 2018 (ANSI/AMCA 208-18).
+
+ANSI/AMCA 210 is the Air Movement and Control Association document titled “Laboratory Methods of Testing Fans
+for Certified Aerodynamic Performance Rating,” 2016
+(ANSI/AMCA 210-16).
+
+ANSI/AMCA STANDARD 500-D is the American National Standards Institute / Air Movement and Control Association document titled “Laboratory Methods of Testing Dampers for Rating,” 2018 (ANSI/AMCA 500-D-2018).
+
+ANSI/ASABE S640 is the American National Standards
+Institute/American Society of Agricultural and Biological
+Engineers document titled “Quantities and Units of Electromagnetic Radiation for Plants (Photosynthetic Organisms),”
+2017 (ANSI/ASABE S640 JUL2017).
+
+ANSI/ASSPE Z9.5 is the American National Standards Institute document titled “Laboratory Ventilation,” 2012 (ANSI/
+AIHA/ASSPE Z9.5-2012).
+
+ANSI C82.6 is the American National Standards Institute
+document titled “AMERICAN NATIONAL STANDARD FOR LAMP BALLASTS—Ballasts for High-Intensity Discharge Lamps—Methods of Measurement,” 2020 (ANSI
+C82.6-2015 (R2020)).
+
+ANSI/CTA-2045-B is the American National Standards
+Institute document titled “Modular Communications Interface for Energy Management,” 2021 (ANSI/CTA-2045-B-
+2021).
+
+ANSI/NEMA WD 6 is the National Electrical Manufacturers
+Association Document titled “American National Standard
+for Wiring Devices—Dimensional Specification,” 2016
+(ANSI/NEMA WD 6-2016).
+
+ANSI Z21.40.4a is the American National Standards Institute document titled “Performance Testing and Rating of Gas-Fired, Air Conditioning and Heat Pump Appliances,” 2017 (ANSI Z21.40.4a-1996 (R2017)/CGA 2.94a-M96 (R2017)).
+
+ANSI Z21.47 is the American National Standards Institute
+document titled “Gas-Fired Central Furnaces,” 2021 (ANSI
+Z21.47-2021/CSA 2.3-2021).
+
+ANSI Z83.8 is the American National Standards Institute
+document titled “Gas Unit Heaters, Gas Packaged Heaters, 
+Gas Utility Heaters and Gas-Fired Duct Furnaces,” 2016
+(ANSI Z83.8-2016/CSA 2.6-2016 (R2021)).
+
+APPLIANCE EFFICIENCY REGULATIONS are the
+regulations in Title 20, Sections 1601 et seq. of the California
+Code of Regulations.
+
+APPROVED CALCULATION METHOD (See “alternative calculation methods.”)
+
+ASCE 7-16  is the American Society of Civil Engineers Standard 7-16.
+
+ASHRAE is the American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+
+ASHRAE CLIMATIC DATA FOR REGION X is the American Society of Heating, Refrigerating and Air-Conditioning Engineers document titled “ASHRAE Climatic Data for Region X, Arizona, California, Hawaii and Nevada,” Publication SPCDX, 1982 and “Supplement,” 1994.
+
+ASHRAE HANDBOOK, APPLICATIONS VOLUME is the American Society of Heating, Refrigerating and Air-Conditioning Engineers document titled “ASHRAE Handbook: Heating, Ventilating, and Air-Conditioning Applications” (I-P) (2019).
+
+ASHRAE HANDBOOK, FUNDAMENTALS VOLUME is the American Society of Heating, Refrigerating and AirConditioning Engineers document titled “ASHRAE Handbook: Fundamentals” (I-P) (2017).
+
+ASHRAE HANDBOOK, SYSTEMS AND EQUIPMENT VOLUME is the American Society of Heating, Refrigerating
+and Air-Conditioning Engineers document titled “ASHRAE
+Handbook: Heating, Ventilating, and Air-Conditioning Systems and Equipment” (I-P) (2020).
+
+ASHRAE STANDARD 52.2 is the American Society of Heating, Refrigerating and Air-Conditioning Engineers document titled “Method of Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size,” 2017 (ANSI/ASHRAE Standard 52.2-2017).
+
+ASHRAE STANDARD 55 is the American Society of Heating, Refrigerating and Air-Conditioning Engineers document titled “Thermal Environmental Conditions for Human Occupancy,” 2020 (ANSI/ASHRAE Standard 55- 2020).
+
+ASHRAE STANDARD 62.1 is the American Society of
+Heating, Refrigerating and Air-Conditioning Engineers document titled “Ventilation for Acceptable Indoor Air Quality,”
+2019 (ANSI/ASHRAE Standard 62.1-2019, including
+Addenda y, ao, P, B).
+
+ASHRAE STANDARD 62.2 is the American Society of
+Heating, Refrigerating and Air-Conditioning Engineers
+document titled “Ventilation and Acceptable Indoor Air
+Quality in Residential Buildings,” 2019 (ANSI/ASHRAE Standard 62.2-2019 including ANSI/ASHRAE Addenda v and d published in the 2020 Supplement).
+
+ASHRAE STANDARD 84 is the American National Standards Institute/American Society of Heating, Refrigerating
+and Air-Conditioning Engineers document titled “Method of
+Testing Air-to-Air Heat/Energy Exchangers,” 2020 (ANSI/
+ASHRAE 84-2020).
+
+ASHRAE STANDARD 90.1 is the American Society of
+Heating, Refrigerating and Air-Conditioning Engineers document titled “Energy Standards for Buildings Except LowRise Residential Buildings,” 2019 (ANSI/ASHRAE/IES
+Standards 90.1-2019).
+
+ASHRAE STANDARD 154 is the American Society of
+Heating, Refrigerating and Air-Conditioning Engineers document titled “Ventilation for Commercial Cooking Operations,” 2016 (ANSI/ASHRAE Standard 154-2016).
+
+ASHRAE STANDARD 193 is the American Society of Heating, Refrigerating and Air-Conditioning Engineers document titled “Method of Test for Determining the Airtightness of HVAC Equipment,” RA2014 (ANSI/ASHRAE Standard 193-RA2014).
+
+ASME is the American Society of Mechanical Engineers.
+
+ASME A17.1/CSA B44 is the American Society of  Mechanical Engineers document titled “Safety Code for Elevators
+and Escalators,” 2019 (ASME A17.1-2019/CSA B44-2019).
+
+ASME A112.18.1/CSA B125.1 is the American Society of
+Mechanical Engineers document titled “Plumbing Supply
+Fittings,” 2018 (ASME A112.18.1-2018/CSA B125.1-18).
+
+ASTM is the American Society for Testing and Materials
+International.
+
+ASTM C55 is the American Society for Testing and Materials document titled “Standard Specifications for Concrete
+Building Brick,” 2017 (ASTM C55-17).
+
+ASTM C177 is the American Society for Testing and Materials document titled “Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus,” 2019 (ASTM C177-19).
+
+ASTM C272 is the American Society for Testing and Materials document titled “Standard Test Method for Water
+Absorption of Core Materials for Sandwich Constructions,”
+2018 (ASTM C272/C272M-18).
+
+ASTM C335/C335M is the American Society for Testing and Materials document titled “Standard Test Method for Steady-State Heat Transfer Properties of Pipe Insulation,” 2017 (ASTM C335/C335M-17).
+
+ASTM C518 is the American Society for Testing and Materials document titled “Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus,” 2017 (ASTM C518-17).
+
+ASTM C731 is the American Society for Testing and Materials document titled “Standard Test Method for Extrudability, After Package Aging of Latex Sealants,” 2015 (ASTM C731-15).
+
+ASTM C732 is the American Society for Testing and Materials document titled “Standard Test Method for Aging Effects of Artificial Weathering on Latex Sealants,” 2017 (ASTM C732-17).
+
+ASTM C836 is the American Society for Testing and Materials document titled “Standard Specification for High Solids Content, Cold Liquid-Applied Elastomeric Waterproofing Membrane for Use with Separate Wearing Course,” 2018 (ASTM C836/C836M-18).
+
+ASTM C1167 is the American Society for Testing and Materials document titled “Standard Specification for Clay Roof Tiles,” 2017 (ASTM C1167-11(2017)).
+
+ASTM C1371 is the American Society for Testing and Materials document titled “Standard Test Method for Determination of Emittance of Materials Near Room Temperature Using Portable Emissometers,” 2015 (ASTM C1371-15).
+
+ASTM C1492 is the American Society for Testing and Materials document entitled “Standard Specification for Concrete Roof Tile,” 2016 [ASTM C1492-03 (2016)].
+
+ASTM C1549 is the American Society for Testing and Materials document entitled “Standard Test Method for Determination of Solar Reflectance Near Ambient Temperature Using a Portable Solar Reflectometer,” 2016 (ASTM C1549- 16).
+
+ASTM C1583 is the American Society for Testing and Materials document titled “Standard Test Method for Tensile Strength of Concrete Surfaces and the Bond Strength or Tensile Strength of Concrete Repair and Overlay Materials by Direct Tension (Pull-off Method),” 2020 (ASTM C1583/C1583M-20).
+
+ASTM D448 is the American Society for Testing and Materials document titled “Standard Classification for Sizes of Aggregate for Road and Bridge Construction,” 2017 [ASTM D448-12(2017)].
+
+ASTM D522 is the American Society for Testing and Materials document titled “Standard Test Methods for Mandrel
+Bend Test of Attached Organic Coatings,” 2017 (ASTM
+D522/D522M-17).
+
+ASTM D822 is the American Society for Testing and Materials document titled “Standard Practice for Filtered OpenFlame Carbon-Arc Exposures of Paint and Related Coatings,” 2018 (ASTM D822/D822M-13(2018)).
+
+ASTM D1003 is the American Society for Testing and Materials document titled “Standard Test Method for Haze and
+Luminous Transmittance of Transparent Plastics,” 2021
+(ANSI/ASTM D1003-21).
+
+ASTM D1653 is the American Society for Testing and Materials document titled “Standard Test Methods for Water
+Vapor Transmission of Organic Coating Films,” 2021
+(ASTM D1653-21).
+
+ASTM D1863 is the American Society for Testing and Materials document titled “Standard Specification for Mineral
+Aggregate Used on Built-Up Roofs,” 2018 [ASTM D1863/
+D1863M-05 (2018)].
+
+ASTM D2202 is the American Society for Testing and Materials document titled “Standard Test Method for Slump of
+Sealants,” 2019 (ASTM D2202-00(2019).
+
+ASTM D2370 is the American Society for Testing and Materials document titled “Standard Test Method for Tensile
+Properties of Organic Coatings,” 2016 (ASTM D2370-98-
+16).
+
+ASTM D2824 is the american society for testing and materials document titled “standard specification for aluminum-pigmented  asphalt roof coatings, nonfibered, and fibered without asbestos,” 2018 (ASTM D2824/D2824M-18).
+
+ASTM D3468 is the American Society for Testing and Materials document titled “Standard Specification for LiquidApplied Neoprene and Chlorosulfonated Polyethylene Used in Roofing and Waterproofing,” 2020 [ASTM D3468/D3468M-99 (2020)].
+
+ASTM D3805 is the American Society for Testing and Materials document titled “Standard Guide for Application of Aluminum-Pigmented Asphalt Roof Coatings,” 2016 (ASTM
+D3805/D3805M-16).
+
+ASTM D4798 is the American Society for Testing and Materials document titled “Standard Practice for Accelerated
+Weathering Test Conditions and Procedures for Bituminous
+Materials (Xenon-Arc Method),” 2021 [ASTM D4798/
+D4798M-11(2021)].
+
+ASTM D5870 is the American Society for Testing and Materials document titled “Standard Practice for Calculating Property Retention Index of Plastics,” 2016 (ASTM D5870-16).
+
+ASTM D6083 is the American Society for Testing and Materials document titled “Standard Specification for Liquid
+Applied Acrylic Coatings Used in Roofing,” 2021 (ASTM
+D6083/D6083M-21).
+
+ASTM D6694 is the American Society for Testing and Materials document titled “Standard Specification for LiquidApplied Silicone Coating Used in Spray Polyurethane Foam
+Roofing Systems,” 2015 (ASTM D6694/D6694M-15).
+
+ASTM E96 is the American Society for Testing and Materials document titled “Standard Test Methods for Water Vapor Transmission of Materials,” 2016 (ASTM E96/E96M-16).
+
+ASTM E283 is the American Society for Testing and Materials document titled “Standard Test Method for Determining
+Rate of Air Leakage Through Exterior Windows, Skylight, 
+Curtain Walls, and Doors Under Specified Pressure Differences Across the Specimen,” 2019 (ASTM E283/E238-19).
+
+ASTM E408 is the American Society for Testing and Materials document titled “Standard Test Methods for Total Normal
+Emittance of Surfaces Using Inspection-Meter Techniques,”
+2019 [ASTM E408-13 (2019)].
+
+ASTM E779 is the American Society for Testing and Materials document titled “Standard Test Method for Determining
+Air Leakage Rate by Fan Pressurization,” 2019 (ASTM
+E779-19).
+
+ASTM E903 is the American Society for Testing and Materials document titled “Standard Test Method for Solar Absorptance, Reflectance, and Transmittance of Materials Using
+Integrating Spheres,” 2020 (ASTM E903-20).
+
+ASTM E972 is the American Society for Testing and Materials document titled “Standard Test Method for Solar Photometric Transmittance of Sheet Materials Using Sunlight,”
+2021 [ASTM E972-96 (2021)].
+
+ASTM E1175 is the American Society for Testing and Materials document titled “Standard Test Method for Determining Solar or Photopic Reflectance, Transmittance, and Absorptance of Materials Using a Large Diameter Integrating Sphere,” 2015 [ASTM E1175-87(2015)].
+
+ASTM E1677 is the American Society for Testing and Materials document titled “Standard Specification for Air Barrier
+(AB) Material or Assemblies for Low-Rise Framed Building
+Walls,” 2019 (ASTM E1677-19).
+
+ASTM E1680 is the American Society for Testing and Materials document titled “Standard Test Method for Rate of Air
+Leakage through Exterior Metal Roof Panel Systems,” 2016
+(ASTM E1680-16).
+
+ASTM E1918 is the American Society for Testing and Materials document entitled “Standard Test Method for Measuring
+Solar Reflectance of Horizontal and Low-Sloped Surfaces in
+the Field,” 2016 (ASTM E1918-16).
+
+ASTM E1980 is the American Society for Testing and Materials document titled “Standard Practice for Calculating Solar
+Reflectance Index of Horizontal and Low-Sloped Opaque
+Surface,” 2019 [ASTM E1980-11 (2019)].
+
+ASTM E2178 is the American Society for Testing and Materials document titled “Standard Test Method for Determining
+Air Leakage Rate and Calculation of Air Permeance of Building Materials,” 2021 (ASTM E21778-21).
+
+ASTM E2357 is the American Society for Testing and Materials document titled “Standard Test Method for Determining
+Air Leakage Rate of Air Barrier Assemblies,” 2018 (ASTM
+E2357-18).
+
+ASTM E3087 is the American Society for Testing and Materials document titled “Standard Test Method for Measuring Capture Efficiency of Domestic Range Hoods,” 2018 (ASTM E3087-18).
+
+ATTIC is an enclosed space directly below the roof deck and above the ceiling beams.
+
+AUTOMATED TELLER MACHINE (ATM) is any electronic information processing device which accepts or dispenses currency in connection with a credit, deposit or convenience account without involvement by a clerk.
+
+AUTOMATIC is capable of operating without human intervention.
+
+AZIMUTH is the degrees of clockwise rotation from true north.
+
+BACK-UP COMPRESSORS are those compressors not used to meet peak compressed air loads. Back-up compressors are physically connected to the compressed air piping system and can be automatically controlled to turn on if one of the online compressors fails. Back-up compressors do not normally operate.
+
+BATTERY SYSTEM, STATIONARY STORAGE. A rechargeable energy storage system consisting of electrochemical storage batteries, battery chargers, controls, and associated electrical equipment designed to provide electrical power to a building. The system is typically used to provide standby or emergency power, and uninterruptable power supply, load shedding, load sharing or similar capabilities.
+
+BELOW-GRADE WALL is the portion of a wall, enclosing conditioned space, that is below the grade line.
+
+BOILER SYSTEM  is one or more boilers and their piping and controls that work together to supply steam or hot water to heat output devices remote from the boiler.
+
+BUBBLE POINT is the liquid saturation temperature of a refrigerant at a specified pressure.
+
+BUILDING is any structure or space covered by Section 100.0 of the Building Energy Efficiency Standards.
+
+BUILDING COMMISSIONING is a systematic quality assurance process that spans the entire design and construction process, including verifying and documenting that building systems and components are planned, designed, installed, tested, operated and maintained to meet the owner’s project requirements.
+
+BUILDING ENVELOPE is the ensemble of exterior and demising partitions of a building that enclose conditioned space.
+
+CALL CENTER is a phone center that handles large number of phone calls including but not limited to help desk, customer and sales support, technical support, emergency response, telephone answering service, and inbound and outbound telemarketing.
+
+CARBON DIOXIDE ENRICHMENT  is injection of additional carbon dioxide into controlled environment horticulture spaces for the purpose of stimulating plant growth.
+
+CASCADE REFRIGERATION SYSTEM is a type of
+refrigeration system that uses a low-stage refrigeration system where the heat rejected from condensing the low-stage
+refrigerant is absorbed using a heat-exchanger by a separate
+high-stage refrigeration system, and the ultimate heat rejection to ambient air is accomplished by the high-stage refrigeration system.
+
+CEILING FAN means a nonportable device that is suspended from a ceiling or overhead structure for circulating air
+via the rotation of fan blades as defined in 10 CFR 430.2.
+
+CENTRAL FAN VENTILATION COOLING SYSTEM
+(CFVCS) is a ducting arrangement including outside air
+ducts, motorized dampers and an automatic control system
+that allows a residential space-conditioning system central
+fan and ducts to distribute outside air throughout a residential
+dwelling unit, intending to reduce or eliminate the need for
+mechanical cooling.
+
+CERTIFIED TO THE ENERGY COMMISSION means, when used in association with appliances, certified under Section 1606 of Title 20 of the California Code of Regulations; and otherwise means certified by the manufacturer in a declaration, executed under penalty of perjury under the laws of the State of California, that all the information provided pursuant to the certification is true, complete, accurate and in compliance with all applicable provisions of Part 6; and if applicable that the equipment, product or device was tested under the applicable test method specified in Part 6.
+
+CERTIFYING ORGANIZATION is an independent organization recognized by the Commission to certify manufactured devices for performance values in accordance with procedures adopted by the Commission.
+
+CIE 13.3 is the International Commission on Illumination (Commission Internationale de l’Eclairage) document titled “Method of Measuring and Specifying Colour Rendering Properties of Light Sources,” 1995 (CIE 13.3-1995).
+
+CIE 15  is the International Commission on Illumination
+(Commission Internationale de l’Eclairage) document titled
+“Technical Report: Colorimetry,” 2018 (CIE 15:2018).
+
+CIRCULATING FAN  means a fan that is not a ceiling fan,
+but that is used to move air within a space that has no provision for connection to ducting or separation of the fan inlet
+from its outlet, and designed to be used for the general circulation of air.
+
+CLIMATE ZONES are the 16 geographic areas of California for which the commission has established typical weather data, prescriptive packages and energy budgets. Climate zones are defined by ZIP code and listed in Reference Joint Appendix JA2. FIGURE 100.1-A is an approximate map of the 16 climate zones.
+
+CLOSED-CIRCUIT COOLING TOWER is a cooling tower that utilizes indirect contact between a heated fluid, typically water or glycol, and the cooling atmosphere to transfer the source heat load through sensible heat, latent heat and mass transfer indirectly to the air, essentially combining a heat exchanger and cooling tower into an integrated and relatively compact device.
+
+CODES, CALIFORNIA HISTORICAL BUILDING CODE is the California Historical Building Code, California Code of Regulations, Title 24, Part 8 and Part 2 (Chapter 34).
+
+CODES, CBC  is the 2022 California Building Code.
+
+CODES, CEC  is the 2022 California Electrical Code.
+
+CODES, CFC  is the 2022 California Fire Code.
+
+CODES, CMC  is the 2022 California Mechanical Code.
+
+CODES, CPC  is the 2022 California Plumbing Code.
+
+COEFFICIENT OF PERFORMANCE (COP), COOLING is the ratio of the rate of net heat removal to the rate of total energy input, calculated under designated operating conditions and expressed in consistent units, as determined using the applicable test method in the Appliance Efficiency Regulations or Section 110.2.
+
+COEFFICIENT OF PERFORMANCE (COP), HEATING is the ratio of the rate of net heat output to the rate of total energy input, calculated under designated operating conditions and expressed in consistent units, as determined using the applicable test method in the Appliance Efficiency Regulations or Section 110.2.
+
+COEFFICIENT OF PERFORMANCE (COP), HEAT PUMP is the ratio of the rate of useful heat output delivered by the complete heat pump unit (exclusive of supplementary heating) to the corresponding rate of energy input, in consistent units and as determined using the applicable test method in Appliance Efficiency Regulations or Section 110.2.
+
+COMBINED ENERGY EFFICIENCY RATIO (CEER)  is the ratio of net cooling capacity (in Btu/hr) to total rate of electrical energy input (in watts) of a cooling system under designated operating conditions, including standby mode, as determined using the applicable test method in the Appliance Efficiency Regulations.
+
+COMBUSTION AIR POSITIVE SHUT-OFF is a means of restricting air flow through a boiler combustion chamber during standby periods, used to reduce standby heat loss. A flue damper and a vent damper are two examples of combustion air positive shut-off devices.
+
+COMBUSTION EFFICIENCY is a measure of the percentage of heat from the combustion of gas or oil that is transferred to the medium being heated or lost as jacket loss.
+
+COMMERCIAL BOILER is a type of boiler with a capacity (rated maximum input) of 300,000 Btus per hour (Btu/h) or more and serving a space heating or water heating load in a commercial building.
+
+COMMISSION is the California State Energy Resources Conservation and Development Commission, which is also referred to as the California Energy Commission.
+
+COMPLEX MECHANICAL SYSTEMS are systems that include 1) fan systems each serving multiple thermostatically controlled zones; or 2) built-up air handler systems (nonunitary or nonpackaged HVAC equipment); or 3) hydronic or steam heating systems; or 4) hydronic cooling systems. Complex mechanical systems are NOT the following: (1) unitary or packaged equipment listed in Table 110.2-A, 110.2-B, 110.2-C or 110.2-E that each serves one zone, or (2) two-pipe, heating only systems serving one or more zones.
+
+COMPLIANCE SOFTWARE is software that has been approved pursuant to Section 10-109 of Part 1 of Title 24 of the California Code of Regulations, to demonstrate compliance with the performance approach of Part 6.
+
+COMPRESSED AIR SYSTEM is a system of at least one compressor providing compressed air at 40 psig or higher.
+
+COMPUTER ROOM is a room within a building whose primary function is to house electronic equipment and that has a design information technology equipment (ITE) equipment power density exceeding 20 watts/ft2 (215 watts/m2) of conditioned floor area.
+
+CONDENSER is a refrigeration component that condenses refrigerant vapor by rejecting heat to air mechanically circulated over its heat transfer surface.
+
+CONDENSER, ADIABATIC is a condenser that has the ability to use two heat transfer processes in series as accomplished by a single factory-made unit. The first heat transfer process is the precooling of the entering air by lowering the entering air drybulb temperature. The second heat transfer process is forced-air circulation cooling over the heat transfer surface of the condenser.
+
+DRY MODE is an operating condition of an adiabatic condenser wherein the only means of heat transfer is accomplished through forced-air circulation over the heat transfer surface of the condenser without any precooling of the entering air.
+
+PRECOOL MODE is an operating condition of an adiabatic condenser wherein the entering air is precooled.
+
+CONDENSER SPECIFIC EFFICIENCY is the full load condenser Total Heat of Rejection (THR) capacity at standardized conditions divided by the fan input electric power (including but not limited to spray pump electric input power for evaporative condensers) at 100 percent rated fan speed.
+
+CONDITIONED FLOOR AREA (CFA) is the floor area (in square feet) of enclosed conditioned space on all floors of a building, as measured at the floor level of the exterior surfaces of exterior walls enclosing the conditioned space.
+
+CONDITIONED GREENHOUSE  is a greenhouse that is provided with wood heating, mechanical heating that has a capacity exceeding 10 Btu/hr-ft², or mechanical cooling that has a capacity exceeding 5 Btu/hr-ft².
+
+CONDITIONED SPACE  is an enclosed space within a building that is directly conditioned or indirectly conditioned.
+
+CONDITIONED SPACE, DIRECTLY is an enclosed space that is provided with wood heating, mechanical heating that has a capacity exceeding 10 Btu/hr-ft2) or mechanical cooling that has a capacity exceeding 5 Btu/hr-ft2. Directly conditioned space does not include process space. (See “process space.”)
+
+CONDITIONED SPACE, INDIRECTLY is enclosed space that (1) is not directly conditioned space; and (2) either (a) has a thermal transmittance area product (UA) to directly conditioned space exceeding that to the outdoors or to unconditioned space and does not have fixed vents or openings to the outdoors or to unconditioned space, or (b) is a space through which air from directly conditioned spaces is transferred at a rate exceeding three air changes per hour.
+
+CONDITIONED VOLUME is the total volume (in cubic feet) of the conditioned space within a building.
+
+CONTINUOUS INSULATION (c.i.) is insulation that is continuous across all assemblies that separate conditioned from unconditioned space. It is installed on the exterior or interior or is integral to any opaque surface of the building envelope and has no thermal bridges other than fasteners and necessary service openings.
+
+CONTROLLED ATMOSPHERE is an airtight space maintained at reduced oxygen levels for the purpose of reducing respiration of perishable product in long-term storage.
+
+CONTROLLED ENVIRONMENT HORTICULTURE (CEH) SPACE  is a building space dedicated to plant production by manipulating indoor environmental conditions, such
+as through electric lighting, irrigation, mechanical heating,
+mechanical cooling or dehumidification. CEH space does not
+include building space where plants are grown solely to decorate that same space.
+
+COOLER is a space to be capable of operation at a temperature greater than or equal to 28°F but less than 55°F.
+
+COOL ROOF is a roofing material with high thermal emittance and high solar reflectance, or low thermal emittance and exceptionally high solar reflectance as specified in Part 6 that reduces heat gain through the roof.
+
+COOLING EQUIPMENT is equipment used to provide mechanical cooling for a room or rooms in a building.
+
+CRAWL SPACE is a space immediately under the first floor of a building adjacent to grade.
+
+CRRC-1 is the Cool Roof Rating Council document entitled “Product Rating Program Manual” (2021).
+
+CTI is the Cooling Technology Institute.
+
+CTI ATC-105 is the Cooling Technology Institute document  titled “Acceptance Test Code for Cooling Towers,” 2019 (CTI ATC-105-19).
+
+CTI ATC-105DS  is the Cooling Technology Institute document titled “Acceptance Test Code for Dry Fluid Coolers,”
+2018 [CTI ATC-105DS (18)].
+
+CTI ATC-105S(11) is the Cooling Technology Institute document titled “Acceptance Test Code for Closed-Circuit Cooling Towers,” 2011 (CTI ATC-105-11).
+
+CTI ATC-106 is the Cooling Technology Institute document titled “Acceptance Test Code for Mechanical Draft Evaporative Vapor Condensers,” 2011 [CTI ATC-106 (11)].
+
+CTI STD-201 is the Cooling Technology Institute document  titled “Standard for the Certification of Water Cooling Thermal Performance,” 2017 [CTI STD-201-RS(17)].
+
+CURRENT AIR DEMAND is the actual cubic feet per minute (acfm) of total air flow necessary for end uses in a compressed air system.
+
+C-VALUE (also known as C-factor) is the time rate of heat flow through unit area of a body induced by a unit temperature difference between the body surfaces, in Btu (hr × ft2 × °F). It is not the same as K-value or K-factor.
+
+CYCLES OF CONCENTRATION is the number of times the concentration of total dissolved solids (TDS) in cooling tower water is multiplied relative to the TDS in the makeup water. Because evaporation of pure water leaves dissolved solids behind in the system water, TDS increases over time as the tower operates. The number of times the dissolved minerals are concentrated is relative to the TDS in the makeup water. For example, five cycles of concentration represents five times the concentration of solids in the cooling tower system water relative to the TDS in the makeup water entering the tower.
+
+DATA CENTER is a building whose primary function is to house computer room(s).
+
+DAYLIT ZONE is the floor area under skylights or next to windows. Types of daylit zones includes primary sidelit daylit zone, secondary sidelit daylit zone, and skylit daylit zone.
+
+DEADBAND is the temperature range within which the HVAC system is neither calling for heating or cooling.
+
+DECORATIVE GAS APPLIANCE is a gas appliance that is designed or installed for visual effect only, cannot burn solid wood, and simulates a fire in a fireplace.
+
+DEDICATED OUTDOOR AIR SYSTEM (DOAS)  is a
+ventilation system that delivers 100 percent outdoor air and
+delivers ventilation supply air to each space, either directly or
+in conjunction with local or central space-conditioning systems serving those same spaces such as a DX-DOAS, HRV,
+ERV or custom ventilation-only unit.
+
+DEGREE DAY, HEATING is a unit, based upon temperature difference and time, used in estimating fuel consumption and specifying nominal annual heating load of a building. For any one day, when the mean temperature is less than 65°F, there exist as many degree days as there are Fahrenheit degrees difference in temperature between the mean temperature for the day and 65°F. The number of degree days for specific geographical locations are those listed in the Reference Joint Appendix JA2. For those localities not listed in the Reference Joint Appendix JA2, the number of degree days is as determined by the applicable enforcing agency.
+
+DEHUMIDIFIER  is a product other than a portable air conditioner, room air conditioner or packaged terminal air conditioner that is a self-contained, electrically operated and mechanically encased assembly consisting of 1) a refrigerated surface (evaporator) that condenses moisture from the atmosphere, 2) a refrigerating system, including an electric motor, 3) an air-circulating fan and 4) a means for collecting or disposing of the condensate.
+
+DEMAND FLEXIBILITY MEASURE is a measure that reduces TDV energy consumption using communication and control technology to shift electricity use across hours of the day to decrease energy use onpeak or increase energy use offpeak, including but not limited to battery storage, or HVAC or water heating load shifting.
+
+DEMAND RESPONSE is short-term changes in electricity usage by end-use customers from their normal consumption patterns. Demand response may be in response to:
+
+a.changes in the price of electricity; or
+
+b. participation in programs or services designed to modify electricity use:
+
+i. in response to wholesale market prices; or
+
+ii. when system reliability is jeopardized.
+
+DEMAND RESPONSE PERIOD is a period of time during which electricity loads are modified in response to a demand response signal.
+
+DEMAND RESPONSE SIGNAL is a signal that indicates a price or a request to modify electricity consumption, for a limited time period.
+
+DEMAND RESPONSIVE CONTROL is an automatic control that is capable of receiving and automatically responding to a demand response signal.
+
+DEMISING PARTITION is a wall, fenestration, floor or ceiling that separates conditioned space from enclosed unconditioned space or a controlled environment horticulture space.
+
+DESICCANT DEHUMIDIFICATION SYSTEM  is a mechanical dehumidification technology that uses a solid or liquid desiccant to remove moisture from the air.
+
+DESIGN CONDITIONS  are the parameters and conditions used to determine the performance requirements of spaceconditioning systems. Design conditions for determining design heating and cooling loads are specified in Section 140.4(b) for nonresidential and hotel/motel buildings, in Section 150.0(h) for single-family residential buildings, and in Sections 160.3(b) and 170.2(c) for multifamily buildings.
+
+DESIGN HEAT GAIN RATE is the total calculated heat gain through the building envelope under design conditions.
+
+DESIGN HEAT LOSS RATE is the total calculated heat loss through the building envelope under design conditions.
+
+DESIGN REVIEW is an additional review of the construction documents (drawings and specifications) that seeks to improve compliance with existing Title 24 regulations, to encourage adoption of best practices in design, and to encourage designs that are constructable and maintainable. It is an opportunity for an experienced design engineer or architect to look at a project with a fresh perspective in an effort to catch missing or unclear design information and to suggest design enhancements.
+
+DEW POINT TEMPERATURE is the vapor saturation temperature at a specified pressure for a substance undergoing phase change from vapor to liquid.
+
+DIRECT DIGITAL CONTROL (DDC) is a type of control where controlled and monitored analog or binary data, such as temperature and contact closures, are converted to digital format for manipulation and calculations by a digital computer or microprocessor, then converted back to analog or binary form to control mechanical devices.
+
+DIRECT-VENT APPLIANCE or “sealed combustion” appliance is an appliance that is constructed and installed so that air from combustion is derived directly from the outdoors and flue gases are discharged to the outdoors.
+
+DISPLAY PERIMETER is the length of an exterior wall in a Group B; Group F, Division 1; or Group M Occupancy that immediately abuts a public sidewalk, measured at the sidewalk level for each story that abuts a public sidewalk.
+
+DOMESTIC WATER HEATING SYSTEMS (see “service water heating”).
+
+DOOR is an operable opening in the building envelope including swinging and roll-up doors, fire doors, pet doors and access hatches with less than 25 percent glazed area. When that operable opening has 25 percent or more glazed area it is a glazed door. See Fenestration: Glazed Door.
+
+DOOR AREA is the total rough opening area which includes the door, and when present, the fenestration, and the fenestration frame components in the door frame assembly.
+
+DRAIN WATER HEAT RECOVERY (DWHR)  is a system that recovers heat from effluent in waste piping and uses
+it to preheat water in a domestic or service water-heating system in order to reduce water-heating energy usage.
+
+DRY COOLER is a fan-powered heat rejection device that
+includes a water or glycol circuit connected by a closed circulation loop refrigerant condenser and is air-cooled.
+
+DUAL-FUEL HEAT PUMP is an electric heat pump with
+gas furnace supplemental heat that alternates between the two
+fuel sources.
+
+DUCT SEALING is a procedure for installing a space-conditioning distribution system that minimizes leakage of air from or to the distribution system. Minimum specifications for installation procedures, materials, diagnostic testing and field verification are contained in the Reference Residential Appendix RA3 and Reference Nonresidential Appendix NA1.
+
+DUCT SYSTEM is all the ducts, duct fittings, plenums and fans when assembled to form a continuous passageway for the distribution of air.
+
+DUCT WALL PENETRATIONS  are openings to the duct
+wall made by pipes, holes, conduit, tie rods or wires.
+
+DUCTED SYSTEM is an air conditioner or heat pump, either a split system or single-packaged unit, that is designed to be permanently installed equipment and delivers conditioned air to an indoor space through a duct.
+
+DWELLING is a building that contains one or two dwelling units used, intended or designed to be used, rented, leased, let or hired out to be occupied for living purposes.
+
+DWELLING UNIT is a single unit providing complete, independent living facilities for one or more persons including access, permanent provisions for living, sleeping, eating, cooking and sanitation.
+
+DWELLING UNIT, ATTACHED  is a dwelling unit that
+shares a common wall or common floor/ceiling with another
+dwelling unit.
+
+DWELLING UNIT, JUNIOR ACCESSORY, or JADU  is
+a dwelling unit that is no more than 500 square feet in size
+and contained entirely within an existing single-family building. A JADU includes a kitchen, a separate entrance from the
+main entrance to the building, and an interior entry to the
+main living area. A JADU may include separate sanitation
+facilities, or may share sanitation facilities with the existing
+single-family building.
+
+DX-DEDICATED OUTDOOR AIR SYSTEM UNIT
+(DX-DOAS)  is a type of air-cooled, water-cooled or watersource DOAS unit that dehumidifies 100-percent outdoor air
+and includes reheat that is capable of controlling the supply
+dry-bulb temperature of the dehumidified air to the designed
+supply air temperature. This conditioned outdoor air is then
+delivered directly or indirectly to the conditioned spaces. It
+may precondition outdoor air by containing an enthalpy
+wheel, sensible wheel, desiccant wheel, plate heat exchanger,
+heat pipes, or other heat or mass transfer apparatus.
+
+EAST-FACING (See “orientation.”)
+
+ECONOMIZER, AIR, is a ducting arrangement, including dampers, linkages and an automatic control system that allows a cooling supply fan system to supply outside air to reduce or eliminate the need for mechanical cooling.
+
+ECONOMIZER, PUMPED REFRIGERANT, is a system
+by which the supply air of a cooling system is cooled directly
+by refrigerant pumped between indoor and outdoor units
+during cooler ambient temperatures in order to reduce or
+eliminate the need for mechanical cooling.
+
+ECONOMIZER, WATER, is a system by which the supply
+air of a cooling system is cooled directly or indirectly by
+ evaporation of water in order to reduce or eliminate the need
+for mechanical cooling.
+
+ELECTRICAL POWER DISTRIBUTION SYSTEMS. The following definitions are intended to apply to Section 130.5 only:
+
+ELECTRICAL METERING is a device or system for
+measuring the electrical power and energy supplied to a
+customer or premise(s).
+
+EQUIPMENT. A general term, including devices, luminaires, apparatus, machinery, and the like used as a part of, or in connection with, an electrical installation.
+
+LOW VOLTAGE DRY-TYPE DISTRIBUTION
+TRANSFORMER is a distribution transformer that has
+an input voltage of 600 volts or less, that is air-cooled, and
+that does not use oil as a coolant.
+
+PLUG LOAD is the energy consumed by any appliances or electronic device that is plugged into a receptacle or receptacle outlet. Plug loads are not related to general lighting, heating, ventilation, cooling, and water heating, domestic and service water system, renewable power, information technology equipment, computer room electronic equipment, and electric vehicle charging.
+
+SERVICE is the conductors and equipment for delivering electric energy from the serving utility to the wiring system of the premise served.
+
+SERVICE EQUIPMENT is the necessary equipment, usually consisting of a circuit breaker(s) or switch(es) and fuse(s) and their accessories, connected to the load end of service conductors to a building or other structure, or an otherwise designated area, and intended to constitute the main control and cutoff of the supply.
+
+ELECTRONICALLY-COMMUTATED MOTOR is a brushless DC motor with a permanent magnet rotor that is surrounded by stationary motor windings, and an electronic controller that varies rotor speed and direction by sequentially supplying DC current to the windings.
+
+EMITTANCE, THERMAL is the ratio of the radiant heat flux emitted by a sample to that emitted by a blackbody radiator at the same temperature.
+
+ENCLOSED SPACE is space that is substantially surrounded by solid surfaces, including walls, ceilings or roofs, doors, fenestration areas, and floors or ground.
+
+ENERGY BUDGET is the maximum energy consumption, based on Time Dependent Valuation (TDV) energy that a proposed building, or portion of a building, can be designed to consume, calculated using Commission-approved compliance software as specified by the Alternative Calculation Method Approval Manual. The Energy Budget for newly constructed, low-rise residential buildings is expressed in terms of the Energy Design Rating.
+
+ENERGY COMMISSION (CEC) is the California State Energy Resources Conservation and Development Commission.
+
+ENERGY DESIGN RATING (EDR) is a way to express the energy consumption of a building as a rating score index where a score of 100 represents the energy consumption of the building built to the specifications of the Residential Energy Services (RESNET) reference home characterization of the 2006 International Energy Conservation Code (IECC) with Title 24, Part 6 modeling assumptions, and a score of 0 (zero) represents a building that has zero net energy consumption. The EDR is calculated using Commission-approved compliance software as specified by the Alternative Calculation Method Approval Manual.
+
+ENERGY DESIGN RATING, ENERGY EFFICIENCY is an Energy Design Rating based on the TDV energy consumption of a building that results from the building’s energy efficiency characteristics, calculated using Commission-approved compliance software as specified by the Alternative Calculation Methods Approval Manual.
+
+ENERGY DESIGN RATING, SOLAR ELECTRIC GENERATION AND DEMAND FLEXIBILITY is the reduction in TDV energy consumption of a building expressed in terms of an Energy Design Rating reduction that results from the combination of the building’s solar electric generation system and demand flexibility measures.
+
+ENERGY DESIGN RATING, TOTAL is the total Energy Design Rating for the building that is determined by subtracting the Solar Electric Generation System and Demand Flexibility Energy Design Rating from the Energy Efficiency Energy Design Rating.
+
+ENERGY EFFICIENCY RATIO (EER) is the ratio of net cooling capacity (in Btu/hr) to total rate of electrical energy input (in watts), of a cooling system under designated operating conditions, as determined using the applicable test method in the Appliance Efficiency Regulations or Section 110.2.
+
+ENERGY EFFICIENCY RATIO 2 (EER2)  is the EER
+metric for residential central air conditioners effective January 1, 2023, as created by the U.S. Department of Energy
+“ISSUANCE 2016-11-30 Energy Conservation Program:
+Test Procedures for Central Air Conditioners and Heat
+Pumps, Final Rule.”
+
+ENERGY MANAGEMENT CONTROL SYSTEM (EMCS) is an automated control system that regulates the energy consumption of a building by controlling the operation of energy-consuming systems and is capable of monitoring loads and adjusting operations in order to optimize energy usage and respond to demand response signals.
+
+ENERGY OBTAINED FROM DEPLETABLE SOURCES is electricity purchased from a public utility, or any energy obtained from coal, oil, natural gas or liquefied petroleum gases.
+
+ENERGY OBTAINED FROM NONDEPLETABLE SOURCES is energy that is not energy obtained from depletable sources.
+
+ENERGY STORAGE SYSTEM (ESS)  is one or more devices, assembled together, that are capable of storing energy used for safely supplying electrical energy to selected loads at a future time.
+
+ENFORCEMENT AGENCY is the city, county or state agency responsible for issuing a building permit.
+
+ENTHALPY RECOVERY RATIO (ERR)  is a ratio of the change in enthalpy of the outdoor air supply to the difference in enthalpy between the entering supply airflow and the entering exhaust airflow, with no adjustment to account for that portion of the psychometric change in the leaving supply airflow that is the result of leakage of entering exhaust airflow rather than exchange of heat or moisture between the airstreams.
+
+ENTIRE BUILDING is the ensemble of all enclosed space in a building, including the space for which a permit is sought, plus all existing conditioned and unconditioned space within the structure.
+
+ENVELOPE (See “Building envelope.”)
+
+ESS-READY INTERCONNECTION EQUIPMENT is equipment, including but not limited to an ESS-ready panelboard, that can accommodate the connection of a distributed energy resource or an ESS capable of either automatic or manual isolation from the utility power source.
+
+ESS-READY PANELBOARD is a panelboard that can
+accommodate either automatic or manual switching between
+a utility power source to a distributed energy resource or an
+energy storage system, such as a split-bus panelboard.
+
+EXFILTRATION is uncontrolled outward air leakage from inside a building, including leakage through cracks and interstices, around windows and doors, and through any other exterior partition or duct penetration.
+
+EXTERIOR FLOOR/SOFFIT is a horizontal exterior partition, or a horizontal demising partition, under conditioned space. For low-rise residential occupancies, exterior floors also include those on grade.
+
+EXTERIOR PARTITION is an opaque, translucent or transparent solid barrier that separates conditioned space from ambient air or space. For low-rise residential occupancies, exterior partitions also include barriers that separate conditioned space from unconditioned space, or the ground.
+
+EXTERIOR ROOF/CEILING is an exterior partition, or a demising partition, that has a slope less than 60 degrees from horizontal, that has conditioned space below, and that is not an exterior door or skylight.
+
+EXTERIOR ROOF/CEILING AREA is the area of the exterior surface of exterior roof/ceilings.
+
+EXTERIOR WALL is any wall or element of a wall, or any member or group of members, which defines the exterior boundaries or courts of a building and which has a slope of 60 degrees or greater with the horizontal plane. An exterior wall or partition is not an exterior floor/soffit, exterior door, exterior roof/ceiling, window, skylight or demising wall.
+
+EXTERIOR WALL AREA is the area of the opaque exterior surface of exterior walls.
+
+FAÇADE is the contiguous exterior of a building surface, but not limited to fenestration products.
+
+FACTORY is a build, structure or space designated as Factory Group F that is used for assembling, disassembling, fabricating, finishing, manufacturing, packaging, repair or processing operations.
+
+FACTORY-ASSEMBLED COOLING TOWERS are cooling towers constructed from factory-assembled modules either shipped to the site in one piece or put together in the field.
+
+FAN, EMBEDDED  is a fan that is part of a manufactured
+assembly where the assembly includes functions other than
+air movement.
+
+FAN ARRAYS  are multiple fans in parallel and in a single enclosure between two plenum sections in an air distribution system, where plenum means a compartment or chamber that forms a part of the air distribution system, and that is not used for occupancy or storage.
+
+FAN ELECTRICAL INPUT POWER (FAN kWdesign) is the electrical input power in kilowatts required to operate an individual fan or fan array at design conditions. It includes the power consumption of motor controllers, if present.
+
+FAN ENERGY INDEX (FEI) is the ratio of the electric input power of a reference fan to the electric input power of the actual fan as calculated per ANSI/AMCA 208-18 at fan system design conditions.
+
+FAN NAMEPLATE ELECTRICAL INPUT POWER (kW) is the nominal electrical input power rating stamped on a fan assembly nameplate.
+
+FAN SYSTEM includes all the fans that contribute to the
+movement of air through a point of a common duct, plenum
+or cabinet.
+
+FAN SYSTEM, COMPLEX means a fan system that combines a single-cabinet fan system with other supply fans,
+exhaust fans or both.
+
+FAN SYSTEM, EXHAUST/RELIEF is a fan system dedicated to the removal of air from interior spaces to the outdoors.
+
+FAN SYSTEM, MULTI-ZONE VARIABLE AIR VOLUME (VAV)  is a fan system that serves three or more spaceconditioning zones where airflow to each zone is individually
+controlled based on heating, cooling and/or ventilation
+requirements, indoor fan airflow varies as a function of load,
+and the sum of the minimum zone airflows for each zone is
+40 percent or less of the fan system design conditions.
+
+FAN SYSTEM, RETURN  is a fan system dedicated to
+removing air from interior spaces where some or all of the air
+is to be recirculated except during economizer operation.
+
+FAN SYSTEM, SINGLE-CABINET is a fan system where a single fan, a single-fan array, a single set of fans operating in parallel, or fans or fan arrays in series and embedded in the same cabinet both supply air to a space and recirculate the air.
+
+FAN SYSTEM, SUPPLY-ONLY  is a fan system that provides supply air to interior spaces and does not recirculate the air.
+
+FAN SYSTEM, TRANSFER  is a fan system that exclusively moves air from one occupied space to another.
+
+FAN SYSTEM AIRFLOW (cfm)  is the sum of the airflow
+of all fans with fan electrical input power greater than 1 kW
+at fan system design conditions, excluding the airflow that
+passes through downstream fans with fan input power less
+than 1 kW.
+
+FAN SYSTEM DESIGN CONDITIONS  are operating conditions that can be expected to occur during normal system operation that result in the highest supply airflow rate to or from the conditioned spaces served by the fan system.
+
+FAN SYSTEM ELECTRICAL INPUT POWER (Fan kW design,system)  is the sum of the fan electrical input power (Fan kW design) in kilowatts of all fans that are required to operate at fan system design conditions to supply air from the heating or cooling source to the conditioned spaces, return it to the
+source, exhaust it to the outdoors or transfer it to another
+space.
+
+FENESTRATION: Includes the following:
+
+ACE is an NFRC-Approved Calculation Entity that conducts calculations of fenestration product ratings for certification authorization using the NFRC component modeling approach and issues label certificates to Specifying Authorities for product certification authorization in accordance with NFRC requirements.
+
+ALTERED COMPONENT is a new fenestration component that has undergone an alteration other than a repair and is subject to all applicable standards requirements.
+
+BAY WINDOW is a combination assembly which is composed of three or more individual windows either joined side by side or installed within opaque assemblies and which projects away from the wall on which it is installed. Center windows, if used, are parallel to the wall on which the bay is installed, the end panels or two side windows, are angled with respect to the center window. Common angles are 30° and 45°, although other angles may be employed.
+
+CHROMOGENIC GLAZING  is a class of switchable
+glazing that includes active materials (e.g., electrochromic) and passive materials (e.g., photochromic and thermochromic) permanently integrated into the glazing
+assembly. Their primary function is to switch reversibly
+from a high transmission state to a low transmission state
+with associated changes in VT and SHGC.
+
+CLERESTORY FENESTRATION is fenestration installed above a roofline greater than or equal to 60 degrees from the horizontal, or any portion of exterior vertical glazing greater than 8 feet per floor above the finished floor of a space.
+
+CMA (component modeling approach) is a fenestration product certification program from the National Fenestration Rating Council (NFRC) that enables energy-related performance ratings for nonresidential fenestration products, including the thermal performance U-factor, solar heat gain coefficient, and visible transmittance.
+
+CMAST (component modeling approach software tool) is an NFRC approved software that allows a user to create a fenestration product “virtually” and generate its energy-related performance ratings, including the thermal performance U-factor, solar heat gain coefficient, and visible transmittance.
+
+CURTAIN WALL/STOREFRONT is an external non-bearing wall intended to separate the exterior nonconditioned and interior conditioned spaces. It also consists of any combination of framing materials, fixed glazing, opaque glazing, operable windows or other in-fill materials.
+
+Note: Window wall is also included as part of the curtain wall/storefront fenestration category.
+
+DUAL-GLAZED GREENHOUSE WINDOWS is a double glass pane separated by an air or other gas space that adds conditioned volume but not conditioned floor area to a building.
+
+DYNAMIC GLAZING SYSTEMS are glazing systems that have the ability to reversibly change their performance properties, including U-factor, Solar Heat Gain Coefficient (SHGC) and/or Visible Transmittance (VT) between well-defined end points. These may include, but are not limited to, chromogenic glazing systems and integrated shading systems (defined below). Dynamic Glazing systems do not include internally mounted or externally mounted shading devices that attach to the window framing/glazing that may or may not be removable.
+
+FENESTRATION ALTERATION is any change to an existing building’s exterior fenestration product that is not a repair (see “fenestration repair”) that:
+
+i. Replaces existing fenestration in an existing wall or roof with no net area added; or
+
+ii. Replaces existing fenestration and adds new net area in the existing wall or roof; or
+
+iii. Adds a new window that increases the net fenestration area to an existing wall or roof.
+
+FENESTRATION AREA is the rough opening area of any fenestration product.
+
+FENESTRATION PRODUCT is any transparent or translucent material plus any sash, frame, mullions and dividers, in the facade of a building, including, but not limited to, windows, glazed doors, skylights, curtain walls, dynamic glazing, garden windows, glass block and glazing used in greenhouses.
+
+FENESTRATION REPAIR is the reconstruction or renewal for the purpose of maintenance of any fenestration product, component or system and shall not increase the preexisting energy consumption of the repaired fenestration product, component, system or equipment. Replacement of any component, system or equipment for which there are requirements in the Standards are considered an alteration (see Fenestration, alteration) and not a repair and is subject to the requirements of Part 6 of the Standards.
+
+FIELD-FABRICATED is a fenestration product whose frame is made at the construction site of standard dimensional lumber or other materials that were not previously cut, or otherwise formed with the specific intention of being used to fabricate a fenestration product. Field fabricated does not include site-built fenestration.
+
+FIN is an opaque surface, oriented vertically and projecting outward horizontally from an exterior vertical surface.
+
+FIN OFFSET is the horizontal distance from the edge of exposed exterior glazing at the jamb of a window to the fin.
+
+FIN PROJECTION is the horizontal distance, measured outward horizontally, from the surface of exposed exterior glazing at the jamb of a window to the outward edge of a fin.
+
+FIXED is fenestration that is not designed to be opened or closed.
+
+GREENHOUSE or GARDEN WINDOW is a window unit that consists of a three-dimensional, five-sided structure generally protruding from the wall in which it is installed. Operating sash may or may not be included.
+
+HORIZONTAL SLATS,  when referring to a daylighting device, is a set of adjacent surfaces located directly adjacent to vertical fenestration, oriented horizontally and projecting horizontally from its interior or exterior vertical surface.
+
+INTEGRATED SHADING SYSTEM is a class of fenestration products including an active layer: e.g., shades, louvers, blinds or other materials permanently integrated between two or more glazing layers. The U-factor and/or
+SHGC and VT of the insulating glass assembly can be
+altered by reversibly changing the enclosed active layer.
+
+LIGHT SHELF is an adjacent, opaque surfaced daylighting device located at the sill of clerestory glazing, oriented horizontally and projecting horizontally from an interior or exterior vertical surface.
+
+MANUFACTURED or KNOCKED DOWN PRODUCT is a fenestration product constructed of materials that are factory cut or otherwise factory formed with the specific intention of being used to fabricate a fenestration product. Knocked down or partially assembled products may be sold as a fenestration product when provided with temporary and permanent labels as described in Section 10-111, or as a site-built fenestration product when not provided with temporary and permanent labels as described in Section 10-111.
+
+NFRC 100 is the National Fenestration Rating Council document titled “Procedure for Determining Fenestration Product U-factors,” (2020) (ANSI/NFRC 100-2020).
+
+NFRC 200 is the National Fenestration Rating Council document titled “Procedure for Determining Fenestration Product Solar Heat Gain Coefficients and Visible Transmittance at Normal Incidence,” (2020) (ANSI/NFRC 200- 2020).
+
+NFRC 202 is the National Fenestration Rating Council document titled “Procedures for Determining Translucent Fenestration Product Visible Transmittance at Normal Incidence,” (2020) (ANSI/NFRC 202-2020).
+
+NFRC 203 is the National Fenestration Rating Council document titled “Procedure for Determining Visible Transmittance of Tubular Daylighting Devices,” (2020)
+(ANSI/NFRC 203-2020).
+
+NFRC 400 is the National Fenestration Rating Council document titled “Procedure for Determining Fenestration Product Air Leakage,” (2020) (ANSI/NFRC 400-2020).
+
+OPERABLE SHADING DEVICE is a device at the interior or exterior of a building or integral with a fenestration product, which is capable of being operated, either manually or automatically, to adjust the amount of solar radiation admitted to the interior of the building.
+
+RELATIVE SOLAR HEAT GAIN COEFFICIENT (RSHGC) is the ratio of solar heat gain through a fenestration product (corrected for external shading) to the incident solar radiation. Solar heat gain includes directly transmitted solar heat and absorbed solar radiation, which is then reradiated, conducted or convected into the space.
+
+SITE-BUILT is fenestration designed to be field-glazed or field assembled units using specific factory cut or otherwise factory formed framing and glazing units that are manufactured with the intention of being assembled at the construction site. These include storefront systems, curtain walls and atrium roof systems.
+
+SKYLIGHT ROOF RATIO (SRR) is the ratio of the skylight area to the gross exterior roof area.
+
+SOLAR HEAT GAIN COEFFICIENT (SHGC) is the ratio of the solar heat gain entering the space through the fenestration area to the incident solar radiation. Solar heat gain includes directly transmitted solar heat and absorbed solar radiation, which is then reradiated, conducted or convected into the space.
+
+SPANDRAL is opaque glazing material most often used to conceal building elements between floors of a building so they cannot be seen from the exterior, also known as “opaque in-fill systems.”
+
+TINTED GLASS is colored glass by incorporation of a mineral admixture resulting in a degree of tinting. Any tinting reduces both visible and radiant transmittance.
+
+VERTICAL FENESTRATION is all fenestration other than skylights and doors.
+
+VISIBLE REFLECTANCE is the reflectance of light at wavelengths from 410 to 722 nanometers.
+
+VISIBLE TRANSMITTANCE (VT) is the ratio (expressed as a decimal) of visible light that is transmitted through a glazing fenestration. The higher the VT rating, the more light is allowed through a window.
+
+WINDOW is fenestration that is not a skylight and that is an assembled unit consisting of a frame and sash component holding one or more pieces of glazing.
+
+WINDOW AREA is the area of the surface of a window, plus the area of the frame, sash and mullions.
+
+WINDOW HEAD HEIGHT is the height from the floor to the top of the vertical fenestration.
+
+WINDOW WALL RATIO (WWR) is the ratio of the window area to the gross exterior wall area.
+
+FIELD ERECTED COOLING TOWERS are cooling towers which are custom designed for a specific application and which cannot be delivered to a project site in the form of factory assembled modules due to their size, configuration, or materials of construction.
+
+FIREPLACE is a hearth and fire chamber, or similar prepared place, in which a fire may be made and which is built in conjunction with a flue or chimney, including but not limited to factory-built fireplaces, masonry fireplaces, and masonry heaters as further clarified in the CBC.
+
+FLOOR/SOFFIT TYPE is a type of floor/soffit assembly having a specific heat capacity, framing type and U-factor.
+
+FLUID COOLER is a fan-powered heat rejection device that includes a water or glycol circuit connected by a closed circulation loop to a liquid-cooled refrigerant condenser, and may be either evaporative-cooled, or air-cooled, or a combination of the two.
+
+FLUX is the rate of energy flow per unit area.
+
+FOOD PREPARATION EQUIPMENT is cooking equipment intended for commercial use, including coffee machines, espresso coffee makers, conductive cookers, food warmers including heated food servers, fryers, griddles, nut warmers, ovens, popcorn makers, steam kettles, ranges and cooking appliances for use in commercial kitchens, restaurants or other business establishments where food is dispensed.
+
+FREEZER is a space designed to be capable of operation at less than 28°F.
+
+GAS COOLER is a refrigeration component that reduces the temperature of a refrigerant vapor by rejecting heat to air mechanically circulated over its heat transfer surface. Used by a CO2 refrigeration system in transcritical mode, and normally also capable of operating in subcritical mode.
+
+GAS COOLING EQUIPMENT is cooling equipment that produces chilled water or cold air using natural gas or liquefied petroleum gas as the primary energy source.
+
+GAS HEATING SYSTEM is a system that uses natural gas or liquefied petroleum gas as a fuel to heat a conditioned space.
+
+GAS LOG is a self-contained, free-standing, open-flame, gas-burning appliance consisting of a metal frame or base supporting simulated logs, and designed for installation only in a vented fireplace.
+
+GLAZED DOOR is an exterior door having a glazed area of 50 percent or greater of the area of the door.
+
+GLAZING (See “fenestration product.”)
+
+GLOBAL WARMING POTENTIAL (GWP) is the radiative forcing impact of one mass-based unit of a given greenhouse gas relative to an equivalent unit of carbon dioxide over a given period of time.
+
+GLOBAL WARMING POTENTIAL VALUE (GWP Value) is the 100-year GWP value published by the Intergovernmental Panel on Climate Change (IPCC) in either its Second Assessment Report (SAR) (IPCC, 1995), or its Fourth Assessment A-3 Report (AR4) (IPCC, 2007). Both the 1995 IPCC SAR values and the 2007 IPCC AR4 values are published in Table 2.14 of the 2007 IPCC AR4. The SAR GWP values are found in column “SAR (100-yr)” of Table 2.14.; the AR4 GWP values are found in column “100 yr” of Table 2.14.
+
+GOVERNMENTAL AGENCY is any public agency or subdivision thereof, including, but not limited to, any agency of the state, a county, a city, a district, an association of governments or a joint power agency.
+
+GROSS EXTERIOR ROOF AREA is the sum of the skylight area and the exterior roof/ceiling area.
+
+GROSS EXTERIOR WALL AREA is the sum of the window area, door area and exterior wall area.
+
+HABITABLE SPACE is space in a building for living, sleeping, eating or cooking, excluding bathrooms, toilets, hallways, storage areas, closets, utility rooms and similar areas are not considered habitable spaces. (See also “occupiable space”.)
+
+HABITABLE STORY is a story that contains habitable space and that has at least 50 percent of its volume above grade.
+
+HEALTHCARE FACILITY is any building or portion thereof licensed pursuant to California Health and Safety Code Division 2, Chapter 1, §1204 or Chapter 2, §1250.
+
+HEAT CAPACITY (HC) is the measurable physical quantity that characterizes the amount of heat required to change a substance’s temperature by a given amount.
+
+HEAT PUMP is an appliance that consists of one or more assemblies; that uses an indoor conditioning coil, a compressor, and a refrigerant-to-outdoor air heat exchanger to provide air heating; and that may also provide air cooling, dehumidifying, humidifying, circulating, or air cleaning.
+
+HEAT PUMP WATER HEATER (HPWH) is a water
+heater that transfers thermal energy from one temperature
+level to a higher temperature level for the purpose of heating
+water, including all ancillary equipment such as fans, storage
+tanks, pumps or controls necessary for the device to perform
+its function.
+
+MULTI-PASS HEAT PUMP WATER HEATER  is an
+HPWH in which the cold water passes through the heat
+pump(s) multiple times, each time gaining a temperature
+increase, until the tank reaches the intended storage temperature.
+
+SINGLE-PASS HEAT PUMP WATER HEATER  is an
+HPWH in which the cold water passes through the heat
+pump(s) once and is heated to the intended storage temperature.
+
+HEATED SLAB FLOOR is a concrete floor either on-grade, raised, or a lightweight concrete slab topping. Heating is provided by a system placed within or under the slab and is sometimes referred to as a radiant slab floor.
+
+HEATING EQUIPMENT is equipment used to provide mechanical heating for a room or rooms in a building.
+
+HEATING SEASONAL PERFORMANCE FACTOR (HSPF) is the total heating output of a central air-conditioning heat pump (in Btu) during its normal use period for heating divided by the total electrical energy input (in watt-hours) during the same period, as determined using the applicable test method in the Appliance Efficiency Regulations.
+
+HEATING SEASONAL PERFORMANCE FACTOR 2 (HSPF2)  is the HSPF metric for residential central heat pumps effective January 1, 2023, as created by the U.S. Department of Energy “ISSUANCE 2016-11-30 Energy Conservation Program: Test Procedures for Central Air Conditioners and Heat Pumps, Final Rule.”
+
+HIGH-RISE RESIDENTIAL BUILDING is a building, other than a hotel/motel, of occupancy Group R-2 or R-4 with four or more habitable stories.
+
+HORTICULTURAL LIGHTING  consists of luminaires used for plant growth and maintenance. Horticultural luminaires may have either plug-in or hard-wired connections for electric power.
+
+HOTEL/MOTEL is a building or buildings that has six or more guest rooms or a lobby serving six or more guest rooms, where the guest rooms are intended or designed to be used, or which are used, rented or hired out to be occupied, or which are occupied for sleeping purposes by guests, and all conditioned spaces within the same building envelope. Hotel/motel includes all conditioned spaces which are (1) on the same property as the hotel/motel, (2) served by the same central heating, ventilation and air-conditioning system as the hotel/motel, and (3) integrally related to the functioning of the hotel/motel as such, including, but not limited to, exhibition facilities, meeting and conference facilities, food service facilities, lobbies and laundries. Hotel/motel also includes the following:
+
+A building of Occupancy Group R-1,
+
+Vacation timeshare properties and hotel or motel buildings
+of Occupancy Group R-2, and
+
+The following types of Occupancy Group R-3:
+
+Congregate residences for transient use,
+
+Boarding houses of more than 6 guests, and
+
+Alcohol or drug abuse recovery homes of more than 6 guests.
+Congregate residences for transient use,
+
+Boarding houses of more than 6 guests, and
+
+Alcohol or drug abuse recovery homes of more than 6 guests.
+
+HVAC SYSTEM is a space-conditioning system or a ventilation system.
+
+HVI 915  is the Home Ventilating Institute document titled
+“HVI Loudness Testing and Rating Procedure,” 2020 (HVI
+Publication 915-2020).
+
+HVI 916  is the Home Ventilating Institute document titled
+“HVI Airflow Test Procedure,” 2020 (HVI Publication 916-
+2020).
+
+HVI 920 is the Home Ventilating Institute document titled “HVI Product Performance Certification Procedure Including
+Verification and Challenge,” 2020 (HVI Publication 920-
+2020).
+
+IES HB (See “IES Lighting Library.”)
+
+IES LIGHTING LIBRARY, formerly called the “IES
+Lighting Handbook (IES HB),” is the Illuminating Engineering Society document titled “The IES Lighting LibraryTM.”
+
+INTEGRATED SEASONAL COEFFICIENT OF PERFORMANCE (ISCOP) is a seasonal efficiency number that is a combined value based on the formula listed in AHRI
+Standard 920 of the two COP values for the heating season of
+a DX-DOAS unit water or air source heat pump, expressed in
+W/W.
+
+INTEGRATED SEASONAL MOISTURE REMOVAL EFFICIENCY (ISMRE) is a seasonal efficiency number
+that is a combined value based on the formula listed in AHRI
+Standard 920 of the four dehumidification moisture removal efficiency (MRE) ratings required for DX-DOAS units,
+expressed in lb of moisture/kWh.
+
+IES LM-79-19 is an American National Standard authored by the Illuminating Engineering Society and titled “Approved
+Method: Optical and Electrical Measurements of Solid-State
+Lighting Products,” (2019) (ANSI/IES LM-79-19).
+
+IES LS-1-20 is an American National Standard authored by the Illuminating Engineering Society and titled “Lighting Science: Nomenclature and Definitions for Illuminating Engineering,” 2020 (ANSI/IES LS-1-20).
+
+IES TM-15-20 is an American National Standard authored by the Illuminating Engineering Society and titled “Technical Memorandum: Luminaire Classification System for Outdoor Luminaires,” (2020) (ANSI/IES TM-15-20).
+
+INDOOR GROWING is a type of CEH space in a building
+with a Skylight Roof Ratio less than 50 percent. Growing
+plants in a warehouse with or without skylights is an example
+of indoor growing.
+
+INFILTRATION is uncontrolled inward air leakage from outside a building or unconditioned space, including leakage through cracks and interstices, around windows and doors, and through any other exterior or demising partition or pipe or duct penetration. See AIR BARRIER.
+
+INFORMATION TECHNOLOGY EQUIPMENT (ITE) includes computers, data storage, servers and network/communication equipment located in a computer room.
+
+INTEGRATED ENERGY EFFICIENCY RATIO (IEER) is a single-number cooling part-load efficiency figure of
+merit calculated as specified by the method described in
+ANSI/AHRI Standard 340/360/1230. This metric replaces the
+IPLV for ducted and non-ducted units.
+
+INTEGRATED HVAC SYSTEM  is an HVAC system
+designed to handle both sensible and latent heat removal.
+Integrated HVAC systems may include, but are not limited
+to: HVAC systems with a sensible heat ratio of 0.65 or less
+and the capability of providing cooling, dedicated outdoor air
+systems, single package air conditioners with at least one
+refrigerant circuit providing hot gas reheat, and dehumidifiers
+modified to allow external heat rejection.
+
+INTEGRATED PART-LOAD VALUE (IPLV) is a single-number cooling part-load efficiency figure of merit calculated as specified by the method described in ANSI/AHRI Standard 550/590 for use with chillers.
+
+ISO 5801  is the International Organization for Standardization document titled “Fans—Performance testing using standardized airways,” 2017 (ISO 5801:2017).
+
+ISO 13256-1 is the International Organization for Standardization document titled “Water-source heat pumps—Testing and rating for performance—Part 1: Water-to-air and brine-to-air heat pumps,” 2012 [ANSI/AHRI/ASHRAE ISO 13256-1:1998 (RA 2012)].
+
+ISO 13256-2 is the International Organization for Standardization document titled “Water-source heat pumps—Testing and rating for performance—Part 1: Water-to-water and brine-to-water heat pumps,” 2012 [ANSI/AHRI/ASHRAE ISO 13256-2-01 (R2012)].
+
+ISO 17025 is the International Organization for Standardization document titled “General Criteria for the Competence of Testing and Calibration Laboratories,” 2017 (ISO/IEC 17025:2017).
+
+ITE DESIGN LOAD  is the combined power of all the ITE loads for which the ITE cooling system is designed.
+
+LANGELIER SATURATION INDEX (LSI)  is expressed as the difference between the actual system pH and the saturation pH. LSI indicates whether water will precipitate, dissolve or be in equilibrium with calcium carbonate, and is a function of hardness, alkalinity, conductivity, pH and temperature.
+
+LARGEST NET CAPACITY INCREMENT  is the largest increase in capacity when switching between combinations of base compressors that is expected to occur under the compressed air system control scheme.
+
+LIGHTING definitions:
+
+Accent lighting is directional lighting to emphasize a particular object or surface feature, or to draw attention to a part of the field of view. It can be recessed, surface mounted or mounted to a pendant, stem or track, and can be display lighting. It shall not provide general lighting.
+
+Astronomical time-switch control  is a lighting control
+that controls lighting based on the time of day and astronomical events such as sunset and sunrise, accounting for
+geographic location and calendar date.
+
+Automatic daylight control adjusts the luminous flux of the electric lighting system either in a series of steps or by continuous dimming in response to available daylight. This kind of control uses one or more photosensors to detect changes in daylight illumination and then automatically adjusts the electric lighting levels in response.
+
+Automatic scheduling control  is a time-based lighting
+control that is capable of being programmed to reduce or
+turn off lighting power for a portion of the night and to
+turn off lighting power for the day.
+
+Automatic time switch control  controls lighting based on the time of day.
+
+Captive-key override is a type of lighting control in which the key that activates the override cannot be released when the lights are in the on position.
+
+Chandelier is a ceiling-mounted, close-to-ceiling or suspended decorative luminaire that uses glass, crystal, ornamental metals or other decorative material.
+
+Correlated Color Temperature (CCT) is the absolute temperature of a blackbody whose chromaticity most nearly resembles that of the light source.
+
+Color Rendering Index (CRI) is a measure of the degree of color shift that objects undergo when illuminated by the lighting source as compared with the color of the same objects when illuminated by a reference source of comparable color temperature. CRI is calculated according to CIE 13.3.
+
+Colored light source is a light source designed and marketed as a colored light source and not designed or marketed for general lighting applications with either of the following characteristics maintained throughout all modes of operation including color changing operation:
+
+(1) A Color Rendering Index (CRI) less than 40, as determined according to the method set forth in CIE Publication 13.3; or
+
+(2) A Correlated Color Temperature as measured with ANSI/IES LM-66-20 or ANSI/IES LM-79-19 (as appropriate) and calculated with CIE 15, which does not have a corresponding nominal CCT designation in ANSI C78.377-2017.
+
+Compact fluorescent lamp is a fluorescent lamp with a small-diameter glass tube (T5 or smaller) that is folded, bent or bridged to create a long discharge path in a small volume. The lamp designs generally include an amalgam and a cold chamber, or a cold spot, to control the mercury vapor pressure and light output.
+
+Countdown timer switch turns lighting or other loads ON when activated using one or more selectable countdown time periods and then automatically turns lighting or other loads OFF when the selected time period has elapsed.
+
+Daylight continuous dimming controls are continuous dimming controls that vary the luminous flux in response to available daylight.
+
+Decorative (lighting/luminaires) is lighting or luminaires installed only for aesthetic purposes and that does not serve as display lighting or general lighting. Decorative luminaires are chandeliers, sconces, lanterns, neon or cold cathode, light emitting diodes, theatrical projectors, moving lights and light color panels not providing general lighting or task lighting.
+
+Dimmer is a device used to control the intensity of light emitted by a luminaire by controlling the voltage or current available to it.
+
+Dimmer, continuous means a dimmer that varies the luminous flux of the electric lighting system over a continuous range from the device's maximum light output to the device's minimum light output without visually apparent abrupt changes in light level between the various steps.
+
+Dimmer, forward phase cut varies the luminous flux of the electric lighting system in which a portion of the alternating current voltage waveform supplying to the light source is removed.
+
+Dimmer, stepped varies the luminous flux of the electric lighting system in one or more predetermined discrete steps between maximum light output and OFF with changes in light level between adjacent steps being visually apparent.
+
+Display lighting, case is lighting that provides a higher level of illuminance to a specific area than the level of surrounding ambient illuminance of small art objects, artifacts or valuable collections that involve customer inspection of very fine detail from outside of a glass enclosed display case.
+
+Display lighting, floor is supplementary lighting that provides a higher level of illuminance to a specific area than the level of surrounding ambient illuminance required to highlight features, such as merchandise on a clothing rack or sculpture or free standing of artwork, not displayed against a wall.
+
+Display lighting, wall is supplementary lighting that provides a higher level of illuminance to a specific area than the level of surrounding ambient illuminance required to highlight features, such as merchandise on a shelf or wallmounted artwork, displayed on perimeter walls.
+
+Display lighting, window is lighting that provides a higher level of illuminance to a specific area than the level of surrounding ambient illuminance of objects such as merchandise, goods and artifacts, in a show window, to be viewed from the outside of a space through a window.
+
+Enclosed luminaires are luminaires which contain enclosed lamp compartments where ventilation openings are less than 3 square inches per lamp in the lamp compartment as defined by UL 1598.
+
+General lighting  is installed electric lighting that provides a uniform level of illumination throughout an area, exclusive of any provision for special visual tasks or decorative effect, exclusive of daylighting, and also known as ambient lighting.
+
+GU-24  is the designation of a lamp holder and socket configuration, based on a coding system by the International Energy Consortium, where “G” indicates the broad type of two or more projecting contacts, such as pins or posts, “U” distinguishes between lamp and holder designs of similar type but that are not interchangeable due to electrical or mechanical requirements, and “24” indicates 24 millimeters center to center spacing of the electrical contact posts.
+
+Illuminance is the area density of the luminous flux incident at a point on a surface.
+
+Illumination is commonly used in a qualitative sense to designate the act of illuminating or the state of being illuminated.
+
+Inseparable Solid State Lighting (SSL) Luminaire  is a luminaire featuring solid state lighting components such as LEDs, light engines and/or driver components which cannot be easily removed or replaced by the end user, thus requiring replacement of the entire luminaire. Removal of solid state lighting components may require the cutting of wires, use of a soldering iron, or damage to or destruction of the luminaire. If solid state lighting components are not removable without destruction to the luminaire, the luminaire is deemed inseparable.
+
+Institutional tuning is the process of adjusting the maximum light output of lighting systems to support visual needs or save energy. Institutional tuning differs from personal tuning in that the control strategy is implemented at the institutional rather than the individual user level, and maximum light level adjustments are available only to authorized personnel.
+
+Lamp is an electrical appliance that produces optical radiation for the purpose of visual illumination, designed with a base to provide an electrical connection between the lamp and a luminaire, and designed to be installed into a luminaire. A lamp is not a luminaire and is not an LED retrofit kit
+
+Landscape lighting  is a type of outdoor lighting that is recessed into or mounted on the ground, paving or raised deck, which is mounted less than 42 inches above grade or mounted onto trees or trellises, and that is intended to be aimed only at landscape features.
+
+Lantern  is an outdoor luminaire that uses an electric lamp to replicate the appearance of a pre-electric lantern, which used a flame to generate light.
+
+Light is a form of radiant energy that is capable of exciting the retina and producing a visual sensation. The visible portion of the electromagnetic spectrum extends from about 380 to about 770 nanometers.
+
+Lighting, or illumination, is commonly used in a qualitative or general sense to designate the act of illuminating or the state of being illuminated.
+
+Lighting control, self-contained  is a unitary lighting control module that requires no additional components to be a fully functional lighting control.
+
+Lighting control system requires two or more components to be installed in the building to provide all the functionality required to make up a fully functional and compliant lighting control.
+
+Light emitting diode (LED) is a p-n junction semiconductor device that emits incoherent optical radiation when forward-biased. The optical emission may be in the ultraviolet, visible or infrared wavelength regions.
+
+LED driver  is a device composed of a power source and light emitting diode (LED) control circuitry designed to operate an LED package (component), an LED array (module) or an LED lamp. An LED driver is a power source that adjusts the voltage or current to LEDs, ranging in complexity from a resistor to a constant voltage or constant current power supply. An LED driver is also known and referred to as lamp control gear.
+
+LED light engine is an integrated assembly composed of light emitting diode (LED) packages (components) or LED arrays (modules), as well as an LED driver and other optical, thermal, mechanical and electrical components. The device is intended to connect directly to the branch circuit through a custom connector compatible with the LED luminaire for which it was designed. It does not use an ANSI standard base.
+
+LED retrofit kit  is a solid state lighting product intended to replace existing light sources and systems, including incandescent and fluorescent light sources, in previously installed luminaires that already comply with safety standards. These kits replace the existing light source and related electrical components, and are classified or certified to UL 1598C. They may employ an ANSI standard lamp base, either integral or connected to the retrofit by wire leads. LED retrofit kit does not include self-ballasted lamps.
+
+Integrated LED lamp  is an integrated assembly composed of light emitting diode (LED) packages (components) or LED arrays (modules), as well as an LED driver, an ANSI standard base, and other optical, thermal, mechanical and electrical components. The device is intended to connect directly to the branch circuit through a corresponding ANSI standard lamp-holder (socket). (ANSI/IES LS-1-20).
+
+Non-integrated LED lamp is an assembly composed of a light emitting diode (LED) array (module) or LED packages (components), and an ANSI standard base. The device is intended to connect to the LED driver of an LED luminaire through an ANSI standard lampholder (socket). The device cannot be connected directly to the branch circuit. (ANSI/IES LS-1-20).
+
+Low voltage is less than 90 volts.
+
+Luminaire  is a complete lighting unit consisting of a light source such as a lamp or lamps, together with the parts that distribute the light, to position and protect the light source, and to connect the light source to the power supply.
+
+Luminaire alteration  is adding luminaires, removing and reinstalling luminaires, or combined replacement of lamps and ballasts or drivers. Luminaire alterations do not include repairs, such as replacing lamps only, ballasts or drivers only, diffusers, shades or luminaire covers.
+
+Luminance  is the luminous intensity of the source or surface divided by the area of the source or surface seen by the observer.
+
+Luminous efficacy  is a measure of the luminous efficiency of a light source. It is the quotient of the total luminous flux emitted by the total light source power input, expressed in lm/W.
+
+Luminous flux is the time rate of flow of radiant energy, evaluated in terms of a standardized visual response.
+
+Luminous maintenance  (often referred to as “lumen flux maintenance” or “lumen maintenance”) is the remaining luminous flux output, typically expressed as a percentage of initial luminous flux output, at any selected elapsed operating time. Luminous maintenance is the converse of luminous flux depreciation (or “lumen depreciation”).
+
+Marquee lighting  is a permanent lighting system consisting of one or more rows of many small lamps, including light emitting diodes (LEDs) lamps, tungsten lamps, low pressure discharge lamps or fiber optic lighting, attached to a canopy.
+
+Multilevel Astronomical Time Switch is an astronomical time-switch control that reduces lighting power in multiple steps.
+
+Multilevel lighting control reduces power going to a lighting system in multiple steps.
+
+Multiscene programmable control allows for two or more predefined lighting settings, in addition to allOFF, for two or more groups of luminaires to suit multiple activities in the space.
+
+Narrow band spectrum  is a limited range of wavelengths (nm) concentric to a dominant peak wavelength in the visible spectrum. The limited range of wavelength shall be within 20 nm on either side of the peak wavelength at 50 percent of the peak wavelength’s relative spectral power, and within 75 nm on either side of the peak wavelength at 10 percent of the peak wavelength’s relative spectral power.
+
+NEMA LSD 57 is the National Electrical Manufacturers Association document titled “Polyurethane Foam Application: Lighting Equipment,” 2018 (NEMA LSD 57-2018).
+
+NEMA SSL 7A  is the National Electrical Manufacturers Association document titled “Phase Cut Dimming for Solid State Lighting: Basic Compatibility,” 2015 (NEMA SSL 7A-2015).
+
+Occupant sensing controls automatically control levels of illumination, allow for manual operation and consist of the following types:
+
+Motion sensing control is used outdoors, automatically reduces lighting power or turns lights OFF after an area is vacated of occupants, and automatically turns the lights ON when the area is occupied.
+
+Occupant sensing control is used indoors, automatically reduces lighting power or turns lights OFF after an area is vacated of occupants, and is capable of automatically turning the lighting load ON when an area is occupied.
+
+Partial-ON occupant or motion sensing control automatically turns lights OFF after an area is vacated of occupants and is capable of automatically or manually turning ON part of the lighting load when an area is occupied.
+
+Partial-OFF occupant or motion sensing control automatically dims the lighting or turns OFF part of the lighting load after an area is vacated of occupants, and is capable of automatically turning ON the lighting load or restoring it to full when an area is occupied.
+
+Vacancy sensing control automatically turns lights OFF after an area is vacated of occupants but requires lights to be turned ON manually.
+
+One-to-one alteration is either replacement of whole luminaires one for one, in which the only electrical modification involves disconnecting the existing luminaire and reconnecting the replacement luminaire, or when components of a luminaire are modified without replacing the entire luminaire.
+
+Ornamental lighting/Luminaires are lighting or luminaires installed outdoors that are rated for 50 watts or less that are post-top luminaires, lanterns, pendant luminaires, chandeliers and marquee lighting, not providing general lighting or task lighting.
+
+Pendant luminaire (Suspended luminaire) A luminaire that is hung from a ceiling by supports.
+
+Permanently installed lighting consists of luminaires that are affixed to land, within the meaning of Civil Code Sections 658 and 660, except as provided below. Permanently installed luminaires may be mounted inside or outside of a building or site. Permanently installed luminaires may have either plug-in or hardwired connections for electric power. Examples include track and flexible lighting systems; lighting attached to walls, ceilings, columns, inside or outside of permanently installed cabinets, internally illuminated cabinets, mounted on poles, in trees, or in the ground; attached to ceiling fans and integral to exhaust fans. Permanently installed lighting does not include portable lighting or lighting that is installed by the manufacturer in exhaust hoods for cooking equipment, refrigerated cases, food preparation equipment, and scientific and industrial equipment.
+
+Photo control automatically turns lights ON and OFF, or automatically adjusts lighting levels, in response to the amount of daylight that is available. A photo control may also be one component of a field-assembled lighting system, the component having the capability to provide a signal proportional to the amount of daylight to a lighting control system to dim or brighten the electric lights in response.
+
+Portable lighting is lighting equipment designed for manual portability, with plug-in connections for electric power, that is: table and freestanding floor lamps; attached to modular furniture; workstation task luminaires; luminaires attached to workstation panels; attached to movable displays; or attached to other personal property.
+
+Post top luminaire is an outdoor luminaire that is mounted directly on top of a lamp-post.
+
+Precision lighting is task lighting for commercial or industrial work that illuminates low contrast, finely detailed, or fast moving objects.
+
+Radiant energy is energy travelling in the form of electromagnetic waves. It is measured in units of energy such as joules or kilowatt hours.
+
+Radiant power is the time rate of flow of radiant energy. It is expressed preferably in watts.
+
+Recessed luminaire is a luminaire that is mounted in the ceiling or behind a wall or other surface with the opening of the luminaire flush with the surface.
+
+Sconce is a wall mounted decorative accent luminaire.
+
+Security cameras are any operational camera used to enhance the safety and security within a general hardscape area.
+
+Shut-off controls are any lighting control capable of automatically shutting OFF the lighting in a space when the space is typically unoccupied.
+
+Solid State Lighting (SSL) is a family of light sources that includes: semiconductor light emitting diodes (LEDs); and organic light emitting diodes (OLEDs).
+
+Driver, when used in relation to solid state lighting, is a device that uses semiconductors to control and supply DC power for LED starting and operation.
+
+Source (light) is the general term used to reference a source of light. It can refer variously to an electric lamp, a light emitting diode (LED), an entire luminaire with lamp and optical control, or fenestration for daylighting.
+
+Special effects lighting is lighting installed to give off luminance instead of providing illuminance, which does not serve as general, task or display lighting.
+
+Task lighting is lighting directed to a specific surface or area, providing illumination for visual tasks. Task lighting is not general lighting.
+
+Temporary lighting  is a lighting installation, with plug-in connections, that does not persist beyond 60 consecutive days or more than 120 days per year.
+
+Track lighting is a lighting equipment system consisting of an electrified power channel (track) and removable luminaires (lamp holders; track heads) that can be mechanically attached anywhere along the power channel. The luminaires can be repositioned and re-aimed as desired. Track lighting includes the following types:
+
+Line-voltage track lighting  is equipped with luminaires that use line-voltage lamps or that are equipped with integral transformers at each luminaire.
+
+Low-voltage track lighting is equipped with remote transformers for use with low-voltage equipment along the entire length of track.
+
+Track lighting integral current limiter  consists of a current limiter integral to the end-feed housing of a manufactured line-voltage track lighting system.
+
+Track lighting supplementary overcurrent protection panel  is a panelboard containing Supplementary Overcurrent Protection Devices as defined in Article 100 of the California Electrical Code, and used only with line voltage track lighting.
+
+Track-mounted luminaires are luminaires designed to be attached at any point along a track lighting system. Track-mounted luminaires may be line-voltage or lowvoltage.
+
+Tunable lighting are light sources with the ability to alter their luminous flux and/or spectral power distribution. Tunable lighting includes the following types:
+
+Color tunable light source is capable of emitting highly saturated light of varying hues, as well as white light, for example by varying the relative intensity of individual emitters within the light source.
+
+Dim-to-warm  (also known as warm dim) light source is capable of simultaneously decreasing its correlated color temperature as its light output decreases, typically resembling the change in color temperature of an incandescent lamp as it dims.
+
+Tunable white light source is capable of adjusting its correlated color temperature while maintaining its relative light output and capable of adjusting its light output while maintaining its correlated color temperature.
+
+LISTED is in accordance with Article 100 of the California Electrical Code.
+
+LOW-GWP REFRIGERANT is a compound used as a heat transfer fluid or gas that is: (A) any compound or blend of compounds, with a GWP Value less than 150; and (B) U.S. EPA Significant New Alternatives Policy (SNAP)-approved; and (C) not an ozone depleting substance as defined in Title 40 of the Code of Federal Regulations, Part 82, §82.3 (as amended March 10, 2017).
+
+LOW-RISE RESIDENTIAL BUILDING is a building, other than a hotel/motel that is Occupancy Group:
+
+R-2, multifamily, with three habitable stories or less; or
+
+R-3, single family; or
+
+U-building, located on a residential site.
+R-2, multifamily, with three habitable stories or less; or
+
+R-3, single family; or
+
+U-building, located on a residential site.
+
+LPG is liquefied petroleum gas.
+
+MANUAL is capable of being operated by personal intervention.
+
+MANUFACTURED DEVICE is any heating, cooling, ventilation, lighting, water heating, refrigeration, cooking, plumbing fitting, insulation, door, fenestration product, or any other appliance, device, equipment, or system subject to Sections 110.0 through 110.9 of Part 6.
+
+MECHANICAL COOLING is lowering the temperature within a space using refrigerant compressors or absorbers, desiccant dehumidifiers or other systems that require energy to directly condition the space. Systems that are solely energy recovery ventilation (ERV) or heat recovery ventilation (HRV) are not considered mechanical cooling. In nonresidential, multifamily buildings and hotel/motel buildings, cooling of a space by direct or indirect evaporation of water alone is not considered mechanical cooling.
+
+MECHANICAL HEATING  is raising the temperature within a space using electric resistance heaters, fossil fuel burners, heat pumps or other systems that require energy to directly condition the space. Systems that only use solar energy or heat recovery as the heat source are not mechanical heating systems.
+
+MERV is the minimum efficiency reporting value as determined by ASHRAE Standard 52.2 Method of Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size.
+
+METAL BUILDING is a complete integrated set of mutually dependent components and assemblies that form a building, which consists of a steel-framed superstructure and metal skin. This does not include structural glass or metal panels such as in a curtainwall system.
+
+MICROCHANNEL CONDENSER is an air-cooled condenser for refrigeration systems which utilizes multiple small parallel gas flow passages in a flat configuration with fin surfaces bonded between the parallel gas passages.
+
+MINISPLIT AIR CONDITIONERS AND HEAT PUMPS are air conditioner or heat pump systems that have a single outdoor section and one or more indoor sections. The indoor sections cycle on and off in unison in response to a single indoor thermostat.
+
+MODELING ASSUMPTIONS are the conditions (such as weather conditions, thermostat settings and schedules, internal gain schedules, etc.) that are used for calculating a building’s annual energy consumption as specified in the Alternative Calculation Methods (ACM) Approval Manuals.
+
+MULTIFAMILY BUILDING is any of the following:
+
+A building of Occupancy Group R-2, other than a hotel/ motel building or timeshare property,
+
+A building of Occupancy Group R-3 that is a nontransient congregate residence, other than boarding houses of more than 6 guests and alcohol or drug abuse recovery homes of more than 6 guests, or
+
+A building of Occupancy Group R-4.
+A building of Occupancy Group R-2, other than a hotel/ motel building or timeshare property,
+
+A building of Occupancy Group R-3 that is a nontransient congregate residence, other than boarding houses of more than 6 guests and alcohol or drug abuse recovery homes of more than 6 guests, or
+
+A building of Occupancy Group R-4.
+
+MULTIPLE-SPLIT AIR CONDITIONERS AND HEAT PUMPS are air conditioner or heat pump systems that have two or more indoor sections. The indoor sections operate independently and can be used to condition multiple zones in response to multiple indoor thermostats.
+
+MULTIPLE ZONE SYSTEM is an air distribution system that supplies air to more than one space conditioning zone, each of which has one or more devices (such as dampers, cooling coils and heating coils) that regulate airflow, cooling or heating capacity to the zone.
+
+NATURAL GAS AVAILABILITY. For newly constructed buildings, natural gas is available if a gas service line can be connected to the site without a gas main extension. For addition and alteration, natural gas is available if a gas service line is connected to the existing building.
+
+NEEA is the Northwest Energy Efficiency Alliance.
+
+NEEA ADVANCED WATER HEATER SPECIFICATION is the Northwest Energy Efficiency Alliance (NEEA) specification version 7.0 for heat pump water heaters.
+
+NET EXHAUST FLOW RATE is the exhaust flow rate for a hood, minus any internal discharge makeup air flow rate.
+
+NET SENSIBLE COEFFICIENT OF PERFORMANCE (COP)  is defined by AHRI 1360 and includes all indoor unit power and air-cooled condenser/condensing unit power for air-cooled units and includes all indoor unit power and the power allowance for pump and heat rejection as described in the Heat Rejection/Cooling Fluid Standard Rating Conditions table of AHRI 1360 for water, glycol and chilled water units.
+
+NEWLY CONDITIONED SPACE is any space being converted from unconditioned to directly conditioned or indirectly conditioned space. Newly conditioned space must comply with the requirements for an addition. See Section 141.0 for nonresidential occupancies and Section 150.2 for residential occupancies.
+
+NEWLY CONSTRUCTED BUILDING is a building that has never been used or occupied for any purpose.
+
+NONDUCTED SYSTEM is an air conditioner or heat pump that is permanently installed; directly heats or cools air within the conditioned space; and uses one or more indoor coils that are mounted on walls or ceilings within the conditioned space. The system may be of a modular design that allows for combining multiple outdoor coils and compressors to create one unified system.
+
+NONRESIDENTIAL BUILDING is any building which is identified in the California Building Code Table; Description of Occupancy as Group A, B, E, F, H, I, M, or S, and is a U; as defined by Part 2 of Title 24 of the California Code or Regulation.
+
+Note: Requirements for high-rise residential buildings and hotels/motels are included in the nonresidential sections of Part 6.
+
+NONRESIDENTIAL BUILDING OCCUPANCY TYPES are building types in which a minimum of 90 percent of the building floor area functions as one of the following, which do not qualify as any other Building Occupancy Types more specifically defined in Section 100.1, and which do not have a combined total of more than 10 percent of the area functioning of any Nonresidential Function Areas specifically defined in Section 100.1:
+
+Assembly building is a building with meeting halls in which people gather for civic, social, or recreational activities. These include civic centers, convention centers and auditoriums.
+
+Commercial and industrial storage building  is a building with building floor areas used for storing items.
+
+Financial institution building is a building with floor areas used by an institution which collects funds from the public and places them in financial assets such as deposits, loans, and bonds.
+
+Grocery store building is a building with building floor areas used for the display and sale of food.
+
+Gymnasium building is a building with building floor areas used for physical exercises and recreational sport events and activities.
+
+Industrial/manufacturing facility building is a building with building floor areas used for performing a craft, assembly or manufacturing operation.
+
+Library building is a building with building floor areas used for repository of literary materials and for reading reference, such as books, periodicals, newspapers, pamphlets and prints.
+
+Motion picture theater building is a building with building floor areas used for showing motion pictures to audiences.
+
+Museum building is a building with building floor areas in which objects of historical, scientific, artistic or cultural interests are curated, treated, preserved, exhibited and stored.
+
+Office building is a building of CBC Group B Occupancy with building floor areas in which business, clerical or professional activities are conducted.
+
+Parking garage building  is a building with building floor areas used for parking vehicles, and consists of at least a roof over the parking area enclosed with walls on all sides. The building includes areas for vehicle maneuvering to reach designated parking spaces. If the roof of a parking structure is also used for parking, the section without an overhead roof is considered an outdoor parking lot instead of a parking garage.
+
+Performance arts theater building is a building with building floor areas used for showing performing arts that include plays, music or dance to audiences.
+
+Religious facility building is a building with building floor areas used for assembly of people to worship.
+
+Restaurant building is a building with building floor areas in which food and drink are prepared and served to customers in return for money.
+
+Retail store building is a building with building floor areas used for the display and sale of merchandise except food.
+
+School building is a building used by an educational institution. The building floor area can include classrooms or educational laboratories and may include an auditorium, gymnasium, kitchen, library, multipurpose room, cafeteria, student union or workroom. A maintenance or storage building is not a school building.
+
+Sports arena building is a building with building floor areas used for public viewing of sporting events and activities. Sports arenas are classified according to the number of spectators they are able to accommodate, as follows:
+
+Class I Facility is used for competition play for 5,000 or more spectators.
+
+Class II Facility is used for competition play for up to 5,000 spectators.
+
+Class III Facility is used for competition play for up to 2,000 spectators.
+
+Class IV Facility is normally used for recreational play and there is limited or no provision for spectators.
+Class I Facility is used for competition play for 5,000 or more spectators.
+
+Class II Facility is used for competition play for up to 5,000 spectators.
+
+Class III Facility is used for competition play for up to 2,000 spectators.
+
+Class IV Facility is normally used for recreational play and there is limited or no provision for spectators.
+
+NONRESIDENTIAL COMPLIANCE MANUAL is the manual developed by the Commission, under Section 25402.1(e) of the Public Resources Code, to aid designers, builders and contractors in meeting the energy efficiency requirements for nonresidential, high-rise residential and hotel/motel buildings.
+
+NONRESIDENTIAL FUNCTION AREAS are those areas, rooms, and spaces within Nonresidential Buildings that fall within the following particular definitions and are defined according to the most specific definition.
+
+Aisle way is the passage or walkway between storage racks permanently anchored to the floor in a Commercial or Industrial Storage Building, where the racks are used to store materials such as goods and merchandise.
+
+Atrium  is a large-volume indoor space created by openings between two or more stories but is not used for an enclosed stairway, elevator hoistway, escalator opening or utility shaft for plumbing, electrical, air-conditioning or other equipment.
+
+Audience seating area is a room or area with fixed seats for public meetings or gatherings.
+
+Auditorium area is a room or area with a stage and fixed seats used for public meetings or gatherings.
+
+Auto repair/maintenance area  is an area used to repair or maintain automotive equipment and/or vehicles.
+
+Barber, beauty salon, spa area is a room or area in which the primary activity is manicures, pedicures, facials, or the cutting or styling of hair.
+
+Civic meeting place area is a space in a government building designed or used for public debate, discussion or public meetings of governmental bodies.
+
+Classroom, lecture, training, vocational area is a room or area where an audience or class receives instruction.
+
+Commercial and industrial storage area (refrigerated) is a room or area used for storing items where mechanical refrigeration is used to maintain the space temperature at 55°F or less.
+
+Convention, conference, multipurpose and meeting area are rooms or areas that are designed or used for meetings, conventions or events, and that have neither fixed seating nor fixed staging.
+
+Copy room is a room or area used for copying, scanning, or binding documents.
+
+Corridor area is a passageway or route into which compartments or rooms open.
+
+Dining areas include the following:
+
+Bar/lounge is a room or area where wait staff serve patrons with liquor, cocktails, wine and beer in a relaxed atmosphere, usually with tables and chairs.
+
+Cafeteria/fast food is a room or area where customers pick up their food at a counter and there is little or no wait staff or table service.
+
+Family dining is a room or area where wait staff serve patrons with meals in a casual atmosphere.
+
+Fine dining is a room or area where wait staff serve patrons with meals in an elegant and formal atmosphere.
+
+Electrical/mechanical/telephone room is a room in which the building’s electrical switchbox or control panels, telephone switchbox, and/or HVAC controls or equipment is located.
+
+Exercise/fitness center and gymnasium area is a room or area equipped for gymnastics, exercise equipment or indoor athletic activities.
+
+Financial transaction area is a room or area used by an institution that collects funds from the public and places them in financial assets such as deposits, loans and bonds, and includes tellers, work stations and customers’ waiting areas; to complete financial transactions. Financial transaction areas do not include private offices, hallways, restrooms or other support areas.
+
+Hotel function area is a hotel room or area such as a hotel ballroom, meeting room, exhibit hall or conference room, together with prefunction areas and other spaces ancillary to its function.
+
+Kitchen/food preparation area is a room or area with cooking facilities or where food is prepared.
+
+Laboratory, scientific area is a room or area where research, experiments, and measurement in medical and physical sciences are performed requiring examination of fine details. The area may include workbenches, countertops, scientific instruments, and associated floor spaces. Scientific laboratory does not refer to film, computer, and other laboratories where scientific experiments are not performed.
+
+Laundry area is a room or area primarily designed or used for laundering activities.
+
+Library area is a room or area primarily designed or used as a repository for literary materials such as books, periodicals, newspapers, pamphlets and prints, kept for reading or reference.
+
+Reading area is a room or area in a library containing tables, chairs or desks for patrons to use for the purpose of reading books and other reference documents. Library reading areas include reading, circulation and checkout areas. Reading areas do not include private offices, meeting, photocopy or other rooms not used specifically for reading by library patrons.
+
+Stack area is a room or area in a library with grouping of shelving sections. Stack aisles include pedestrian paths located in stack areas.
+
+Lobby, main entry is the contiguous area in buildings including hotel/motel that is directly located by the main entrance of the building through which persons must pass, including any ancillary reception, waiting and seating areas.
+
+Locker room is a room or area for changing clothing, sometimes equipped with lockers.
+
+Lounge/breakroom or waiting area is a room or area in which people sit, wait and relax.
+
+Mall is a roofed or covered common pedestrian area within a mall building that serves as access for two or more tenants.
+
+Manufacturing, commercial and industrial work area is a room or area in which an art, craft, assembly or manufacturing operation is performed. Lighting installed in these areas is classified as follows:
+
+High bay: Where the luminaires are 25 feet or more above the floor.
+
+Low bay: Where the luminaires are less than 25 feet above the floor.
+
+Precision: Where visual tasks of small size or fine detail such as electronic assembly, fine woodworking, metal lathe operation, fine hand painting and finishing, egg processing operations or tasks of similar visual difficulty are performed.
+
+Healthcare facilities may have a room or area as follows:
+
+Exam/treatment room is a room or area that does not provide overnight patient care and that is used to provide physical and mental care through medical, dental, or psychological examination and treatment, including laboratories and treatment spaces.
+
+Imaging room is a diagnostic room and area for application and review of results from imaging technologies including x-ray, ultrasound, computerized tomography (CT), and magnetic resonance imaging (MRI).
+
+Medical supply room is a room or area used for storing medical supplies.
+
+Nursery is a room or area for providing medical care for newly born infants.
+
+Nurse’s station is a room or area where health care staff work when not directly interacting with patients.
+
+Operating room  is a room or area where surgical operations are carried out in a sterile environment. This category also applies to veterinary operating rooms.
+
+Patient room is a room or area that is occupied by one or more patients during a stay in a healthcare facility or hospital.
+
+Physical therapy room is a room or area for providing physical therapy treatment.
+
+Recovery room  is a room or area that is equipped with apparatus for meeting postoperative emergencies and in which surgical patients are kept during the immediate postoperative period for care and recovery from anesthesia.
+
+Multipurpose room is a room that can be used for multipurpose activities such as meetings, instructional activities and social gatherings. Multipurpose rooms are typically found in offices, schools, convention centers, and assisted living facilities.
+
+Museum areas include the following:
+
+Exhibit/display is a room or area in a museum that has for its primary purpose exhibitions, having neither fixed seating nor fixed staging. An exhibit does not include a gallery or other place where art is for sale. An exhibit does not include a lobby, conference room, or other occupancies where the primary function is not exhibitions.
+
+Restoration room  is a room or area in which the primary function is the care of works of artistic, historical or scientific value. A restoration does not include a gallery or other place where art is for sale. A restoration does not include a lobby, conference room or other occupancies where the primary function is not the care or exhibit of works of artistic, historical or scientific value.
+
+Office area is a room or area in a building of CBC Group B Occupancy in which business, clerical or professional activities are conducted.
+
+Parking garage areas include the following:
+
+Daylight adaptation zone in a parking garage is the interior path of travel for vehicles adjacent to the entrance or exit of a parking garage as needed for visual adaptation to transition from exterior daylight levels to interior light levels. Daylight adaptation zones only include the path of vehicular travel and do not include adjacent parking areas.
+
+Parking zones and ramps in a parking garage are used for the purpose of parking and maneuvering of vehicles. Parking areas include sloping floors of a parking garage, ramps and driveways specifically for the purpose of moving vehicles between floors of a parking garage. Parking areas and ramps do not include daylight adaptation zones or the roof of a parking garage, which may be present in a parking garage.
+
+Pharmacy area is a room or area where medicinal drugs are dispensed and sold, usually in a retail store.
+
+Playing area for sports arena is an area where sports are played in front an audience.
+
+Religious worship area is a room or area in which the primary function is for an assembly of people to worship. Religious worship does not include classrooms, offices or other areas in which the primary function is not for an assembly of people to worship.
+
+Restroom is a room providing personal facilities such as toilets and washbasins.
+
+Retail sales areas include the following:
+
+Fitting room is a room or area where the retail customers try out clothing before purchasing.
+
+Grocery sales is a room or area that has as its primary purpose the sale of foodstuffs requiring additional preparation prior to consumption.
+
+Retail merchandise sales  is a room or area in which the primary activity is the sale of merchandise.
+
+Server room is a room smaller than 500 square feet, within a larger building, in which networking equipment and Information Technology (IT) server equipment is housed, and a minimum of five IT servers are installed in frame racks.
+
+Server aisle is an aisle of racks of Information Technology (IT) server equipment in a Server Room. While networking equipment may also be housed on these racks, it is largely a room to manage server equipment.
+
+Stairs is a series of steps providing passage for persons from one level of a building to another, including escalators.
+
+Stairwell is a vertical shaft in which stairs are located.
+
+Storage, commercial and industrial area includes the following:
+
+Shipping & Handling is a room or areas used for packing, wrapping, labeling and shipping out goods, merchandise and materials.
+
+Warehouse is a room or areas used for storing of items such as goods, merchandise and materials.
+
+Support area  is a room or area used as a passageway, utility room, storage space or other type of space associated with or secondary to the function of an occupancy that is listed in these regulations.
+
+Tenant lease area is a room or area in a building intended for lease for which a specific tenant is not identified at the time of building permit application.
+
+Theater areas include the following:
+
+Motion picture theater is an assembly room or area with rows of seats for the showing of motion pictures.
+
+Performance theater is an assembly room or area with rows of seats for the viewing of dramatic performances, lectures, musical events and similar live performances.
+
+Transportation function areas include the following:
+
+Baggage area is a room or area in a transportation facility such as an airport where the travelers reclaim their baggage.
+
+Ticketing area is a room or area in a transportation facility such as an airport or a train station where travelers purchase tickets, check in baggage, or inquire about travel information.
+
+Videoconferencing studio is a room or area with permanently installed videoconferencing cameras, audio equipment and playback equipment for both audio-based and video-based two-way communication between local and remote sites.
+
+NONSTANDARD PART LOAD VALUE (NPLV) is a single-number part-load efficiency figure of merit for chillers referenced to conditions other than IPLV conditions. (See “integrated part load value.”)
+
+NORTH-FACING (See “orientation.”)
+
+OCCUPANCY is the purpose for which a building or part thereof is used or intended to be used.
+
+OCCUPANCY, HUMAN is any occupancy that is intended primarily for human activities.
+
+OCCUPANCY GROUP is a classification of occupancy defined in Chapter 3 of the CBC (Title 24, Part 2).
+
+OCCUPANCY TYPE is a description of occupancy that is more specific than occupancy group and that relates to determining the amount of lighting, ventilation, or other services needed for that portion of the building.
+
+OCCUPIABLE SPACE is any enclosed space that is intended for human occupancy, including all habitable spaces as well as bathrooms, toilets, closets, halls, storage and utility areas, laundry areas, and similar areas. (See also “habitable space.”)
+
+OCCUPIED STANDBY MODE  is when a zone is scheduled to be occupied and an occupant sensor indicates zero population within the zone.
+
+ONLINE CAPACITY is the total combined capacity in actual cubic feet per minute of compressed air at a given pressure from all online compressors.
+
+ONLINE COMPRESSORS are all the compressors that are physically connected to compressed air piping and are available to serve peak load. Online compressors do not include back up compressors whose only purpose is to be available when an online compressor fails.
+
+OPEN COOLING TOWER, or OPEN-CIRCUIT COOLING TOWER is an open, or direct contact, cooling tower which exposes water directly to the cooling atmosphere, thereby transferring the source heat load from the water directly to the air by a combination of heat and mass transfer.
+
+OPENADR 2.0a is the OpenADR Alliance document titled “OpenADR 2.0 Profile Specification A Profile,” 2011.
+
+OPENADR 2.0b is the OpenADR Alliance document titled “OpenADR 2.0 Profile Specification B Profile,” 2015.
+
+OPERABLE FENESTRATION is designed to be opened or closed.
+
+OPTIMUM START CONTROLS  are controls that are designed to automatically adjust the start time of a space-conditioning system each day with the intent of bringing the space to desired occupied temperature levels at the beginning of scheduled occupancy.
+
+OPTIMUM STOP CONTROLS  are controls that are designed to setup or setback thermostat setpoints before scheduled unoccupied periods based upon the thermal lag and acceptable drift in space temperature that is within comfort limits.
+
+OSHPD is the California Office of Statewide Health Planning and Development.
+
+ORIENTATION, CARDINAL is one of the four principal directional indicators, north, east, south and west, which are marked on a compass. Also called cardinal directions.
+
+ORIENTATION, EAST-FACING is oriented to within 45 degrees of true east, including 45°00'00" south of east (SE), but excluding 45°00'00" north of east (NE).
+
+ORIENTATION, NORTH-FACING is oriented to within 45 degrees of true north, including 45°00'00" east of north (NE), but excluding 45°00'00" west of north (NW).
+
+ORIENTATION, SOUTH-FACING is oriented to within 45 degrees of true south including 45°00'00" west of south (SW), but excluding 45°00'00" east of south (SE).
+
+ORIENTATION, WEST-FACING is oriented to within 45 degrees of true west, including 45°00'00" north of due west (NW), but excluding 45°00'00" south of west (SW).
+
+OUTDOOR AIR (Outside air) is air taken from outdoors and not previously circulated in the building.
+
+OUTDOOR AREAS are areas external to a building. These include but are not limited to the following areas:
+
+Building entrance way is the external area of any operable doorway in or out of a building, including overhead doors. These areas serve any doorway, set of doors (including elevator doors such as in parking garages), turnstile, vestibule or other form of portal that is ordinarily used to gain access to the building by its users and occupants. Where buildings have separate one-way doors to enter and to leave, this also includes any area serving any doors ordinarily used to leave the building.
+
+Building façade  is the exterior surfaces of a building, not including horizontal roofing, signs and surfaces not visible from any public accessible viewing location.
+
+Canopy  is a permanent structure, other than a parking garage area, consisting of a roof and supporting building elements, with the area beneath at least partially open to the elements. A canopy may be freestanding or attached to surrounding structures. A canopy roof may serve as the floor of a structure above.
+
+Carport is a covered, open-sided structure designed or used primarily for the purpose of parking vehicles, having a roof over the parking area. Typically, carports are free-standing or projected from the side of the building and are only two or fewer car lengths deep. A “Carport” is not a “Garage.”
+
+Hardscape is the area of an improvement to a site that is paved or has other structural features such as curbs, plazas, entries, parking lots, site roadways, driveways, walkways, sidewalks, bikeways, water features and pools, storage or service yards, loading docks, amphitheaters, outdoor sales lots, and private monuments and statuary.
+
+Outdoor sales canopy is a canopy specifically to cover and protect an outdoor sales area.
+
+Outdoor sales frontage is the portion of the perimeter of an outdoor sales area immediately adjacent to a public street, road or sidewalk.
+
+Outdoor sales lot is an uncovered paved area used exclusively for the display of vehicles, equipment or other merchandise for sale. All internal and adjacent access drives, walkway areas, employee and customer parking areas, vehicle service or storage areas are not outdoor sales lot areas, but are considered hardscape.
+
+Parking lot is an uncovered area for the purpose of parking vehicles. Parking lot is a type of hardscape.
+
+Paved area is an area that is paved with concrete, asphalt, stone, brick, gravel or other improved wearing surface, including the curb.
+
+Principal viewing location is anywhere along the adjacent highway, street, road or sidewalk running parallel to an outdoor sales frontage.
+
+Public monuments are statuary, buildings, structures and/or hardscape on public land.
+
+Stairways and ramps. Stairways are one or more flights of stairs with the necessary landings and platforms connecting them to form a continuous and uninterrupted passage from one level to another. An exterior stairway is open on at least one side, except for required structural columns, beams, handrails and guards. The adjoining open areas shall be either yards, courts or public ways. The other sides of the exterior stairway need not be open. Ramps are walking surfaces with a slope steeper than 5 percent.
+
+Vehicle service station is a gasoline, natural gas, diesel or other fuel dispensing station.
+
+OUTDOOR LIGHTING is electrical lighting used to illuminate outdoor areas.
+
+OUTDOOR LIGHTING ZONE is a geographic area designated by the California Energy Commission in accordance with Part 1, Section 10-114, that determines requirements for outdoor lighting, including lighting power densities and specific control, equipment or performance requirements. Lighting zones are numbered LZ0, LZ1, LZ2, LZ3 and LZ4.
+
+OVERHANG is a contiguous opaque surface, oriented horizontally and projecting outward horizontally from an exterior vertical surface.
+
+PART 1 means Part 1 of Title 24 of the California Code of Regulations.
+
+PART 6 means Part 6 of Title 24 of the California Code of Regulations.
+
+PART-LOAD OPERATION occurs when a system or device is operating below its maximum rated capacity.
+
+PARTICLE SIZE EFFICIENCY is the fraction (percentage) of particles that are captured on air filter equipment as determined during rating tests conducted in accordance with ASHRAE Standard 52.2 or AHRI Standard 680. Particle Size Efficiency is measured in three particle size ranges: 0.3-1.0, 1.0-3.0, 3.0-10 microns.
+
+PHOTOSYNTHETIC PHOTON EFFICACY (PPE)  is photosynthetic photon flux divided by input electric power in units of micromoles per second per watt, or micromoles per joule as defined by ANSI/ASABE S640.
+
+PHOTOSYNTHETIC PHOTON FLUX (PPF) is the rate of flow of photons between 400 to 700 nanometers in wavelength from a radiation source as defined by ANSI/ASABE S640.
+
+POOLS, ANSI/APSP/ICC-5 is the American National Standards Institute and National Spa and Pool Institute document entitled “American National Standard for Residential Inground Swimming Pools,” 2011 (ANSI/APSP/ICC-5 2011) with Addenda A.
+
+POOLS, AUXILIARY POOL LOADS  are features or devices that circulate pool water in addition to that required for pool filtration, including, but not limited to, solar pool heating systems, filter backwashing, pool cleaners, waterfalls, fountains and spas.
+
+POOLS, BACKWASH VALVE  is a diverter valve designed to backwash filters located between the circulation pump and the filter, including, but not limited to, slide, push-pull, multiport and full-flow valves.
+
+POOLS, MULTISPEED PUMP  is a pump capable of operating at two (2) or more speeds and includes two-speed and variable-speed pumps.
+
+POOLS, NSF/ANSI/CAN 50 is the NSF International (formerly National Sanitation Foundation) Standard and American National Standards Institute document entitled “Equipment and Chemicals for Swimming Pools, Spas, Hot Tubs, and Other Recreational Water Facilities,” 2020 (NSF/ANSI/CAN 50—2020).
+
+POOLS, RESIDENTIAL are permanently installed residential in-ground swimming pools intended for use by a single-family home for noncommercial purposes and with dimensions as defined in ANSI/NSPI-5.
+
+PRESSURE BOUNDARY is the primary air enclosure boundary separating indoor and outdoor air. For example, a volume that has more leakage to the outside than to the conditioned space would be considered outside the pressure boundary. Exposed earth in a crawlspace or basement shall not be considered part of the pressure boundary.
+
+PRIMARY AIRFLOW is the airflow (cfm or L/s) supplied to the zone from the air-handling unit at which the outdoor air intake is located. It includes outdoor intake air and recirculated air from that air-handling unit but does not include air transferred or air recirculated to the zone by other means.
+
+PRIMARY STORAGE is compressed air storage located upstream of the distribution system and any pressure flow regulators.
+
+PROCESS is an activity or treatment that is not related to the space conditioning, lighting, service water heating or ventilating of a building as it relates to human occupancy.
+
+PROCESS BOILER is a type of boiler with a capacity (rated maximum input) of 300,000 Btus per hour (Btu/h) or more that serves a process.
+
+PROCESS, COVERED is a process that is regulated under Part 6, Sections 120.6 and 140.9, which includes computer rooms, data centers, elevators, escalators and moving walkways, laboratories, enclosed parking garages, commercial kitchens, refrigerated warehouses, commercial refrigeration, compressed air systems, process boilers and controlled environment horticultural spaces.
+
+PROCESS, EXEMPT is a process that is not a covered process regulated under Part 6.
+
+PROCESS LOAD is an energy load resulting from a process.
+
+PROCESS SPACE is a nonresidential space that is designed to be thermostatically controlled to maintain a process environment temperature less than 55°F or to maintain a process environment temperature greater than 90°F for the whole space that the system serves, or that is a space with a space-conditioning system designed and controlled to be incapable of operating at temperatures above 55°F or incapable of operating at temperatures below 90°F at design conditions.
+
+PROPOSED DESIGN BUILDING is a building that is simulated by Commission-approved compliance software to determine the energy consumption resulting from all of the characteristics and energy consuming features that are actually proposed for a building, as specified by the Alternative Calculation Method (ACM) Approval Manual.
+
+PUBLIC AREAS are spaces generally open to the public at large, customers or congregation members, or similar spaces where occupants need to be prevented from controlling lights for safety, security or business reasons.
+
+R-VALUE is the measure of the thermal resistance of insulation or any material or building component expressed in ft2-hr-°F/Btu.
+
+RADIANT BARRIER is a highly reflective, low emitting material installed at the underside surface of the roof deck and the inside surface of gable ends or other exterior vertical surfaces in attics to reduce solar heat gain.
+
+RAISED FLOOR is a floor (partition) over a crawl space, or an unconditioned space, or ambient air.
+
+READILY ACCESSIBLE is capable of being reached quickly for operation, repair or inspection, without requiring climbing or removing obstacles, or resorting to access equipment.
+
+RECOOL is the cooling of air that has been previously heated by space-conditioning equipment or systems serving the same building.
+
+RECOVERED ENERGY is energy used in a building that (1) is recovered from space conditioning, service water heating, lighting, or process equipment after the energy has performed its original function; (2) provides space conditioning, service water heating, or lighting; and (3) would otherwise be wasted.
+
+REFERENCE APPENDICES is the support document for the Building Energy Efficiency Standards and the ACM Approval Manuals. The document consists of three sections: the Reference Joint Appendices (JA), the Reference Residential Appendices (RA) and the Reference Nonresidential Appendices (NA).
+
+REFLECTANCE, SOLAR is the ratio of the reflected solar flux to the incident solar flux.
+
+REFRIGERATED CASE is a manufactured commercial refrigerator or freezer, including but not limited to display cases, reach-in cabinets, meat cases, and frozen food and soda fountain units.
+
+REFRIGERATED SPACE is a space constructed for storage or handling of products, where mechanical refrigeration is used to maintain the space temperature at 55°F or less.
+
+REFRIGERATED WAREHOUSE is a building or a space greater than or equal to 3,000 square feet constructed for storage or handling of products, where mechanical refrigeration is used to maintain the space temperature at 55°F or less.
+
+REHEAT is the heating of air that has been previously cooled by cooling equipment or supplied by an economizer.
+
+RELOCATABLE PUBLIC SCHOOL BUILDING is a relocatable building as defined by Title 24, Part 1, Section 4-314, which is subject to Title 24, Part 1, Chapter 4, Group 1.
+
+REPAIR is the reconstruction or renewal for the purpose of maintenance of any component, system or equipment of an existing building. Repairs shall not increase the preexisting energy consumption of the repaired component, system or equipment. Replacement of any component, system or equipment for which there are requirements in the Standards is considered an alteration and not a repair.
+
+RESIDENTIAL BUILDING (See “High-rise residential building” and “Low-rise residential building.”)
+
+RESIDENTIAL COMPLIANCE MANUAL is the manual developed by the Commission, under Section 25402.1 of the Public Resources Code, to aid designers, builders and contractors in meeting energy efficiency standards for low-rise residential buildings.
+
+RESIDENTIAL SPACE TYPE is one of the following:
+
+Bathroom is a room or area containing a sink used for personal hygiene, toilet, shower or a tub.
+
+Closet  is a nonhabitable room used for the storage of linens, household supplies, clothing, nonperishable food or similar uses, and which is not a hallway or passageway.
+
+Garage  is a nonhabitable building or portion of building, attached to or detached from a residential dwelling unit, in which motor vehicles are parked.
+
+Kitchen is a room or area used for cooking, food storage and preparation and washing dishes, including associated counter tops and cabinets, refrigerator, stove, ovens and floor area.
+
+Laundry  is a nonhabitable room or space which contains plumbing and electrical connections for a washing machine or clothes dryer.
+
+Storage building is a nonhabitable detached building used for the storage of tools, garden equipment or miscellaneous items.
+
+Utility room is a nonhabitable room or building which contains only HVAC, plumbing, or electrical controls or equipment; and which is not a bathroom, closet, garage or laundry room.
+
+RESNET 380  is the Residential Energy Services Network document titled “Standard for Testing Airtightness of Building Enclosures, Dwelling Unit, and Sleeping Unit Enclosures, Airtightness of Heating and Cooling Air Distribution Systems, and Airflow of Mechanical Ventilation Systems,” 2019 (ANSI/RESNET/ICC 380-2019).
+
+ROOF is the outside cover of a building or structure including the structural supports, decking and top layer that is exposed to the outside with a slope less than 60 degrees from the horizontal.
+
+ROOF, LOW-SLOPED is a roof that has a ratio of rise to run of less than 2:12 (9.5 degrees from the horizontal).
+
+ROOF, STEEP-SLOPED is a roof that has a ratio of rise to run of greater than or equal to 2:12 (9.5 degrees from the horizontal).
+
+ROOF RECOVER is the process of installing an additional roof covering over a prepared existing roof covering without removing the existing roof covering.
+
+ROOF RECOVER BOARD is a rigid type board installed directly below a low-sloped roof membrane, with or without above deck thermal insulation, to: (a) improve a roof system’s compressive strength, (b) physically separate the roof membrane from the thermal insulation, or (c) physically separate a new roof covering from an underlying roof membrane as part of a roof overlay project.
+
+ROOF REPLACEMENT is the process of removing the existing roof covering, repairing any damaged substrate and installing a new roof covering.
+
+ROOFING PRODUCT is the top layer of the roof that is exposed to the outside, which has properties including but not limited to solar reflectance, thermal emittance and mass.
+
+RUNOUT is piping that is no more than 12 feet long and that connects to a fixture or an individual terminal unit.
+
+SAE J1772 is the SAE International document titled “SAE Electric Vehicle and Plug in Hybrid Electric Vehicle Conductive Charge Coupler” (SAE J1772_201710).
+
+SATURATED CONDENSING TEMPERATURE (also known as CONDENSING TEMPERATURE) is: (a) for single component and azeotropic refrigerants, the saturation temperature corresponding to the refrigerant pressure at the condenser entrance, or (b) for zeotropic refrigerants, the arithmetic average of the Dew Point and Bubble Point temperatures corresponding to the refrigerant pressure at the condenser entrance.
+
+SCIENTIFIC EQUIPMENT is measurement, testing or metering equipment used for scientific research or investigation, including but not limited to manufactured cabinets, carts and racks.
+
+SEAL CLASS A is a ductwork sealing category that requires sealing all transverse joints, longitudinal seams and duct wall penetrations. Duct wall penetrations are openings made by pipes, conduit, tie rods or wires. Longitudinal seams are joints oriented in the direction of airflow. Transverse joints are connections of two duct sections oriented perpendicular to airflow. Openings for rotating shafts shall be sealed with bushings or other devices that seal off air leakage. All connections shall be sealed, including but not limited to spin-ins, taps, other branch connections, access doors, access panels and duct connections to equipment. Sealing that would void product listings is not required. All duct pressure class ratings shall be designated in the design documents.
+
+SEASONAL ENERGY EFFICIENCY RATIO (SEER) is the total cooling output of an air conditioner in Btu during its normal usage period for cooling divided by the total electrical energy input in watt-hours during the same period, as determined using the applicable test method in the Appliance Efficiency Regulations.
+
+SEASONAL ENERGY EFFICIENCY RATIO 2 (SEER2) is the SEER metric for residential central air conditioners and heat pumps effective January 1, 2023, as created by the U.S. Department of Energy “ISSUANCE 2016-11-30 Energy Conservation Program: Test Procedures for Central Air Conditioners and Heat Pumps, Final Rule.”
+
+SENSIBLE ENERGY RECOVERY RATIO is a ratio of the change in the dry-bulb temperature of the outdoor air supply to the difference in dry-bulb temperature between the outdoor air and entering exhaust airflow, with no adjustment to account for that portion of the dry-bulb temperature change in the leaving supply airflow that is the result of leakage of entering exhaust airflow rather than heat exchange between the airstreams.
+
+SERVICE WATER HEATING is heating of water for sanitary purposes for human occupancy, other than for comfort heating.
+
+SHADING is the protection from heat gains because of direct solar radiation by permanently attached exterior devices or building elements, interior shading devices, glazing material or adherent materials.
+
+SHADING COEFFICIENT(SC) is the ratio of the solar heat gain through a fenestration product to the solar heat gain through an unshaded 1/8-inch-thick clear double strength glass under the same set of conditions. For nonresidential, high-rise residential and hotel/motel buildings, this shall exclude the effects of mullions, frames, sashes, and interior and exterior shading devices.
+
+SIDELIT DAYLIT ZONE, PRIMARY is the area in plan view directly adjacent to each vertical glazing, one window head height deep into the area, and window width plus 0.5 times window head height wide on each side of the rough opening of the window, minus any area on a plan beyond a permanent obstruction that is 6 feet or taller as measured from the floor.
+
+SIDELIT DAYLIT ZONE, SECONDARY is the area in plan view directly adjacent to each vertical glazing, two window head heights deep into the area, and window width plus 0.5 times window head height wide on each side of the rough opening of the window, minus any area on a plan beyond a permanent obstruction that is 6 feet or taller as measured from the floor.
+
+SIGN definitions include the following:
+
+Electronic message center (EMC) is a pixelated image producing electronically controlled sign formed by any light source. Bare lamps used to create linear lighting animation sequences through the use of chaser circuits, also known as “chaser lights” are not considered an EMC.
+
+Illuminated face is a side of a sign that has the message on it. For an exit sign it is the side that has the word “EXIT” on it.
+
+Sign, cabinet is an internally illuminated sign consisting of frame and face, with a continuous translucent message panel, also referred to as a panel sign.
+
+Sign, channel letter  is an internally illuminated sign with multiple components, each built in the shape of an individual three-dimensional letter or symbol that are each independently illuminated, with a separate translucent panel over the light source for each element.
+
+Sign, double-faced is a sign with two parallel opposing faces.
+
+Sign, externally illuminated is any sign or a billboard that is lit by a light source that is external to the sign directed towards and shining on the face of the sign.
+
+Sign, internally illuminated is a sign that is illuminated by a light source that is contained inside the sign where the message area is luminous, including cabinet signs and channel letter signs.
+
+Sign, traffic is a sign for traffic direction, warning and roadway identification.
+
+Sign, unfiltered is a sign where the viewer perceives the light source directly as the message, without any colored filter between the viewer and the light source, including neon, cold cathode and LED signs.
+
+SINGLE FAMILY BUILDING is any of the following:
+
+A residential building of Occupancy Group R-3 with two or fewer dwelling units,
+
+A building of Occupancy Group R-3, other than a multifamily building or hotel/motel building,
+
+A townhouse,
+
+A building of Occupancy Group R-3.1 or
+
+A building of Occupancy Group U when located on a residential site.
+A residential building of Occupancy Group R-3 with two or fewer dwelling units,
+
+A building of Occupancy Group R-3, other than a multifamily building or hotel/motel building,
+
+A townhouse,
+
+A building of Occupancy Group R-3.1 or
+
+A building of Occupancy Group U when located on a residential site.
+
+SINGLE PACKAGE VERTICAL AIR CONDITIONER (SPVAC) is a type of air-cooled small or large commercial package air-conditioning and heating equipment; factory assembled as a single package having its major components arranged vertically, which is an encased combination of cooling and optional heating components; is intended for exterior mounting on, adjacent interior to, or through an outside wall; and is powered by single or three-phase current. It may contain separate indoor grille, outdoor louvers, various ventilation options, indoor free air discharge, ductwork, wall plenum or sleeve. Heating components may include electrical resistance, steam, hot water, gas, or no heat but may not include reverse cycle refrigeration as a heating means.
+
+SINGLE PACKAGE VERTICAL HEAT PUMP (SPVHP) is an SPVAC that utilizes reverse cycle refrigeration as its primary heat source, with secondary supplemental heating by means of electrical resistance, steam, hot water or gas.
+
+SINGLE ZONE SYSTEM is an air distribution system that supplies air to one thermal zone controlled by a single thermostat.
+
+SITE SOLAR ENERGY is thermal, chemical or electrical energy derived from direct conversion of incident solar radiation at the building site.
+
+SKYLIGHT is fenestration installed on a roof less than 60 degrees from the horizontal.
+
+SKYLIGHT AREA is the area of the rough opening for the skylight.
+
+SKYLIGHT TYPE is one of the following three types of skylights: glass mounted on a curb, glass not mounted on a curb, or plastic (assumed to be mounted on a curb).
+
+SKYLIT DAYLIT ZONE is the rough area in plan view under each skylight, plus 0.7 times the average ceiling height in each direction from the edge of the rough opening of the skylight, minus any area on a plan beyond a permanent obstruction that is taller than one-half of the distance from the floor to the bottom of the skylight. The bottom of the skylight is measured from the bottom of the skylight well for skylights having wells, or the bottom of the skylight if no skylight well exists. For the purpose of determining the skylit daylit zone, the geometric shape of the skylit daylit zone shall be identical to the plan view geometric shape of the rough opening of the skylight; for example, for a rectangular skylight the skylit daylit zone plan area shall be rectangular, and for a circular skylight the skylit daylit zone plan area shall be circular. For skylight located in an atrium, the skylit daylit zone shall include the floor area directly under the atrium, and the area of the top floor that is directly under the skylight, plus 0.7 times the average ceiling height of the top floor, in each direction from the edge of the rough opening of the skylight, minus any area on a plan beyond a permanent obstruction that is taller than one-half of the distance from the top floor to the bottom of the skylight.
+
+SMACNA is the Sheet Metal and Air-conditioning Contractors National Association.
+
+SMACNA HVAC DUCT CONSTRUCTION STANDARDS is the Sheet Metal Contractors’ National Association document “HVAC Duct Construction Standards Metal and Flexible - 3rd Edition,” 2006 (2006 ANSI/SMACNA-006-2006 HVAC Duct Construction Standards Metal and Flexible 3rd Edition).
+
+SMACNA RESIDENTIAL COMFORT SYSTEM INSTALLATION STANDARDS is the Sheet Metal Contractors’ National Association document entitled “Residential Comfort System Installation Standards, Eighth Edition,” (2016).
+
+SOCIAL SERVICES BUILDING is a space where public assistance and social services are provided to individuals or families.
+
+SOLAR ELECTRIC GENERATION SYSTEM or PHOTOVOLTAIC SYSTEM is the complete set of all components for converting sunlight into electricity through the photovoltaic process, including the array of panels, inverter(s) and the balance of system components required to enable the system to effectively deliver power to reduce a building’s consumption of electricity from the utility grid.
+
+SOLAR REFLECTANCE INDEX (SRI)  is a measure of the roof’s ability to reject solar heat, which includes both reflectance and emittance.
+
+SOLAR SAVINGS FRACTION (SSF)  is the fraction of domestic hot water demand provided by a solar water-heating system.
+
+SOLAR ZONE is a section of the roof designated and reserved for the future installation of a solar electric or solar thermal system.
+
+SOUTH-FACING (See “orientation.”)
+
+SPA is a vessel that contains heated water in which humans can immerse themselves, is not a pool, and is not a bathtub.
+
+SPACE-CONDITIONING SYSTEM is a system that provides mechanical heating or mechanical cooling within or associated with conditioned spaces in a building, and may incorporate use of components such as chillers/compressors, fluid distribution systems (e.g., air ducts, water piping, refrigerant piping), pumps, air handlers, cooling and heating coils, air or water cooled condensers, economizers, terminal units, and associated controls.
+
+STANDARD DESIGN BUILDING is a building that is automatically simulated by Commission-approved compliance software to establish the energy budget that is the maximum energy consumption allowed by a proposed design building to comply with the Title 24 Building Energy Efficiency Standards. The standard design building is simulated using the same location and having the same characteristics of the proposed design building, but assuming minimal compliance with the mandatory and prescriptive requirements that are applicable to the proposed building, as specified by the Alternative Calculation Methods Approval Manual.
+
+STORAGE, COLD is a storage area within a refrigerated warehouse where space temperatures are maintained at or above 32°F.
+
+STORAGE, FROZEN is a storage area within a refrigerated warehouse where the space temperatures are maintained below 32°F.
+
+TENANT SPACE is a portion of a building occupied by a tenant.
+
+THERMAL MASS is solid or liquid material with a high overall heat capacity to store energy for heating or cooling requirements.
+
+THERMAL RESISTANCE (R) is a measurement of the resistance over time of a material or building component to the passage of heat in (hr × ft2 × °F)/Btu.
+
+THERMOSTAT is an automatic control device or system used to maintain temperature at a fixed or adjustable setpoint.
+
+THERMOSTATIC EXPANSION VALVE (TXV) is a refrigerant metering valve, installed in an air conditioner or heat pump, which controls the flow of liquid refrigerant entering the evaporator in response to the superheat of the gas leaving it.
+
+TIME DEPENDENT VALUATION (TDV) ENERGY is the time varying energy caused to be used by the building to provide space conditioning and water heating and for specified buildings lighting. TDV energy accounts for the energy used at the building site and consumed in producing and in delivering energy to a site, including, but not limited to, power generation, transmission and distribution losses.
+
+TOTAL HEAT OF REJECTION (THR) is the heat rejected by refrigeration system compressors at design conditions, consisting of the design cooling capacity plus the heat of compression added by the compressors.
+
+TOWNHOUSE is a single-family dwelling unit constructed in a group of three or more attached units in which each unit extends from the foundation to roof and with open space on at least two sides.
+
+TRANSCRITICAL CO2 REFRIGERATION SYSTEM  is a type of refrigeration system that uses CO2 as the refrigerant where the ultimate heat rejection to ambient air can take place above the critical point.
+
+SUBCRITICAL MODE is a system operating condition for a refrigeration system wherein the refrigerant pressure and temperature leaving the compressor is such that the refrigerant is below the critical point. Typically used in reference to CO2 refrigeration systems.
+
+TRANSCRITICAL MODE is a system operating condition for a refrigeration system wherein the refrigerant pressure and temperature leaving the compressor is such that the refrigerant is at or above the critical point. Typically used in reference to CO2 refrigeration systems.
+
+TRANSIENT is the occupancy for not more than 30 days of a dwelling unit or sleeping unit.
+
+TRIM COMPRESSOR is a compressor that is designated for part-load operation, handling the short-term variable trim load of end uses, in addition to the fully loaded base compressors.
+
+U-FACTOR is the overall coefficient of thermal transmittance of a fenestration, wall, floor, roof or ceiling component in Btu/(hr × ft2 × °F), including air film resistance at both surfaces.
+
+UL is the Underwriters Laboratories.
+
+UL 181 is the Underwriters Laboratories document titled “Standard for Safety for Factory-Made Air Ducts and Air Connectors,” 2017 (UL 181).
+
+UL 181A is the Underwriters Laboratories document titled “Standard for Safety for Closure Systems for Use with Rigid Air Ducts,” 2017 (UL 181A).
+
+UL 181B is the Underwriters Laboratories document titled “Standard for Safety for Closure Systems for Use with Flexible Air Ducts and Air Connectors,” 2017 (UL 181B).
+
+UL 723 is the Underwriters Laboratories document titled “Standard for Safety for Test for Surface Burning Characteristics,” 2018 (UL 723).
+
+UL 727 is the Underwriters Laboratories document entitled “Standard for Safety for Oil-Fired Central Furnaces,” 2018 (UL 727).
+
+UL 731 is the Underwriters Laboratories document entitled “Standard for Safety for Oil-Fired Unit Heaters,” 2018 (UL 731).
+
+UL 1077 is the Underwriters Laboratories document titled “Standard for Safety for Supplementary Protectors for Use in Electrical Equipment,” 2016 (UL 1077).
+
+UL 1574 is the Underwriters Laboratories document entitled “Standard for Safety for Track Lighting Systems,” 2020 (UL 1574).
+
+UL 1598 is the Underwriters Laboratories document entitled “Standard for Safety for Luminaires,” 2021 (UL 1598).
+
+UL 1741 is the Underwriters Laboratories document titled “Standard for Safety for Inverters, Converters, Controllers and Interconnection System Equipment for Use With Distributed Energy Resources,” 2021 (UL 1741).
+
+UL 1973 is the Underwriters Laboratories document titled “Standard for Safety for Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER) Applications,” 2018 (ANSI/CAN/UL-1973:2018).
+
+UL 2108 is the Underwriters Laboratories document titled “Standard for Safety for Low Voltage Lighting Systems,” 2019 (UL 2108).
+
+UL 8750 is the Underwriters Laboratories document titled “Standards for Safety for Light Emitting Diode (LED) Equipment for Use in Lighting Products,” 2021 (UL 8750).
+
+UL 9540 is the Underwriters Laboratories document titled “Standard for Safety for Energy Storage Systems and Equipment,” 2020 (ANSI/CAN/UL 9540:2021).
+
+UNCONDITIONED SPACE is enclosed space within a building that is not directly conditioned or indirectly conditioned.
+
+UNIFORM ENERGY FACTOR (UEF)  of a water heater is a measure of overall water heater efficiency, as determined using the applicable test method in the Appliance Efficiency Regulations.
+
+USDOE 10 CFR 430 is the regulation issued by Department of Energy and available in the Code of Federal Regulation - Title 10, Chapter II, Subchapter D, Part 430 – Energy Conservation Program for Consumer Products. Relevant testing methodologies are specified in applicable appendices.
+
+USDOE 10 CFR 431 is the regulation issued by Department of Energy and available in the Code of Federal Regulation - Title 10, Chapter II, Subchapter D, Part 431 - Energy Conservation Program for Certain Commercial and Industrial equipment. Relevant testing methodologies are specified in “Subpart E to Part 431 – Uniform test method for the measurement of energy efficiency of commercial packaged boilers.”
+
+VAPOR RETARDER CLASS is a measure of the ability of a material or assembly to limit the amount of moisture that passes through the material or assembly meeting Section 202 of the California Building Code.
+
+VARIABLE AIR VOLUME (VAV) SYSTEM is a space-conditioning system that maintains comfort levels by varying the volume of supply air to the zones served.
+
+VENDING MACHINE is a machine for vending and dispensing refrigerated or nonrefrigerated food and beverages or general merchandise.
+
+VENTILATION SYSTEM, BALANCED is a mechanical device intended to remove air from buildings, and simultaneously replace it with outdoor air.
+
+VENTILATION SYSTEM, CENTRAL FAN INTEGRATED, or CFI is a ventilation system configuration in which the ventilation ductwork is connected to the duct system of a dwelling unit space-conditioning system to enable distribution of ventilation air to the dwelling unit while the space-conditioning system air handling unit is operating.
+
+VENTILATION SYSTEM, ENERGY RECOVERY, or ERV is a mechanical device intended to remove air from buildings, simultaneously replace it with outdoor air, and in the process transfer heat from the warmer to the colder of the simultaneous airflows and transfer moisture from the most humid to least humid of the simultaneous airflows.
+
+VENTILATION SYSTEM, EXHAUST is a mechanical device intended to remove air from buildings, causing outdoor air to enter by ventilation inlets or normal leakage paths through the building envelope.
+
+VENTILATION SYSTEM, HEAT RECOVERY, or HRV is a mechanical device intended to remove air from buildings, simultaneously replace it with outdoor air, and in the process transfer heat from the warmer to the colder of the simultaneous airflows.
+
+VENTILATION SYSTEM, SUPPLY is a mechanical device intended to bring outdoor air into buildings, causing indoor air to flow out of the building through ventilation relief outlets or normal leakage paths through the building envelope.
+
+VERY VALUABLE MERCHANDISE are rare or precious objects, including, but not limited to, jewelry, coins, small art objects, crystal, ceramics or silver, the selling of which involves customer inspection of very fine detail from outside of a locked case.
+
+VIRTUAL END NODE (VEN) is an interface with a demand responsive control system that accepts signals transmitted through OpenADR, consistent with the specifications in OpenADR 2.0a or 2.0b.
+
+WALL TYPE is a type of wall assembly having a specific heat capacity, framing type and U-factor.
+
+WATER BALANCE IN EVAPORATIVE COOLING TOWERS. The water balance of a cooling tower is:
+
+M = E + B, where:
+
+M = makeup water (from the mains water supply)
+
+E = losses due to evaporation
+
+B = losses due to blowdown
+
+WEST-FACING (See “orientation.”)
+
+WINDOW FILM is a fenestration attachment product that consists of a flexible adhesive-backed polymer film, which may be applied to the interior or exterior surface of an existing glazing system.
+
+WOOD HEATER is an enclosed wood-burning appliance used for space heating and/or domestic water heating.
+
+WOOD STOVE (See “wood heater.”)
+
+ZONAL describes characterized by or relating to a zone or zones.
+
+ZONE, CRITICAL is a zone serving a process where reset of the zone temperature setpoint during a demand shed event might disrupt the process, including but not limited to computer rooms, data centers, telecom and private branch exchange (PBX) rooms, and laboratories.
+
+ZONE, NONCRITICAL is a zone that is not a critical zone.
+
+ZONE, SPACE-CONDITIONING, is a space or group of spaces within a building with sufficiently similar comfort conditioning requirements so that comfort conditions, as specified in Section 140.4(b)3 or 150.0(h), as applicable, can be maintained throughout the zone by a single controlling device.
+
+FIGURE 100.1-A
+
+CALIFORNIA CLIMATE ZONES
+
+Climate Zones for Residential and Nonresidential Occupancies
+
+SECTION 100.2 CALCULATION OF TIME DEPENDENT VALUATION (TDV) ENERGY
+
+Time Dependent Valuation (TDV) energy shall be used to compare proposed designs to their energy budget when using the performance compliance approach. TDV energy is calculated by multiplying the site energy use (electricity kWh, natural gas therms, or fuel oil or LPG gallons) for each energy type times the applicable TDV multiplier. TDV multipliers vary for each hour of the year and by energy type (electricity, natural gas or propane), by climate zone and by building type (low-rise residential or nonresidential, high-rise residential or hotel/motel). TDV multipliers are summarized in Reference Joint Appendix JA3. TDV multipliers for propane shall be used for all energy obtained from depletable sources other than electricity and natural gas.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+

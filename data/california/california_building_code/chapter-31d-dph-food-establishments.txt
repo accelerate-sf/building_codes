@@ -1,0 +1,29 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE CHAPTER 31D – FOOD ESTABLISHMENTS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter								X	X	X				X			X						
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+2113A.9.2																							
+																							CHAPTER 31D [DPH] [DPH] FOOD ESTABLISHMENTS
+
+SECTION 3101D SCOPE
+
+The provisions of this chapter shall apply to the construction of commissaries serving mobile food preparation units.
+
+SECTION 3102D DEFINITION
+
+For the purpose of this chapter, the following term shall have the meaning indicated:
+
+COMMISSARIES SERVING MOBILE FOOD PREPARATION UNITS are food establishments in which food, containers, equipment or supplies are stored or handled for use in vehicles, mobile food preparation units, food carts or vending machines.
+
+SECTION 3103D BUILDINGS AND STRUCTURES
+
+3103D.1 Light
+
+Ten foot candles (107.6 lux) of uniformly distributed light as measured 30 inches (762 mm) above the floor shall be provided in all rooms and areas in commissaries serving mobile food preparation units.
+

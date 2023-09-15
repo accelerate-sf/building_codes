@@ -1,0 +1,95 @@
+Appendix D Fuel Supply: Manufactured/Mobile Home Parks and Recreational Vehicle Parks
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter								X	X														
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+D101.0 Fuel Gas Piping Systems
+D101.1 General
+D101.2 Gas Supply Connections
+D101.3 Location of Gas Supply Connection
+D101.4 Recreational Vehicle Park Fuel-Gas Equipment and Installations
+D102.0 Single and Multiple Manufactured Home Site Fuel Supply Systems
+D102.1 Underground Installation
+D102.1.1 Open-Ended Gastight Conduit
+D102.1.2 Requirements
+D103.0 Manufactured Home Site Gas Shutoff Valve
+D103.1 General
+D104.0 Gas Meters
+D104.1 Support of Meters
+D104.2 Location of Meters
+D104.3 Meter Shutoff Valve or Cock
+D105.0 Cathodic Protection Requirements
+D105.1 General
+D106.0 Manufactured Home Community LP-Gas Supply Systems
+D106.1 General
+D107.0 Required Gas Supply
+D107.1 General
+NUMBER OF MANUFACTUREDHOME SITES	BTU/H PER MANUFACTUREDHOME SITE
+1	125 000
+2	117 000
+3	104 000
+4	96 000
+5	92 000
+6	87 000
+7	83 000
+8	81 000
+9	79 000
+10	77 000
+11—20	66 000
+21—30	62 000
+31—40	58 000
+41—60	55 000
+Over 60	50 000
+
+D108.0 Gas Pipe Sizing and Pressure
+D108.1 Size
+D108.2 Pressure
+D109.0 Gas Piping Materials
+D109.1 Metal
+D109.2 Protection Coatings for Metal Gas Piping
+D109.3 Plastic
+D110.0 Gas Piping Installations
+D110.1 Minimum Burial Below Ground Level and Clearances
+D110.2 Metallic Gas Piping
+D110.2.1 Cathodic Protection
+D110.2.2 Underground Metallic Systems
+D110.3 Plastic Gas Piping
+D110.4 Gas Piping System Shutoff Valve
+D111.0 Liquefied Petroleum Gas Appliances
+D111.1 General
+D112.0 Oil Supply
+D112.1 General
+D112.2 Minimum Oil Supply Tank Size
+D112.3 Oil Supply Connections
+D113.0 Fuel Supply Systems Installation
+D113.1 Flexible Gas Connector
+D113.2 Use of Approved Pipe and Fittings of Extension
+D113.3 Mechanical Protection
+D113.4 Special Rules on Atmospherically Controlled Regulators
+D113.5 Fuel Gas Piping Test
+D113.5.1 Procedures
+D113.5.2 Warning
+D113.5.3 Vents
+D113.6 Oil Tanks
+D113.6.1 Installation
+D113.6.2 Capacity
+D113.6.3 Location
+D113.6.4 Vent
+D113.6.5 Liquid Level
+D113.6.6 Fill Opening
+D114.0 Manufactured Home Accessory Building Fuel Supply Systems
+D114.1 General
+D115.0 Community Building Fuel Supply Systems in Manufactured Home Communities
+D115.1 Fuel Gas Piping and Equipment Installations
+D115.2 Oil Supply Systems in Manufactured Home Communities
+D115.3 Oil-Burning Equipment and Installation
+D115.4 Inspection and Tests

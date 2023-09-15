@@ -1,0 +1,55 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLEAPPENDIX M – TSUNAMI-GENERATED FLOOD HAZARD
+
+(Not adopted by state agencies)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+ 1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							APPENDIX M TSUNAMI-GENERATED FLOOD HAZARDS
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User notes:
+
+About this appendix: Appendix M allows the adoption of guidelines for constructing vertical evacuation refuge structures within areas that are considered tsunami hazard zones.
+
+Code development reminder: Code change proposals to this appendix will be considered by the IBC—Structural Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION M101 REFUGE STRUCTURES FOR VERTICAL EVACUATION FROM TSUNAMI-GENERATED FLOOD HAZARDS
+
+M101.1 General
+
+The purpose of this appendix is to provide tsunami vertical evacuation planning criteria for those coastal communities that have a tsunami hazard as shown in a Tsunami Design Zone Map.
+
+M101.2 Definitions
+
+The following term shall, for the purposes of this appendix, have the meaning shown herein. Refer to Chapter 2 of this code for general definitions.
+
+TSUNAMI DESIGN ZONE MAP. A map that designates the extent of inundation by a Maximum Considered Tsunami, as defined by Chapter 6 of ASCE 7.
+
+M101.3 Establishment of tsunami design zone
+
+Where applicable, the Tsunami Design Zone Map shall meet or exceed the inundation limit given by the ASCE 7 Tsunami Design Geodatabase.
+
+M101.4 Planning of tsunami vertical evacuation refuge structures within the tsunami design zone
+
+Tsunami Vertical Evacuation Refuge Structures located within a tsunami hazard design zone shall be planned, sited, and developed in general accordance with the planning criteria of the FEMA P646 guidelines.
+
+Exception: These criteria shall not be considered mandatory for evaluation of existing buildings for evacuation planning purposes.
+
+SECTION M102 REFERENCED STANDARDS
+
+M102.1 General.
+
+See Table M102.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE M102.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASCE 7—16 with Supplement 1	Minimum Design Load and Associated Criteria for Buildings and Other Structures	 M101.2, M101.3
+FEMA P646—12	Guidelines for Design of Structures for Vertical Evacuation from Tsunamis	 M101.4

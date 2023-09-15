@@ -1,0 +1,535 @@
+Chapter 3 General Regulations
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X																						
+Adopt Entire Chapter asamended (amendedsections listed below)			X	X	X			X	X	X	X	X	X	X	X								
+Adopt only those sectionsthat are listed below																				X			
+Chapter/Section																							
+301.7											X												
+303.2										†	†	†	†	†	†								
+303.7			X					X	X														
+303.7.1				X	X																		
+305.2 Exception				X	X																		
+306.2										X													
+311.5																				X			
+312.1				X	X			X	X														
+316.2				X	X																		
+316.5				X	X																		
+316.9				X	X																		
+318.0										X	X	X	X	X	X								
+319.1										X	X			X	X								
+319.2												X		X									
+320.1										X	X			X	X								
+320.2												X		X									
+320.3													X										
+320.4										X				X									
+320.4.4										X				X									
+320.5										X	X	X		X	X								
+321.0										X	X	X	X	X	X								
+322.0										X	X	X	X	X	X								
+322.1										X		X	X	X									
+323.0										X	X	X		X	X								
+
+301.7
+
+303.7.1
+
+Exception
+
+306.2
+
+311.5
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+301.0 General
+301.1 Applicability
+301.2 Approval
+301.3 Design of Equipment
+301.4 Electrical Connections
+the California Electrical
+Code
+
+the California Electrical Code
+
+301.5 Oil-Burning Appliances
+301.6 Personnel Protection
+301.7 OSHPD 1R [OSHPD 1R]
+OSHPD 1R [OSHPD 1R]
+
+For OSHPD 1R, refer to
+Section 309 of California Existing Building Code for general
+requirements.
+
+302.0 Materials - Standards and Alternates
+302.1 Minimum Standards
+302.1.1 Marking
+302.1.2 Standards
+302.1.3 Existing Buildings
+302.2 Alternate Materials and Methods of Construction Equivalency
+302.2.1 Testing
+302.2.1.1 Tests
+302.2.1.2 Request by the Authority Having Jurisdiction
+302.3 Alternative Engineered Design
+302.3.1 Permit Application
+302.3.2 Technical Data
+302.3.3 Design Documents
+302.3.4 Design Approval
+302.3.5 Design Review
+302.3.6 Inspection and Testing
+303.0 Installation
+303.1 Listed Appliances
+303.2 Closet or Alcove Installations
+[Not adopted for OSHPD 1, 1R, 2, 3, 4 & 5]
+
+303.3 Unlisted Appliances
+303.4 Anchorage of Appliances
+303.5 Movement
+303.6 Identification of Equipment
+303.7.1 Liquefied Petroleum Gas [LP-Gas] Appliances
+Liquefied Petroleum Gas [LP-Gas] Appliances
+
+[HCD 1 & HCD 2] Liquefied petroleum gas burning
+appliances shall not be installed in a pit,
+basement, or similar location where heavier-than-air gas
+might collect. Appliances so fueled shall not be installed in
+an above-grade under-floor space or basement unless
+such location is provided with an approved means for
+removal of unburned gas.
+
+303.7 Liquefied Petroleum Gas Facilities
+and the California Fire Code
+
+303.8 Appliances on Roofs
+303.8.1 Load Capacity
+303.8.2 Fasteners
+303.8.3 Installation of Appliances on Roofs
+303.8.4 Edge of Roof Clearance
+303.8.4.1 Guards and Rails
+303.8.5 Electrical Power
+303.8.6 Platform or Walkway
+303.9 Avoiding Strain on Gas Piping
+303.10 Clearances
+303.10.1 Clearance Reduction
+TYPE OF PROTECTION APPLIED TO AND COVERING ALL SURFACES OF COMBUSTIBLE MATERIAL WITHIN THE DISTANCE SPECIFIED AS THE REQUIRED CLEARANCE WITH NO PROTECTION	WHERE THE REQUIRED CLEARANCE WITH NO PROTECTION FROM APPLIANCE, VENT CONNECTOR, OR SINGLE-WALL METAL PIPE IS:
+36 (INCHES)	18 (INCHES)	12 (INCHES)	9 (INCHES)	6 (INCHES)
+ALLOWABLE CLEARANCES WITH SPECIFIED PROTECTION (INCHES)
+USE COLUMN 1 FOR CLEARANCES ABOVE APPLIANCE OR HORIZONTAL CONNECTOR. USE COLUMN 2 FOR CLEARANCES FROM APPLIANCES, VERTICAL CONNECTOR, AND SINGLE-WALL METAL PIPE.
+ABOVE (COLUMN 1)	SIDES AND REAR (COLUMN 2)	ABOVE (COLUMN 1)	SIDES AND REAR (COLUMN 2)	ABOVE (COLUMN 1)	SIDES AND REAR (COLUMN 2)	ABOVE (COLUMN 1)	SIDES AND REAR (COLUMN 2)	ABOVE (COLUMN 1)	SIDES AND REAR (COLUMN 2)
+(1) 31/2 inch thick masonrywall without ventilated air space	-	24	-	12	-	9	-	6	-	5
+(2) 1/2 of an inch insulation board over 1 inch glass fiber or mineral wool batts	24	18	12	9	9	6	6	5	4	3
+(3) 0.024 inch (nominal 24 gauge) sheet metal over 1 inch glass fiber or mineral wool batts reinforced with wire on rear face with ventilated air space	18	12	9	6	6	4	5	3	3	3
+(4) 31/2 inch thick masonry wall with ventilated air space	-	12	-	6	-	6	-	6	-	6
+(5) 0.024 inch (nominal 24 gauge) sheet metal with ventilated air space	18	12	9	6	6	4	5	3	3	2
+(6) 1/2 of an inch thick insulation board with ventilated air space	18	12	9	6	6	4	5	3	3	3
+(7) 0.024 inch (nominal 24 gauge) sheet metal with ventilated air space over0.024 inch (nominal 24 gauge) sheet metal with ventilated air space	18	12	9	6	6	4	5	3	3	3
+(8) 1 inch glass fiber or mineral wool batts sandwiched between two sheets 0.024 inch (nominal 24 gauge) sheet metal with ventilatedair space	18	12	9	6	6	4	5	3	3	3
+
+303.10.1.1 Type I Hood Exhaust System
+303.10.1.2 Product Conveying Ducts
+303.10.1.3 Solid-Fuel Burning Appliances
+303.11 Installation in Commercial Garages
+303.11.1 Repair Garages
+303.12 Installation in Aircraft Hangars
+304.0 Accessibility for Service
+304.1 General
+304.2 Sloped Roof
+304.3 Access to Appliances on Roofs
+304.3.1 Access
+304.3.1.1 Access Type
+304.3.1.2 Permanent Ladders
+304.3.2 Permanent Lighting
+304.4 Appliances in Attics and Under-Floor Spaces
+304.4.1 Length of Passageway
+304.4.2 Width of Passageway
+304.4.3 Work Platform
+304.4.4 Lighting and Convenience Outlet
+305.0 Location
+305.1 Installation in Residential Garages
+305.1.1 Physical Damage
+305.1.2 Access From the Outside
+305.1.3 Cellulose Nitrate Plastic Storage
+305.2 Pit Location
+Exception
+
+[HCD 1 & HCD 2] Liquefied petroleum gas
+(LP-Gas) appliances as described in Section 303.7.1.
+
+305.3 Flood Hazard Areas
+305.3.1 Coastal High Hazard Areas
+305.3.2 Air Exhaust and Intake Openings
+305.4 Elevator Shaft
+305.5 Drainage Pan
+306.0 Automatic Control Devices
+306.1 General
+306.2 Building Automation Systems
+Building Automation Systems
+
+[OSHPD 1] Building automation systems shall provide for localized control in the event of network failure. This capability shall be
+specified in the construction documentation.
+
+307.0 Labeling
+307.1 Fuel-Burning Appliances
+307.2 Electric Heating Appliances
+307.3 Heat Pump and Electric Cooling Appliances
+307.4 Absorption Units
+308.0 Improper Location
+308.1 General
+309.0 Workmanship
+309.1 Engineering Practices
+309.2 Concealing Imperfections
+309.3 Installation Practices
+310.0 Condensate Wastes and Control
+310.1 Condensate Disposal
+310.1.1 Condensate Pumps
+310.2 Condensate Control
+310.2.1 Protection of Appurtenances
+310.3 Condensate Waste Pipe Material and Sizing
+EQUIPMENT CAPACITY IN TONS OF REFRIGERATION	MINIMUM CONDENSATE PIPE DIAMETER (inches)
+Up to 20	3/4
+21-40	1
+41-90	11/4
+91 -125	11/2
+126 -250	2
+
+Outside Air - 20%	Room Air - 80%
+DB	WB	DB	WB
+90°F	73°F	75°F	62.5°F
+
+310.3.1 Cleanouts
+310.4 Appliance Condensate Drains
+310.5 Point of Discharge
+310.6 Condensate Waste From Air-Conditioning Coils
+310.7 Plastic Fittings
+311.0 Heating or Cooling Air System
+311.1 Source
+311.2 Air Filters
+311.3 Prohibited Source
+311.4 Return-Air Limitations
+311.5 California Energy Code Requirements for Residential Air Filtration
+California Energy Code Requirements for Residential Air Filtration
+
+In mechanically ventilated residential buildings, air filters shall be provided to clean outdoor air
+and return air prior to its delivery to occupied spaces where
+specified in California Energy Code Sections 150.0(m)12 and
+160.2(b). The air filters shall comply with California Energy
+Code requirements for labeling, ventilation system design and
+installation, air filter efficacy, and air filter pressure drop.
+
+312.0 Plumbing Connections
+312.1 General
+California Plumbing Code
+
+313.0 Hangers and Supports
+313.1 General
+313.2 Material
+313.3 Suspended Piping
+MATERIALS	TYPES OF JOINTS	HORIZONTAL	VERTICAL
+Cast	Lead and Oakum	5 feet, except 10 feet where 10 foot lengths are installed1, 2, 3	Base and each floor, not to exceed 15 feet
+Compression Gasket	Every other joint, unless over 4 feet then support each joint1, 2, 3	Base and each floor, not to exceed 15 feet
+Cast Iron Hubless	Shielded Coupling	Every other joint, unless over 4 feetthen support each joint1, 2, 3, 4	Base and each floor, not to exceed 15 feet
+Copper & Copper Alloys	Soldered, Brazed, Threaded, or Mechanical	11/2 inches and smaller, 6 feet; 2 inches and larger, 10 feet	Each floor, not to exceed 10 feet5
+Steel Pipe for Water DWV	Threaded or Welded	3/4 inch and smaller, 10 feet; 1 inch and larger, 12 feet	Every other floor, not to exceed 25 feet5
+Steel Pipe for Gas	Threaded or Welded	1/2 inch, 6 feet; 3/4 inch and 1 inch, 8 feet; 1 1/4 inches and larger, 10 feet	1/2 inch, 6 feet; 3/4 inch and 1 inch, 8 feet; 11/4 inches every floor level
+Schedule 40 PVC and ABS	Solvent Cemented	All sizes, 4 feet; allow for expansion every 30 feet3	Base and each floor; provide mid-story guides; provide for expansion every 30 feet
+CPVC	Solvent Cemented	1 inch and smaller, 3 feet; 11/4 inches and larger, 4 feet	Base and each floor; provide mid-story guides
+CPVC-AL-CPVC	Solvent Cemented	1/2 inch, 5 feet; 3/4 inch, 65 inches; 1 inch, 6 feet	Base and each floor; provide mid-story guides
+Lead	Wiped or Burned	Continuous Support	Not to exceed 4 feet
+Steel	Mechanical	In accordance with standards acceptable to the Authority Having Jurisdiction
+PEX	Cold Expansion, Insert and Compression	1 inch and smaller, 32 inches; 11/4 inches and larger, 4 feet	Base and each floor; provide mid-story guides
+PEX-AL-PEX	Metal insert and metal compression		Base and each floor; provide mid-story guides
+PE-AL-PE	Metal insert and metal compression		Base and each floor; provide mid-story guides
+PE-RT	Insert and Compression	1 inch and smaller, 32 inches; 11/4 inches and larger, 4 feet	Base and each floor; provide mid-story guides
+Polypropylene (PP)	Fusion weld (socket, butt, saddle, electrofusion), threaded (metal threads only), or mechanical	1 inch and smaller, 32 inches; 11/4 inches and larger, 4 feet	Base and each floor; provide mid-story guides
+
+313.4 Alignment
+313.5 Underground Installation
+313.6 Hanger Rod Sizes
+PIPE AND TUBE SIZE (inches)	ROD SIZES (inches)
+1/2 - 4	3/8
+5 - 8	1/2
+10 - 12	5/8
+
+313.7 Gas Piping
+314.0 Balancing
+314.1 General
+315.0 Louvers in Hurricane Prone Regions
+315.1 General
+315.1.1 Testing
+315.1.2 Impact Resistance Test
+316.0 Protection of Piping, Tubing, Materials, and Structures
+316.1 General
+316.2 Installation
+California Building Code or California Residential Code
+
+316.3 Corrosion, Erosion, and Mechanical Damage
+316.4 Protectively Coated Pipe
+316.5 Fire-Resistant Construction
+California Building Code or California Residential Code
+
+316.6 Steel Nail Plates
+316.7 Sleeves
+316.7.1 Building Loads
+316.7.2 Exterior Walls
+316.8 Firewalls
+316.9 Structural Members
+California Building Code or California Residential Code
+
+316.10 Rodentproofing
+316.11 Metal Collars
+317.0 Trenching, Excavation, and Backfill
+317.1 Trenches
+317.2 Tunneling and Driving
+317.3 Open Trenches
+317.4 Excavations
+318.0 Scope
+Scope
+
+318.1 Applicability
+Applicability
+
+This part is applicable to health facilities
+regulated by OSHPD (See Adoption Tables for application
+for specific sections).
+
+Note: This section has no corresponding provisions in the UMC. For the scope and authority of each state agency, refer to Chapter 1.
+
+318.2 Services/Systems and Utilities
+Services/Systems and Utilities
+
+Refer to Section
+1224.4.1, 1225.2.1 and 1228.4.1.1 of the California Building
+Code.
+
+319.0 Steam and Hot-Water Systems
+Steam and Hot-Water Systems
+
+319.1 Requirements for Hospitals and Optional Services Provided in Correctional Treatment Centers
+Requirements for Hospitals and Optional Services Provided in Correctional Treatment Centers
+
+[OSHPD 1, 1R, 4 & 5]
+
+319.1.1
+Boilers shall have the capacity, based upon the
+rest ratings published by the Hydronics Institute or
+another acceptable national standard to supply the normal
+operating requirements of all connected systems and
+equipment.
+
+319.1.2
+A minimum of two boilers shall be provided. The
+arrangement of boilers shall be based on the capacity
+and capability of a boiler or boilers to operate all systems
+during-periods of breakdown or maintenance of any
+one boiler.
+
+319.1.3
+Boiler systems providing space heating shall be
+designed to maintain a minimum temperature of 60°F
+(15.6°C) in general patient areas and the temperatures
+specified in Table 4-A for sensitive areas during periods
+of breakdown or maintenance of any one boiler.
+
+319.1.4
+Boiler feed pumps, condensate return pumps,
+fuel oil pumps, and heating circulating pumps shall be
+connected and installed to provide standby service in the
+event of pump failure. Installation of duplex pumps or
+provision of a spare pump will meet this requirement.
+
+319.1.5
+At least two sources of heat (e.g. two pieces of
+equipment) shall be provided for supplying essential
+services such as sterilizers, hot water for dishwashing,
+and domestic hot water for minimum patient service,
+such as handwashing and baths. Booster heaters for
+dishwashing providing 125°F to 180°F (52°C to 82°C)
+water may be counted as the second source of heat for
+that service.
+
+319.2 Requirements for Skilled Nursing, Intermediate Care Facilities and Basic Services Provided in Correctional Treatment Centers
+Requirements for Skilled Nursing, Intermediate Care Facilities and Basic Services Provided in Correctional Treatment Centers
+
+[OSHPD 2 & 4]
+
+319.2.1
+Boilers, if provided, shall accommodate Section 319.1.
+
+319.2.2
+Two or more interconnected water heaters are
+an acceptable means to provide two sources of heat for
+hot water (See Section 319.1.5).
+
+320.0 Air Conditioning and Heating Systems
+Air Conditioning and Heating Systems
+
+320.1 Requirements for Hospitals and Optional Services Provided in Correctional Treatment Centers
+Requirements for Hospitals and Optional Services Provided in Correctional Treatment Centers
+
+[OSHPD 1, 1R, 4 & 5]
+
+320.1.1
+The systems shall be designed to provide the
+temperatures and relative humidity for sensitive areas or
+rooms shown in Table 4-A. When outdoor humidity and
+internal moisture sources are not sufficient to meet the
+requirements of sensitive areas or rooms in Table 4-A,
+humidification shall be provided by means of the healthcare
+facility air-handling systems. Temperature shall be
+individually controlled for each operating and delivery
+room. Burn unit patient rooms that require humidifiers
+to comply with the requirements of sensitive areas or
+rooms in Table 4-A shall b e provided with individual
+humidity control. All humidifiers shall use dry steam.
+Humidifiers shall be located within air handling systems
+or ductwork to avoid moisture accumulation in downstream
+components, including filters and insulation.
+
+320.1.2
+Heating systems shall be designed based on the
+"Heating DB 99.6%" column of the Climatic Design
+Data in ASHRAE Handbook-Fundamentals. The systems
+shall be thermostatically controlled with appropriate
+zoning to achieve the above conditions.
+
+320.1.3
+Cooling systems shall be designed based on the
+0.4% columns of the four Annual Design Conditions
+titled Cooling, Evaporation, Dehumidification, and
+Enthalpy shown by the Climate Design Data in ASHRAE
+Handbook-Fundamentals. The systems shall be thermostatically controlled with appropriate zoning to achieve the above conditions.
+
+320.2 Requirements for Skilled Nursing, Intermediate Care Facilities and Basic Services Provided in Correctional Treatment Centers
+Requirements for Skilled Nursing, Intermediate Care Facilities and Basic Services Provided in Correctional Treatment Centers
+
+[OSHPD 2 & 4]
+
+320.2.1
+Systems shall accommodate the provisions of
+Sections 320.1.2 through 320.1.3.
+
+320.2.2
+Where air conditioning is provided, the system
+shall be thermostatically controlled in one or more zones.
+
+320.3 Requirements for Outpatient Facilities and Licensed Clinics
+Requirements for Outpatient Facilities and Licensed Clinics
+
+[OSHPD 3]
+
+320.3.1
+The system shall be designed to provide the temperature and humidities for sensitive areas for rooms shown in Table 4-A.
+
+320.4 Telephone and Technology Equipment Centers
+Telephone and Technology Equipment Centers
+
+[OSHPD 1 & 4] Where telecommunications service entrance
+rooms, technology equipment centers, or technology distribution
+rooms are provided in accordance with Section 1224.5
+of the California Building Code, the following requirements shall apply:
+
+320.4.1
+Power for HVAC systems serving the room(s)
+shall be supplied by the Equipment Branch pursuant to
+the California Electrical Code. Where redundant systems
+are provided, only one shall be required to be supplied by
+the Equipment Branch.
+
+320.4.2
+Mechanical equipment or fixtures that are not directly related to the support of the room shall not be installed in or pass through the room.
+
+Exception: Unrelated ductwork may be installed and shall be not less than 10 feet (3048 mm) above the finished floor.
+
+320.4.3
+HVAC systems shall be provided to maintain
+environmental conditions recommended in ASHRAE's
+Thermal Guidelines for Data Processing Environment
+and the requirements of the specific equipment installed.
+
+320.4.4
+Technology equipment centers shall have redundant cooling systems each of sufficient capacity to provide required cooling during periods of breakdown or
+maintenance of either system. One system shall be nonhydronic and on essential power.
+
+320.5 Psychiatric Services
+Psychiatric Services
+
+[OSHPD 1, 1R, 2, 4 & 5]
+For projects associated with provision of psychiatric services
+in acute psychiatric hospitals, general acute-care hospitals,
+and special treatment program service units in skilled nursing
+facilities, psychiatric, seclusion, and holding-patient
+rooms shall be designed with security diffusers, grilles, and registers.
+
+321.0 Essential Mechanical Provisions
+Essential Mechanical Provisions
+
+[OSHPD 1, 1R, 2, 3 (Surgical Clinics only) 4 & 5] During periods of
+power outages essential electrical power shall be provided
+for the following equipment:
+
+321.1
+(Does not apply to OSHPD 3 surgical clinic.) All heating equipment and fans necessary to maintain a minimum temperature of 60°F (15.6°) in patient areas which are not specified in Section 322.0.
+
+321.2
+All heating equipment and fans necessary to maintain the minimum temperatures listed in Table 4-A for sensitive areas specified in Section 322.0.
+
+321.3
+Equipment necessary for humidification of
+the areas listed in Section 322.0.
+
+321.4
+All supply, return, and exhaust fans required to maintain the positive and negative air balances as required in Table 4-A.
+
+321.5
+All control components and control systems necessary
+for the normal operation of equipment required to have essential electrical power.
+
+321.6
+Alarms for airborne infection isolation rooms and protective environment rooms.
+
+322.0 Sensitive Areas or Rooms
+Sensitive Areas or Rooms
+
+[OSHPD 1, 1R, 2, 3 (Surgical Clinics) 4 & 5] The following are sensitive areas or rooms:
+
+Operating room, hybrid operation room
+
+Cystoscopy
+
+Cardiac catheterization lab
+
+Trauma/cardiac room
+
+Delivery room, cesarean operating room
+
+Gastrointestinal endoscopy procedure room
+
+Post-anesthesia care unit
+
+Newborn nursery
+
+Newborn intensive-care nursery unit
+
+Intensive care
+
+Burn unit
+
+322.1
+The following conditions shall be met for sensitive areas or rooms:
+
+Thermostats and humidistats shall be either locally resettable and of the non-locking type or remotely resettable and of the locking type.
+
+Systems shall be capable of maintaining the rooms within the temperature range in Table 4-A during normal operation. Lower or higher temperature shall be permitted when patients' comfort and/or medical conditions require those conditions.
+
+The humidity ranges listed in Table 4-A are the minimum and maximum limits where control is specifically needed.
+
+Types of intensive care service spaces are listed in the California Building Code.
+
+323.0 Mechanical Equipment Schedules
+Mechanical Equipment Schedules
+
+[OSHPD 1, 1R, 2, 4 & 5] Mechanical equipment schedules in the construction documents shall clearly indicate which equipment
+will be powered by essential power or appropriate special
+seismic certifications.
+

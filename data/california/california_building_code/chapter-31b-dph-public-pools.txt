@@ -1,0 +1,1473 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE CHAPTER 31B – PUBLIC POOLS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																	X						
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below					X		X																
+Chapter / Section																							
+3101B					X																		
+3101B (last paragraph only)							X																
+3102B					X																		
+																							The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER CHAPTER 31B [DPH] 31B [DPH] [DPH] PUBLIC POOLS PUBLIC POOLS
+
+Division Division I I GENERAL GENERAL
+
+SECTION SECTION 3101B 3101B SCOPE SCOPE
+
+The provisions of this chapter shall apply to the construction, installation, renovation, alteration, addition, relocation, replacement or use of any public pool and to its ancillary facilities, mechanical equipment and related piping. Public pools include those located in or designated as the following: commercial building, hotel, motel, resort, recreational vehicle or mobile home park, campground, apartment house, condominium, townhouse, homeowner association, club, community building or area, public or private school, health club or establishment, water park, swim school, medical facility, bed and breakfast, licensed day-care facility, recreation and park district and municipal pools.
+
+[HCD 2] This chapter, as specified, shall apply to swimming pools in Mobilehome Parks as defined in Health and Safety Code Section 18214 and Special Occupancy Parks as defined in Health and Safety Code Section 18862.43.
+
+Note: Existing law limits application of building standards. Please see Health and Safety Code Sections 18938.5 and 116050.
+
+[DSA-AC] Refer to Chapter 11B for accessibility provisions applicable to public accommodations, commercial buildings and public housing.
+
+SECTION SECTION 3102B 3102B DEFINITIONS DEFINITIONS
+
+ANCILLARY FACILITY is any area used in conjunction with or for the operation of a pool such as public dressing rooms, lockers, shower or bathroom areas, drinking fountains, equipment room, pool deck area, pool enclosure or building space that is intended to be used by pool users.
+
+BACKWASH is the process of reversing the flow of water through the filter to thoroughly clean the filter media and/or elements and remove the debris from the contents of the filter vessel.
+
+CANTILEVERED DECKING is the part of the deck which extends over a top edge of a pool or spa.
+
+CLEAN POOL WATER is pool water that is free of dirt, oils, scum, algae, floating materials or visible organic and inorganic materials that would pollute the water.
+
+CLEAR POOL WATER is pool water that is free from cloudiness and is transparent.
+
+COPING is a slip-resistant cap installed on the top edge of a pool or spa.
+
+CORROSION RESISTANT is capable of maintaining original surface characteristics under the prolonged influence of the use environment.
+
+DECK is an area surrounding a pool which is specifically constructed or installed for use by pool users.
+
+DIATOMACEOUS EARTH is a filtering media consisting of microscopic fossilized skeletons of diatoms.
+
+EASILY CLEANABLE is a characteristic of a surface or material that allows removal of dirt, stains or residue by normal cleaning methods.
+
+EFFECTIVE PARTICLE SIZE is the theoretical size of a sieve in mm that will pass 10 percent by weight of sand.
+
+ENFORCING AGENT is the health officer, director of environmental health, registered environmental health specialist or environmental health specialist trainee.
+
+[HCD 2] ENFORCING AGENT OR ENFORCING AGENCY is the Department of Housing and Community Development, local building department or other local agency that has assumed responsibility for the enforcement of Health and Safety Code, Division 13, Part 2.1 commencing with Section 18200 for mobilehome parks and Health and Safety Code, Division 13, Part 2.3 commencing with Section 18860 for special occupancy parks.
+
+EQUIPMENT AREA is an area where the recirculation system and all related appurtenances are located.
+
+HANDHOLD is a structure located at or above the water line around the perimeter of the pool wall that allows a pool user to hold onto the poolside for support.
+
+INLET is a fitting or fixture through which recirculated water enters the pool.
+
+LADDER is a series of vertically separate treads or rungs either connected by vertical rail members or independently fastened to an adjacent vertical pool wall.
+
+LIVING UNIT is any building or portion thereof that contains living facilities including provisions for sleeping.
+
+MAIN DRAIN is a submerged suction outlet typically located at the bottom of a pool that conducts water to a recirculating pump.
+
+MEDICAL POOL is a special-purpose pool used by a State-recognized medical institution engaged in the healing arts under the direct supervision of licensed medical personnel for treatment of the infirm.
+
+OUTLET is a fitting or fixture through which recirculated water is removed from the pool which may or may not be connected to the pump.
+
+PERFORMANCE STANDARD is a standard that is accredited and published. Products compliant with a standard may be listed by any authorized nationally recognized testing laboratory.
+
+PERIMETER OVERFLOW SYSTEM is a system which includes perimeter-type overflow gutters, surge basin or similar surface water collective system components and their interconnecting piping.
+
+PERMISSIBLE EXPOSURE LIMIT is the maximum amount or concentration of a chemical that a worker may be exposed to under United States Occupational Safety and Health Administration regulations.
+
+POOL OR PUBLIC POOL is an artificial basin, chamber or tank constructed or prefabricated with impermeable surfaces that is used, or intended to be used, for public swimming, diving or recreational activities but does not include individual therapeutic tubs or baths where the main purpose is the cleaning of the body. Any manmade lake or swimming lagoon with a sand beach or sand bottom is not a public pool.
+
+POOL OPERATOR or OPERATOR is a person who is responsible for maintaining compliance with all requirements relating to pool operation, maintenance and safety of pool users.
+
+POOL USER is a person using a pool and ancillary facilities for the purpose of water activities such as diving, swimming or wading.
+
+RADIUS OF CURVATURE is the radius arc which denotes the curved surface from the point of departure from the springline of the pool to the pool bottom.
+
+READILY ACCESSIBLE is capable of being reached easily for cleaning, repair, replacement or inspection without the necessity of removing a panel, door or similar obstruction and without requiring a person to climb over or remove obstacles or to use devices such as portable ladders.
+
+READILY DISASSEMBLED means capable of being taken apart by hand or by using only simple tools such as a screwdriver, pliers or open-end wrench.
+
+RECESSED STEPS are a series of vertically spaced cavities in the pool wall creating riser and tread areas for pool ingress and egress.
+
+RECIRCULATION SYSTEM is the system of hydraulic components designed to remove, filter, disinfect and return water to the pool.
+
+RIM FLOW GUTTER is a perimeter overflow system in which the overflow rim is at the same elevation with the deck.
+
+SKIMMER EQUALIZER LINE is a submerged suction outlet located below the waterline and connected to the body of a skimmer that prevents air from being drawn into the pump if the water level drops below the skimmer weir or the skimmer is blocked by debris. A skimmer equalizer line is not a main drain.
+
+SLIP RESISTANT is a rough finish that is not abrasive to the bare foot.
+
+SPA POOL OR SPA is a pool that incorporates a water jet system, an aeration system or a combination of the two systems used in conjunction with heated water.
+
+SPECIAL PURPOSE POOL is a pool constructed exclusively for a specific purpose, such as instruction, diving, competition or medical treatment.
+
+SPLASH ZONE is the maximum distance the water from a spray ground can project horizontally.
+
+SPRAY GROUND is a pool with no standing water in the splash zone and consists of a surge basin with a recirculation system from which water is directed through water features for contact with pool users.
+
+SPRINGLINE is the point from which the pool wall breaks from vertical and begins its arc in the radius of curvature.
+
+STAIRS are a series of two or more steps.
+
+STEP is a riser and tread.
+
+SUCTION OUTLET is any outlet that is connected to the pump through which water is removed from the pool.
+
+SURGE BASIN is a reservoir or surge trench open to the atmosphere that receives water via gravity flow from the main drain, spray ground or perimeter overflow system and from which the recirculation system operates.
+
+TEMPERED WATER is water between 100°F and 110°F.
+
+TURNOVER TIME is the maximum time allowed to circulate one complete volume of the pool water through the recirculation system.
+
+UNIFORMITY COEFFICIENT is the ratio of the theoretical size of a sieve in mm that will pass 60 percent of the sand to the theoretical size of a sieve in mm that will pass 10 percent of the sand.
+
+WADING POOL is a pool intended to be used for wading by small children and having a maximum water depth of 18 inches (457 mm) at the deepest point.
+
+WATER FEATURE means an interactive device or structure through which water is directed to the pool user such as a water fountain, water spray, dancing water jet, waterfall, dumping bucket or shooting water cannon.
+
+WATERLINE shall be defined as one of the following:
+
+1.Skimmer system. The waterline shall be the midpoint of the operating range of the skimmers.
+
+2.Overflow system. The waterline shall be the top edge of the overflow rim.
+
+PLAN REVIEW, PERMITS, CONSTRUCTION AND FIELD INSPECTIONS PLAN REVIEW, PERMITS, CONSTRUCTION AND FIELD INSPECTIONS
+
+SECTION SECTION 3103B 3103B PLAN REVIEW PLAN REVIEW
+
+3103B.1 3103B.1
+
+A person proposing to construct, renovate or alter a pool, ancillary facilities or equipment and appurtenances shall submit plans and specifications detailing compliance with this chapter to the enforcing agent for review and written approval prior to commencing construction and shall first be cleared by the enforcing agent before substitution if not an exact duplicate of the units being changed or replaced. A local building department shall not issue a permit for a public pool or ancillary facility until the plans have been approved by the enforcing agent.
+
+3103B.2 3103B.2
+
+Plans submitted for approval pursuant to this section shall be drawn to a scale of 1/4 inch (6.4 mm) equals 1 foot (305 mm), except that plans for spa pools shall be drawn to a scale of 1 inch (25 mm) equals 1 foot (305 mm), unless otherwise approved by the enforcing agent.
+
+3103B.3 3103B.3
+
+The enforcing agent shall notify the person submitting the plans and specifications of approval or disapproval.
+
+3103B.4 3103B.4
+
+The enforcing agent shall retain one copy of the approved plans and specifications and any subsequent changes or modifications. The approved plans shall be valid for a period of two years from the date of approval or as extended by the enforcing agent.
+
+SECTION SECTION 3104B 3104B CONSTRUCTION CONSTRUCTION
+
+Pools and all ancillary facilities, equipment and appurtenances shall be constructed, renovated or altered in compliance with plans approved pursuant to Section 3103B.
+
+SECTION SECTION 3105B 3105B PLAN COMPLIANCE INSPECTIONS PLAN COMPLIANCE INSPECTIONS
+
+3105B 3105B
+
+The pool owner, operator or designated agent shall notify the enforcing agent prior to scheduling the following inspections:
+
+1.Exposed plumbing; and
+
+2.Prior to applying pneumatically placed concrete; and
+
+3.Prior to applying the final surface to the pool shell; and
+
+4.At the completion of construction. No pool shall be opened to the public without the written approval of the enforcing agent.
+
+POOL STRUCTURE POOL STRUCTURE
+
+SECTION 3106B SPECIAL REQUIREMENTS FOR SPRAY GROUNDS
+
+3106B Spray grounds
+
+All applicable provisions of this chapter shall apply to a spray ground unless specifically addressed in this section.
+
+3106B.1
+
+All parts of the spray ground shall be designed and constructed so that there are no safety hazards.
+
+3106B.2 Walking surface
+
+A minimum 4-foot wide walking surface shall extend around the perimeter of the splash zone of a spray ground.
+
+3106B.3
+
+The recirculation system shall be in operation at all times that the spray ground is open for use and shall have a minimum of four turnover cycles prior to opening for proper disinfection and filtration.
+
+3106B.4
+
+There shall be no standing water within the splash zone.
+
+3106B.5
+
+Nozzles that spray from the ground level shall be flush with the ground with openings no greater than 1/2 inch. Spray ground water features that extend above the ground must be clearly visible.
+
+3106B.6
+
+The splash zone shall be sloped so that only water from the spray ground water feature flows back to the surge basin. Areas adjacent to the splash zone shall be sloped away from the spray ground to deck drains or other surface water disposal systems.
+
+3106B.7
+
+All foggers and misters that produce finely atomized mists shall be supplied directly from a potable water source and not from the surge basin.
+
+3106B.8
+
+When multiple pumps are used the control systems for the spray ground water feature pump and recirculation system pump shall be electrically interconnected so that when the recirculation pump is off the spray ground water feature pump also is off.
+
+3106B.9
+
+The spray ground shall have a surge basin or treatment tank constructed of materials which are inert, corrosion resistant, nontoxic and watertight including materials such as concrete, fiberglass, high density polyethylene, stainless steel or other materials as approved by the enforcing agent which can withstand all anticipated loadings under full and empty conditions as determined by an engineer or architect who has experience working on public pools.
+
+3106B.10
+
+The total volume of the surge basin shall be at least 4,000 gallons or a minimum of three times the gallons per minute flow rate of all the spray ground pumps and the recirculation pump combined, whichever is higher.
+
+3106B.11
+
+The turnover time shall be one-half hour or less.
+
+3106B.12
+
+The suction intake for the spray ground or water feature pump in the surge basin shall be located adjacent to the recirculation return line.
+
+3106B.13
+
+When separate pumps are used, the suction intake for the recirculation pump shall be located in the lowest portion of the surge basin and on the opposite side from the suction intake for the spray ground pump.
+
+3106B.14
+
+The surge basin shall be designed to have easy access for cleaning and inspection. The basin shall have at least one ladder access and shall have at least one 3-foot by 3-foot access opening. Lids shall be locked or require a tool to open.
+
+3106B.15
+
+The surge basin shall be equipped with an automatic make up water fill device through an air gap or be protected by an approved backflow prevention device in accordance with Chapter 6 of the California Plumbing Code.
+
+3106B.16
+
+Ultraviolet light disinfection shall be used to supplement disinfection methods required in this chapter unless another treatment process is provided that has been determined by a nationally recognized testing laboratory to be capable of providing at least the equivalent level of reduction of cryptosporidium as the ultraviolet light disinfection system specified in this section. The ultraviolet light disinfection unit shall comply with the applicable requirements established by the NSF/ANSI 50-2010 performance standard effective August 2010.
+
+3106B.17
+
+An accurately calibrated ultraviolet light intensity meter that has been properly filtered to restrict its sensitivity to the disinfection spectrum shall be installed in the wall of the disinfection chamber at the point of greatest water depth from the light source.
+
+3106B.18
+
+The ultraviolet light unit shall be located on the recirculation system and shall be installed to provide treated water directly to the spray features.
+
+3106B.19
+
+The ultraviolet light disinfection system must be equipped with an automatic shutdown system that inactivates the water feature pump if the ultraviolet dosage rate drops below 40 mJ/cm2.
+
+3106B.20
+
+Artificial lighting shall be provided at all spray ground pads which are used at night or which do not have adequate natural lighting so that all portions of the spray pad and deck may be seen easily. Lighting that may be exposed to the feature pool water shall be installed in accordance with the manufacturer’s specifications and the California Electrical Code.
+
+3106B.21
+
+A means of diverting runoff from the splash zone shall be installed on the spray ground drainage piping before the surge basin to divert water to the storm drainage system when the spray ground is not in operation.
+
+3106B.22
+
+A removable and cleanable catch screen or basket shall be installed on the spray ground drainage system before it enters the reservoir to prevent larger debris from collecting in the surge basin.
+
+SECTION 3107B ALTERNATIVE EQUIPMENT, MATERIALS AND METHODS OF CONSTRUCTION
+
+3107B.1
+
+The enforcing agent may approve an alternative equipment, material or method of construction provided it finds that the proposed design is satisfactory and complies with the provisions of this chapter, that the equipment, material, method or work offered is, for the purpose intended, at least equivalent to that prescribed in suitability, strength, effectiveness, fire resistance, durability, safety and sanitation or that the methods of installation proposed conform to other acceptable nationally recognized standards.
+
+3107B.2
+
+The enforcing agent shall require that sufficient evidence or proof be submitted to substantiate claims that may be made regarding the use of alternative equipment, material or method of construction.
+
+3107B.3
+
+Whenever there is insufficient evidence of compliance with the provisions of this chapter, the enforcing agent may require tests as proof of compliance to be made at no expense to the enforcing agent. Tests shall be made in accordance with approved standards, but in the absence of such standards the enforcing agent may specify the test procedure.
+
+SECTION 3108B POOL CONSTRUCTION
+
+3108B.1 Pool shell
+
+The pool shall be built of reinforced concrete or material equivalent in strength, watertight and able to withstand anticipated stresses under both full and empty conditions taking into consideration factors such as climatic effects, geological conditions and integration of the pool with other structures.
+
+3108B.2 Finish
+
+The finished pool shell shall be lined with a smooth waterproof interior finish that will withstand repeated brushing, scrubbing and cleaning procedures. The interior pool finish shall completely line the pool to the tile lines, coping or cantilevered deck.
+
+3108B.3 Finish color
+
+The finish color shall be white except for the following which shall be of contrasting color:
+
+1.Lane and other required pool markings described in Section 3110B; and
+
+2.The top surface edges of benches in spa pools; and
+
+3.The edge of pool steps; and
+
+4.Tiles installed at the waterline; and
+
+5.Tiles installed at the 41/2-foot (1372 mm) depth line.
+
+Exception: A spa pool may be finished in a light color other than white when approved by the enforcing agent.
+
+3108B.4 Projections and recessed areas
+
+The pool shell shall not have projections or recessed areas except for pool inlets and outlets as specified in Section 3137B.
+
+Exception: This section shall not apply to handholds, recessed steps, ladders, stairs, handrails, skimmers or perimeter overflow systems.
+
+SECTION 3109B POOL GEOMETRY
+
+3109B.1 General
+
+A pool shall conform to the appropriate criteria in Figures 31B-1 through 31B-7.
+
+Exception: A special purpose pool may be exempted from construction standards that are not applicable to the proposed use.
+
+3109B.2 Dimensional tolerances
+
+A construction tolerance shall be permitted on all dimensions in Figures 31B-1 through 31B-3 not to exceed 2 inches (51 mm) except that the tolerance of the water level of a pool with a nonadjustable overflow system shall not exceed 1/8 inch (3.2 mm).
+
+3109B.3 Bottom slope break
+
+Any portion of a pool having a water depth of 41/2 feet (1372 mm) or less shall have a uniform slope that shall not exceed 1 foot (305 mm) of vertical in 10 feet (3050 mm) of horizontal. In pools with water depths greater than 41/2 feet (1372 mm) the slope shall meet the requirements in Figures 31B-1 through 31B-3. There shall be a uniform water depth along the entire base of the stairs.
+
+SECTION 3110B PERMANENT MARKINGS
+
+3110B.1 General
+
+No markings, designs or lettering shall be permitted on the pool shell except for slip resistant lane markings, depth marking lines and safety markings.
+
+3110B.2 Lane markings
+
+Slip resistant lane lines at the bottom of the pool shall not exceed 12 inches (305 mm) in width.
+
+3110B.3 Depth marking line
+
+There shall be installed a straight line of slip resistant tile a minimum of 4 inches (102 mm) and not greater than 6 inches (152 mm) wide of a color contrasting with the background of the pool shell across the bottom of the pool where the water depth is 41/2 feet (1372 mm).
+
+Exception: Pools having a maximum water depth of 5 feet (1524 mm) or less shall not be required to have a depth marking line.
+
+3110B.4 Water depth markers
+
+3110B.4.1 Location
+
+The water depth shall be clearly marked at the following locations:
+
+1.Maximum depth; and
+
+2.Minimum depth; and
+
+3.Each end; and
+
+4.Both sides at the shallowest and deepest part of the pool; and
+
+5.At the break in the bottom slope between the shallow and deep portions of the pool (see also Section 3109B.3); and
+
+6.Along the perimeter of the pool at distances not to exceed 25 feet (7620 mm).
+
+Exception: A spa or wading pool shall have a minimum of two depth markers indicating the maximum depth.
+
+Note: For an illustration diagram pertaining to this section see Figure 31B-8.
+
+3110B.4.2 Position
+
+Where required by Section 3110B.4.1, depth markers shall be located in the following positions:
+
+1.On the coping or on the deck, the depth markers shall be placed as close as possible but no more than 3 feet (914 mm) from the pool water; and
+
+2.For pools with skimmer systems the depth markers shall be high at the waterline which typically will result in the depth markers being submerged approximately 50 percent; or
+
+3.For pools with perimeter overflow systems where coping cantilevers over the gutter depth markers may be positioned at the face of the cantilevered coping, the back wall above the gutter or immediately below the waterline which will result in the depth markers being completely submerged; or
+
+4.For pools with rim flow gutters, depth markers shall be positioned immediately below the waterline which will result in the depth markers being completely submerged.
+
+3110B.4.3 Tolerance
+
+Depth markers shall be positioned to indicate the water depth accurate to the nearest 6 inches (152 mm) as measured at the waterline.
+
+3110B.4.4 Size of markers
+
+Depth markers shall:
+
+1.Have numerals a minimum of 4 inches (102 mm) in height and of a color contrasting with the background and be marked in units of feet and inches. Abbreviations of FT and IN may be used in lieu of feet and inches; and
+
+2.Be made of a durable material that is resistant to weathering; and
+
+3.Be slip resistant when they are located on the pool deck.
+
+3110B.5 No diving markers
+
+For pool water depths 6 feet (1830 mm) or less no diving markers with the universal symbol of no diving, which is a red circle with a slash through it superimposed over the image of a diver, shall be installed on the deck directly adjacent to the depth markers required by Section 3110B.4.1. No diving markers shall comply with Section 3110B.4.4(2-3).
+
+SECTION 3111B STEPS, RECESSED STEPS, LADDERS AND STAIRS
+
+3111B.1 Construction
+
+A means of entry and exit to and from the pool shall consist of steps, recessed steps, ladders, stairs, ramps or a combination of these. Stairs or ramps shall be provided in the shallowest portion of a pool if the vertical distance from the bottom of the pool to the deck is over 1 foot (305 mm). In pools with more than one shallow end, stairs or ramps shall be provided at a minimum at one shallow end. A second means of entry and exit shall be provided in the deep portion of a pool having a depth greater than 41/2 feet (1372 mm). Where the width of the pool exceeds 30 feet (9144 mm), such means of entry and exit shall be provided at each side, not more than 100 feet (30,480 mm) apart.
+
+Note: For illustrated diagrams pertaining to this section see Figures 31B-6 and 31B-7.
+Note: For illustrated diagrams pertaining to this section see Figures 31B-6 and 31B-7.
+
+3111B.2 Ladders
+
+Ladders shall be corrosion resistant and shall be equipped with slip resistant tread surfaces. Ladders shall be rigidly installed and shall provide a clearance of not less than 3 inches (76 mm) or more than 5 inches (127 mm) between any part of the ladder and the pool wall.
+
+3111B.3 Stairs
+
+Each step of a stair shall have a tread in accordance with Figure 31B-7. Risers shall conform to Figure 31B-7. At least one hand rail shall be provided extending from the deck to not less than a point above the top of the lowest step installed in accordance with Figure 31B-7.
+
+3111B.4 Ladder and recessed step dimensions
+
+Ladder treads and recessed steps shall have a minimum tread of 5 inches (127 mm) and a width of 14 inches (356 mm) and shall be designed to be readily cleaned. Step risers shall be uniform and shall not exceed 12 inches (305 mm) in height. The first riser shall be measured from the deck.
+
+3111B.5 Handrails for ladders and recessed steps
+
+Handrails shall be provided at the top of both sides of each ladder and recessed steps and shall extend over the coping or edge of the deck.
+
+3111B.6 Handrails for spas
+
+Two hand rails shall be provided extending from the deck to not less than a point above the top of the lowest step in accordance with Figure 31B-7. The steps shall be located where the deck is at least 4 feet (1219 mm) wide.
+
+3111B.7 Dimensional tolerances
+
+Finished step tread and riser construction tolerances shall be + 1/2 inch (12.5 mm).
+
+[DSA-AC] Additional requirements may apply. Refer to Chapter 11B for accessibility provisions applicable to public accommodations, commercial buildings and public housing.
+
+SECTION 3112B HANDHOLDS
+
+3112B.1 General
+
+Every pool shall be provided with handholds (perimeter overflow system, bull-nosed coping or cantilevered decking) around the entire perimeter installed not greater than 9 inches (229 mm) above the waterline.
+
+Exception: Handholds are not required for wading pools.
+
+3112B.2
+
+For special purpose pools used for instruction or competitive swimming, a handhold at water level similar to the rim of a perimeter overflow system is required.
+
+3112B.3
+
+Where perimeter overflow systems are not provided, a bull-nosed coping or cantilevered decking of reinforced concrete, or material equivalent in strength and durability, with rounded slip resistant edges shall be provided. The overhang for either bull-nosed coping or cantilevered decking shall not exceed 2 inches (51 mm) or be less than 1 inch (25 mm) and shall not exceed 21/2 inches (64 mm) in thickness.
+
+Exception: The enforcing agent may accept other handholds for spa pools.
+
+SECTION 3113B DIVING BOARDS AND PLATFORMS
+
+3113B.1 General
+
+Diving boards and platforms shall be anchored to the pool deck, constructed of corrosion resistant material, designed and constructed to be easily cleanable and finished with a durable slip resistant material.
+
+3113B.2 Rails and steps
+
+Diving boards or platforms greater than 18 inches (456 mm) in height above the deck shall be provided with a ladder or stairs for access. Hand rails shall be provided at all ladders and stairs leading to diving boards or platforms more than 1 meter above the water. Diving boards and platforms that are over 1 meter above the water shall have guard rails on both sides of the diving board or platform that extend to a point on the platform directly above the water’s edge. Guard rails shall be 36 inches (914 mm) above the diving board or platform.
+
+3113B.3 Dimensions
+
+Dimensions and clearances for the use of diving boards or platforms shall conform to those shown in Figures 31B-1 and 31B-2. Platforms and diving boards shall conform to the USA Diving Rules and Codes, Part 1, Subpart A and Appendix B, effective January 1, 2010.
+
+SECTION 3114B POOL DECKS
+
+3114B.1 General
+
+A minimum continuous and unobstructed 4-foot wide (1219 mm) slip resistant, cleanable, nonabrasive deck area of concrete or like material shall be provided flush with the top of the pool coping extending completely around the pool, and the deck area shall further extend 4 feet (1219 mm) on both sides and rear of any diving board, fixed disabled access assistance device or slide and their appurtenances. The deck width shall be measured from the poolside edge of the coping lip.
+
+Exception: A deck at least 4 feet (1219 mm) in width shall extend around a continuous 50 percent or more of the perimeter of a spa pool.
+
+3114B.2 Deck between pools and/or spas
+
+Where multiple pools and/or spas are built adjacent to each other, the deck width separating them shall be a minimum of 6 feet (1830 mm).
+
+3114B.3 Deck slope
+
+The pool’s deck surface shall have a slope of no less than 1 percent (1/8 inch per foot) but no more than 2 percent (1/4 inch per foot) away from the pool to a deck drainage system and shall be constructed and finished to prevent standing water.
+
+3114B.4 Deck covering
+
+Deck coverings or other materials that are not equivalent to concrete in strength, durability and slip resistance and are not able to withstand repeated brushing, scrubbing or cleaning procedures shall not be installed or used within 4 feet (1219 mm) of the pool.
+
+3114B.5 Unpaved areas
+
+Landscape plants, flower beds or similar unpaved areas shall not be located within 4 feet (1219 mm) of a spa pool.
+
+SECTION 3115B POOL LIGHTING
+
+3115B.1 General
+
+Pools shall have underwater and deck lighting such that lifeguards or other persons may observe, without interference from direct and reflected glare from the lighting sources, every part of the underwater area and pool surface, all diving boards or other pool appurtenances. If underwater or deck surface lighting is not operational, the operator of the pool shall secure the pool area and not permit any use of the pool after dark and shall post the same sign as required in Section 3120B.9.
+
+Note: See Part 3, Article 3-680, Title 24, California Code of Regulations for electrical installation requirements.
+Note: See Part 3, Article 3-680, Title 24, California Code of Regulations for electrical installation requirements.
+
+3115B.2 Nighttime use
+
+Pools used at night shall be equipped with underwater lighting fixtures that will provide complete illumination to all underwater areas of the pool with no blind spots. Illumination shall enable a lifeguard or other persons to determine whether:
+
+1.A pool user is lying on the bottom of the pool; and
+
+2.The pool water conforms to the definition of “clear pool water.”
+
+Exception: Pools provided with a system of overhead lighting fixtures where it can be demonstrated to the enforcing agent that the system is equivalent to the underwater lighting fixture system.
+
+3115B.3 Deck area lighting
+
+When the pool is to be used at night, pool deck areas and emergency egress areas shall be provided with lighting so that persons walking on the deck can identify hazards. Lighting fixtures shall be aimed towards the deck area and away from the pool surface insofar as practical.
+
+ANCILLARY FACILITIES ANCILLARY FACILITIES
+
+SECTION 3116B DRESSING, SHOWER AND TOILET FACILITIES
+
+3116B.1
+
+Shower and dressing facilities shall be provided for users of a pool.
+
+Exceptions:
+
+1.Shower and dressing facilities may not be required when pool users have access to such facilities in adjacent living quarters.
+
+2.Public toilet facilities may be omitted when pool users have access to toilet facilities either in living quarters located not more than 300 feet (91,440 mm) in travel distance from the pool or in an adjacent building such as a recreational facility, club-house or cabana.
+
+3116B.2 Number of sanitary facilities
+
+For the purpose of this subsection, one pool user shall be considered for every 15 square feet (1.39 m2) of pool water surface area and/or spray ground splash zone area.
+
+3116B.2.1 Showers
+
+One shower shall be provided for every 50 pool users.
+
+3116B.2.2 Toilets
+
+Separate toilet facilities shall be provided for each sex. One toilet shall be provided for every 60 women or less and one toilet plus one urinal for every 75 men or less.
+
+3116B.2.3 Lavatories
+
+One lavatory shall be provided for every 80 pool users.
+
+3116B.3 Construction
+
+3116B.3.1 Floors
+
+Floors shall have a hard, nonabsorbent surface, such as portland cement concrete, ceramic tile or other approved material, which extends upwards onto the wall at least 5 inches (127 mm) with a coved base. Floors which may be walked on by a wet pool user shall be slip resistant. Floors shall be sloped not less than 1/4 inch (6.4 mm) per foot to floor drains or other approved surface water disposal areas. Carpeting and other similar artificial floor covering shall not be permitted on shower and toilet room floors.
+
+3116B.3.2 Interior surfaces
+
+The materials used in the walls, except for structural elements, shall be of a type which is not adversely affected by moisture.
+
+3116B.3.3 Privacy
+
+All doors and windows shall be arranged to prevent viewing of the interior from any portion of the building used by the opposite sex and from view from the outdoors. View screens shall be permitted for this purpose.
+
+3116B.4 Water supply
+
+3116.B.4.1
+
+Showers and lavatories shall be provided with hot and cold water faucets.
+
+3116B.4.2
+
+Tempered water shall be permitted in lieu of individual hot and cold water faucets.
+
+3116B.4.3
+
+A means to limit the hot water to 110°F (43°C) maximum shall be provided to prevent scalding. This temperature limit control shall not be adjustable by the pool user.
+
+SECTION 3117B DRINKING FOUNTAINS
+
+One guarded jet drinking fountain shall be provided for the first 250 pool users and an additional fountain shall be provided for each additional 200 pool users or fraction thereof. The number of pool users shall be determined according to Section 3116B.2.
+
+Exception: Drinking fountains shall not be required when drinking water is available at adjacent living quarters, or in an adjacent building such as a bathhouse, cabana, clubhouse or recreational facility.
+
+SECTION 3118B HOSE BIBBS
+
+Potable water outlets with hose attachments shall be protected by a nonremovable hose bibb backflow preventer, a nonremovable hose bibb vacuum breaker or by an atmospheric vacuum breaker installed not less than 6 inches (152 mm) above the highest point of usage located on the discharge side of the last valve as required by the California Plumbing Code. In climates where freezing temperatures occur, a listed self-draining frost-proof hose bibb with an integral backflow preventer or vacuum breaker shall be used. Hose bibbs shall be provided so that all portions of the pool deck area may be reached with a 75 foot length of hose attached to the hose bibb. A hose bibb shall be provided in the equipment area. Hose bibbs shall be located so that they do not constitute a hazard.
+
+SECTION 3119B POOL ENCLOSURE
+
+3119B.1 Enclosure
+
+The pool shall be enclosed by one or a combination of the following: a fence, portion of a building, wall or other approved durable enclosure. Doors, openable windows, gates of living units or associated private premises shall not be permitted as part of the pool enclosure. The enclosure, doors and gates shall meet all of the following specifications:
+
+1.The enclosure shall have a minimum effective perpendicular height of 5 feet (1524 mm) as measured from the outside as depicted in Figure 31B-4; and
+
+2.Openings, holes or gaps in the enclosure, doors and/or gates shall not allow the passage of a 4-inch (102 mm) diameter sphere. The enclosure shall be constructed over a hard and permanent material equivalent to concrete; and
+
+3.The enclosure shall be designed and constructed so that it cannot be readily climbed by small children. Horizontal and diagonal member designs which might serve as a ladder for small children are prohibited. Horizontal members shall be spaced at least 48 inches (1219 mm) apart. No planters or other structures that can be climbed shall be permitted within 5 feet (1524 mm) of the outside of the pool enclosure or within a 5 foot (1524 mm) arc as depicted in Figure 31B-5. The area 5 feet (1524 mm) outside of the pool enclosure shall be a common area open to the public; and
+
+4.Chain link may be used, provided that the openings are not greater than 13/4 inches (44 mm) measured horizontally.
+
+3119B.2 Gates
+
+Gates and doors opening into the pool enclosure also shall meet the following specifications:
+
+1.Gates and doors shall be equipped with self-closing and self-latching devices. The self-latching device shall keep the gate or door securely closed. Gates and doors shall open outwardly away from the pool except where otherwise prohibited by law. Hand activated door or gate opening hardware shall be located at a height no lower than 42 inches (1067 mm) but no higher than 44 inches (1179 mm) above the deck or walkway; and
+
+2.Gates and doors shall be capable of being locked during times when the pool is closed. Exit doors which comply with Chapter 10, Title 24, California Code of Regulations shall be considered as meeting these requirements; and
+
+3.The pool enclosure shall have at least one means of egress without a key for emergency purposes. Unless all gates or doors are so equipped, those gates and/or doors which will allow egress without a key shall have a sign in letters at least 4 inches (102 mm) high stating EMERGENCY EXIT; and
+
+4.The enclosure shall be constructed so that all persons will be required to pass through common pool enclosure gates or doors in order to gain access to the pool area. All gates and doors exiting the pool area shall open into a public area or a walkway accessible by all patrons of the pool.
+
+3119B.3 Retroactivity
+
+Sections 3119B.1 and 3119B.2 shall apply only to public pool enclosures constructed on or after July 1, 1994. Notwithstanding the foregoing effective date, no fence enclosure shall be less than 4 feet (1219 mm) in height.
+
+3119B.4 Enclosure of pools constructed prior to July 1, 1994
+
+The enforcing agent may allow the installation of an enclosure which reduces the pool deck to less than 4 feet (1219 mm) in width when the physical characteristics of a site preclude providing a 4-foot (1219 mm) wide deck around the perimeter of an existing pool.
+
+SECTION 3120B REQUIRED SIGNS
+
+3120B.1 General
+
+All signs shall have clearly legible letters or numbers not less than 4 inches (102 mm) high, unless otherwise required in this section, affixed to a wall, pole, gate or similar permanent structure in a location visible to all pool users.
+
+3120B.2 Pool user capacity sign
+
+A sign shall indicate the maximum number of pool users permitted for each pool.
+
+3120B.2.1 Spa pool
+
+The pool user capacity of a spa pool shall be based on one pool user for every 10 square feet (0.929 m2) of pool water surface area.
+
+3120B.2.2 Other pools
+
+The pool user capacity for all other pools shall be based on one pool user for every 20 square feet (1.858 m2) of pool water surface area.
+
+Exception: Pool user capacity requirements do not apply to wading pools or spray grounds.
+
+3120B.3 No diving sign
+
+Signs shall be posted in conspicuous places and shall state, “NO DIVING” at pools with a maximum water depth of 6 feet or less.
+
+3120B.4 No lifeguard sign
+
+Where no lifeguard service is provided, a sign shall be posted stating, “NO LIFEGUARD ON DUTY.” The sign also shall state in letters at least 1 inch (25 mm) high, “Children should not use pool without adult supervision.”
+
+Exception: “No lifeguard sign” requirement does not apply to spray grounds that have no standing water.
+
+3120B.5 Artificial respiration and cardiopulmonary resuscitation sign
+
+An illustrated diagram with text at least 1/4 inch (6 mm) high of artificial respiration and cardiopulmonary resuscitation procedures shall be posted.
+
+3120B.6 Emergency sign
+
+The emergency telephone number 911 with numbers not less than 4 inches (102 mm), the number of the nearest emergency services and the name and street address of the pool facility with numbers and text not less than 1 inch (25 mm) shall be posted.
+
+3120B.7 Warning sign for a spa pool
+
+A warning sign for spa pools shall be posted stating, “CAUTION” and shall include the following language in letters at least 1 inch (25 mm) high:
+
+1.Elderly persons, pregnant women, infants and those with health conditions requiring medical care should consult with a physician before entering the spa.
+
+2.Children should not use spa without adult supervision.
+
+3.Hot water immersion while under the influence of alcohol, narcotics, drugs or medicines may lead to serious consequences and is not recommended.
+
+4.Do not use alone.
+
+5.Long exposure may result in hyperthermia, nausea, dizziness or fainting.
+
+3120B.8 Emergency shut off
+
+In letters at least one inch (25 mm) high a sign shall be posted at the spa emergency shut off switch stating, “EMERGENCY SHUT OFF SWITCH.”
+
+3120B.9 No use after dark
+
+Where pools were constructed for which lighting was not required, a sign shall be posted at each pool entrance on the outside of the gate(s) stating, “NO USE OF POOL ALLOWED AFTER DARK.”
+
+3120B.10 Keep closed
+
+A sign shall be posted on the exterior side of gates and doors leading into the pool enclosure area stating, “KEEP GATE CLOSED.” or “KEEP DOOR CLOSED.”
+
+[DSA-AC] Additional requirements may apply. Refer to Chapter 11B for accessibility provisions applicable to public accommodations, commercial buildings and public housing.
+
+3120B.11 Diarrhea
+
+The pool operator shall post at the entrance area of a public pool a sign in letters at least 1 inch (25 mm) high that clearly states that persons with diarrhea and persons who have had diarrhea within the prior 14 days shall not enter the pool water.
+
+3120B.12 Wave pools
+
+A sign in letters at least 1 inch (25 mm) high shall be posted that describes the requirements for wave pools as described in Section 115952, Health and Safety Code.
+
+3120B.13 Spray ground sign
+
+A sign shall be posted at each spray ground and be visible from any part of the spray ground that states, “CAUTION: WATER IS RECIRCULATED. DO NOT DRINK.”
+
+3120B.14 Exit
+
+Where automatic gaseous chlorine chemical feeders are used, a sign shall be posted at the pool area entrance which shows in a diagrammatic form an emergency evacuation procedure. Designated emergency exits shall be marked “EXIT.”
+
+3120B.15 Gaseous oxidizer
+
+Where automatic gaseous chlorine chemical feeders are used, a warning sign with the appropriate hazard identification symbol shall be posted on the exterior side of the door entering the chemical feeder room or area. The sign shall state, “DANGER: GASEOUS OXIDIZER - (specific chemical name)” or as otherwise required by the California Fire Code.
+
+3120B.16 Turn on before entering
+
+Where automatic gaseous chemical feeders are used, a sign shall be posted at the switch to the light and ventilation system for the gaseous chemical feeder room stating, “TURN ON BEFORE ENTERING,” or as otherwise required by the California Fire Code or the California Electrical Code.
+
+3120B.17 Direction of flow
+
+3120B.17.1.
+
+The direction of flow for the recirculation equipment shall be labeled clearly with directional symbols such as arrows on all piping in the equipment area.
+
+3120B.17.2.
+
+Where the recirculation equipment for more than one pool is located on site, the equipment shall be marked as to which pool the system serves.
+
+3120B.17.3.
+
+Valves and plumbing lines shall be labeled clearly with the source or destination descriptions.
+
+SECTION 3121B INDOOR POOL VENTILATION
+
+Indoor pools, dressing rooms and toilet rooms shall be ventilated according to the requirements in Chapter 4 of the California Mechanical Code.
+
+SECTION 3122B POOL EQUIPMENT ENCLOSURE
+
+For pools constructed on or after January 1, 2013, pool equipment shall be enclosed as follows:
+
+1.All equipment installed for recirculation, filtration and disinfection of pool water shall be installed so that access is limited to persons authorized by the pool owner or operator; and
+
+2.Pool equipment shall be mounted on a continuous slab of concrete or other equivalent easily cleanable and nonabsorbent material; and
+
+3.Floors shall be sloped a minimum of 1/4 inch (6.4 mm) per foot to a drain.
+
+SECTION 3123B GENERAL REQUIREMENTS
+
+3123B.1 System description
+
+Each pool shall be provided with a separate recirculation system designed for the continuous recirculation, filtration and disinfection of the pool water. The system shall consist of pumps, filters, chemical feeders, skimmers or perimeter overflow systems, valves, pipes, connections, fittings and appurtenances.
+
+Exception: Pools using fresh water equivalent in flow to the requirements of Section 3124B.
+
+Note: Fresh makeup pool water shall conform to the water quality standards of Section 65531, Chapter 20, Title 22, California Code of Regulations.
+Note: Fresh makeup pool water shall conform to the water quality standards of Section 65531, Chapter 20, Title 22, California Code of Regulations.
+
+3123B.2 Equipment
+
+All pumps, filters, chemical feeders, skimmers and supplemental equipment shall comply with the applicable requirements established by the NSF/ANSI 50-2012 performance standard effective September 2012.
+
+3123B.3 Installation
+
+All equipment related to pool operations shall be installed and maintained according to this chapter and in accordance with the equipment manufacturer’s written instructions.
+
+3123B.4 Equipment access
+
+All filters, valves, pumps, strainers and equipment shall be readily accessible for repair and replacement.
+
+SECTION 3124B TURNOVER TIME
+
+The recirculation system shall have the capacity to provide a complete turnover of pool water in:
+
+1.One-half hour or less for a spa pool; and
+
+2.One-half hour or less for a spray ground; and
+
+3.One hour or less for a wading pool; and
+
+4.Two hours or less for a medical pool; and
+
+5.Six hours or less for all other types of public pools.
+
+SECTION 3125B RECIRCULATION PIPING SYSTEM AND COMPONENTS
+
+3125B.1 Line sizes
+
+Pipes shall be sized so flow velocity of piping systems including all pipes and fittings other than inlet devices or venturi throats shall not exceed 6 feet per second (1.829 m/s) in any suction or copper piping and 8 feet per second (2.438 m/s) in any portion of the return system.
+
+3125B.1.1 Materials
+
+All piping, tubing and fittings shall comply with the applicable standards for potable water system materials set forth in Chapter 6 of the California Plumbing Code.
+
+3125B.2 Gauges
+
+A pressure and vacuum gauge shall be provided for each pump system. Each gauge shall have a scale range approximately 11/4 times the maximum anticipated working pressure or vacuum and shall be accurate within 2 percent of scale. The pressure gauge located on the filter shall be marked with the clean start up pressure reading.
+
+3125B.3 Flow meter
+
+A flow meter shall be provided on each recirculation system accurate to within 10 percent of flow and installed according to the manufacturer’s written instructions with increments in the range of normal flow.
+
+3125B.4 Basket strainer
+
+A basket strainer shall be provided on the suction side of the recirculation pump. A basket strainer will not be required on pumps connected to vacuum filters where the filter elements are not removed for cleaning.
+
+3125B.5 Backwash piping
+
+Piping, including necessary valves conforming to Section 3125B.1, shall be provided for each filter vessel or element which requires periodic backwashing.
+
+3125B.6 Valves
+
+Valves shall not be located in any deck area surrounding a pool. Valves shall be installed on all recirculation, backwashing and drain system lines which require shutoff isolation, adjustment or control of the rate of flow. Each valve shall be installed in the equipment area and labeled as to its purpose.
+
+SECTION 3126B RECIRCULATION PUMP CAPACITY
+
+3126B.1
+
+Pool recirculation pumps shall have the following total dynamic head capacities:
+
+1.Pressure diatomaceous earth filters. At least 60 feet (18,288 mm); and
+
+2.Vacuum diatomaceous earth filters. Twenty inches (508 mm) vacuum on the suction side and 40 feet (12,192 mm) total dynamic head; and
+
+3.Rapid sand filters. At least 45 feet (13,716 mm); and
+
+4.High rate sand filters. At least 60 feet (18,288 mm); and
+
+5.Cartridge filters. At least 60 feet (18,288 mm).
+
+3126B.2.
+
+Pumps with other total dynamic head capacities shall be permitted provided the turnover times are maintained as required in Section 3124B.
+
+SECTION 3127B WATER SUPPLY INLETS
+
+3127B.1 General
+
+Each pool shall be supplied with potable water by means of a permanently installed pipeline from a public water supply system holding a permit from the California Department of Public Health or from a source approved by the enforcing agent.
+
+3127B.2 Backflow prevention
+
+There shall be no direct connection between any potable water supply system and the pool or its piping system unless protected by a backflow prevention device in accordance with Chapter 6 of the California Plumbing Code.
+
+3127B.3 Makeup water
+
+Automatic makeup water flow controls with a manual override control shall be provided to maintain the proper pool water level.
+
+SECTION 3128B FILTERS (ALL TYPES)
+
+3128B.1 General requirements
+
+All filters, regardless of type, shall be designed and constructed according to the applicable requirements established by the NSF/ANSI 50-2012 performance standard effective September 2012.
+
+3128B.2 Installation
+
+Each filter vessel shall be installed, piped and provided with valves so that it can be isolated from the recirculation system for repairs and backwashing.
+
+SECTION 3129B RAPID SAND PRESSURE FILTERS
+
+In addition to the requirements for all filters as indicated in Section 3128B, the following apply to rapid sand pressure filters.
+
+3129B.1 Flow rates
+
+The filtration rate shall not exceed 3 gallons per minute per square foot (122.24 L/m per m2) of filter area. The backwash rate shall not be less than 15 gallons per minute per square foot (611.2 L/m per m2) of filter area.
+
+3129B.2 Filter media
+
+The filter shall contain not less than a 20-inch (508 mm) depth of media and not less than a 10-inch (254 mm) depth of filter gravel above the underdrain system.
+
+3129B.2.1
+
+The filter media shall have an effective particle size between 0.40 and 0.55 millimeters and a uniformity coefficient not exceeding 1.75.
+
+3129B.2.2
+
+The filter gravel shall be sized and placed to provide uniform flow distribution from the underdrain system and to support the bed of filter sand without loss of sand to the pool or without development of jet streams or channeling in the filtration media.
+
+SECTION 3130B DIATOMACEOUS EARTH FILTERS
+
+In addition to the requirements for all filters as indicated in Section 3128B, the following applies to diatomaceous earth filters.
+
+3130B.1 Flow rates
+
+The filtration rate for both pressure and vacuum diatomaceous earth filters shall not exceed 2 gallons per minute per square foot (81.49 L/m per m2) of filter area.
+
+SECTION 3131B HIGH-RATE SAND FILTERS
+
+In addition to the requirements for all filters as indicated in Section 3128B, the following apply to high rate sand filters.
+
+3131B.1 Flow rates
+
+Maximum and minimum flow rates for backwash and filtration shall be maintained according to the applicable requirements established by the NSF/ANSI 50-2010 performance standard effective August 2010.
+
+3131B.2
+
+The filter media shall have an effective particle size between 0.40 and 0.55 mm and a uniformity coefficient not exceeding 1.75.
+
+3131B.3
+
+The backwash rate for a high rate sand filter shall be a minimum of 15 gallons per minute per square foot of filter area.
+
+SECTION 3132B CARTRIDGE FILTERS
+
+In addition to the requirements for all filters as indicated in Section 3128B, the following apply to cartridge filters.
+
+3132B.1
+
+The filtration rate shall not exceed 0.375 gallons per minute per square foot of filter area.
+
+3132B.2
+
+An approved wash down area equipped with potable water shall be provided in the pool equipment area with permanently installed drainage piping discharging to the public sewer or wastewater system approved by the enforcing wastewater agency. The filter vessel shall be capable of being drained and shall be equipped with an indirect drain for the purpose of draining the entire contents of the filter vessel. Drainage and backwash piping shall be considered indirect waste and installed in accordance with the requirements of Chapter 8 of the California Plumbing Code.
+
+3132B.3
+
+An additional set of filter elements shall be available for installation while the existing filter elements are cleaned.
+
+SECTION 3133B CHEMICAL FEEDERS
+
+All chemical feeders including disinfectant feeders and the auxiliary feeders used for solutions, slurries or solids, along with components such as pumps, strainers, tubing connections, tanks and injection fittings shall comply with the provisions of this section.
+
+3133B.1 General design requirements
+
+The chemical feeder equipment shall:
+
+1.Be maintained and repaired according to manufacturers’ specifications; and
+
+2.Be constructed with an adjustable output rate device to permit repeated adjustments without loss of output rate accuracy and adjusted by an automatic chemical monitoring and control system that regulates, at a minimum, pH and disinfectant; and
+
+3.Meet the applicable requirements established by the NSF/ANSI 50-2012 performance standard effective September 2012.
+
+3133B.2 Piping
+
+Piping used for the chemical feeder and its auxiliary equipment shall be resistant to corrosion or chemical deterioration.
+
+3133B.3 Installation
+
+Chemical feeders and associated components shall be constructed and installed to prevent uncontrolled discharge or siphoning of chemicals and fumes directly into the pool, its recirculation system, the pool area or ancillary facilities.
+
+SECTION 3134B DISINFECTANT FEEDERS
+
+Disinfectant feeders shall comply with applicable requirements established by the NSF/ANSI 50-2010 performance standard effective August 2010 for disinfectant feeders. In addition to the requirements for chemical feeders as indicated in Section 3133B, the following apply to disinfectant feeders.
+
+3134B.1 Minimum capacity
+
+All feeders shall be capable of supplying not less than the equivalent of 3 pounds (1 kg) of 100 percent available chlorine per day per 10,000 gallons (37,850 L) of pool water capacity.
+
+3134B.2 Rate of flow adjustment
+
+A visible means of determining the rate of flow through the device shall be provided for each disinfectant feeder.
+
+3134B.3 Compressed chlorine gas disinfectant equipment
+
+Chlorine gas shall not be dispensed directly into the water of a pool except as an aqueous solution through the return line of the recirculation system.
+
+3134B.3.1 Compressed gas containers
+
+Each container or cylinder shall be secured to prevent accidental movement. A valve protection cap shall be provided to cover the discharge valve at all times when the cylinder is not connected to the dispensing system.
+
+3134B.3.2 Container scale
+
+Compressed gas chlorine containers in use shall be on a scale in the gas chlorinator room.
+
+3134B.3.3 Chlorine feeding device
+
+The chlorine feeding device shall be capable of delivering chlorine in an aqueous solution at the maximum design rate. The device shall not allow the backflow of pool water into the chlorine container. The device shall not allow the release of chlorine gas to the atmosphere under normal operating conditions. The device shall be designed and installed to conduct chlorine gas leaks to the outdoors during a release of chlorine gas or an interruption of the water supply.
+
+3134B.3.4 Piping
+
+Piping carrying chlorine gas under pressure shall not be located outside the gas chlorination equipment room.
+
+SECTION 3135B GAS CHLORINATION EQUIPMENT ROOM
+
+Compressed chlorine gas storage containers and auxiliary components shall be installed indoors in a separate room of not less than 1-hour fire resistant construction and shall comply with the California Fire Code and all of the following.
+
+3135B.1 Location
+
+The gas chlorination equipment room shall not be located in any habitable building, above the first floor or below ground level.
+
+3135B.2. Exit
+
+Required exit doors shall swing in the direction of exit of travel and shall not open directly toward the pool or pool deck.
+
+3135B.3 Ventilation
+
+Mechanical exhaust ventilation systems shall be in compliance with the California Mechanical Code.
+
+3135B.4 Alarm
+
+An audible and visible chlorine detection alarm system shall be located in the room containing the gas chlorine equipment. The sensor shall be located within 6 inches (152 mm) of the floor level. The system shall continually monitor the room and shall activate when chlorine concentrations in the room exceed a Permissible Exposure Limit of 0.5 ppm. Activation of the alarm shall shut off the chlorine at the source and turn on the lights and ventilation system. The alarm system shall consist of the following:
+
+1.An audible alarm capable of producing a sound level of at least 90 decibels; and
+
+2.A visible alarm consisting of a strobe light which is mounted directly over the entrance to the chlorine equipment room. The light shall be visible during daylight hours.
+
+3135B.5 Illumination
+
+Artificial illumination of at least 50 footcandles as measured 30 inches (750 mm) from the floor shall be provided in the room.
+
+3135B.6 Switches
+
+Switches for the control of mechanical ventilation and lighting fixtures shall be located adjacent to the entry door outside the room.
+
+3135B.7 Equipment interlocks
+
+The gas chlorine feeding device shall be interlocked with the pool recirculating pump so that the gas chlorine feeding device shall not operate when the recirculating pump is off or during the filter backwash.
+
+3135B.8 Storage
+
+The gas chlorine room shall not be used for the storage of items not related to the use of the gas chlorine equipment.
+
+SECTION 3136B POOL SKIMMING SYSTEMS
+
+The pool shall be equipped with one or more skimming methods to provide continuous skimming of the pool water and shall be capable of continually withdrawing not less than 100 percent of the flow rate.
+
+3136B.1 Surface skimmers
+
+Each surface skimmer shall comply with the following provisions:
+
+1.The skimmer shall be recessed into the pool wall; and
+
+2.The skimmer shall be individually adjustable for the rate of flow with either an external or internal device; and
+
+3.If used, a skimmer equalizer suction outlet shall be connected to at least two suction grate assemblies that meet the ANSI/APSP-16 2011 performance standard and are located at least 3 feet (915 mm) apart in any dimension between the suction outlets; and
+
+4.The skimmer weir shall automatically adjust to variations in the pool water level over a range of not less than 4 inches (102 mm); and
+
+5.Each skimmer shall be provided with a removable and cleanable screen or basket to trap objects. The screen or basket shall be accessible through an opening in the deck above the skimmer; and
+
+6.There shall be a minimum of one skimmer for every 500 square feet or less of pool water surface area or an adequate number to meet 100 percent of pump flow at the manufacturer’s maximum flow rating, whichever is greater; and
+
+7.Each skimmer shall be located in relation to pool inlets to aid recirculation and surface skimming; and
+
+8.All surface skimmers shall comply with applicable requirements established by the NSF/ANSI 50-2012 performance standard effective September 2012.
+
+3136B.2 Perimeter overflow systems
+
+A perimeter overflow system shall be required in pools whose water surface area equals or exceeds 5,000 square feet (464.52 m2). Perimeter overflow systems shall be designed by an engineer or architect who has experience working on public pools and shall comply with the following provisions:
+
+1.Location. The overflow system shall be integrated with the pool structure and extend completely around the pool parallel to the pool deck except where an entry or exit may require interruption; and
+
+2.Channel detail. The overflow channel shall be not less than 3 inches (76 mm) deep, the section shall not diverge with depth of the channel, and the width of the bottom shall be not less than 3 inches (76 mm). The opening beneath the coping into the overflow system shall be a minimum of 4 inches (102 mm) beneath the coping in any direction measured radially from the inner edge of the overflow channel lip; and
+
+3.Channel lip. The overflow channel lip shall be not more than 12 inches (305 mm) below the level of the coping or deck. The lip edge shall be rounded and shall be not thicker than 21/2 inches (64 mm) or thinner than 1 inch (25 mm) for the top 2 inches (51 mm); and
+
+4.Channel covering. Covered overflow channels shall be permitted provided the openings do not exceed 1/2 inch in the smaller dimension; and
+
+5.Channel outlets. Channel outlet spacing and channel bottom slope shall be hydraulically designed by an engineer or architect who has experience working on public pools; and
+
+6.Channel outlet covers. Overflow channel outlet covers shall be accessible for cleaning and maintenance. Openings of the channel outlet covers shall not pass a 1/2 inch (13 mm) sphere in the smaller dimension; and
+
+7.Channel drain piping. Channel drain piping shall provide drainage of the overflow system, carry overflow water to a surge basin and return to skimming within 10 minutes after being flooded by a sudden displacement of the pool water by pool users; and
+
+8.Surge storage capacity. A perimeter overflow system shall be provided with a minimum surge storage capacity of not less than 1 gallon per square foot (40.75 L/m2) of pool water surface area. Surge storage shall be permitted in the surge basin, perimeter overflow channel and in the channel drain piping returning to the surge basin.
+
+SECTION 3137B POOL FITTINGS
+
+3137B.1 Outlets
+
+Each pool shall be provided with a main drain submerged suction outlet typically located at the bottom of a pool that conducts water to a recirculating pump. Suction outlets shall comply with all of the following provisions:
+
+1.Each pump on a pool system shall be connected to at least two suction outlets. The suction outlets shall be hydraulically balanced and symmetrically plumbed through one or more “T” fittings and shall be separated by a distance of at least 3 feet (915 mm) in any dimension between the suction outlets; and
+
+2.All suction outlets shall be equipped with suction fittings that meet the ANSI/APSP-16 2011 performance standard; and
+
+3.The velocity of the suction piping installed between the suction outlets shall not exceed 3 feet per second (.91 mps) under normal operation, or 6 feet per second (1.82 mps) if one outlet is blocked; and
+
+4.Hydrostatic relief devices. In areas with a high ground-water table, or as required by local plumbing codes, a hydrostatic relief device shall be installed. When used in conjunction with a safety vacuum release system, the hydrostatic relief device must meet the manufacturer’s installation requirements for the safety vacuum release system.
+
+Exception: Alternative outlet locations that have been designed by a licensed engineer who has experience working on public pools may be used if approved by the enforcing agent.
+
+3137B.2 Inlet fittings
+
+Each pool shall be provided with not less than two recirculation system inlets for the first 10,000 gallon (37,850 L) capacity and one additional inlet for each additional 10,000 gallon (37,850 L) or less capacity.
+
+3137B.2.1 Construction
+
+Inlet fittings shall not protrude greater than 11/4 inches (32 mm) into the pool and shall be shaped, rounded and smooth.
+
+3137B.2.2 Location
+
+Inlet fittings shall be located no less than 18 inches (457 mm) below the waterline, except for a spa pool or wading pool. Inlet fittings shall be separated by at least 10 feet (3048 mm) and shall be located so as to ensure uniform circulation.
+
+3137B.2.3 Adjustment
+
+Provisions shall be made for adjusting the volume of flow through each inlet. Wall inlets shall be capable of adjusting the direction of flow and to produce sufficient velocity to impart a substantial circulatory movement to the pool water.
+
+3137B.2.4 Floor inlets
+
+Pools that are greater than 40 feet (12,192 mm) in width or 3,000 square feet (278.7 mm2) in surface area shall have floor-mounted return inlets. The number of floor inlets shall be in compliance with Section 3137B.2. All floor inlet fittings shall be located to provide uniform circulation and shall be installed so as to be flush with the surface of the pool bottom.
+
+SECTION 3138B SPA POOL SPECIAL REQUIREMENTS
+
+3138B.1 Aeration system
+
+A spa pool aeration and/or jet system shall be completely separate from the recirculation system and shall not be interconnected with any other pool.
+
+3138B.2 Maximum operating temperature
+
+The allowable water temperature of a spa pool shall not exceed 104° F (40° C).
+
+3138B.3 Surface area
+
+The water surface area of a spa pool shall not exceed 250 square feet (23.23 m2).
+
+3138B.4 Maximum depth
+
+The water depth in a spa pool shall not exceed 4 feet (1220 mm).
+
+3138B.5 Emergency shut off switch
+
+A clearly labeled emergency shut off switch for the control of both the recirculation system and the aeration and/or jet system shall be installed adjacent to the spa pool.
+
+SECTION 3139B SOLAR HEATING INSTALLATIONS
+
+3139B.1
+
+Solar heating systems shall comply with the following:
+
+1.Solar heating system suction outlets shall comply with Section 3137B; and
+
+2.Solar heating system suction outlets shall be located no closer than 5 feet (1525 mm) to any pool inlet fitting; and
+
+3.The installation of a solar heating system on a new or existing pool shall not interfere with the required turnover rate as specified in Section 3124B nor exceed the pipe flow velocities as specified in Section 3125B.1.
+
+SECTION 3140B CLEANING SYSTEMS
+
+A vacuum cleaning system shall be available which is capable of removing sediment from all parts of the pool floor. A cleaning system using potable water shall be protected by a backflow prevention device in accordance with Chapter 6 of the California Plumbing Code. No cleaning system shall operate in the pool when the pool is open or available for use by pool users. Built-in vacuum suction lines shall not be installed in the pool.
+
+SECTION 3141B WASTEWATER DISPOSAL
+
+3141B.1 General requirements
+
+Material cleaned from filters and backwash water from any recirculation system shall be disposed in a manner that is acceptable to the local wastewater agency and will not create a nuisance. Backwash water shall not be returned to a pool. Pipes carrying wastewater from pools including pool drainage and backwash from filters shall be installed as an indirect waste in accordance with the requirements of Chapter 8 of the California Plumbing Code. Where a pump is used to discharge waste pool water to the drainage system, the pump discharge shall be installed as an indirect waste.
+
+3141B.2 Diatomaceous earth filters
+
+The backwash from a diatomaceous earth filter shall discharge into a separation tank that has been installed to collect the waste diatomaceous earth mixture. The wastewater from the separation tank shall discharge into a sanitary sewer or other disposal system acceptable to the local wastewater agency.
+
+3141B.3 Piping
+
+Sumps and drain piping shall have sufficient capacity to receive recirculation system backwash without overflow of the sump receiver. The sump shall not permit sewage to enter the surge basin or the pool in the event of a sewage backup
+
+3141B.4 Visual indicator
+
+Where direct observation of the backwash discharge is not visible to the operator during backwash operations, a sight glass shall be installed on the wastewater discharge line.
+
+3141B.5 Prohibited connection
+
+There shall be no direct connection between the pool, its recirculation system or overflow drain to any sanitary sewer, storm drain or drainage system.
+
+SECTION SECTION 3142B 3142B Reserved Reserved
+
+SECTION SECTION 3143B 3143B Reserved Reserved
+
+SECTION SECTION 3144B 3144B Reserved Reserved
+
+SECTION SECTION 3145B 3145B Reserved Reserved
+
+SECTION SECTION 3146B 3146B Reserved Reserved
+
+SECTION SECTION 3147B 3147B Reserved Reserved
+
+SECTION SECTION 3148B 3148B Reserved Reserved
+
+SECTION SECTION 3149B 3149B Reserved Reserved
+
+SECTION SECTION 3150B 3150B Reserved Reserved
+
+SECTION SECTION 3151B 3151B Reserved Reserved
+
+SECTION SECTION 3152B 3152B Reserved Reserved
+
+SECTION SECTION 3153B 3153B Reserved Reserved
+
+SECTION SECTION 3154B 3154B Reserved Reserved
+
+SECTION SECTION 3155B 3155B Reserved Reserved
+
+SECTION SECTION 3156B 3156B Reserved Reserved
+
+SECTION SECTION 3157B 3157B Reserved Reserved
+
+SECTION SECTION 3158B 3158B Reserved Reserved
+
+SECTION SECTION 3159B 3159B Reserved Reserved
+
+Division Division II II – PUBLIC SWIMMING POOLS – PUBLIC SWIMMING POOLS
+
+Note: These building standards are in statute but have not been adopted through the regulatory process. Enforcement of these standards set forth in this section does not depend upon adoption of regulations; therefore, enforcement agencies shall enforce the standards pursuant to the timeline set forth in this section prior to adoption of related regulations.
+
+SECTION 3160B GROUND FAULT CIRCUIT INTERRUPTERS
+
+1.“Public swimming pool,” as used in this section, means any swimming pool operated for the use of the general public with or without charge, or for the use of the members and guests of a private club, including any swimming pool located on the grounds of a hotel, motel, inn, an apartment complex or any residential setting other than a single-family home. For purposed of this section, “public swimming pool” shall not include a swimming pool located on the grounds of a private single-family home, or a swimming pool owned or operated by the state or any local governmental entity as set forth in Section 116049 of the Health and Safety Code.
+
+2.All dry-niche light fixtures, and all underwater wet-niche light fixtures operating at more than 15 volts in public swimming pools, as defined in this section, shall be protected by a ground fault circuit interrupter in the branch circuit, and all light fixtures in public swimming pools shall have encapsulated terminals.
+
+3.Any public swimming pool that does not meet the requirements specified in Item 2 by January 1, 1998, shall be retrofitted to comply with these requirements by July 1, 1998.
+
+4.The ground-fault circuit interrupter required pursuant to this section shall comply with Underwriter’s Laboratory standards.
+
+5.The owner or operator of a public swimming pool shall have its public swimming pool inspected by a qualified inspector on or before September 1, 1998, to determine compliance with this section.
+
+6.All electrical work required for compliance with this section shall be performed by an electrician licensed pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code.
+
+Authority: Health and Safety Code Section 116064 (e)
+
+Reference: Health and Safety Code Section 116049 SB 1360, (Statutes 1995, c. 415).
+
+SECTION 3161B WADING POOLS
+
+1.“Public wading pool” means a pool that meets all of the following criteria:
+
+1.1.It has a maximum water depth not exceeding 18 inches (457 mm).
+
+1.2.It is a pool other than a pool that is located on the premises of a one-unit or two-unit residence, intended solely or the use of the residents or guests.
+
+2.“Public wading pool” includes, but is not limited to, a pool owned or operated by private persons or agencies, or by state or local governmental agencies.
+
+3.“Public wading pool” includes, but is not limited to, a pool located in an apartment house, hotel or similar setting that is intended for the use of residents or guests.
+
+4.“Alteration” means any of the following:
+
+4.1.To change, modify or rearrange the structural parts or the design.
+
+4.2.To enlarge.
+
+4.3.To move the location of.
+
+4.4.To install a new water circulation system.
+
+4.5.To make any repairs costing fifty dollars ($50) or more to an existing circulation system.
+
+5.A public wading pool shall have at least two circulation drains per pump that are hydraulically balanced and symmetrically plumbed through one or more T fittings, and are separated by a distance of at least 3 feet (914 mm) in any dimension between drains.
+
+6.All public wading pool main drain suction outlets that are under 12 inches (305 mm) across shall be covered with antivortex grates or similar protective devices. All main drain suction outlets shall be covered with grates or antivortex plates that cannot be removed except with the use of tools. Slots or openings in the grates or similar protective devices shall be of a shape, area and arrangement that would prevent physical entrapment and would not pose any suction hazard to bathers.
+
+7.The maximum velocity in the pump suction hydraulic system shall not exceed 6 feet per second (1.8 m/s) when 100 percent of the pump’s flow comes from the main drain system and any main drain suction fitting in the system is completely blocked.
+
+8.On or after January 1, 1998, all newly constructed public wading pools shall be constructed in compliance with this section.
+
+9.Commencing January 1, 1998, whenever a construction permit is issued for alteration of an existing public wading pool, it shall be retrofitted so as to be in compliance with this section.
+
+10.By January 1, 2000, every public wading pool, regardless of the date of original construction, shall be retrofitted to comply with this section.
+
+Authority: Health and Safety Code Section 116064 (e)
+
+Reference: Health and Safety Code Section 116064 AB 2114, (Statues 1995, c. 415).
+
+SECTION SECTION 3162B 3162B ANTI-ENTRAPMENT DEVICES AND SYSTEMS ANTI-ENTRAPMENT DEVICES AND SYSTEMS
+
+1.The Legislature finds and declares that the public health interest requires that there be uniform statewide health and safety standards for public swimming pools to prevent physical entrapment and serious injury to children and adults. It is the intent of the Legislature to occupy the whole field of health and safety standards for public swimming pools and the requirements established in this article and the regulations adopted pursuant to this article shall be exclusive of all local health and safety standards relating to public swimming pools.
+
+2.As used in this section, the following words have the following meanings:
+
+(a)“ANSI/APSP performance standard” means a standard that is accredited by the American National Standards Institute (ANSI) and published by the Association of Pool and Spa Professionals (APSP).
+
+(b)“ASME/ANSI performance standard” means a standard that is accredited by the American National Standards Institute and published by the American Society of Mechanical Engineers.
+
+(c)“ASTM performance standard” means a standard that is developed and published by ASTM International.
+
+(d)“Public swimming pool” means an outdoor or indoor structure, whether in-ground or aboveground, intended for swimming or recreational bathing, including a swimming pool, hot tub, spa or nonportable wading pool, that is any of the following:
+
+(i)Open to the public generally, whether for a fee or free of charge.
+
+(ii)Open exclusively to members of an organization and their guests, residents of a multiunit apartment building, apartment complex, residential real estate development or other multifamily residential area, or patrons of a hotel or other public accommodations facility.
+
+(iii)Located on the premises of an athletic club, or public or private school.
+
+(e)“Qualified individual” means a contractor who holds a current valid license issued by the State of California or a professional engineer licensed in the State of California who has experience working on public swimming pools.
+
+(f)“Safety vacuum release system” means a vacuum release system that ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected.
+
+(g)“Skimmer equalizer line” means a suction outlet located below the waterline, typically on the side of the pool, and connected to the body of a skimmer that prevents air from being drawn into the pump if the water level drops below the skimmer weir. However, a skimmer equalizer line is not a suction outlet for purposes of Subdivisions (4) and (6).
+
+(h)“Suction outlet” means a fitting or fixture of a swimming pool that conducts water to a recirculating pump.
+
+(i)“Unblockable suction outlet” means a suction outlet, including the sump, that has a perforated (open) area that cannot be shadowed by the area of the 18-inch by 23-inch body blocking element of the ANSI/APSP-16 performance standard, and that the rated flow through any portion of the remaining open area cannot create a suction force in excess of the removal force values in Table 1 of that standard.
+
+3.Subject to Subdivision (6), every public swimming pool shall be equipped with anti-entrapment devices or systems that comply with ANSI/APSP-16 performance standard or successor standard designated by the Federal Consumer Product Safety Commission.
+
+a.A public swimming pool that has a suction outlet in any location other than on the bottom of the pool shall be designed so that the recirculation system shall have the capacity to provide a complete turnover of pool water within the following time:
+
+(i)One-half hour or less for a spa pool.
+
+(ii)One-half hour or less for a spray ground.
+
+(iii)One hour or less for a wading pool.
+
+(iv)Two hours or less for a medical pool.
+
+(v)Six hours or less for all other types of public pools.
+
+4.Subject to Subdivisions (5) and (6), every public swimming pool with a single suction outlet that is not an unblockable suction outlet shall be equipped with at least one or more of the following devices or systems that are designed to prevent physical entrapment by pool drains:
+
+(a)A safety vacuum release system that has been tested by a nationally recognized testing laboratory and found to conform to ASME/ANSI Performance Standard A112.19.17, as in effect on December 31, 2009, or ASTM Performance Standard F2387, as in effect on December 31, 2009.
+
+(b)A suction-limiting vent system with a tamper-resistant atmospheric opening, provided that it conforms to any applicable ASME/ANSI or ASTM performance standard.
+
+(c)A gravity drainage system that utilizes a collector tank, provided that it conforms to any applicable ASME/ANSI or ASTM performance standard.
+
+(d)An automatic pump shut-off system tested by a department-approved independent third party and found to conform to any applicable ASME/ANSI or ASTM performance standard.
+
+(e)Any other system that is deemed, in accordance with federal law, to be equally effective as, or more effective than, the systems described in paragraph (a) at preventing or eliminating the risk of injury or death associated with the circulation system of the pool and suction outlets.
+
+5.Every public swimming pool constructed on or after January 1, 2010, shall have at least two suction outlets per pump that are hydraulically balanced and symmetrically plumbed through one or more “T” fittings, and that are separated by a distance of at least three feet in any dimension between the suction outlets. A public swimming pool constructed on or after January 1, 2010, that meets the requirements of this subdivision, shall be exempt from the requirements of Subdivision (4).
+
+6.A public swimming pool constructed prior to January 1, 2010, shall be retrofitted to comply with Subdivisions (3) and (4) by no later than July 1, 2010, except that no further retrofitting is required for a public swimming pool that completed a retrofit between December 19, 2007, and January 1, 2010, that complied with the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. Sec. 8001 et seq.) as in effect on the date of issue of the construction permit, or for a nonportable wading pool that completed a retrofit prior to January 1, 2010, that complied with state law on the date of issue of the construction permit. A public swimming pool owner who meets the exception described in this subdivision shall do one of the following prior to September 30, 2010:
+
+a.File the form issued by the department pursuant to subdivision (g), as otherwise provided in subdivision (h).
+
+b.File a signed statement attesting that the required work has been completed.
+
+c.Provide a document containing the name and license number of the qualified individual who completed the required work.
+
+d.Provide either a copy of the final building permit, if required by the local agency, or a copy of one of the following documents if no permit was required:
+
+(i)A document that describes the modification in a manner that provides sufficient information to document the work that was done to comply with federal law.
+
+(ii)A copy of the final paid invoice. The amount paid for the services may be omitted or redacted from the final invoice prior to submission.
+
+7.Prior to March 31, 2010, the department shall issue a form for use by an owner of a public swimming pool to indicate compliance with this section. The department shall consult with county health officers and directors of departments of environmental health in developing the form and shall post the form on the department’s Internet Web site. The form shall be completed by the owner of a public swimming pool prior to filing the form with the appropriate city, county, or city and county department of environmental health. The form shall include, but not be limited to, the following information:
+
+a.A statement of whether the pool operates with a single suction outlet or multiple suction outlets that comply with Subdivision (5).
+
+b.Identification of the type of anti-entrapment devices or systems that have been installed pursuant to Subdivision (4) and the date or dates of installation.
+
+c.Identification of the type of devices or systems designed to prevent physical entrapment that have been installed pursuant to Subdivision (4) in a public swimming pool with a single suction outlet that is not an unblockable suction outlet and the date or dates of installation or the reason why the requirement is not applicable.
+
+d.A signature and license number of a qualified individual who certifies that the factual information provided on the form in response to paragraphs (a) to (c), inclusive, is true to the best of his or her knowledge.
+
+8.A qualified individual who improperly certifies information pursuant to Paragraph (d) of Subdivision (7) shall be subject to potential disciplinary action at the discretion of the licensing authority.
+
+9.Except as provided in Subdivision (6), each public swimming pool owner shall file a completed copy of the form issued by the department pursuant to this section with the city, county, or city and county department of environmental health in the city, county, or city and county in which the swimming pool is located. The form shall be filed within 30 days following the completion of the swimming pool construction or installation required pursuant to this section or, if the construction or installation is completed prior to the date that the department issues the form pursuant to this section, within 30 days of the date that the department issues the form. The public swimming pool owner or operator shall not make a false statement, representation, certification, record, report or otherwise falsify information that he or she is required to file or maintain pursuant to this section.
+
+10.In enforcing this section, health officers and directors of city, county, or city and county departments of environmental health shall consider documentation filed on or with the form issued pursuant to this section by the owner of a public swimming pool as evidence of compliance with this section. A city, county, or city and county department of environmental health may verify the accuracy of the information filed on or with the form.
+
+11.To the extent that the requirements for public wading pools imposed by Section 116064 conflict with this section, the requirements of this section shall prevail.
+
+12.The department shall have no authority to take any enforcement action against any person for violation of this section and has no responsibility to administer or enforce the provisions of this section.
+
+Authority: Health and Safety Code Section 116064 (e)
+
+Reference: Health and Safety Code Section 116064.2 AB 2114, (Statutes 2012, c. 679).
+
+FIGURE 31B-1
+
+DEPTHS AND CLEARANCES FOR POOLS WITH DIVING BOARDS GREATER THAN 30 INCHES (762 mm) ABOVE THE WATER LINE
+
+TABLE 31B-1
+
+
+
+	DEPTH OF WATER	LENGTH OF SECTION
+BOARDS AND PLATFORMS	DIM	D1	D2	D3	D4	L1	L2	L3	W1	W2
+1-meter board	Min.	5'-6"	11'-6"	11'-2"	0'-0"	16'-5"	29'-7"	5'-11"	7'-11"	8'-3"
+3-meter board	Min.	6'-6"	12'-6"	12'-2"	0'-0"	19'-9"	33'-8"	5'-11"	8'-7"	11'-6"Notes for Figure 31B-1 and Table 31B-1:
+
+1.Maximum radius shall equal D2 minus D1 dimensions.
+
+2.Radius at the shallow end shall not be more than 12 inches.
+
+3.The length of a section is based on the maximum slope and other maximum and minimum dimensions.
+
+4.Where there is a break in slope, the break shall be located at a water depth equal to 4'-6".
+
+5.The springline depth at (4) shall not be more than 4'-0".
+
+6.The maximum water depth shall be 3'-6".
+
+7.Each pool shall be provided with a main drain submerged suction outlet typically located at the bottom of the pool that conducts water to a recirculating pump.
+
+FIGURE 31B-2
+
+DEPTHS AND CLEARANCES FOR POOLS WITH DIVING BOARDS 30 INCHES (762 MM) OR LESS ABOVE THE WATER LINE
+
+TABLE 31B-2
+
+
+
+	DEPTH OF WATER	LENGTH OF SECTION
+DIMENSION	D1	D2	D3	D4	L1	L2	L3		W1	W2
+Minimum	2'-6"	8'-6"	0'-0"	7'-0"	6'-0"	6'-0"	2'-6"	30'-0"	9'-0"	3'-0"
+Maximum	—	—	3'-6"	—	10'-0"	—	4'-0"	—	—	—Notes for Figure 31B-2 and Table 31B-2:
+
+1.Radius at the shallow end shall be a maximum of 1'-0".
+
+2.Springline D1 shall extend to the break in slope between the shallow area and the deep area.
+
+3.Maximum radius shall equal D2 minus D1 dimensions.
+
+4.Where there is a break in slope, the break shall be located at a water depth equal to 4'-6".
+
+5.Length of section is based on maximum slope and other maximum or minimum dimensions.
+
+6.Each pool shall be provided with a main drain submerged suction outlet typically located at the bottom of the pool that conducts water to a recirculating pump.
+
+FIGURE 31B-3
+
+DEPTHS AND CLEARANCES FOR POOLS WITHOUT DIVING BOARDS
+
+TABLE 31B-3A
+
+POOLS WITH MAXIMUM WATER DEPTH ≤ 6'0"
+
+	DEPTH OF WATER	LENGTH OF SECTION
+DIMENSION	D1	D2	D3	L1	L2	L3	W1
+Minimum	2'-6"	—	0'-0"	3'-6"	3'-0"	3'-0"	6'-0"
+Maximum	—	6'-0"	3'-6"	—	—	—	—TABLE 31B-3B
+
+POOLS WITH MAXIMUM WATER DEPTH > 6'0"
+
+	DEPTH OF WATER	LENGTH OF SECTION
+DIMENSION	D1	D2	D3	L1	L2	W1
+Minimum	2'-6"	> 6'-0"	0'-0"	3'-6"	3'-0"	7'-6"
+Maximum	—	—	3'-6"	—	—	—Notes for Figure 31B-3 and Tables 31B-3a and 31B-3b.
+
+1.Radius at the shallow end shall be a maximum of 1'-0".
+
+2.Springline D1 shall extend to the break in slope between the shallow area and deep area.
+
+3.Maximum radius shall equal D2 minus D1 dimensions.
+
+4.Where there is a break in slope, the break shall be located at a water depth equal to 4'-6".
+
+5.Each pool shall be provided with a main drain submerged suction outlet typically located at the bottom of the pool that conducts water to a recirculating pump.
+
+FIGURE 31B-4
+
+PERPENDICULAR FENCING DIMENSIONS ON SLOPING GROUND
+
+FIGURE 31B-5
+
+EFFECTIVE FENCING HEIGHT
+
+FIGURE 31B-6
+
+DEPTHS AND DIMENSIONS FOR SPA POOLS
+
+TABLE 31B-6
+
+
+
+	DEPTH OF WATER	LENGTH OF SECTION
+DIMENSION	D1	D2	L1	L2
+Minimum	—	24"	12"	24"
+Maximum	24"	—	24"	—Notes for Figure 31B-6 and Table 31B-6:
+
+1.Bottom slope shall not exceed 1:10 and must be uniform.
+
+2.Bench ramping shall not exceed 1:10 uniform slope, measured at the inner circumference of the bench.
+
+3.Six inch minimum radius at “pinch points.”
+
+4.See Section 3111B for step and handrail dimensions.
+
+FIGURE 31B-7
+
+STAIR AND HANDRAIL DIMENSIONS
+
+TABLE 31B-7
+
+DIMENSION	T-1 STANDARD	T-1 TRIANGULAR, CONCAVE, CONVEX	T-2	T-3	W-1	H-1	H-2
+Minimum	14"	21"	12"	3"	24"	6"	28"
+Maximum	18"	24"	16"	—	—	12"	36"Note for Table 31B-7:
+
+1.Six-inch minimum radius at “pinch points”.
+
+FIGURE 31B-8
+
+DEPTH MARKER LOCATIONS
+
+1.Maximum depth.
+
+2.Minimum depth.
+
+3.Each end of pool.
+
+4.Both sides at the shallowest and deepest parts of pool.
+
+5.At the break in the bottom slope between the shallow and deep end.
+
+6.Along the perimeter of the pool at distances not to exceed 25 feet.
+

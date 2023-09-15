@@ -3,6 +3,9 @@
 ## California Codes
 <ol>
     <li>
+        <a href="https://codes.iccsafe.org/content/CAAC2022P1" target="_blank" rel="noopener noreferrer">CA Administrative Code</a>
+    </li>
+    <li>
         <a href="https://codes.iccsafe.org/content/CABC2022P1" target="_blank" rel="noopener noreferrer">CA Building Code (2022) Volume 1 & 2</a>
     </li>
     <li>
@@ -12,10 +15,7 @@
         <a href="https://codes.iccsafe.org/content/CAEBC2022P1" target="_blank" rel="noopener noreferrer">CA Existing Building Code</a>
     </li>
     <li>
-        <a href="https://www.nfpa.org/Login" target="_blank" rel="noopener noreferrer">CA Existing Building Code</a>
-    </li>
-    <li>
-        <a href="https://www.nfpa.org/codes-and-standards/all-codes-and-standards/codes-and-standards/free-access?mode=view&t=other&c=CALNEC2022" target="_blank" rel="noopener noreferrer">CA Electrical Code</a>
+        <a href="https://up.codes/viewer/california/ca-electric-code-2022" target="_blank" rel="noopener noreferrer">CA Electrical Code</a>
     </li>
     <li>
         <a href="https://epubs.iapmo.org/2022/CMC/index.html" target="_blank" rel="noopener noreferrer">CA Mechanical Code</a>
@@ -29,7 +29,12 @@
     <li>
         <a href="https://codes.iccsafe.org/content/CAEC2022P1" target="_blank" rel="noopener noreferrer">CA Energy Code</a>
     </li>
-    
+    <li>
+        <a href="https://codes.iccsafe.org/content/CAFC2022P2" target="_blank" rel="noopener noreferrer">CA Fire Code</a>
+    </li>
+    <li>
+        <a href="https://codes.iccsafe.org/content/CARSC2022P1" target="_blank" rel="noopener noreferrer">CA Referenced Standards</a>
+    </li>
 </ol>
 
 ## San Francisco Codes

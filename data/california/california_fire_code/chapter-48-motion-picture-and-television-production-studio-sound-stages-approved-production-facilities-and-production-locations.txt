@@ -1,0 +1,300 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 48 – MOTION PICTURE AND TELEVISION PRODUCTION STUDIOSOUND STAGES, APPROVED PRODUCTION FACILITIES AND PRODUCTION LOCATIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 48 MOTION PICTURE AND TELEVISION PRODUCTIONSTUDIO SOUND STAGES, APPROVED PRODUCTIONFACILITIES AND PRODUCTION LOCATIONS
+
+SECTION 4801 GENERAL
+
+4801.1 Scope.
+
+Production studios, sound stages, approved production facilities and production locations used by the entertainment industry for the purpose of motion picture, television and commercial production shall be in accordance with the provisions of this article.
+
+4801.2 Purpose.
+
+The purpose of this article is to establish minimum requirements that will provide a reasonable degree of safety from fire, panic and explosion. Buildings and structures defined herein shall be in accordance with this article.
+
+4801.3 DEFINITIONS.
+
+APPROVED FIRE WATCH. Individuals provided with at least one approved means for notification of the fire department and their only duty shall be to perform constant patrols of the protected premises and keep watch for fires.
+
+APPROVED PRODUCTION FACILITY. An existing building, or portion of a building, or a group of buildings altered for use by the entertainment industry for the purpose of motion picture, television and commercial production.
+
+PLATFORM. Part of a set, which is a floor or horizontal surface raised above stage floor level.
+
+PRODUCTION LOCATION. Any area or facility outside a production studio, approved production facility or sound stage used by the entertainment industry for the purpose of motion picture, television and commercial production.
+
+PRODUCTION STUDIO. A building, portion of a building, or a group of buildings designed and constructed for use by the entertainment industry for the purpose of motion picture, television and commercial production.
+
+SET. A structure built or assembled for the purpose of motion picture, television and commercial production.
+
+SOUND STAGE. A building or portion of a building usually insulated from outside noise and natural light for use by the entertainment industry for the purpose of motion picture, television and commercial production.
+
+SECTION 4802 OCCUPANCY CLASSIFICATION
+
+4802.1 Live audience stages.
+
+Production facilities, sound stages and approved production studios with live audience stages shall be classified as Group A-1 occupancy in accordance with the California Building Code.
+
+4802.2 All other stages.
+
+Production studios, sound stages and approved production facilities without live audience stages shall be classified as Group F-1 occupancy in accordance with the California Building Code.
+
+Note: Sections 4803 through 4810 apply only to studio sound stages and approved production facilities.
+
+SECTION 4803 REQUIRED PERMITS
+
+4803.1 Change in use.
+
+A permit from the fire code official shall be obtained any time a change in use or occupancy is intended by the owner (e.g., for live audience shows, wrap parties).
+
+4803.2 Additional permits.
+
+A permit shall be required for:
+
+a) Use of pyrotechnic special effects.
+
+b) Open flames.
+
+c) Flammable or combustible liquids, gases and dust.
+
+d) Hot work.
+
+e) Presence of motor vehicles within a building.
+
+f) Any additional permits as required by the fire code official.
+
+4803.3 Live audiences.
+
+A permit shall be required for seating arrangements of all live audience stages.
+
+SECTION 4804 GENERAL REQUIREMENTS
+
+4804.1 Housekeeping.
+
+Provisions of this part shall maintain proper housekeeping in accordance with Chapter 3.
+
+4804.2 Aisles.
+
+Perimeter aisles within the sound stage and approved production facility shall be provided. Aisles required by this section shall have a minimum width of 4 feet (1219 mm). See Chapter 10 for maintenance requirements. Aisles required by this section shall have a minimum clear unobstructed height of 7 feet (2134 mm).
+
+4804.3 Travel distance.
+
+The maximum travel distance to any exit within the sound stage and approved production facility shall be 150 feet (45 720 mm).
+
+4804.4 Exit doors.
+
+Exit doors shall be equipped with panic hardware and swing in the direction of exit travel.
+
+4804.5 Exit signs.
+
+Illuminated exit signs shall be installed in accordance with the California Building Code.
+
+4804.6 Exit illumination.
+
+Exit illumination shall be provided in accordance with the California Building Code. In the event of power failure, exit path illumination shall be automatically provided by an approved emergency back-up system.
+
+4804.7 Exit obstructions.
+
+All means of egress shall be maintained in accordance with the provisions of Chapter 10, Section 1005.1.
+
+4804.8 Foam plastics.
+
+All foam plastics shall meet the requirements of Chapter 8, Sections 807.5.1.5 and 807.5.7.
+
+4804.9 Decorative materials.
+
+Drapes, drops, cut greens, etc., shall meet the flame retardant requirements of California Code of Regulations, Title 19, Division 1, Chapters 5 and 8, Sections 807.5.1.5 and 807.5.7.
+
+SECTION 4805 FIRE-EXTINGUISHING SYSTEMS
+
+4805.1 Existing sound stages and approved production facilities.
+
+All existing sound stages and approved production facilities equipped with an automatic fire sprinkler system shall be maintained in accordance with the provisions in Chapter 9.
+
+4805.2 New sound stages.
+
+All new sound stages shall be equipped with an approved automatic fire sprinkler system. The system shall be installed in accordance with the provisions in Chapter 9 and shall meet the minimum design requirements of an Extra Hazard, Group 2 system.
+
+4805.3 Solid-ceiling sets and platforms.
+
+All interior solid-ceiling sets over 600 square feet (55.7 m2) in area, and platforms (when provided) over 600 square feet (55.7 m2) in area and which exceed 3 feet (914 mm) in height shall be protected by one of the following:
+
+1.An approved and listed heat detector system. Heat detectors shall be spaced 30 feet (9144 mm) on center or as required by the manufacturer’s installation instructions. Detectors shall be connected to an approved and listed central, proprietary or remote station service or a local alarm, which will give an audible signal at a constantly attended location. Such system shall be installed in accordance with Chapter 9.
+
+2.The ceiling shall be positioned to allow for the operation of the building’s automatic fire sprinkler system after rehearsal, videotaping, filming or broadcasting of programs has been completed for the day.
+
+3.An approved fire watch.
+
+4.Special hazards shall be reviewed by the fire code official (see Additional Fire Protection Systems, Section 901.4.3).
+
+SECTION 4806 FIRE DETECTION EQUIPMENT
+
+4806.1 Fire alarm control units.
+
+Fire alarm control units shall be California State Fire Marshal listed and shall be utilized in accordance with their listing. Control units may be temporarily supported by sets, platforms or pedestals.
+
+4806.2 Heat detectors.
+
+Heat detection required by this article shall be defined as a portable system as it is intended to be reinstalled when platforms or sets are changed.
+
+Heat detectors may be secured to standard outlet boxes which may be temporarily supported by sets, platforms or pedestals.
+
+Heat detectors shall be provided for solid-ceiling sets and platforms where required by Sections 4805.3 and 4811.14.
+
+SECTION 4807 FIRE SAFETY OFFICERS
+
+4807.1
+
+Where permits are required by the Fire Code, a requirement for standby fire safety officers shall be determined by the fire code official on a case-by-case basis. Standby fire safety officers shall not be required when the provisions of this article are met.
+
+SECTION 4808 ELECTRICAL REQUIREMENTS
+
+4808.1 General.
+
+All electrical equipment including lighting, cabling and temporary power, such as portable generators, shall be maintained in good working order and shall comply with the provisions of the California Electrical Code.
+
+4808.2 Lighting and power requirements.
+
+A studio sound stage and approved production facility shall be provided with a minimum of 35 watts per square foot of permanently installed power dedicated for the distribution of production lighting and power. Mobile generators may be utilized for auxiliary power.
+
+4808.3 Distribution.
+
+Distribution equipment shall be designed for sound stage use. The wiring to such equipment shall be considered permanent and shall comply with applicable provisions of the California Electrical Code. Temporary feeders shall not be tapped from panelboards and switchboards where deadfront covers have to be removed.
+
+4808.4 Installations.
+
+Permanent or temporary electrical installations shall be installed in accordance with the California Electrical Code and this code. Such equipment shall not obstruct exits, means of egress or fire department access, unless approved by the fire code official.
+
+4808.5 Generators.
+
+Portable, mobile or stationary power-generating equipment may be used to supplement building electrical power for temporary use. Equipment shall be located at a pre-designated location, as approved by the fire code official.
+
+Temporary auxiliary power cables supplied from mobile generators or adjacent buildings may pass through exterior walls and interior fire-resistive assemblies provided an approved through-penetration fire-stop system is utilized for protection of the opening.
+
+SECTION 4809 MECHANICAL EQUIPMENT
+
+4809.1 Existing equipment.
+
+All mechanical equipment used as part of the building ventilation system shall be maintained in good working order and shall comply with the provisions of the California Mechanical Code.
+
+4809.2 Auxiliary equipment.
+
+All auxiliary heating, ventilation and air-conditioning equipment shall be approved and listed for the intended use. Flexible duct, if utilized, shall be noncombustible. Such auxiliary equipment shall not obstruct exits, means of egress or fire department access.
+
+SECTION 4810 DESIGN REQUIREMENTS
+
+4810.1 General.
+
+The fire code official shall be provided with certification that approved production facilities and studio sound stages will sustain the anticipated loads of sets, props or other temporary modifications.
+
+Where the anticipated loads exceed the design criteria for an approved production facility and studio sound stage, the building or portions thereof shall be modified for the additional loads.
+
+SECTION 4811 PRODUCTION LOCATIONS
+
+4811.1 General.
+
+This chapter shall apply to production locations.
+
+4811.2 Permits.
+
+A permit shall be obtained, unless waived by the fire code official for any of the activities that follow:
+
+a) Use of pyrotechnic special effects, see Section 3307.1 and California Code of Regulations, Title 19, Division 1, Chapter 6.
+
+b) Open flames.
+
+c) Flammable or combustible liquids, gases and dust.
+
+d) Hot work.
+
+e) Presence of motor vehicles within a building.
+
+f) Tents and canopies, see Chapter 31.
+
+g) Any additional permits as required by the agency having jurisdiction (AHJ).
+
+4811.3 Pyrotechnic special effects and open flames.
+
+The use of pyrotechnic special effects and open flames shall be subject to the approval of the fire code official.
+
+4811.4 Standby fire personnel.
+
+A requirement for standby fire safety officers shall be determined by the fire code official on a case-by-case basis.
+
+4811.5 Foamed plastic materials.
+
+All foam plastics shall meet the requirements of Chapter 8, Sections 807.5.1.5 and 807.5.7.
+
+4811.6 Smoking.
+
+When the fire code official determines that hazardous conditions necessitate controlled use of smoking materials, smoking may be prohibited or limited to designated smoking areas.
+
+4811.7 Structural loads.
+
+Sets, scenery and other equipment shall not impact the structural integrity of a building or structure. Consultation with a building official or structural engineer may be required.
+
+4811.8 Electrical requirements.
+
+4811.8.1 General.
+
+All electrical equipment including lighting, cabling and temporary power, such as portable generators, shall be maintained in good working order and shall comply with the provisions of the California Electrical Code.
+
+4811.8.2 Distribution.
+
+Temporary feeders shall not be tapped from panelboards and switchboards where deadfront covers have to be removed.
+
+4811.8.3 Installations.
+
+Electrical installations shall be installed in accordance with the California Electrical Code. Such equipment shall not obstruct exits, means of egress or fire department access, unless approved by the fire code official.
+
+4811.8.4 Generators.
+
+Portable, mobile or stationary power-generating equipment may be used to supplement building electrical power for temporary use. Equipment shall be placed in a location acceptable to the fire code official.
+
+4811.9 Fire department access.
+
+Required emergency vehicle access shall be maintained. Any deviations are subject to approval by the fire code official.
+
+4811.10 Means of egress.
+
+The production location shall be provided with means of egress appropriate for the intended use as approved by the fire code official.
+
+4811.11 Fire protection systems and equipment.
+
+Functional fire protection systems and equipment shall be maintained in an operable condition, unless approved by the fire code official. Disconnecting or altering of fire protection systems and/or equipment shall be prohibited, unless otherwise approved by the fire code official with alternate means of protection provided.
+
+4811.12 Fire hydrants and fire appliances.
+
+Hydrants, standpipes and fire department connections (FDC) shall not be obstructed, blocked or rendered inoperable in accordance with Chapter 9, unless approved by the fire code official.
+
+4811.13 Fire extinguishers.
+
+Approved fire extinguishers shall be provided as required by the fire code official.
+
+4811.14 Solid-ceiling sets and platforms.
+
+In buildings with existing fire protection systems and where production intends to construct solid-ceiling sets over 600 square feet (55.7 m2) in area, and platforms over 600 square feet (55.7 m2) in area and which exceed 3 feet (914 mm) in height, such buildings shall be protected by one of the following:
+
+1.An approved and listed heat detector system. Heat detectors shall be spaced 30 feet (9144 mm) on center or as required by the manufacturer’s installation instructions. Detectors shall be connected to an approved and listed central, proprietary or remote station service or a local alarm, which will give an audible signal at a constantly attended location. Such system shall be installed in accordance with Chapter 9.
+
+2.The ceiling shall be positioned to allow for the operation of the building’s automatic fire sprinkler system after rehearsal, videotaping, filming or broadcasting of programs has been completed for the day.
+
+3.An approved fire watch.
+
+4.Special hazards shall be reviewed by the enforcing agency (see additional fire protection systems, Section 901.4.3).
+
+4811.15 Buildings without fire protection systems.
+
+Special hazards shall be reviewed by the fire code official (see special hazards Section 901.4.4).
+

@@ -1,0 +1,138 @@
+Chapter 10 Boilers and Pressure Vessels
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X		X					X	X								X						
+Adopt Entire Chapter asamended (amendedsections listed below)				X	X					X	X	X	X	X	X								
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+1001.2				X	X																		
+1001.2.1										X	X	X	X	X	X								
+
+1001.2.1
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1001.0 General
+1001.1 Applicability
+1001.2 Boiler Rooms and Enclosures
+California Building Code
+
+1001.2.1
+[OSHPD 1, 1R, 2, 3, 4 & 5] In no case shall boiler room volume or clearances be reduced below those required by the conditions of the boiler listing. The boiler and the boiler room ventilation system, including fans, controls, and damper motors shall be on essential power when required by Section 321.0. The ventilation system shall either operate continuously, or, if interlocked with the boiler(s) it shall not interfere with the proper boiler operation. Listed boilers shall be installed with clearances in accordance with the manufacturer's instructions.
+
+1001.3 Air for Combustion and Ventilation
+1001.4 Drainage
+1001.5 Mounting
+1001.5.1 Floors
+1001.6 Chimneys or Vents
+1002.0 Standards
+1002.1 General
+1002.2 Oil-Burning Boilers
+1002.2.1 Listing & Labeling
+1002.2.2 Installation
+1002.3 Electric Boilers
+1002.4 Solid-Fuel-Fired Boilers
+1002.5 Dual Purpose Water Heater
+1003.0 Detailed Requirements
+1003.1 Safety Requirements
+1003.2 Controls
+1003.2.1 Automatic Boilers
+BOILER GROUP	FUEL	FUEL INPUT RANGE1 (INCLUSIVE), BTU/H	TYPE OF PILOT2	SAFETY CONTROL TIMING(NOMINAL MAXIMUM TIME IN SECONDS)	ASSURED FUEL SUPPLY CONTROL4	ASSURED AIR SUPPLY CONTROL5	LOW FIRE START UP CONTROL6	PRE-PURGING CONTROL7	HOT WATER TEMPERATURE AND LOW WATER LIMIT CONTROLS8	STEAM PRESSURE AND LOW WATER LIMIT CONTROLS9	APPROVED FUEL SHUTOFF10	CONTROL AND LIMIT DEVICE SYSTEM DESIGN11
+TRIAL FOR PILOT	TRIAL FOR MAIN BURNER FRAME	MAIN BURNER FLAME FAILURE3
+DIRECT ELECTRIC IGNITION	FLAME PILOT
+A	Gas	0 - 400 000	Any type	90	Not Required	90	90	Not Required	Required	Not Required	Not Required	Required	Required	Not Required	Required
+B	Gas	400 001 - 2 500 000	Interrupted or Intermittent	15	15	15	2-4	Not Required	Required	Not Required	Not Required	Required	Required	Not Required	Required
+C	Gas	2 500 001 - 5 000 000	Interrupted or Intermittent	15	15	15	2-4	Required	Required	Required	Required	Required	Required	Required	Required
+D	Gas	Over 5 000 000	Interrupted	15	15	15	2-4	Required	Required	Required	Required	Required	Required	Required	Required
+E	Oil	0 - 400 000	Any type	Not Required	90	90	90	Not Required	Required	Not Required	Not Required	Required	Required	Not Required	Required
+F	Oil	400 001 - 1 000 000	Interrupted	Not Required	30	30	2-4	Required	Required	Not Required	Not Required	Required	Required	Not Required	Required
+G	Oil	1 000 001 - 3 000 000	Interrupted	Not Required	15	15	2-4	Required	Required	Not Required	Not Required	Required	Required	Not Required	Required
+H	Oil	Over 3 000 000	Interrupted	15	15	60	2-4	Required	Required	Required	Required	Required	Required	Required	Required
+K	Electric	All	Not required	Not required	Not required	Not required	Not required	Not required	Not required	Not required	Not required	Required	Required	Not Required	Required
+L	Gas, Oil and/or Coal	12 500 000 or more	Any	10 sec Per NFPA 85	PerNFPA 85	Per NFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerASMEPowerBoilerCode,Section 1andNFPA 85	PerASMEPowerBoilerCode,Section 1andNFPA 85	PerNFPA 85	PerNFPA 85
+M	Heat Recovery Steam Generator	Any	None	Per NFPA 85	PerNFPA 85	Per NFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerNFPA 85	PerASMEBoiler &PressureCode &NFPA 85	PerASMEBoiler &PressureCode &NFPA 85	PerNFPA 85	PerNFPA 85
+
+1003.3 Gauges
+1003.4 Stack Dampers
+1003.5 Welding
+1004.0 Expansion Tanks
+1004.1 General
+1004.2 Open-Type Expansion Tanks
+1004.3 Closed-Type Systems
+1004.4 Minimum Capacity of Closed-Type Tank
+Vt	=	Minimum volume of expansion tank, gallons
+Vs	=	Volume of system, not including expansion tank, gallons
+t	=	Average operating temperature, °F
+Pα	=	Atmospheric pressure, feet H2O absolute
+Pf	=	Fill pressure, feet H2O absolute
+PO	=	Maximum operating pressure, feet H2O absolute
+
+Vt
+
+Vs
+
+t
+
+Pα
+
+Pf
+
+PO
+
+INSTALLED EQUIVALENT DIRECT RADIATION2 (square feet)	TANK CAPACITY (gallons)
+Up to 350	18
+Up to 450	21
+Up to 650	24
+Up to 900	30
+Up to 1100	35
+Up to 1400	40
+Up to 1600	2 to 30
+Up to 1800	2 to 30
+Up to 2000	2 to 35
+Up to 2400	2 to 40
+
+SYSTEM VOLUME2 (gallons)	TANK CAPACITY DIAPHRAGM TYPE (gallons)	TANK CAPACITY NON-DIAPHRAGM TYPE (gallons)
+100	9	15
+200	17	30
+300	25	45
+400	33	60
+500	42	75
+1000	83	150
+2000	165	300
+
+1005.0 Safety or Relief Valve Discharge
+1005.1 General
+1005.2 Discharge Piping
+1005.3 Splash Shield
+1005.4 Hazardous Discharge
+1005.5 Vacuum Relief Valve
+1006.0 Shutoff Valves
+1006.1 General
+1007.0 Gas-Pressure Regulators
+1007.1 General
+1008.0 Low-Water Cutoff
+1008.1 General
+1009.0 Combustion Regulators  — Safety Valves
+1009.1 General
+1010.0 Clearance for Access
+1010.1 General
+1010.2 Power Boilers
+1010.3 Steam-Heating Boilers, Hot Water Boilers, and Power Boilers
+1010.4 Package Boilers, Steam-Heating Boilers, and Hot-Water-Heating Boilers
+1011.0 Boilers, Stokers, and Steam Generators
+1011.1 General
+1012.0 Operating Adjustments and Instructions
+1012.1 General
+1013.0 Inspections and Tests
+1013.1 General
+1013.2 Operating Permit
+1013.3 Maintenance Inspection
+1013.4 Power and Miniature Boilers
+1013.5 Steam-Heating and Water-Heating Boilers
+1013.6 Automatic Steam-Heating Boilers
+1013.7 Unfired Pressure Vessels
+1014.0 Operation and Maintenance of Boilers and Pressure Vessels
+1014.1 General

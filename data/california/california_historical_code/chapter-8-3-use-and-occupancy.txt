@@ -1,0 +1,96 @@
+CHAPTER 8-3 USE AND OCCUPANCY
+
+SECTION 8-301 PURPOSE AND SCOPE
+
+8-301.1 Purpose.
+
+The purpose of the CHBC is to provide regulations for the determination of occupancy classifications and conditions of use for qualified historical buildings or properties.
+
+8-301.2 Scope.
+
+Every qualified historical building or property for which a permit or approval has been requested shall be classified prior to permit issuance according to its use or the character of its occupancy in accordance with the regular code and applicable provisions of this chapter.
+
+SECTION 8-302 GENERAL
+
+8-302.1 Existing use.
+
+The use or character of occupancy of a qualified historical building or property, or portion thereof, shall be permitted to continue in use regardless of any period of time in which it may have remained unoccupied or in other uses, provided such building or property otherwise conforms to all applicable requirements of the CHBC.
+
+8-302.2 Change in occupancy.
+
+The use or character of the occupancy of a qualified historical building or property may be changed from or returned to its historical use or character, provided the qualified historical building or property conforms to the requirements applicable to the new use or character of occupancy as set forth in the CHBC. Such change in occupancy shall not mandate conformance with new construction requirements as set forth in regular code.
+
+8-302.3 Occupancy separations.
+
+Required occupancy separations of more than one hour may be reduced to one-hour fire-resistive construction with all openings protected by not less than three-fourths-hour fire-resistive assemblies of the self-closing or automatic-closing type when the building is provided with an automatic sprinkler system throughout the entire building in accordance with Section 8-410.2. Doors equipped with automatic-closing devices shall be of a type which will function upon activation of a device which responds to products of combustion other than heat.
+
+Required occupancy separations of one hour may be omitted when the building is provided with an automatic sprinkler system throughout.
+
+8-302.4 Maximum floor area.
+
+Regardless of the use or character of occupancy, the area of a one-story qualified historical building or property may have, but shall not exceed, a floor area of 15,000 square feet (1393.5 m2) unless such an increase is otherwise permitted in regular code. Multistory qualified historical buildings (including basements and cellars) shall be in accordance with regular code requirements.
+
+Exception: Historical buildings may be unlimited in floor area without fire-resistive area separation walls:
+
+1.When provided with an automatic sprinkler, or
+
+2.Residential occupancies of two stories or less when provided with a complete fire alarm and annunciation system and where the exiting system conforms to regular code.
+
+8-302.5 Maximum height.
+
+The maximum height and number of stories of a qualified historical building or property shall not be limited because of construction type, provided such height or number of stories does not exceed that of its historical design.
+
+8-302.5.1 High-rise buildings.
+
+Occupancies B, F-1, F-2 or S in high-rise buildings with floors located more than 75 feet above the lowest floor level having building access may be permitted with only the stories over 75 feet provided with an automatic fire sprinkler system if:
+
+1.The building construction type and the exits conform to regular code, and
+
+2.A complete building fire alarm and annunciation system is installed, and
+
+3.A fire barrier is provided between the sprinklered and nonsprinklered floors.
+
+8-302.6 Fire-resistive construction.
+
+See Chapter 8-4.
+
+8-302.7 Light and ventilation.
+
+Existing provisions for light and ventilation which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain. See Section 8-303.6 for residential requirements. See Section 8-503 for Escape or Rescue Windows and Doors.
+
+SECTION 8-303 RESIDENTIAL OCCUPANCIES
+
+8-303.1 Purpose.
+
+The purpose of this section is to provide regulations for those buildings designated as qualified historical buildings or properties and classified as residential occupancies. The CHBC requires enforcing agencies to accept any reasonably equivalent alternative to the regular code when dealing with qualified historical buildings and properties.
+
+8-303.2 Intent.
+
+The intent of the CHBC is to preserve the integrity of qualified historical buildings and properties while maintaining a reasonable degree of protection of life, health and safety for the occupants.
+
+8-303.3 Application and scope.
+
+The provisions of this section shall apply to all qualified historical buildings used for human habitation. Those dwelling units intended only for display, or public use with no residential use involved, need not comply with the requirements of this section.
+
+8-303.4 Fire escapes.
+
+See Chapter 8-5.
+
+8-303.5 Room dimensions.
+
+Rooms used for sleeping purposes may contain a minimum of 50 square feet (4.6 m2) floor area, provided there is maintained an average ceiling height of 7 feet (2134 mm). Other habitable rooms need only be of adequate size to be functional for the purpose intended.
+
+8-303.6 Light and ventilation.
+
+Windows in habitable rooms shall have an area of 6 percent of the floor area, or 6 square feet (0.56 m2), whichever is greater. Windows in sleeping rooms shall be openable (see Section 8-503). Residential occupancies need not be provided with electrical lighting.
+
+8-303.7 Alteration and repair.
+
+The alteration and repair of qualified historical buildings or properties may permit the replacement, retention and extension of original materials and the continued use of original methods of construction, provided a life-safety hazard is not created or continued. Alterations and repairs shall be consistent with the CHBC.
+
+The amount of alterations and repairs is not limited, provided there is no nonhistorical increase in floor area, volume or size of the building or property.
+
+8-303.8 Exiting.
+
+See Chapter 8-5.
+

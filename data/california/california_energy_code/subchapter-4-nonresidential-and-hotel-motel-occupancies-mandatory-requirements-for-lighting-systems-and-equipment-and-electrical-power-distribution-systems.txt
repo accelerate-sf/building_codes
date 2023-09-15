@@ -1,0 +1,517 @@
+SUBCHAPTER 4 NONRESIDENTIAL AND HOTEL/MOTEL OCCUPANCIES—  MANDATORY REQUIREMENTS FOR LIGHTING SYSTEMS AND EQUIPMENT, AND ELECTRICAL POWER DISTRIBUTION SYSTEMS MANDATORY REQUIREMENTS FOR LIGHTING SYSTEMS AND EQUIPMENT, AND ELECTRICAL POWER DISTRIBUTION SYSTEMS
+
+SECTION 130.0 LIGHTING SYSTEMS AND  EQUIPMENT, AND ELECTRICAL POWER  DISTRIBUTION SYSTEMS—GENERAL
+
+(a) The design and installation of all lighting systems and equipment in nonresidential and hotel/motel buildings, outdoor lighting, and electrical power distribution systems within the scope of Section 100.0(a), shall comply with the applicable provisions of Sections 130.0 through 130.5.
+
+NOTE: The requirements of Sections 130.0 through 130.5 apply to newly constructed buildings. Section 141.0 specifies which requirements of Sections 130.0 through 130.5 also apply to additions and alterations to existing buildings.
+NOTE: The requirements of Sections 130.0 through 130.5 apply to newly constructed buildings. Section 141.0 specifies which requirements of Sections 130.0 through 130.5 also apply to additions and alterations to existing buildings.
+
+(b) Functional areas where compliance with the residential lighting standards is required. The design and installation of all lighting systems, lighting controls and equipment in the following functional areas shall comply with the applicable residential lighting requirements of Section 150.0(k). In buildings containing these functional areas, all other functional areas, such as common areas, shall comply with the applicable nonresidential lighting and controlled receptacle requirements.
+
+1.Reserved.
+
+2. Outdoor lighting attached to a hotel/motel building and separately controlled from the inside of a guest room.
+
+3. Fire station dwelling accommodations.
+
+4. Hotel and motel guest rooms. Additionally, hotel and motel guest rooms shall meet the requirements of Section 130.1(c)8 and Section 130.5(d)4.
+
+5.Reserved.
+
+NOTE: The requirements of Section 130.0(b) also apply to additions and alterations to functional areas of existing buildings as specified in Section 130.0(b).
+NOTE: The requirements of Section 130.0(b) also apply to additions and alterations to functional areas of existing buildings as specified in Section 130.0(b).
+
+(c) Luminaire classification and power. Luminaires classified and their wattage shall be determined as follows:
+
+1. Luminaire wattage shall be labeled as follows:
+
+A. The maximum rated wattage or relamping rated wattage of a luminaire shall be listed on a permanent, preprinted, factory installed label, as specified by UL 1574, 1598, 2108 or 8750, as applicable; and
+
+B. The factory-installed maximum rated wattage or relamping rated wattage label shall not consist of peel-off or peel-down layers or other methods that allow the rated wattage to be changed after the luminaire has been shipped from the manufacturer.
+
+Exception to Section 130.0(c)1B: Peel-down labels may be used only for the following luminaires, when they can accommodate a range of lamp wattages without changing the luminaire housing, ballast, transformer or wiring. Qualifying luminaires shall have a single lamp, and shall have integrated ballasts or transformers. Peel-down labels must be layered such that the rated wattage reduces as successive layers are removed.
+
+i. High-intensity discharge luminaires, having an integral electronic ballast, with a maximum relamping rated wattage of 150 watts.
+
+ii. Low-voltage luminaires (except low voltage track systems), ≤ 24 volts, with a maximum relamping rated wattage of 50 watts.
+
+iii. Compact fluorescent luminaires, having an integral electronic ballast, with a maximum relamping rated wattage of 42 watts.
+
+2.For luminaires with line voltage lamp holders not served by drivers, ballasts, or transformers; the wattage of such luminaires shall be determined as the maximum relamping rated wattage as labeled in accordance with Section 130.0(c)1.
+
+3. For luminaires with permanently installed or remotely installed ballasts, the wattage of such luminaires shall be the operating input wattage of the rated lamp/ballast combination published in the ballast manufacturer’s catalogs based on independent testing lab reports as specified by UL 1598.
+
+4. For inseparable SSL luminaires and SSL luminaires with remotely mounted drivers, the maximum rated wattage shall be the maximum rated input wattage of the SSL luminaire as specified in Section 130.0(c)1 when tested in accordance with UL 1598, 2108 or 8750, or IES LM-79.
+
+5. For LED tape lighting and LED linear lighting with LED tape lighting components, the maximum rated wattage shall be the sum of the installed length of the tape lighting times its rated linear power density in watts per linear feet, or the maximum rated input wattage of the driver or power supply providing power to the lighting system, with tape lighting tested in accordance with UL 2108 or 8750, or IES LM-79.
+
+6. For modular lighting systems that allow the addition or relocation of luminaires without altering the wiring of the system, wattage shall be determined as follows:
+
+A. The wattage shall be the greater of:
+
+i. 30 watts per linear foot of track or plug-in busway; or
+
+ii. the rated wattage of all of the luminaires included in the system, where the luminaire wattage is determined as specified in Section 130.0(c)1.
+
+B. For line-voltage lighting track and plug-in busway served by a track lighting integral current limiter or a dedicated track lighting supplementary overcurrent protection panel, the wattage shall be determined as follows:
+
+i. The volt-ampere rating of the current limiter as specified by UL 1077; or
+
+ii. The sum of the ampere (A) rating of all of the current protection devices times the branch circuit voltages for track lighting supplementary overcurrent protection panel.
+
+C. For other modular lighting systems with power supplied by a driver, power supply or transformer, including but not limited to low-voltage lighting systems, the wattage of the system shall be the maximum rated input wattage of the driver, power supply or transformer published in the manufacturer’s catalogs, as specified by UL 2108 or 8750.
+
+Exception to Section 130.0(c)6: For power-over-Ethernet lighting systems, power provided to installed nonlighting devices may be subtracted from the total power rating of the powerover-Ethernet system.
+
+7.  For all other lighting equipment not addressed by Sections 130.0(c)2 through 6, the wattage of the lighting equipment shall be the maximum rated wattage of the lighting equipment, or operating input wattage of the system, labeled in accordance with Section 130.0(c)1, or published in manufacturer’s catalogs, based on independent testing lab reports as specified by UL 1574, 1598, 2108 or 8750, or IES LM-79.
+
+(d) Lighting controls. All lighting controls and equipment shall comply with the applicable requirements in Sections 110.9, 130.1 and 130.2, and shall be installed in accordance with any applicable manufacturer instructions.
+
+(e) Energy Management Control System (EMCS). An EMCS may be installed to comply with the requirements of one or more lighting controls if it meets the following minimum requirements:
+
+1. Provides all applicable functionality for each specific lighting control or system for which it is installed in accordance with Sections 110.9, 130.1 and 130.2; and
+
+2. Complies with all applicable lighting control installation requirements in accordance with Section 130.4 for each specific lighting control or system for which it is installed; and
+
+3. Complies with all applicable application requirements for each specific lighting control or system for which it is installed, in accordance with Part 6.
+
+Note:  Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 130.1 MANDATORY INDOOR LIGHTING CONTROLS
+
+Nonresidential and hotel/motel buildings shall comply  with the applicable requirements of Sections 130.1(a) through 130.1(f), in addition to the applicable requirements of Sections 110.9 and 130.0.
+
+(a) Manual area controls. Each area enclosed by ceiling-height partitions shall provide lighting controls that allow the lighting in that area to be manually turned on and off. The manual control shall:
+
+1. Be readily accessible; and
+
+Exception to Section 130.1(a)1:  Restrooms having  two or more stalls, parking areas, stairwells, corridors and areas of the building intended for access or use by the public may use a manual control not accessible to unauthorized personnel.
+
+2. Be located in the same enclosed area with the lighting it controls; and
+
+Exception 1 to Section 130.1(a)2: For malls and atria, main entry lobbies, auditorium areas, dining areas, retail merchandise sales areas, wholesale showroom areas, commercial and industrial storage areas, general commercial and industrial work areas, convention centers, arenas, psychiatric and secure areas in healthcare facilities, and other areas where placement of a manual area control poses a health and safety hazard, the manual area control may instead be located so that a person using the control can see the lights or area controlled by that control, or include a visual signal or display showing the current state of the controlled lighting.
+
+Exception 2 to Section 130.1(a)2: In healthcare facilities, for restrooms and bathing rooms intended for a single occupant, the lighting control may be located outside the enclosed area but directly adjacent to the door.
+
+3. Provide separate control of general, floor display, wall display, window display, case display, ornamental, and special effects lighting, such that each type of lighting can be turned on or off without turning on or off other types of lighting. Scene controllers may comply with this requirement provided that at least one scene turns on general lighting only, and the control provides a means to manually turn off all lighting.
+
+Exception to Section 130.1(a): Up to 0.1 watts per square foot of indoor lighting may be continuously illuminated to allow for means of egress illumination consistent with California Building Code Section 1008. Egress lighting complying with this wattage limitation is not required to comply with manual area control requirements if:
+
+1. The area is designated for means of egress on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Part 1; and
+
+2. The controls for the egress lighting are not accessible to unauthorized personnel.
+
+(b) Multilevel lighting controls. The general lighting of any enclosed area 100 square feet or larger with a connected lighting load that exceeds 0.5 watts per square foot shall provide multilevel lighting controls that allow the level of lighting to be adjusted up and down. The multi-level controls shall:
+
+1. Provide the number of control steps specified in Table 130.1-A; and
+
+Exception to Section 130.1(b)1: Classrooms with a connected general lighting load of 0.6 watts per square foot or less shall have a minimum of one control step between 30 and 70 percent of full rated power, regardless of luminaire type.
+
+2.Meet the uniformity requirements specified in Table 130.1-A.
+
+Exception 1 to Section 130.1(b): An area enclosed by ceiling-height partitions that has only one luminaire with no more than two lamps or has only one inseparable SSL luminaire.
+
+Exception 2 to Section 130.1(b): Restrooms.
+
+Exception 3 to Section 130.1(b): Healthcare facilities.
+
+(c) Shut-OFF Controls. All installed indoor lighting shall be equipped with controls able to automatically reduce lighting power when the space is typically unoccupied.
+
+Exception 1 to Section 130.1(c): Healthcare facilities.
+
+1. In addition to lighting controls installed to comply with Sections 130.1(a) and (b), all installed indoor lighting shall be equipped with controls that meet the following requirements:
+
+A. Shall be controlled with an occupant sensing control, automatic time-switch control, or other control capable of automatically shutting OFF all of the lighting when the space is typically unoccupied; and
+
+B. Separate controls for the lighting on each floor, other than lighting in stairwells; and
+
+C. Separate controls for a space enclosed by ceiling height partitions not exceeding 5,000 square feet.
+
+Exception to Section 130.1(c)1C: The area controlled   may not exceed 20,000 square feet in the following function areas: malls, auditoriums, single tenant retail, industrial, convention centers and arenas.
+
+Exception 1 to Section 130.1(c)1: Where the lighting is serving an area that is in continuous use, 24 hours per day/365 days per year.
+
+Exception 2 to Section 130.1(c)1: Lighting complying with Section 130.1(c)5 or 7.
+
+Exception 3 to Section 130.1(c)1: Up to 0.1watts per square foot of lighting in any area within a building may be continuously illuminated, provided that the area is designated for means of egress on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Part 1. Lighting providing means of egress illumination, as the term is used in the California Building Code, shall be configured to provide no less than the amount of light required by California Building Code Section 1008 while in the partial-off mode.
+
+Exception 4 to Section 130.1(c)1: Electrical equipment rooms subject to Article 110.26(D) of the California Electrical Code.
+
+Exception 5 to Section 130.1(c)1: Illumination provided by lighting equipment that is designated for emergency lighting, connected to an emergency power source or battery supply, and is intended to function in emergency mode only when normal power is absent.
+
+2. Countdown timer switches may be used to comply with the automatic shut-OFF control requirements in Section 130.1(c)1 only in closets less than 70 square feet, and server aisles in server rooms. The maximum timer setting shall be 10 minutes for closets, and 30 minutes for server aisles.
+
+3. If an automatic time-switch control, other than an occupant sensing control, is installed to comply with Section 130.1(c)1, it shall incorporate a manual override lighting control that:
+
+A. Complies with Section 130.1(a); and
+
+B. Allows the lighting to remain ON for no more than 2 hours when an override is initiated.
+
+Exception to Section 130.1(c)3B: In the following function areas, the override time may exceed 2 hours: Malls, auditoriums, single tenant retail, industrial, laboratories and arenas where captive-key override is utilized.
+
+4. If an automatic time-switch control, other than an occupant sensing control, is installed to comply with Section 130.1(c)1, it shall incorporate an automatic holiday “shut-OFF” feature that turns OFF all loads for at least 24 hours, and then resumes the normally scheduled operation.
+
+Exception to Section 130.1(c)4: In retail stores and associated malls, restaurants, grocery stores, churches, and theaters, the automatic time-switch control is not required to incorporate an automatic holiday shut-OFF feature.
+
+5.Occupant sensing controls are required for  specified offices, multipurpose rooms, classrooms, conference rooms and restrooms. In offices 250 square feet or smaller, multipurpose rooms of less than 1,000 square feet, classrooms of any size, conference rooms of any size, and restrooms of any size, lighting shall be controlled with occupant sensing controls to automatically shut OFF all of the lighting in 20 minutes or less after the control zone is unoccupied.
+
+In areas required by Section 130.1(b) to have multi-level lighting controls, the occupant sensing controls shall function either as a:
+In areas required by Section 130.1(b) to have multi-level lighting controls, the occupant sensing controls shall function either as a:
+
+A.Partial-ON occupant sensing controls capable of automatically activating between 50 and 70 percent of controlled lighting power, or
+
+B.Vacancy sensing controls, where all lighting responds to a manual ON input only.
+
+In areas not required by Section 130.1(b) to have multilevel lighting controls, the occupant sensing controls shall function either as:
+In areas not required by Section 130.1(b) to have multilevel lighting controls, the occupant sensing controls shall function either as:
+
+A.Occupant sensing controls; or
+
+B.Partial-ON occupant sensing controls, or
+
+C.Vacancy sensing controls, where all lighting responds to a manual ON input only.
+
+In addition, controls shall be provided that allow the lights to be manually shut OFF in accordance with Section 130.1(a) regardless of the sensor status.
+In addition, controls shall be provided that allow the lights to be manually shut OFF in accordance with Section 130.1(a) regardless of the sensor status.
+
+6. Full or partial-OFF occupant sensing controls are required for aisle ways and open area in warehouses, library book stack aisles, corridors and stairwells, and offices greater than 250 square feet. Lighting installed in the following areas shall meet the requirements below in addition to complying with Section 130.1(c)1.
+
+A. In aisle ways and open areas in warehouses, lighting shall be controlled with occupant sensing controls that automatically reduce lighting power by at least 50 percent when the areas are unoccupied. The occupant sensing controls shall independently control lighting in each aisle way, and shall not control lighting beyond the aisle way being controlled by the sensor.
+
+Exception 1 to Section 130.1(c)6A: In aisle ways and open areas in warehouses in which the installed lighting power is 80 percent or less of the value allowed under the area category method, occupant sensing controls shall reduce lighting power by at least 40 percent.
+
+Exception 2 to Section 130.1(c)6A: When metal halide lighting or high pressure sodium lighting is installed in warehouses, occupant sensing controls shall reduce lighting power by at least 40 percent.
+
+B. In library book stack aisles 10 feet or longer that are accessible from only one end, and library book stack aisles 20 feet or longer that are accessible from both ends, lighting shall be controlled with occupant sensing controls that automatically reduce lighting power by at least 50 percent when the areas are unoccupied. The occupant sensing controls shall independently control lighting in each aisle way, and shall not control lighting beyond the aisle way being controlled by the sensor.
+
+C.In corridors and stairwells, lighting shall be controlled  by occupant sensing controls that separately reduce the lighting power in each space by at least 50 percent when the space is unoccupied. The occupant sensing controls shall be capable of automatically turning the lighting fully ON only in the separately controlled space, and shall be automatically activated from all designed paths of egress.
+
+D.In office spaces greater than 250 square feet, general lighting shall be controlled with occupant sensing controls that meet all of the following:
+
+i.The occupant sensing controls shall be configured so that lighting shall be controlled separately in control zones not greater than 600 square feet. For luminaires with an embedded occupant sensor that are capable of reducing power independently from other luminaires, each luminaire can be considered its own control zone; and
+
+ii.In 20 minutes or less after the control zone is unoccupied, the occupant sensing controls shall uniformly reduce lighting power in the control zone by at least 80 percent of full power. Control functions that switch control zone lights completely off when the zone is vacant meet this requirement; and
+
+iii.In 20 minutes or less after the entire office space is unoccupied, the occupant sensing controls shall automatically turn off lighting in all control zones in the space; and
+
+iv.In each control zone, lighting shall be allowed to automatically turn on to any level up to full power upon occupancy within the control zone. When occupancy is detected in any control zone in the space, the lighting in other control zones that are unoccupied shall operate at no more than 20 percent of full power.
+
+Exception to Section 130.1(c)6D: Under-shelf or furniture-mounted task lighting controlled by a local switch and either a time switch or an occupancy sensor.
+
+7.Partial-OFF occupant sensing controls are required.  Partial-OFF occupant sensing controls are required for specified stairwells and common area corridors, parking garages, parking areas and loading and unloading areas. Lighting installed in the following areas shall meet the requirements below instead of complying with Section 130.1(c)1.
+
+A. Lighting in stairwells and common area corridors that provide access to guestrooms of hotel/motels shall be controlled with occupant sensing controls that automatically reduce lighting power by at least 50 percent when the areas are unoccupied. The occupant sensing controls shall be capable of automatically turning the lighting fully ON only in the separately controlled space, and shall be automatically activated from all designed paths of egress.
+
+Exception to Section 130.1(c)7A: In corridors and stairwells in which the installed lighting power is 80 percent or less of the value allowed under the area category method, occupant sensing controls shall reduce power by at least 40 percent.
+
+B. In parking garages, parking areas and loading and unloading areas, general lighting shall be controlled by occupant sensing controls having at least one control step between 20 percent and 50 percent of design lighting power. No more than 500 watts of rated lighting power shall be controlled together as a single zone. A reasonably uniform level of illuminance shall be achieved in accordance with the applicable requirements in Table 130.1-A. The occupant sensing controls shall be capable of automatically turning the lighting fully ON only in the separately controlled space, and shall be automatically activated from all designed paths of egress.
+
+Interior areas of parking garages are classified as indoor lighting for compliance with Section 130.1(c)7B. Parking areas on the roof of a parking structure are classified as outdoor hardscape and shall comply with the applicable provisions in Section 130.2.
+Interior areas of parking garages are classified as indoor lighting for compliance with Section 130.1(c)7B. Parking areas on the roof of a parking structure are classified as outdoor hardscape and shall comply with the applicable provisions in Section 130.2.
+
+Exception to Section 130.1(c)7B: Metal halide luminaires with a lamp plus ballast mean system efficacy of greater than 75 lumens per watt, used for general lighting in parking garages, parking areas and loading and unloading areas, shall be controlled by occupant sensing controls having at least one control step between 20 percent and 60 percent of design lighting power.
+
+8.Hotel/motel guest rooms shall be controlled with one of the following such that, no longer than 20 minutes after the guest room has been vacated, lighting power is switched off:
+
+i.Captive card key controls; or
+
+ii.Occupant sensing controls; or
+
+iii.Other automatic controls.
+
+Exception to Section 130.1(c)8: One high-efficacy luminaire as defined in Table 150.0-A that is switched separately and where the switch is located within 6 feet of the entry door.
+
+(d)Automatic daylighting controls. The general lighting in skylit daylit zones, primary sidelit daylit zones and secondary sidelit daylit zones, as well as the general lighting in the combined primary and secondary sidelit daylit zones in parking garages, shall be provided with controls that automatically adjust the power of the installed lighting up and down to keep the total light level stable as the amount of incoming daylight changes. For skylight located in an atrium, the skylit daylit zone definition shall apply to the floor area directly under the atrium and the top floor area directly adjacent to the atrium.
+
+1.All skylit daylit zones, primary sidelit daylit zones, secondary sidelit daylit zones, and the combined primary and secondary sidelit daylit zones in parking garages shall be shown on the plans.
+
+NOTE: Parking areas on the roof of a parking structure are outdoor hardscape, not skylit daylit areas.
+NOTE: Parking areas on the roof of a parking structure are outdoor hardscape, not skylit daylit areas.
+
+2.The automatic daylighting controls shall provide separate control for general lighting in each type of daylit zone. General lighting in overlapping skylit daylit zone and sidelit daylit zone shall be controlled as part of the skylit daylit zone. General lighting in overlapping primary and secondary sidelit daylit zones shall be controlled as part of the primary sidelit daylit zone. Linear LED and other solid state lighting (SSL) light sources in linear form may be treated as linear lamps in increments of 4-foot segments or smaller, and each segment is separately controlled based on the type of the daylit zone in which the segment is primarily located.
+
+3.The automatic daylighting controls shall:
+
+A.For spaces required to install multilevel controls under Section 130.1(b), adjust lighting via continuous dimming or the number of control steps provided by the multilevel controls;
+
+B.For each space, ensure the combined illuminance from the controlled lighting and daylight is not less than the illuminance from controlled lighting when no daylight is available;
+
+C.For areas other than parking garages, ensure that, when the daylight illuminance is greater than 150 percent of the illuminance provided by the controlled lighting when no daylight is available, the controlled lighting power in that daylight zone shall be reduced by a minimum of 90 percent; and
+
+D.For parking garages, ensure that when daylight illuminance levels measured at the farthest edge of the secondary sidelit zone away from the glazing or opening are greater than 150 percent of the illuminance provided by the controlled lighting when no daylight is available, the controlled lighting power in the combined primary and secondary sidelit daylit zones shall be reduced by 100 percent.
+
+4.Photosensors shall be located so that they are not readily  accessible to unauthorized personnel.
+
+5.The location where calibration adjustments are made to the automatic daylighting controls shall be readily accessible to authorized personnel but may be inside a locked case or under a cover which requires a tool for access.
+
+Exception 1 to Section 130.1(d):  Areas under skylights where it is documented that existing adjacent structures or natural objects block direct sunlight for more than 1,500 daytime hours per year between 8 a.m. and 4 p.m.
+
+Exception 2 to Section 130.1(d):  Areas adjacent to vertical glazing below an overhang, where the overhang covers the entire width of the vertical glazing, no vertical glazing is above the overhang, and the ratio of the overhang projection to the overhang rise is greater than 1.5 for South, East and West orientations or greater than 1 for North orientations.
+
+Exception 3 to Section 130.1(d): Rooms where the combined total installed wattage of the general lighting in the skylit and primary sidelit zones is less than 120 watts are not required to have daylighting controls for those zones. Rooms where the total installed wattage of the general lighting in the secondary sidelit zones is less than 120 watts are not required to have daylighting controls for that zone.
+
+Exception 4 to Section 130.1(d): Parking garage areas where the total installed wattage of the general lighting in the primary and the secondary sidelit daylit zones is less than 60 watts do not require automatic daylighting controls in the daylit zones.
+
+Exception 5 to Section 130.1(d): Rooms that have a total glazing area of less than 24 square feet, or parking garage areas with a combined total of less than 36 square feet of glazing or opening.
+
+Exception 6 to Section 130.1(d): For parking garages, luminaires located in the daylight adaptation zone.
+
+Exception 7 to Section 130.1(d): Luminaires in sidelit daylit zones in retail merchandise sales and wholesale showroom areas.
+
+(e)Demand responsive controls. See Section 110.12 for requirements for demand responsive lighting controls.
+
+(f)Control interactions. Each lighting control installed to comply with Section 130.1(a) through (e) shall permit or incorporate the functions of the other lighting controls.
+
+1.For general lighting, the manual area control shall permit the level or amount of light provided while the lighting is on to be set or adjusted by the controls specified in Section 130.1(b), (c), (d), and (e).
+
+2.The manual area control shall permit the shutoff control to turn the lighting down or off.
+
+3.The multilevel lighting control shall permit the automatic daylighting control to adjust the electric lighting level in response to changes in the amount of daylight in the daylit zone.
+
+4.The multilevel lighting control shall permit the demand responsive control to adjust the lighting during a demand response event and to return it to the level set by the multilevel control after the event.
+
+5.The shutoff control shall permit the manual area control to turn the lighting on. If the on request occurs while an automatic time switch control would turn the lighting off, then the on request shall be treated as an override request consistent with Section 130.1(c)3.
+
+6.The automatic daylighting control shall permit the multilevel lighting control to adjust the level of lighting.
+
+7.For lighting controlled by multilevel lighting controls and by occupant sensing controls that provide an automatic-on function, the controls shall provide a partial-on function that is capable of automatically activating between 50–70 percent of controlled lighting power.
+
+8.Reserved.
+
+9.For space-conditioning system zones serving only spaces that are required to have occupant sensing controls as specified in Section 130.1(c)5, 6 and 7, and where Table 120.1-A allows the ventilation air to be reduced to zero when the space is in occupied-standby mode, the space-conditioning system shall be controlled by occupancy sensing controls as specified in Section 120.2(e)3.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 130.1-A
+
+MULTILEVEL LIGHTING CONTROLS AND UNIFORMITY REQUIREMENTS
+
+	LUMINAIRE TYPE	MINIMUM REQUIRED CONTROL STEPS (percent of full rated power1)	UNIFORM LEVEL OF ILLUMINANCE SHALL BE ACHIEVED BY:
+	LED luminaires and LED source systems	Continuous dimming 10-100 percent
+	Line-voltage sockets except GU-24
+>	Low-voltage incandescent systems
+	Fluorescent luminaires	Continuous dimming 20–100 percent
+	GU-24 sockets rated for fluorescent ≤ 20 watts	Minimum one step between 30 and 70 percent	Continuous dimming; or Stepped dimming; or Switching alternate lamps in a luminaire; or Separately switching circuits in multi-circuit track with a minimum of two circuits
+	Pin-based compact fluorescent ≤ 20 watts
+	Linear fluorescent and U-bent fluorescent ≤ 13 watts
+	Track lighting
+	Linear fluorescent and U-bent fluorescent > 13 watts	Minimum one step in each range: 20–40%50–70% 75–85%100%	Stepped dimming; or Continuous dimming; or Switching alternate lamps in each luminaire, having a minimum of four lamps per luminaire, illuminating the same area and in the same manner
+	Other light sources, including HID and induction	Minimum one step between 50 and 70 percent	Stepped dimming; or Continuous dimming; or Switching alternate lamps in each luminaire, having a minimum of two lamps per luminaire, illuminating the same area and in the same manner1.Full rated input power of ballast and lamp, corresponding to maximum ballast factor.
+
+SECTION 130.2 OUTDOOR LIGHTING CONTROLS AND EQUIPMENT
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 130.2(a) through 130.2(c).
+
+(a) Reserved.
+
+(b)Luminaire shielding requirements. All outdoor
+luminaires of 6,200 initial luminaire lumens or greater shall
+comply with backlight, uplight and glare (BUG) in accordance with ANSI/IES TM-15-20, Annex A requirements in
+accordance with Title 24, Part 11, Section 5.106.8.
+
+Exception 1 to Section 130.2(b): Signs.
+
+Exception 2 to Section 130.2(b): Lighting for building facades, public monuments, public art, statues and vertical surfaces of bridges.
+
+Exception 3 to Section 130.2(b): Lighting not permitted by a health or life safety statute, ordinance or regulation to be a cutoff luminaire.
+
+Exception 4 to Section 130.2(b): Temporary outdoor lighting.
+
+Exception 5 to Section 130.2(b): Replacement of existing pole mounted luminaires in hardscape areas meeting all of the following conditions:
+
+A. Where the existing luminaire does not meet the luminaire BUG requirements in Section 130.2(b); and
+
+B. Spacing between existing poles is greater than six times the mounting height of the existing luminaires; and
+
+C. Where no additional poles are being added to the site; and
+
+D. Where new wiring to the luminaires is not being installed; and
+
+E. Provided that the connected lighting power wattage is not increased.
+
+Exception 6 to Section 130.2(b): Luminaires that illuminate the public right of way including publicly-maintained or utility-maintained roadways, sidewalks and bikeways.
+
+Exception 7 to Section 130.2(b): Outdoor lighting attached to a hotel/motel building and separately controlled from the inside of a guest room.
+
+(c) Controls for outdoor lighting. Outdoor lighting shall be independently controlled from other electrical loads, and the controls for outdoor lighting shall meet the following functional requirements:
+
+Exception 1 to Section 130.2(c): Outdoor lighting not permitted by a health or life safety statute, ordinance or regulation to be turned OFF or reduced.
+
+Exception 2 to Section 130.2(c): Lighting in tunnels required to be illuminated 24 hours per day and 365 days per year.
+
+1. Daylight availability. All installed outdoor lighting shall be controlled by a photo control, astronomical time-switch control, or other control capable of automatically shutting OFF the outdoor lighting when daylight is available.
+
+2. Automatic scheduling controls.
+
+A. Automatic scheduling controls shall be installed for all outdoor lighting. Automatic scheduling controls may be installed in combination with motion sensing controls or other outdoor lighting controls.
+
+B. Automatic scheduling controls shall be capable of reducing the outdoor lighting power by at least 50 percent and no more than 90 percent, and separately capable of turning the lighting OFF, during scheduled unoccupied periods.
+
+C. Automatic scheduling controls shall allow scheduling of a minimum of two nighttime periods with independent lighting levels, and may include an override function that turns lighting ON during its scheduled dim or OFF state for no more than two hours when an override is initiated.
+
+3. Motion sensing controls.
+
+A.Motion sensing controls shall be installed for the following luminaires. Motion sensing controls may be installed for other outdoor lighting and in combination with other outdoor lighting controls.
+
+i. Outdoor luminaires other than those providing building façade, ornamental hardscape, outdoor dining or outdoor sales frontage lighting, where the bottom of luminaire is mounted 24 feet above grade or lower; and
+
+ii. Bilaterally symmetric outdoor wall-mounted luminaires (typically referred to as “wall packs”) providing building façade, ornamental hardscape or outdoor dining lighting that are mounted 24 feet above grade or lower.
+
+B. Motion sensing controls shall be capable of reducing the outdoor lighting power of each controlled luminaire by at least 50 percent and no more than 90 percent, and separately capable of turning the luminaire OFF, during unoccupied periods.
+
+C.Motion sensing controls shall be capable of reducing the lighting to its dim or OFF state no longer than 15 minutes after the area has been vacated, and of returning the lighting to its ON state when the area becomes occupied.
+
+D. No more than 1,500 watts of lighting power shall be controlled by a single sensor or as a single zone.
+
+Exception 1 to Section 130.2(c)3: Luminaires with a maximum rated wattage of 40 watts each are not required to have motion sensing controls.
+
+Exception 2 to Section 130.2(c)3: Applications listed as Exceptions to Section 140.7(a) are not required to have motion sensing controls.
+
+Exception 3 to Section 130.2(c)3: Lighting subject to a health or life safety statute, ordinance, or regulation may have a minimum time-out period longer than 15 minutes or a minimum dimming level above 50 percent when necessary to comply with the applicable law.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 130.3 SIGN LIGHTING CONTROLS
+
+Nonresidential buildings other than healthcare facilities, and hotel/motel buildings shall comply with the applicable requirements of Sections 130.3(a)1 through 130.3(a)3.
+
+(a) Controls for sign lighting. All sign lighting shall meet the requirements below as applicable:
+
+1. Indoor signs. All indoor sign lighting other than exit sign lighting shall be controlled with an automatic time-switch control or astronomical time-switch control.
+
+2. Outdoor signs. Outdoor sign lighting shall meet the following requirements as applicable:
+
+A. All outdoor sign lighting shall be controlled with a photocontrol in addition to an automatic time-switch control, or an astronomical time-switch control.
+
+Exception to Section 130.3(a)2A: Outdoor signs in tunnels, and signs in large permanently covered outdoor areas that are intended to be continuously lit, 24 hours per day and 365 days per year.
+
+B. All outdoor sign lighting that is ON both day and night shall be controlled with a dimmer that provides the ability to automatically reduce sign lighting power by a minimum of 65 percent during nighttime hours. Signs that are illuminated at night and for more than 1 hour during daylight hours shall be considered ON both day and night.
+
+Exception to Section 130.3(a)2B: Outdoor signs in tunnels and large covered areas that are intended to be illuminated both day and night.
+
+3. Demand responsive Electronic Message Center (EMC) control. See Section 110.12 for requirements for demand responsive EMC controls.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 130.4 LIGHTING CONTROL ACCEPTANCE AND INSTALLATION CERTIFICATE REQUIREMENTS
+
+Nonresidential buildings other than healthcare facilities and hotel/motel buildings shall comply with the applicable requirements of Sections 130.4(a) through 130.4(c). Healthcare facilities shall comply with the applicable acceptance and installation documentation requirements of OSHPD.
+
+(a)Lighting and receptacle control acceptance requirements. Before an occupancy permit is granted, indoor and
+outdoor lighting and receptacle controls serving the building, area or site and installed to comply with Section 110.12, 130.1, 130.2, 130.5 or 140.6 shall be certified as meeting the Acceptance Requirements for Code Compliance as specified by the Reference Nonresidential Appendix NA7.6 and NA7.8. A Certificate of Acceptance shall be submitted to the enforcement agency under Section 10-103(a) of Part 1, that the equipment and systems meet the acceptance requirements:
+
+1.Reserved.
+
+2.Reserved.
+
+3.Automatic daylight controls shall be tested in accordance with Reference Nonresidential Appendix NA7.6.1;
+
+4.Lighting shut-OFF controls shall be tested in accordance with Reference Nonresidential Appendix NA7.6.2;
+
+5.Demand responsive lighting controls shall be tested in  accordance with Reference Nonresidential Appendix NA7.6.3; and
+
+6.Outdoor lighting controls shall be tested in accordance  with Reference Nonresidential Appendix NA7.8; and
+
+7.Lighting systems receiving the Institutional Tuning  Power Adjustment Factor shall be tested in accordance with Reference Nonresidential Appendix NA7.6.4.
+
+8.Demand responsive controls required to control controlled receptacles shall be tested in accordance with
+Reference Nonresidential Appendix NA7.6.5.
+
+(b) Lighting control installation certificate requirements. To be recognized for compliance with Part 6 an installation certificate shall be submitted in accordance with Section 10-103(a) for any lighting control system, energy management control system, interlocked lighting system, lighting power adjustment factor, or additional wattage available for a videoconference studio, in accordance with the following requirements, as applicable:
+
+1. Certification that when a lighting control system is installed to comply with lighting control requirements in Part 6 it complies with the applicable requirements of Section 110.9; and complies with Reference Nonresidential Appendix NA7.7.1.
+
+2. Certification that when an energy management control system is installed to function as a lighting control required by Part 6 it functionally meets all applicable requirements for each application for which it is installed, in accordance with Sections 110.9, 130.0 through 130.5, 140.6 through 150.0, and 150.2; and complies with Reference Nonresidential Appendix NA7.7.2.
+
+3. Reserved.
+
+4. Reserved.
+
+5. Certification that interlocked lighting systems used to serve an approved area comply with Section 140.6(a)1; and comply with Reference Nonresidential Appendix NA7.7.4.
+
+6. Certification that lighting controls installed to earn a lighting power adjustment factor (PAF) comply with Section 140.6(a)2; and comply with Reference Nonresidential Appendix NA7.7.5.
+
+7. Certification that additional lighting wattage installed for a videoconference studio complies with Section 140.6(c)2Gvii; and complies with Reference Nonresidential Appendix NA7.7.6.
+
+(c) When certification is required by Title 24, Part 1, Section 10-103.1, the acceptance testing specified by Section 130.4 shall be performed by a certified lighting controls acceptance test technician (CLCATT). If the CLCATT is operating as an employee, the CLCATT shall be employed by a certified lighting controls acceptance test employer. The CLCATT shall disclose on the Certificate of Acceptance a valid CLCATT certification identification number issued by an approved acceptance test technician certification provider. The CLCATT shall complete all certificate of acceptance documentation in accordance with the applicable requirements in Section 10-103(a)4.
+
+Note: Authority cited: Sections 25402, 25402.1 and 25213, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 130.5 ELECTRICAL POWER DISTRIBUTION SYSTEMS
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 130.5(a) through 130.5(e).
+
+(a) Service electrical metering. Each electrical service or feeder shall have a permanently installed metering system which measures electrical energy use in accordance with Table 130.5-A.
+
+Exception 1 to Section 130.5(a): Service or feeder for which the utility company provides a metering system that indicates instantaneous kW demand and kWh for a utility-defined period.
+
+Exception 2 to Section 130.5(a): Electrical power distribution systems subject to California Electrical Code Article 517.
+
+(b) Separation of electrical circuits for electrical energy monitoring. Electrical power distribution systems shall be designed so that measurement devices can monitor the electrical energy usage of load types according to Table 130.5-B.
+
+Exception 1 to Section 130.5(b): For each separate load type, up to 10 percent of the connected load may be of any type.
+
+Exception 2 to Section 130.5(b): Electrical power distribution systems subject to California Electrical Code Article 517.
+
+(c) Voltage drop. The maximum combined voltage drop on both installed feeder conductors and branch circuit conductors to the farthest connected load or outlet shall not exceed 5 percent.
+
+Exception to Section 130.5(c): Voltage drop permitted by California Electrical Code Sections 647.4, 695.6 and 695.7.
+
+(d) Circuit controls for 120-volt receptacles and controlled receptacles. In all buildings, both controlled and uncontrolled 120 volt receptacles shall be provided in office areas, lobbies, conference rooms, kitchen areas in office spaces and copy rooms. Additionally, hotel/motel guest rooms shall comply with Section 130.5(d)4. Controlled receptacles shall meet the following requirements, as applicable:
+
+1. Install a control capable of automatically shutting OFF the controlled receptacles when the space is typically unoccupied, either at the receptacle or circuit level. When an automatic time switch control is installed it shall incorporate an override control that allows the controlled receptacle to remain ON for no more than 2 hours when an override is initiated and an automatic holiday “shut-OFF” feature that turns OFF all loads for at least 24 hours and then resumes the normally scheduled operation. Countdown timer switches shall not be used to comply with the automatic time switch control requirements; and
+
+2. Install at least one controlled receptacle within 6 feet from each uncontrolled receptacle or install a splitwired receptacle with at least one controlled and one uncontrolled receptacle. Where receptacles are installed in modular furniture in open office areas, at least one controlled receptacle shall be installed at each workstation; and
+
+3. Provide a permanent and durable marking for controlled receptacles or circuits to differentiate them from uncontrolled receptacles or circuits; and
+
+4. For hotel and motel guest rooms, install controlled receptacles for at least one-half of the 120-volt receptacles in each guestroom. Electric circuits serving controlled receptacles in guestrooms shall have captive card key controls, occupant sensing controls, or automatic controls so the power is switched OFF no longer than 30 minutes after the guestroom has been vacated.
+
+NOTE: A hardwired power strip controlled by an occupant sensing control may be used to comply with Section 130.5(d). Plug-in strips and other plug-in devices shall not be used to comply with the requirements of Section 130.5(d).
+NOTE: A hardwired power strip controlled by an occupant sensing control may be used to comply with Section 130.5(d). Plug-in strips and other plug-in devices shall not be used to comply with the requirements of Section 130.5(d).
+
+Exception 1 to Section 130.5(d): Receptacles that are only for the following purposes:
+
+i. Receptacles specifically for refrigerators and water dispensers in kitchen area.
+
+ii. Receptacles located a minimum of six feet above the floor that are specifically for clocks.
+
+iii. Receptacles for network copiers, fax machines, A/V and data equipment other than personal computers in copy rooms.
+
+iv. Receptacles on circuits rated more than 20 amperes.
+
+v. Receptacles connected to an uninterruptible power supply (UPS) that are intended to be in continuous use, 24 hours per day/365 days per year, and are marked to differentiate them from other uncontrolled receptacles or circuits.
+
+Exception 2 to Section 130.5(d): Receptacles in healthcare facilities.
+
+(e) Demand responsive controls and equipment. See Section 110.12 for requirements for demand responsive controls and equipment, including demand responsive controls for controlled receptacles.
+
+NOTE: Definitions of terms and phrases in Section 130.5 are determined as specified in Section 100.1(b). Terms and phrases not found in Section 100.1(b) shall be defined as specified in Title 24, Part 3, Article 100 of the California Electrical Code.
+NOTE: Definitions of terms and phrases in Section 130.5 are determined as specified in Section 100.1(b). Terms and phrases not found in Section 100.1(b) shall be defined as specified in Title 24, Part 3, Article 100 of the California Electrical Code.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 130.5-A
+
+MINIMUM REQUIREMENTS FOR METERING OF ELECTRICAL LOAD
+
+METERING FUNCTIONALITY	ELECTRICAL SERVICES RATED 50 kVA OR LESS	ELECTRICAL SERVICES RATED MORE THAN 50 kVA AND LESS THAN OR EQUAL TO 250 kVA	ELECTRICAL SERVICES RATED MORE THAN 250 kVA AND LESS THAN OR EQUAL TO 1000 kVA	ELECTRICAL SERVICES RATED MORE THAN 1000 kVA
+Instantaneous (at the time) kW demand	Required	Required	Required	Required
+Historical peak demand (kW)	Not required	Not required	Required	Required
+Tracking kWh for a user-definable period	Required	Required	Required	Required
+kWh per rate period	Not required	Not required	Not required	RequiredTABLE 130.5-B
+
+MINIMUM REQUIREMENTS FOR SEPARATION OF ELECTRICAL LOAD
+
+ELECTRICAL LOAD TYPE	ELECTRICAL SERVICES RATED 50 kVA OR LESS	ELECTRICAL SERVICES RATED MORE THAN 50 kVA AND LESS THAN OR EQUAL TO 250 kVA	ELECTRICAL SERVICES RATED MORE THAN 250 kVA AND LESS THAN OR EQUAL TO 1000 kVA	ELECTRICAL SERVICES RATED MORE THAN 1000 kVA
+Lighting including exit and egress lighting and exterior lighting	Not required	All lighting in aggregate	All lighting disaggregated by floor, type or area	All lighting disaggregated by floor, type or area
+HVAC systems and components including chillers, fans, heaters, furnaces, package units, cooling towers and circulation pumps associated with HVAC	Not required	All HVAC in aggregate	All HVAC in aggregate and each HVAC load rated at least 50 kVA	All HVAC in aggregate and each HVAC load rated at least 50 kVA
+Domestic and service water system pumps and related systems and components	Not required	All loads in aggregate	All loads in aggregate	All loads in aggregate
+Plug load including appliances rated less than 25 kVA	Not required	All plug load in aggregate Groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf	All plug load separated by floor, type or area Groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf	All plug load separated by floor, type or area All groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf
+Elevators, escalators, moving walks and transit systems	Not required	All loads in aggregate	All loads in aggregate	All loads in aggregate
+Other individual non-HVAC loads or appliances rated 25 kVA or greater	Not required	All loads in aggregate	All loads in aggregate	All loads in aggregate
+Industrial and commercial load centers 25 kVA or greater, including theatrical lighting installations and commercial kitchens	Not required	All loads in aggregate	All loads in aggregate	All loads in aggregate
+Renewable power source (net or total)	Each group	Each group	Each group	Each group
+Loads associated with renewable power source	Not required	All loads in aggregate	All loads in aggregate	All loads in aggregate
+Charging stations for electric vehicles	All loads in aggregate	All loads in aggregate	All loads in aggregate	All loads in aggregate

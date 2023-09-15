@@ -1,0 +1,2407 @@
+Chapter 4 Ventilation Air
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter asamended (amendedsections listed below)	X		X	X	X			X	X											X			
+Adopt only those sectionsthat are listed below										X	X	X	X	X	X								
+Chapter/Section																							
+401.0			X							X		X	X	X									
+401.1										X	X	X	X	X	X								
+401.2 with exception		X						X	X														
+401.2.1		X						X	X														
+402.0										X	X	X	X	X	X								
+402.1								X	X	X	X	X	X	X	X					X			
+402.1.2										X	X	X	X	X	X								
+402.2										†		†	†	†	†								
+402.3				X	X					†		†	†	†	†								
+403.0										X	X	X	X	X	X								
+403.7.2.1 — 403.7.2.4			X	X	X																		
+405.3				X	X																		
+406.0										X	X	X	X	X	X								
+407.0 and subsections										X	X	X	X	X	X								
+408.0 and subsections										X	X	X	X	X	X								
+409.0 and subsections										X	X	X	X	X	X								
+410.0 and subsections										X	X	X	X	X	X								
+411.0 and subsections										X		X	X	X	X								
+412.0 and subsections										X		X	X	X	X								
+413.0 and subsections										X		X	X	X	X								
+414.0 and subsections										X		X	X	X	X								
+415.0 and subsections										X		X	X	X	X								
+416.0 — 416.2										X		X	X	X	X								
+416.3														X									
+416.4										X		X	X	X	X								
+417.0										X		X	X	X	X								
+418.0 and subsections										X	X	X	X	X	X								
+419.0 and subsections										X													
+420.0										X		X	X	X	X								
+Table 4-A										X	X	X	X	X	X								
+Table 4-B										X	X		X	X									
+Table 4-C												X		X									
+Table 402.1	X							X	X														
+Table 403.7 Note 11 & 12				X	X																		
+
+401.2 with exception
+
+401.2.1
+
+403.7.2.1 — 403.7.2.4
+
+406.0
+
+407.0 and subsections
+
+408.0 and subsections
+
+409.0 and subsections
+
+410.0 and subsections
+
+411.0 and subsections
+
+412.0 and subsections
+
+413.0 and subsections
+
+414.0 and subsections
+
+415.0 and subsections
+
+416.0 — 416.2
+
+416.3
+
+416.4
+
+417.0
+
+418.0 and subsections
+
+419.0 and subsections
+
+420.0
+
+Note 11 & 12
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+401.0 General
+401.1 Applicability
+[OSHPD 1, 1R, 2, 3, 4 & 5] See Sections 404.0 through 418.0. [SFM] Air filters shall comply with all requirements of Part 12, Title 24, Chapter 12-71, SFM Standard 12-71-1.
+
+401.2 Filters
+Filters
+
+[BSC-CG], [DSA-SS & DSA-SS/CC] In mechanically ventilated buildings, provide regularly occupied areas of the building with air filtration media for outside and return air that provides at least a Minimum Efficiency Reporting Value (MERV) of 13. MERV 13 filters shall be installed prior to occupancy, and recommendations for maintenance with filters of the same value shall be included in the operation and maintenance manual in compliance with Chapter 5, Division 5.5. of the California Green Building Standards Code (CALGreen).
+
+Exception: Existing mechanical equipment.
+
+401.2.1 Labeling
+Labeling
+
+Installed filters shall be clearly
+labeled by the manufacturer indicating the MERV rating.
+
+402.0 Ventilation Air
+402.1 Occupiable Spaces
+OSHPD 1, 1R, 2, 3, 4 & 5]
+
+and Table 4-A
+
+[DSA-SS & DSA-SS/CC] Ventilation air requirements for occupancies regulated by the California Energy Commission are found in the California Energy Code.
+
+[CEC] Ventilation air requirements for occupancies regulated by the California Energy Commission and found in the California Energy Code supersede those of the California Mechanical Code.
+
+
+
+OCCUPANCY CATEGORY4	PEOPLE OUTDOOR Air Rate Rp (CFM/person)	AREA OUTDOOR Air Rate Ra (CFM/ft2)	DEFAULT OCCUPANT DENSITY3 (people/1000 ft2)	AIR CLASS
+CORRECTIONAL FACILITIES
+Booking/waiting	7.5	0.06	50	2
+Cell	5	0.12	25	2
+Day room	5	0.06	30	1
+Guard stations	5	0.06	15	1
+EDUCATIONAL FACILITIES
+Art classroom	10	0.18	20	2
+Classrooms (ages 5-8)	10	0.12	25	1
+Classrooms (age 9 plus)	10	0.12	35	1
+Computer lab	10	0.12	25	1
+Daycare (through age 4)	10	0.18	25	2
+Daycare sickroom	10	0.18	25	3
+Lecture classroomh	7.5	0.06	65	1
+Lecture hall (fixed seats)h	7.5	0.06	150	1
+Media centera	10	0.12	25	1
+Multi-use assemblyh	7.5	0.06	100	1
+Music/theater/danceh	10	0.06	35	1
+Science laboratories	10	0.18	25	2
+University/college laboratories	10	0.18	25	2
+Wood/metal shop	10	0.18	20	2
+FOOD AND BEVERAGE SERVICE
+Bars, cocktail lounges	7.5	0.18	100	2
+Cafeteria/fast food dining	7.5	0.18	100	2
+Kitchen (cooking)	7.5	0.12	20	2
+Restaurant dining rooms	7.5	0.18	70	2
+GENERAL
+Break roomsh	5	0.06	25	1
+Coffee stationsh	5	0.06	20	1
+Conference/meetingh	5	0.06	50	1
+Corridorsh	-	0.06	-	1
+Occupiable storage rooms for liquids or gelsb	5	0.12	2	2
+HOTELS, MOTELS, RESORTS, DORMITORIES
+Barracks sleeping areash	5	0.06	20	1
+Bedroom/living roomh	5	0.06	10	1
+Laundry rooms, central	5	0.12	10	2
+Laundry rooms within dwelling units	5	0.12	10	1
+Lobbies/pre-functionh	7.5	0.06	30	1
+Multipurpose assemblyh	5	0.06	120	1
+OFFICE BUILDINGS
+Break Rooms	5	0.12	50	1
+Main entry lobbiesh	5	0.06	10	1
+Occupiable storage rooms for dry materials	5	0.06	2	1
+Office spaceh	5	0.06	5	1
+Reception areash	5	0.06	30	1
+Telephone/data entryh	5	0.06	60	1
+MISCELLANEOUS SPACES
+Bank or bank lobbiesh	7.5	0.06	15	1
+Bank vaults/safe deposith	5	0.06	5	2
+Computer (not printing)h	5	0.06	4	1
+Freezer and refrigerated spaces (<50°F)e	10	-	-	2
+General manufacturing (excludes heavy industrial and processes using chemicals)	10	0.18	7	3
+Pharmacy (prep. area)	5	0.18	10	2
+Photo studios	5	0.12	10	1
+Shipping/receivingb	10	0.12	2	2
+Sorting, packing, light assembly	7.5	0.12	7	2
+Telephone closets	-	-	-	1
+Transportation waitingh	7.5	0.06	100	1
+Warehousesb	10	0.06	-	2
+PUBLIC ASSEMBLY SPACES
+Auditorium seating areah	5	0.06	150	1
+Courtroomsh	5	0.06	70	1
+Legislative chambersh	5	0.06	50	1
+Libraries	5	0.12	10	1
+Lobbiesh	5	0.06	150	1
+Museums (children's)	7.5	0.12	40	1
+Museums/galleriesh	7.5	0.06	40	1
+Places of religious worshiph	5	0.06	120	1
+RESIDENTIAL
+Common corridorsh	-	0.06	-	1
+Dwelling unitf, g, h	5	0.06	See footnotef	1
+RETAIL
+Sales (except as below)	7.5	0.12	15	2
+Barber shoph	7.5	0.06	25	2
+Beauty and nail salons	20	0.12	25	2
+Coin-operated laundries	7.5	0.12	20	2
+Mall common areash	7.5	0.06	40	1
+Pet shops (animal areas)	7.5	0.18	10	2
+Supermarketh	7.5	0.06	8	1
+SPORTS AND ENTERTAINMENT
+Bowling alley (seating)	10	0.12	40	1
+Disco/dance floorsh	20	0.06	100	2
+Gambling casinos	7.5	0.18	120	1
+Game arcades	7.5	0.18	20	1
+Gym, sports arena (play area)e	20	0.18	7	2
+Health club/aerobics room	20	0.06	40	2
+Health club/weight rooms	20	0.06	10	2
+Spectator areash	7.5	0.06	150	1
+Stages, studiosd, h	10	0.06	70	1
+Swimming (pool & deck)c	-	0.48	-	2
+
+Note: Ventilation air supply requirements for occupancies regulated by the California Energy Commission are found in the California Energy Code.
+
+Rp
+
+Ra
+
+402.1.1 Construction Documents
+402.1.2 Ventilation in Health Care Facilities
+OSHPD 1, 1R, 2, 3, 4 & 5
+
+2013, through Addendum ae. Ventilation rates for areas not specified in Table 4-A shall have minimum ventilation and air change rates per ANSI/ASHRAE Standard 62.1. Where areas with prescribed ventilation rates in both Standards 62.1 and Table 4-A exist, the higher of the two air change rates shall be used. All supply-air, return air, and exhaust-air systems shall comply with ASHRAE 170. The text of ASHRAE 170 shall be modified as follow
+
+ASHRAE 170. Section 6.1.2.1 -- Not adopted.
+
+ASHRAE 170. Section 6.3.2 -- Not adopted.
+
+ASHRAE 170. Table 6.4 -- Not adopted.
+
+ASHRAE 170. Section 6.4-6.4.4 -- Not adopted.
+
+ASHRAE 170. Section 6.9 -- Not adopted.
+
+ASHRAE 170. Section 7.1a -- Modify as follows:Replace reference to Table 7.1 with reference to Table 4-A.
+
+ASHRAE 170. Section 7.2.1a through e -- Not adopted.
+
+ASHRAE 170. Section 7.2.2 a through c, and e -- Not adopted.
+
+ASHRAE 170. Section 7.2.3 -- Not adopted.
+
+ASHRAE 170. Section 7.3.1 -- Modify as follows:Replace reference to Table 7.1 with reference to Table 4-A.
+
+ASHRAE 170. Section 7.4.1 -- Modify as follows:Delete the Exception that allows for high return grilles.
+
+FUNCTION OR SPACE	PRESSURE RELATIONSHIP TO ADJACENT AREAS (f) (n)	MINIMUM OUTDOOR ACH	MINIMUM TOTAL ACH	ALL ROOM AIR EXHAUSTED DIRECTLY TO OUTDOORS (j)	AIR RECIRCULATED BY MEANS OF ROOM UNITS (a)	DESIGN RELATIVE HUMIDITY(k), %	DESIGN TEMPERATURE (l),° F/°C
+Airborne infection isolation anteroom (u)	(e)	NR	10	Yes	No	NR	NR
+Airborne infection isolation room (u)	Negative	2	12	Yes	No	max 60	70-75/21-24
+Airborne infection isolation treatment/exam room	Negative	2	12	Yes	No	NR	NR
+Angiography room	Positive	3	15	NR	NR	max 60	70-75/21-24
+Bathing room	Negative	NR	10	Yes	No	NR	70-75/21-24
+Bathroom	Negative	NR	10	Yes	No	NR	72-78/22-26
+Bedpan room	Negative	NR	10	Yes	No	NR	NR
+Blood bank/tissue storage	NR	2	6	NR	NR	NR	NR
+Blood draw/phlebotomy	NR	2	6	NR	NR	NR	NR
+Bronchoscopy, sputum collection, and pentamidine administration (n)	Negative	2	12	Yes	No	NR	68-73/20-23
+Cardiac catheterization lab	Positive	3	15	NR	No	max 60	70-75/21-24
+Clean linen storage	Positive	NR	2	NR	NR	NR	72-78/22-26
+Clean workroom (central medical and surgical supply space)	Positive	2	4	NR	No	max 60	72-78/22-26
+Clean workroom or clean holding (support)	Positive	2	4	NR	NR	NR	NR
+Critical and intensive care	NR	2	6	NR	No	30-60	70-75/21-24
+CT Scan	NR	2	6	NR	NR	max 60	NR
+Darkroom (g)	Negative	2	10	Yes	No	NR	NR
+Delivery room (caesarean) (m), (n), (o)	Positive	4	20	NR	No	20-60	68-75/20-24
+Dialysis treatment area	NR	2	6	NR	NR	NR	72-78/22-26
+Dialyzer reprocessing room	Negative	NR	10	Yes	No	NR	NR
+Dietary storage	NR	NR	2	NR	No	NR	72-78/22-26
+Electroconvulsive therapy procedure room	P	3	15	NR	NR	NR	NR
+Emergency department exam/treatment room (p)	NR	2	6	NR	NR	max 60	70-75/21-24
+Endoscope cleaning	Negative	2	10	Yes	No	NR	NR
+ER decontamination	Negative	2	12	Yes	No	NR	NR
+ER waiting rooms	Negative	2	12	Yes (q)	NR	max 65	70-75/21-24
+Examination room	NR	2	6	NR	NR	max 60	70-75/21-24
+Fast track room	NR	2	6	NR	NR	NR	NR
+Fluoroscopy room	Negative	2	6	Yes	No	NR	NR
+Food preparation center (i)	NR	2	10	NR	No	NR	72-78/22-26
+Gastrointestinal endoscopy procedure room (x)	NR	2	6	NR	No	20-60	68-73/20-23
+Hazardous material storage	Negative	2	10	Yes	No	NR	NR
+Hydrotherapy	Negative	2	6	NR	NR	NR	72-80/22-27
+Infusion room	Positive	2	6	NR	NR	NR	NR
+Intermediate care (s)	NR	2	6	NR	NR	max 60	70-75/21-24
+Interventional imaging procedure room	Positive	5	15	NR	NR	NR	NR
+IV Prep. room	Positive	2	6	NR	NR	NR	NR
+Janitor's closet, housekeeping	Negative	NR	10	Yes	No	NR	NR
+Labor/delivery/recovery  (LDR) (s)	NR	2	6	NR	NR	max 60	70-75/21-24
+Labor/delivery/recovery/ postpartum (LDRP) (s)	NR	2	6	NR	NR	max 60	70-75/21-24
+Laboratory, bacteriology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, biochemistry (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, cytology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, general (v)	Negative	2	6	NR	NR	NR	70-75/21-24
+Laboratory, glasswashing	Negative	2	10	Yes	NR	NR	NR
+Laboratory, histology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, infectious disease and virus	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, media transfer (v)	Positive	2	4	NR	NR	NR	70-75/21-24
+Laboratory, microbiology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, nuclear medicine (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, pathology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, serology (v)	Negative	2	6	Yes	NR	NR	70-75/21-24
+Laboratory, sterilizing	Negative	2	10	Yes	NR	NR	70-75/21-24
+Lactation	NR	2	6	NR	NR	NR	NR
+Laser eye room	Positive	3	15	NR	No	20-60	70-75/21-24
+Laundry, general	Negative	2	10	Yes	No	NR	NR
+Linen and trash chute room	Negative	NR	10	Yes	No	NR	NR
+Medical/anesthesia gas storage (r)	Negative	NR	8	Yes	NR	NR	NR
+Medication room	NR	2	4	NR	NR	max 60	70-75/21-24
+Morgues and autopsy room (n)	Negative	2	12	Yes	No	NR	68-75/20-24
+MRI room	NR	2	6	NR	NR	NR	NR
+Negative-pressure x-ray room	Negative	2	12	Yes	No	max 60	72-78/22-26
+Newborn intensive care	Positive	2	6	NR	No	30-60	72-78/22-26
+Newborn intensive care formula room	P	2	10	NR	No	NR	NR
+Newborn/well baby nursery suite	NR	2	6	NR	No	30-60	72-78/22-26
+Nonrefrigerated body-holding room (h)	Negative	NR	10	Yes	No	NR	70-75/21-24
+Nourishment area or room	NR	NR	2	NR	NR	NR	NR
+Nuclear medicine (Gamma, PET, SPECT)	Negative	2	6	Yes	No	NR	NR
+Nuclear medicine hot lab	Negative	NR	6	Yes	No	NR	70-75/21-24
+Nuclear medicine treatment room	Negative	2	6	Yes	NR	NR	70-75/21-24
+Nurse station (aa)	(aa)	(aa)	2	(aa)	(aa)	(aa)	(aa)
+Observation	NR	2	6	NR	NR	NR	70-75/21-24
+Occupational therapy	NR	2	6	NR	NR	NR	70-75/21-24
+Operating room, hybrid operating room (m), (n), (o)	Positive	4	20	NR	No	20-60	68-75/20-24
+Operating/surgical cystoscopic room (m), (n), (o)	Positive	4	20	NR	No	20-60	68-75/20-24
+Patient corridor	NR	NR	2	NR	NR	NR	NR
+Patient holding preparation	NR	2	6	NR	No	NR	NR
+Patient room	NR	2	4 (y)	NR	NR	max 60	70-75/21-24
+Pediatric play area	NR	2	6	NR	NR	NR	NR
+Pharmacy (b)	Positive	2	4	NR	NR	NR	NR
+Drug room	NR	2	4	NR	NR	NR	NR
+HD ante room (b)	Positive	NR	NR	NR	NR	<60	≤68/≤20
+HD buffer room (b)	Negative	NR	30	Yes	No	<60	≤68/≤20
+HD segregated compounding area (ab)	Negative	NR	12	Yes	NR	NR	NR
+HD storage (b)	Negative	NR	12	Yes	NR	NR	NR
+Non-HD ante room (b)	Positive	NR	30	NR	NR	<60	≤68/≤20
+Non-HD buffer room (b)	Positive	NR	30	NR	No	<60	≤68/≤20
+Non-HD segregated compounding area	NR	NR	NR	NR	NR	NR	NR
+Physical therapy (nursing facility)	Negative	2	6	NR	NR	NR	70-75/21-24
+Physical therapy (diagnostic and treatment)	Negative	2	6	NR	NR	max 65	72-80/22-27
+Post-anesthesia care unit	NR	2	6	Yes	No	20-60	70-75/21-24
+Pre-screening area	Negative	2	12	Yes (q)	NR	NR	NR
+Procedure room (o), (d)	Positive	3	15	NR	No	20-60	70-75/21-24
+Protective environment anteroom (t)	(e)	NR	10	NR	No	NR	NR
+Protective environment room (t)	Positive	2	12	NR	No	max 60	70-75/21-24
+Radiology waiting rooms	Negative	2	12	Yes (q), (w)	NR	max 60	70-75/21-24
+Recovery room	NR	2	6	NR	No	20-60	70-75/21-24
+Recreation/activity room	NR	2	6	NR	NR	NR	NR
+Resident gathering/activity/dining (nursing facility)	NR	4	4	NR	NR	NR	70-75/21-24
+Resident room (nursing facility)	NR	2	2	NR	NR	NR	70-75/21-24
+Resident unit corridor (nursing facility)	NR	NR	4	NR	NR	NR	NR
+Seclusion room	NR	2	6	NR	NR	NR	NR
+Semi-restricted corridor	NR	2	4	NR	NR	NR	NR
+Shower room	Negative	NR	10	Yes	No	NR	NR
+Soiled linen sorting and storage	Negative	NR	10	Yes	No	NR	NR
+Soiled or decontamination room	Negative	2	6	Yes	No	NR	72-78/22-26
+Soiled workroom or soiled holding, utility room	Negative	2	10	Yes	No	NR	NR
+Special purpose room (SNF & ICF only)	NR	2	6	Yes	NR	NR	NR
+Speech therapy/audiology room	NR	2	6	NR	NR	NR	NR
+Sterile storage	Positive	2	4	NR	NR	max 60	72-78/22-26
+Sterilizer equipment room	Negative	NR	10	Yes	No	NR	NR
+Substerile service area	NR	2	6	NR	No	NR	NR
+Toilet room	Negative	NR	10	Yes	No	NR	NR
+Trauma/cardiac room (crisis or shock) (c)	Positive	3	15	NR	No	20-60	70-75/21-24
+Treatment room (surgery and critical care) (p)	NR	2	6	NR	NR	20-60	70-75/21-24
+Treatment room (diagnosticand treatment) (x)	NR	2	6	NR	NR	max 60	70-75/21-24
+Triage	Negative	2	12	Yes (q)	NR	max 60	70-75/21-24
+Ultrasound room	NR	2	6	NR	NR	NR	NR
+Unsterile supply	NR	2	2	NR	NR	NR	NR
+Waiting area (nuclear medicine)	Negative	2	12	Yes	No	NR	NR
+Waiting area primary care clinic	Negative	2	10	Yes(q)	NR	NR	NR
+Warewashing	Negative	NR	10	Yes	No	NR	NR
+Wound intensive care (burn unit)	NR	2	6	NR	No	40-60	70-75/21-24
+X-ray (diagnostic and treatment)	NR	2	6	NR	NR	max 60	72-78/22-26
+X-ray (surgery/critical care and catheterization)	Positive	3	15	NR	No	max 60	70-75/21-24
+
+TABLE 4-A
+
+PRESSURE RELATIONSHIP AND VENTILATION REQUIREMENTS FOR GENERAL ACUTE CARE HOSPITALS, SKILLED NURSING FACILITIES, INTERMEDIATE CARE FACILITIES, CORRECTIONAL TREATMENT CENTERS, OUTPATIENT FACILITIES, AND LICENSED CLINICS
+
+max 60
+
+Airborne infection isolation treatment/exam room
+
+Negative
+
+2
+
+12
+
+Yes
+
+No
+
+NR
+
+NR
+
+Angiography room
+
+Positive
+
+3
+
+15
+
+NR
+
+NR
+
+max 60
+
+70-75/21-24
+
+Blood bank/tissue storage
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Blood draw/phlebotomy
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Cardiac catheterization lab
+
+Positive
+
+3
+
+15
+
+NR
+
+No
+
+max 60
+
+70-75/21-24
+
+CT Scan
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+max 60
+
+NR
+
+Electroconvulsive therapy procedure room
+
+P
+
+3
+
+15
+
+NR
+
+NR
+
+NR
+
+NR
+
+Fast track room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Fluoroscopy room
+
+Negative
+
+2
+
+6
+
+Yes
+
+No
+
+NR
+
+NR
+
+Infusion room
+
+Positive
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Interventional imaging procedure room
+
+Positive
+
+5
+
+15
+
+NR
+
+NR
+
+NR
+
+NR
+
+IV Prep. room
+
+Positive
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+housekeeping
+
+Lactation
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Morgues and
+
+MRI room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Negative-pressure x-ray room
+
+Negative
+
+2
+
+12
+
+Yes
+
+No
+
+max 60
+
+72-78/22-26
+
+Newborn intensive care formula room
+
+P
+
+2
+
+10
+
+NR
+
+No
+
+NR
+
+NR
+
+well baby
+
+Nuclear medicine (Gamma, PET, SPECT)
+
+Negative
+
+2
+
+6
+
+Yes
+
+No
+
+NR
+
+NR
+
+Nurse station (aa)
+
+(aa)
+
+(aa)
+
+2
+
+(aa)
+
+(aa)
+
+(aa)
+
+(aa)
+
+Observation
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+70-75/21-24
+
+hybrid operating room
+
+Patient holding preparation
+
+NR
+
+2
+
+6
+
+NR
+
+No
+
+NR
+
+NR
+
+Pediatric play area
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Drug room
+
+NR
+
+2
+
+4
+
+NR
+
+NR
+
+NR
+
+NR
+
+HD ante room (b)
+
+Positive
+
+NR
+
+NR
+
+NR
+
+NR
+
+<60
+
+≤68/≤20
+
+HD buffer room (b)
+
+Negative
+
+NR
+
+30
+
+Yes
+
+No
+
+<60
+
+≤68/≤20
+
+HD segregated compounding area (ab)
+
+Negative
+
+NR
+
+12
+
+Yes
+
+NR
+
+NR
+
+NR
+
+HD storage (b)
+
+Negative
+
+NR
+
+12
+
+Yes
+
+NR
+
+NR
+
+NR
+
+Non-HD ante room (b)
+
+Positive
+
+NR
+
+30
+
+NR
+
+NR
+
+<60
+
+≤68/≤20
+
+Non-HD buffer room (b)
+
+Positive
+
+NR
+
+30
+
+NR
+
+No
+
+<60
+
+≤68/≤20
+
+Non-HD segregated compounding area
+
+NR
+
+NR
+
+NR
+
+NR
+
+NR
+
+NR
+
+NR
+
+Post-anesthesia care unit
+
+NR
+
+2
+
+6
+
+Yes
+
+No
+
+20-60
+
+70-75/21-24
+
+Pre-screening area
+
+Negative
+
+2
+
+12
+
+Yes (q)
+
+NR
+
+NR
+
+NR
+
+Recreation/activity room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Seclusion room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Semi-restricted corridor
+
+NR
+
+2
+
+4
+
+NR
+
+NR
+
+NR
+
+NR
+
+Shower room
+
+Negative
+
+NR
+
+10
+
+Yes
+
+No
+
+NR
+
+NR
+
+utility room
+
+Special purpose room (SNF & ICF only)
+
+NR
+
+2
+
+6
+
+Yes
+
+NR
+
+NR
+
+NR
+
+Speech therapy/audiology room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+cardiac
+
+Ultrasound room
+
+NR
+
+2
+
+6
+
+NR
+
+NR
+
+NR
+
+NR
+
+Unsterile supply
+
+NR
+
+2
+
+2
+
+NR
+
+NR
+
+NR
+
+NR
+
+Waiting area (nuclear medicine)
+
+Negative
+
+2
+
+12
+
+Yes
+
+No
+
+NR
+
+NR
+
+Waiting area primary care clinic
+
+Negative
+
+2
+
+10
+
+Yes(q)
+
+NR
+
+NR
+
+NR
+
+Note
+
+Notes for Table 4-A:
+
+407.4.1.7
+
+trauma room
+
+For operating rooms, cardiac catheterization labs, angiography rooms, cystoscopy rooms, delivery rooms, cesarean operating rooms, newborn intensive care, and nurseries provide approximately 15% excess supply air to the room or a sufficient quantity of excess supply air to maintain an appropriate positive air balance based on the room tightness and number of doors. For all rooms not listed in this footnote or not listed in Section 322.0 requiring either a positive or negative air balance, provide approximately 10% differential cfm between supply and return/exhaust airflow but not less than 25 cfm differential shall be provided regardless of room size. Room function, size, and tightness may be considered when determining the differential airflow required. Where continuous directional control is not required, variations between supply cfm and return or exhaust cfm shall be minimized in accordance with Section 407.4.1.3.
+
+The anteroom shall have negative air pressure in relation to the protective environment room. A door louver, transfer grille, or other acceptable means may be provided to allow for airflow from the protective environment room to the anteroom. The protective environment room shall have positive-pressure in relation to the anteroom and adjoining toilet room.
+
+The airborne infection isolation room shall have negative pressure in relation to the anteroom, and the adjoining toilet room shall have negative pressure in relation to the airborne infection isolation room.
+
+This
+
+is based on Table 7.1 in ASHRAE 170, "Ventilation of Healthcare Facilities", and is used with expressed written permission from
+
+Nurse station pressure relationship and ventilation requirements shall match the area in which it is located.
+
+402.2 Natural Ventilation
+Not permitted for OSHPD 1, 2, 3, 4 & 5
+
+402.2.1 Floor Area to Be Ventilated
+402.2.1.1 Single Side Opening
+H
+
+H
+
+402.2.1.2 Double Side Opening
+H
+
+H
+
+402.2.1.3 Corner Openings
+H
+
+402.2.1.4 Ceiling Height
+H
+
+402.2.2 Location and Size of Openings
+402.2.3 Control and Accessibility
+402.3 Mechanical Ventilation
+Not permitted for OSHPD 1, 2, 3, 4 & 5
+
+California Building Standards Code
+
+402.4 Outdoor Air Intake Protection
+402.4.1 Weather Protections
+403.0 Ventilation Rates
+[Not permitted for OSHPD 1,
+2, 3, 4 & 5 spaces listed in Table 4-A]
+
+403.1 General
+403.2 Zone Calculations
+403.2.1 Breathing Zone Outdoor Airflow
+Vbz
+
+Vbz
+
+Rp•Pz
+
+Rα•Az
+
+Az	=	zone floor area, the net occupiable floor area of the ventilation zone, square feet (m2).
+Pz	=	zone population, the number of people in the ventilation zone during typical usage.
+Rp	=	outdoor airflow rate required per person as determined from Table 402.1.
+Rα	=	outdoor airflow rate required per unit area as determined from Table 402.1. [ASHRAE 62.1:6.2.2.1]
+
+Az
+
+Pz
+
+Rp
+
+Rα
+
+403.2.3 Zone Outdoor Airflow
+Voz
+
+Voz
+
+Vbz/Ez
+
+403.2.2 Zone Air Distribution Effectiveness
+Ez
+
+AIR DISTRIBUTION CONFIGURATION	Ez
+Ceiling supply of cool air.	1.0
+Ceiling supply of warm air and floor return.	1.0
+Ceiling supply of warm air 15°F or more above space temperature and ceiling return	0.8
+Ceiling supply of warm air less than 15° F above space temperature and ceiling return provided that the 150 feet per minute (fpm) supply air jet reaches to within 4.5 feet of floor level.	1.06
+Floor supply of cool air and ceiling return provided that the vertical throw is more than 50 fpm at a height of 4.5 feet or more above the floor.	1.0
+Floor supply of cool air and ceiling return, provided low-velocity displacement ventilation achieves unidirectional flow and thermal stratification, or underfloor air distribution systems where the vertical throw is 50 fpm or less at a height of 4.5 feet above the floor.	1.2
+Floor supply of warm air and floor return.	1.0
+Floor supply of warm air and ceiling return.	0.7
+Makeup supply drawn in on the opposite side of the room from the exhaust, return, or both.	0.8
+Makeup supply drawn in near to the exhaust, return, or both locations.	0.5
+
+Ez
+
+Ez
+
+Ez
+
+403.3 Single-Zone Systems
+Vot
+
+Vot
+
+Voz
+
+403.4 One Hundred Percent Outdoor Air Systems
+Vot
+
+Vot
+
+all zones
+
+Voz
+
+403.5 Multiple-Zone Recirculating Systems
+Vot
+
+403.5.1 Uncorrected Outdoor Air Intake
+Vou
+
+Vou
+
+D
+
+all zones
+
+Rp•Pz
+
+all zones
+
+Ra•Az
+
+403.5.1.1 Occupant Diversity
+D
+
+D = Ps/
+
+all zones Pz
+
+Ps
+
+Vou
+
+403.5.1.2 System Ventilation Efficiency
+Ev
+
+403.5.1.3 Simplified Procedure for System Ventilation Efficiency
+Ev
+
+Ev
+
+D
+
+D
+
+Ev
+
+D
+
+403.5.1.4 Zone Minimum Primary Airflow
+Vpz-min
+
+Vpz-min= Voz•
+
+403.5.2 Outdoor Air Intake
+Vot
+
+Vot
+
+Vou
+
+Ev
+
+403.6 Design for Varying Operating Conditions
+403.6.1 Short-Term Conditions
+T
+
+T
+
+Vbz
+
+T	=	averaging time period, minutes.
+ν	=	the volume of the ventilation zone where averaging is being applied, cubic foot (m3).
+Vbz	=	the breathing zone outdoor airflow calculated in accordance with Equation 403.2.1 and design value of the zone population (Pz), cubic foot per minute (CFM) (m3/min).
+
+T
+
+ν
+
+Vbz
+
+Pz
+
+Pz
+
+T
+
+T
+
+Vbz
+
+T
+
+Vot
+
+403.7 Exhaust Ventilation
+OCCUPANCY CATEGORY8	EXHAUST RATE (CFM/unit)	EXHAUST RATE (CFM/ft2)	AIR CLASS
+Arenas2	-	0.50	1
+Art classrooms	-	0.70	2
+Auto repair rooms1	-	1.50	2
+Barber shops	-	0.50	2
+Bathroom11,12	20/50	-	2
+Beauty and nail salons	-	0.60	2
+Cells with toilet	-	1.00	2
+Copy, printing rooms	-	0.50	2
+Darkrooms	-	1.00	2
+Educational science laboratories	-	1.00	2
+Janitor closets, trash rooms, recycling	-	1.00	3
+Kitchens — commercial	-	0.70	2
+Kitchenettes	-	0.30	2
+Locker rooms for athletic, industrial and health care facilities	-	0.50	2
+Other locker rooms	-	0.25	2
+Shower rooms7,10	20/50	-	2
+Paint spray booths	-	-	4
+Parking garages3	-	0.75	2
+Pet shops (animal areas)	-	0.90	2
+Refrigerating machinery rooms6	-	-	3
+Residential — kitchens7	50/100	-	2
+Soiled laundry storage rooms	-	1.00	3
+Storage rooms, chemical	-	1.50	4
+Toilets — private5, 9	25/50	-	2
+Toilets — public4, 9	50/70	-	2
+Woodwork shop/classrooms	-	0.50	2
+
+Bathroom11,12
+
+20/50
+
+2
+
+11
+
+[HCD 1 & HCD 2] A bathroom is any room containing a bathtub, a shower, a spa, or a similar source of moisture.
+
+12
+
+[HCD 1 & HCD 2] ANSI/ASHRAE 62.2: Tables 5.1 and 5.2.
+
+403.7.1 Parking Garages
+403.7.2 Enclosed Parking Garages
+403.7.2.1 Alternative Exhaust Ventilation for Enclosed Parking Garages
+Alternative Exhaust Ventilation for Enclosed Parking Garages
+
+403.7.2.2 Minimum Exhaust Rate
+Minimum Exhaust Rate
+
+[HCD 1 & 2] In lieu of the exhaust rates in Table 403.7, ventilation
+systems shall be capable of providing 14,000
+cfm (6608 L/s) of exhaust air for each operating
+vehicle. Number of operating vehicles shall be determined
+based on 2.5 percent of all parking spaces
+(and not less than one vehicle).
+
+403.7.2.3 Exhaust Inlet Distribution
+Exhaust Inlet Distribution
+
+[HCD 1 & 2] To ensure proper exhaust of contaminated air and fumes from parking garages, exhaust systems utilizing multiple exhaust inlets shall be designed so that exhaust inlets are distributed in such a manner that no portion of the parking garage is more than 50 feet (15 240 mm) from an exhaust inlet. Such exhaust inlets shall be installed so that the highest elevation of the exhaust inlet is no greater than 12 inches (305 mm) below the lowest ceiling level.
+
+Exception: Garage exhaust systems designed without distributed exhaust inlets may have their exhaust inlets designed based on the principles of engineering and mechanics and shall provide the minimum required exhaust rate in Table 403.7.
+
+403.7.2.4 Exhaust System Operation
+Exhaust System Operation
+
+[HCD 1 & 2] Exhaust systems shall operate continuously
+unless one of the exceptions to continuous operation of Section 403.7.2 is utilized.
+
+403.8 Dynamic Reset
+Vot
+
+Voz
+
+403.9 Air Classification and Recirculation
+403.9.1 Class 1 Air
+403.9.2 Class 2 Air
+403.9.3 Class 3 Air
+403.9.4 Class 4 Air
+404.0 Alternative Procedure for Multiple-Zone Systems Ventilation Efficiency
+404.1 General
+Ev
+
+Ev
+
+Evz
+
+404.2 Average Outdoor Air Fraction
+Xs
+
+Xs
+
+Vou
+
+Vps
+
+Vou
+
+Vps
+
+404.3 Zone Ventilation Efficiency
+Evz
+
+404.3.1 Single Supply Systems
+Evz
+
+Evz
+
+Xs-Zpz
+
+Xs
+
+Zpz
+
+Zpz = Voz/Vpz
+
+Vpz
+
+404.3.2 Secondary-Recirculation Systems
+Evz
+
+Evz
+
+Fα
+
+Xs•Fb
+
+Zpz•Ep•Fc
+
+Fα
+
+Fa, Fb,
+
+Fc
+
+Ep
+
+Ep
+
+Er
+
+Ez
+
+Fα
+
+Ep
+
+Ep
+
+Er
+
+Fb
+
+Ep
+
+Fc
+
+Ez
+
+Er
+
+Ep
+
+Ep
+
+Vpz
+
+Vdz
+
+Ep	=	Primary air fraction: The fraction of primary air in the discharge air to the ventilation zone.
+Er	=	Secondary recirculation fraction: In systems with secondary recirculation of return air, the fraction of secondary recirculated air to the zone that is representative of average system return air rather than air directly recirculated from the zone.
+Ev	=	System ventilation efficiency: the efficiency with which the system distributes air from the outdoor air intake to the breathing zone in the ventilationcritical zone, which requires the largest fraction of outdoor air in the primary airstream.
+Evz	=	Zone ventilation efficiency: The efficiency with which the system distributes air from the outdoor air intake to the breathing zone in any particular ventilation zone.
+Ez	=	Zone air distribution effectiveness: A measure of the effectiveness of supply air distribution to the breathing zone. Ez is determined in accordance with Section 403.2.2.
+Fa	=	Supply air fraction: The fraction of supply air to the ventilation zone from sources or air outside the zone.
+Fb	=	Mixed air fraction: The fraction of supply air to the ventilation zone from fully mixed primary air.
+Fc	=	Outdoor air fraction: The fraction of outdoor air to the ventilation zone from sources of air outside the zone.
+Vdz	=	Zone discharge airflow: The expected discharge (supply) airflow to the zone that includes primary airflow and secondary recirculated airflow, CFM (m3/min),
+Vpz	=	Zone primary airflow: The zone primary airflow to the ventilation zone, including outdoor air and recirculated air.
+Xs	=	Average outdoor air fraction: At the primary air handler, the fraction of outdoor air intake flow in the system primary airflow.
+Zpz	=	Primary outdoor air fraction: The outdoor air fraction required in the primary air supplied to the ventilation zone prior to the introduction of secondary recirculation air. [ASHRAE 62.1:A3]
+
+Ep
+
+Er
+
+Ev
+
+Evz
+
+Ez
+
+Ez
+
+Fa
+
+Fb
+
+Fc
+
+Vdz
+
+Vpz
+
+Xs
+
+Zpz
+
+405.0 Indoor Air Quality for Residential Occupancies
+405.1 General
+405.1.1 Natural Ventilation
+405.2 Ventilation Air Rate
+Qtot
+
+Qtot
+
+Qtot
+
+Qtot
+
+Afloor
+
+Nbr
+
+Qtot	=	Total required ventilation outdoor air rate, CFM
+Afloor	=	Floor area, ft2
+Nbr	=	Number of bedrooms more than 1
+
+Qtot
+
+=
+
+Afloor
+
+=
+
+Nbr
+
+=
+
+405.2.1 Reduced Ventilation Air Rate
+405.3 Bathroom Exhaust
+[HCD 1 & HCD 2] Each bathroom shall also be
+mechanically ventilated in accordance with Division 4.5 of
+the California Green Building Standards Code (CALGreen).
+
+405.3.1 Exhaust Rate
+405.4 Kitchen Exhaust
+405.4.1 Exhaust Rate
+405.5 Ventilation Openings
+406.0 Evaporative Cooling System for Health Care Facilities
+Evaporative Cooling System for Health Care Facilities
+
+[For OSHPD 1, 1R, 2, 3, 4 & 5] Direct evaporative cooling systems where the air directly contacts the wetted
+surface or spray Shall be limited in health facilities to nonpatient
+areas such as laundry rooms, food preparation areas, and boiler
+or machinery rooms. Similar rooms with high heating-producing equipment will be considered when specifically approved
+by the enforcing agency. The evaporative pads shall be a synthetic type. Filters shall be required in accordance with Tables
+4-B and 4-C except utility rooms, i.e.: boiler or machinery
+rooms.
+
+407.0 Ventilation System Details
+Ventilation System Details
+
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+407.1 General
+General
+
+407.1.1
+All supply-air, return air, and exhaust-air systems shall be mechanically operated and such systems for areas listed in Table 4-A shall be operated continuously. Natural ventilation through windows or other openings such as louvers will be considered as supplemental to the required mechanical ventilation systems.
+
+Exceptions:
+
+Natural ventilation shall not be used in airborne infection isolation rooms and protective environment rooms.
+
+The number of air changes may be reduced to 25 percent of the indicated value in Table 4-A, when the room is unoccupied, if provisions are made to ensure the following:
+
+The number of air changes per hour indicated is reestablished whenever the space is occupied.
+
+The pressure relationship with the surrounding rooms is maintained when the air changes per hour are reduced. In areas requiring no continuous directional control as identified in accordance with Table 4-A, ventilation systems may be shut down when the space is unoccupied and ventilation is not otherwise required. Ventilation shall not be reduced in rooms specifically used for airborne infection control, such as waiting rooms, triage rooms, corridors, reception areas, areas adjacent to waiting areas, airborne infection isolation rooms, negative pressure exam room, negative pressure x-ray treatment rooms, and protective environment rooms. All operating and delivery rooms shall maintain a minimum of six air changes per hour of total air when not in use.
+
+407.1.2
+Fans serving exhaust systems shall be located at
+the discharge end of the system. The ventilation rates
+shown in Table 4-A shall be considered as minimum
+acceptable rates and shall not be construed as precluding
+the use of higher ventilation rates if they are required to meet design conditions.
+
+407.1.3 Services/Systems and Utilities
+Services/Systems and Utilities
+
+(Refer to Section
+1224.4.1 of the California Building Code).
+
+407.2 Outdoor Air Intakes and Exhaust Outlets
+Outdoor Air Intakes and Exhaust Outlets
+
+407.2.1 Outdoor Air Intakes
+Outdoor Air Intakes
+
+Outdoor air intakes shall be located at least 25 feet (7.62 m) from exhaust outlets of ventilating systems, combustion equipment stacks, medical-surgical vacuum systems, cooling towers, and areas that may collect vehicular exhaust or other noxious fumes. Plumbing vents shall be located in relation to outdoor air intakes per California Plumbing Code. The bottom of outdoor air intakes shall be located as high as practicable, but not less than 10 feet (3048 mm) above ground level. If installed above the roof, they shall be located 18 inches (457 mm) above roof level or 3 feet (914 mm) above a flat roof where heavy snowfall is anticipated.
+
+Exceptions:
+
+These dimensions may be reduced if it is demonstrated by the submission of details and calculations that location of intakes with respect to exhausts and their orientation, or the use of special filters, provides equal performance.
+
+The requirements regarding the bottom of outdoor air intakes and installation through the roof do not apply to skilled nursing facilities, intermediate-care facilities or nonsensitive areas in correctional treatment centers.
+
+407.2.2 Exhaust Outlets
+Exhaust Outlets
+
+Exhaust outlets shall be
+located a minimum of 10 feet (3048 mm) above adjoining grade and 10 feet (3048 mm) from doors, occupied areas,
+and operable windows.
+
+Exception: Airborne infection isolation rooms shall
+comply with Section 414.1.
+
+407.3 Air Balance
+Air Balance
+
+407.3.1
+The ventilation systems shall be designed and
+balanced to provide the general air balance relationship
+to adjacent areas, shown in Table 4-A. The ventilation
+systems shall be balanced in accordance with the latest
+edition of standards published by the Associated Air Balance
+Council (AABC), the National Environmental Balancing
+Bureau (NEBB), or the Testing, Adjusting and
+Balancing Bureau (TABB).
+
+407.4 Air Circulation
+Air Circulation
+
+407.4.1
+Design of the ventilation system shall provide air
+movement that is generally from clean to less clean areas.
+
+407.4.1.1
+Air supplied to operating rooms, cesarean
+operating rooms, cardiac catheterization labs, cystoscopy
+rooms, delivery rooms, and nurseries shall
+be delivered at or near the ceiling of the area served.
+In these areas and in morgues and autopsy rooms all
+air removed from the area shall be removed near
+floor level. Exhaust or recirculation inlets shall be
+located not less than 3 inches (76 mm) nor more than
+8 inches (203 mm) above the finished floor, except in
+morgues and autopsy rooms where all of the exhaust
+air is removed through an autopsy table designed for
+this purpose. At least two exhaust or recirculation air
+inlets of equal capacity shall be used in all cardiac
+catheterization labs, cystoscopy rooms, operating
+rooms, and delivery rooms and shall be located not
+less than 3 inches (76 mm) nor more than 8 inches
+(203 mm) above the finished floor.
+
+Exception: For airborne infection isolation rooms
+and protective environment rooms, see Sections
+414.0 and 415.0.
+
+407.4.1.2
+Room supply air outlets and room recirculation
+and exhaust air inlets installed in nonsensitive
+areas shall be located not less than 3 inches (76
+mm) above the floor.
+
+Exception: For airborne infection isolation rooms
+and protective environment rooms, see Sections
+414.0 and 415.0.
+
+407.4.1.3
+Corridors shall not be used to convey supply,
+return, transfer or exhaust air to or from any
+room if the corridor is required to be fire resistive
+construction per the California Building Code.
+
+Exceptions:
+
+Mechanically exhausted toilet rooms of 50
+square feet (4.7 m2) or less and small rooms of
+30 square feet (2.79 m2) or less such as janitor
+closets, housekeeping rooms, and electrical or
+telephone closets opening directly onto corridor.
+
+Air transfer caused by pressure differentials in
+rooms required to have a positive or negative
+air balance by Table 4-A.
+
+407.4.1.4
+No space above a ceiling may be utilized
+as an outside-air, relief-air, supply-air, exhaust-air,
+or return-air plenum.
+
+Exception: Designs specifically approved by the
+enforcing agency.
+
+407.4.1.5
+Air from a patient room, exam room, treatment room shall not be transferred to another similar room without first having passed through air filters as required by Table 4-B or Table 4-C.
+
+AREA DESIGNATION	MINIMUM NUMBER OF FILTER BANKS	FILTER EFFICIENCY % FILTER BANK
+(MINIMUM EFFICIENCY REPORTING VALUE MERV)5
+NO. 11	NO. 21	NO. 31
+Orthopedic operating room, bone marrow transplant operating room, organ transplant operating room, NICU formula preparation room, NICU treatment area/room	3	30%	90%	99.97%3
+(8)	(14)	(17)
+Protective environment rooms	3	30%	90%	99.97%4
+(8)	(14)	(17)
+Angiography; cardiac catheterization labs; operatingrooms; interventional imaging procedurerooms; delivery rooms nurseries; patient care, treatment, cystoscopy, cesarean operating room, diagnostic,and related areas; airborne infectionisolation rooms; areas providing direct patient service or clean supplies such as sterile and cleanprocesses, and patient area corridors	2	30%	90%	—
+(8)	(14)	—
+Laboratories	2	30%	80%	—
+(8)	(13)	—
+Administrative, med staff support areas, bulk storage,soiled holding areas, food preparation areas, public cafeterias, and laundries	1	30%	—	—
+(8)	—	—
+Psychiatric hospitals intended for the care andtreatment of inpatients who do not require acute medical services	1	30%	—	—
+(8)	—	—
+
+TABLE 4-B
+
+FILTER EFFICIENCIES FOR CENTRAL VENTILATION AND AIR-CONDITIONING SYSTEMS IN GENERAL ACUTE CARE HOSPITALS, ACUTE PSYCHIATRIC HOSPITALS, OUTPATIENT FACILITIES, AND LICENSED CLINICS1
+
+AREA DESIGNATION
+
+MINIMUM NUMBER OF FILTER BANKS
+
+FILTER EFFICIENCY % FILTER BANK
+
+(MINIMUM EFFICIENCY REPORTING VALUE MERV)5
+
+NO. 11
+
+NO. 21
+
+NO. 31
+
+Orthopedic operating room, bone marrow transplant operating room, organ transplant operating room, NICU formula preparation room, NICU treatment area/room
+
+3
+
+30%
+
+90%
+
+99.97%3
+
+(8)
+
+(14)
+
+(17)
+
+Protective environment rooms
+
+3
+
+30%
+
+90%
+
+99.97%4
+
+(8)
+
+(14)
+
+(17)
+
+Angiography; cardiac catheterization labs; operating
+
+rooms; interventional imaging procedure
+
+rooms; delivery rooms nurseries; patient care, treatment, cystoscopy, cesarean operating room, diagnostic,
+
+and related areas; airborne infection
+
+isolation rooms; areas providing direct patient service or clean supplies such as sterile and clean
+
+processes, and patient area corridors
+
+2
+
+30%
+
+90%
+
+—
+
+(8)
+
+(14)
+
+—
+
+Laboratories
+
+2
+
+30%
+
+80%
+
+—
+
+(8)
+
+(13)
+
+—
+
+Administrative, med staff support areas, bulk storage,
+
+soiled holding areas, food preparation areas, public cafeterias, and laundries
+
+1
+
+30%
+
+—
+
+—
+
+(8)
+
+—
+
+—
+
+Psychiatric hospitals intended for the care and
+
+treatment of inpatients who do not require acute medical services
+
+1
+
+30%
+
+—
+
+—
+
+(8)
+
+—
+
+—
+
+1 Based on ASHRAE 52.2.
+
+2 Based on DOP test in accordance with MIL-STD-282 or based on ASHRAE 52.2.
+
+3 HEPA filters at air outlet or other locations when approved by the Authority Having Jurisdiction.
+
+4 HEPA filter located in the supply duct which serves the positive-pressure isolation room or rooms may serve more than one supply outlet and more than one positive-pressure isolation room. HEPA filter or a filter with minimum efficiency reporting value (MERV) of 17 installation shall be designed and equipped to permit safe removal, disposal and replacement of filters.
+
+5 The numbers in parentheses represent MERV rating based on ASHRAE 52.2.
+
+AREA DESIGNATION	MINIMUM NUMBER OF FILTER BANKS	FILTER EFFICIENCY % FILTER BANK
+(MINIMUM EFFICIENCY REPORTING VALUE MERV)3
+NO. 11	NO. 21
+All areas for inpatient care, treatment and/or diagnosis, and those areas providing direct service or cleaning supplies)	2	30%	80%
+(8)	(13)
+Administrative, bulk storage, soiled holding, laundries and food prep areas	1	30%2	—
+(8)	—
+
+TABLE 4-C
+
+FILTER EFFICIENCIES FOR CENTRAL VENTILATION AND AIR-CONDITIONING SYSTEMS IN SKILLED NURSING FACILITIES AND INTERMEDIATE CARE FACILITIES AND CORRECTIONAL TREATMENT CENTERS1
+
+AREA DESIGNATION
+
+MINIMUM NUMBER OF FILTER BANKS
+
+FILTER EFFICIENCY % FILTER BANK
+
+(MINIMUM EFFICIENCY REPORTING VALUE MERV)3
+
+NO. 11
+
+NO. 21
+
+All areas for inpatient care, treatment and/or diagnosis, and those areas providing direct service or cleaning supplies)
+
+2
+
+30%
+
+80%
+
+(8)
+
+(13)
+
+Administrative, bulk storage, soiled holding, laundries and food prep areas
+
+1
+
+30%2
+
+—
+
+(8)
+
+—
+
+1
+
+Based on ASHRAE 52.2.
+
+2 Filters are not required for evaporative coolers serving laundries and food preparation areas.
+
+3 The numbers in parentheses represent MERV rating based on ASHRAE 52.2.
+
+407.4.1.6
+Supply outlets and return and exhaust air
+inlets shall be located to prevent short-circuiting.
+
+407.4.1.7 Recirculating Room Units
+Recirculating Room Units
+
+407.5 Variable Air Volume
+Variable Air Volume
+
+407.5.1 Variable Air Volume Systems (VAV)
+Variable Air Volume Systems (VAV)
+
+Variable
+air volume systems subjecting the patient to a fluctuating
+air movement are not acceptable for airborne infection
+isolation rooms, protective environment rooms or those
+critically sensitive areas listed in Section 322.0. For nonsensitive
+areas, variable air volume systems meeting the
+following criteria can be considered:
+
+407.5.1.1
+The VAV system shall comply with code
+requirements for outside air, total air, and pressure
+relationship through the full range of operation from
+minimum to maximum.
+
+407.5.1.2
+The central return or exhaust fan shall be
+controlled to accomplish the variable air volume
+requirements of the individual rooms served by the
+fan as described in Section 407.5.1.3.
+
+407.5.1.3
+Spaces with pressure requirements per
+Table 4-A shall utilize an automatic
+modulating damper in the return or exhaust air for
+each space. The damper will modulate from full open
+to minimum position in conjunction with the supply
+air VAV terminal equipment.
+
+407.6 Economizers
+Economizers
+
+Systems with economizers shall include
+modulating relief and/or return fans to ensure compliance with
+the pressure requirements of spaces listed in Table 4-A.
+
+408.0 Filters
+Filters
+
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+408.1 General
+General
+
+Filter efficiencies shall be certified by the
+manufacturer and shall be based on ASHRAE 52.2 Method of
+Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size when specifically set forth in these standards.
+
+408.1.1
+A filter gauge shall be installed across each filter
+bank serving central air systems. The gauge shall be
+red lined or a filter alarm light installed to signal when
+the recommended maximum static pressure drop has been
+reached.
+
+408.1.2
+Central air-handling systems are defined as any
+unit requiring duct work on the supply or inlet side that
+serve more than one room.
+
+408.1.3
+Filter banks shall be visually inspected for torn
+media and bypass in filter frames by means of a flashlight
+or equivalent, both with fans in operation and stopped.
+Tears in media and bypass in filter frames shall be eliminated
+in accordance with the manufacturer's directions
+and the requirements of the enforcing agency prior to
+commencing operation of the system.
+
+408.1.4
+Central air-handling systems shall be maintained
+in a reasonably clean condition during construction
+and shall be cleaned as necessary prior to
+replacement of temporary filter used during construction
+to ensure that clean air will be delivered to the occupied
+spaces.
+
+408.1.5
+Filter bank No. 1 shall be located upstream of
+the air-conditioning equipment. Filter bank No. 2 and
+filter bank No. 3 shall be located downstream of the supply
+fan and all cooling and humidification equipment
+with efficiencies as indicated in Table 4-B or Table 4-C.
+
+Exception: Dry steam-type humidifiers for local room
+humidity control may be installed in the supply air duct
+downstream of the final filter bank where designs are
+specifically approved by the enforcing agency. Dry steam
+is that which is defined in the ASHRAE HVAC Systems
+and Equipment Handbook.
+
+408.1.6
+Filter bank No. 2 and filter bank No. 3 media
+shall be rigid or supported (noncollapsing type) and
+shall operate on the principles of impingement, straining,
+and diffusion.
+
+408.2 Filters for Hospitals
+Filters for Hospitals
+
+408.2.1
+All air-ventilation systems shall comply with
+code requirements of this section and shall have filter
+bank efficiencies as listed in Table 4-B.
+
+408.2.2
+Noncentral recirculating air systems providing cooling to high heat producing equipment located in nonsensitive areas shall have a filter with minimum efficiency reporting value (MERV) of 6 based on ASHRAE 52.2.
+
+408.2.3
+Noncentral air systems serving any areas not
+listed in Table 4-B shall have a filter with minimum efficiency reporting value (MERV) of 6 based on ASHRAE
+52.2.
+
+408.2.4
+Noncentral recirculating air handling systems,
+for example, through-the-wall units, fan coil units, and
+heat pumps may be utilized for single patient rooms of
+one or more beds. Filtration for these units shall have a
+filter with minimum efficiency reporting value (MERV) of
+6, based on ASHRAE 52.2. The air ventilation system providing the minimum air changes of outdoor air shall comply with Table 4-B. These units may be used as
+recirculating units only. All outdoor air requirements shall
+be met by a separate central air handling system.
+
+408.3 Filters for Skilled Nursing Facilities, Intermediate Care Facilities, and Correctional Treatment Centers
+Filters for Skilled Nursing Facilities, Intermediate Care Facilities, and Correctional Treatment Centers
+
+408.3.1
+The air ventilation systems shall comply with
+code requirements of this section for skilled nursing facilities,
+intermediate care facilities and correctional treatment
+centers and shall have filter bank efficiencies as
+listed in Table 4-C.
+
+408.3.2
+Noncentral air systems serving single patient
+rooms of one or more beds shall comply with Table 4-C.
+
+408.3.3
+Noncentral recirculating air-handling systems,
+i.e. through the wall units, may be utilized for each patient
+room with one or more beds. Filtration for these units shall
+have a filter with minimum efficiency reporting value
+(MERV) of 6, based on ASHRAE 52.2. The air ventilation
+system providing the minimum air changes of outdoor air
+shall comply with Table 4-C. These units may be used as
+recirculating units only. All outdoor air requirements shall
+be met by a separate central air handling system.
+
+408.3.4
+Airborne infection isolation rooms, protective
+environment rooms, and sensitive areas in correctional
+treatment centers shall comply with Section 408.2.
+
+408.4 Filters for Outpatient Facilities
+Filters for Outpatient Facilities
+
+408.4.1
+The air ventilation systems shall comply with
+code requirements of this section for outpatient facilities
+and shall have filter bank efficiencies as listed in Table
+4-B.
+
+408.4.2
+Noncentral air systems serving individual rooms
+shall comply with Table 4-B.
+
+409.0 Ducts
+Ducts
+
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+409.1
+Ducts which penetrate construction, intended for X-ray
+or other radiation protection, shall not impair the effectiveness of the protection.
+
+409.2
+Duct linings and their use shall meet the requirements
+of Chapter 6, California Mechanical Code.
+
+409.3 Insulation of Ducts
+Insulation of Ducts
+
+Cold air ducts shall be insulated
+wherever necessary or to prevent condensation.
+
+409.4
+The anchorage and supporting structural elements for
+airducts shall be designed to withstand the lateral forces as
+required by the California Building Code, Title 24, Part 2.
+
+410.0 Laboratory Ventilating Systems and Hoods
+Laboratory Ventilating Systems and Hoods
+
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+410.1 Laboratory Ventilating Systems
+Laboratory Ventilating Systems
+
+Laboratory ventilating
+systems shall comply with NFPA 99, as required by
+Section 1224.4.6.4 of the California Building Code.
+
+410.2 Exhaust Hoods and Safety Cabinets
+Exhaust Hoods and Safety Cabinets
+
+Hoods and
+safety cabinets may be used for normal exhaust of a space provided
+minimum air change rates are maintained. If air change
+standards in Table 4-A do not provide sufficient air for proper
+operation of exhaust hoods and safety cabinets (when in use),
+supplementary makeup air (filtered and preheated) shall be
+provided around these units to maintain the required airflow
+direction and exhaust velocity. Makeup systems for hoods shall
+be arranged to minimize "short circuiting" of air and to avoid
+reduction in air velocity at the point of contaminant capture.
+
+410.3 Laboratory Fume Hoods
+Laboratory Fume Hoods
+
+Laboratory fume hoods
+shall meet the following standards:
+
+410.3.1 General Standard
+General Standard
+
+Average face velocity
+shall be at least 75 feet per minute (0.38 meters per second).
+Exhaust system shall be separate from the building
+exhaust system. Exhaust fan shall be located at the
+discharge end of the system. Exhaust duct system shall be
+of noncombustible corrosion-resistant material as
+required to meet the planned usage of the hood.
+
+410.3.2 Special Standards for Use With Strong Oxidants
+Special Standards for Use With Strong Oxidants
+
+Fume hoods and their associated equipment
+in the air stream intended for use with perchloric acid and
+other strong oxidants shall be constructed of stainless
+steel or other material consistent with special exposures.
+Hoods and equipment shall be provided with a water
+wash and drain system to permit periodic flushing of duct
+and hood. When perchloric acid or other strong oxidants
+are only transferred from one container to another, standard
+laboratory fume hoods and the associated equipment
+may be used in lieu of stainless steel construction.
+
+410.3.3 Special Standards for Use With Infectious or Radioactive Materials
+Special Standards for Use With Infectious or Radioactive Materials
+
+Each hood shall have a
+minimum face velocity of
+90 to 110 feet per minute (0.45
+to 0.56 meters per second) with suitable pressure-independent
+air-modulating devices and alarms to alert staff of fan shutdown or loss of airflow. Each hood shall have
+filters with a 99.97 percent efficiency (based on the DOP
+test method) in the exhaust stream and be designed and
+equipped to permit the safe removal, disposal, and
+replacement of contaminated filters. Filters shall be as
+close to the hood as practical to minimize duct contamination. Fume hoods intended for use with radioactive
+isotopes shall be constructed of stainless steel or other
+material suitable for the particular exposure.
+
+411.0 Kitchen and Dining Areas
+Kitchen and Dining Areas
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+411.1
+The air from dining areas may be used to ventilate the
+food preparation areas only after it has passed through a filter
+with at least an 80 percent average efficiency based on
+ASHRAE 52.2 or a minimum efficiency reporting value
+(MERV) of 13, based on ASHRAE 52.2.
+
+Exception: For skilled nursing facilities, intermediate care
+facilities and correctional treatment centers, the air from dining
+area may be used to ventilate food preparation areas only after
+it has passed through a filter with a 50 percent average efficiency
+based on ASHRAE 52.2 or a minimum efficiency reporting
+value (MERV) of 10, based on ASHRAE 52.2.
+
+412.0 Boiler, Mechanical, and Electrical Rooms
+Boiler, Mechanical, and Electrical Rooms
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+412.1
+Boiler, heater and electrical equipment rooms shall be
+provided with outdoor air so as to maintain combustion rates
+of equipment and temperatures in the rooms and in adjoining
+areas as rated in this chapter.
+
+412.2
+Floor surfaces in occupied spaces above such rooms
+should not exceed a temperature of 85°F (29.4°C), and suitable
+insulation may be required.
+
+413.0 Odorous Rooms
+Odorous Rooms
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+413.1
+Rooms in areas where excessive heat or moisture is
+generated, where objectional odors or dust are present, or
+where flammable or toxic gases may accumulate, which are
+used by health facility personnel or patients, shall be provided
+with exhaust ventilation to change the air a minimum of
+ten times per hour.
+
+413.2
+Kitchen, morgues and laundries located inside a hospital
+building or skilled nursing facility in which patients are
+accommodated, or treated, shall be ventilated with exhaust
+systems which will provide a minimum of ten air changes per
+hour and prevent odors from entering patient areas.
+
+414.0 Airborne Infection Isolation Rooms
+Airborne Infection Isolation Rooms
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+414.1 Exhaust Systems
+Exhaust Systems
+
+A separate, dedicated exhaust system shall be provided for airborne infection isolation rooms. The dedicated system may serve more than one airborne infection isolation room, adjoining toilet room and anteroom. The exhaust ducts shall be identified by appropriate labeling with the words "Caution Airborne Infection Isolation Rooms Exhaust" or similar terminology. Such labeling shall be in a manner which is not readily removable and shall appear on the exhaust duct at intervals of not more than 20 feet (6096 mm) and at least once near each room and each story traversed by the exhaust system. Exhaust fans shall comply with Section 407.1.2. The discharge from exhaust fans shall be located above the roof and shall be located a minimum of 25 feet (7620 mm) from areas that may be occupied, doors, operable windows, outdoor air intakes, or other openings into the building. The exhaust fan discharge shall be labeled in a manner which readily identifies the precautions which should be observed. To ensure that the airborne contaminates do not reenter the building, one of the following shall be provided:
+
+414.1.1
+Exhaust discharge from fan shall extend at least
+7 feet (2134 mm) above the roof and discharge vertically
+upward. Self-draining stacks or equivalent shall be used
+for rain protection. Rain caps which divert the exhaust
+toward the roof shall be prohibited.
+
+414.1.2
+Exhaust shall discharge above roof level and through an accessible HEPA filter. The HEPA filter shall be located upstream of the exhaust fan and have a minimum efficiency of 99.97 percent based on the DOP method in accordance with Mil-Std. 282 or a minimum efficiency reporting value (MERV) of 17, based on ASHRAE 52.2. Filter gage shall be installed across the filter. For maintenance of air balance relationship, see Section 407.3.1. The 25-foot (7620 mm) dimension required by Section 414.1 may be reduced when a 99.97 percent HEPA filter or a minimum efficiency reporting value (MERV) of 17, based on ASHRAE 52.2 is used and the reduced dimension is specifically approved by the enforcing agency.
+
+414.2 Air Distribution
+Air Distribution
+
+The supply outlets and exhaust
+inlets shall be located to provide airflow patterns that prevent
+stagnation of the air and eliminate short circuiting of the supply to the exhaust, and minimize exposure of health care
+workers to airborne infectious particles. Supply-air outlets
+shall be located at or near the ceiling and at the end of the
+airborne infection isolation room which is opposite the head
+of the bed. Exhaust registers shall be located on the wall
+behind the patient's head, or as close to that wall as practical
+and shall be located not less than 3 inches (76 mm) nor
+more than 24 inches (610 mm) above the finished floor.
+
+Exception: For correctional treatment centers, the location
+and design of the supply outlets an exhaust or return inlets
+shall not compromise the safety, security and protection of 
+staff, inmates and property.
+
+415.0 Protective Environment Rooms
+Protective Environment Rooms
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+415.1 Air Distribution
+Air Distribution
+
+The supply outlets and exhaust and return inlets shall be located to provide airflow patterns that prevent stagnation of the air and eliminate short circuiting of the supply to the exhaust or return. Supply air shall be delivered at or near the ceiling and near the patient's bed. All exhaust or return registers shall be located near the entrance to the protective environment room and not less than 3 inches (76 mm) nor more than 8 inches (203 mm) above the finished floor.
+
+Exception: For correctional treatment centers, the location and design of the supply outlets and exhaust or return inlets shall not compromise the safety, security, and protection of staff, inmates and property.
+
+416.0 Alarms — Airborne Infection Isolation Rooms and Protective Environment Rooms
+Alarms — Airborne Infection Isolation Rooms and Protective Environment Rooms
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+416.1
+An alarm system which is based on static pressure control,
+volumetric control, or directional flow measurement shall
+be provided for each isolation room. The alarm system shall
+consist of a display monitor located on the corridor wall near
+the door to the room and a visual and audible alarm which
+annunciates at the room and at a nurses' station or other suitable
+location that will provide responsible surveillance. A time
+delay shall be provided to allow for routine openings of doors.
+The alarm shall annunciate when the supply, return, or
+exhaust fans are interrupted or when the minimum required
+pressure differential per ASHRAE 170 between the airborne
+infection isolation room and corridor or between the protective
+environment room and corridor is not being met during
+closed door conditions.
+
+416.2
+Other acceptable alarm systems will be allowed when
+designs are specifically approved by the enforcing agency.
+
+416.3
+[For OSHPD 4] For correctional treatment centers,
+the alarm system shall not create false alarms or security hazards.
+
+416.4
+Prior to acceptance of the rooms, the alarm system
+shall be tested and operated to demonstrate to the owner or
+designated representative that the installation and performance
+of the system conforms to design intent.
+
+417.0 Testing and Balancing Airborne Infection Isolation Rooms and Protective Environment Rooms
+Testing and Balancing Airborne Infection Isolation Rooms and Protective Environment Rooms
+
+[OSHPD 1, 2, 3, 4 & 5] Prior to acceptance of the rooms, all mechanical systems shall be tested, balanced, and operated to demonstrate to the owner or designated representative that the installation and performance of the systems conform to design intent. All testing and balancing shall be performed by a qualified independent agency certified by the Associated Air Balance Council (AABC): the National Environmental Balancing Bureau (NEBB); or the Testing, Adjusting and Balancing Bureau (TABB).
+
+418.0 Design Requirements for Ethylene Oxide (ETO) Sterilization Areas
+Design Requirements for Ethylene Oxide (ETO) Sterilization Areas
+
+[OSHPD 1, 2, 3, 4 & 5]
+
+418.1 Air Changes
+Air Changes
+
+The ETO sterilization equipment room
+shall be provided with minimum air changes per hour per Table
+4-A and be maintained at a negative air balance.
+
+418.2 Exhaust Requirements
+Exhaust Requirements
+
+418.2.1
+All air from the ETO sterilizer equipment room
+shall be exhausted to the outside by a dedicated system or
+other approved method.
+
+418.2.2
+The exhaust fan for the dedicated system shall be
+located at the discharge point of the system and identified
+as ETO Equipment Room Exhaust.
+
+418.2.3 Discharge Point
+Discharge Point
+
+The discharge point shall be
+a minimum of 25 feet (7620 mm) away from any outside
+intake, operable window or personnel passage.
+
+418.3 Ventilation Requirements
+Ventilation Requirements
+
+418.3.1 Aeration Units
+Aeration Units
+
+The aeration units shall be ventilated
+through a nonrecirculating dedicated ventilation
+exhaust system.
+
+418.3.2 Capture Box
+Capture Box
+
+When the drain is not located in
+the ETO sterilizer equipment room, ventilation is required
+by a capture box.
+
+418.3.3 Cylinder Change
+Cylinder Change
+
+When not located in the ETO
+sterilizer equipment room, exhaust during cylinder change
+is required by installing a hood that is part of a dedicated
+ventilation exhaust system, positioned no more than 1 foot
+(305 mm) above or behind the point where the change of
+cylinders takes place.
+
+418.3.4 Sterilizer Relief Valve
+Sterilizer Relief Valve
+
+The ventilation of sterilizer relief valve is required through a pipe connected to the outlet of the relief valve exhausted directly to the outdoors at a point high enough to be away from passers by, and not near any windows that open, nor near any air-conditioning or ventilation air intakes.
+
+418.3.5 Ventilation of Sterilizer Door Area
+Ventilation of Sterilizer Door Area
+
+The system
+shall be designed to capture the ETO when the door is
+opened following the completion of the sterilization
+process. A hood or canopy closed on each end should be
+installed over the sterilization door. A hood or canopy shall
+be connected to a dedicated exhaust ventilation system.
+
+418.4 Gas Valves
+Gas Valves
+
+Installation of gas line hand valves at the
+connection to the supply cylinders are required to minimize
+leakage during cylinder change.
+
+418.5 Alarm Systems
+Alarm Systems
+
+An Audible and visual alarm system
+shall be installed to alert sterilizer operating personnel if the
+air flow falls below design cubic feet per minute (L/s).
+
+419.0 Neonatal Intensive Care Units
+Neonatal Intensive Care Units
+
+[OSHPD 1]
+
+419.1 Formula Preparation Area
+Formula Preparation Area
+
+Air shall be supplied
+over the formulation preparation area by group E, nonaspirating
+supply diffusers. Air shall be returned or exhausted by
+registers located not less than 3 inches (76 mm) nor more
+than 8 inches (203 mm) above the finished floor in the
+cleanup area.
+
+419.2 Treatment Area/Room
+Treatment Area/Room
+
+Air shall be supplied over
+the treatment surface by group E, nonaspirating supply diffusers. Air shall be returned or exhausted by registers located
+not less than 3 inches (76 mm) nor more than 8 inches (203
+mm) above the finished floor, adjacent to the treatment surface.
+
+420.0 Air Distribution Devices
+Air Distribution Devices
+
+[OSHPD 1, 2, 3,4 & 5]
+All air distribution devices and supply air outlets shall meet
+the requirements of ASHRAE 170-2013, Section 6.7.2 and
+Table 6.7.2.
+

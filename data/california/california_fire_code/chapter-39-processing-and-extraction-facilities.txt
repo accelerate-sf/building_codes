@@ -1,0 +1,170 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 39 – PROCESSING AND EXTRACTION FACILITIES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 39 PROCESSING AND EXTRACTION FACILITIES
+
+User note:
+
+About this chapter: Chapter 39 focuses on the processing and extraction of oils and fats from various plants. This process includes extraction by use of a solvent, desolventizing the raw material, production of the miscella, distillation of the solvent from the miscella and solvent recovery. The processes used are not necessarily typical hazardous material processes, and often the systems and equipment associated with such processes may not be listed. This chapter provides the tools to appropriately address the hazards while also meeting the unique needs of industry. This chapter has provisions for a technical report prepared by a registered design professional and requires site inspections to make sure equipment and systems are installed as designed and approved.
+
+SECTION 3901 GENERAL
+
+3901.1 Scope.
+
+Plant processing or extraction facilities shall comply with this chapter and the California Building Code. The extraction process includes the act of extraction of the oils and fats by use of a solvent, desolventizing of the raw material, production of the miscella, distillation of the solvent from the miscella and solvent recovery. The use, storage, transfilling and handling of hazardous materials in these facilities shall comply with this chapter, other applicable provisions of this code and the California Building Code.
+
+3901.2 Existing buildings or facilities.
+
+Existing buildings or facilities used for the processing of plants shall comply with this chapter. Existing extraction processes where the medium of extraction or solvent is changed shall comply with this chapter.
+
+3901.3 Permits.
+
+Permits shall be required as set forth in Sections 105.5 and 105.6.
+
+SECTION 3902 DEFINITIONS
+
+3902.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+DESOLVENTIZING.
+
+MISCELLA.
+
+SECTION 3903 PROCESSING AND EXTRACTION
+
+3903.1 Construction.
+
+Processing shall be located in a building complying with the California Building Code.
+
+3903.2 Prohibited occupancies.
+
+Extraction processes utilizing flammable gases or flammable cryogenic fluids shall not be located in any building containing a Group A, E, I or R occupancy.
+
+3903.3 Location.
+
+The extraction equipment and extraction processes utilizing hydrocarbon solvents shall be located in a room or area dedicated to extraction.
+
+3903.4 Post-process purification and winterization.
+
+Post-processing and winterization involving the heating or pressurizing of the miscella to other than normal pressure or temperature shall be approved and performed in an appliance listed for such use. Domestic or commercial cooking appliances shall not be used.
+
+3903.4.1 Industrial ovens.
+
+The use of industrial ovens shall comply with Chapter 30.
+
+3903.5 Use of flammable and combustible liquids.
+
+The use of flammable and combustible liquids for liquid extraction processes where the liquid is boiled, distilled or evaporated shall be located within a hazardous exhaust fume hood, rated for exhausting flammable vapors. Electrical equipment used within the hazardous exhaust fume hood shall be rated for use in flammable atmospheres. Heating of flammable or combustible liquids over an open flame is prohibited.
+
+Exception: The use of a heating element not rated for flammable atmospheres, where documentation from the manufacture, or approved testing laboratory indicates the element is rated for heating of flammable liquids.
+
+3903.6 Liquefied petroleum gas.
+
+Liquefied petroleum gases shall not be released to the atmosphere except where released in accordance with Section 7.3 of NFPA 58.
+
+SECTION 3904 SYSTEMS AND EQUIPMENT
+
+3904.1 General requirements.
+
+Systems and equipment used with the processing and extraction of oils and products from plants shall comply with Sections 3904.2 through 3904.2.2.3 and Section 5003.2, and other applicable provisions of this code, the California Building Code and the California Mechanical Code.
+
+3904.2 Systems and equipment.
+
+Systems or equipment used for the extraction of oils from plant material shall comply with Section 3904.2.1 or 3904.2.2.
+
+3904.2.1 Listings.
+
+Systems or equipment used for the extraction of oils from plant material shall be listed and labeled in accordance with UL 1389 and installed in accordance with the listing and the manufacturer’s installation instructions.
+
+3904.2.2 Approvals.
+
+Systems or equipment used for the extraction of oils from plant material shall be approved for the specific use. The system shall be reviewed by a registered design professional. The registered design professional shall review and consider any information provided by the system’s designer or manufacturer. A technical report in accordance with Section 3904.2.2.1 shall be prepared and submitted to the fire code official for review and approval. The firm or individual preparing the technical report shall be approved by the fire code official prior to performing the analysis.
+
+3904.2.2.1 Technical report.
+
+A technical report, reviewed and approved by the fire code official as required by Section 3904.2, is required prior to the equipment being located or installed at the facility. The report shall be prepared by a registered design professional or other professional approved by the fire code official.
+
+3904.2.2.2 Report content.
+
+The technical report shall contain all of the following:
+
+1.Manufacturer information.
+
+2.Preparer of record of the technical report.
+
+3.Date of review and report revision history.
+
+4.Signature page, including all of the following:
+
+4.1.Author of the report.
+
+4.2.Date of report.
+
+4.3.Date and signature of registered design professional of record performing the design or peer review.
+
+5.Model number of the item evaluated. If the equipment is provided with a serial number, the serial number shall be included for verification at the time of site inspection.
+
+6.Methodology of the design or peer review process used to determine minimum safety requirements. Methodology shall consider the basis of design, and shall include a code analysis and code path to demonstrate whether specific codes or standards are applicable.
+
+7.Equipment description. A list of every component and subassembly, such as fittings, hose, quick disconnects, gauges, site glass, gaskets, valves, pumps, vessels, containers and switches, of the system or equipment, indicating the manufacturer, model number, material and solvent compatibility. Manufacturer’s data sheets shall be provided.
+
+8.A general flow schematic or general process flow diagram of the process. Post-processing or winterization shall be included in this diagram. Primary components of the process equipment shall be identified and match the equipment list required in Item 7. Operating temperatures, pressures and solvent state of matter shall be identified in each primary step or component. A piping and instrumentation diagram (PID or P&ID) shall be provided.
+
+9.Analysis of the vessel(s) if pressurized beyond standard atmospheric pressure. Analysis shall include purchased and fabricated components.
+
+10.Structural analysis for the frame system supporting the equipment.
+
+11.Process safety analysis of the extraction system, from the introduction of raw product to the end of the extraction process.
+
+12.Comprehensive process hazard analysis considering failure modes and points of failure throughout the process. The process hazard analysis shall include a review of emergency procedure information provided by the manufacturer of the equipment or process and not that of the facility, building or room.
+
+13.Review of the assembly instructions, operational and maintenance manuals provided by the manufacturer.
+
+14.List of references used in the analysis.
+
+3904.2.2.3 Site inspection.
+
+Prior to operation of the extraction equipment, where required by the fire code official, the engineer of record or approved professional, as approved in  Section 3904.2, shall inspect the site of the extraction process once equipment has been installed for compliance with the technical report and the building analysis. The engineer of record or approved professional shall provide a report of findings and observations of the site inspection to the fire code official prior to the approval of the extraction process. The field inspection report authored by the engineer of record shall include the serial number of the equipment used in the process and shall confirm that the equipment installed is the same model and type of equipment identified in the technical report.
+
+SECTION 3905 SAFETY SYSTEMS
+
+3905.1 Gas detection.
+
+For extraction processes utilizing flammable gases as solvents, a gas detection system complying with Section 916 shall be provided.
+
+
+
+3905.1.1 Operation.
+
+Activation of the gas detection system shall result in all the following:
+
+1.Initiation of distinct audible and visual alarm signals in the extraction room.
+
+2.Deactivation of all heating systems located in the extraction room.
+
+3.Activation of the mechanical ventilation system, where the system is interlocked with gas detection.
+
+4. De-energize all light switches and electrical outlets.
+
+3905.1.2 Failure of the gas detection system.
+
+Failure of the gas detection system shall result in the deactivation of the heating system; activation of the mechanical ventilation system where the system is interlocked with the gas detection system; and initiation of a trouble signal to sound in an approved location.
+
+
+
+3905.2 Emergency shutoff.
+
+Extraction processes utilizing gaseous hydrocarbon-based solvents shall be provided with emergency shutoff systems in accordance with Section 5803.1.3.
+

@@ -1,0 +1,69 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLECHAPTER 31C – RADIATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																	X						
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+2113A.9.2																							
+																							CHAPTER 31C [DPH] [DPH] RADIATION
+
+SECTION 3101C SCOPE
+
+For the purpose of this chapter, the following terms shall have the meaning indicated:
+
+PRIMARY PROTECTIVE BARRIER is a barrier to attenuate the useful beam.
+
+SECONDARY PROTECTIVE BARRIER is a barrier to attenuate stray radiation.
+
+STRAY RADIATION is radiation not serving any useful purpose, which includes leakage and scattered radiation.
+
+USEFUL BEAM is the radiation which passes through the window, aperture, cone or other collimating device of the tube housing.
+
+SECTION 3102C RADIATION SHIELDING BARRIERS
+
+All radiation shielding barriers in rooms and enclosures housing machines shall meet the requirements of Section 12-31C-101, Chapter 12-31C, Part 12, California Referenced Standards Code. The Department of Health Services is the only agency that may grant a variance or exception to these standards.
+
+SECTION 3103C MEDICAL RADIOGRAPHIC AND PHOTOFLUOROGRAPHIC INSTALLATIONS
+
+3103C.1 Operator station
+
+The operator’s station at the control shall be behind a protective barrier either in a separate room, in a protected booth or behind a shield which will intercept the useful beam and any radiation which has been scattered only once.
+
+3103C.2 Patient observation and communication
+
+Provision shall be made for the operator to observe and communicate with the patient without leaving the shielded position at the control panel. When an observation window is used, it must provide radiation attenuation equal to that required in the surrounding barrier.
+
+SECTION 3104C MEDICAL THERAPEUTIC X-RAY INSTALLATIONS
+
+3104C.1 General
+
+All wall, floor and ceiling areas that can be struck by the useful beam, plus a border of 1 foot (305 mm), shall be provided with primary protective barriers.
+
+3104C.2 Equipment operating above 50 kVp
+
+Equipment operating above 50 kVp shall conform with the following:
+
+1.The control station shielding shall either be an integral part of the building or anchored to the building.
+
+2.The control station shall be provided with a window having radiation attenuation equal to that required by the adjacent barrier, or a mirror system, or a closed-circuit television viewing screen. The patient area must be visible to the operator without having to leave the protected area during exposure.
+
+3104C.3 Equipment operating above 150 kVp
+
+Equipment operating above 150 kVp shall conform to the following:
+
+1.The treatment room shall be provided with interlocks so that when any door of the treatment room is opened, either the machine will shut off automatically or the radiation level within the room will be reduced to an average of not more than 2 milliroentgens per hour and a maximum of 10 milliroentgens per hour at a distance of one meter in any direction from the target. After such shutoff or reduction in output, it shall be possible to restore the machine to full operation only from the control panel.
+
+2.The control station shall be within a protective booth or in an adjacent room.
+
+3104C.4
+
+A minimum of one door shall be provided with an auxiliary means for being opened in case of power failure or mechanical breakdown, where large power-driven doors offer the only access to the room.
+
+3104C.5
+
+A flashing red warning signal light energized only when the useful beam is on shall be located adjacent to the entrance(s) to a therapy room with equipment capable of operating above 500 kVp.
+

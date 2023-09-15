@@ -1,0 +1,31 @@
+Appendix B Procedures to Be Followed to Place Gas Equipment in Operation
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X									X	X	X	X	X	X								
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+B101.0 Adjusting the Burner Input
+B101.1 Adjusting Input
+B101.2 High Altitude
+B102.0 Primary Air Adjustment
+B102.1 General
+B103.0 Safety Shutoff Devices
+B103.1 General
+B104.0 Automatic Ignition
+B104.1 General
+B105.0 Protective Devices
+B105.1 General
+B106.0 Checking the Draft
+B106.1 General
+B107.0 Operating Instructions
+B107.1 General

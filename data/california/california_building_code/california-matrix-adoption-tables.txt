@@ -1,0 +1,53 @@
+
+
+Format of the California Matrix Adoption Tables
+The matrix adoption tables, examples of which follow, are non-regulatory aids intended to show the user which state agencies have adopted and/or amended given sections of the model code. An agency’s statutory authority for certain occupancies or building applications determines which chapter or section may be adopted, repealed, amended or added. See Chapter 1, Division I, Sections 1.2 through 1.14 for agency authority, building applications and enforcement responsibilities.
+
+The side headings identify the scope of state agencies’ adoption as follows:
+
+Adopt the entire IBC chapter without state amendments.
+If there is an “X” under a particular state agency’s acronym on this row; this means that particular state agency has adopted the entire model code chapter without any state amendments.
+
+Example:
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user.See Chapter 1 for state agency authority and building applications.)
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter			X																				
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below								S	A	M	P	L	E										
+Chapter/Section																							Adopt the entire IBC chapter as amended, state-amended sections are listed below:
+If there is an “X” under a particular state agency’s acronym on this row, it means that particular state agency has adopted the entire model code chapter; with state amendments.
+
+Each state-amended section that the agency has added to that particular chapter is listed. There will be an “X” in the column, by that particular section, under the agency’s acronym, as well as an “X” by each section that the agency has adopted.
+
+Example:
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)			X																				
+Adopt only those sections that are listed below								S	A	M	P	L	E										
+Chapter 1																							
+202			X																				Adopt only those sections that are listed below:
+If there is an “X” under a particular state agency’s acronym on this row, it means that particular state agency is adopting only specific model code or state-amended sections within this chapter. There will be an “X” in the column under the agency’s acronym, as well as an “X” by each section that the agency has adopted.
+
+Example:
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																						
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below					X	X		S	A	M	P	L	E									
+Chapter 1																						
+202					X	X		S	A	M	P	L	E									
+202					X	X			C	O	N	T.										
+203					X	X																
+203					X	X																

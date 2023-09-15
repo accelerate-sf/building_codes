@@ -1,0 +1,1319 @@
+CHAPTER 10 ADMINISTRATIVE REGULATIONS FOR THE CALIFORNIA ENERGY COMMISSION (CEC)
+
+ARTICLE 1 ENERGY BUILDING REGULATIONS
+
+10-101. Scope.
+
+(a)This article contains administrative regulations relating to the energy building regulations in Title 24, Part 6. This article applies to all residential and nonresidential buildings.
+
+(b)Nothing in this article lessens any necessary qualifications or responsibilities of licensed or registered building professionals or other designers or builders, or the duties of enforcement agencies, that exist under state or local law.
+
+(c)If any provision of the regulations in this article or the Building Energy Efficiency Standards, Title 24, Part 6, of the California Code of Regulations is found invalid by a court of competent jurisdiction, the remainder of these regulations shall remain in effect.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25402 and 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.New Article 1 (Section 1401) filed 5-3-76; effective thirtieth day thereafter (Register 76, No. 19).
+
+2.Amendment filed 8-17-77; designated effective 3-11-78 (Register 77, No. 34).
+
+3.Repealer of Article 1 (Section 1401) and new Article 1 (Sections 1401-1408, not consecutive) filed 12-9-81; designated effective 7-1-82 (Register 81, No. 50).
+
+4.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+10-102. Definitions.
+
+In this article the following definitions apply:
+
+ACCEPTANCE REQUIREMENTS are “acceptance requirements for code compliance” as defined in Section 100.1(b) of Part 6.
+
+ACCEPTANCE TEST TECHNICIAN (ATT) is a Field Technician as defined in Section 10-102 who is certified by an authorized Acceptance Test Technician Certification Provider to perform acceptance testing of either lighting controls or mechanical systems pursuant to the requirements of Sections 10-103.1 or 10-103.2, respectively. ATTs are authorized to perform only those acceptance tests for which they are certified by an ATTCP; ATTs certified to perform acceptance testing of lighting controls are sometimes referred to as “lighting control ATTs,” and ATTs certified to perform acceptance testing of mechanical systems are sometimes referred to as “mechanical ATTs.” (See “Field Technician” and “Acceptance Test Technician Certification Provider.”)
+
+ACCEPTANCE TEST EMPLOYER (ATE) is a person or entity who employs an Acceptance Test Technician and is certified by an authorized Acceptance Test Technician Certification Provider pursuant to the requirements of Sections 10-103.1 or 10-103.2. ATEs are authorized to employ only those ATTs for which they are certified by an ATTCP; ATEs certified to employ ATTs that perform acceptance testing of lighting controls are sometimes referred to as “lighting control ATEs,” and ATEs certified to employ ATTs that perform acceptance testing of mechanical systems are sometimes referred to as “mechanical ATEs.” (See “Acceptance Test Technician” and “Acceptance Test Technician Certification Provider.”)
+
+ACCEPTANCE TEST TECHNICIAN CERTIFICATION PROVIDER (ATTCP) is an agency, organization or entity approved by the Energy Commission to train, certify and oversee ATTs and ATEs relating to either lighting controls or mechanical systems according to the requirements of Sections 10-103.1 or 10-103.2, respectively. ATTCPs are authorized to certify only those ATTs and ATEs for which they are approved by the Energy Commission; ATTCPs approved to certify ATTs and ATEs relating to the acceptance testing of lighting controls are sometimes referred to as “lighting control ATTCPs,” and ATTCPs approved to certify ATTs and ATEs relating to the acceptance testing of mechanical systems are sometimes referred to as “mechanical ATTCPs.” (See “Acceptance Test Technician” and “Acceptance Test Employer.”)
+
+NOTE: Authority cited: Sections 25402, 25402.1 and 25213, Public Resources Code. Reference: Sections 25007, 25402(a)-(b), 25402.1, 25402.4, 25402.5, 25402.8 and 25910, Public Resources Code.
+
+ACM means ALTERNATIVE CALCULATION METHOD and are compliance software, or alternative component packages, or exceptional methods approved by the Commission under Section 10-109. ACMs are also referred to as Compliance Software.
+
+ACM APPROVAL MANUALS are the documents establishing the requirements for Energy Commission approval of Compliance Software used to demonstrate compliance with the Building Energy Efficiency Standards for Residential and Nonresidential Buildings currently adopted by the Energy Commission.
+
+ACM REFERENCE MANUAL is the document establishing the procedures required to implement Sections 140.1 and 150.1 of Title 24, Part 6 of the California Code of Regulations in Compliance Software.
+
+ADDITIONALITY is a property of solar offsets whereby the offset causes additional benefits beyond what would occur as a result of all other actions, and which would exclusively benefit the building or property for which the offset substitutes for compliance obligations that would otherwise be required for that building or property, and those benefits would not ever be transferred to other buildings or property.
+
+ALTERNATIVE COMPONENT PACKAGE is a set of building measures whose aggregate calculated energy use is less than or equal to the maximum allowed Energy Budget.
+
+APPLIANCE EFFICIENCY REGULATIONS are the regulations in Title 20, Section 1601 et seq. of the California Code of Regulations.
+
+APPROVED CALCULATION METHOD is compliance software, or alternative component packages, or exceptional methods approved under Section 10-109.
+
+BUILDING ENERGY EFFICIENCY STANDARDS are those regulations contained in Title 24, Part 6 of the California Code of Regulations.
+
+BUILDING PERMIT is an electrical, plumbing, mechanical, building or other permit or approval, that is issued by an enforcement agency, and that authorizes any construction that is subject to Part 6.
+
+CALIFORNIA ENERGY COMMISSION is the California State Energy Resources Conservation and Development Commission.
+
+COMMISSION is the State Energy Resources Conservation and Development Commission.
+
+COMPLEX MECHANICAL SYSTEM is defined here for the purposes of complying with the Design Phase Review component of Section 10-103(a)1. Complex Mechanical Systems are systems that include 1) fan systems each serving multiple thermostatically controlled zones, or 2) built-up air handler systems (non-unitary or nonpackaged HVAC equipment), or 3) hydronic or steam heating systems, or 4) hydronic cooling systems. Complex systems are NOT the following: unitary or packaged equipment listed in Tables 112-A, 112-B, 112-C and 112-E that each serve one zone, or two-pipe, heating only systems serving one or more zones.
+
+COMPLIANCE APPROACH is any one of the allowable methods by which the design and construction of a building may be demonstrated to be in compliance with Part 6. The compliance approaches are the performance compliance approach and the prescriptive compliance approach. The requirements for each compliance approach are set forth in Section 100.0(e)2 of Part 6.
+
+COMPLIANCE DATA EXCHANGE FILE is an Extensible Markup Language (XML) file that contains compliance data used to populate a compliance document. The Compliance Data Exchange File is part of the Compliance Registration Package.
+
+COMPLIANCE DOCUMENT is any of the documents specified in Section 10-103(a) utilized to demonstrate compliance with Part 6 (i.e., Certificate of Compliance, Certificate of Installation, Certificate of Acceptance and Certificate of Verification).
+
+COMPLIANCE REGISTRATION PACKAGE means digitally signed or encrypted digital data that is transmitted to or from a data registry that contains the data required for registering a compliance document with a data registry, including the compliance data exchange file. A commonly used method is the Zip file format, a data compression and archiving specification that is in the public domain. Files transmitted to or from a data registry using the Zip file format shall be password protected as described in JA7.6.3.2.7.
+
+COMPLIANCE SOFTWARE is software that has been approved pursuant to Section 10-109 of Part 1.
+
+CONDITIONED FLOOR AREA is the “conditioned floor area” as defined in Section 100.1(b) of Part 6.
+
+CRRC-1 is the Cool Roof Rating Council document entitled “Product Rating Program.”
+
+DATA REGISTRY is a web service with a user interface and database maintained by a Registration Provider that complies with the applicable requirements in Reference Joint Appendix JA7, with guidance from the Data Registry Requirements Manual, and provides for registration of residential or nonresidential compliance documentation used for demonstrating compliance with Part 6.
+
+RESIDENTIAL DATA REGISTRY is a data registry that is maintained by a HERS Provider that provides for registration, when required by Part 6 of all residential compliance documentation and the nonresidential Certificate of Verification, and complies with the data maintenance requirements of Title 20, Chapter 4, Article 8, Section 1670 et seq.
+
+NONRESIDENTIAL DATA REGISTRY is a data registry that is maintained by a Registration Provider approved by the Commission that provides for registration, when required by Part 6 of all nonresidential compliance documentation, excluding all Certificates of Acceptance recorded by an acceptance test technician certification provider (Sections 10-103.1 and 10-103.2). However, nonresidential data registries may not provide for registration of nonresidential Certificates of Verification.
+
+DATA REGISTRY REQUIREMENTS MANUAL is a document that provides additional detailed guidance regarding the functional and technical aspects of the data registry requirements given in Joint Appendix JA7.
+
+DOCUMENTATION AUTHOR is a person who prepares a Title 24 Part 6 compliance document that must subsequently be reviewed and signed by a responsible person in order to certify compliance with Part 6.
+
+ENERGY BUDGET is the “energy budget” as defined in Section 100.1(b) of Part 6.
+
+ENERGY COMMISSION is the California State Energy Resources Conservation and Development Commission.
+
+ENFORCEMENT AGENCY is the city, county or state agency responsible for issuing a building permit.
+
+EXCEPTIONAL METHOD is a method for estimating the energy performance of building features that cannot be adequately modeled using existing Compliance Software and that is approved by the Executive Director.
+
+EXECUTIVE DIRECTOR is the Executive Director of the Commission.
+
+FIELD TECHNICIAN is a person who performs acceptance tests in accordance with the specifications in Reference Nonresidential Appendix NA7, and reports the results of the acceptance tests on the Certificate of Acceptance in accordance with the requirements of Section 10-103(a)4.
+
+HERS is the California Home Energy Rating System as described in Title 20, Chapter 4, Article 8, Section 1670.
+
+HERS PROVIDER is an organization that administers a home energy rating system as described in Title 20, Chapter 4, Article 8, Section 1670.
+
+HERS PROVIDER DATA REGISTRY is a data registry maintained by a HERS provider in compliance with requirements per Title 20, Chapter 4, Article 8, Section 1670 et seq.
+
+HERS RATER is a person who has been trained, tested and certified by a HERS Provider to perform the field verification and diagnostic testing required for demonstrating compliance with the Part 6 as described in Title 20, Chapter 4, Article 8, Section 1670(i).
+
+HVAC SYSTEM is the “HVAC system” as defined in Section 100.1(b) of Part 6.
+
+MANUFACTURED DEVICE is the “manufactured device” as defined in Section 100.1(b) of Part 6.
+
+NFRC 100 is the National Fenestration Rating Council document entitled “NFRC 100: Procedure for Determining Fenestration Product U-factors” (2017). NFRC 100 includes procedures for the Component Modeling Approach (CMA) and site built fenestration formerly included in a separate document, NFRC 100-SB.
+
+NFRC 200 is the National Fenestration Rating Council document entitled “NFRC 200: Procedure for Determining Fenestration Product Solar Heat Gain Coefficients and Visible Transmittance at Normal Incidence” (2017).
+
+NFRC 202 is the National Fenestration Rating Council document entitled “NFRC 202: Procedures for Determining Translucent Fenestration Product Visible Transmittance at Normal Incidence” (2017).
+
+NFRC 203 is the National Fenestration Rating Council document entitled “NFRC 203: Procedure for Determining Visible Transmittance of Tubular Daylighting Devices” (2017).
+
+NFRC 400 is the National Fenestration Rating Council document entitled “NFRC 400: Procedure for Determining Fenestration Product Air Leakage” (2017).
+
+PART 6 is Title 24, Part 6 of the California Code of Regulations.
+
+PUBLIC ADVISER is the Public Adviser of the Commission.
+
+R-VALUE is the measure of the thermal resistance of insulation or any material or building component expressed in ft2 - hr-°F/Btu.
+
+RECORD DRAWINGS are drawings that document the asinstalled location and performance data on all lighting and space conditioning system components, devices, appliances and equipment, including but not limited to wiring sequences, control sequences, duct and pipe distribution system layout and sizes, space conditioning system terminal device layout and air flow rates, hydronic system and flow rates, and connections for the space conditioning system. Record drawings are sometimes referred to as “as built” drawings.
+
+REFERENCE APPENDICES is the support document for the Building Energy Efficiency Standards and the ACM Approval Manuals. The document consists of three sections: the Reference Joint Appendices (JA), the Reference Residential Appendices (RA) and the Reference Nonresidential Appendices (NA) currently adopted by the Energy Commission.
+
+REFERENCE JOINT APPENDICES are the Reference Joint Appendices currently adopted by the Energy Commission.
+
+REFERENCE NONRESIDENTIAL APPENDICES are the Reference Nonresidential Appendices currently adopted by the Energy Commission.
+
+REFERENCE RESIDENTIAL APPENDICES are the Reference Residential Appendices currently adopted by the Energy Commission.
+
+REGISTERED COMPLIANCE DOCUMENT  is a compliance document that has been submitted to a residential or nonresidential data registry for retention, been verified as valid with an XML schema approved by the Commission, and gone through the registration process so that the registered document displays all applicable electronic signatures as well as the Registration Provider’s digital certificate and the document's unique registration number. The image of the registered document is accessible for printing or viewing by authorized users of the data registry. The registered document’s unique visible registration number is appended onto the document image by the data registry.
+
+REGISTRATION PROVIDER is an organization that administers a data registry service that conforms to the requirements in Reference Joint Appendix JA7.
+
+STANDARD DESIGN BUILDING is a “Standard Design Building” as defined in Section 100.1(b) of Part 6.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25402 and 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+2.Amendment filed 12-4-86; effective thirtieth day thereafter (Register 87, No. 1).
+
+3.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-102, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+4.(CEC 1/94) Regular order by the California Energy Commission to amend Section 10-102, Part 6, Title 24, California Code of Regulations. Filed with the secretary of state May 24, 1995; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on May 23, 1995.
+
+10-103. Permit, certificate, informational and enforcement requirements for designers, installers, builders, manufacturers and suppliers.
+
+(a)Documentation. For all buildings other than healthcare facilities, the following documentation is required to demonstrate compliance with Part 6.This documentation shall meet the requirements of Section 10-103(a) or alternatives approved by the Executive Director. Healthcare facilities shall instead comply with the applicable provisions of Chapter 7.
+
+1.Certificate of Compliance. For all buildings, the Certificate of Compliance described in Section 10-103 shall be signed by the person who is eligible under Division 3 of the Business and Professions Code to accept responsibility for the building design (responsible person); and submitted in accordance with Sections 10-103(a)1 and 10-103(a)2 to certify conformance with Part 6. If more than one person has responsibility for the building design, each person shall sign the Certificate of Compliance document(s) applicable to that portion of the design for which the person is responsible. Alternatively, the person with chief responsibility for the building design shall prepare and sign the Certificate of Compliance document(s) for the entire building design. Subject to the requirements of Sections 10-103(a)1 and 10-103(a)2, persons who prepare Certificate of Compliance documents (documentation authors) shall sign a declaration statement on the documents they prepare to certify the information provided on the documentation is accurate and complete. In accordance with applicable requirements of 10-103(a)1, the signatures provided by responsible persons and documentation authors shall be original signatures on paper documents or electronic signatures on electronic documents conforming to the electronic signature specifications in Reference Joint Appendix JA7.
+
+For all nonresidential buildings, the Design Review Kickoff Certificate(s) of Compliance and the Construction Document Design Review Checklist Certificate(s) of Compliance shall be reviewed and signed by a licensed professional engineer or licensed architect, or a licensed contractor representing services performed by or under the direct supervision of a licensed engineer or architect, as specified in the provisions of Division 3 of the Business and Professions Code. For buildings less than 10,000 square feet, this signer may be the engineer or architect of record. For buildings greater than 10,000 square feet but less than 50,000 square feet, this signer shall be a qualified in-house engineer or architect with no other project involvement or a third-party engineer, architect or contractor. For buildings greater than 50,000 square feet and all buildings with complex mechanical systems serving more than 10,000 square feet, this signer shall be a thirdparty engineer, architect or contractor.
+
+A.All Certificate of Compliance documentation shall conform to a format and informational order and content approved by the Energy Commission.
+
+These documents shall:
+
+i.Identify the energy features, performance specifications, materials, components and manufactured devices required for compliance with Part 6.
+
+ii.Identify the building project name and location. The building project name and location identification on the Certificate of Compliance shall be consistent with the building project name and location identification given on the other applicable building design plans and specifications submitted to the enforcement agency for approval with the building permit application.
+
+iii.Display the unique registration number assigned by the data registry if Section 10-103(a)1 requires the document to be registered.
+
+iv. Include a declaration statement to the effect that the building energy features, performance specifications, materials, components and manufactured devices for the building design identified on the Certificate of Compliance indicate the building is in compliance with the requirements of Title 24, Parts 1 and 6, and the building design features identified on the Certificate of Compliance are consistent with the building design features identified on the other applicable compliance documents, worksheets, calculations, plans and specifications submitted to the enforcement agency for approval with the building permit application.
+
+v.Be signed by the documentation author to certify the documentation is accurate and complete. When document registration is required by Section 10-103(a)1, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+vi.Be signed by the responsible person eligible under Division 3 of the Business and Professions Code to accept responsibility for the design to certify conformance with Part 6. When document registration is required by Section 10-103(a)1, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+B.For all low-rise residential buildings for which compliance requires HERS field verification, the person(s) responsible for the Certificate(s) of Compliance shall submit the Certificate(s) and their associated Compliance Registration Packages for registration and retention to a HERS provider data registry in compliance with Title 20, Chapter 4, Article 8, Section 1670 et seq. The submittals to the HERS provider data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Compliance documents and their associated Compliance Registration Packages that are registered and retained by a HERS provider data registry shall also be automatically transmitted by the data registry in compliance with Title 20, Chapter 4, Article 8, Section 1670 et seq, to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+C.For alterations to existing residential buildings for which HERS field verification is not required, including but not limited to water heater and window replacements, and for additions to existing residential buildings that are less than 300 square feet for which HERS field verification is not required, the enforcement agencies may at their discretion not require any Certificate of Compliance documentation, or may develop simplified Certificate of Compliance documentation for demonstrating compliance with the Standards.
+
+Exemptions from submitting compliance documentation shall not be deemed to grant authorization for any work to be done in any manner in violation of this code or other provisions of law.
+
+D.Contingent upon approval of data registry(s) by the Commission, all nonresidential buildings, high-rise residential buildings, and hotels and motels, when designated to allow use of an occupancy group or type regulated by Part 6 the person(s) responsible for the Certificate(s) of Compliance shall submit the Certificate(s) and their associated Compliance Registration Packages for registration and retention to a data registry approved by the Commission. The submittals to the approved data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Compliance documents and their associated Compliance Registration Packages that are registered and retained by an approved data registry shall also be automatically transmitted by the data registry to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+2.Application for a building permit. Each application for a building permit subject to Part 6 shall contain at least one copy of the documents specified in Sections 10-103(a)2A, 10-103(a)2B and 10-103(a)2C.
+
+A.For all newly constructed buildings, additions, alterations or repairs regulated by Part 6 the applicant shall submit the applicable Certificate(s) of Compliance to the enforcement agency for approval. The certificate(s) shall conform to the requirements of Section 10-103(a)1, and shall be approved by the local enforcement agency, in accordance with all applicable requirements of Section 10-103(d), by stamp or authorized signature prior to issuance of a building permit. A copy of the Certificate(s) of Compliance shall be included with the documentation the builder provides to the building owner at occupancy as specified in Section 10-103(b).
+
+For alterations to existing residential buildings for which HERS field verification is required, and when the enforcement agency does not require building design plans to be submitted with the application for a building permit, the applicable Certificate of Compliance documentation specified in Section 10-103(a)1 is not required to be approved by the enforcement agency prior to issuance of a building permit, but shall be approved by the enforcement agency prior to final inspection of the dwelling unit, and shall be made available to the enforcement agency for all applicable inspections, or made available for viewing on an approved data registry.
+
+When the enforcement agency requires building design plans to be submitted with the application for a building permit, the applicable Certificate of Compliance documents shall be incorporated into the building design plans. When Section 10-103(a)1 requires document registration, the certificate(s) that are incorporated into the building design plans shall be copies of the registered Certificate of Compliance documents from a HERS provider data registry, or a data registry approved by the Commission.
+
+B.When the enforcement agency requires building design plans and specifications to be submitted with the application for a building permit, the plans shall conform to the specifications for the features, materials, components and manufactured devices identified on the Certificate(s) of Compliance, and shall conform to all other applicable requirements of Part 6. Plans and specifications shall be submitted to the enforcement agency for any other feature, material, component or manufactured device that Part 6 requires be indicated on the building design plans and specifications. Plans and specifications submitted with each application for a building permit for nonresidential buildings, high-rise residential buildings and hotels and motels shall provide acceptance requirements for code compliance of each feature, material, component or manufactured device when acceptance requirements are required under Part 6. Plans and specifications for nonresidential buildings, high-rise residential buildings and hotels and motels shall require, and indicate with a prominent note on the plans, that within 90 days after the Enforcement Agency issues a permanent final occupancy permit, record drawings be provided to the building owner.
+
+For all buildings, if the specification for a building design feature, material, component or manufactured device is changed before final construction or installation, such that the building may no longer comply with Part 6 the building must be brought back into compliance, and so indicated on amended plans, specifications, and Certificate(s) of Compliance that shall be submitted to the enforcement agency for approval. Such characteristics shall include the efficiency (or other characteristic regulated by Part 6) of each building design feature, material, component or device.
+
+C.The enforcement agency shall have the authority to require submittal of any supportive documentation that was used to generate the Certificate(s) of Compliance, including but not limited to the electronic input file for the compliance software tool that was used to generate performance method Certificate(s) of Compliance; or any other supportive documentation that is necessary to demonstrate that the building design conforms to the requirements of Part 6.
+
+3.Certificate of Installation. For all buildings, the person in charge of the construction or installation, who is eligible under Division 3 of the Business and Professions Code to accept responsibility for the construction or installation of features, materials, components or manufactured devices regulated by Part 6 or the Appliance Efficiency Regulations (responsible person) shall sign and submit Certificate of Installation documentation as specified in Section 10-103(a)3 to certify conformance with Part 6. If more than one person has responsibility for the construction or installation, each person shall sign and submit the Certificate of Installation documentation applicable to the portion of the construction or installation for which they are responsible; alternatively, the person with chief responsibility for the construction or installation shall sign and submit the Certificate of Installation documentation for the entire construction or installation scope of work for the project. Subject to the requirements of Section 10-103(a)3, persons who prepare Certificate of Installation documentation (documentation authors) shall sign a declaration statement on the documents they prepare to certify the information provided on the documentation is accurate and complete. In accordance with applicable requirements of 10-103(a)3, the signatures provided by responsible persons and documentation authors shall be original signatures on paper documents or electronic signatures on electronic documents conforming to the electronic signature specifications in Reference Joint Appendix JA7.
+
+A.Delegation of Signature Authority. Except where prohibited by law, including but not limited to any requirements under Division 3 of the Business and Professions Code, the Responsible Person may delegate signature authority to third parties (Authorized Representatives) provided that there is a written agreement:
+
+i.Between the Responsible Person and the person to be designated as the Authorized Representative.
+
+ii.Specifying that the Authorized Representative may sign Certificates of Installation on behalf of the Responsible Person.
+
+iii.Specifying that the legal responsibility for construction or installation in the applicable classification for the scope of work specified on the Certificate of Installation document(s) remains with the Responsible Person.
+
+iv.That is signed by both the Responsible Person and the Authorized Representative.
+
+v.That is retained by the HERS Provider to which all compliance documents are submitted for the building to which the Certificate of Installation documentation pertains.
+
+vi.That is maintained in the HERS Provider Data Registry such that it is accessible for verification by, included but not limited to, the Energy Commission and enforcement agencies.
+
+B.Format. All Certificate of Installation documentation shall conform to a format and informational order and content approved by the Energy Commission.
+
+These documents shall:
+
+i.Identify the features, materials, components, manufactured devices and system performance diagnostic results required to demonstrate compliance with Part 6 and the Appliance Efficiency Regulations.
+
+ii.State the number of the building permit under which the construction or installation was performed.
+
+iiiDisplay the unique registration number assigned by the data registry if Section 10-103(a)3 requires the document to be registered.
+
+iv.Include a declaration statement indicating that the constructed or installed features, materials, components or manufactured devices (the installation) identified on the Certificate of Installation conform to all applicable codes and regulations, and the installation conforms to the requirements given on the plans and specifications approved by the enforcement agency.
+
+v.Be signed by the documentation author to certify the documentation is accurate and complete. When document registration is required by Section 10-103(a)3, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+vi.Be signed by the Responsible Person eligible under Division 3 of the Business and Professions Code to accept responsibility for construction or installation in the applicable classification for the scope of work specified on the Certificate of Installation document(s), or shall be signed by their Authorized Representative. When document registration is required by Section 10-103(a)3, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+C.For all low-rise residential buildings, the person(s) responsible for the Certificate(s) of Installation, or their Authorized Representative(s), shall submit the following Certificate of Installation documentation and their associated Compliance Registration Packages that are applicable to the building to a HERS provider data registry for registration and retention in accordance with Title 20, Chapter 4, Article 8, Section 1670 et seq. and procedures specified in Reference Residential Appendix RA2:
+
+i.All Certificates of Installation for which compliance requires HERS field verification.
+
+ii.All other Certificates of Installation, except those exempted by the Energy Commission.
+
+The submittals to the HERS provider data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Installation documents and their associated Compliance Registration Packages that are registered and retained by a HERS provider data registry in compliance with Title 20, Chapter 4, Article 8, Section 1670 et seq. shall also be automatically transmitted by the data registry to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+D.For alterations to existing residential buildings for which HERS field verification is not required, including but not limited to water heater and window replacements, and for additions to existing residential buildings that are less than 300 square feet for which HERS field verification is not required, the enforcement agencies may at their discretion not require any Certificate of Installation documentation, or may develop simplified Certificate of Installation documentation for demonstrating compliance with the Standards.
+
+Exemptions from submitting compliance documentation shall not be deemed to grant authorization for any work to be done in any manner in violation of this code or other provisions of law.
+
+E.Contingent upon approval of data registry(s) by the Commission, all nonresidential buildings, high-rise residential buildings, and hotels and motels, when designated to allow use of an occupancy group or type regulated by Part 6 the person(s) responsible for the Certificate(s) of Installation, except those documents exempted by the Energy Commission, shall submit the Certificate(s) and their associated Compliance Registration Packages for registration and retention to a data registry approved by the Commission. The submittals to the approved data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Installation documents and their associated Compliance Registration Packages that are registered and retained by an approved data registry shall also be automatically transmitted by the data registry to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+F.Availability. For all buildings, a copy of the Certificate(s) of Installation shall be posted, or made available with the building permit(s) issued for the building, or made available for viewing on an approved data registry, and shall be made available to the enforcement agency for all applicable inspections. When document registration is required by Section 10-103(a)3, registered copies of the Certificate(s) of Installation from a HERS provider data registry or a data registry approved by the Commission shall be posted or made available with the building permit(s) issued for the building, and shall be made available to the enforcement agency for all applicable inspections. If construction on any portion of the building subject to Part 6 will be impossible to inspect because of subsequent construction, the enforcement agency may require the Certificate(s) of Installation to be posted upon completion of that portion. A copy of the Certificate(s) of Installation shall be included with the documentation the builder provides to the building owner at occupancy as specified in Section 10-103(b).
+
+4.Certificate of Acceptance. For all nonresidential buildings, high-rise residential buildings and hotels and motels, when designated to allow use of an occupancy group or type regulated by Part 6 the person in charge of the acceptance testing, who is eligible under Division 3 of the Business and Professions Code to accept responsibility for the applicable scope of system design, or construction, or installation of features, materials, components or manufactured devices regulated by Part 6 or the Appliance Efficiency Regulations (responsible person), shall sign and submit all applicable Certificate of Acceptance documentation in accordance with Section 10-103(a)4 and Reference Nonresidential Appendix NA7 to certify conformance with Part 6. If more than one person has responsibility for the acceptance testing, each person shall sign and submit the Certificate of Acceptance documentation applicable to the portion of the construction or installation for which they are responsible; alternatively, the person with chief responsibility for the system design, construction or installation shall sign and submit the Certificate of Acceptance documentation for the entire construction or installation scope of work for the project. Subject to the requirements of Section 10-103(a)4, persons who prepare Certificate of Acceptance documentation (documentation authors) shall sign a declaration statement on the documents they prepare to certify the information provided on the documentation is accurate and complete. Persons who perform acceptance test procedures in accordance with the specifications in Reference Nonresidential Appendix NA7, and report the results of the acceptance tests on the Certificate of Acceptance (field technicians) shall sign a declaration statement on the documents they submit to certify the information provided on the documentation is true and correct. In accordance with applicable requirements of Section 10-103(a)4, the signatures provided by responsible persons, field technicians and documentation authors shall be original signatures on paper documents or electronic signatures on electronic documents conforming to the electronic signature specifications in Reference Joint Appendix JA7.
+
+A.All Certificate of Acceptance documentation shall conform to a format and informational order and content approved by the Energy Commission.
+
+These documents shall:
+
+i.Identify the features, materials, components, manufactured devices and system performance diagnostic results required to demonstrate compliance with the acceptance requirements to which the applicant must conform as indicated in the plans and specifications submitted under Section 10-103(a)2, and as specified in Reference Nonresidential Appendix NA7.
+
+ii.State the number of the building permit under which the construction or installation was performed.
+
+iii.Display the unique registration number assigned by the data registry if Section 10-103(a)4 requires the document to be registered.
+
+iv.Include a declaration statement indicating that the features, materials, components or manufactured devices identified on the Certificate of Acceptance conform to the applicable acceptance requirements as indicated in the plans and specifications submitted under Section 10-103(a), and with applicable acceptance requirements and procedures specified in the Reference Nonresidential Appendix NA7, and confirms that Certificate(s) of Installation described in Section 10-103(a)3 has been completed and is posted or made available with the building permit(s) issued for the building, or made available for viewing on an approved data registry.
+
+v.Be signed by the documentation author to certify the documentation is accurate and complete. When document registration is required by Section 10-103(a)4, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+vi.Be signed by the field technician who performed the acceptance test procedures and reported the results on the Certificate of Acceptance. When document registration is required by Section 10-103(a)4, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+vii.Be signed by the responsible person in charge of the acceptance testing who is eligible under Division 3 of the Business and Professions Code to accept responsibility for the system design, construction or installation in the applicable classification for the scope of work identified on the Certificate of Acceptance, or shall be signed by their authorized representative. When document registration is required by Section 10-103(a)4, the signature shall be an electronic signature on an electronic document in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+B.Contingent upon approval of data registry(s) by the Commission, all nonresidential buildings, high-rise residential buildings, and hotels and motels, when designated to allow use of an occupancy group or type regulated by Part 6 the person(s) responsible for the Certificate(s) of Acceptance shall submit the Certificate(s) and their associated Compliance Registration Packages for registration and retention to a data registry approved by the Commission, excluding all Certificates of Acceptance recorded by an acceptance test technician certification provider (Sections 10-103.1 and 10-103.2). The submittals to the approved data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Acceptance documents and their associated Compliance Registration Packages that are registered and retained by an approved data registry shall also be automatically transmitted by the data registry, to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+C.A copy of the Certificate(s) of Acceptance shall be posted, or made available with the building permit(s) issued for the building, and shall be made available to the enforcement agency for all applicable inspections. If construction on any portion of the building subject to Part 6 will be impossible to inspect because of subsequent construction, the enforcement agency may require the Certificate(s) of Acceptance to be posted upon completion of that portion. A copy of the Certificate(s) of Acceptance shall be included with the documentation the builder provides to the building owner at occupancy as specified in Section 10-103(b).
+
+5.Certificate of Field Verification and Diagnostic Testing (Certificate of Verification). For all buildings for which compliance requires HERS field verification, a certified HERS Rater shall conduct all required HERS field verification and diagnostic testing in accordance with applicable procedures specified in Reference Appendices RA2, RA3, NA1 and NA2. All applicable Certificates of Verification documentation shall be completed, signed and submitted by the certified HERS Rater who performed the field verification and diagnostic testing services (responsible person) in accordance with the requirements of Section 10-103(a)5, and Reference Appendices RA2 and NA1, to certify conformance with Part 6. If more than one rater has responsibility for the HERS verification for the building, each rater shall sign and submit the Certificate of Verification documentation applicable to the portion of the building for which they are responsible. Subject to the requirements of Section 10-103(a)5, persons who prepare Certificate of Verification documentation (documentation authors) shall sign a declaration statement on the documents they prepare to certify the information provided on the documentation is accurate and complete. The signatures provided by responsible persons and documentation authors shall be electronic signatures on electronic documents.
+
+A.Format. All Certificate of Verification documentation shall conform to a format and informational order and content approved by the Energy Commission.
+
+These documents shall:
+
+i.Identify the installed features, materials, components, manufactured devices or system performance diagnostic results that require HERS verification for compliance with Part 6 as specified on the Certificate(s) of Compliance for the building.
+
+ii.State the number of the building permit under which the construction or installation was performed.
+
+iii.Display the unique registration number assigned by the HERS provider data registry, and provide any additional information required by Reference Appendices RA2, RA3, NA1 and NA2.
+
+iv.Include a declaration statement indicating that the installed features, materials, components or manufactured devices requiring HERS verification conform to the applicable requirements in Reference Appendices RA2, RA3, NA1, NA2, and the requirements specified on the Certificate(s) of Compliance approved by the local enforcement agency, and confirms the same features, materials, components or manufactured devices are identified on the applicable Certificate(s) of Installation signed and submitted by the person(s) responsible for the construction or installation as described in Section 10-103(a)3.
+
+v.Be signed by the documentation author to certify the documentation is accurate and complete. The signatures shall be electronic signatures on electronic documents in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+vi.Be signed by the HERS Rater who performed the field verification and diagnostic testing services (responsible person). The signatures shall be electronic signatures on electronic documents in accordance with the electronic signature specifications in Reference Joint Appendix JA7.
+
+B.For all buildings for which compliance requires HERS field verification, the certified HERS Rater responsible for the Certificate(s) of Verification shall submit the Certificates and their associated Compliance Registration Packages for registration and retention to a HERS provider data registry in accordance with the applicable procedures in Reference Appendices RA2 and NA1, and in compliance with Title 20, Chapter 4, Article 8, Section 1670 et seq.
+
+The submittals to the HERS provider data registry shall be made electronically in accordance with the specifications in Reference Joint Appendix JA7.
+
+Contingent upon availability and approval of an electronic document repository by the Executive Director, Certificate of Verification documents and their associated Compliance Registration Packages that are registered and retained by a HERS provider data registry in accordance with Title 20, Chapter 4, Article 8, Section 1670 et seq. shall also be automatically transmitted by the data registry, to an electronic document repository for retention in accordance with the specifications in Reference Joint Appendix JA7.
+
+C.Availability. For all buildings, a copy of the registered Certificate(s) of Verification shall be posted, or made available with the building permit(s) issued for the building, or made available for viewing on an approved data registry, and shall be made available to the enforcement agency for all applicable inspections. If construction on any portion of the building subject to Part 6 will be impossible to inspect because of subsequent construction, the enforcement agency may require the Certificate(s) of Verification to be posted upon completion of that portion. A copy of the registered Certificate(s) of Verification shall be included with the documentation the builder provides to the building owner at occupancy as specified in Section 10-103(b).
+
+Exception to Section 10-103(a): Enforcing agencies may exempt nonresidential buildings that have no more than 1,000 square feet of conditioned floor area in the entire building and an occupant load of 49 persons or less from the documentation requirements of Section 10-103(a), provided a statement of compliance with Part 6 is submitted and signed by a licensed engineer or the licensed architect with chief responsibility for the design.
+
+(b)Compliance, operating, maintenance and ventilation information to be provided by builder.
+
+1.Compliance information.
+
+A.For low-rise residential buildings, at final inspection, the enforcement agency shall require the builder to leave in the building, copies of the completed, signed and submitted compliance documents for the building owner at occupancy. For low-rise residential buildings, such information shall, at a minimum, include copies of all Certificate of Compliance, Certificate of Installation and Certificate of Verification documentation submitted. These documents shall be in paper or electronic format and shall conform to the applicable requirements of Section 10-103(a).
+
+B.For nonresidential buildings, high-rise residential buildings and hotels and motels, at final inspection, the enforcement agency shall require the builder to leave in the building, copies of the completed, signed and submitted compliance documents for the building owner at occupancy. For nonresidential buildings, high-rise residential buildings and hotels and motels, such information shall include copies of all Certificate of Compliance, Certificate of Installation, Certificate of Acceptance and Certificate of Verification documentation submitted. These documents shall be in paper or electronic format and shall conform to the applicable requirements of Section 10-103(a).
+
+2.Operating information. At final inspection, the enforcement agency shall require the builder to leave in the building, for the building owner at occupancy, operating information for all applicable features, materials, components and mechanical devices installed in the building. Operating information shall include instructions on how to operate the features, materials, components and mechanical devices correctly and efficiently. The instructions shall be consistent with specifications set forth by the Executive Director. For low-rise residential buildings, such information shall be contained in a folder or manual which provides all information specified in Section 10-103(b). This operating information shall be in paper or electronic format.
+
+For dwelling units, buildings or tenant spaces that are not individually owned and operated, or are centrally operated, such information shall be provided to the person(s) responsible for operating the feature, material, component or mechanical device installed in the building. This operating information shall be in paper or electronic format.
+
+3.Maintenance information. At final inspection, the enforcement agency shall require the builder to leave in the building, for the building owner at occupancy, maintenance information for all features, materials, components and manufactured devices that require routine maintenance for efficient operation. Required routine maintenance actions shall be clearly stated and incorporated on a readily accessible label. The label may be limited to identifying, by title and/or publication number, the operation and maintenance manual for that particular model and type of feature, material, component or manufactured device. For low-rise residential buildings, this information shall include a schedule of all interior luminaires and lamps installed to comply with Section 150.0(k).
+
+For dwelling units, buildings or tenant spaces that are not individually owned and operated or are centrally operated, such information shall be provided to the person(s) responsible for maintaining the feature, material, component or mechanical device installed in the building. This information shall be in paper or electronic format.
+
+4.Ventilation information.
+
+A.For low-rise and high-rise residential buildings, the enforcement agency shall require the builder to leave the following information in the building, for the building owner at occupancy:
+
+i.A description of the quantities of outdoor air that the whole-dwelling unit ventilation system(s) are designed to provide to the building’s conditioned space, and instructions for proper operation and maintenance of the ventilation system.
+
+ii.Instructions for proper operation and maintenance of local exhaust systems, including instructions for conditions for which any occupantcontrolled systems such as kitchen range hoods and bathroom exhaust fans should be used.
+
+iii.For systems in buildings or tenant spaces that are not individually owned and operated by the dwelling unit occupants, the building’s owner or their representative shall provide a copy of the ventilation system information to dwelling occupants at the beginning of their occupancy. For systems in buildings or tenant spaces that are centrally operated, all applicable ventilation system information shall be provided to the person(s) responsible for operating and maintaining the feature, material, component or mechanical ventilation device installed in the building. This information shall be in paper or electronic format.
+
+B.For nonresidential buildings, and hotels and motels, the enforcement agency shall require the builder to provide the building owner at occupancy a description of the quantities of outdoor and recirculated air that the ventilation systems are designed to provide to each area. For buildings or tenant spaces that are not individually owned and operated or are centrally operated, such information shall be provided to the person(s) responsible for operating and maintaining the feature, material, component or mechanical device installed in the building. This information shall be in paper or electronic format.
+
+(c)Equipment information to be provided by manufacturer or supplier. The manufacturer or supplier of any manufactured device shall, upon request, provide to building designers and installers information about the device. The information shall include the efficiency (and other characteristics regulated by Part 6). This information shall be in paper or electronic format.
+
+(d)Enforcement agency requirements.
+
+1.Permits. An enforcement agency shall not issue a building permit for any construction unless the enforcement agency determines in writing that the construction is designed to comply with the requirements of Part 6 that are in effect on the date the building permit was applied for. The enforcement agency determination shall confirm that the documentation requirements of Sections 10-103(a)1 and 10-103(a)2 have been met.
+
+If a building permit has been previously issued, there has been no construction under the permit, and the permit has expired, the enforcement agency shall not issue a new permit unless the enforcement agency determines in writing that the construction is designed to comply with the requirements of Part 6 in effect on the date the new permit is applied for. The enforcement agency determination shall confirm that the documentation requirements of Sections 10-103(a)1 and 10-103(a)2 have been met.
+
+“Determines in writing” includes, but is not limited to, approval of a building permit with a stamp normally used by the enforcement agency.
+
+2.Inspection. The enforcement agency shall inspect newly constructed buildings and additions, and alterations to existing buildings to determine whether the construction or installation is consistent with the agency's approved plans and specifications, and complies with Part 6. Final certificate of occupancy shall not be issued until such consistency and compliance is verified. For Occupancy Group R-3, final inspection shall not be complete until such consistency and compliance is verified.
+
+Such verification shall include determination that:
+
+A.All installed features, materials, components or manufactured devices, regulated by the Appliance Efficiency Regulations or Part 6 are indicated, when applicable, on the Certificate(s) of Installation, Certificate(s) of Acceptance and Certificate(s) of Verification, and are consistent with such features, materials, components or manufactured devices given in the plans and specifications and the Certificate(s) of Compliance approved by the local enforcement agency.
+
+B.All required Certificates of Installation are posted, or made available with the building permit(s) issued for the building, or made available for viewing on an approved data registry, and are made available to the enforcement agency for all applicable inspections, and that all required Certificates of Installation conform to the specifications of Section 10-103(a)3.
+
+C.All required Certificates of Acceptance are posted, or made available with the building permit(s) issued for the building and are made available to the enforcement agency for all applicable inspections, and that all required Certificates of Acceptance conform to the specifications of Section 10-103(a)4.
+
+D.All required Certificates of Verification are posted, or made available with the building permit(s) issued for the building, or made available for viewing on an approved data registry, and are made available to the enforcement agency for all applicable inspections, and that all required Certificates of Verification conform to the specifications of Section 10-103(a)5.
+
+Authority: Section 25402, Public Resources Code.
+
+Reference: Section 25402, Public Resources Code.
+
+HISTORY:
+
+1.Amendment of subsection (e) filed 1-19-84; effective thirtieth day thereafter (Register 84, No. 3).
+
+2.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+3.Editorial correction of subsection (b) filed 2-5-85; effective upon filing pursuant to Government Code Section 11346.2 (d) (Register 85, No. 6).
+
+4.Amendment of subsection (a) filed 12-4-86; effective thirtieth day thereafter (Register 87, No. 1).
+
+5.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-103, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+6.(CEC 2/94) Regular order by the California Energy Commission to amend Section 10-103 (a) 1, 2, 3 and 4; (b) 1, 2 and 3; (d) 2, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state May 24, 1995; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on May 23, 1995.
+
+10-103.1. Nonresidential lighting controls acceptance test training and certification.
+
+(a)Scope. The requirements of this section apply to Acceptance Test Technicians (ATTs) and Acceptance Test Employers (ATEs), and Acceptance Test Technician Certification Providers (ATTCPs) that perform work relating to the acceptance testing of nonresidential lighting systems and controls.
+
+(b)Industry certification threshold. ATT and ATE certification requirements shall take effect when the Energy Commission finds that each of the following conditions are met. Until such time that Sections 10-103.1(b)1 and 10-103.1(b)2 are met, or if, subsequent to being met, they cease to be maintained, Field Technicians may complete acceptance testing as specified in Part 6, Sections 130.4 and 160.5(e) without meeting the certification requirements specified in Part 1, Section 10-103.1.
+
+1.Number of certified ATTs. There shall be no less than 300 ATTs certified to perform the lighting acceptance tests in Building Energy Efficiency Standards, Sections 130.4 and 160.5(e). The number of certified ATTs shall be submitted to the Energy Commission in the annual reports prepared by ATTCPs, as specified in Section 10-103.1(d)1.
+
+2.Industry coverage by ATTCPs. The ATTCPs approved by the Energy Commission, in their entirety, shall provide reasonable access to certification to the following industry groups: electrical contractors, certified general electricians, licensed architects, professional engineers, controls installation and startup contractors and certified commissioning professionals who have verifiable training, experience and expertise in lighting controls and electrical systems. The Energy Commission will determine whether reasonable access to certification is provided by considering factors such as certification costs commensurate with the complexity of the training being provided, certification marketing materials, prequalification criteria, class location and availability, and curriculum.
+
+(c)Qualifications and approval of ATTCPs. ATTCPs shall submit a written application to the Energy Commission with a summary and the related background documents to explain how the following criteria and procedures have been met:
+
+1.Organizational Structure. ATTCPs shall provide written explanations of the organization type, by-laws and ownership structure. ATTCPs shall explain in writing how their certification program meets the qualification requirements of Title 24, Part 1, Section 10-103.1(c). ATTCPs shall explain in their application to the Energy Commission their organizational structure and their procedures for independent oversight, quality assurance, supervision and support of the acceptance test training and certification processes.
+
+2.Certification of ATEs. The ATTCPs shall provide written explanations of their certification and oversight of ATEs. This explanation shall document how the ATTCP ensures that ATEs are providing quality control and appropriate supervision and support for their ATTs.
+
+A.Recertification. The ATTCP shall recertify all ATEs prior to the implementation of each adopted update to the Building Energy Efficiency Standards as these updates affect the acceptance test requirements. Recertification requirements and procedures shall only apply to those specific elements that are new or modified in future updates to Building Energy Efficiency Standards.
+
+3.Training and Certification Procedures. ATTCPs shall include with their application a complete copy of all training and testing procedures, manuals, handbooks and materials. ATTCPs shall explain in writing how their training and certification procedures include, but are not limited to, the following:
+
+A.Training scope. The scope of the training shall include both hands-on experience and theoretical training to certify competency in the technologies and skills necessary to perform the acceptance tests.
+
+B.ATT training.
+
+(i)Curricula. ATTCP training curricula for ATTs shall include, but not be limited to, the analysis, theory and practical application of the following:
+
+a.Lamp and ballast systems;
+
+b.Line voltage switching controls;
+
+c.Low voltage switching controls;
+
+d.Dimming controls;
+
+e.Occupancy sensors;
+
+f.Photosensors;
+
+g.Demand responsive signal inputs to lighting control systems;
+
+h.Building Energy Efficiency Standards required lighting control systems;
+
+i.Building Energy Efficiency Standards required lighting control system-specific analytical/problem solving skills;
+
+j.Integration of mechanical and electrical systems for Building Energy Efficiency Standards required lighting control installation and commissioning;
+
+k.Safety procedures for low-voltage retrofits (< 50 volts) to control line voltage systems (120 to 480 volts);
+
+l.Accurate and effective tuning, calibration and programming of Building Energy Efficiency Standards required lighting control systems;
+
+m.Measurement of illuminance according to the Illuminating Engineering Society’s measurement procedures as provided in the IES Lighting Handbook, 10th Edition, 2011;
+
+n.Building Energy Efficiency Standards lighting controls acceptance testing procedures; and
+
+o.Building Energy Efficiency Standards acceptance testing compliance documentation for lighting controls.
+
+ii.Hands-on training. The ATTCP shall describe in its application the design and technical specifications of the laboratory boards, equipment and other elements that will be used to meet the hands-on requirements of the training and certification.
+
+iii.Prequalification. Participation in the certification program shall be limited to persons who have at least three years of professional experience and expertise in lighting controls and electrical systems as determined by the Lighting Controls ATTCPs.
+
+NOTE: ATTCPs may specify additional qualifications for participation in their programs, such as limiting participation to persons that are not currently listed as “decertified” by another ATTCP.
+
+iv.Instructor to Trainee Ratio. The ATTCP shall document in its application to the Energy Commission why its instructor to trainee ratio is sufficient to ensure the integrity and efficacy of the curriculum and program based on industry standards and other relevant information.
+
+v.Tests. The ATTCP shall describe the written and practical tests used to demonstrate each certification applicant’s competence in all specified subjects. The ATTCPs shall retain all results of these tests for five years from the date of the test.
+
+vi.Recertification. The ATTCP shall recertify all ATTs prior to the implementation of each adopted update to the Building Energy Efficiency Standards when these updates affect the acceptance test requirements. Recertification requirements and procedures shall only apply to those specific elements that are new or modified in future updates to Building Energy Efficiency Standards. The ATTCP shall develop recertification training curricula for ATTs consistent with training requirements in Sections 10-103.1(c)3A and 10-103.1(c)3B, and shall submit the proposed recertification training curricula to the Energy Commission for review and approval in the update report required under Section 10-103.1(d)2.
+
+C.ATE Training. Training for ATEs shall consist of a single class or webinar consisting of at least four hours of instruction that covers the scope and process of the acceptance tests in Building Energy Efficiency Standards, Sections 130.4 and 160.5(e).
+
+D.Complaint procedures. The ATTCPs shall describe in their applications to the Energy Commission procedures for accepting and addressing complaints regarding the performance of any ATT or ATE certified by the ATTCP, and explain how building departments and the public will be notified of these proceedings.
+
+E.Decertification procedures. The ATTCPs shall describe in its applications to the Energy Commission procedures for revoking their certification of ATTs and ATEs based upon poor quality or ineffective work, failure to perform acceptance tests, falsification of documents, failure to comply with the documentation requirements of these regulations or other specified actions that justify decertification. The ATTCP shall also describe its general procedures for decertified ATTs or ATEs seeking to regain their certification status, including eligibility requirements for recertification (if any).
+
+F.Quality Assurance and Accountability. The ATTCP shall describe in its application to the Energy Commission its procedures for conducting quality assurance and accountability activities, including but not limited to the following:
+
+i.The ATTCP shall include quality assurance and accountability measures, including but not limited to independent oversight of the certification materials, processes and procedures, visits to building sites where certified technicians are completing acceptance tests, certification process evaluations, building department surveys to determine acceptance testing effectiveness, and expert review of the training curricula developed for Building Energy Efficiency Standards, Sections 130.4 and 160.5(e).
+
+ii.The ATTCP shall review a random sample of no less than 1 percent of each ATT’s completed compliance forms, and shall perform randomly selected on-site audits of no less than 1 percent of each ATT’s completed acceptance tests. Independent oversight may be demonstrated by accreditation under the ISO/IEC 17024 standard.
+
+G.Certification identification number and verification of ATT and ATE certification status. The ATTCP shall describe in its application to the Energy Commission its procedures for recording, tracking and communicating certification status, including but not limited to the following:
+
+i.Upon certification of an ATT or ATE, the ATTCP shall issue a unique certification identification number to the ATT or ATE.
+
+ii.The ATTCP shall maintain an accurate public record of the certification status for all ATTs and ATEs that the ATTCP has certified, including any ATTs or ATEs who have been decertified as specified in Section 10-103.1(c)3E.
+
+iii.The ATTCP shall provide verification of current ATT certification status upon request to authorized document Registration Provider personnel or enforcement agency personnel to determine the ATT's eligibility to sign Certificate of Acceptance documentation according to all applicable requirements in Sections 10-103.1, 10-102, 10-103(a)4, and the Reference Joint Appendix JA7.
+
+H.Electronic database system. The ATTCP shall maintain, or by suitable contractual requirements cause to be maintained, an electronic database system approved by the Energy Commission. The electronic database system shall be capable of all the following:
+
+i.Support all activities for the ATTCP to comply with its quality assurance program as required by Section 10-103.1(c)3F.
+
+ii.For no less than five years, record and preserve all certificates of acceptance offered for certification by the ATTCP and as performed by its own certified ATTs.
+
+iii.Allow the transmission of electronic copies of each completed certificate of acceptance to the ATT that performed the test, the ATE associated with that ATT or both.
+
+a.Each page of each certificate of acceptance shall bear the logo of the ATTCP or other identifying insignia as approved by the Energy Commission.
+
+b.The electronic copy shall be capable of being printed.
+
+c.The ATTCP may apply to the Energy Commission for approval to use alternative compliance documents that differ from those approved for use by the Energy Commission but must demonstrate that these alternative compliance documents do not differ in format, informational order or content from approved compliance documents.
+
+iv.Provide a means of verifying any certificate of acceptance to the enforcement agency having jurisdiction as identified on the certificate of acceptance.
+
+v.Provide the Energy Commission with any of the following project data or documents upon request: project address, permit numbers, acceptance test technician and acceptance test employee certification numbers, certificates of acceptance, compliance forms, installation forms and record of quality assurance review. The Energy Commission may adopt an Application Programming Interface (API) for providing data electronically. Within one year of development of an API, the ATTCP’s electronic database system shall have the ability to transfer project data to the Energy Commission through the API upon completion of the project or at established intervals no longer than monthly.
+
+I.Compliance document recording and repository
+reporting requirement.
+
+i.The ATTCP shall record all certificates of compliance [Section 10-103(a)1], certificates of installation [Section 10-103(a)3] and certificates of acceptance [Section 10-103(a)4] associated with any acceptance test specified in Part 6, Sections 130.4 and 160.5(e).
+
+ii.Contingent upon Energy Commission approval of the threshold [Section 10-103.1(b)] and upon availability and approval of an electronic document repository by the Executive Director, the ATTCP shall submit monthly data transfer packets to the Energy Commission to an electronic document repository for retention consistent with Energy Commission instructions.
+
+(d)Requirements for ATTCPs to provide regular reports. The ATTCP shall provide the following regular reports to the Energy Commission:
+
+1.Annual Report. The ATTCP shall provide an annual report to the Energy Commission that includes the following:
+
+A.A summary of the certification services provided over the reporting period, including the total number of Acceptance Test Technicians and Employers certified by the ATTCP during the reporting period and to date.
+
+B.A summary of all actions taken against any ATT or ATE as a result of the complaint or quality assurance procedures described by the ATTCP as required under Section 10-103.1(c)3D
+and 10- 103.1(c)3F.
+
+C.A summary of the quality assurance and accountability activities conducted over the reporting period, including the compliance forms reviewed and the on-site audits performed as required under Section 10-103.1(c)3Fii during the reporting period and to date.
+
+D.A summary of the number and type of acceptance tests performed in each local jurisdiction over the reporting period and to date.
+
+E.A signed certification to the Energy Commission that the ATTCP continues to meet the requirements of Section 10-103.1.
+
+2.Update Report. The ATTCP shall have no less than six months following the adoption of an update to the Building Energy Efficiency Standards to prepare an Update Report. The ATTCP shall submit an Update Report to the Energy Commission no less than six months prior to the effective date of any newly adopted update to the Building Energy Efficiency Standards. The ATTCP shall report to the Energy Commission what application amendments are proposed, to address changes to the Building Energy Efficiency Standards or to ensure training is reflective of the variety of lighting controls that are currently encountered in the field. All required update reports shall contain a signed certification that the ATTCP continues to meet the requirements of Section 10-103.1. Update reports shall be approved through the Amendment Process provided under Section 10-103.1(f).
+
+All required reports shall contain a signed certification that the ATTCP has met all requirements for this program.
+
+(e)Application review and determination. The Energy Commission shall review ATTCP applications according to the criteria and procedures in Section 10-103.1(c) to determine if such providers meet the specified requirements for providing acceptance testing certification services.
+
+1.Energy Commission staff will review and validate all information received on ATTCP applications, and determine whether the application is complete and contains sufficient information to be evaluated by staff. Complete applications shall be evaluated by staff based on their contents.
+
+2.The Executive Director may require that the applicant provide additional information as required by staff to fully evaluate the ATTCP application.
+
+3.The Executive Director shall provide a copy of the staff evaluation to interested persons and provide a reasonable opportunity for public comment.
+
+4.The Executive Director shall issue a written recommendation that the Energy Commission designate the applicant as an authorized ATTCP or deny the application.
+
+5.The Energy Commission shall make a final decision on the application at a publicly-noticed hearing.
+
+(f)Amendment Process.
+
+The ATTCP may amend a submitted or approved application, as follows:
+
+1.Amendment Scope.
+
+A.Nonsubstantive Changes. A nonsubstantive change is a change that does not substantively alter the requirements of the application materials for the ATTCP, ATT or ATE. For amendments making only nonsubstantive changes, the ATTCP shall submit the following:
+
+i.A letter describing the change to the Energy Commission as an addendum to the application;
+
+ii.A replacement copy of the affected sections of the ATTCP application with the changes incorporated; and
+
+iii.A copy of the affected sections of the ATTCP application showing the changes in underline and strikeout format.
+
+B.Substantive Changes. A substantive change is a change that substantively alters the requirements of the application materials for the ATTCP, ATT or ATE. For amendments making any substantive changes, the ATTCP shall submit the following:
+
+i.A document describing the scope of the change to the application, the reason for the change and the potential impact to the ATTCP, ATT and ATE as an addendum to the application;
+
+ii.A replacement copy of the affected sections of the ATTCP application with the changes incorporated; and
+
+iii.A copy of the affected sections of the ATTCP application showing the changes in underline and strikeout format.
+
+2.Amendment Review. Amendments submitted prior to approval of an ATTCP application shall be included in the application’s Application Review and Determination process specified in Section 10-103.1(e).
+
+Amendments submitted after approval of an ATTCP’s application that contain only nonsubstantive changes shall be reviewed by the Executive Director for consistency with Section 10-103.1. Amendments determined to be consistent with this section shall be incorporated into the approval as errata.
+
+Amendments submitted after approval of an ATTCP’s application that contain any substantive changes shall be subject to the Application Review and Determination process specified in Section 10-103.1(e). If the Energy Commission finds that the amended application does not meet the requirements of Section 10-103.1, then the ATTCP shall either abide by the terms of their previously approved application or have their approval suspended.
+
+(g)Review by the Energy Commission. If the Energy Commission determines there is a violation of these regulations or that an ATTCP is no longer providing adequate certification services, the Energy Commission may revoke the authorization of the ATTCP pursuant to Section 1230 et seq. of Title 20 of the California Code of Regulations.
+
+Authority: Sections 25402, 25402.1, 25213, Public Resources Code.
+
+References: Sections 25007, 25402(a)-(b), 25402.1, 25402.4, 25402.5, 25402.8 and 25910, Public Resources Code.
+
+10-103.2. Nonresidential mechanical acceptance test training and certification.
+
+(a)Scope. The requirements of this section apply to Acceptance Test Technicians (ATTs), Acceptance Test Employers (ATEs) and Acceptance Test Technician Certification Providers (ATTCPs) that perform work relating to the acceptance testing of nonresidential mechanical systems and controls.
+
+(b) Industry Certification Threshold. ATT and ATE certification requirements shall take effect when the Energy Commission finds that each of the following conditions are met. Until such time that Sections 10-103.2(b)1 and 10-103.2(b)2 are met, or if, subsequent to being met, they cease to be maintained, Field Technicians may complete acceptance testing as specified in Sections 120.5 and 160.3(d) without completing certification requirements specified in Part 1, Section 10-103.2.
+
+1. Number of Certified ATTs.
+
+A.There shall be no less than 300 ATTs certified to perform the complete set of mechanical acceptance tests in Building Energy Efficiency Standards, Sections 120.5 and 160.3(d), except as provided in Subsection 10-103.2(b)1B. The number of certified ATTs shall be submitted to the Energy Commission in the annual reports prepared by ATTCPs, as specified in Section 10-103.2(d)1.
+
+B.If there are less than 300 ATTs certified to perform all of the acceptance tests in Building Energy Efficiency Standards, Sections 120.5 and 160.3(d), then there shall be at least 300 ATTs certified to complete the following tests:
+
+i.NA7.5.1 Outdoor Air Ventilation Systems
+
+ii.NA7.5.2 Constant Volume, Single Zone Unitary Air Conditioners and Heat Pumps
+
+iii.NA7.5.4 Air Economizer Controls
+
+iv.NA7.5.5 Demand Control Ventilation Systems
+
+v.NA 7.5.6 Supply Fan Variable Flow Controls
+
+vi. NA7.5.7, NA7.5.9 Hydronic System Variable Flow Controls
+
+vii.NA7.5.10 Automatic Demand Shed Controls
+
+2. Industry coverage by ATTCPs. ATTCPs approved by the Energy Commission, in their entirety, provide reasonable access to certification to the following industry groups: professional engineers, licensed architects, HVAC installers, mechanical contractors, Testing and Balancing (TAB) certified technicians, controls installation and startup contractors and certified commissioning professionals who have verifiable training, experience and expertise in HVAC systems. The Energy Commission will determine reasonable access by considering factors such as certification costs commensurate with the complexity of the training being provided, certification marketing materials, prequalification criteria, class availability and curriculum.
+
+(c) Qualifications and approval of ATTCPs. ATTCPs shall submit a written application to the Energy Commission with a summary and the necessary background documents to explain how the following criteria and procedures have been met:
+
+1.Organizational Structure. ATTCPs shall provide written explanations of the organization type, by-laws and ownership structure. ATTCPs shall explain in writing how their certification program meets the qualifications of Building Energy Efficiency Standards, Section 10-103.2(c). ATTCPs shall explain in their application to the Energy Commission their organizational structure and their procedures for independent oversight, quality assurance, supervision and support of the acceptance test training and certification processes.
+
+2.Certification of ATEs. The ATTCPs shall provide written explanations of their certification and oversight of ATEs. This explanation shall document how the ATTCP ensures that ATEs are providing quality control and appropriate supervision and support for their ATTs.
+
+A.Recertification. The ATTCP shall recertify all ATEs prior to the implementation of each adopted update to the Building Energy Efficiency Standards as these updates affect the acceptance test requirements. Recertification requirements and procedures shall only apply to those specific elements that are new or modified in future updates to Building Energy Efficiency Standards.
+
+3.Requirements for Applicant ATTCPs to Document Training and Certification Procedures. ATTCPs shall include with their application a complete copy of all training and testing procedures, manuals, handbooks and materials. ATTCPs shall explain in writing how their training and certification procedures include, but are not limited to, the following:
+
+A.Training Scope. The scope of the training shall include both hands-on experience and theoretical training to certify competency in the technologies and skills necessary to perform the acceptance tests.
+
+B. ATT Training.
+
+i. Curricula. ATTCP training curricula for ATTs shall include, but not be limited to, the analysis, theory and practical application of the following:
+
+a.Constant volume system controls;
+
+b.Variable volume system controls;
+
+c.Air-side economizers;
+
+d.Air distribution system leakage;
+
+e.Demand controlled ventilation with CO2 sensors;
+
+f.Demand controlled ventilation with occupancy sensors;
+
+g.Automatic demand shed controls;
+
+h.Hydronic valve leakage;
+
+i.Hydronic system variable flow controls;
+
+j.Supply air temperature reset controls;
+
+k.Condenser water temperature reset controls;
+
+l.Outdoor air ventilation systems;
+
+m.Supply fan variable flow controls;
+
+n.Boiler and chiller isolation controls;
+
+o.Fault detection and diagnostics for packaged direct-expansion units;
+
+p.Automatic fault detection and diagnostics for air handling units and zone terminal units;
+
+q.Distributed energy storage direct-expansion air conditioning systems;
+
+r.Thermal energy storage systems;
+
+s.Building Energy Efficiency Standards mechanical acceptance testing procedures; and
+
+t.Building Energy Efficiency Standards acceptance testing compliance documentation for mechanical systems.
+
+ii. Hands-on training. The ATTCP shall describe in its application the design and technical specifications of the laboratory boards, equipment and other elements that will be used to meet the hands-on requirements of the training and certification.
+
+iii. Prequalification. Participation in the certification program shall be limited to persons who have at least three years of professional experience and expertise in mechanical controls and systems as determined by the Mechanical ATTCPs.
+
+NOTE: ATTCPs may specify additional qualifications for participation in their programs, such as limiting participation to persons that are not currently listed as “decertified” by another ATTCP.
+
+iv. Instructor to Trainee Ratio. The ATTCP shall document in its application to the Energy Commission why its instructor to trainee ratio is sufficient to ensure the integrity and efficacy of the curriculum and program based on industry standards and other relevant information.
+
+v. Tests.The ATTCP shall describe the written and practical tests used to demonstrate each certification applicant’s competence in all specified subjects. The ATTCPs shall retain all results of these tests for five years from the date of the test.
+
+vi. Recertification. The ATTCP shall recertify all ATTs prior to the implementation of each adopted update to the Building Energy Efficiency Standards as these updates affect the acceptance test requirements. Recertification requirements and procedures shall only apply to those specific elements that are new or modified in future updates to Building Energy Efficiency Standards.
+
+C. ATE. Training for ATEs shall consist of a single class or webinar consisting of at least four hours of instruction that covers the scope and process of the acceptance tests in Building Energy Efficiency Standards, Sections 120.5 and 160.3(d).
+
+D.Complaint procedures. Procedures described in writing for notifying building departments and the public that the ATTCP will accept complaints regarding the performance of any certified ATT or ATE, and procedures for how the ATTCP will address these complaints.
+
+E.Decertification Procedures. The ATTCP shall describe in its application to the Energy Commission procedures for revoking their certification of ATT and ATEs based upon poor quality or ineffective work, failure to perform acceptance tests, falsification of documents, failure to comply with the documentation requirements of these regulations or other specified actions that justify decertification. The ATTCP shall also describe its general procedures for decertified ATTs or ATEs seeking to regain their certification status, including eligibility requirements for recertification (if any).
+
+F. Quality Assurance and Accountability. The ATTCP shall describe in its applications to the Energy Commission procedures for conducting quality assurance and accountability activities, including but not limited to the following:
+
+i.The ATTCPs shall include quality assurance and accountability measures, including but not limited to independent oversight of the certification materials, processes and procedures, visits to building sites where certified technicians are completing acceptance tests, certification process evaluations, building department surveys to determine acceptance testing effectiveness, and expert review of the training curricula developed for Building Energy Efficiency Standards, Sections 120.5 and 160.3(d).
+
+ii.The ATTCP shall review a random sample of no less than 1 percent of each ATT’s completed compliance forms. The ATTCP shall also randomly select and shadow audit no less than 1 percent of each ATE’s overseen projects, following the assigned ATT and observing their performance on the job site. Independent oversight may be demonstrated by accreditation under the ISO/IEC 17024 standard.
+
+G. Certification Identification Number and Verification of ATT and ATE Certification Status. The ATTCP shall describe in its applications to the Energy Commission procedures for recording, tracking and communicating certification status, including but not limited to the following:
+
+i.Upon certification of an ATT or ATE, the ATTCP shall issue a unique certification identification number to the ATT or ATE.
+
+ii.The ATTCP shall maintain an accurate public record of the certification status for all ATTs and ATEs that the ATTCP has certified, including any ATTs or ATEs who have been decertified as specified in 10-103.2(c)3E.
+
+iii.The ATTCP shall provide verification of current ATT certification status upon request to authorized document Registration Provider personnel or enforcement agency personnel to determine the ATT's eligibility to sign Certificate of Acceptance documentation according to all applicable requirements in Sections 10-103.2, 10-102, 10-103(a)4, and Reference Joint Appendix JA7.
+
+H.Electronic Database System. The ATTCP shall maintain, or by suitable contractual requirements cause to be maintained, an electronic database system approved by the Energy Commission. The electronic database system shall be capable of all the following:
+
+i.Support all activities for the ATTCP to comply with its quality assurance program as required by Section 10-103.2(c)3F.
+
+ii.For no less than five years, record and preserve all certificates of acceptance offered for certification by the ATTCP and as performed by its own certified ATTs.
+
+iii.Allow the transmission of electronic copies of each completed certificate of acceptance to the ATT that performed the test, the ATE associated with that ATT or both.
+
+a.Each page of each certificate of acceptance shall bear the logo of the ATTCP or other identifying insignia as approved by the Energy Commission.
+
+b.The electronic copy shall be capable of being printed.
+
+c.The ATTCP may apply to the Energy Commission for approval to use alternative compliance documents that differ from those approved for use by the Energy Commission but must demonstrate that these alternative compliance documents do not differ in format, informational order or content from approved compliance documents.
+
+iv.Provide a means of verifying any certificate of acceptance to the enforcement agency having jurisdiction as identified on the certificate of acceptance.
+
+v.Provide the Energy Commission with any of the following project data or documents upon request: project address, permit numbers, acceptance test technician and acceptance test employee certification numbers, certificates of acceptance, compliance forms, installation forms and record of quality assurance review. The Energy Commission may adopt an Application Programming Interface (API) for providing data electronically. Within one year of development of an API, the ATTCP’s electronic database system shall have the ability to transfer project data to the Energy Commission through the API upon completion of the project or at established intervals no longer than monthly.
+
+I.Compliance Document Recording and Repository Reporting Requirement:
+
+i.The ATTCP shall record all certificates of compliance [Section 10-103(a)1], certificates of installation [Section 10-103(a)3], and certificates of acceptance [Section 10-103(a)4] associated with any acceptance test specified in Part 6, Sections 120.5 and 160.3(d).
+
+ii.Contingent upon Energy Commission approval of the threshold [Section 10-103.2(b)] and upon availability and approval of an electronic document repository by the Executive Director, the ATTCP shall submit monthly data transfer packets to the Energy Commission to an electronic document repository for retention consistent with Energy Commission instructions.
+
+(d)Requirements for ATTCPs to provide regular reports. The ATTCP shall provide the following regular reports to the Energy Commission:
+
+1.Annual Report. The ATTCP shall provide an annual report to the Energy Commission that includes the following:
+
+A.A summary of the certification services provided over the reporting period, including the total number of Acceptance Test Technicians and Employers certified by the agency during the reporting period and to date.
+
+B.A summary of all actions taken against any ATT or ATE as a result of the complaint or quality assurance procedures described by the ATTCP as required under Section 10-103.2(c)3D and 10-103.2(c)3F.
+
+C.A summary of the quality assurance and accountability activities conducted over the reporting period, including the compliance forms reviewed and the on-site audits performed as required under Section 10-103.2(c)3F(ii) during the reporting 
+period and to date.
+
+D.A summary of the number and type of acceptance tests performed in each local jurisdiction over the reporting period and to date.
+
+E.A signed certification to the Energy Commission that the ATTCP continues to meet the requirements of Section 10-103.2.
+
+2.Update Report. The ATTCP shall have no less than six months following the adoption of an update to the Building Energy Efficiency Standards to prepare an Update Report. The ATTCP shall submit an Update Report to the Energy Commission no less than six months prior to the effective date of any newly adopted update to the Building Energy Efficiency Standards, The ATTCP shall report to the Energy Commission what application amendments are proposed to address changes to the Building Energy Efficiency Standards or to ensure training is reflective of the variety of mechanical equipment and systems currently encountered in the field. All required update reports shall contain a signed certification that the ATTCP continues to meet all the requirements of Section 10-103.2(c). Update reports shall be approved through the Amendment Process provided under Section 10-103.2(f).
+
+All required reports shall contain a signed certification that the ATTCP has met all requirements for this program.
+
+(e)Application Review and Determination. The Energy Commission shall review ATTCP applications according to the criteria and procedures in Section 10-103.2(c) to determine if such providers meet the specified requirements for providing acceptance testing certification services.
+
+1.Energy Commission staff will review and validate all information received on ATTCP applications, and determine whether the application is complete and contains sufficient information to be evaluated by staff. Complete applications shall be evaluated by staff based on their contents.
+
+2.The Executive Director may require that the applicant provide additional information as required by staff to fully evaluate the ATTCP application.
+
+3.The Executive Director shall provide a copy of the staff evaluation to interested persons and provide an opportunity for public comment.
+
+4.The Executive Director shall issue a written recommendation that the Energy Commission designate the applicant as an authorized ATTCP or deny the Provider application.
+
+5.The Energy Commission shall make a final decision on the application at a publicly-noticed hearing.
+
+(f)Amendment Process.
+
+The ATTCP may amend a submitted or approved application, as follows:
+
+1.Amendment Scope.
+
+A.Nonsubstantive Changes. A nonsubstantive change is a change that does not substantively alter the requirements of the application materials for the ATTCP, ATT or ATE. For amendments making only nonsubstantive changes, the ATTCP shall submit the following:
+
+i.a letter describing the change to the Energy Commission as an addendum to the application;
+
+ii.A replacement copy of the affected sections of the ATTCP application with the changes incorporated; and
+
+iii.A copy of the affected sections of the ATTCP application showing the changes in underline and strikeout format.
+
+B.Substantive Changes. A substantive change is a change that substantively alters the requirements of the application materials for the ATTCP, ATT or ATE. For amendments making any substantive changes, the ATTCP shall submit the following:
+
+i.A document describing the scope of the change to the application, the reason for the change and the potential impact to the ATTCP, ATT and ATE as an addendum to the application;
+
+ii.A replacement copy of the affected sections of the ATTCP application with the changes incorporated; and
+
+iii.A copy of the affected sections of the ATTCP application showing the changes in underline and strikeout format.
+
+2. Amendment Review. Amendments submitted prior to approval of an ATTCP application shall be included in the application’s Application Review and Determination process specified in Section 10-103.2(e).
+
+Amendments submitted after approval of an ATTCP’s application that contain only nonsubstantive changes shall be reviewed by the Executive Director for consistency with Section 10-103.2. Amendments determined to be consistent with this section shall be incorporated into the approval as errata.
+
+Amendments submitted after approval of an ATTCP’s application that contain any substantive changes shall be subject to the Application Review and Determination process specified in Section 10-103.2(e). If the Energy Commission finds that the amended application does not meet the requirements of Section 10-103.2, then the ATTCP shall either abide by the terms of their previously approved application or have their approval suspended.
+
+(g)Review by the Energy Commission. If the Energy Commission determines there is a violation of these regulations or that an ATTCP is no longer providing adequate certification services, the Energy Commission may revoke the authorization of the ATTCP pursuant to Section 1230 et seq. of Title 20 of the California Code of Regulations.
+
+Authority: Sections 25402, 25402.1, 25213, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402(a)-(b), 25402.1, 25402.4, 25402.5, 25402.8, 25910 and 25943, Public Resources Code.
+
+10-104. Exceptional designs.
+
+Note: See Section 10-109 for approval of calculation methods and Alternative Component Packages.
+
+(a)Requirements. If a building permit applicant proposes to use a performance compliance approach, and the building designs cannot be adequately modeled by an approved calculation method, an applicant shall be granted a building permit if the Commission finds:
+
+1.That the design cannot be adequately modeled with an approved calculation method;
+
+2.Using an alternative evaluation technique, that the design complies with Part 6; and
+
+3.That the enforcement agency has determined that the design complies with all other legal requirements.
+
+(b)Applications. The applicant shall submit four copies of a signed application with the following materials to the Executive Director:
+
+1.A copy of the plans and documentation required by Section 10-103(a)2;
+
+2.A statement explaining why meeting the energy budget cannot be demonstrated using an approved calculation method;
+
+3.Documentation from the enforcement agency stating that:
+
+A.Meeting the energy budget requirements cannot be demonstrated using an approved calculation method; and
+
+B.The design complies with all other legal requirements; and
+
+4.A detailed evaluation of the energy consumption of the proposed building and the building’s materials, components and manufactured devices proposed to be installed to meet the requirements of Part 6 using an alternative evaluation technique. The evaluation shall include a copy of the technique, instructions for its use, a list of all input data and all other information required to replicate the results.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+HISTORY:
+
+1.New section filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+2.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-104, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-105. Enforcement by the Commission.
+
+(a)Where there is no local enforcement agency. Before new construction may begin in an area where there is no local enforcement agency, the Executive Director shall determine in writing that the building design conforms to the requirements of Part 6. The person proposing to construct the building shall submit the information described in Sections 10-103(a)1 and 10-103(a)2 to the Executive Director when such a determination is sought.
+
+(b)Where building construction is under the jurisdiction of a state agency. Pursuant to Public Resources Code Section 25402.1(g)(5), no construction of any state building shall commence until the Department of General Services or the state agency that otherwise has jurisdiction over the property determines that the construction is designed to comply with the requirements of Part 6, and confirms that the documentation requirements of Sections 10-103(a)1 and 10-103(a)2 have been met and that the plans indicate the features and performance specifications needed to comply with Part 6. The responsible state agency shall notify the Commission’s Executive Director of its determination.
+
+(c)Where the enforcement agency fails to enforce. If an enforcement agency fails to enforce the requirements of this article or of Part 6 the Commission, after furnishing 10 days written notice, may condition building permit issuance on submission of the information described in Sections 10-103(a)1 and 10-103(a)2 to the Executive Director and on his or her written determination that proposed construction conforms to the requirements of Part 6.
+
+Authority: Code Section 25402.1, Public Resources Code.
+
+Reference: Section 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+2.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-105, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-106. Locally adopted energy standards.
+
+(a)Requirements. Local governmental agencies may adopt and enforce energy standards for newly constructed buildings, additions, alterations and repairs to existing buildings provided the following two requirements are met prior to any enforcement of the standards:
+
+1.A determination that the standards are cost effective is adopted by the local agency at a public meeting and subsequently filed with the Energy Commission; and
+
+2.The Energy Commission finds that the standards will require buildings to be designed to consume less energy than permitted by Title 24, Part 6.
+
+(b)Documentation application. Local governmental agencies wishing to enforce energy standards subject to Section 10-106(a) shall submit an application with the following materials to the Executive Director:
+
+1.The proposed energy standards;
+
+2.The local governmental agency's findings and supporting analyses on the energy savings and cost effectiveness of the proposed energy standards;
+
+3.A statement or finding by the local governmental agency that the proposed energy standards will require buildings to be designed to consume less energy than permitted by Part 6; and
+
+4.Any findings, determinations, declarations or reports, including any negative declaration or environmental impact report, required pursuant to the California Environmental Quality Act, Public Resources Code Section 21000 et seq.
+
+Authority: Section 25402.1, Public Resources Code.
+
+Reference: Section 21080.4, 21153, 23402.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+2.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-106, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-107. Interpretations.
+
+(a)The Commission may make a written determination as to the applicability or interpretation of any provision of this article or of Part 6 upon written application, if a dispute concerning a provision arises between an applicant for a building permit and the enforcement agency, and the dispute has been heard by the local board of permit appeals or other highest local review body. Notice of any such appeal, including a summary of the dispute and the section of the regulations involved, shall if possible be sent to the Commission by the enforcing agency 15 days before the appeal is heard, and the result of the appeal shall be sent to the Commission within 15 days after the decision is made. Either party to the dispute may apply for a determination but shall concurrently deliver a copy of the application to the other party. The determinations are binding on the parties.
+
+(b)The Executive Director may, upon request, give written advice concerning the meaning of any provision of this article or of Part 6. Such advice is not binding on any person.
+
+Authority: Section 25402.1, Public Resources Code.
+
+Reference: Sections 25402.1 and 25218.5, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+2.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-107, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-108. Exemption.
+
+(a)Requirements. The Commission may exempt any building from any provision of Part 6 if it finds that:
+
+1.Substantial funds had been expended in good faith on planning, designing, architecture or engineering of the building before the adoption date of the provision; and
+
+2.Compliance with the requirements of the provision would be impossible without both substantial delays and substantial increases in costs of construction above the reasonable costs of the measures required to comply with the provision.
+
+(b)Application. The applicant shall submit four copies of a signed application with the following materials to the Executive Director:
+
+1.A summary of the claimant’s contracts for the project;
+
+2.A summary of internal financial reports on the project;
+
+3.Dated schedules of design activities; and
+
+4.A progress report on project completion.
+
+Authority: Section 25402.1, Public Resources Code.
+
+Reference: Section 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-11-83; effective thirtieth day thereafter (Register 83, No. 33).
+
+2.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+3.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-108, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-109. Compliance software, alternative component packages, exceptional methods, data registries and related external digital data sources, alternative residential field verification protocols, electronic document repositories, photovoltaic and battery storage system requirement determinations. requirement determinations.
+
+(a)Compliance software, alternative component packages, exceptional methods, data registries and related
+data input software, alternative residential field verification protocols or electronic document repositories must be approved by the Commission in order to be used to demonstrate compliance with Part 6.
+
+(b)Application. Applications for approval of compliance software, alternative component packages, exceptional methods, data registries and related data input software, and alternative field verification protocols must be made as follows:
+
+1.An applicant shall submit four copies of a signed application form specified by the Executive Director.
+
+2.The application shall include the following materials:
+
+A.A description of the functional or analytical capabilities of the compliance software, alternative component package, calculation method, exceptional method, data registry or related data input software, and alternative field verification protocols; and
+
+B.A demonstration that the criteria in Section 10-109 are met; and
+
+C.An initial fee of one thousand dollars ($1,000). The total fee shall cover the Commission’s cost of reviewing and analyzing the application. Within 75 days of receipt of an application, the Commission will provide an estimate of the total maximum cost to review and analyze the application and make a determination as to the completeness of the application. Consideration of the application will be delayed until the applicant submits requested additional information. After the Commission determines the total cost, if the cost exceeds the initial fee, the Commission shall assess an additional fee to cover the total cost. If the actual cost is less than the initial, or any estimated maximum, fee the Commission shall refund the difference to the applicant.
+
+(c)Compliance software.
+
+1.Public domain computer programs. In addition to the public domain computer programs that are approved pursuant to Public Resources Code Section 25402.1, the Commission may, upon written application or its own motion, approve additional public domain computer programs that may be used to demonstrate that proposed building designs meet energy budgets.
+
+A.The Commission shall ensure that users’ manuals or guides for each approved program are available.
+
+B.The Commission shall approve a program only if it predicts energy consumption substantially equivalent to that predicted by the above-referenced public domain computer program, when it models building designs or features.
+
+2.Alternative calculation methods (all occupancies). The Commission may approve nonpublic domain computer programs as an alternative calculation method, that building permit applicants may then use to demonstrate compliance with the performance standards (energy budgets) in Part 6. In addition to the application requirements of subdivision (b) above, an application for approval of compliance software must include documentation demonstrating, that the compliance software meets the requirements, specifications and criteria set forth in the Residential or Nonresidential ACM Approval Manual, as appropriate.
+
+Note: Copies of the ACM Approval Manuals may be obtained from the Commission’s website at: www.energy.ca.gov/title24.
+
+(d)Alternative component packages. In addition to the application requirements of subdivision (b) above, an application for approval of an alternative component package must include documentation that demonstrates that the package:
+
+1.Will meet the applicable energy budgets; and
+
+2.Is likely to apply to a significant percentage of newly constructed buildings or to a significant segment of the building construction and design community.
+
+(e)Exceptional methods. The Commission may approve an exceptional method that analyzes a design, material or device that cannot be adequately modeled using the public domain computer programs. Applications for approval of exceptional methods shall include all information needed to verify the method’s accuracy.
+
+(f)Commission action. The Commission may take the following actions on an application submitted pursuant to this section:
+
+1.Approve the application unconditionally;
+
+2.Restrict approval to specified occupancies, designs, materials or devices; or
+
+3.Reject the application.
+
+(g)Resubmittal. An applicant may resubmit a rejected application or may request modification of a restricted approval. Such application shall include the information required pursuant to this section, and, if applicable, shall indicate how the proposed compliance software, alternative component package, exceptional method, data registry or related data input software has been changed to enhance its accuracy or capabilities.
+
+1.Modification. Whenever an approved compliance software, alternative component package, exceptional method, data registry or related data input software is changed in any way, it must be resubmitted under this section for approval.
+
+2.The Commission may modify or withdraw approval of compliance software, an alternative component package, an exceptional method, or a data registry or related data input software based on its approval of other programs, methods, registries or data input software that are more suitable.
+
+(h)In addition to the procedures and protocols identified in the Alternative Calculation Method Approval Manuals and the Reference Appendices, the Commission may authorize alternative procedures or protocols that demonstrate compliance with Part 6.
+
+(i)Data registries and related external digital data sources, and electronic document repositories.
+
+1.Data registries and related external digital data sources.
+
+Data registries and related external digital data sources shall conform to the requirements specified in Reference Joint Appendix JA7.
+
+A.The Commission may approve residential data registries that provide for registration and retention of compliance documents and their associated Compliance Registration Packages when required by Part 6 of all residential compliance documentation and the nonresidential Certificates of Verification.
+
+B.Nonresidential data registry approval thresholds.
+
+i.The Commission may approve nonresidential data registries that provide for registration and retention of compliance documents and their associated Compliance Registration Packages when required by Part 6 of all nonresidential compliance documentation, excluding all Certificates of Acceptance recorded by an acceptance test technician certification provider (Sections 10-103.1 and 10-103.2). However, nonresidential data registries may not provide for registration of nonresidential Certificates of Verification.
+
+ii.As a prerequisite to reviewing and/or approving nonresidential data registries for use, on or after January 1, 2023, the Commission shall first make all of the following findings:
+
+a.The Commission has approved data schema capable of utilization in the development of any nonresidential data registry.
+
+b.The Commission will not lose access to information necessary to support the enforcement and development of current and future building code cycles.
+
+iii.The procedures for consideration and approval of applications enumerated in Section 10-110 shall not apply to applications for nonresidential data registries until the Commission makes the findings specified in Section 10-109(i)1Bii.
+
+iv.Nothing in this or any other section, including Section 10-110, shall be construed as requiring the Commission to make the findings specified in Section 10-109(i)1Biia by any set date, regardless of pending applications.
+
+v.The Registration Provider shall only use data schema approved by the Commission in a nonresidential data registry.
+
+C.The Commission may approve external digital data sources used for data input to various data registries for registering, when required by Part 6 residential or nonresidential compliance documentation.
+
+2.Electronic document repositories.
+
+A.The Commission may approve electronic document repositories that retain for the Commission electronic compliance documentation and their associated Compliance Registration Packages generated by residential and nonresidential data registries when registration is required by Part 6.
+
+(j)Alternative residential field verification protocols.
+
+Alternative residential field verification protocols shall comply with the application requirements of Section 10-109(b) and any applicable requirements of Reference Residential Appendices RA1.
+
+(k)Photovoltaic system and battery storage system requirement determinations.
+
+The Commission may, upon written application or its own motion, determine that the photovoltaic or battery storage requirements in Section 150.1(a)3, Section 140.0(c), Section 170.0(a)3 shall not apply, if the Commission finds that the implementation of public agency rules regarding utility system costs and revenue requirements, compensation for customer-owned generation,  interconnection fees or other factors causes the Commission’s cost effectiveness conclusions, made pursuant to Public Resources Code 25402(b)(3), to not hold for particular buildings.
+
+Applications shall include full information regarding the differences between public agency rules and Energy Commission cost effectiveness determinations, including all information requested by the Commission to enable full review of the application. Applications shall also include specific recommended limitations to the scope of the determination that is requested, and specific eligibility criteria to determine what buildings would qualify for the determination. Applications from public agencies shall be submitted to the Energy Commission only after public review within the jurisdiction of the public entity or service area of the utility.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25402 and 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.New section filed 12-9-81; designated effective 1-15-82 (Register 81, No. 50).
+
+2.Amendment filed 8-11-83; effective thirtieth day thereafter (Register 83, No. 33).
+
+3.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+4.Amendment of subsections (b), (d) and (e) filed 12-4-86; effective thirtieth day thereafter (Register 87, No. 1).
+
+5.Change without regulatory effect of subsection (d) filed 4-5-88; operative 5-5-88 (Register 88, No. 17).
+
+6.Amendment of subsections (b) and (d) filed 1-20-89; operative 2-19-89 (Register 89, No. 4).
+
+7.(CEC 1/92) Regular order by the California Energy Commission to amend Section 10-109, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state June 12, 1992; publication date July 15, 1992; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on June 8, 1992.
+
+10-110. Procedures for consideration of applications under Sections 10-104, 10-106, 10-108 and 10-109.
+
+(a)Within 75 days of receipt of an application, the Executive Director shall determine if the application is complete with all the supporting information required pursuant to Sections 10-104, 10-106, 10-108 or 10-109 (the complete application package).
+
+(b)Once the application is determined to be complete, the Executive Director shall make the complete application package available to interested parties for review and comment. Comments from interested parties must be submitted within a time period set by the Executive Director, which shall be no less than 15 and no greater than 60 days after the complete application package is made available.
+
+(c)Within 75 days of the date the application is determined to be complete, the Executive Director may request any additional information needed to evaluate the application. Consideration of the application will be delayed until the applicant submits the requested additional information.
+
+(d)Within 75 days of the date the application is determined to be complete, the Executive Director may convene a workshop to gather additional information from the applicant and other interested parties. Interested parties will have 15 days after the workshop to submit additional comments or information regarding the application.
+
+(e)Within 90 days of the date the application is determined to be complete, or within 30 days after receipt of complete additional information requested under Section 10-110(c) or within 60 days after the receipt of additional information submitted by interested parties under Section 10-110(d), whichever is later, the Executive Director shall submit to the Commission a written recommendation on the application.
+
+(f)The complete application package, any additional information considered by the Executive Director, and the Executive Director’s recommendation shall be placed on the consent calendar and considered at the next business meeting after submission of the recommendation. The matter may be removed from the consent calendar at the request of any person.
+
+(g)The Executive Director may charge a fee to recover the costs of processing and reviewing applications, with the exception of Section 10-106 applications.
+
+(h)All applicants have the burden of proof to establish that their applications should be granted.
+
+Authority: Section 25402.1, Public Resources Code.
+
+Reference: Section 25402.1, Public Resources Code.
+
+HISTORY:
+
+1.New section filed 12-9-81; designated effective 1-15-82 (Register 81, No. 50).
+
+2.Amendment filed 12-27-84; designated effective 1-1-85 pursuant to Government Code Section 11346.2 (d) (Register 84, No. 52).
+
+3.Amendment filed 12-4-86; effective thirtieth day thereafter (Register 87, No. 1).
+
+10-111. Certification and labeling of fenestration product and exterior door U-factors, solar heat gain coefficients, visible transmittance and air leakage. U
+
+This section establishes rules for implementing labeling and certification requirements relating to U-factors, solar heat gain coefficients (SHGCs), visible transmittance (VT) and air leakage for fenestration products and exterior doors under Section 110.6(a) of Part 6. This section also provides for designation of the National Fenestration Rating Council (NFRC) as the supervisory entity responsible for administering the state’s certification program for fenestration products and exterior doors, provided NFRC meets specified criteria.
+
+(a)Labeling requirements.
+
+1.Temporary labels.
+
+A.Every manufactured fenestration product and exterior door shall have attached to it a clearly visible temporary label that lists the U-factor, the solar heat gain coefficient (SHGC) and Visible Transmittance (VT) and that certifies compliance with the air leakage requirements of Section 110.6(a)1. Temporary labels for manufactured fenestration products and exterior doors are to incorporate the values determined by Section 10-111(a)1B and shall comply with the labeling requirements of NFRC 700. No other values for U-factor, SHGC, VT and Air Leakage are allowed on the temporary label attached to the manufactured fenestration product or exterior door. Component Modeling Approach (CMA) and site-built fenestration products shall have an NFRC label certificate that lists the U-factor, the Solar Heat Gain Coefficient (SHGC) and the Visible Transmittance (VT) and shall comply with the labeling requirements of NFRC 705 for the Computer Modeling Approach or NFRC 700 for site-built fenestration products.
+
+B.U-factor, SHGC, VT and Air Leakage shall be determined by either:
+
+i.Fenestration products and exterior doors rated and certified using NFRC 100, NFRC 200, NFRC 202, NFRC 203 or NFRC 400 Rating Procedures. The manufacturer shall stipulate that the ratings were determined in accordance with applicable NFRC procedures. For manufactured fenestration products and exterior doors, a temporary label certificate approved by the supervisory entity (NFRC) meets the requirements of this section. For component modeling and site-built fenestration products, a label certificate approved by the supervisory entity (NFRC) meets the requirements of this section.
+
+ii.For manufactured or site-built fenestration products and exterior doors not rated by NFRC, a temporary label with the words “CEC Default U-factor,” followed by the appropriate default U-factor specified in Section 110.6(a)2 and with the words “CEC Default SHGC,” followed by the appropriate default SHGC specified in Section 110.6(a)3 and with the words “CEC Default VT,” followed by the appropriate VT as specified in Section 110.6(a)4, meets the requirements of this Subsection B.
+
+C.Temporary labels shall also certify that the manufactured fenestration product or exterior door complies with the air leakage requirements of Section 110.6(a)1 of the Standards.
+
+2.Permanent labels. Rated products shall have a permanent label consistent with their rating and certification that is either a stand-alone label, an extension or tab of an existing permanent certification label being used by the manufacturer/responsible party, or series of marks or etchings on the product. The permanent label coupled with observable product characteristics, shall be usable to trace the product to certification information on file with the supervisory entity or to a directory of certified products, published by the supervisory entity. For CMA and site-built fenestration products, a label certificate approved by the supervisory entity meets the requirements of this section.
+
+Exception to Section 10-111(a): Field-fabricated fenestration products.
+
+(b)Certification requirements.
+
+1.Certification to default ratings. The manufacturer shall certify on the Default Label that the product’s U-factor, SHGC and VT meets the default criteria in Sections 110.6(a)2, 110.6(a)3 and 110.6(a)4; and
+
+A.A temporary label, affixed to the product, that meets the requirements of Section 10-111(a)1B meets this requirement.
+
+B.If the product claims the default U-factor for a thermal break product, the manufacturer shall also certify on the label that the product meets the thermalbreak product criteria, specified on the default table, on which the default value is based. Placing the terms “Meets Thermal Break Default Criteria” on the default temporary label or default label certificate meets this requirement.
+
+2.Certification to NFRC Rating Procedure. If a product’s U-factor, SHGC or VT is based on the NFRC Rating Procedure, the U-factor, SHGC or VT shall be certified by the manufacturer according to the procedures of an independent certifying organization approved by the Commission.
+
+A.A temporary label, affixed to the product or label certificate for CMA and site-built fenestration, meeting the requirements of Section 10-111(a) certified by the independent certifying organization complies with this requirement.
+
+B.An “independent certifying organization approved by the Commission” means any organization authorized by the supervisory entity to certify U-factor ratings, Solar Heat Gain Coefficient and Visible Transmittance ratings in accordance with the NFRC Rating Procedure. If the Commission designates the NFRC as the supervisory entity, any independent certification and Inspection Agency (IA) licensed by NFRC shall be deemed to be an “independent certifying organization approved by the Commission.”
+
+C.The “supervisory entity” means the NFRC, except as provided in Section 10-111(c)1.
+
+Exception to Section 10-111(b): Field-fabricated fenestration products.
+
+(c)Designation of supervisory entity. The NFRC shall be the supervisory entity to administer the certification program relating to U-factors, SHGC and VT ratings for fenestration products and exterior doors, provided the Commission determines that the NFRC meets the criteria in Section 10-111(d).
+
+1.The Commission may consider designating a supervisory entity other than NFRC only if the Commission determines that the NFRC cannot meet the criteria in Section 10-111(d). Such other supervisory entity shall meet the criteria in Section 10-111(d) prior to being designated.
+
+2.The Commission shall periodically review, at least annually, the structure and operations of the supervisory entity to ensure continuing compliance with the criteria in Section 10-111(d).
+
+(d)Criteria for supervisory entity.
+
+1.Membership in the entity shall be open on a nondiscriminatory basis to any person or organization that has an interest in uniform thermal performance ratings for fenestration products and exterior doors, including, but not limited to, members of the fenestration industry, glazing infill industry, building industry, design professionals, specifiers, utilities, government agencies and public interest organizations. The membership shall be composed of a broad cross section of those interested in uniform thermal performance ratings for fenestration products.
+
+2.The governing body of the entity shall reflect a reasonable cross section of the interests represented by the membership.
+
+3.The entity shall maintain a program of oversight of product manufacturers, laboratories and independent certifying organizations that ensures uniform application of the NFRC Rating Procedures, labeling and certification, and such other rating procedures for other factors affecting energy performance as the NFRC and the Commission may adopt.
+
+4.The entity shall require manufacturers and independent certifying organizations within its program to use laboratories accredited by the supervisory entity to perform simulations and tests under the NFRC Rating Procedure or by an NFRC Approved Calculation Entity (ACE) under the Component Modeling Approach (CMA) Product Certification Program (PCP).
+
+5.The entity shall maintain appropriate guidelines for testing and simulation laboratories, manufacturers and certifying agencies, including requirements for adequate:
+
+A.Possession and calibration of equipment;
+
+B.Education, competence and training of personnel;
+
+C.Quality control;
+
+D.Record keeping and reporting;
+
+E.Periodic review (including, but not limited to, blind testing by laboratories; inspections of products; and inspections of laboratories, manufacturing facilities and certifying agencies);
+
+F.Challenges to certified ratings; and
+
+G.Guidelines to maintain the integrity of the program, including, but not limited to, provisions to avoid conflicts of interest within the rating and certification process.
+
+6.The entity shall be a nonprofit organization and shall maintain reasonable, nondiscriminatory fee schedules for the services it provides and shall make its fee schedules, the financial information on which fees are based, and financial statements available to its members for inspection.
+
+7.The entity shall provide hearing processes that give laboratories, manufacturers and certifying agencies a fair review of decisions that adversely affect them.
+
+8.The entity shall maintain a certification policy committee whose procedures are designed to avoid conflicts of interest in deciding appeals, resolving disputes and setting policy for the certifying organizations within its program.
+
+9.The entity shall publish at least annually a directory of products certified and decertified within its program.
+
+10.The entity itself shall be free from conflict-of-interest ties or to undue influence from any particular manufacturing interest(s), testing or simulation lab(s), or independent certifying organization(s).
+
+11.The entity shall provide or authorize the use of labels and label certificates for Component Modeling Approach and site-built fenestration products that can be used to meet the requirements of Sections 110.6(a)2, 110.6(a)3 and 110.6(a)4, and this section.
+
+12.The entity’s certification program shall allow for multiple participants in each aspect of the program to provide for competition between manufacturers, testing labs, simulation labs and independent certifying organizations.
+
+(e)Certification for other factors. Nothing in this section shall preclude any entity, whether associated with a U-factor, SHGC or VT certification program or not, from providing certification services relating to factors other than U-factors, SHGCs and VTs for fenestration products and exterior doors.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+HISTORY:
+
+1.(CEC/2/92) Regular order by the California Energy Commission to adopt Section 10-111, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state August 10, 1993; effective 30 days thereafter (September 9, 1993). Approved as a regular order by the California Building Standards Commission on August 2, 1993.
+
+2.(CEC 2/94) Regular order by the California Energy Commission to amend Section 10-111 (a) 1 B, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state August 24, 1993; effective 30 days thereafter. Approved as a regular order by the California Building Standards Commission on August 2, 1995.
+
+10-112. Criteria for default tables.
+
+(a)The Commission shall maintain tables of default U-factors and SHGCs for use as an alternative to U-factors and SHGCs derived based on the NFRC Rating Procedure. The default values shall meet the following criteria:
+
+1.The values shall be derived from simulations of products using the same computer simulation program(s) used in the NFRC Rating Procedure.
+
+2.The default values shall be set so that they do not provide to any significant number of products a lower U-factor or SHGC than those products would obtain if they were rated using the full NFRC Rating Procedure.
+
+(b)The Commission shall periodically review and revise the default tables as necessary to ensure that the criteria are met.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+HISTORY:
+
+1.(CEC/2/92) Regular order by the California Energy Commission to adopt Section 10-112, Part 1, Title 24, California Code of Regulations. Filed with the secretary of state August 10, 1993; effective 30 days thereafter (September 9, 1993). Approved as a regular order by the California Building Standards Commission on August 2, 1993.
+
+10-113. Rating and labeling of roofing product reflectance and emittance.
+
+This section establishes rules for implementing labeling and rating requirements relating to reflectance and emittance for roofing products for showing compliance with Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1H and 150.2(b)2 of Title 24, California Code of Regulations, Part 6. This section also provides for designation of the Cool Roof Rating Council (CRRC) as the supervisory entity responsible for administering the state’s rating program for roofing products, provided CRRC meets specified criteria.
+
+(a)Labeling requirements. Every roofing product installed in construction to take compliance credit or meet the Prescriptive requirements for reflectance and emittance under Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1I or 150.2(b)2 shall have a clearly visible packaging label that lists the emittance and the initial and 3-year aged solar reflectance, or a CRRC Rapid Rating for solar reflectance, tested in accordance with CRRC-1.
+
+Packaging for liquid-applied roof coatings shall state the product meets the requirements specified in Section 110.8(i)4.
+
+(b)Certification requirements. Every roofing product installed in construction to take compliance credit or meet the Prescriptive requirements for reflectance and emittance under Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1I or 150.2(b)2 shall be rated by CRRC or another supervisory entity approved by the Commission pursuant to Section 10-113(c).
+
+(c)Designation of supervisory entity. The CRRC shall be the supervisory entity to administer the rating program relating to reflectance and emittance ratings for roofing products, provided the Commission determines that the CRRC meets the criteria in Section 10-113(d).
+
+1.The Commission may consider designating a supervisory entity other than CRRC if the Commission determines that the CRRC is not meeting the criteria in Section 10-113(d). Such other supervisory entity shall meet the criteria in Section 10-113(d) prior to being designated.
+
+2.The Commission shall periodically review, at least annually, the structure and operations of the supervisory entity to ensure continuing compliance with the criteria in Section 10-113(d). The supervisory entity shall provide an annual report to the Commission explaining all of the measures it has taken to comply with the criteria in Section 10-113(d).
+
+(d)Criteria for supervisory entity.
+
+1.Membership in the entity shall be open on a nondiscriminatory basis to any person or organization that has an interest in uniform performance ratings for roofing products, including, but not limited to, members of the roofing industry, building industry, design professionals, specifiers, utilities, government agencies and public interest organizations. The membership shall be composed of a broad cross section of those interested in uniform thermal performance ratings for roofing products.
+
+2.The governing body of the entity shall reflect a reasonable cross section of the interests represented by the membership.
+
+3.The entity shall maintain a program of oversight of product manufacturers, laboratories and independent certifying organizations that ensures uniform application of the CRRC testing and rating procedures, labeling and rating, and such other rating procedures for other factors that improves the accuracy of properties of roofing products affecting energy performance as the CRRC and the Commission may adopt.
+
+4.The entity shall require manufacturers and independent certifying organizations within its program to use only laboratories accredited by the supervisory entity to perform tests in accordance with CRRC-1.
+
+5.The entity shall maintain appropriate guidelines for testing laboratories and manufacturers, including requirements for adequate:
+
+A.Possession and calibration of equipment;
+
+B.Education, competence and training of personnel;
+
+C.Quality control;
+
+D.Record keeping and reporting;
+
+E.Periodic review including, but not limited to, blind testing by laboratories; inspections of products; and inspections of laboratories, and manufacturing facilities;
+
+F.Challenges to ratings; and
+
+G.Guidelines to maintain the integrity of the program, including, but not limited to, provisions to avoid conflicts of interest within the rating process.
+
+6.The entity shall be a nonprofit organization and shall maintain reasonable, nondiscriminatory fee schedules for the services it provides, and shall make its fee schedules, the financial information on which fees are based and financial statements available to its members for inspection.
+
+7.The entity shall provide hearing processes that give laboratories, manufacturers and certifying agencies a fair review of decisions that adversely affect them.
+
+8.The entity shall maintain a policy committee or similar body whose procedures are designed to avoid conflicts of interest in deciding appeals, resolving disputes and setting policy for the certifying organizations in its program.
+
+9.The entity shall publish at least annually a directory of rated products and products that are no longer rated by the CRRC.
+
+10.The entity itself shall be free from conflict-of-interest ties or to undue influence from any particular roofing product manufacturing interest(s), testing or independent certifying organization(s).
+
+11.The entity shall provide or authorize the use of labels that can be used to meet the requirements for showing compliance with the requirements of Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1I and 150.2(b)2, and this section.
+
+12.The entity’s rating program shall allow for multiple participants in each aspect of the program to provide for competition between manufacturers and between testing labs.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+10-114. Determination of outdoor lighting zones and administrative rules for use.
+
+This section establishes rules for implementing outdoor lighting zones to show compliance with Section 140.7 of Title 24, California Code of Regulations, Part 6.
+
+(a)Lighting zones. Exterior lighting allowances in California vary by Lighting Zones (LZ).
+
+(b)Lighting zone characteristics. Table 10-114-A specifies the relative ambient illumination level and the statewide default location for each lighting zone.
+
+(c)Amending the lighting zone designation. A local jurisdiction may officially adopt changes to the lighting zone designation of an area by following a public process that allows for formal public notification, review and comment about the proposed change. The local jurisdiction may determine areas where Lighting Zone 4 is applicable and may increase or decrease the lighting zones for areas that are in State Default Lighting Zones 1, 2 and 3, as specified in Table 10-114-A.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+TABLE 10-114-A
+
+LIGHTING ZONE CHARACTERISTICS AND RULES FOR AMENDMENTS BY LOCAL JURISDICTIONS
+
+	ZONE	AMBIENT ILLUMINATION	STATEWIDE DEFAULT LOCATION	MOVING UP TO HIGHER ZONES	MOVING DOWN TO LOWER ZONES
+	LZ0	Very Low	Undeveloped areas of government designated parks, recreation areas and wildlife preserves.	Undeveloped areas of government designated parks, recreation areas and wildlife preserves can be designated as LZ1 or LZ2 if they are contained within such a zone.	Not applicable.
+	LZ1	Low	Rural areas, as defined by the 2010 U.S. Census. These areas include: single or dual family residential areas, parks, and agricultural zone districts, developed portion of government designated parks, recreation areas and wildlife preserves. Those that are wholly contained within a higher lighting zone may be considered by the local government as part of that lighting zone.	Developed portion of a government designated park, recreation area or wildlife preserve, can be designated as LZ2 or LZ3 if they are contained within such a zone. Retail stores, located in a residential neighborhood, and rural town centers, as defined by the 2010 U.S. Census, can be designated as LZ2 if the business operates during hours of darkness.	Not applicable.
+>	LZ2	Moderate	Urban clusters, as defined by the 2010 U.S. Census. The following building types may occur here: multifamily housing, mixed use residential neighborhoods, religious facilities, schools, and light commercial business districts or industrial zoning districts.	Special districts within a default LZ2 zone may be designated as LZ3 or LZ4 by a local jurisdiction. Examples include special commercial districts or areas with special security considerations located within a mixeduse residential area or city center.	Special districts may be designated as LZ1 by the local jurisdiction, without any size limits.
+>	LZ3	Moderately High	Urban areas, as defined by the 2010 U.S. Census. The following building types may occur here: multifamily housing, mixed use residential neighborhoods, religious facilities, schools, and light commercial business districts or industrial zoning districts.	Special districts within a default LZ3 may be designated as LZ4 by local jurisdiction for high-intensity nighttime use, such as entertainment or commercial districts or areas with special security considerations requiring very high light levels.	Special districts may be designated as LZ1 or LZ2 by the local jurisdiction, without any size limits.
+>	LZ4	High	None.	Not applicable.	Not applicable.10-115. Community shared solar electric generation system or community shared battery storage system compliance option for onsite solar electric generation or battery storage requirements.
+
+(a)Community shared solar electric generation system or battery storage system offset. If approved by the commission, a community shared solar system, other community shared renewable system, community shared battery storage system or combination of the aforementioned systems (hereinafter referred to as a community shared solar or battery storage system) may be used  as a compliance option to partially or totally meet the on-site solar electric generation system and/or battery storage system that is otherwise required by Section 140.0(c), 150.1(a)3 or 170.0(a)3 of Title 24, California Code of Regulations, Part 6. To be approved, the community shared solar electric generation or community shared battery storage system must demonstrate, to the Commission’s satisfaction, that all the following requirements will be met:
+
+1.Enforcement agency. The community shared solar electric generation system and/or community shared battery storage system shall be installed and available for enforcement agency site inspection, no later than the point in time the enforcement agency must physically verify compliance of the building, which would otherwise be required to have an on-site solar electric generation and/or battery storage system, and shall not cause delay in the process of enforcement agency review and approval of that building. The enforcement agency shall have jurisdiction and facilitated access to make site inspections. All documentation for the community solar electric generation system and/or community solar battery storage system that is required to demonstrate compliance for the building shall be completed prior to building permit application.
+
+2.Energy performance. The community shared solar electric generation system and/or community shared battery storage system shall be demonstrated to provide the same or better energy performance equal to the partial or total compliance with the energy performance of the on-site solar electric generation and/or battery storage system that would otherwise have been required for the building, computed by compliance software certified for use by the Commission.
+
+3.Participating building energy savings benefits. The community shared solar electric generation system and/or community shared battery storage system shall provide energy saving benefits directly to the building. The energy savings benefits allocated to the building shall be in the form of:
+
+A.actual reductions in the energy consumption of the participating building;
+
+B.energy reduction credits that will result in virtual reductions in the building’s energy consumption that is subject to energy bill payments; or
+
+C.payments to the building that will have an equivalent effect as energy bill reductions.
+
+The reduction in the building’s energy bill resulting from A, B or C above shall be greater than the added cost to the building resulting from the building’s share in the community shared solar and/or battery storage system.
+
+4.Durability, Participation and building opt-out.
+
+A.Durability. The community shared solar electric generation system and/or community shared battery storage system shall be designed and installed to provide the energy savings benefits to the participating building(s) specified in Section 10-115(a)3 for a period of no less than 20 years.
+
+B.Participation. The Administrator(s) approved by the Energy Commission pursuant to Section 10-115(b)1 shall ensure that all participating buildings, which use the community shared solar and/or community shared battery storage system to comply with Section 140.0(c), 150.1(a)3 or 170.0(a)3, remain participating buildings for no less than a 20-year period (“Participation Period”), regardless of who owns or occupies the participating building, unless the building owner discontinues participation after causing the on-site solar electric generation system to be installed and interconnected pursuant to the Opt-Out Requirements. For purposes of this Section, “Opt-Out Requirements” shall mean installation and interconnection of an on-site solar electric generation system that meets or exceeds the requirements of Section 140.0(c), 150.1(a)3 or 170.0(a)3 in effect at the time the builder applied for the original building permit for the participating building. To demonstrate compliance, the Administrator shall require either of the following:
+
+i.Equitable servitude. As a condition for a building to participate, participating builders shall impose an equitable servitude through a properly recorded declaration of covenants, conditions and restrictions (“CC&Rs”) or other properly recorded covenant, deed restriction or other legally binding method referenced in each deed transferring title for each participating building. This equitable servitude shall run with the land and obligate the original owner(s)/tenant(s) and all subsequent owner(s)/tenant(s) of the participating building to maintain the building’s participation in the community shared solar and/or community shared battery storage system for the Participation Period, or ensure installation and interconnection of an on-site solar electric generation system that satisfies the Opt-Out Requirements. The equitable servitude shall specify that in order to discontinue participation in the community shared solar and/or battery system, the building owner must satisfy the OptOut Requirements. The builder shall ensure that the equitable servitude provides the Administrator approved by the Commission the right to enforce the above provisions. The equitable servitude shall remain in force for a period of 20 years from the date of first participation of the building in the community shared solar and/or battery system. The equitable servitude shall not be revocable. The equitable servitude shall be delivered to all responsible parties through transfer disclosure statements.
+
+ii.Other system. The Commission may approve another program, structure or system by which an Administrator (or other entity approved by the Commission) ensures the requirements of this Section 10-115(a)4B will be satisfied for a Participation Period of no less than 20 years.
+
+C.Compliance documentation. The Administrator shall maintain record(s) of the compliance documentation that determined the requirements for the on-site solar electric generation system and/or battery storage system to comply with the standards in effect at the time the builder applied for the original building permit, and which establishes participants’ obligations to meet the Opt-Out Requirements. The Administrator shall provide a copy of this compliance documentation upon a participating building owner’s request, to every new owner of a participating building when the Administrator is notified that title has transferred, and to any participating building owner who requests to Opt-Out.
+
+D.Building opt-out. At any time during the Participation Period, a participating building owner shall have the option to discontinue the participation of the building in the community shared solar and/or battery storage system (“Opt-Out”) if the building satisfies the Opt-Out Requirements.
+
+i.Prior to Opt-Out, the building owner shall demonstrate that they have installed such an on-site solar electric generation system and met the Opt-Out Requirements by providing documentation from the installer of the on-site solar system or an attestation of the building owner with supporting documentation. The building owner shall be responsible for all costs associated with documenting that the on-site solar generation system satisfies the Opt-Out Requirements.
+
+ii.Upon receiving documentation regarding Opt-Out from a building owner, the Administrator shall compare the documentation to the compliance documentation specified in Section 10-115(a)4C and confirm whether, based on the documentation, the installed solar system meets or exceeds the Opt-Out Requirements. Within 30 days of a building owner providing documentation, the Administrator shall provide written confirmation to the building owner whether, based on the Administrator’s review of that documentation, the on-site solar generation system satisfies the Opt-Out Requirements. The Administrator may, at its discretion, verify the documentation through a physical inspection. The Administrator shall maintain record of the documentation that demonstrates and confirms the on-site solar generation system met the Opt-Out requirements for the remainder of the Participation Period.
+
+iii.Upon a building owner’s exercise of the Opt-Out, all costs and benefits associated with participation in the community shared solar and/or battery storage system shall cease. If any balance of costs or benefits is owed to either party at the time of Opt-Out, such balance shall be paid to that party.
+
+iv.The Administrator [or other entity approved by the Commission pursuant to Section 10-115(a)4Bii] shall not impose any penalty related to a participating building’s Opt-Out, or charge participants for recuperation of unrealized revenue that would have been expected to accrue beyond the end of participation. If the Administrator (or other entity approved by the Commission) plans to charge any other fees at the time of building Opt-Out, the Application for Commission Approval shall explain the purpose of those fees.
+
+5.Additionality. The community shared solar electric generation system and/or community shared battery storage system shall provide the energy savings benefits specified in Section 10-115(a)3 exclusively to the participating building(s). Those energy savings benefits shall in no way be attributed to other purposes or transferred to other buildings or property.
+
+A.The participating building(s) shall be served primarily by renewable resources developed specifically for the community solar electric generation system.
+
+B.Other renewable resources may be used when participating buildings are permitted before the renewable resources developed for the program start operating or after they cease operating. During these times, other renewable resources may be used to meet the requirements of Section 10-115(a)4 for each participating building.
+
+C.The renewable resources, including those developed primarily to serve participating buildings and those utilized to serve participating buildings during the time periods described in Section 10-115(a)5B for the purpose of meeting the requirements of Section 10-115(a)4, shall meet the following requirement:
+
+i.For each renewable resource used to serve participating buildings, bundled Renewable Energy Credits (RECs), which satisfy the criteria of Portfolio Content Category 1, shall be retired and tracked in the Western Renewable Energy Generation Information System (WREGIS) on the behalf of program participants, to ensure that they will not be allocated to or used for any other purpose, including Renewable Performance Standard (RPS) compliance, resale of RECs or renewable generation to any other person or entity, or any other mandatory or voluntary renewable electricity program requirement or claim.
+
+D.Renewable resources developed to serve participating buildings may also be used to serve other loads when there is excess generation beyond what is needed to serve participating buildings. Any excess generation used for such other loads shall be isolated from the generation serving participating buildings, and shall not result in violation of Section 10-115(a)5C.
+
+6.Location.The community shared solar electric generation system and/or community shared battery storage system shall be located on a distribution system of the load serving entity providing service to the participating buildings.
+
+7.Size.The community shared solar electric generation system and/or community shared battery storage system shall not be served by any individual source larger than 20 MW.
+
+8.Accountability and recordkeeping.Applicants for Commission approval of community shared solar electric generation systems and/or community shared battery storage systems shall be accountable to all parties who relied on these systems for partial or total compliance with the onsite solar electric generation and/or battery storage system that would otherwise be required, including but not limited to builders of the buildings, owners of the buildings, enforcement agencies and the Commission.
+
+A.Each year beginning twelve months after initial approval, the Administrator shall provide to the Commission a report demonstrating the previous year’s compliance with each requirement of Section 10-115.
+
+B.Recordkeeping regarding compliance with the requirements in Section 10-115(a) shall  be maintained over the period of time specified in Section 10-115(a)4 for each building for which the community shared solar electric generation or battery storage system is used to demonstrate partial or total compliance. Access to these records shall be provided to any entity approved by the Commission for auditing compliance with these requirements.
+
+(b)Application for commission approval. Any entity may apply to the Commission for approval to administer a community shared solar electric generation or community shared battery storage system to provide partial or total compliance with the on-site solar electric generation system and/or battery storage system required by Section 150.1 of Title 24, California Code of Regulations, Part 6. Once approved, the entity shall be the Administrator of the community shared solar electric generation or community shared battery storage system.
+
+1.The application shall demonstrate to the Commission’s satisfaction that each of the requirements  specified in Section 10-115(a) will be met and shall include detailed explanation of the actions that will be taken by the applicant to ensure that each requirement is met over the period of time specified in Section 10-115(a)4 for each building for which a partial or total offset is used to demonstrate compliance.
+
+2.All applicants have the burden of proof to establish that their application should be granted.
+
+3.Applications from public agencies shall be submitted to the Energy Commission only after public review through at least one public meeting within the jurisdiction of the public entity or service area of the load-serving entity and adoption by the public agency. The Commission shall have the authority to not approve any application that the Commission determines to be inconsistent with the requirements of Section 10-115.
+
+(c)Executive director approval of revised applications. The Administrator of an approved community shared solar electric generation system and/or community shared battery storage system shall submit a revised application demonstrating compliance with the Section 10-115 requirements to the Executive Director for approval, when:
+
+1.A new renewable resource is proposed to be added to a community shared solar electric generation system and/or community shared battery storage system, and/or
+
+2.The Commission modifies the requirements of Section 10-115 in a building standards rulemaking. Such modified requirements would not apply retroactively to the buildings for which building permit applications are submitted prior to the effective date of the modified standards or to the continued use of previously approved renewable resources developed to serve a community shared solar electric generation system and/or community shared battery storage system.
+
+Within 60 days of receiving a revised application, the Executive Director may either approve the revised application by letter if the Executive Director concludes that the requirements of Section 10- 115 will be met, request the Administrator to resubmit their revised application with changes, or disapprove the application. If the Executive Director disapproves the application, the applicant may request that the Commission review the Executive Director’s determination. The petition must be filed in writing in accordance with Title 20, California Code of Regulations, Section 1208 within 15 days of the date of the filing of the Executive Director's determination and must state the basis for requesting review of the Executive Director's determination.
+
+Within 45 days of receiving a request for review, the Commission shall issue a written decision affirming or modifying the Executive Director's determination. If the Commission does not issue a written decision within 45 days, the request for review shall be deemed denied. The Administrator shall have the burden of proof to establish that its revised application should be approved.
+
+Authority: Sections 25402 and 25402.1, Public Resources Code.
+
+Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+

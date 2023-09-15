@@ -1,0 +1,280 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLECHAPTER 2 – DEFINITIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. 
+
+See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+	Adopt Entire Chapter													X									
+	Adopt Entire Chapter as amended (amended sections listed below)	X			X	X					X	X	X		X	X								
+	Adopt only those sections that are listed below			X					X	X														
+	Chapter / Section																							
+>	201								X	X														
+>	201.1									X	X	X		X	X									
+	ACCESSORY DWELLING UNIT				X	X																		
+	ADDITION			X																				
+	ALTERATION			X																				
+	APPROVED			X	X	X																		
+	BUILDING				X	X	X																	
+	BUILDING OFFICIAL	X			X	X			X	X	X	X	X		X	X								
+	CHANGE OF OCCUPANCY			X																				
+	CODE OFFICIAL			X	X	X																		
+	CHANGE IN FUNCTION										X	X	X		X	X								
+	CRITICAL CARE AREA										X													
+	DANGEROUS			X																				
+	ENFORCEMENT AGENCY	X							X	X														
+	EQUIPMENT OR FIXTURE			X																				
+	EXISTING BUILDING			X																				
+	EXISTING STRUCTURE			X																				
+	EXISTING STRUCTURE										X	X	X		X	X								
+	EXTERIOR ELEVATED ELEMENT				X	X																		
+	FACILITY			X																				
+	GENERAL ACUTE CARE HOSPITAL										X													
+	INCIDENTAL STRUCTURAL ALTERATIONS, ADDITIONS OR REPAIRS										X				X									
+	MAJOR STRUCTURAL ALTERATIONS										X				X									
+	MINOR STRUCTURAL ALTERATIONS, ADDITIONS OR REPAIRS										X				X									
+	NONCOMBUSTIBLE MATERIAL			X																				
+	NONSTRUCTURAL ALTERATION										X				X									
+	PRIMARY FUNCTION			X																				
+	REGISTERED DESIGN PROFESSIONAL IN RESPONSIBLE CHARGE			X							X	X	X		X	X								
+	REHABILITATION			X																				
+	REPAIR			X																				
+	REPAIR										X													
+	REROOFING			X																				
+	ROOF COATING			X																				
+	ROOF RECOVER			X																				
+	ROOF REPAIR			X																				
+	ROOF REPLACEMENT			X																				
+	SPC SEISMIC SEPARATION										X	X												
+	SUBSTANDARD BUILDING				X	X																		
+	SUBSTANTIAL STRUCTURAL DAMAGE										X	X												
+	UNREINFORCED CONCRETE										X	X	X		X	X								
+	UNREINFORCED MASONRY										X				X									
+	UNSAFE			X	X	X																		
+	VOLUNTARY STRUCTURAL IMPROVEMENTS										X													
+	WORK AREA			X																				
+																								The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 2 DEFINITIONS
+
+User note:
+
+About this chapter: Codes, by their very nature, are technical documents. Every word, term and punctuation mark can add to or change the meaning of a technical requirement. It is necessary to maintain a consensus on the specific meaning of each term contained in the code. Chapter 2 performs this function by stating clearly what specific terms mean for the purpose of the code.
+
+SECTION 201 GENERAL
+
+201.1 Scope.
+
+Unless otherwise expressly stated, the following words and terms shall, for the purposes of this code, have the meanings shown in this chapter. [OSHPD 1, 1R, 2, 4 & 5] For terms not defined in this chapter, refer to Part 1, Chapters 6 and 7 of the California Administrative Code, and Part 2, Chapter 2 of the California Building Code.
+
+201.2 Interchangeability.
+
+Words used in the present tense include the future; words stated in the masculine gender include the feminine and neuter; the singular number includes the plural and the plural, the singular.
+
+201.3 Terms defined in other codes.
+
+Where terms are not defined in this code and are defined in the other California Codes, such terms shall have the meanings ascribed to them in those codes. [DSA-SS & DSA-SS/CC] Definitions of terms given in Section 4-208 or 4-314 of the California Administrative Code govern over those in Section 202.
+
+201.4 Terms not defined.
+
+Where terms are not defined through the methods authorized by this chapter, such terms shall have ordinarily accepted meanings such as the context implies.
+
+SECTION 202 GENERAL DEFINITIONS
+
+ACCESSORY DWELLING UNIT. [HCD 1 & HCD 2] An attached or detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. Accessory dwelling units shall include permanent provisions for living, sleeping, eating, cooking and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. (See Government Code Section 65852.2.)
+
+[A] ADDITION. An extension or increase in floor area, number of stories, or height of a building or structure.
+
+[A] ALTERATION. Any construction or renovation to an existing structure other than a repair or addition.
+
+[A] APPROVED. Acceptable to the code official.
+
+Exception: [HCD 1 & HCD 2] “Approved” means meeting the approval of the Enforcing Agency, except as otherwise provided by law, when used in connection with any system, material, type of construction, fixture or appliance as the result of investigations and tests conducted by the agency, or by reason of accepted principles or tests by national authorities, or technical, health, or scientific organizations or agencies.
+
+Notes:
+
+1.See Health and Safety Code Section 17920 for “Approved” as applied to residential construction and buildings or structures accessory thereto as referenced in Section 1.8.2.
+
+2.See Health and Safety Code Section 17921.1 for “Approved” as applied to the use of hotplates in residential construction as referenced in Section 1.8.2.
+
+3.See Health and Safety Code Section 19966 for “Approved” as applied to Factory-Built Housing as referenced in Section 1.8.3.2.5.
+
+4.See Health and Safety Code Section 18201 for “Approved” as applied to Mobilehome Parks as referenced in Section 1.8.2.
+
+5.See Health and Safety Code Section 18862.1 for “Approved” as applied to Special Occupancy Parks as referenced in Section 1.8.2.
+
+[A] BUILDING. Any structure utilized or intended for supporting or sheltering any use or occupancy.
+
+Exception: [HCD 1, HCD 2 & HCD 1-AC] For applications listed in Section 1.8.2 regulated by the Department of Housing and Community Development, “Building” shall not include the following:
+
+1.Any mobilehome as defined in Health and Safety Code Section 18008.
+
+2.Any manufactured home as defined in Health and Safety Code Section 18007.
+
+3.Any commercial modular as defined in Health and Safety Code Section 18001.8 or any special purpose commercial modular as defined in Section 18012.5.
+
+4.Any recreational vehicle as defined in Health and Safety Code, Section 18010.
+
+5.Any multifamily manufactured home as defined in Health and Safety Code Section 18008.7.
+
+For additional information, see Health and Safety Code Section 18908.
+
+Note: Building shall have the same meaning as defined in Health and Safety Code Sections 17920 and 18908 for the applications specified in Section 1.11.
+
+BUILDING OFFICIAL. [BSC, DSA-SS, DSA-SS/CC] The individual within the agency or organization charged with responsibility for compliance with the requirements of this code. For some agencies this person is termed the “enforcement agent.”
+
+BUILDING OFFICIAL. [HCD 1, HCD 2] [OSHPD 1, 1R, 2, 4 & 5] The officer or other designated authority charged with the administration and enforcement of this code, or a duly authorized representative.
+
+CHANGE IN FUNCTION. [OSHPD 1, 1R, 2, 4 & 5] See California Building Code Section 1224.3.
+
+[A] CHANGE OF OCCUPANCY. Any of the following shall be considered as a change of occupancy where the current California Building Code requires a greater degree of safety, accessibility, structural strength, fire protection, means of egress, ventilation or sanitation than is existing in the current building or structure:
+
+1.Any change in the occupancy classification of a building or structure.
+
+2.Any change in the purpose of, or a change in the level
+of activity within, a building or structure.
+
+3.A change of use.
+
+[A] CHANGE OF USE. A change in the use of a building or a portion of a building, within the same group classification, for which there is a change in application of the code requirements.
+
+[A] CODE OFFICIAL. The officer or other designated authority charged with the administration and enforcement of this code.
+
+[HCD 1 & HCD 2] [OSHPD 1, 1R, 2, 4 & 5] “Code Official” shall mean “Building Official” as defined in this code.
+
+CRITICAL CARE AREA. [OSHPD 1] See California Administrative Code Chapter 6.
+
+[BS] DANGEROUS. Any building, structure or portion thereof that meets any of the conditions described below shall be deemed dangerous:
+
+1.The building or structure has collapsed, has partially collapsed, has moved off its foundation or lacks the necessary support of the ground.
+
+2.There exists a significant risk of collapse, detachment or dislodgement of any portion, member, appurtenance or ornamentation of the building or structure under permanent, routine or frequent loads; under actual loads already in effect; or under snow, wind, rain, flood, earthquake or other environmental loads when such loads are imminent.
+
+[A] DEFERRED SUBMITTAL. Those portions of the design that are not submitted at the time of the application and that are to be submitted to the code official within a specified period.
+
+[BS] DISPROPORTIONATE EARTHQUAKE DAMAGE. A condition of earthquake-related damage where both of the following occur:
+
+1.The 0.3-second spectral acceleration at the building site as estimated by the United States Geological Survey for the earthquake in question is less than 40 percent of the mapped acceleration parameter SS.
+
+2.The vertical elements of the lateral force-resisting system have suffered damage such that the lateral load-carrying capacity of any story in any horizontal direction has been reduced by more than 10 percent from its predamage condition.
+
+[BE] EMERGENCY ESCAPE AND RESCUE OPENING. An operable exterior window, door or other similar device that provides for a means of escape and access for rescue in the event of an emergency.
+
+ENFORCEMENT AGENCY. [BSC, DSA-SS, DSA-SS/CC] The agency or organization charged with responsibility for agency or organization compliance with the requirements of this code, also known as the Authority Having Jurisdiction in ASCE 41.
+
+EQUIPMENT OR FIXTURE. Any plumbing, heating, electrical, ventilating, air conditioning, refrigerating and fire protection equipment; and elevators, dumbwaiters, escalators, boilers, pressure vessels and other mechanical facilities; or installations that are related to building services. Equipment or fixture shall not include manufacturing, production or process equipment, but shall include connections from building service to process equipment.
+
+[A] EXISTING BUILDING. A building erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.
+
+[A] EXISTING STRUCTURE. A structure erected prior to the date of adoption of the appropriate code, or one for which a legal building permit has been issued.
+
+EXISTING STRUCTURE. [OSHPD 1, 1R, 2, 4 & 5] A structure that has a valid certificate of occupancy issued by the building official.
+
+EXTERIOR ELEVATED ELEMENT. See Government Code Section 17973(b)(2).
+
+[BF] EXTERIOR WALL COVERING. A material or assembly of materials applied on the exterior side of exterior walls for the purpose of providing a weather-resisting barrier, insulation or for aesthetics, including but not limited to, veneers, siding, exterior insulation and finish systems, architectural trim and embellishments, such as cornices, soffits, facias, gutters and leaders.
+
+[BF] EXTERIOR WALL ENVELOPE. A system or assembly of exterior wall components, including exterior wall finish materials, that provides protection of the building structural members, including framing and sheathing materials, and conditioned interior space from the detrimental effects of the exterior environment.
+
+[A] FACILITY. All or any portion of buildings, structures, site improvements, elements and pedestrian or vehicular routes located on a site.
+
+[BS] FLOOD HAZARD AREA. The greater of the following two areas:
+
+1.The area within a flood plain subject to a 1-percent or greater chance of flooding in any year.
+
+2.The area designated as a flood hazard area on a community’s flood hazard map, or otherwise legally designated.
+
+GENERAL ACUTE CARE HOSPITAL. [OSHPD 1] See California Building Code Section 1224.3.
+
+[A] HISTORIC BUILDING. Any building or structure that is one or more of the following:
+
+1.Listed, or certified as eligible for listing, by the State Historic Preservation Officer or the Keeper of the National Register of Historic Places, in the National Register of Historic Places.
+
+2.Designated as historic under an applicable state or local law.
+
+3.Certified as a contributing resource within a National Register, state designated or locally designated historic district.
+
+INCIDENTAL STRUCTURAL ALTERATIONS, ADDITIONS OR REPAIRS. [OSHPD 1 & 4] Alterations, additions or repairs which would not reduce the story lateral shear force-resisting capacity by more than 5 percent or increase the story shear by more than 5 percent in any existing story or a combination thereof with equivalent effect (not exceeding 5 percent total). The calculation of lateral shear force-resisting capacity and story shear shall account for the cumulative effects of additions and alterations since original construction.
+
+MAJOR STRUCTURAL ALTERATIONS, ADDITIONS OR REPAIRS. [OSHPD 1 & 4] Alterations, additions or repairs of greater extent than minor structural alterations, additions or repairs.
+
+MINOR STRUCTURAL ALTERATIONS, ADDITIONS OR REPAIRS. [OSHPD 1 & 4] Alterations, additions or repairs of greater extent than incidental structural additions or alterations which would not reduce the story shear lateral-force-resisting capacity by more than 10 percent or increase the story shear by more than 10 percent in any existing story or a combination thereof with equivalent effect (not exceeding 10 percent total). The calculation of lateral shear force-resisting capacity and story shear shall account for the cumulative effects of additions and alterations since original construction.
+
+[BF] NONCOMBUSTIBLE MATERIAL. A material that, under the conditions anticipated, will not ignite or burn when subjected to fire or heat. Materials that pass ASTM E136 are considered noncombustible materials.
+
+NONSTRUCTURAL ALTERATION. [OSHPD 1 & 4]  Nonstructural alteration is any alteration which neither affects existing structural elements nor requires new structural elements for vertical or lateral support and which does not increase the lateral shear force in any story by more than 5 percent.
+
+PRIMARY FUNCTION. A primary function is a major activity for which the facility is intended. Areas that contain a primary function include, but are not limited to, the customer services lobby of a bank, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and other work areas in which the activities of the public accommodation or other private entity using the facility are carried out. Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, entrances, corridors and restrooms are not areas containing a primary function.
+
+[A] REGISTERED DESIGN PROFESSIONAL IN RESPONSIBLE CHARGE. A registered design professional engaged by the owner or the owner’s authorized agent to review and coordinate certain aspects of the project, as determined by the code official, for compatibility with the design of the building or structure, including submittal documents prepared by others, deferred submittal documents and phased submittal documents.
+
+REHABILITATION. Any work, as described by the categories of work defined herein, undertaken in an existing building.
+
+[A] RELOCATABLE BUILDING. A partially or completely assembled building constructed and designed to be reused multiple times and transported to different building sites.
+
+[A] REPAIR. The reconstruction, replacement or renewal of any part of an existing building for the purpose of its maintenance or to correct damage.
+
+REPAIR. [OSHPD 1] as used in this Code means all the design and construction work affecting existing or requiring new structural elements undertaken to restore or enhance the structural and nonstructural load-resisting system participating in vertical or lateral response of a structure primarily intended to correct the effects of deterioration or impending or actual failure, regardless of cause.
+
+[BS] REROOFING. The process of recovering or replacing an existing roof covering. See “Roof recover” and “Roof replacement.”
+
+[BS] RISK CATEGORY. A categorization of buildings and other structures for determination of flood, wind, snow, ice and earthquake loads based on the risk associated with unacceptable performance, as provided in Section 1604.5 of the California Building Code.
+
+[BS] ROOF COATING. A fluid-applied adhered coating used for roof maintenance, roof repair or as a component of a roof covering system or roof assembly.
+
+[BS] ROOF RECOVER. The process of installing an additional roof covering over a prepared existing roof covering without removing the existing roof covering.
+
+[BS] ROOF REPAIR. Reconstruction or renewal of any part of an existing roof for the purpose of correcting damage or restoring the predamage condition.
+
+[BS] ROOF REPLACEMENT. The process of removing the existing roof covering, repairing any damaged substrate and installing a new roof covering.
+
+[BS] SEISMIC FORCES. The loads, forces and requirements prescribed herein, related to the response of the building to earthquake motions, to be used in the analysis and design of the structure and its components. Seismic forces are considered either full or reduced, as provided in Chapter 3.
+
+SPC SEISMIC SEPARATION. [OSHPD 1 & 1R] Means a building separation in accordance with the California Administrative Code, Chapter 6 Section 3.4.
+
+SUBSTANDARD BUILDING. [HCD 1, HCD 2] See Health and Safety Code Section 17920.3.
+
+[BS] SUBSTANTIAL DAMAGE. For the purpose of determining compliance with the flood provisions of this code, damage of any origin sustained by a structure whereby the cost of restoring the structure to its before-damaged condition would equal or exceed 50 percent of the market value of the structure before the damage occurred.
+
+[BS] SUBSTANTIAL IMPROVEMENT. For the purpose of determining compliance with the flood provisions of this code, any repair, alteration, addition or improvement of a building or structure, the cost of which equals or exceeds 50 percent of the market value of the structure, before the improvement or repair is started. If the structure has sustained substantial damage, any repairs are considered substantial improvement regardless of the actual repair work performed. The term does not, however, include either of the following:
+
+1.Any project for improvement of a building required to correct existing health, sanitary or safety code violations identified by the code official and that is the minimum necessary to ensure safe living conditions.
+
+2.Any alteration of a historic structure, provided that the alteration will not preclude the structure’s continued designation as a historic structure.
+
+[BS] SUBSTANTIAL STRUCTURAL ALTERATION. An alteration in which the gravity load-carrying structural elements altered within a 5-year period support more than 30 percent of the total floor and roof area of the building or structure. The areas to be counted toward the 30 percent shall include mezzanines, penthouses, and in-filled courts and shafts tributary to the altered structural elements.
+
+[BS] SUBSTANTIAL STRUCTURAL DAMAGE. A condition where any of the following apply:
+
+1.The vertical elements of the lateral force-resisting system have suffered damage such that the lateral loadcarrying capacity of any story in any horizontal direction has been reduced by more than 33 percent from its predamage condition.
+
+2.The capacity of any vertical component carrying gravity load, or any group of such components, that has a tributary area more than 30 percent of the total area of the structure’s floor(s) and roof(s) has been reduced more than 20 percent from its predamage condition, and the remaining capacity of such affected elements, with respect to all dead and live loads, is less than 75 percent of that required by the California Building Code for new buildings of similar structure, purpose and location.
+
+3.The capacity of any structural component carrying snow load, or any group of such components, that supports more than 30 percent of the roof area of similar construction has been reduced more than 20 percent from its predamage condition, and the remaining capacity with respect to dead, live and snow loads is less than 75 percent of that required by the California Building Code for new buildings of similar structure, purpose
+and location.
+
+SUBSTANTIAL STRUCTURAL DAMAGE. [OSHPD 1 & 1R] A condition where any of the following apply:
+
+1.The vertical elements of the lateral force-resisting system have suffered damage such that the lateral load carrying capacity of any story in any horizontal direction has been reduced by more than 10 percent from its predamage condition.
+
+2.The capacity of any vertical component carrying gravity load, or any group of such components, has a tributary area more than 15 percent of the total area of the structure’s floor(s) and roof(s), has been reduced more than 10 percent from its predamage condition, and the remaining capacity of such affected elements, with respect to all dead and live loads, is less than 75 percent of that required by the California Building Code for new buildings of similar structure, purpose and location.
+
+3.The capacity of any structural component carrying snow load, or any group of such components, that supports more than 15 percent of the roof area of similar construction, has been reduced more than 10 percent from its predamage condition, and the remaining capacity with respect to dead, live and snow loads is less than 75 percent of that required by the California Building Code for new buildings of similar structure, purpose and location.
+
+TECHNICALLY INFEASIBLE. An alteration of a facility that has little likelihood of being accomplished because the existing structural conditions require the removal or alteration of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or addition of elements, spaces or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.
+
+UNREINFORCED CONCRETE. [OSHPD 1, 1R, 2, 4 & 5] Unreinforced concrete as used in this chapter means plain concrete as defined in ACI 318 Section 2.3.
+
+UNREINFORCED MASONRY. [OSHPD 1 & 4] Unreinforced masonry as used in this chapter means masonry construction where reinforcements in any direction is less than minimum reinforcement specified in TMS 402 Section 7.3.2.6.
+
+UNSAFE. Buildings, structures or equipment that are unsanitary, or that are deficient due to inadequate means of egress facilities, inadequate light and ventilation, or that constitute a fire hazard, or in which the structure or individual structural members meet the definition of “Dangerous,” or that are otherwise dangerous to human life or the public welfare, or that involve illegal or improper occupancy or inadequate maintenance shall be deemed unsafe. A vacant structure that is not secured against entry shall be deemed unsafe.
+
+[HCD 1 & HCD 2] An unsafe building, as defined in this chapter, shall be considered substandard.
+
+VOLUNTARY STRUCTURAL IMPROVEMENTS (VSIs). [OSHPD 1] Voluntary structural improvements are any alterations of existing structural element(s) or addition of new structural elements which are not necessary for vertical or lateral support of other work and is initiated by the applicant primarily for the purpose of increasing the vertical or lateral load-carrying strength or stiffness of an existing building.
+
+WORK AREA. That portion or portions of a building consisting of all reconfigured spaces as indicated on the construction documents. Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by this code.
+

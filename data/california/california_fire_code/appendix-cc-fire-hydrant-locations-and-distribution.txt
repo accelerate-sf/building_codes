@@ -1,0 +1,96 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX CC – FIRE HYDRANT LOCATIONS AND DISTRIBUTION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX APPENDIX CC CC FIRE HYDRANT LOCATIONS AND DISTRIBUTION FIRE HYDRANT LOCATIONS AND DISTRIBUTION
+
+SECTION CC101 SCOPE
+
+CC101.1
+
+Fire hydrants shall be provided in accordance with this appendix for the protection of any school buildings, or portions thereof hereafter constructed for which review and approval are required under Subdivision(a) of Section 17280 of the Government Code.
+
+SECTION CC102 LOCATION
+
+CC102.1
+
+Fire hydrants shall be provided along required fire apparatus access roads and adjacent public streets.
+
+SECTION CC103 NUMBER OF FIRE HYDRANTS
+
+CC103.1
+
+The minimum number of fire hydrants available to a building shall not be less than that listed in Table CC105.1. The number of fire hydrants available to a complex or subdivision shall not be less than that determined by spacing requirements listed in Table CC105.1 when applied to fire apparatus access roads and perimeter streets from which fire operations could be conducted.
+
+SECTION CC104 CONSIDERATION OF EXISTING FIRE HYDRANTS
+
+CC104.1
+
+Existing fire hydrants on public streets are allowed to be considered as available. Existing fire hydrants on adjacent properties shall not be considered available unless fire apparatus access roads extend between properties and easements are established to prevent obstruction of such roads.
+
+SECTION CC105 DISTRIBUTION OF FIRE HYDRANTS
+
+CC105.1
+
+The average spacing between fire hydrants shall not exceed that listed in Table CC105.1.
+
+Exception:  A deficiency of up to 10 percent shall not be allowed when existing fire hydrants provide all, or a portion, of the required fire hydrant service.
+
+Regardless of the average spacing, fire hydrants shall be located such that all points on streets and access roads adjacent to a building are within the distances listed in Table CC105.1.
+
+TABLE CC105.1
+
+NUMBER AND DISTRIBUTION OF FIRE HYDRANTS
+
+FIRE-FLOW REQUIREMENT (gpm)
+	MINIMUM NUMBER OF HYDRANTS
+	AVERAGE SPACING BETWEEN HYDRANTSa, b, c (feet)
+	MAXIMUM DISTANCE FROM ANY POINT ON STREET OR ROAD FRONTAGE TO A HYDRANTd
+
+1,750 or less	1	500	250
+2,000-2,250	2	450	225
+2,500	3	450	225
+3,000	3	400	225
+3,500-4,000	4	350	210
+4,500-5,000	5	300	180
+5,500	6	300	180
+6,000	6	250	150
+6,500-7,000	7	250	150
+7,500 or more	8 or moree	200	120For SI: 1 foot = 304.8 mm, 1 gallon per minute = 3.785 L/m.
+
+a.Reduce by 100 feet for dead-end streets or roads.
+
+b.Where streets are provided with median dividers which can be crossed by fire fighters pulling hose lines, or where arterial streets are provided with four or more traffic lanes and have a traffic count of more than 30,000 vehicles per day, hydrant spacing shall average 500 feet on each side of the street and be arranged on an alternating basis up to a fire-flow requirement of 7,000 gallons per minute and 400 feet for higher fire-flow requirements.
+
+c Where new water mains are extended along streets where hydrants are not needed for protection of structures or similar fire problems, fire hydrants shall be provided at spacing not to exceed 1,000 feet to provide for transportation hazards.
+
+d.Reduce by 50 feet for dead-end streets or roads.
+
+e.One hydrant for each 1,000 gallons per minute or fraction thereof.
+
+CC105.2
+
+When public or private water mains are not available to supply fire flow [not within 1,000 feet (304 800 mm) of the proposed building], the following alternatives shall be used:
+
+1.Building(s) shall be protected by an automatic sprinkler system
+
+Exception:  Portable (relocatable) buildings, as defined in California Education Code Section 17742.5(e), which requires that portable buildings be designed and constructed to be relocatable over public streets, shall be designed and constructed for relocation without the separation of the roof or floor from the building and when measured at the most exterior walls, shall have a floor area not in excess of 2,000 square feet (186 m2). Such portable buildings shall be separated from other structures in groupings not to exceed 9,100 square feet (845 m2) in building area (pursuant to Table 503, California Building Code, for Type V-B buildings). Further area increases shall be as approved by the local fire authority having jurisdiction and the state fire marshal.
+
+The water for sprinklers may be supplied by the domestic system, a pressure tank, a gravity tank or other means in accordance with NPFA 13. Water tanks shall be installed in accordance with NFPA 22. (See the California Building Code, Chapter 9.)
+
+2.When the adequate fire flow is not available and the water for sprinklers is provided from a source other than a public water supply, the amount of water to supply the system shall be calculated using the area/density method or the room design method as delineated in NFPA 13. The calculated duration of water flow to sprinklers shall not be less than 15 minutes to 10 heads.
+
+3.The sprinkler system shall have a water flow alarm monitored by an approved central, proprietary or remote station service or a local alarm which will give audible and visual signals at a constant attended location.
+
+4.When this alternative is utilized and the calculated water duration to a sprinkler is less than NFPA 13 recommendations, the area increases and fire resistive substitutions allowed in Chapter 5 of the California Building Code shall not be permitted.
+

@@ -1,0 +1,449 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 2 – DEFINITIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CE C	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X		X				X														
+Adopt entire chapter as amended (amended sections listed below)									X		X		X									
+Adopt only those sections that are listed below																						
+Chapter/Section																						
+201																						
+CALIFORNIA RESIDENTIAL CODE									†		†		†									
+LOW-RISE RESIDENTIAL BUILDING									†		†		†									
+PLANTS									†		†		†									
+RESIDENTIAL BUILDING									†		†		†									
+RESILIENT FLOORING									†		†		†									The state agency does not adopt sections identified by the following symbol: †.
+
+CHAPTER 2 DEFINITIONS DEFINITIONS
+
+SECTION 201 GENERAL
+
+201.1 Scope.
+
+Unless otherwise stated, the following words and terms shall, for the purposes of this code, have the meanings shown in this chapter.
+
+201.2 Interchangeability.
+
+Words used in the present tense include the future; words stated in the masculine gender include the feminine and neuter; the singular number includes the plural and the plural, the singular.
+
+201.3 Terms defined in other documents.
+
+Where terms are not defined in this code and are defined in the California Building Standards Code or other referenced documents, such terms shall have the meanings ascribed to them as in those publications.
+
+201.4 Terms not defined.
+
+Where terms are not defined as specified in this section, such terms shall have ordinarily accepted meanings such as the context implies.
+
+SECTION 202 DEFINITIONS
+
+ACCESSORY DWELLING UNIT. [HCD] An attached or detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. Accessory dwelling units shall include permanent provisions for living, sleeping, eating, cooking and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. (See Government Code Section 65852.2.)
+
+ACCESSORY OCCUPANCIES. [HCD] Occupancies that are ancillary to the main occupancy of residential building(s) or portions thereof. Accessory occupancies shall include, but are not limited to, Group U occupancies. (See Section 312 of the California Building Code.)
+
+ACCESSORY STRUCTURE. [HCD] A structure that is accessory to and incidental to that of the dwelling(s) and that is located on the same lot.
+
+ADDITION. An extension or increase in floor area of an existing building or structure.
+
+ADJUST. To regulate fluid flow rate and air patterns at the terminal equipment, such as to reduce fan speed or adjust a damper.
+
+AGRIFIBER PRODUCTS. Agrifiber products include wheatboard, strawboard, panel substrates and door cores, not including furniture, fixtures and equipment (FF&E) not considered base building elements.
+
+ALBEDO. Synonymous with solar reflectance, which is a ratio of the energy reflected back into the atmosphere to the energy absorbed by the surface, with 100 percent being total reflectance.
+
+ALTERATION OR ALTER. Any construction or renovation to an existing structure other than repair for the purpose of maintenance or addition.
+
+ARB (CARB). The California Air Resources Board.
+
+ARTERIAL HIGHWAY. A general term denoting a highway primarily for through traffic usually on a continuous route.
+
+ASSEMBLY (ASSEMBLY PRODUCT). An assembly (assembly product) includes or has been formulated using multiple materials.
+
+AUTOMATIC. Automatic means capable of operating without human intervention.
+
+AUTOMATIC LOAD MANAGEMENT SYSTEM (ALMS). [BSC-CG, DSA-SS and HCD] A system designed to manage load across one or more electric vehicle supply equipment (EVSE) to share electrical capacity and/or automatically manage power at each connection point.
+
+A-WEIGHTED SOUND LEVEL (dba). The sound pressure level in decibels as measured on a sound level meter using the internationally standardized A-weighting filter or as computed from sound spectral data to which A-weighting adjustments have been made.
+
+BALANCE. To proportion flows within the distribution system, including submains, branches and terminals, according to design quantities.
+
+BIORETENTION. A shallow depression that utilizes conditioned soil and vegetation for the storage, treatment or infiltration of storm water runoff.
+
+BROWNFIELD SITE. Real property, the expansion, redevelopment or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant or contaminant, with certain legal exclusions and additions.
+
+Note: See the full text at the EPA’s website.
+
+1 BTU/HOUR. British thermal units per hour, also referred to as Btu. The amount of heat required to raise one pound of water one degree Fahrenheit per hour, a common measure of heat transfer rate. A ton of refrigeration is 12,000 Btu, the amount of heat required to melt a ton (2,000 pounds) of ice at 32° Fahrenheit.
+
+BUILDING COMMISSIONING. A systematic quality assurance process that spans the entire design and construction process, including verifying and documenting that building systems and components are planned, designed, installed, tested, operated and maintained to meet the owner’s project requirements.
+
+BUILDING ENVELOPE. The ensemble of exterior and demising partitions of a building that enclose conditioned space.
+
+CALIFORNIA BUILDING CODE. The current version of the California Building Code.
+
+CALIFORNIA ELECTRICAL CODE. The current version of the California Electrical Code.
+
+CALIFORNIA ENERGY CODE. The current version of the California Energy Code, unless otherwise specified.
+
+CALIFORNIA MECHANICAL CODE. The current version of the California Mechanical Code.
+
+CALIFORNIA PLUMBING CODE. The current version of the California Plumbing Code.
+
+CALIFORNIA RESIDENTIAL CODE. The current version of the California Residential Code.
+
+CHLOROFLUOROCARBON (CFC). A class of compounds primarily used as refrigerants, consisting of only chlorine, fluorine and carbon.
+
+COMMUNITY NOISE EQUIVALENT LEVEL (CNEL) HIGHWAY. A metric similar to the day-night average sound level (Ldn), except that a 5 decibel (dB) adjustment is added to the equivalent continuous sound exposure level for evening hours (7 p.m. to 10 p.m.) in addition to the 10 dB nighttime adjustment used in the Ldn.
+
+COMPACT DISHWASHER. A dishwasher that has a capacity of less than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1.
+
+COMPOSITE WOOD PRODUCTS. Composite wood products include hardwood plywood, particleboard and medium density fiberboard. “Composite wood products” does not include hardboard, structural plywood, structural panels, structural composite lumber, oriented strand board, glued laminated timber, prefabricated wood I-joists or finger-jointed lumber, all as specified in California Code of Regulations (CCR), Title 17, Section 93120.1(a).
+
+Note: See CCR, Title 17, Section 93120.1.
+
+CONDITIONED FLOOR AREA. The floor area (in square feet) of enclosed conditioned space on all floors of a building, as measured at the floor level of the exterior surfaces of exterior walls enclosing the conditioned space.
+
+CONDITIONED SPACE. A space in a building that is either directly conditioned or indirectly conditioned.
+
+CONDITIONED SPACE, DIRECTLY. An enclosed space that is provided with wood heating, is provided with mechanical heating that has a capacity exceeding 10 Btu/hr-ft2, or is provided with mechanical cooling that has a capacity exceeding 5 Btu/hr-ft2, unless the space-conditioning system is designed for a process space. (See Process Space.)
+
+CONDITIONED SPACE, INDIRECTLY. Enclosed space, including but not limited to, unconditioned volume in atria, that (1) is not directly conditioned space; and (2) either (a) has a thermal transmittance area product (UA) to directly conditioned space exceeding that to the outdoors or to unconditioned space and does not have fixed vents or openings to the outdoors or to unconditioned space, or (b) is a space through which air from directly conditioned spaces is transferred at a rate exceeding three air changes per hour.
+
+COOL PAVEMENT(S). Includes, but is not limited to, high albedo pavements and coatings, vegetative surfaces, porous or pervious pavements that allow water infiltration, and pavements shaded by trees and other sources of shade.
+
+COOLING EQUIPMENT. Equipment used to provide mechanical cooling for a room or rooms in a building.
+
+CUTOFF LUMINAIRES. Luminaires whose light distribution is such that the candela per 1000 lamp lumens does not numerically exceed 25 (2.5 percent) at an angle of 90 degrees above nadir, and 100 (10 percent) at a vertical angle of 80 degrees above nadir. This applies to all lateral angles around the luminaire.
+
+DAY-NIGHT AVERAGE SOUND LEVEL (Ldn). The Aweighted equivalent continuous sound exposure level for a 24-hour period with a 10 dB adjustment added to sound levels occurring during nighttime hours (10 p.m. to 7 a.m.).
+
+DECIBEL (dB). A measure on a logarithmic scale of the magnitude of a particular quantity (such as sound pressure, sound power, sound intensity) with respect to a reference quantity.
+
+DEMAND HOT WATER RECIRCULATION SYSTEM. A hot water recirculation system requiring manual activation and equipped with a thermostat that will automatically shut off the recirculation pump when the water temperature reaches a preset level at the point of use.
+
+DEVELOPMENT FOOTPRINT. The total area of the building footprint, hardscape, access roads and parking.
+
+DEWATERING. Pumping of uncontaminated or treated groundwater for construction activities.
+
+DIRECT-VENT APPLIANCE. A fuel-burning appliance with a sealed combustion system that draws all air for combustion from the outside atmosphere and discharges all flue gases to the outside atmosphere.
+
+DISPOSAL. The management of solid waste through landfilling or transformation at permitted solid waste facilities.
+
+DIVERSION. Activities which reduce or eliminate the amount of solid waste from solid waste disposal for purposes of this code.
+
+ELECTRIC VEHICLE (EV). [BSC-CG, HCD] An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles. For purposes of the California Electrical Code, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats and the like, are not included.
+
+ELECTRIC VEHICLE (EV) CAPABLE SPACE. [BSCCG, DSA-SS and HCD] A vehicle space with electrical panel space and load capacity to support a branch circuit and necessary raceways, both underground and/or surface mounted, to support EV charging.
+
+ELECTRIC VEHICLE (EV) CHARGER. [HCD] Off-board charging equipment used to charge an electric vehicle.
+
+ELECTRIC VEHICLE CHARGING SPACE (EV SPACE). [HCD] A space intended for future installation of EV charging equipment and charging of electric vehicles.
+
+ELECTRIC VEHICLE CHARGING STATION (EVCS). [HCD] One or more electric vehicle charging spaces served by electric vehicle charger(s) or other charging equipment allowing charging of electric vehicles. Electric vehicle charging stations are not considered parking spaces.
+
+ELECTRIC VEHICLE (EV) READY SPACE. [HCD] A vehicle space which is provided with a branch circuit; any necessary raceways, both underground and/or surface mounted; to accommodate EV charging, terminating in a receptacle or a charger.
+
+ELECTRIC VEHICLE SUPPLY EQUIPMENT (EVSE). [BSC-CG, DSA-SS and HCD] The conductors, including the ungrounded, grounded and equipment grounding conductors and the electric vehicle connectors, attachment plugs, and all other fittings, devices, power outlets or apparatus installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.
+
+EMBODIED ENERGY. The energy used for raw material extraction, transportation, manufacturing, assembly, installation and disposal during the life of a product, including the potential energy stored within the product.
+
+ENERGY BUDGET. The sum of the annual TDV energy consumption for energy use components included in the performance compliance approach for the Standard Design Building, as established in the Alternative Calculation Method Reference Manual approved by the Energy Commission and calculated by Compliance Software certified by the Energy Commission.
+
+ENERGY COMMISSION. The California State Energy Resources Conservation and Development Commission.
+
+ENERGY DESIGN RATING. The sum of the annual TDV energy consumption for energy use components included in the performance compliance approach for the Standard Design Building (Energy Budget) and the annual time dependent valuation (TDV) energy consumption for lighting and components not regulated by Title 24, Part 6 (such as domestic appliances and consumer electronics) and accounting for the annual TDV energy offset by an on-site renewable energy system. The Design Rating is calculated by Compliance Software certified by the Energy Commission.
+
+ENERGY EQUIVALENT (NOISE) LEVEL (L eq). The level of a steady noise which would have the same energy as the fluctuating noise level integrated over the time period of interest.
+
+ENFORCING AGENCY. The designated department or agency as specified by statute or regulation.
+
+EUTROPHICATION. The excessive growth of aquatic plants, especially algae, producing bacteria which consume nearly all of the oxygen required to sustain fauna and other flora.
+
+EVAPOTRANSPIRATION ADJUSTMENT FACTOR (ETAF). [DSA-SS] An adjustment factor when applied to reference evapotranspiration that adjusts for plant factors and irrigation efficiency, which are two major influences on the amount of water that needs to be applied to the landscape.
+
+EXFILTRATION. The uncontrolled outward air leakage from inside a building, including leakage through cracks and interstices, around windows and doors, and through any other exterior partition or duct penetration.
+
+EXPRESSWAY. An arterial highway for through traffic which may have partial control of access, but which may or may not be divided or have grade separations at intersections.
+
+FLOOR AREA RATIO. Gross square footage of all structures on a site divided by gross square footage of the site.
+
+FOOTPRINT AREA. [DSA-SS] The total area of the furthest exterior wall of the structure projected to natural grade, not including exterior areas such as stairs, covered walkways, patios and decks.
+
+FREEWAY. A divided arterial highway with full control of access and with grade separations at intersections.
+
+FRENCH DRAIN. A trench, hole or other depressed area loosely filled with rock, gravel, fragments of brick or similar pervious material used to collect or channel drainage or runoff water.
+
+GEOTHERMAL. Renewable energy generated by deep-earth water or steam.
+
+GLOBAL WARMING POTENTIAL (GWP). The radiative forcing impact of one mass-based unit of a given greenhouse gas relative to an equivalent unit of carbon dioxide over a given period of time. Carbon dioxide is the reference compound with a GWP of one.
+
+GLOBAL WARMING POTENTIAL VALUE (GWP VALUE). The 100-year GWP value published by the Inter-governmental Panel on Climate Change (IPCC) in either its Second Assessment Report (SAR) (IPCC, 1995); or its Fourth Assessment A-3 Report (AR4) (IPCC, 2007). The SAR GWP values are found in column “SAR (100-yr)” of Table 2.14.; the AR4 GWP values are found in column “100 yr” of Table 2.14.
+
+GRAYWATER. Pursuant to Health and Safety Code Section 17922.12, “graywater” means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing or operating wastes. “Graywater” includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers.
+
+Note: For the purpose of applying the standards contained in this code, “Graywater,” as defined above, has the same meaning as “gray water,” “grey water,” and “greywater.”
+
+GREEN BUILDING. A holistic approach to design, construction and demolition that minimizes the building’s impact on the environment, the occupants and the community.
+
+GREENFIELDS. Sites that are not previously developed or graded and remain in a natural state, able to support agriculture, open space or habitat.
+
+Note: Previously developed sites are those that previously contained buildings, roadways or parking lots or were graded or altered by direct human activities.
+
+GREYFIELD SITE. Any site previously developed with at least 50 percent of the surface area covered with impervious material.
+
+HALON. Any of a class of chemical compounds derived from hydrocarbons by replacing one or more hydrogen atoms with bromine atoms, and other hydrogen atoms with other halogen atoms (chlorine, fluorine, iodine).
+
+HAZARDOUS WASTE.
+
+(a)A waste, defined as a “hazardous waste” in accordance with Section 25117 of the Health and Safety Code, or a combination of wastes, which because of its quantity, concentration or physical, chemical or infectious characteristics may do either of the following:
+
+(1)Cause, or significantly contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness.
+
+(2)Pose a substantial present or potential hazard to human health or environment when improperly treated, stored, transported or disposed of, or otherwise managed.
+
+(b)Unless expressly provided otherwise, “hazardous waste” includes extremely hazardous waste and acutely hazardous waste.
+
+HEAT ISLAND EFFECT. “Heat island effect” and “urban heat islands” refer to measurable elevated temperatures in developed areas as compared to more rural surroundings. Temperatures in developed areas are affected by absorption of heat by hardscapes and radiation of heat into surrounding areas resulting in local climate changes. Heat islands are influenced by geographic location and by local weather patterns, with effects changing on a daily or seasonal basis.
+
+HIGH-GWP REFRIGERANT. A compound used as a heat transfer fluid or gas that is: (A) a chlorofluorocarbon, a hydrochlorofluorocarbon, a hydrofluorocarbon, a perfluorocarbon, or any compound or blend of compounds, with a GWP value equal to or greater than 150, or (B) any ozone depleting substance as defined in Title 40 of the Code of Federal Regulations, Part 82, §82.3 (as amended March 10, 2009).
+
+HIGH-RISE RESIDENTIAL BUILDING. For the purposes of CALGreen, any building that is of Occupancy Group R and is four stories or greater in height.
+
+HOT WATER RECIRCULATION SYSTEM. A hot water distribution system that reduces the time needed to deliver hot water to fixtures that are distant from the water heater, boiler or other water heating equipment. The recirculation system is comprised of hot water supply and return piping with shutoff valves, balancing valves, circulating pumps and a method of controlling the circulating system.
+
+HOTEL OR MOTEL. (HCD-1) Any building containing six or more guest rooms intended or designed to be used, or which are used, rented or hired out to be occupied or which are occupied for sleeping purposes by guests.
+
+HYDROCHLOROFLUOROCARBON (HCFC). A class of compounds primarily used as refrigerants or foam expansion agents, consisting of only hydrogen, chlorine, fluorine and carbon.
+
+HYDROFLUOROCARBON (HFC). A class of compounds primarily used as refrigerants or foam expansion agents, consisting of only hydrogen, fluorine and carbon.
+
+IESNA. Illuminating Engineering Society of North America.
+
+INERT SOLIDS OR INERT WASTE. A non-liquid solid waste including, but not limited to, soil and concrete, that does not contain hazardous waste or soluble pollutants at concentrations in excess of water-quality objectives established by a regional water board pursuant to Division 7 (commencing with Section 13000) of the California Water Code and does not contain significant quantities of decomposable solid waste.
+
+INFILL SITE. A site in an urbanized area that meets criteria defined in Public Resources Code Section 21061.3.
+
+INFILTRATION. An uncontrolled inward air leakage from outside a building or unconditioned space, including leakage through cracks and interstices, around windows and doors and through any other exterior or demising partition or pipe or duct penetration.
+
+INTERIOR BUILDING. The inside of the weatherproofing system.
+
+JUNIOR ACCESSORY DWELLING UNIT. [HCD] A unit that is no more than 500 square feet in size and contained entirely within an existing single-family structure. A junior accessory dwelling unit may include separate sanitation facilities, or may share sanitation facilities with the existing structure. (See Government Code Section 65852.22.)
+
+KITCHEN. That portion in a residential dwelling unit that is a room or area used for cooking, food storage and preparation and washing dishes, including associated counter tops and cabinets, refrigerator, stove, ovens and floor area.
+
+LANDSCAPE WATER METER. [HCD] An inline device installed at the irrigation supply point that measures the flow of water into the irrigation system and is connected to a totalizer to record water use.
+
+LEVEL 2 ELECTRIC VEHICLE SUPPLY EQUIPMENT (EVSE). [HCD] The 208/240-volt 40-ampere branch circuit, and the electric vehicle charging connectors, attachment plugs and all other fittings, devices, power outlets or apparatus installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.
+
+LIFE CYCLE ASSESSMENT (LCA). A technique to evaluate the relevant energy and material consumed and environmental impacts associated with the entire life of a product, process, activity or service, including a whole building.
+
+LIFE CYCLE INVENTORY (LCI). A process of quantifying energy and raw material requirements, atmospheric emissions, waterborne emissions, solid wastes and other releases for the entire life cycle of a product, process or activity, including a whole building.
+
+LONG RADIUS ELBOW. Pipe fitting installed between two lengths of pipe or tubing to allow a change of direction, with a radius 1.5 times the pipe diameter.
+
+LOW-GWP REFRIGERANT. A compound used as a heat transfer fluid or gas that: (A) has a GWP value less than 150, and (B) is not an ozone depleting substance as defined in Title 40 of the Code of Federal Regulations, Part 82, §82.3 (as amended March 10, 2009).
+
+LOW IMPACT DEVELOPMENT (LID). Control of stormwater at its source to mimic drainage services provided by an undisturbed site.
+
+LOW POWER LEVEL 2 ELECTRIC VEHICLE (EV) CHARGING RECEPTACLE. [HCD] A 208/240-volt 20-ampere minimum branch circuit and a receptacle for use by an EV driver to charge their electric vehicle or hybrid electric vehicle.
+
+LOW-RISE RESIDENTIAL BUILDING. For the purpose of CALGreen, any building that is of Occupancy Group R and is three stories or less.
+
+MAXIMUM INCREMENTAL REACTIVITY (MIR). The maximum change in weight of ozone formed by adding a compound to the “Base Reactive Organic Gas (ROG) Mixture” per weight of compound added, expressed to hundredths of a gram (g O3/g ROC).
+
+Note: MIR values for individual compounds and hydro-carbon solvents are specified in CCR, Title 17, Sections 94700 and 94701.
+
+MERV Filter minimum efficiency reporting value.
+
+METERING FAUCET. A self-closing faucet that dispenses a specific volume of water for each actuation cycle. The volume or cycle duration can be fixed or adjustable.
+
+MODEL WATER EFFICIENT LANDSCAPE ORDINANCE (MWELO) [BSC-CG & DSA-SS] A California regulation commencing with Section 490 of Chapter 2.7, Division 2, Title 23, California Code of Regulations. The MWELO regulation establishes a structure for planning, designing, installing, maintaining and managing water efficient landscapes in new construction and rehabilitated projects.
+
+MODEL WATER EFFICIENT LANDSCAPE ORDINANCE (MWELO). [HCD] The California model ordinance (California Code of Regulations, Title 23, Division 2, Chapter 2.7), regulating landscape design, installation and maintenance practices. Local agencies are required to adopt the updated MWELO, or adopt a local ordinance at least as effective as the MWELO.
+
+MOISTURE CONTENT. The weight of the water in wood expressed in percentage of the weight of the oven-dry wood.
+
+MOUNTING HEIGHT (MH). The height of the photometric center of a luminaire above grade level.
+
+MULTI-OCCUPANT SPACES. Indoor spaces used for presentations and training, including classrooms and conference rooms.
+
+NEIGHBORHOOD ELECTRIC VEHICLE (NEV). [BSC-CG, DSA-SS] A motor vehicle that meets the definition of “low-speed vehicle” either in Section 385.5 of the Vehicle Code or in 49 CFR571.500 (as it existed on July 1, 2000), and is certified to zero-emission vehicle standards.
+
+NEWLY CONSTRUCTED (or NEW CONSTRUCTION). A newly constructed building (or new construction) does not include additions, alterations or repairs.
+
+NO ADDED FORMALDEHYDE (NAF) BASED RESINS. Resin formulated with no added formaldehyde as part of the resin cross linking structure for making hardwood plywood, particle board or medium density fiberboard. “No added formaldehyde resins” include, but are not limited to, resins made from soy, polyvinyl acetate or methylene diisocyanate. [BSC] See CCR, Title 17, Section 93120.1(a).
+
+NON-STORMWATER DISCHARGES. Discharges that do not originate from precipitation events. Including, but not limited to, dewatering activities, washout area discharge, vehicle and equipment cleaning, street cleaning and irrigation runoff.
+
+NONWATER URINAL WITH DRAIN CLEANSING ACTION. A nonwater urinal that conveys waste into the drainage system without the use of water for flushing and automatically performs a drain-cleansing action after a predetermined amount of time.
+
+OFF-STREET LOADING SPACES. [BSC-CG, DSA-SS] An area, other than a public street, public way or other property (and exclusive of off-street parking spaces), permanently reserved or set aside for the loading or unloading of motor vehicles, including ways of ingress and egress and maneuvering areas. Whenever the term “loading space” is used, it shall, unless the context clearly requires otherwise, be construed as meaning off-street loading space. This excludes designated passenger loading/unloading.
+
+ORGANIC WASTE. Food waste, green waste, landscape and pruning waste, nonhazardous wood waste and food-soiled paper waste that is mixed in with food waste.
+
+OUTDOOR AIR (Outside air). Air taken from outdoors and not previously circulated in the building.
+
+OVE. [BSC-CG, DSA-SS] Optimal Value Engineering, another term for advanced wood framing techniques.
+
+PERMEABLE PAVING. Permeable paving materials and techniques which allow the movement of water around the paving material and allow precipitation to percolate through the paving surface to the soil below.
+
+PLANTS.
+
+Adaptive plants. Adaptive plants are plants that grow well in a given habitat with minimal attention in the form of winter protection, pest protection, irrigation and fertilization once established.
+
+Note: Adaptive plants are considered low in maintenance and are not invasive plants.
+
+Invasive plants. Invasive plants are both indigenous and nonindigenous species with growth habits that are characteristically aggressive.
+
+Note: Invasive plants typically have a high reproductive capacity and tendency to overrun the ecosystems they inhabit.
+
+Native plants. Native plants are plants that have adapted to a given area and are not invasive.
+
+POSTCONSUMER CONTENT. [BSC-CG, DSA-SS] Waste material generated by consumers after it is used and which would otherwise be discarded.
+
+POSTCONSUMER CONTENT. [HCD] Any material which has been used by a consumer and then recycled for use in a new material or product.
+
+POTABLE WATER. Water that is drinkable and meets the US Environmental Protection Agency (EPA) Drinking Water Standards. See definition in the California Plumbing Code, Part 5.
+
+POTABLE WATER. [HCD] Water that is satisfactory for drinking, culinary and domestic purposes, and meets the US Environmental Protection Agency (EPA) Drinking Water Standards and the requirements of the Health Authority Having Jurisdiction.
+
+PRECONSUMER (or POSTINDUSTRIAL) [BSC-CG, DSA-SS] Material diverted from the waste stream during one manufacturing process, including scraps, damaged goods and excess production, that is used in another manufacturing process.
+
+PRECONSUMER (OR POSTINDUSTRIAL) CONTENT. [HCD] Material diverted from the waste stream during one manufacturing process, including scraps, damaged goods and excess production that is reclaimed and used in another manufacturing process. Excluded is reutilization of materials such as rework, regrind or scrap generated in a process and capable of being reclaimed within the same process that generated those wastes.
+
+PROCESS. An activity or treatment that is not related to the space conditioning, lighting, service water heating or ventilating of a building as it relates to human occupancy.
+
+PROCESS SPACE. A space that is thermostatically controlled to maintain a process environment temperature less than 55°F or to maintain a process environment temperature greater than 90°F for the whole space that the system serves, or that is a space with a space-conditioning system designed and controlled to be incapable of operating at temperatures above 55°F or incapable of operating at temperatures below 90°F at design conditions.
+
+PRODUCT-WEIGHTED MIR (PWMIR). The sum of all weighted-MIR for all ingredients in a product subject to this article. The PWMIR is the total product reactivity expressed to hundredths of a gram of ozone formed per gram of product (excluding container and packaging).
+
+Note: PWMIR is calculated according to equations found in CCR, Title 17, Section 94521(a).
+
+PROPORTIONAL RECYCLED CONTENT (PRCM). The amount of recycled content of a material in an assembly as related to the percentage of the material in an assembly product. PRCM is derived by multiplying the percentage of each material in an assembly by the percentage of recycled content in the material.
+
+PSIG. Pounds per square inch, gauge.
+
+RAINWATER. Precipitation on any public or private parcel that has not entered an offsite storm drain system or channel, a flood control channel, or any other stream channel, and has not previously been put to beneficial use.
+
+RAINWATER CATCHMENT SYSTEM. A facility designed to capture, retain and store rainwater flowing off a building, parking lot, or any other manmade impervious surface for subsequent onsite use. Rainwater catchment system is also known as “Rainwater Harvesting System” or “Rainwater Capture System.”
+
+REACTIVE ORGANIC COMPOUND (ROC). Any compound that has the potential, once emitted, to contribute to ozone formation in the troposphere.
+
+RECLAIMED (RECYCLED) WATER. Nonpotable water that meets California State Water Resources Control Board statewide uniform criteria for disinfected tertiary recycled water. Reclaimed (recycled) water is also known as “recycled water” or “reclaimed water.”
+
+RECYCLE or RECYCLING. The process of collecting, sorting, cleansing, treating and reconstituting materials that would otherwise become solid waste, and returning them to the economic mainstream in the form of raw material for new, reused or reconstituted products which meet the quality standards necessary to be used in the marketplace. “Recycling” does not include transformation, as defined in Public Resources Code Section 40201.
+
+RECYCLED CONTENT. [BSC-CG, DSA-SS] Refer to International Organization for Standardization ISO 14021—Environmental labels and declarations—Self-declared environmental claims (Type II environmental labeling).
+
+RECYCLED CONTENT (RC). [HCD] The amount of recycled material in an assembly product or material. Refer to International Organization for Standardization ISO 14021–Environmental labels and declarations–Self-declared environmental claims (Type II environmental labeling).
+
+RECYCLED CONTENT VALUE (RCV). [BSC-CG, DSA-SS] Material cost multiplied by postconsumer content plus 1/2 the preconsumer content, or RCV = $ X (postconsumer content + 1/2 preconsumer content).
+
+RECYCLED CONTENT VALUE (RCV). [HCD]
+
+Assembly products (RCVA). Assembly product cost multiplied by the recycled content of the assembly based on all of the postconsumer content and 50 percent of the preconsumer content.
+
+Materials (RCVM). Material cost multiplied by recycled content of the material based on all of the postconsumer content and 50 percent of the preconsumer content.
+
+RECYCLED WATER. Water which, as a result of treatment of waste, is suitable for a direct beneficial use or a controlled use that would not otherwise occur [Water Code Section 13050 (n)]. Simply put, recycled water is water treated to remove waste matter, attaining a quality that is suitable to use the water again.
+
+RESIDENTIAL BUILDING. See “LOW-RISE RESIDENTIAL BUILDING” or “HIGH-RISE RESIDENTIAL BUILDING.”
+
+RESILIENT FLOORING. Refers to nontextile flooring materials which have a relatively firm surface, yet characteristically have “give” and “bounce back” to their original surface profile from the weight of objects that compress its surface. Resilient flooring materials are made in various shapes and sizes including both tile and roll form. Common types of resilient flooring include but are not limited to:
+
+1.Vinyl composition tile.
+
+2.Vinyl tile and sheet flooring.
+
+3.Linoleum tile and sheet.
+
+4.Cork tile and sheet flooring.
+
+5.Rubber tile and sheet flooring.
+
+6.Polymeric poured seamless flooring.
+
+7.Other types of non-textile synthetic flooring.
+
+RE-USE. The use, in the same form as it was produced, of a material which might otherwise be discarded.
+
+SCHRADER ACCESS VALVES. Access fittings with a valve core installed.
+
+SHORT RADIUS ELBOW. Pipe fitting installed between two lengths of pipe or tubing to allow a change of direction, with a radius 1.0 times the pipe diameter.
+
+SINGLE OCCUPANT SPACES. Private offices, workstations in open offices, reception workstations and ticket booths.
+
+SOLAR ACCESS. The ratio of solar insolation including shade to the solar insolation without shade. Shading from obstructions located on the roof or any other part of the building shall not be included in determination of annual solar access.
+
+SOLAR REFLECTANCE. A measure of the fraction of solar energy that is reflected by a surface (measured on a scale of zero to one).
+
+SOLAR REFLECTANCE INDEX (SRI). A measure of a material surface’s ability to reflect solar heat, as shown by a small temperature rise. It includes both solar reflectance and thermal emittance and is quantified such that a standard black surface (solar reflectance 0.05, thermal emittance 0.90) is zero and a standard white surface (solar reflectance 0.80, thermal emittance 0.90) is 100.
+
+SOLID WASTE.
+
+(a)All putrescible and nonputrescible solid, semisolid and liquid wastes, including garbage, trash, refuse, paper, rubbish, ashes, industrial wastes, demolition and construction wastes, abandoned vehicles and parts thereof, discarded home and industrial appliances, dewatered, treated or chemically fixed sewage sludge which is not hazardous waste, manure, vegetable or animal solid and semisolid wastes, and other discarded solid and semisolid wastes.
+
+(b)“Solid waste” does not include any of the following wastes:
+
+(1)Hazardous waste, as defined in Public Resources Code Section 40141.
+
+(2)Radioactive waste regulated pursuant to the Radiation Control Law (Chapter 8, commencing with Section 114960, of Part 9 of Division 104 of the Health and Safety Code).
+
+(3)Medical waste regulated pursuant to the Medical Waste Management Act (Part 14 commencing with Section 117600) of Division 104 of the Health and Safety Code). Untreated medical waste shall not be disposed of in a solid waste landfill, as defined in Public Resources Code Section 40195.1. Medical waste that has been treated and deemed to be solid waste shall be regulated pursuant to this division.
+
+SPECIAL LANDSCAPE AREA (SLA). [DSA-SS] An area of the landscape dedicated solely to edible plants, planting areas used for educational purposes, recreational areas, areas irrigated with recycled water, water features using recycled water, and where turf provides a playing surface or gathering space.
+
+STANDARD DISHWASHER. A dishwasher that has a capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1.
+
+SUBMETER. [HCD 1] A secondary device beyond a meter that measures water consumption of an individual rental unit within a multiunit residential structure or mixed-use residential and commercial structure. (See Civil Code Section 1954.202(g) and Water Code Section 517 for additional details.)
+
+SUPERMARKET. For the purposes of Section 5.508.2, a supermarket is any retail food facility with 8,000 square feet or more conditioned area, and that utilizes either refrigerated display cases, or walk-in coolers or freezers connected to remote compressor units or condensing units.
+
+TENANT-OCCUPANTS. Building occupants who inhabit a building during its normal hours of operation as permanent occupants, such as employees, as distinguished from customers and other transient visitors.
+
+TEST. A procedure to determine quantitative performance of a system or equipment.
+
+THERMAL EMITTANCE. The relative ability of a surface to radiate absorbed heat (measured on a scale of 0 to 1).
+
+TIME DEPENDENT VALUATION (TDV) ENERGY. The time varying energy caused to be used by the building to provide space conditioning and water heating and for specified buildings lighting. TDV energy accounts for the energy used at the building site and consumed in producing and in delivering energy to a site, including, but not limited to, power generation, transmission and distribution losses.
+
+ULTRA-LOW EMITTING FORMALDEHYDE (ULEF) RESINS. Resins formulated such that average formaldehyde emissions are consistently below the Phase 2 emission standards in Section 93120.2, as provided in Section 93120.3(d) of Title 17, California Code of Regulations. [BSC] See CCR, Title 17, Section 93120.1(a).
+
+UNIVERSAL WASTE. [BSC-CG, DSA-SS] The wastes listed below are subject to regulation pursuant to Chapter 23 of Title 22, California Code of Regulations, and shall be known as “universal wastes.”
+
+(1)Batteries, as described in Title 22 CCR, Section 66273.2, Subsection (a);
+
+(2)Electronic devices, as described in Title 22 CCR, Section 66273.3, Subsection (a);
+
+(3)Mercury-containing equipment, as described in Title 22 CCR, Section 66273.4, Subsection (a);
+
+(4)Lamps, as described in Title 22 CCR, Section 66273.5, Subsection (a);
+
+(5)Cathode ray tubes, as described in Title 22 CCR, Section 66273.6, Subsection (a);
+
+(6)Cathode ray tube glass, as described in Title 22 CCR, Section 66273.7, Subsection (a); and
+
+(7)Aerosol cans, as specified in Health and Safety Code, Section 25201.16.
+
+VANPOOL VEHICLE. [BSC-CG and DSA-SS] Eligible vehicles are limited to any motor vehicle, other than a motortruck or truck tractor, designed for carrying more than 10 but not more than 15 persons including the driver, which is maintained and used primarily for the nonprofit work-related transportation of adults for the purposes of ridesharing.
+
+Note: Source: Vehicle Code, Division 1, Section 668.
+
+VAPOR BARRIER. Material that has a permeance of one perm or less and that provides resistance to the transmission of water vapor.
+
+VEGETATED SPACE. Vegetated spaces include, but are not limited to, native, undisturbed areas; rehabilitation of previously disturbed areas with landscaping; green belts; and recreation facilities that include landscaping, such as golf courses.
+
+VOC. A volatile organic compound (VOC) broadly defined as a chemical compound based on carbon chains or rings with vapor pressures greater than 0.1 millimeters of mercury at room temperature. These compounds typically contain hydrogen and may contain oxygen, nitrogen and other elements. See CCR Title 17, Section 94508(a).
+
+Note: Where specific regulations are cited from different agencies, such as South Coast Air Quality Management District (SCAQMD), California Air Resources Board (ARB or CARB), etc., the VOC definition included in that specific regulation is the one that prevails for the specific measure in question.
+
+WATTLES. Wattles are used to reduce sediment in runoff. Wattles are often constructed of natural plant materials such as hay, straw or similar material shaped in the form of tubes and placed on a downflow slope. Wattles are also used for perimeter and inlet controls.
+
+ZEV. [BSC-CG, DSA-SS]  Any vehicle certified to zero-emission standards.
+
+ZERO-EMITTING AND HIGH EFFICIENT VEHICLES. [BSC-CG, DSA-SS] Eligible vehicles are limited to the following:
+
+1.Zero emission vehicle (ZEV), enhanced advanced technology PZEV (enhanced AT ZEV) or transitional zero emission vehicles (TZEV) regulated under CCR, Title 13, Section 1962.
+
+2.High-efficiency vehicles, regulated by US EPA, bearing a fuel economy and greenhouse gas rating of 9 or 10 as regulated under 40 CFR Section 600 Subpart D.
+

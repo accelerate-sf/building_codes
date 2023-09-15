@@ -1,0 +1,1200 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AF – RADON CONTROL METHODS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AF RADON CONTROL METHODS
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Appendix AF contains provisions that are intended to mitigate the transfer of radon gases from the soil into dwelling units. Radon is a radioactive gas that has been identified as a cancer-causing agent. Radon comes from the natural breakdown of uranium in soil, rock and water.
+
+SECTION AF101 SCOPE
+
+AF101.1 General.
+
+This appendix contains requirements for new construction in jurisdictions where radon-resistant construction is required.
+
+Inclusion of this appendix by jurisdictions shall be determined through the use of locally available data or determination of Zone 1 designation in Figure AF101.1 and Table AF101.1.
+
+a. pCi/L stands for picocuries per liter of radon gas. The US Environmental Protection Agency (EPA) recommends that homes that measure 4 pCi/L and greater be mitigated.
+
+The EPA and the US Geological Survey have evaluated the radon potential in the United States and have developed a map of radon zones designed to assist building officials in deciding whether radonresistant features are applicable in new construction.
+
+The map assigns each of the 3,141 counties in the United States to one of three zones based on radon potential. Each zone designation reflects the average short-term radon measurement that can be expected to be measured in a building without the implementation of radon-control methods. The radon zone designation of highest priority is Zone 1. Table AF101.1 lists the Zone 1 counties illustrated on the map. More detailed information can be obtained from state-specific booklets (EPA-401-R-93-021 through 070) available through the State Radon Offices or from the EPA Regional Offices.
+The EPA and the US Geological Survey have evaluated the radon potential in the United States and have developed a map of radon zones designed to assist building officials in deciding whether radonresistant features are applicable in new construction.
+
+The map assigns each of the 3,141 counties in the United States to one of three zones based on radon potential. Each zone designation reflects the average short-term radon measurement that can be expected to be measured in a building without the implementation of radon-control methods. The radon zone designation of highest priority is Zone 1. Table AF101.1 lists the Zone 1 counties illustrated on the map. More detailed information can be obtained from state-specific booklets (EPA-401-R-93-021 through 070) available through the State Radon Offices or from the EPA Regional Offices.
+
+FIGURE AF101.1
+
+EPA MAP OF RADON ZONES
+
+TABLE AF101.1
+
+ALABAMA
+Calhoun
+Clay
+Cleburne
+Colbert
+Coosa
+Franklin
+Jackson
+Lauderdale
+Lawrence
+Limestone
+Madison
+Morgan
+Talladega
+CALIFORNIA
+Santa Barbara
+Ventura
+COLORADO
+Adams
+Arapahoe
+Baca
+Bent
+Boulder
+Chaffee
+Cheyenne
+Clear Creek
+Crowley
+Custer
+Delta
+Denver
+Dolores
+Douglas
+El Paso
+Elbert
+Fremont
+Garfield
+Gilpin
+Grand
+Gunnison
+Huerfano
+Jackson
+Jefferson
+Kiowa
+Kit Carson
+Lake
+Larimer
+Las Animas
+Lincoln
+Logan
+Mesa
+Moffat
+Montezuma
+Montrose
+Morgan
+Otero
+Ouray
+Park
+Phillips
+Pitkin
+Prowers
+Pueblo
+Rio Blanco
+San Miguel
+Summit
+Teller
+Washington
+Weld
+Yuma
+CONNECTICUT
+Fairfield
+Middlesex
+New Haven
+New London
+GEORGIA
+Cobb
+De Kalb
+Fulton
+Gwinnett
+IDAHO
+Benewah
+Blaine
+Boise
+Bonner
+Boundary
+Butte
+Camas
+Clark
+Clearwater
+Custer
+Elmore
+Fremont
+Gooding
+Idaho
+Kootenai
+Latah
+Lemhi
+Shoshone
+Valley
+ILLINOIS
+Adams
+Boone
+Brown
+Bureau
+Calhoun
+Carroll
+Cass
+Champaign
+Coles
+De Kalb
+De Witt
+Douglas
+Edgar
+Ford
+Fulton
+Greene
+Grundy
+Hancock
+Henderson
+Henry
+Iroquois
+Jersey
+Jo Daviess
+Kane
+Kendall
+Knox
+La Salle
+Lee
+Livingston
+Logan
+Macon
+Marshall
+Mason
+McDonough
+McLean
+Menard
+Mercer
+Morgan
+Moultrie
+Ogle
+Peoria
+Piatt
+Pike
+Putnam
+Rock Island
+Sangamon
+Schuyler
+Scott
+Stark
+Stephenson
+Tazewell
+Vermilion
+Warren
+Whiteside
+Winnebago
+Woodford
+INDIANA
+Adams
+Allen
+Bartholomew
+Benton
+Blackford
+Boone
+Carroll
+Cass
+Clark
+Clinton
+De Kalb
+Decatur
+Delaware
+Elkhart
+Fayette
+Fountain
+Fulton
+Grant
+Hamilton
+Hancock
+Harrison
+Hendricks
+Henry
+Howard
+Huntington
+Jay
+Jennings
+Johnson
+Kosciusko
+LaGrange
+Lawrence
+Madison
+Marion
+Marshall
+Miami
+Monroe
+Montgomery
+Noble
+Orange
+Putnam
+Randolph
+Rush
+Scott
+Shelby
+St. Joseph
+Steuben
+Tippecanoe
+Tipton
+Union
+Vermillion
+Wabash
+Warren
+Washington
+Wayne
+Wells
+White
+Whitley
+IOWA
+All Counties
+KANSAS
+Atchison
+Barton
+Brown
+Cheyenne
+Clay
+Cloud
+Decatur
+Dickinson
+Douglas
+Ellis
+Ellsworth
+Finney
+Ford
+Geary
+Gove
+Graham
+Grant
+Gray
+Greeley
+Hamilton
+Haskell
+Hodgeman
+Jackson
+Jewell
+Johnson
+Kearny
+Kingman
+Kiowa
+Lane
+Leavenworth
+Lincoln
+Logan
+Marion
+Marshall
+McPherson
+Meade
+Mitchell
+Nemaha
+Ness
+Norton
+Osborne
+Ottawa
+Pawnee
+Phillips
+Pottawatomie
+Pratt
+Rawlins
+Republic
+Rice
+Riley
+Rooks
+Rush
+Saline
+Scott
+Sheridan
+Sherman
+Smith
+Stanton
+Thomas
+Trego
+Wallace
+Washington
+Wichita
+Wyandotte
+KENTUCKY
+Adair
+Allen
+Barren
+Bourbon
+Boyle
+Bullitt
+Casey
+Clark
+Cumberland
+Fayette
+Franklin
+Green
+Harrison
+Hart
+Jefferson
+Jessamine
+Lincoln
+Marion
+Mercer
+Metcalfe
+Monroe
+Nelson
+Pendleton
+Pulaski
+Robertson
+Russell
+Scott
+Taylor
+Warren
+Woodford
+MAINE
+Androscoggin
+Aroostook
+Cumberland
+Franklin
+Hancock
+Kennebec
+Lincoln
+Oxford
+Penobscot
+Piscataquis
+Somerset
+York
+MARYLAND
+Baltimore
+Calvert
+Carroll
+Frederick
+Harford
+Howard
+Montgomery
+Washington
+MASS.
+Essex
+Middlesex
+Worcester
+MICHIGAN
+Branch
+Calhoun
+Cass
+Hillsdale
+Jackson
+Kalamazoo
+Lenawee
+St. Joseph
+Washtenaw
+MINNESOTA
+Becker
+Big Stone
+Blue Earth
+Brown
+Carver
+Chippewa
+Clay
+Cottonwood
+Dakota
+Dodge
+Douglas
+Faribault
+Fillmore
+Freeborn
+Goodhue
+Grant
+Hennepin
+Houston
+Hubbard
+Jackson
+Kanabec
+Kandiyohi
+Kittson
+Lac Qui Parle
+Le Sueur
+Lincoln
+Lyon
+Mahnomen
+Marshall
+Martin
+McLeod
+Meeker
+Mower
+Murray
+Nicollet
+Nobles
+Norman
+Olmsted
+Otter Tail
+Pennington
+Pipestone
+Polk
+Pope
+Ramsey
+Red Lake
+Redwood
+Renville
+Rice
+Rock
+Roseau
+Scott
+Sherburne
+Sibley
+Stearns
+Steele
+Stevens
+Swift
+Todd
+Traverse
+Wabasha
+Wadena
+Waseca
+Washington
+Watonwan
+Wilkin
+Winona
+Wright
+Yellow Medicine
+MISSOURI
+Andrew
+Atchison
+Buchanan
+Cass
+Clay
+Clinton
+Holt
+Iron
+Jackson
+Nodaway
+Platte
+MONTANA
+Beaverhead
+Big Horn
+Blaine
+Broadwater
+Carbon
+Carter
+Cascade
+Chouteau
+Custer
+Daniels
+Dawson
+Deer Lodge
+Fallon
+Fergus
+Flathead
+Gallatin
+Garfield
+Glacier
+Granite
+Hill
+Jefferson
+Judith Basin
+Lake
+Lewis and Clark
+Madison
+McCone
+Meagher
+Missoula
+Park
+Phillips
+Pondera
+Powder River
+Powell
+Prairie
+Ravalli
+Richland
+Roosevelt
+Rosebud
+Sanders
+Sheridan
+Silver Bow
+Stillwater
+Teton
+Toole
+Valley
+Wibaux
+Yellowstone
+NEBRASKA
+Adams
+Boone
+Boyd
+Burt
+Butler
+Cass
+Cedar
+Clay
+Colfax
+Cuming
+Dakota
+Dixon
+Dodge
+Douglas
+Fillmore
+Franklin
+Frontier
+Furnas
+Gage
+Gosper
+Greeley
+Hamilton
+Harlan
+Hayes
+Hitchcock
+Hurston
+Jefferson
+Johnson
+Kearney
+Knox
+Lancaster
+Madison
+Nance
+Nemaha
+Nuckolls
+Otoe
+Pawnee
+Phelps
+Pierce
+Platte
+Polk
+Red Willow
+Richardson
+Saline
+Sarpy
+Saunders
+Seward
+Stanton
+Thayer
+Washington
+Wayne
+Webster
+York
+NEVADA
+Carson City
+Douglas
+Eureka
+Lander
+Lincoln
+Lyon
+Mineral
+Pershing
+White Pine
+NEW HAMPSHIRE
+Carroll
+NEW JERSEY
+Hunterdon
+Mercer
+Monmouth
+Morris
+Somerset
+Sussex
+Warren
+NEW MEXICO
+Bernalillo
+Colfax
+Mora
+Rio Arriba
+San Miguel
+Santa Fe
+Taos
+NEW YORK
+Albany
+Allegany
+Broome
+Cattaraugus
+Cayuga
+Chautauqua
+Chemung
+Chenango
+Columbia
+Cortland
+Delaware
+Dutchess
+Erie
+Genesee
+Greene
+Livingston
+Madison
+Onondaga
+Ontario
+Orange
+Otsego
+Putnam
+Rensselaer
+Schoharie
+Schuyler
+Seneca
+Steuben
+Sullivan
+Tioga
+Tompkins
+Ulster
+Washington
+Wyoming
+Yates
+N. CAROLINA
+Alleghany
+Buncombe
+Cherokee
+Henderson
+Mitchell
+Rockingham
+Transylvania
+Watauga
+N. DAKOTA
+All Counties
+OHIO
+Adams
+Allen
+Ashland
+Auglaize
+Belmont
+Butler
+Carroll
+Champaign
+Clark
+Clinton
+Columbiana
+Coshocton
+Crawford
+Darke
+Delaware
+Fairfield
+Fayette
+Franklin
+Greene
+Guernsey
+Hamilton
+Hancock
+Hardin
+Harrison
+Holmes
+Huron
+Jefferson
+Knox
+Licking
+Logan
+Madison
+Marion
+Mercer
+Miami
+Montgomery
+Morrow
+Muskingum
+Perry
+Pickaway
+Pike
+Preble
+Richland
+Ross
+Seneca
+Shelby
+Stark
+Summit
+Tuscarawas
+Union
+Van Wert
+Warren
+Wayne
+Wyandot
+PENNSYLVANIA
+Adams
+Allegheny
+Armstrong
+Beaver
+Bedford
+Berks
+Blair
+Bradford
+Bucks
+Butler
+Cameron
+Carbon
+Centre
+Chester
+Clarion
+Clearfield
+Clinton
+Columbia
+Cumberland
+Dauphin
+Delaware
+Franklin
+Fulton
+Huntingdon
+Indiana
+Juniata
+Lackawanna
+Lancaster
+Lebanon
+Lehigh
+Luzerne
+Lycoming
+Mifflin
+Monroe
+Montgomery
+Montour
+Northampton
+Northumberland
+Perry
+Schuylkill
+Snyder
+Sullivan
+Susquehanna
+Tioga
+Union
+Venango
+Westmoreland
+Wyoming
+York
+RHODE ISLAND
+Kent
+Washington
+S. CAROLINA
+Greenville
+S. DAKOTA
+Aurora
+Beadle
+Bon Homme
+Brookings
+Brown
+Brule
+Buffalo
+Campbell
+Charles Mix
+Clark
+Clay
+Codington
+Corson
+Davison
+Day
+Deuel
+Douglas
+Edmunds
+Faulk
+Grant
+Hamlin
+Hand
+Hanson
+Hughes
+Hutchinson
+Hyde
+Jerauld
+Kingsbury
+Lake
+Lincoln
+Lyman
+Marshall
+McCook
+McPherson
+Miner
+Minnehaha
+Moody
+Perkins
+Potter
+Roberts
+Sanborn
+Spink
+Stanley
+Sully
+Turner
+Union
+Walworth
+Yankton
+TENNESSEE
+Anderson
+Bedford
+Blount
+Bradley
+Claiborne
+Davidson
+Giles
+Grainger
+Greene
+Hamblen
+Hancock
+Hawkins
+Hickman
+Humphreys
+Jackson
+Jefferson
+Knox
+Lawrence
+Lewis
+Lincoln
+Loudon
+Marshall
+Maury
+McMinn
+Meigs
+Monroe
+Moore
+Perry
+Roane
+Rutherford
+Smith
+Sullivan
+Trousdale
+Union
+Washington
+Wayne
+Williamson
+Wilson
+UTAH
+Carbon
+Duchesne
+Grand
+Piute
+Sanpete
+Sevier
+Uintah
+VIRGINIA
+Alleghany
+Amelia
+Appomattox
+Augusta
+Bath
+Bland
+Botetourt
+Bristol
+Brunswick
+Buckingham
+Buena Vista
+Campbell
+Chesterfield
+Clarke
+Clifton Forge
+Covington
+Craig
+Cumberland
+Danville
+Dinwiddie
+Fairfax
+Falls Church
+Fluvanna
+Frederick
+Fredericksburg
+Giles
+Goochland
+Harrisonburg
+Henry
+Highland
+Lee
+Lexington
+Louisa
+Martinsville
+Montgomery
+Nottoway
+Orange
+Page
+Patrick
+Pittsylvania
+Powhatan
+Pulaski
+Radford
+Roanoke
+Rockbridge
+Rockingham
+Russell
+Salem
+Scott
+Shenandoah
+Smyth
+Spotsylvania
+Stafford
+Staunton
+Tazewell
+Warren
+Washington
+Waynesboro
+Winchester
+Wythe
+WASHINGTON
+Clark
+Ferry
+Okanogan
+Pend Oreille
+Skamania
+Spokane
+Stevens
+W. VIRGINIA
+Berkeley
+Brooke
+Grant
+Greenbrier
+Hampshire
+Hancock
+Hardy
+Jefferson
+Marshall
+Mercer
+Mineral
+Monongalia
+Monroe
+Morgan
+Ohio
+Pendleton
+Pocahontas
+Preston
+Summers
+Wetzel
+WISCONSIN
+Buffalo
+Crawford
+Dane
+Dodge
+Door
+Fond du Lac
+Grant
+Green
+Green Lake
+Iowa
+Jefferson
+Lafayette
+Langlade
+Marathon
+Menominee
+Pepin
+Pierce
+Portage
+Richland
+Rock
+Shawano
+St. Croix
+Vernon
+Walworth
+Washington
+Waukesha
+Waupaca
+Wood
+WYOMING
+Albany
+Big Horn
+Campbell
+Carbon
+Converse
+Crook
+Fremont
+Goshen
+Hot Springs
+Johnson
+Laramie
+Lincoln
+Natrona
+Niobrara
+Park
+Sheridan
+Sublette
+Sweetwater
+Teton
+Uinta
+Washakie
+
+a.The EPA recommends that this county listing be supplemented with other available state and local data to further understand the radon potential of a Zone 1 area.
+
+SECTION AF102 DEFINITIONS
+
+AF102.1 General.
+
+For the purpose of these requirements, the terms used shall be defined as follows:
+
+DRAIN TILE LOOP. A continuous length of drain tile or perforated pipe extending around all or part of the internal or external perimeter of a basement or crawl space footing.
+
+RADON GAS. A naturally occurring, chemically inert, radioactive gas that is not detectable by human senses. As a gas, it can move readily through particles of soil and rock, and can accumulate under the slabs and foundations of homes where it can easily enter into the living space through construction cracks and openings.
+
+SOIL-GAS-RETARDER. A continuous membrane of 6-mil (0.15 mm) polyethylene or other equivalent material used to retard the flow of soil gases into a building.
+
+SUBMEMBRANE DEPRESSURIZATION SYSTEM. A system designed to achieve lower submembrane air pressure relative to crawl space air pressure by use of a vent drawing air from beneath the soil-gas-retarder membrane.
+
+SUBSLAB DEPRESSURIZATION SYSTEM (Active). A system designed to achieve lower subslab air pressure relative to indoor air pressure by use of a fan-powered vent drawing air from beneath the slab.
+
+SUBSLAB DEPRESSURIZATION SYSTEM (Passive). A system designed to achieve lower subslab air pressure relative to indoor air pressure by use of a vent pipe routed through the conditioned space of a building and connecting the subslab area with outdoor air, thereby relying on the convective flow of air upward in the vent to draw air from beneath the slab.
+
+SECTION AF103 REQUIREMENTS
+
+AF103.1 General.
+
+The following construction techniques are intended to resist radon entry and prepare the building for post-construction radon mitigation, if necessary (see Figure AF103.1). These techniques are required in areas where designated by the jurisdiction.
+
+FIGURE AF103.1
+
+RADON-RESISTANT CONSTRUCTION DETAILS FOR FOUR FOUNDATION TYPES
+
+AF103.2 Subfloor preparation.
+
+A layer of gas-permeable material shall be placed under all concrete slabs and other floor systems that directly contact the ground and are within the walls of the living spaces of the building, to facilitate future installation of a subslab depressurization system, if needed. The gas-permeable layer shall consist of one of the following:
+
+1. A uniform layer of clean aggregate, not less than 4 inches (102 mm) thick. The aggregate shall consist of material that will pass through a 2-inch (51 mm) sieve and be retained by a 1/4-inch (6.4 mm) sieve.
+
+2. A uniform layer of sand (native or fill), not less than 4 inches (102 mm) thick, overlain by a layer or strips of geotextile drainage matting designed to allow the lateral flow of soil gases.
+
+3. Other materials, systems or floor designs with demonstrated capability to permit depressurization across the entire subfloor area.
+
+AF103.3 Soil-gas-retarder.
+
+A minimum 6-mil (0.15 mm) [or 3-mil (0.075 mm) cross-laminated] polyethylene or equivalent flexible sheeting material shall be placed on top of the gas-permeable layer prior to casting the slab or placing the floor assembly to serve as a soil-gas-retarder by bridging any cracks that develop in the slab or floor assembly, and to prevent concrete from entering the void spaces in the aggregate base material. The sheeting shall cover the entire floor area with separate sections of sheeting lapped not less than 12 inches (305 mm). The sheeting shall fit closely around any pipe, wire or other penetrations of the material. Punctures or tears in the material shall be sealed or covered with additional sheeting.
+
+AF103.4 Entry routes.
+
+Potential radon entry routes shall be closed in accordance with Sections AF103.4.1 through AF103.4.10.
+
+AF103.4.1 Floor openings.
+
+Openings around bathtubs, showers, water closets, pipes, wires or other objects that penetrate concrete slabs, or other floor assemblies, shall be filled with a polyurethane caulk or equivalent sealant applied in accordance with the manufacturer’s recommendations.
+
+AF103.4.2 Concrete joints.
+
+Control joints, isolation joints, construction joints, and any other joints in concrete slabs or between slabs and foundation walls shall be sealed with a caulk or sealant. Gaps and joints shall be cleared of loose material and filled with polyurethane caulk or other elastomeric sealant applied in accordance with the manufacturer’s recommendations.
+
+AF103.4.3 Condensate drains.
+
+Condensate drains shall be trapped or routed through nonperforated pipe to daylight.
+
+AF103.4.4 Sumps.
+
+Sump pits open to soil or serving as the termination point for subslab or exterior drain tile loops shall be covered with a gasketed or otherwise sealed lid. Sumps used as the suction point in a subslab depressurization system shall have a lid designed to accommodate the vent pipe. Sumps used as a floor drain shall have a lid equipped with a trapped inlet.
+
+AF103.4.5 Foundation walls.
+
+Hollow block masonry foundation walls shall be constructed with either a continuous course of solid masonry, one course of masonry grouted solid, or a solid concrete beam at or above finished ground surface to prevent the passage of air from the interior of the wall into the living space. Where a brick veneer or other masonry ledge is installed, the course immediately below that ledge shall be sealed. Joints, cracks or other openings around all penetrations of both exterior and interior surfaces of masonry block or wood foundation walls below the ground surface shall be filled with polyurethane caulk or equivalent sealant. Penetrations of concrete walls shall be filled.
+
+AF103.4.6 Dampproofing.
+
+The exterior surfaces of portions of concrete and masonry block walls below the ground surface shall be dampproofed in accordance with Section R406.
+
+AF103.4.7 Air-handling units.
+
+Air-handling units in crawl spaces shall be sealed to prevent air from being drawn into the unit.
+
+Exception: Units with gasketed seams or units that are otherwise sealed by the manufacturer to prevent leakage.
+
+AF103.4.8 Ducts.
+
+Ductwork passing through or beneath a slab shall be of seamless material unless the air-handling system is designed to maintain continuous positive pressure within such ducting. Joints in such ductwork shall be sealed to prevent air leakage.
+
+Ductwork located in crawl spaces shall have seams and joints sealed by closure systems in accordance with Section M1601.4.1.
+
+AF103.4.9 Crawl space floors.
+
+Openings around all penetrations through floors above crawl spaces shall be caulked or otherwise filled to prevent air leakage.
+
+AF103.4.10 Crawl space access.
+
+Access doors and other openings or penetrations between basements and adjoining crawl spaces shall be closed, gasketed or otherwise filled to prevent air leakage.
+
+AF103.5 Passive submembrane depressurization system.
+
+In buildings with crawl space foundations, the following components of a passive submembrane depressurization system shall be installed during construction.
+
+Exception: Buildings in which an approved mechanical crawl space ventilation system or other equivalent system is installed.
+
+AF103.5.1 Ventilation.
+
+Crawl spaces shall be provided with vents to the exterior of the building. The minimum net area of ventilation openings shall comply with Section R408.1.
+
+AF103.5.2 Soil-gas-retarder.
+
+The soil in crawl spaces shall be covered with a continuous layer of minimum 6-mil (0.15 mm) polyethylene soil-gas-retarder. The ground cover shall be lapped not less than 12 inches (305 mm) at joints and shall extend to all foundation walls enclosing the crawl space area.
+
+AF103.5.3 Vent pipe.
+
+A plumbing tee or other approved connection shall be inserted horizontally beneath the sheeting and connected to a 3- or 4-inch-diameter (76 or 102 mm) fitting with a vertical vent pipe installed through the sheeting. The vent pipe shall be extended up through the building floors, and terminate not less than 12 inches (305 mm) above the roof in a location not less than 10 feet (3048 mm) away from any window or other opening into the conditioned spaces of the building that is less than 2 feet (610 mm) below the exhaust point, and 10 feet (3048 mm) from any window or other opening in adjoining or adjacent buildings.
+
+AF103.6 Passive subslab depressurization system.
+
+In basement or slab-on-grade buildings, the following components of a passive subslab depressurization system shall be installed during construction.
+
+AF103.6.1 Vent pipe.
+
+A minimum 3-inch-diameter (76 mm) ABS, PVC or equivalent gastight pipe shall be embedded vertically into the subslab aggregate or other permeable material before the slab is cast. A “T” fitting or equivalent method shall be used to ensure that the pipe opening remains within the subslab permeable material. Alternatively, the 3-inch (76 mm) pipe shall be inserted directly into an interior perimeter drain tile loop or through a sealed sump cover where the sump is exposed to the subslab aggregate or connected to it through a drainage system.
+
+The pipe shall be extended up through the building floors, and terminate not less than 12 inches (305 mm) above the surface of the roof in a location not less than 10 feet (3048 mm) away from any window or other opening into the conditioned spaces of the building that is less than 2 feet (610 mm) below the exhaust point, and 10 feet (3048 mm) from any window or other opening in adjoining or adjacent buildings.
+
+AF103.6.2 Multiple vent pipes.
+
+In buildings where interior footings or other barriers separate the subslab aggregate or other gas-permeable material, each area shall be fitted with an individual vent pipe. Vent pipes shall connect to a single vent that terminates above the roof or each individual vent pipe shall terminate separately above the roof.
+
+AF103.7 Vent pipe drainage.
+
+Components of the radon vent pipe system shall be installed to provide positive drainage to the ground beneath the slab or soil-gas-retarder.
+
+AF103.8 Vent pipe accessibility.
+
+Radon vent pipes shall be accessible for future fan installation through an attic or other area outside the habitable space.
+
+Exception: The radon vent pipe need not be accessible in an attic space where an approved roof-top electrical supply is provided for future use.
+
+AF103.9 Vent pipe identification.
+
+Exposed and visible interior radon vent pipes shall be identified with not less than one label on each floor and in accessible attics. The label shall read: “Radon Reduction System.”
+
+AF103.10 Combination foundations.
+
+Combination basement/crawl space or slab-on-grade/crawl space foundations shall have separate radon vent pipes installed in each type of foundation area. Each radon vent pipe shall terminate above the roof or shall be connected to a single vent that terminates above the roof.
+
+AF103.11 Building depressurization.
+
+Joints in air ducts and plenums in unconditioned spaces shall meet the requirements of Section M1601. Thermal envelope air infiltration requirements shall comply with the energy conservation provisions in Chapter 11. Fireblocking shall meet the requirements contained in Section R302.11.
+
+AF103.12 Power source.
+
+To provide for future installation of an active submembrane or subslab depressurization system, an electrical circuit terminated in an approved box shall be installed during construction in the attic or other anticipated location of vent pipe fans. An electrical supply shall be accessible in anticipated locations of system failure alarms.
+
+SECTION AF104 TESTING
+
+AF104.1 Testing.
+
+Where radon-resistant construction is
+required, radon testing shall be as specified in Items 1
+through 11:
+
+1.Testing shall be performed after the dwelling passes its air tightness test.
+
+2.Testing shall be performed after the radon control system and HVAC installations are complete. The HVAC system shall be operating during the test. Where the radon system has an installed fan, the dwelling shall be tested with the radon fan operating.
+
+3.Testing shall be performed at the lowest occupied floor
+level, whether or not that space is finished. Spaces that
+are physically separated and served by different HVAC
+systems shall be tested separately.
+
+4.Testing shall not be performed in a closet, hallway,
+stairway, laundry room, furnace room, bathroom or
+kitchen.
+
+5.Testing shall be performed with a commercially available radon test kit or testing shall be performed by an
+approved third party with a continuous radon monitor.
+Testing with test kits shall include two tests, and the
+test results shall be averaged. Testing shall be in accordance with this section and the testing laboratory kit
+manufacturer’s instructions.
+
+6.Testing shall be performed with the windows closed.
+Testing shall be performed with the exterior doors
+closed, except when being used for entrance or exit.
+Windows and doors shall be closed for not fewer than
+12 hours prior to the testing.
+
+7.Testing shall be performed by the builder, a registered
+design professional or an approved third party.
+
+8.Testing shall be conducted over a period of not less
+than 48 hours or not less that the period specified by the
+testing device manufacturer, whichever is longer.
+
+9.Written radon test results shall be provided by the test
+lab or testing party. The final written test report with
+results less than 4 picocuries per liter (pCi/L) shall be
+provided to the code official.
+
+10.Where the radon test result is 4 pCi/L or greater, the fan
+for the radon vent pipe shall be installed as specified in
+Sections AF103.9 and AF103.12.
+
+11.Where the radon test result is 4 pCi/L or greater, the
+system shall be modified and retested until the test
+result is less than 4 pCi/L.
+
+Exception: Testing is not required where the occupied
+space is located above an unenclosed open space.
+

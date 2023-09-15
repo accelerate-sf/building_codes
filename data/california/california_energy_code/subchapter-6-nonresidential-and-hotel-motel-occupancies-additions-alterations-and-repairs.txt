@@ -1,0 +1,387 @@
+SUBCHAPTER 6 NONRESIDENTIAL AND HOTEL/MOTEL OCCUPANCIES— ADDITIONS, ALTERATIONS AND REPAIRS
+
+SECTION 141.0 ADDITIONS, ALTERATIONS AND REPAIRS TO EXISTING NONRESIDENTIAL AND HOTEL/MOTEL BUILDINGS, TO EXISTING OUTDOOR LIGHTING, AND TO INTERNALLY AND EXTERNALLY ILLUMINATED SIGNS
+
+Additions, alterations, and repairs to existing nonresidential and hotel/motel buildings, existing outdoor lighting for these occupancies, and internally and externally illuminated signs, shall meet the requirements specified in Sections 100.0 through 110.10, and 120.0 through 130.5 that are applicable to the building project, and either the performance compliance approach (energy budgets) in Section 141.0(a)2 (for additions) or 141.0(b) 3 (for alterations), or the prescriptive compliance approach in Section 141.0(a)1 (for additions) or 141.0(b)2 (for alterations), for the Climate Zone in which the building is located. Climate zones are shown in Figure 100.1-A.
+
+Covered process requirements for additions, alterations and repairs to existing nonresidential and hotel/motel buildings are specified in Section 141.1.
+
+Exception to Section 141.0: Alterations to healthcare facilities are not required to comply with this Section.
+
+NOTES:
+
+1.For alterations that change the occupancy classification of the building, the requirements specified in Section 141.0(b) apply to the occupancy after the alterations.
+
+2.Relocation or moving of a relocatable public school building is not, by itself, considered an alteration for the purposes of Title 24, Part 6.
+
+(a) Additions. Additions shall meet either Item 1 or 2 below.
+
+1.Prescriptive approach. The envelope and lighting of the addition, any newly installed space-conditioning system, electrical power distribution system, or water-heating system; any addition to an outdoor lighting system; and any new sign installed in conjunction with an indoor or outdoor addition shall meet the applicable requirements of Sections 110.0 through 120.7, 120.9 through 130.5 and 140.2 through 140.9.
+
+2.Performance approach.
+
+A.The envelope and indoor lighting in the conditioned space of the addition, and any newly installed space-conditioning system, electrical power distribution system, or water-heating system, shall meet the applicable requirements of Sections 110.0 through 120.7, 120.9 through  130.5; and
+
+B. Either:
+
+i.The addition alone shall comply with Section 140.1; or
+
+ii.Existing plus addition plus alteration. The standard design for existing plus addition, plus alteration energy use is the combination of the existing building’s unaltered components to remain, existing building altered components that are the more efficient, in TDV energy, of either the existing conditions, or the requirements of Section 141.0(b)2, plus the proposed addition’s energy use meeting the requirements of Section 140.1. The proposed design energy use is the combination of the existing building’s unaltered components to remain and the altered component’s energy features, plus the proposed energy features of the addition.
+
+Exception 1 to Section 141.0(a): When heating, cooling or service water heating to an addition are provided by expanding existing systems, the existing systems and equipment need not comply with Sections 110.0 through 120.9 or Sections 140.4 through 140.5.
+
+Exception 2 to Section 141.0(a): Where an existing system with electric reheat is expanded by adding variable air volume (VAV) boxes to serve an addition, total electric reheat capacity may be expanded so that the total capacity does not exceed 150 percent of the existing installed electric heating capacity in any one permit, and the system need not comply with Section 140.4(g). Additional electric reheat capacity in excess of 150 percent of the existing installed electric heating capacity may be added subject to the requirements of Section 140.4(g).
+
+Exception 3 to Section 141.0(a): Duct sealing. When ducts are extended from an existing duct system to serve the addition, the existing duct system and the extended ducts shall meet the applicable requirements specified in Section 141.0(b)2D.
+
+Exception 4 to Section 141.0(a): Additions that increase the area of the roof by 2,000 square feet or less are exempt from the requirements of Section 110.10.
+
+Exception 5 to Section 141.0(a): A gas hot water boiler system with a total system input of at least 1 MMBtu/h but no more than 10 MMBtu/h added to an existing building is exempt from the requirements of Section 140.4(k)8.
+
+Exception 6 to Section 141.0(a): A gas service water-heating system with a total system input of at least 1 MMBtu/h added to an existing building is exempt from the requirements of Section 140.5(c).
+
+Exception 7 to Section 141.0(a): Section 140.4(a)2 shall not apply to new space-conditioning systems or components.
+
+(b) Alterations.  Alterations to components of existing nonresidential, hotel/motel, or relocatable public school buildings, including alterations made in conjunction with a change in building occupancy to a nonresidential, high-rise residential or hotel/motel occupancy shall meet Item 1, and either Item 2 or 3 below:
+
+1.Mandatory requirements. Altered components in a nonresidential or hotel/motel building shall meet the minimum requirements in this section.
+
+A.Roof/ceiling insulation. The opaque portions of the roof/ceiling that separate conditioned spaces from unconditioned spaces or ambient air shall meet the requirements of Section 141.0(b)2Bii.
+
+B. Wall insulation. For the altered opaque portion of walls separating conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 through 4 below:
+
+1.Metal building. A minimum of R-13 insulation between framing members, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.113.
+
+2.Metal framed. A minimum of R-13 insulation between framing members, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.217.
+
+3.Wood framed and others. A minimum of R-11 insulation between framing members, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.110.
+
+4.Spandrel panels and glass curtain walls. A minimum of R-4, or the area-weighted average U-factor of the wall assembly shall not exceed U- 0.280.
+
+Exception to Section 141.0(b)1B: Light and heavy mass walls.
+
+C. Floor insulation. For the altered portion of raised floors that separate conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 through 3 below:
+
+1.Raised framed floors. A minimum of R-11 insulation between framing members, or the area-weighted average U-factor of the floor assembly shall not exceed the U-factor of U-0.071.
+
+2.Raised mass floors in hotel/motel guest rooms. A minimum of R-6 insulation, or the area-weighted average U-factor of the floor assembly shall not exceed the U-factor of U-0.111.
+
+3.Raised mass floors in other occupancies. No minimum U-factor requirement.
+
+D. Fan energy index: New fan systems serving an existing building shall meet the requirements of Section 120.10.
+
+2.Prescriptive approach. The altered components of the envelope, or space conditioning, lighting, electrical power distribution and water heating systems, and any newly installed equipment serving the alteration, shall meet the applicable requirements of Sections 110.0 through 110.9, Sections 120.0 through 120.6, and Sections 120.9 through 130.5.
+
+Exception to Section 141.0(b)2: The requirements of Section 120.2(i) shall not apply to alterations of space-conditioning systems or components.
+Exception to Section 141.0(b)2: The requirements of Section 120.2(i) shall not apply to alterations of space-conditioning systems or components.
+
+A.Fenestration alterations other than repair and those subject to Section 141.0(b)2 shall meet the requirements below:
+
+i.Vertical fenestration alterations shall meet the requirements in Table 141.0-A.
+
+ii.Added vertical fenestration shall meet the requirements of Table 140.3-B, C or D.
+
+iii.All altered or newly installed skylights shall meet the requirements of Table 140.3-B, C or D.
+
+Exception 1 to Section 141.0(b)2Ai: In an alteration, where 150 square feet or less of the entire building's vertical fenestration is replaced, RSHGC and VT requirements of Table 141.0-A shall not apply.
+
+Exception 2 to Section 141.0(b)2Aii: In an alteration, where 50 square feet or less of vertical fenestration is added, RSHGC and VT requirements of Table 140.3-B, C or D shall not apply.
+
+Exception 3 to Section 141.0(b)2Aiii: In an alteration, where 50 square feet or less of skylight is added, SHGC and VT requirements of Table 140.3-B, C or D shall not apply.
+
+NOTE: Glass replaced in an existing sash and frame or sashes replaced in an existing frame are considered repairs. In these cases, Section 141.0(c) requires that the replacement be at least equivalent to the original in performance.
+NOTE: Glass replaced in an existing sash and frame or sashes replaced in an existing frame are considered repairs. In these cases, Section 141.0(c) requires that the replacement be at least equivalent to the original in performance.
+
+B. Existing roofs of a nonresidential or hotel/motel building being replaced, recovered or recoated, as defined in Section 100.1(b) and Title 24, Part 2, Chapter 2, shall meet the requirements of Section 110.8(i). When roofs with more than 50 percent of the roof area or more than 2,000 square feet of roof, whichever is less, are being altered the requirements of i and ii apply:
+
+i. Roofing products shall comply with requirements in Section 140.3(a)1A.
+
+Exception 1 to Section 141.0(b)2Bi: An aged solar reflectance less than 0.63 is allowed for low-sloped roofs provided the maximum roof/ceiling U-factor in Table 141.0-B is not exceeded.
+
+Exception 2 to Section 141.0(b)2Bi: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels are not required to meet the minimum requirements for solar reflectance, thermal emittance, or SRI.
+
+Exception 3 to Section 141.0(b)2Bi: Roof constructions with a weight of at least 25 lb/ft2 are not required to meet the minimum requirements for solar reflectance, thermal emittance, or SRI.
+
+ii. Roof/ceiling insulation. For low-sloped roofs, the area of the roof recover or roof replacement shall be insulated to the level specified in Table 141.0-C.
+
+Exception 1 to Section 141.0(b)2Bii: Roof recovers with new R-10 insulation added above deck do not need to be insulated to the level specified in Table 141.0-C.
+
+Exception 2 to Section 141.0(b)2Bii: When existing mechanical equipment located on the roof will not be disconnected and lifted, insulation added is the greater of R-10 or the maximum installed thickness that will allow the distance between the height of the roof membrane surface and the top of the base flashing to remain in accordance with the manufacturer’s instructions.
+
+Exception 3 to Section 141.0(b)2Bii: At the drains and other low points, tapered insulation with a thermal resistance less than that prescribed in Table 141.0-C may be used, provided that insulation thickness is increased at the high points of the roof so that the average thermal resistance equals or exceeds the value specified in Table 141.0-C.
+
+Exception 4 to Section 141.0(b)2Bii: The area of the roof recoat is not required to be insulated.
+
+C. New or replacement space-conditioning systems or components other than new or replacement space-conditioning system ducts shall meet the requirements of Section 140.4 applicable to the systems or components being altered. Additional fan power allowances are available when determining the fan power budget (Fan kWbudget) as specified in Table 141.0-D. These values can be added to the fan power allowance values in Table 140.4-A and Table 140.4-B.
+
+Exception 1 to Section 141.0(b)2C: Section 140.4(a)2 shall not apply to new or replacement space-conditioning systems or components.
+
+Exception 2 to Section 141.0(b)2C: Subsection (b)2C does not apply to replacement of electric reheat of equivalent or lower capacity electric resistance space heaters, when natural gas is not available.
+
+Exception 3 to Section 141.0(b)2C. Section 140.4(n) is not applicable to new or replacement space-conditioning systems.
+
+Exception 4 to Section 141.0(b)2C: Section 140.4(e) is applicable to systems, other than single package air-cooled commercial unitary air conditioners and heat pumps, with cooling capacity less than 54,000 Btu/h.
+
+Exception 5 to Section 141.0(b)2C: A new or replacement gas hot water boiler system with a total system input of at least 1 MMBtu/h but no more than 10 MMBtu/h need not comply with the requirements of Section 140.4(k)8.
+
+D.Altered duct systems. New or replacement space-conditioning system ducts installed to serve an existing building shall meet the requirements of Section 120.4 (a) through (f) and meet i, ii or iii below:
+
+i. Entirely new or complete replacement duct systems installed as part of an alteration shall be leakage tested in accordance with Section 120.4(g). This applies to replacement duct systems installed as part of an alteration that are constructed of at least 75 percent new duct material. Up to 25 percent of that alteration may consist of reused parts from the building’s existing duct system (including registers, grilles, boots, air handlers, coils, plenums and ducts) if the reused parts are accessible and can be sealed to prevent leakage.
+
+ii.If the new ducts are an extension of an existing duct system and the combined new and existing duct system meets the criteria in Subsections 1, 2, 3 and 4 below, the duct system shall be sealed to a leakage rate not to exceed 15 percent of the nominal air handler airflow rate as confirmed through HERS field verification and diagnostic testing, in accordance with the applicable procedures in Reference Nonresidential Appendix NA7.5.3:
+
+1.The duct system does not serve a healthcare facility;
+
+2.The duct system provides conditioned air to an occupiable space for a constant volume, single zone, space-conditioning system;
+
+3.The space-conditioning system serves less than 5,000 square feet of conditioned floor area; and
+
+4.The combined surface area of the ducts located outdoors or in unconditioned space is more than 25 percent of the total surface area of the entire duct system.
+
+Exception 1 to Section 141.0(b)2Dii: When it is not possible to achieve the duct leakage criteria in Section 141.0(b)2Dii, then all accessible leaks shall be sealed and verified through a visual inspection and a smoke test performed by a certified HERS Rater utilizing the methods specified in Reference Nonresidential Appendix NA2.1.4.2.2.
+
+Exception 2 to Section 141.0(b)2Dii: Duct sealing. Existing duct systems that are extended, which are constructed insulated or sealed with asbestos are exempt from the requirements of Subsection 141.0(b)2Dii.
+Exception 1 to Section 141.0(b)2Dii: When it is not possible to achieve the duct leakage criteria in Section 141.0(b)2Dii, then all accessible leaks shall be sealed and verified through a visual inspection and a smoke test performed by a certified HERS Rater utilizing the methods specified in Reference Nonresidential Appendix NA2.1.4.2.2.
+
+Exception 2 to Section 141.0(b)2Dii: Duct sealing. Existing duct systems that are extended, which are constructed insulated or sealed with asbestos are exempt from the requirements of Subsection 141.0(b)2Dii.
+
+iii.If new ducts installed as part of an alteration are exempt from leakage testing according to Section 141.0(b)2Di or 141.0(b)2Dii, then the new ducts shall meet the duct leakage testing requirements of CMC Section 603.9.2.
+
+E.Altered space-conditioning systems. When a space-conditioning system is altered by the installation or replacement of space-conditioning system equipment (including replacement of the air handler, outdoor condensing unit of a split system air conditioner or heat pump, or cooling or heating coil:
+
+i.For all altered units where the existing thermostat does not comply with the requirements for demand responsive controls specified in Section 110.12, the existing thermostat shall be replaced with a demand responsive thermostat that complies with Section 110.12. All newly installed space-conditioning systems requiring a thermostat shall be equipped with a demand responsive thermostat that complies with Section 110.12; and
+
+ii.The duct system that is connected to the new or replaced space-conditioning system equipment shall be sealed in accordance with Section 141.0(b)2Dii.
+
+Exception 1 to Section 141.0(b)2Eii: Duct sealing. Buildings altered so that the duct system no longer meets the criteria of Section 141.0(b)2Dii.
+
+Exception 2 to Section 141.0(b)2Eii: Duct sealing. Duct systems that are documented to have been previously sealed as confirmed through field verification and diagnostic testing in accordance with procedures in Reference Nonresidential Appendix NA2.
+
+Exception 3 to Section 141.0(b)2Eii: Duct sealing. Existing duct systems constructed, insulated or sealed with asbestos are exempt from the requirements of Subsection 141.0(b)2Eii.
+
+F. Spaces with lighting systems installed for the first time shall meet the requirements of Sections 110.9, 130.0, 130.1, 130.2, 130.4, 140.3(c), 140.6 and 140.7.
+
+G. When the requirements of Section 130.1(d) are triggered by the addition of skylights to an existing building and the lighting system is not recircuited, the daylighting control need not meet the multilevel requirements in Section 130.1(d).
+
+H. New internally and externally illuminated signs shall meet the requirements of Sections 110.9, 130.3 and 140.8.
+
+I. Altered indoor lighting systems. Alterations to indoor lighting systems that include 10% or more of the luminaires serving an enclosed space shall meet the requirements of i, ii, or iii below:
+
+i.The alteration shall comply with the indoor lighting power requirements specified in Section 140.6 and the lighting control requirements specified in Table 141.0-F;
+
+ii.The alteration shall not exceed 80% of the indoor lighting power requirements specified in Section 140.6, and shall comply with the lighting control requirements specified in Table 141.0-F; or
+
+iii.The alteration shall be a one-for-one luminaire alteration within a building or tenant space of 5,000 square feet or less, the total wattage of the altered luminaires shall be at least 40% lower compared to their total pre-alteration wattage, and the alteration shall comply with the lighting control requirements specified in Table 141.0-F.
+
+Alterations to indoor lighting systems shall not prevent the operation of existing, unaltered controls, and shall not alter controls to remove functions specified in Section 130.1.
+
+Alterations to lighting wiring are considered alterations to the lighting system. Alterations to indoor lighting systems are not required to separate existing general, floor, wall, display, or decorative lighting on shared circuits or controls. New or completely replaced lighting circuits shall comply with the control separation requirements of Section 130.1(a)3 and 130.1(c)1D.
+Alterations to indoor lighting systems shall not prevent the operation of existing, unaltered controls, and shall not alter controls to remove functions specified in Section 130.1.
+
+Alterations to lighting wiring are considered alterations to the lighting system. Alterations to indoor lighting systems are not required to separate existing general, floor, wall, display, or decorative lighting on shared circuits or controls. New or completely replaced lighting circuits shall comply with the control separation requirements of Section 130.1(a)3 and 130.1(c)1D.
+
+Exception 1 to Section 141.0(b)2I: Alteration of portable luminaires, luminaires affixed to moveable partitions, or lighting excluded as specified in Section 140.6(a)3.
+
+Exception 2 to Section 141.0(b)2I: Any enclosed space with only one luminaire.
+
+Exception 3 to Section 141.0(b)2I: Any alteration that would directly cause the disturbance of asbestos, unless the alteration is made in conjunction with asbestos abatement.
+
+Exception 4 to Section 141.0(b)2I: Acceptance testing requirements of Section 130.4 are not required for alterations where lighting controls are added to control 20 or fewer luminaires.
+
+Exception 5 to Section 141.0(b)2I: Any alteration limited to adding lighting controls or replacing lamps, ballasts, or drivers.
+
+Exception 6 to Section 141.0(b)2I: One-for-one luminaire alteration of up to 50 luminaires either per complete floor of the building or per complete tenant space, per annum.
+
+J. Reserved.
+
+K. Reserved.
+
+L. Alterations to existing outdoor lighting systems in a lighting application listed in Table 140.7-A or 140.7-B shall meet the applicable requirements of Sections 130.0, 130.2(b) and 130.4, and:
+
+i.In alterations that increase the connected lighting load, the added or altered luminaires shall meet the applicable requirements of Section 130.2(c) and the requirements of  Section 140.7 for general hardscape lighting or for the specific lighting applications containing the alterations; and
+
+ii.In alterations that do not increase the connected lighting load, where 10 percent or more of the existing luminaires are replaced in a general hardscape or a specific lighting application, the alterations shall meet the following requirements:
+
+a. In parking lots and outdoor sales lots where the bottom of the luminaire is mounted 24 feet or less above the ground, the replacement luminaires shall comply with Section 130.2(c)1 AND Section 130.2(c)3;
+
+b. For parking lots and outdoor sales lots where the bottom of the luminaire is mounted greater than 24 feet above the ground and for all other lighting applications, the replacement luminaires shall comply with Section 130.2(c)1 and either comply with Section 130.2(c)2 or be controlled by lighting control systems, including motion sensors, that automatically reduce lighting power by at least 40 percent in response to the area being vacated of occupants; and
+
+Exception to Section 141.0(b)2Lii: Alterations where fewer than five existing luminaires are replaced.
+Exception to Section 141.0(b)2Lii: Alterations where fewer than five existing luminaires are replaced.
+
+iii.In alterations that do not increase the connected lighting load, where 50 percent or more of the existing luminaires are replaced in general hardscape or a specific application, the replacement luminaires shall meet the requirements of Subsection ii above and the requirements of Section 140.7 for general hardscape lighting or specific lighting applications containing the alterations.
+
+Exception 1 to Section 141.0(b)2Liii: Alterations where the replacement luminaires have at least 40 percent lower power consumption compared to the original luminaires are not required to comply with the lighting power allowances of Section 140.7.
+
+Exception 2 to Section 141.0(b)2Liii: Alterations where fewer than five existing luminaires are replaced.
+
+Exception to Section 141.0(b)2L:  Acceptance testing requirements of Section 130.4 are not required for alterations where controls are added to 20 or fewer luminaires.
+Exception to Section 141.0(b)2L:  Acceptance testing requirements of Section 130.4 are not required for alterations where controls are added to 20 or fewer luminaires.
+
+M. Alterations to existing internally and externally illuminated signs that increase the connected lighting load, replace and rewire more than 50 percent of the ballasts, or relocate the sign to a different location on the same site or on a different site shall meet the requirements of  Section 140.8.
+
+Exception to Section 141.0(b)2M:  Replacement of parts of an existing sign, including replacing lamps, the sign face or ballasts, that do not require rewiring or that are done at a time other than when the sign is relocated, is not an alteration subject to the requirements of Section 141.0(b)2M.
+
+N. Service water-heating systems shall meet the requirements of Sections 140.5(a)2 and b, except for the solar water heating requirements.
+
+O. A building shell for which interior walls or ceilings are installed for the first time shall meet the requirements of Section 140.3(c).
+
+P. Electrical power distribution systems. Alterations to electrical power distribution systems shall meet the applicable requirements of Section 130.5 as follows:
+
+i.Service electrical metering. New or replacement electrical service equipment shall meet the requirements of  Section 130.5(a) applicable to the electrical power distribution system altered.
+
+ii.Separation of electrical circuits for electrical energy monitoring. For entirely new or complete replacement of electrical power distribution systems, the entire system shall meet the applicable requirements of  Section 130.5(b).
+
+iii.Voltage drop. Alterations of feeders and branch circuits where the alteration includes addition, modification, or replacement of both feeders and branch circuits, the altered circuits shall meet the requirements of Section 130.5(c).
+
+Exception to Section 141.0(b)2Piii: Voltage drop permitted by California Electrical Code Sections 647.4, 695.6 and 695.7.
+
+iv. Circuit controls for 120-volt receptacles and controlled receptacles. For entirely new or complete replacement of electrical power distribution systems, the entire system shall meet the applicable requirements of Sections 130.5(d) and 130.5(e).
+
+Q. Existing building envelope wall where 25 percent or more of the wall area is being altered must comply with Section 140.3(a)9. Where the building is tested in accordance with the procedures for whole building air leakage in NA2.4 and the tested leakage rate exceeds 0.4 cfm/ft2 of building shell at 75 pascals, a visual inspection and diagnostic evaluation shall be done in accordance with NA2.4.7 and all observed leaks shall be sealed where such sealing can be made without destruction of existing building components.
+
+Exception to Section 141.0(b)2Q: Healthcare facilities.
+
+R.Exterior doors. Alterations that add exterior door area shall meet the U-factor requirements of Section 140.3(a)7.
+
+3.Performance approach.
+
+A.The altered envelope, space-conditioning system, lighting and water heating components, and any newly installed equipment serving the alteration, shall meet the applicable requirements of Sections 110.0 through 110.9, Sections 120.0 through 120.6, and Sections 120.9 through 130.5.
+
+Exception 1 to Section 141.0(b)(3)A: Window films. Applied window films installed as part of an alteration complies with the U-factor, RSHGC and VT requirements of Table 141.0-E.
+
+Exception 2 to Section 141.0(b)3A:  The requirements of Section 120.2(i) shall not apply to alterations of space-conditioning systems or components.
+
+B. The standard design for an altered component shall be the higher efficiency of existing conditions or the requirements of Section 141.0(b)2. For components not being altered, the standard design shall be based on the unaltered existing conditions such that the standard and proposed designs for these components are identical.
+
+C.  When the third party verification option is specified, all components proposed for alteration, for which the additional credit is taken, must be verified. The Executive Director shall determine the qualifications required by the third party inspector.
+
+D. The proposed design shall be based on the actual values of the altered components.
+
+Notes to Section 141.0(b)3:
+
+1. If an existing component must be replaced with a new component, that component is considered an altered component for the purpose of determining the energy budget and must therefore meet the requirements of Section 141.0(b)3.
+
+2.The standard design assumes the same geometry and orientation as the proposed design.
+
+3. The “existing efficiency level” modeling rules, including situations where nameplate data is not available, are described in the  Nonresidential ACM Reference Manual.
+
+Exception 1 to Section 141.0(b): When heating, cooling or service water heating for an alteration are provided by expanding existing systems, the existing systems and equipment need not comply with Sections 110.0 through 120.9 and Section 140.4 or 140.5.
+
+Exception 2 to Section 141.0(b): When existing heating, cooling or service water heating systems or components are moved within a building, the existing systems or components need not comply with Sections 110.0 through 120.9 and Section 140.4 or 140.5.
+
+Exception 3 to Section 141.0(b): Where an existing system with electric reheat is expanded when adding variable air volume (VAV) boxes to serve an alteration, total electric reheat capacity may be expanded not to exceed 20 percent of the existing installed electric capacity in any one permit and the system need not comply with Section 140.4(g). Additional electric reheat capacity in excess of 20 percent may be added subject to the requirements of Section 140.4(g).
+
+Exception 4 to Section 141.0(b): The requirements of Section 120.2(i) shall not apply to alterations of space-conditioning systems or components.
+
+(c) Repairs. Repairs shall not increase the preexisting energy consumption of the repaired component, system or equipment.
+
+(d) Alternate method of compliance. Any addition, alteration or repair may comply with the requirements of Title 24, Part 6 by meeting the applicable requirements for the entire building.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, 25910, and 25943, Public Resources Code.
+
+TABLE 141.0-A
+
+ALTERED VERTICAL FENESTRATION MAXIMUM U-FACTOR AND MAXIMUM RSHGC
+
+CLIMATE ZONE	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+U-factor	0.47	0.47	0.58	0.47	0.58	0.47	0.47	0.47	0.47	0.47	0.47	0.47	0.47	0.47	0.47	0.47
+RSHGC	0.41	0.31	0.41	0.31	0.41	0.31	0.31	0.31	0.31	0.31	0.31	0.31	0.31	0.31	0.31	0.41
+VT	See Table 140.3-B, C and D for all climate zonesTABLE 141.0-B
+
+ROOF/CEILING INSULATION TRADEOFF FOR LOW-SLOPED AGED SOLAR REFLECTANCE
+
+NONRESIDENTIAL
+Aged Solar Reflectance	Climate Zones 6, 7 and 8 U-factor	All Other Climate Zones U-factor
+0.62–0.60	0.043	0.035
+0.59–0.55	0.041	0.034
+0.54–0.50	0.038	0.031
+0.49–0.45	0.034	0.029
+0.44–0.40	0.032	0.028
+0.39–0.35	0.029	0.026
+0.34–0.30	0.028	0.025
+0.29–0.25	0.026	0.024TABLE 141.0-C
+
+INSULATION REQUIREMENTS FOR ROOF ALTERATIONS
+
+Climate Zone	Continuous Insulation R-value	U-factor
+1–5, 9–16	R-23	0.037, with at least R-10 above deck
+6–8	R-17	0.047, with at least R-10 above deckTABLE 141.0-D
+
+ADDITIONAL FAN POWER ALLOWANCES
+
+AIRFLOW	MULTI-ZONE VAV SYSTEMS1 ≤5,000 cfm	MULTI-ZONE
+VAV SYSTEMS1 >5,000 and ≤10,000 cfm	MULTI-ZONE VAV SYSTEMS1 >10,000 cfm	ALL OTHER FAN SYSTEMS ≤5,000 cfm	ALL OTHER FAN SYSTEMS >5,000 and ≤10,000 cfm	ALL OTHER FAN SYSTEMS >10,000 cfm
+Supply Fan System Additional Allowance	0.135	0.114	0.105	0.139	0.12	0.107
+Supply Fan System Additional
+Allowance in Unit with Adapter Curb	0.033	0.033	0.043	0.000	0.000	0.000
+Exhaust/Relief/Return/Transfer Fan
+System Additional Allowance	0.07	0.061	0.054	0.07	0.062	0.055
+Exhaust/Relief/Return/Transfer Fan
+System Additional Allowance in Unit
+with Adapter Curb	0.016	0.017	0.022	0.000	0.000	0.0001. See FAN SYSTEM, MULTI-ZONE VARIABLE AIR VOLUME (VAV) for the definition of a multi-zone VAV system.
+
+TABLE 141.0-E
+
+THE STANDARD DESIGN FOR AN ALTERED COMPONENT
+
+ALTERED COMPONENT	STANDARD DESIGN WITHOUT THIRD-PARTY VERIFICATION OF EXISTING CONDITIONS SHALL BE BASED ON	STANDARD DESIGN WITH THIRD-PARTY VERIFICATION OF EXISTING CONDITIONS SHALL BE BASED ON
+Roof/ceiling insulation, wall insulation, and floor/soffit insulation	The requirements of Section 141.0(b)1 and 141.0(b)2Bii.
+Fenestration The allowed glass area shall be the smaller of a. or b. below:a. The proposed glass area: or b. The larger of: 1. The existing glass area that remains; or2. The area allowed in Section 140.3(a)5A.	The U-factor and RSHGC requirements of Table 141.0-A.	The existing U-factor and RSHGC levels.
+Space-conditioning system equipment and ducts	The requirements of Section 141.0(b)2C, 141.0(b)2Di or 141.0(b)2Dii, and Section 141.0(b)2E.
+Window film	The U-factor of 0.40 and SHGC value of 0.35.	The existing fenestration in the alteration shall be based on Tables 110.6-A and 110.6-B.
+Service water heating systems	The requirements of Section 140.5 without solar water heating requirements.
+Roofing products	The requirements of Section 141.0(b)2B.
+Lighting system	The requirements of Sections 141.0(b)2F through 141.0(b)2K.
+All other measures	The proposed efficiency levels.TABLE 141.0-F
+
+CONTROL REQUIREMENTS FOR INDOOR LIGHTING SYSTEM ALTERATIONS
+
+CONTROL SPECIFICATIONS	PROJECTS COMPLYING WITH SECTION 141.0(B)2Ii	PROJECTS COMPLYING WITH SECTION 141.0(B)2Iii OR 141.0(B)2Iiii
+Manual Area Controls	130.1(a)1	Required	Required
+130.1(a)2	Required	Required
+130.1(a)3	Only required for new or completely replaced circuits	Only required for new or completely replaced circuits
+Multi-Level Controls	130.1(b)	Required	Not Required
+Automatic Shut Off Controls	130.1(c)1	Required; 130.1(c)1D only required for new or completely replaced circuits	Required; 130.1(c)1D only required for new or completely replaced circuits
+130.1(c)2	Required	Required
+130.1(c)3	Required	Required
+130.1(c)4	Required	Required
+130.1(c)5	Required	Required
+130.1(c)6	Required	Required; except for 130.1(c)6D
+130.1(c)7	Required	Required
+130.1(c)8	Required	Required
+Daylighting Controls	130.1(d)	Required	Not Required
+Demand Responsive Controls	110.12(a) and 110.12(c)	Required	Not RequiredSECTION 141.1 REQUIREMENTS FOR COVERED PROCESSES IN ADDITIONS, ALTERATIONS TO EXISTING NONRESIDENTIAL AND  HOTEL/MOTEL BUILDINGS
+
+Covered processes in additions or alterations to existing buildings that will be nonresidential and hotel/motel occupancies shall comply with the applicable Subsections of Section 120.6 and 140.9.
+
+(a)Lab and Process Facility Exhaust Systems. All newly installed fan systems for a laboratory or process facility exhaust system greater than 10,000 cfm shall meet the requirements of Section 140.9(c).
+
+(b)Computer Rooms. All newly installed computer room cooling systems and uninterruptible power supply systems in additions/alterations shall meet the requirements of Sections 120.6(j), 140.9(a)2 and 140.9(a)4 and comply with Item 1 below.
+
+1.Economizers. Each individual cooling system primarily serving computer rooms in an existing building shall include either:
+
+A.An integrated air economizer capable of partial cooling when additional mechanical cooling is required and capable of providing 100 percent of the expected system cooling load up to 80°F room supply air temperature at outside air temperatures of 55°F dry-bulb and below or 50°F wet-bulb and below, and be equipped with a fault detection and diagnostic system as specified by Section 120.2(i); or
+
+B.An integrated water economizer capable of partial cooling when additional mechanical cooling is required and capable of providing 100 percent of the expected system cooling load up to 80°F room supply air temperature at outside air temperatures of 40°F dry-bulb and below or 35°F wet-bulb and below.
+
+Exception 1 to Section 141.1(b)1: Individual computer rooms with an ITE design load under 5 tons (18 kW) in a building that does not have any economizers.
+
+Exception 2 to Section 141.1(b)1: New cooling systems serving an existing computer room in an existing building with an ITE design load up to a total of 50 tons (176 kW).
+
+Exception 3 to Section 141.1(b)1: New cooling systems serving a new computer room in an existing building with an ITE design load up to a total of 20 tons (70 kW).
+
+(c) Controlled Environment Horticulture Spaces.
+
+1.Indoor growing, space-conditioning systems and dehumidification. All newly installed heating, ventilation, air conditioning systems or dehumidification systems in buildings with indoor growing shall meet the applicable requirements of Sections 120.6(h)1 and 120.6(h)2.
+
+2.Greenhouses, building envelope and space-conditioning systems. A greenhouse being converted to a conditioned greenhouse or additions to a conditioned greenhouse shall meet the requirements of Sections 120.6(h)4 and 120.6(h)5.
+
+3.Indoor growing and greenhouses, horticultural lighting. When alterations to horticultural lighting systems increase lighting wattage or include adding, replacing or altering 10 percent or more of the horticultural luminaires serving an enclosed space, the newly installed, replaced or altered lighting shall meet the requirements of Section 120.6(h)3 for indoor growing or Section 120.6(h)7 for greenhouses.
+
+Exception to Section 141.1(c)3: Any alteration limited to adding lighting controls or replacing lamps, ballasts or drivers.
+
+NOTE: For alterations that change the occupancy classification of the building, the requirements of Section 141.1 apply to the occupancy that will exist after the alterations.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+

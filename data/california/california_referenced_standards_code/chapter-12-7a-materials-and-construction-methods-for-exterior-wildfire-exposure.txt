@@ -1,0 +1,578 @@
+CHAPTER 12-7A MATERIALS AND CONSTRUCTION METHODS FOR EXTERIOR WILDFIRE EXPOSURE
+
+EXTERIOR WALL SIDING AND SHEATHING SFM STANDARD 12-7A-1
+
+12-7A-1.1 Application.
+
+The minimum design, construction and performance standards set forth herein for exterior wall siding and sheathing are those deemed necessary to establish conformance to the provisions of these regulations. Materials and assemblies that meet the performance criteria of this standard are acceptable for use as defined in California Building Standards Code.
+
+12-7A-1.2 Scope.
+
+This standard evaluates the performance of exterior walls of structures when exposed to direct flames.
+
+12-7A-1.3 Referenced documents.
+
+1.ASTM E2257, Test Method for Room Fire Test of Wall and Ceiling Materials and Assemblies.
+
+2.ASTM D4442, Test Methods for Direct Moisture Content Measurement of Wood and Wood-Base Materials.
+
+3.ASTM D4444, Test Methods for Use and Calibration of Hand-Held Moisture Meters.
+
+4.California Building Code, Chapter 7A.
+
+12-7A-1.4 Definitions.
+
+1.Siding (cladding). Any material that constitutes the exposed exterior covering of an exterior wall and is applied over sheathing or is directly attached to the wall structural system.
+
+2.Sheathing. The material placed on an exterior wall beneath cladding or siding and is directly attached to the wall structural system.
+
+12-7A-1.5 Summary of test method.
+
+1.Direct flame exposure. This test method provides for the direct flame exposure of a wall specimen to a flame source centered at the base of a 4-foot by 8-foot (1220 mm by 2440 mm) test assembly.
+
+2.Gas burner. The method employs a gas burner to produce a diffusion flame in contact with the test wall assembly.
+
+3.Heat output. The gas burner produces a prescribed net rate of heat output of 8535 Btu/min (150 kW) for a period of 10 minutes, after which the flame exposure is terminated.
+
+4.Resistance to fire penetration. The test method measures the ability of the wall system to resist fire penetration from the exterior to the unexposed side of the test assembly under the conditions of exposure. Observations are made for the appearance of sustained flaming or glow on the unexposed side and/or sustained glowing on the unexposed side at the end of a 60-minute observation period.
+
+12-7A-1.6 Equipment.
+
+Unless otherwise noted, dimensions in the following descriptions shall be followed with a tolerance of ± 0.5 inch (13 mm).
+
+1.Wall assembly holding fixture. The test specimen support assembly shown in Figure 1 is designed to permit rapid installation and removal of wall assemblies, and to prevent edge penetration of fire at the margins of the wall assembly. It includes a sturdy frame assembly to hold the specimen and a simulated soffit that is noncombustible. The frame assembly permits a 4-foot by 8-foot (1220 mm by 2440 mm) prefabricated wall section to be inserted and to be sealed in such a way that protects the edges from fire. Side shields are situated near the vertical edges and to within 12 inches (304 mm) of the top of the test wall assembly as shown in Figure 1 to aid in minimizing extraneous drafts to the surface of the assembly.
+
+2.Burner.
+
+2.1. Burner details. The ignition source for the test shall be a gas diffusion burner with a nominal 4-inch-wide by 39-inch-long (100 mm wide by 1000 mm long) porous top surface of a refractory material, as shown in Figure 2. With the exception of top surface dimensions, the essential configuration of the burner is comparable to the burner design described in ASTM E2257. The burner enclosure shall be positioned so that it is centered relative to the width of the test wall. The distance from the bottom of the test specimen to the top surface of the burner shall be 12 inches ± 2 inches (300 mm ± 50 mm). The bottom of the test specimen shall be protected from burner fire exposure by the placement of a 4-foot-wide (1220-mm) thermal barrier consisting of nominal 0.75 inch (19 mm) cement board (or equivalent) between the burner enclosure and the test specimen. The burner enclosure shall be in contact with the protective barrier. The thermal barrier shall be positioned so that the top edge extends 3 inch ± 1 inch (76 mm ± 25 mm) above the top edge of the burner, and fastened to the base of the wall in such a manner to prevent obstruction of the burner flame caused by distortion away from the surface of the wall. Any gaps between the top edge of the thermal barrier and the test wall surface shall be filled with ceramic wool, or equivalent, prior to the test.
+
+Natural gas, methane or propane shall be supplied to the burner through a metered control system. The gas supply to the burner shall produce a net heat output of 8535 ± 454 Btu/min (150 ± 8 kW) throughout the flame exposure.
+
+The burner shall be ignited by a pilot burner or a remotely controlled spark igniter.
+
+2.2. Burner output verification. The gas supply to the burner shall be the same as used for testing.
+
+1.Without a test specimen in the apparatus, place the gas burner in the configuration to be used for testing and obtain a heat release rate value of 150 kW.
+
+2.Take measurements at least once every 6 seconds and start 1 minute prior to ignition of the burner. Determine the average heat output over a period of at least 1 minute by the oxygen consumption method, or calculate the heat output from the gas mass flow and the net heat of combustion.
+
+3.Perform verification prior to each day of testing.
+
+12-7A-1.7 Test assembly.
+
+1.Dimensions. The test specimen's dimensions shall be 4 feet wide by 8 feet high (1220 mm by 2440 mm). The test specimen shall be representative of the end-use wall assembly except as specified in Items 3 and 4. The test specimen shall be mounted in the steel frame holding fixture assembly as shown in Figure 1.
+
+2.Joint details. The test specimen shall incorporate joint detail(s) representative of actual installation.
+
+3.Wall assemblies without internal cavity spaces. For wall assemblies without internal cavity spaces, the entire wall assembly shall constitute the test specimen to be tested. The wall assembly shall be constructed in accordance with manufacturer’s specifications and/or building code requirements, where applicable. Other components of the wall assembly, such as building felt and sheathing, are employed to conform to the manufacturer’s specifications and/or building codes.
+
+4.Wall assemblies with internal cavity spaces. For wall assemblies with internal cavity spaces, the materials on what would be considered the interior (unexposed) side of the wall assembly shall be omitted from the test specimen. Materials such as insulation normally installed within the cavity space shall be omitted from the test specimen. The wall assembly used as the test specimen shall include the structural support elements and any sheathing, weather barrier and cladding attached to the exterior surface of the structural support elements.
+
+5.Layered materials. For wall assemblies composed of layered materials, such as sheathing, siding (cladding) and underlayment, the installation of such layered materials shall be in accordance with the manufacturer’s instructions, or in the absence of such instructions, applicable building code requirements. In the absence of manufacturer’s specifications, the wall assembly shall include the following minimum components: nominal 2 x 4 studs spaced 16 inches (410 mm) on center, and the desired exterior siding material. If sheathing is used, tests shall be run on typical 7/16-inch (11 mm) oriented strandboard (OSB) of Exposure 1 rating. Where specified by the manufacturer, sheathing material and installation shall be in accordance with the manufacturer’s instructions. The sheathing shall have one vertical seam on a selected stud with a 0.125 inch (3 mm) gap.
+
+6.Edge protection. Protect the vertical and horizontal edges of the test specimen with 12-mm-thick ceramic wool blanket (or equivalent) to eliminate the gap between the holder and the test specimen and prevent unwanted edge effects caused by heat transfer to the edges of the test specimen through the sample holder.
+
+7.Replicates. Three matched test specimen assemblies shall be tested.
+
+8.Pre-test conditioning of test specimens. The completed test specimens are to be stored indoors at temperatures not lower than 60°F (16°C) nor higher than 90°F (32°C) for the period of time necessary to cure or condition the assembly components. Test specimens are to be stored so that each will be surrounded by freely circulating air. Pieces of any hygroscopic materials from the same stock from which the test specimen was constructed shall be tacked to the specimen during construction in such a manner that they are easily removed. These pieces shall be conditioned with the completed specimens. Prior to testing, the pieces of hygroscopic materials shall be tested for moisture content.
+
+8.1. Make the moisture determination on two samples from each piece and report the average. For lumber and other wood-based materials, use Test Methods D 4442. Use of an appropriately calibrated moisture meter, as described in Test Methods D 4444, to determine the moisture content of wood or wood products is also permitted. For other hygroscopic materials, use test methods appropriate for those materials.
+
+8.2. For lumber used in the construction of the supporting wall structure, the moisture content shall not be more than 12 percent. For wood sheathing, the moisture content shall not exceed 8 percent. For other hygroscopic materials, the moisture shall be within ranges specified by the manufacturer before the assembly is constructed. These specified ranges shall be typical for exposure at 77 ± 9°F [25 ± 5°C] and 55 ± 10% relative humidity.
+
+12-7A-1.8 Weathering.
+
+Weathering of materials shall be in accordance with California Building Code Section 703A Standards of Quality.
+
+12-7A-1.9 Conduct of tests.
+
+1.Test room environment. The ambient temperature in the test room shall be above 60°F (15°C) and the relative humidity shall be less than 75 percent. The test room shall be draft-protected and equipped with an exhaust hood system for removal of products of combustion during testing.
+
+2.Airflow. The horizontal airflow, measured at a horizontal distance of 20 inches (0.5 m) from the edge of the wall assembly, shall not exceed 1.64 ft/s (0.5 m/s).
+
+3.Placement of test frame. Prior to testing, and without the test specimen in place, position the frame assembly under the exhaust hood and set the gas burner for the prescribed level of output.
+
+4.Placement of specimen. Once the burner output is verified, position the specimen holder assembly at the desired test location under the collection hood.
+
+5.Test specimen. Insert the test specimen into the frame assembly, sealing all edges with ceramic wool.
+
+6.Ignition. Simultaneously ignite the gas burner and start the timer marking the beginning of the test. Control the burner to a constant 150 ± 8 kW output. Control the hood duct flow to collect all products of combustion.
+
+7.Flame exposure. Continue the flame exposure until flame penetration of the test specimen and sustained flaming on the unexposed side occurs or for a period of 10 minutes, then extinguish the burner.
+
+8.Observation. If sustained flaming on the unexposed side of the test specimen has not occurred, observe the unexposed side of the test specimen for an additional 60 minutes for evidence of sustained flaming or glowing combustion on the unexposed side. Terminate the observation prior to the completion of the 60-minute observation period if all evidence of flame, glow and smoke has disappeared.
+
+Note: An infrared thermometer has been found to be useful to detect the increase of temperature on the unexposed side of the test assembly.
+
+9.Documentation. Perform photographic and/or video documentation before, during and after each test.
+
+12-7A-1.10 Report.
+
+The report shall include the following:
+
+1.Name and address of the testing laboratory.
+
+2.Name and address of test sponsor.
+
+3.Description of the test specimen including construction details of the wall system, including details of individual components (such as type, thickness and installation method of any sheathing) and the manufacturer’s installation details and limitations as applicable.
+
+4.Number of specimens tested.
+
+5.Description of weathering, as applicable.
+
+6.Moisture content of hygroscopic elements of wall system construction at the time of testing.
+
+7.Details of the burner verification, including heat supply rate.
+
+8.Date of test, test identification number and date of report.
+
+9.The test results shall include:
+
+9.1. A notation of the time and location of sustained flaming on the unexposed side of the test specimen during the test, along with the sequence number of the test specimen.
+
+9.2. A determination of the presence of glow on the unexposed side of the test specimen at the end of the 60-minute observation period.
+
+9.3. Observations of the burning characteristics of the exposed surface of the test wall during and after the flame exposure.
+
+12-7A-1.11 Conditions of Acceptance.
+
+Should one of the three replicates fail to meet the Conditions of Acceptance, three additional tests may be run. All of the additional tests must meet the Conditions of Acceptance.
+
+1.Absence of flame penetration through the wall assembly at any time.
+
+2.Absence of evidence of glowing combustion on the interior surface of the assembly at the end of the 70-minute test.
+
+FIGURE 1. TEST FIGURE SCHEMATIC
+
+FIGURE 2. GAS BURNER IGNITION SOURCE
+
+EXTERIOR WINDOWS SFM STANDARD 12-7A-2
+
+12-7A-2.1 Application.
+
+Exterior window assemblies that meet the performance criteria of this standard are acceptable for use as defined in the California Building Standards Code.
+
+12-7A-2.2 Scope.
+
+This standard evaluates the performance of exterior windows used in structures when exposed to direct flames.
+
+12-7A-2.3 Referenced documents.
+
+1.AAMA (for definitions) Training Manual, Residential & Light Commercial Window and Door Installation Training and Registration Program.
+
+2.CAWM 400-95, Standard Practice for Installation of Windows with Integral Mounting Flange in Wood Frame Construction.
+
+12-7A-2.4 Definitions.
+
+1.Frame (Jambs). This usually consists of two vertical members (side jambs) and two horizontal members (head and sill) that hold the sash. Frames and sash are typically made of steel, aluminum, vinyl, fiberglass, wood or a combination of these materials.
+
+2.Glazing. The glass in a window. It may include layers of plastic as well as glass.
+
+3.Sash. The fixed or movable parts of the window in which the panes of glass are set.
+
+12-7A-2.5 Test apparatus.
+
+1.Wall assembly test module. The module is designed to permit rapid installation and removal of window/wall assemblies, and is designed to prevent edge penetration of fire at the margins. It includes two noncombustible side walls attached to a wall frame assembly, and a simulated soffit that is also noncombustible. The assembly permits a prefabricated 4 × 8 ft (1.2 × 2.4 m) wall section containing the test window to be inserted from the rear and sealed in such a way that the edges are protected from fire (see Figure 1).
+
+2.Burner. A 4 × 39 inch (100 × 1000 mm) diffusion burner shall be used. Natural gas, methane or propane shall be supplied to the burner through a metered control system. The gas supply to the burner shall produce a net heat output of 150 ± 4 kW throughout the flame exposure. Burner output can be determined from HRR or calculated from the gas flow rate, temperature and pressure.
+
+3.Burner location. The burner shall be positioned so that it is centered relative to the width of the wall assembly and against the wall. The distance from the floor to the top of the burner shall be 12 inches (300 mm).
+
+12-7A-2.6 Test assembly.
+
+1.Window. The window width cannot exceed 3 feet (900 mm) due to the limitations of the test fixture. The burner’s flame shall cover the full width of the window sill. The distance from top of the burner to bottom of window will be 8 inches (200 mm).
+
+Note: Larger windows may be tested by expanding the size of the rear wall of the Wall Assembly Test Module.
+
+2.Materials. In the absence of the window manufacturer's specifications, the wall assembly shall include the following minimum components:
+
+2.1. 2 by 4 inch studs spaced 16 inches (410 mm) on center, framed out to incorporate a rough opening sized to receive the test window such that the window is centered relative to the width of the wall;
+
+2.2. Gypsum board for mounting around the window once it is installed;
+
+2.3. Pieces of gypsum cut into narrow strips for use as trim around the window;
+
+2.4. Caulk to be used as per the window manufacturer's instructions.
+
+3.Wall assembly. A noncombustible wall shall be used with a manufacturer or code-specified opening for the particular window. Install window in framed rough opening following manufacturer guidelines. Apply manufacturer-recommended caulk to nailing flange prior to installation. Use narrow strips of gypsum board as trim around window, covering the nail flange of the window. Any type of framing material may be tested.
+
+3.1. Fit the window test assembly into the rear wall of the Wall Assembly Test Module, sealing all edges, including the soffit-to-wall joint. Ceramic wool or comparable material shall be used for sealing.
+
+12-7A-2.7 Conduct of tests.
+
+1.Burner output verification. Without the window in place, set the burner for 150 kW output. Conduct a verification run of 3 minutes to assure the heat release rate, and then turn off the burner.
+
+2.Test. Place the burner against the wall assembly at the center. Ignite the burner at the 150 kW output and control during the test for constant and uniform output. Optional radiometers can be placed behind the Wall Assembly Test Module to measure heat flux through the window glass.
+
+3.Duration and observations. The test shall be continued until flame-through occurs at the window. Flame-through can occur at the glass (glazing) and/or in the frame. At this point, the burner shall be extinguished and the assembly monitored for sustained combustion. Note the time elapsed and location of penetration if it occurs.
+
+4.Report. Report a description of the window unit, including the types of frames, cladding and panes being tested and details of the installation. Record when and how the glass breaks or flame-through occurs in the framing materials or sash, and/or if the framing material deforms or otherwise suffers a loss of integrity such that the glass cannot be held in place, and a record of the time at which any of these events occur.
+
+12-7A-2.8 Conditions of Acceptance.
+
+1.Duration of direct flame exposure. To pass this test standard, the window and window assembly shall withstand 8 minutes of direct flame exposure with the absence of flame penetration through the window frame or pane, or structural failure of the window frame or pane.
+
+2.Flame penetration or structural failure. Flame penetration or structural failure of the flame or pane anytime during the test constitutes failure of this test standard.
+
+FIGURE 1. SCHEMATIC OF THE WALL ASSEMBLY Test Module used for evaluating the fire performance of a window.
+
+HORIZONTAL PROJECTION UNDERSIDE SFM STANDARD 12-7A-3
+
+12-7A-3.1 Application.
+
+The minimum design, construction and performance standards set forth herein for the exposed underside of horizontal projections such as the horizontal soffits of roof eaves, floor projections and exposed underfloor areas are those deemed necessary to establish conformance to the provisions of these regulations. Materials and assemblies that meet the performance criteria of this standard are acceptable for use as defined in the California Building Standards Code.
+
+12-7A-3.2 Scope.
+
+This standard evaluates the fire-resistive performance of horizontal projection assemblies including the horizontal soffits of roof eaves, floor projections and exposed underfloor areas when subjected to direct flame exposure to the underside of a horizontal projection.
+
+12-7A-3.3 Referenced documents.
+
+1.ASTM D4442, Test Methods for Direct Moisture Content Measurement of Wood and Wood-Base Materials.
+
+2.ASTM D4444, Test Methods for Use and Calibration of Hand-Held Moisture Meters.
+
+3.California Building Code, Chapter 7A.
+
+12-7A-3.4 Definitions.
+
+1.Eaves. A projecting edge of a roof that extends beyond the supporting wall as in CBC 702A “Roof Eave” or similar horizontal projection assembly.
+
+2.Soffit. The enclosed underside of any exterior overhanging section of a roof eave or similar horizontal projection assembly (see CBC 702A “Roof Eave Soffit”).
+
+12-7A-3.5 Equipment.
+
+1.Burner. A 12 by 12-inch (300 by 300 mm) diffusion burner shall be used. Natural gas, methane or propane shall be supplied to the burner through a metered control system. The gas supply to the burner shall produce a net heat output of 300 ± 15 kW throughout the flame exposure. Burner output can be determined from HRR or calculated from the gas flow rate, temperature and pressure.
+
+2.Infrared temperature analyzer (optional). Intended for monitoring the temperature change of the inside of the eaves.
+
+3.Moisture content. Prior to testing, all materials (lumber and soffit material) shall be conditioned to a constant weight or for a minimum of 30 days at 73 ± 4ºF (23 ± 2ºC) and 50 ± 5% relative humidity, whichever occurs first. Constant weight shall be defined as occurring when the change in test material weight is less than or equal to 2 percent in a 24-hour period. Lumber moisture content shall be between 8 and 12 percent (oven-dry basis) and sheathing shall not exceed 8 percent (oven-dry basis).
+
+12-7A-3.6 Materials.
+
+1.Framing. The materials used shall be representative of the grades that would be typical of eave construction and installed in the eave’s subassembly as per accepted construction practices.
+
+2.Soffit. Material selected for the test.
+
+12-7A-3.7 Test system preparation (Figure 1).
+
+1.Eaves fabrication. The 4-foot-wide by 2-foot (1.2 m by 0.6 m) test specimen shall be constructed to fit into a 4-foot-wide (1.2 m) space at the top of the test assembly described in SFM 12-7A-1. Normal eave framing, joints in soffit material and other typical features present in the constructed assembly shall be present in the test specimen.
+
+2.Test Fixture. The test fixture shall be as described in SFM 12-7A-1, with the exception that the top soffit projection of the wall assembly fixture is modified to facilitate installation and removal of eave assemblies. Gypsum board (or equivalent) is used to create a noncombustible wall surface in the 4 × 8 ft. opening in the wall test fixture.
+
+3.Eaves assembly. Fit the eave assembly into the test module so that the horizontal surface of the assembly is 84 inches (2.1 m) from the top of the burner.
+
+4.Moisture content. Measure the moisture content of the wooden members of the assembly using a moisture meter (ASTM D4444), and for sheathing products, by methods outlined in ASTM D4442.
+
+5.Sealing. Seal the edges and ends with ceramic wool or comparable material to prevent flame penetration in these locations of the eave assembly.
+
+12-7A-3.8 Conduct of Tests.
+
+1.Airflow. The wall test shall be conducted under conditions of ambient airflow.
+
+2.Number of tests. Conduct the tests on three replicate eaves assemblies.
+
+3.Burner output verification. Without the eaves assembly in place, adjust the burner for 300 ± 15 kW output. Extinguish the burner.
+
+4.Burner positioning. Center the burner with respect to the width of the eaves wall assembly and 0.75 inch (20 mm) from the wall. The distance from the floor to the top of the burner shall be 12 inches (300 mm).
+
+5.Procedure.
+
+5.1 Ignition. Ignite the burner, controlling for a constant 300 ± 15 kW output.
+
+5.2 Flame exposure. Continue the exposure until flame penetration of the eaves occurs or for a 10-minute period.
+
+5.3 Continued combustion. If penetration does not occur, continue observation for an additional 30 minutes or until all combustion has ceased.
+
+Note: An infrared thermometer has been found to be useful to detect the increase of temperature on the back side of the eaves and as an aid to identify the areas of potential combustion.
+
+6.Observations. Note the time, location and nature of flame penetration.
+
+12-7A-3.9 Report.
+
+The report shall include a description of the eaves material, details of the construction of the eaves, moisture content of the framing and wood-based soffit elements as applicable, and point of flame penetration. Provide details on the time and reasons for early termination of the test.
+
+12-7A-3.10 Conditions of Acceptance.
+
+Should one of the three replicates fail to meet the Conditions of Acceptance, three additional tests may be run. All of the additional tests must meet the Conditions of Acceptance.
+
+1.Absence of flame penetration of the eaves or horizontal projection assembly at any time.
+
+2.Absence of structural failure of the eaves or horizontal projection subassembly at any time.
+
+3.Absence of sustained combustion of any kind at the conclusion of the 40-minute test.
+
+FIGURE 1. EAVES TEST ASSEMBLY
+
+DECKING SFM STANDARD 12-7A-4
+
+12-7A-4.1 Application.
+
+The minimum design, construction and performance standards set forth herein for unloaded decks are those deemed necessary to establish conformance to the provisions of these regulations. Materials and assemblies that meet the performance criteria of this standard are acceptable for use as defined in California Building Standards Code.
+
+12-7A-4.2 Scope.
+
+This standard evaluates the performance of decks (or other horizontal ancillary structures in close proximity to primary structures) when exposed to direct flames and brands. The under-deck flame exposure test is intended to determine the heat release rate (HRR) and degradation modes of deck or other horizontal boards when exposed to a burner flame simulating combustibles beneath a deck. The burning brand exposure test is intended to determine the degradation modes of deck or other horizontal boards when exposed to a burning brand on the upper surface.
+
+12-7A-4.3 Referenced document.
+
+1.ASTM D4444, Test Methods for Use and Calibration of Hand-Held Moisture Meters.
+
+2.ASTM E108, Test Methods for Fire Tests of Roof Coverings.
+
+3.California Building Code, Chapter 7A.
+
+4.UL 790, Standard Test Methods for Fire Tests of Roof Coverings.
+
+12-7A-4.4 Definitions.
+
+1.Deck boards. Horizontal members that constitute the exposed surface of the ancillary structure.
+
+2.Deck surface area. The test specimen area defined by the overall specimen length and width after assembly.
+
+3.Heat release rate. The net rate of energy release as measured by oxygen depletion calorimetry.
+
+12-7A-4.5 Test assembly.
+
+1.Size. The overall size of the test deck shall be nominally 24 × 24 inches (610 × 610 mm) unless width variation of deck boards requires an increase in overall deck width (i.e., the direction of joists) in order to meet the overall dimensions. The length of individual deck boards shall be 24 inches (610 mm).
+
+2.Joists. The deck is supported by two nominal 2 × 6 Douglas-fir joists running perpendicular to the deck boards, and constructed with a 16-inch (406 mm) center-to-center spacing. A comparable species that may be more commonly used for structural framing of decks in a given region can be substituted for Douglas-fir.
+
+3.Deck board spacing and fastening. Edge-to-edge spacing and method of attachment shall conform to the manufacturer’s installation recommendations. The front deck board shall be flush with the ends of the joists, and the rear deck board shall overhang the end of the joists by 1 inch (25 mm).
+
+3.1. In the absence of recommended installation guidance, the edge-to-edge spacing shall be 3/16 inch (5 mm) with boards mechanically attached to the joists using deck screws.
+
+3.2. If nominal 6-inch-wide (152 mm) deck boards are used, a total of 5 boards shall be used for each deck. Changing the board width could change the number of deck boards.
+
+12-7A-4.6 Materials.
+
+1.Cross-sectional dimension. All deck board materials are to have cross-sectional dimensions equivalent to use in service.
+
+2.Description. The material under test should be described as completely as possible (unit weight, thickness, width and general information regarding composition).
+
+3.Condition of test material. Prior to testing, all materials (deck boards and joist material) shall be conditioned to a constant weight or for a minimum of 30 days at 73 ± 4ºF (23 ± 2ºC) and 50 ± 5% relative humidity, whichever occurs first. Constant weight shall be defined as occurring when the change in test material weight is less than or equal to 2 percent in a 24-hour period.
+
+12-7A-4.7 PART A. Under-deck flame test.
+
+12-7A-4.7.1 Equipment.
+
+1.Burner. A 12 × 12 inch (300 × 300 mm) sand diffusion burner shall be used. Natural gas, methane or propane shall be supplied to the burner through a metered control system. The gas supply to the burner shall produce a net heat output of 80 ± 4 kW throughout the flame exposure. Burner output can be determined from HRR or calculated from the gas flow rate, temperature and pressure.
+
+2.Oxygen depletion calorimeter. The equipment shall include a hood, associated ducting and instrumentation to provide HRR data by oxygen depletion calorimetry.
+
+12-7A-4.7.2 Test system preparation.
+
+See Figure No. 1.
+
+1.Deck support assembly. The assembly that holds the test deck over the burner.
+
+2.Baffle panels and joist support. Horizontal metal plates to support the deck joists along their full length, and also to confine burner flames to the underside of the deck boards located between the support joists.
+
+3.Back wall. Ceramic fiber board or another noncombustible panel product for the back wall material. Total height of the back wall shall be 8 feet (2.4 m).
+
+4.Ledger board. A 4-foot-long (1.2 m) simulated 2 x 6 ledger board shall be constructed of layers of ceramic fiber board (or other noncombustible panel product) and attached to the wall at a height slightly below the overhang of the rear deck board of the test deck.
+
+12-7A-4.7.3 Conduct of tests.
+
+1.Airflow. The test shall be conducted under conditions of ambient airflow.
+
+2.Number of tests. Conduct the test on three replicate assemblies.
+
+3.Burner output verification. Without a deck in the apparatus, set the output of the burner to 80 ± 4 kW. Conduct a verification run of 3 minutes to ensure the heat release rate, and then turn off the burner.
+
+4.Measurement of heat release rate. HRR is measured during the tests with a properly calibrated oxygen depletion calorimeter. Since HRR is typically a post-test analysis, this criterion for Acceptance may be determined at the end of the test.
+
+5.Burner positioning. Center the burner directly under the middle deck board, midway between the joists. The distance from the top of the burner to the bottom of the deck boards shall be 27 inches (690 mm).
+
+6.Moisture content. Measure the moisture content of the wooden members of the assembly using a moisture meter (ASTM D4444).
+
+7.Procedure.
+
+7.1. Ignition. Ignite the burner, controlling for a constant 80 ± 4 kW output.
+
+7.2. Flame exposure. Continue the exposure for a 3-minute period. Extinguish the burner.
+
+7.3. Continued combustion. Continue observation for an additional 40 minutes or until all combustion has ceased.
+
+8.Observations. Note physical changes of the deck boards during the test, including structural failure of any deck board, location of flaming and glowing ignition, and loss of material (i.e., flaming drops of particles falling from the deck). It is desirable to capture the entire test with a video recorder to allow review of the details of performance.
+
+12-7A-4.7.4 Report.
+
+The report shall include a description of the deck board material and the time of any degradation (effective net peak heat release rate, structural failure, flaming drops or particles falling from the deck) during the test.
+
+1.Calculated rate of heat release. The effective net peak heat release rate (HRR) shall be calculated as follows:
+
+1.1. During the first 5 minutes of the test (the 3 minutes during which the ignition source burner is operating and the immediately following 2 minutes) the effective net peak HRR of the test assembly shall be reported as: effective net peak HRR = (peak heat release rate – 80 kW) / (deck surface area).
+
+1.2. During the remaining test duration the effective net peak heat release rate of the test assembly shall be reported as: effective net peak HRR = (peak heat release rate) / (deck surface area).
+
+12-7A-4.7.5 Conditions of Acceptance.
+
+Should one of the three replicates fail to meet the Conditions of Acceptance, three additional tests may be run. All of the additional tests must meet the Conditions of Acceptance.
+
+1.Effective net peak heat release rate of less than or equal to 25 kW/ft2 (269 kW/m2).
+
+2.Absence of sustained flaming or glowing combustion of any kind at the conclusion of the 40-minute observation period.
+
+3.Absence of falling particles that are still burning when reaching the burner or floor.
+
+12-7A-4.8 PART B. Burning brand exposure.
+
+12-7A-4.8.1 Equipment.
+
+1.Wind tunnel. The wind tunnel shall have the capability of providing 12 mph (5.4 m/s) airflow over the deck assembly.
+
+2.Anemometer. Device for measuring airflow across the deck.
+
+3.Burner. Gas-fueled burner for brand ignition.
+
+12-7A-4.8.2 Test system preparation.
+
+See Figure 2. The ASTM E108 “A” brand roof test apparatus is to be used, with the following modifications:
+
+1.Deck support. The deck shall be supported horizontally with the center 60 inches (150 mm) from the front opening of the wind tunnel and the joists parallel to the airflow and resting on two transverse metal supports. The top surfaces of these supports, no more than 3 inches (75 mm) wide, are at the same height as the floor of the wind tunnel.
+
+2.Fragments. Burning fragments shall be free to fall to the floor of the room.
+
+12-7A-4.8.3 Conduct of tests.
+
+1.Number of tests. Conduct the test on three replicate assemblies.
+
+2.Moisture content. Measure the moisture content of the wooden members of the assembly using a moisture meter (ASTM D4444).
+
+3.Procedure. Adhere to ASTM E108 “Standard Test Methods for Fire Tests of Roof Coverings” (burning brand test, “A” brand), with apparatus modified as described above in “Test system preparation” and the following procedure:
+
+3.1. The air velocity shall be calibrated using the 60-inch (1.5 m) framework spacing, with a smooth noncombustible calibration deck at a 5-inch (127 mm) per 12-inch (305 mm)  horizontal incline positioned 60 inches (1.5 m) from the front opening of the wind tunnel. All other measurement details shall be followed as specified in Sections 4.4.2, 4.4.3 and 4.4.4 of ASTM E108. Although ASTM E108 specifies calibration to be conducted with the 33-inch (840-mm) framework spacing used for the intermittent flame test set up, tests have shown that at the nominal 12 mph setting, there was not difference in measured velocity between the 33- and 60-inch (838 mm and 1524 mm) framework spacing.
+
+3.2. Mount the test specimen at a zero horizontal incline positioned 60 inches (1.5 m) from the front opening of the wind tunnel.
+
+3.3. Ignite the “A” brands as specified in Section 9.4 of ASTM E108 as reprinted here:
+
+1.Each 12- × 12-inch (300 × 300 mm) face for 30 seconds.
+
+2.Each 2.25- × 12-inch (57 × 300 mm) edge for 45 seconds.
+
+3.Each 12- × 12-inch (300 × 300 mm) face again for 30 seconds.
+
+3.4. Center the burning brand laterally on the deck with the front edge 2.5 inches (64 mm) from the entering air edge of the deck.
+
+3.5. Continue the exposure for a 40-minute period or until all combustion of the deck boards ceases. The test shall be terminated immediately if flaming combustion accelerates uncontrollably (runaway combustion) or structural failure of any deck board occurs.
+
+Heat Release Rate is not monitored because of the impracticability with the specified airflow.
+
+4.Observations. Note physical changes of the deck boards during the test, including deformation from the horizontal plane, location of flaming and glowing combustion, and loss of material (i.e., flaming drops of particles falling from the deck). It is desirable to capture the entire test with a video recorder to allow review of the details of performance.
+
+12-7A-4.8.4 Report.
+
+The report shall include description of the deck board material, and the time of any degradation (accelerated combustion, board collapse, flaming drops or particles falling from the deck).
+
+12-7A-4.8.5 Conditions of Acceptance.
+
+Should one of the three replicates fail to meet the Conditions of Acceptance, three additional tests may be run. All of the additional tests must meet the Conditions of Acceptance:
+
+1.Absence of sustained flaming or glowing combustion of any kind at the conclusion of the 40-minute observation period.
+
+2.Absence of falling particles that are still burning when reaching the burner or floor.
+
+FIGURE 1. DECK TEST ASSEMBLY (UNDER DECK-FLAME)
+
+FIGURE 2. DECK TEST ASSEMBLY (BURNING-BRAND)
+
+DECKING ALTERNATE METHOD A SFM STANDARD 12-7A-4A
+
+12-7A-4A.1 Application.
+
+The minimum design, construction and performance standards set forth herein for unloaded decks are those deemed necessary to establish conformance to the provisions of these regulations. Materials and assemblies that meet the performance criteria of this standard are acceptable for use as defined in the California Building Standards Code.
+
+12-7A-4A.2 Scope.
+
+This standard evaluates the performance of decks (or other horizontal ancillary structures in close proximity to primary structures) when exposed to direct flames and brands. The under-deck flame exposure test is intended to determine the heat release rate (HRR) and degradation modes of deck or other horizontal boards when exposed to a burner flame simulating combustibles beneath a deck. The burning brand exposure test is intended to determine the degradation modes of deck or other horizontal boards when exposed to a burning brand on the upper surface.
+
+12-7A-4A.3 Referenced document.
+
+1.ASTM E108. Standard Test Methods for Fire Tests of Roof Coverings.
+
+2.California Building Code, Chapter 7A.
+
+12-7A-4A.4 Definitions.
+
+1.Deck boards. Horizontal members that constitute the exposed surface of the ancillary structure.
+
+2.Heat release rate. The net rate of energy release as measured by oxygen depletion calorimetry.
+
+12-7A-4A.5 Test assembly.
+
+1.Size. The overall size of the test deck shall be nominally 24 × 24 inches (610 × 610 mm) unless width variation of deck boards requires an increase in overall deck width (i.e., the direction of joists) in order to meet the overall dimensions. The length of individual deck boards shall be 24 inches (610 mm).
+
+2.Joists. The deck is supported by two nominal 2 × 6 Douglas-fir joists running perpendicular to the deck boards, and constructed with a 16-inch (406 mm) center-to-center spacing. A comparable species that may be more commonly used for structural framing of decks in a given region can be substituted for Douglas-fir.
+
+3.Deck board spacing and fastening. Edge-to-edge spacing and method of attachment shall conform to the manufacturer’s installation recommendations. The front deck board shall be flush with the ends of the joists, and the rear deck board shall overhang the end of the joists by 1 inch (25 mm).
+
+3.1. In the absence of recommended installation guidance, the edge-to-edge spacing shall be 3/16 inch (5 mm) with boards mechanically attached to the joists using deck screws.
+
+3.2. If nominal 6-inch-wide (152 mm) deck boards are used, a total of five boards shall be used for each deck. Changing the board width could change the number of deck boards.
+
+12-7A-4A.6 Materials.
+
+1.Cross-sectional dimension. All deck board materials are to have cross-sectional dimensions equivalent to use in service.
+
+2.Description. The material under test should be described as completely as possible (unit weight, thickness, width and general information regarding composition).
+
+3.Condition of test material. Prior to testing, all materials (deck boards and joist material) shall be conditioned to a constant weight or for a minimum of 30 days at 73 ± 4ºF (23 ± 2ºC) and 50 ± 5 percent relative humidity, whichever occurs first. Constant weight shall be defined as occurring when the change in test material weight is less than or equal to 2 percent in a 24-hour period.
+
+Note: The moisture content of joists shall be between 8- and 10-percent moisture content.
+
+12-7A-4A.7 Under-deck flame test.
+
+12-7A-4A.7.1 Equipment.
+
+1.Burner. A 12- × 12-inch (300 × 300 mm) diffusion burner shall be used. Natural gas, methane or propane shall be supplied to the burner through a metered control system. The gas supply to the burner shall produce a net heat output of 80 ± 4 kW throughout the flame exposure. Burner output can be determined from HRR or calculated from the gas flow rate, temperature and pressure.
+
+2.Oxygen depletion calorimeter. The equipment shall include a hood, associated ducting and instrumentation to provide HRR data by oxygen depletion calorimetry.
+
+12-7A-4A.7.2 Test system preparation.
+
+See 12-7A-4 Figure No. 1.
+
+1.Deck support assembly. Assembly that holds the test deck over the burner.
+
+2.Baffle panels and joist support. Horizontal metal plates to support the deck joists along their full length, and also to confine burner flames to the underside of the deck boards located between the support joists.
+
+3.Back wall. Ceramic fiber board or another noncombustible panel product for the back wall material. Total height of the back wall is 8 feet (2.4 m).
+
+4.Ledger board. A 4-foot-long (1.2 m) simulated 2 x 6 ledger board shall be constructed of layers of ceramic fiber board (or other noncombustible panel product) and attached to the wall at a height slightly below the overhang of the rear deck board of the test deck.
+
+12-7A-4A.7.3 Conduct of tests.
+
+1.Airflow. The test is conducted under conditions of ambient airflow.
+
+2.Number of tests. Conduct the test on three replicate assemblies.
+
+3.Burner output verification. Without a deck in the apparatus, set the output of the burner to 80 ± 4 kW. Conduct a verification run of 3 minutes to ensure the heat release rate, and then turn off the burner.
+
+4.Measurement of heat release rate. HRR is measured during the tests with a properly calibrated oxygen depletion calorimeter. Since HRR is typically a post-test analysis, this criterion for Acceptance may be determined at the end of the test.
+
+5.Burner positioning. Center the burner directly under the middle deck board, midway between the joists. The distance from the top of the burner to the bottom of the deck boards shall be 27 inches (690 mm).
+
+6.Moisture content. Measure the moisture content of the wooden members of the assembly using a moisture meter (ASTM D4444).
+
+7.Procedure.
+
+7.1. Ignition. Ignite the burner, controlling for a constant 80 ± 4 kW output.
+
+7.2. Flame exposure. Continue the exposure for a 3-minute period. Extinguish the burner.
+
+7.3. Continued combustion. Continue observation for an additional 40 minutes or until all combustion has ceased. The test shall be terminated immediately if flaming combustion accelerates uncontrollably (runaway combustion) or structural failure of any deck board occurs.
+
+8.Observations. Note physical changes of the deck boards during the test, including structural failure of any deck board, location of flaming and glowing ignition, and loss of material (i.e., flaming drops of particles falling from the deck). It is desirable to capture the entire test with a video recorder to allow review of the details of performance.
+
+12-7A-4A.7.4 Report.
+
+The report shall include a description of the deck board material and the time of any degradation (effective net peak heat release rate) during the test.
+
+12-7A-4A.7.5 Conditions of acceptance.
+
+Should one of the three replicates fail to meet the Condition of Acceptance, three additional tests may be run. All of the additional tests must meet the Condition of Acceptance with an effective peak heat release rate of less than or equal to 25 kW/ft2 (269 kW/m2).
+
+
+

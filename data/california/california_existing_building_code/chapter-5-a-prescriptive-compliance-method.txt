@@ -1,0 +1,367 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLECHAPTER 5A – PRESCRIPTIVE COMPLIANCE METHOD [OSHPD 1]
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD		BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter										X													
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 5A A PRESCRIPTIVE COMPLIANCE METHOD
+
+User note:
+
+About this chapter: Chapter 5 provides details for the prescriptive compliance method—one of the three main options of compliance available in this code for buildings and structures undergoing alteration, addition or change of occupancy.
+
+SECTION 501A A GENERAL
+
+501A.1 A Scope.
+
+The provisions of this chapter shall control the alteration, addition and change of occupancy of existing  buildings and structures, including historic buildings and structures as referenced in Section 301A.3.1.
+ The provisions of this chapter shall apply to existing structures for applications listed in Section 1.10.1 [OSHPD 1] regulated by the Office of Statewide Health Planning and Development (OSHPD).
+
+
+
+501A.1.1 A Compliance with other methods.
+
+Alterations, additions and changes of occupancy to existing buildings and structures shall comply with the provisions of this chapter or with one of the methods or procedures provided in Section 301.3.
+
+501A.2 A Fire-resistance ratings.
+
+Fire-resistance ratings shall comply with the California Building Standards Code.
+
+501A.3Prescriptive compliance provisions. 501A.3 A Prescriptive compliance provisions.
+
+Alterations, additions and changes of occupancy to the following categories of existing buildings and structures shall comply with the provisions of this section.
+
+501A.3.1Prescriptive compliance provisions for SPC-4D using the California Building Code, 1980 (CBC 1980). 501A.3.1 A Prescriptive compliance provisions for SPC-4D using the California Building Code, 1980 (CBC 1980). California Building Code
+
+Nonconforming buildings shall satisfy the following requirements:
+
+1.The California Building Code, 1980 (CBC 1980), as used in this chapter, consists of the Uniform Building Code, 1979 (UBC 1979) along with requirements contained in:
+
+a)California Code of Regulations, Title 24- Building Standards, dated February 2, 1980 (Revision record for Register 80, No. 5).
+
+b)California Code of Regulations, Title 22 – Social Security, dated October 13, 1979 (Revision Record for Register 79, No 41).
+
+c)California Code of Regulations, Title 17 – Public Health, dated October 13, 1979 (Revision Record for Register 79, No 41-B).
+
+2.All existing structural elements of Seismic Force Resisting System (SFRS) shall satisfy the detailing requirements in the CBC 1980 or demonstrate that the level of seismic performance is equivalent to that given in the CBC 1980, as determined by the building official.
+
+3.A continuous load path or paths with adequate strength and stiffness to transfer all the forces from the point of origin to final point of resistance shall be justified by analysis.
+
+4.Site data report in accordance with the CBC 1980 shall establish that seismically induced differential settlement does not exceed 1″ in 40′.
+
+5.Adjacent buildings shall satisfy the SPC building separation requirements in accordance with the California Administrative Code, Chapter 6 Section 3.4.
+
+6.The addition of new structural elements or strengthening of existing structural elements for retrofit of nonconforming buildings to SPC-4D shall comply with the following:
+
+a)The seismic demand (forces or displacements) shall be in accordance with the CBC 1980;
+
+b)Capacity, detailing and connections for new structural elements shall satisfy the requirements in the CBC 2019 for new construction; and
+
+c)The strengthening of existing structural elements shall use capacities determined in accordance with the CBC 2019 for new construction consistent with the detailing and connections used in the strengthened member.
+
+7.All construction, quality assurance and quality control shall be in accordance with the new construction provisions of CBC 2019.
+
+8.Elements not part of the Seismic Force-Resisting System (SFRS), including those identified in the California Administrative Code Chapter 6, Article 10, shall be evaluated using seismic forces and the requirements of the CBC 1980.
+
+9.Any column or wall that forms part of two or more intersecting SFRS and is subjected to axial load due to seismic forces acting along either principal plan axis equaling or exceeding 20 percent of the axial design strength of the column or wall shall be evaluated for the most critical load effect due to application of seismic force in any direction. The most critical load effect may be deemed to be satisfied if members and their foundations are evaluated for 100 percent of the forces for one direction plus 30 percent of the forces for the perpendicular direction, whereby the combination produces the maximum effect.
+
+Exceptions: The following buildings (with structural irregularities or unusual configuration/system) shall not be eligible for the SPC-4D upgrade using the prescriptive provisions in this section:
+
+1.Buildings with prohibited irregularities in accordance with California Building Code Section 1617A.1.10.
+
+2.Buildings taller than 5 stories or 65' height above the base having horizontal or vertical irregularities in accordance with ASCE 7 Tables 12.3-1 Items # 1a, 1b and 3 or 12.3-2 Items #1a, 1b, 5a and 5b.
+
+3.Buildings with unusual configuration or structural system, as determined by the building official.
+
+501A.3.2 A Prescriptive compliance provisions for SPC-4D using the new building design requirements of this code.
+
+Structures satisfying the requirements of the California Building Code for new general acute care hospital buildings design shall be deemed to satisfy the SPC-4D requirements of Table 2.5.3, Chapter 6 of the California Administrative Code.
+
+All existing structural elements of a Seismic Force-Resisting System (SFRS) shall satisfy the detailing requirements of the California Building Code for new construction or demonstrate that the level of seismic performance is equivalent, as determined by the building official. A demonstration of equivalence shall consider the regularity, overstrength, redundancy and ductility of the structure.
+
+Elements not part of the Seismic Force-Resisting System (SFRS), including those identified in the California Administrative Code Chapter 6, Article 10, shall be evaluated using seismic forces and the requirements of this code for new general acute care hospital buildings.
+
+501A.3.3 A Prescriptive compliance provisions for NPC 2, NPC 3, NPC 4 or NPC 4D and NPC 5.
+
+501A.3.3.1 A 
+
+Supports and attachments of nonstructural components, except those listed in Section 501A.3.3.2 below, in buildings in seismic performance categories SPC 1 or SPC 2 with a performance level of NPC 3 or higher, and SPC 3, SPC 4 or SPC-4D, shall be permitted to comply with the provisions of Section 1630B of the 1998 California Building Code using an importance factor Ip=1.5. The capacity of welds, anchors and fasteners shall be determined in accordance with requirements of the California Building Code for new construction.
+
+501A.3.3.2 A 
+
+Supports and attachments for systems listed under NPC-2 and NPC-5 (excluding those specifically listed for NPC-3 and NPC-4 or NPC-4D) in the California Administrative Code, Chapter 6, Table 11.1 shall satisfy the requirements of the California Building Code for new construction and Section 501A.3.3.1 above shall not be applicable.
+
+501A.3.3.3 A 
+
+For NPC 3 and NPC 4 or NPC 4D in SPC 2, SPC 3, SPC 4 or SPC-4D buildings, the adequacy and design of nonstructural component or equipment supports and attachments may extend only to the connection of the component or equipment to the support when the total reaction at the point of support (including the application of Fp) is less than or equal to the following limits:
+
+1.250 pounds for components or equipment attached to light frame walls. For the purposes of this requirement, the sum of the absolute value of all reactions due to component loads on a single stud shall not exceed 250 pounds.
+
+2. 1,000 pounds for components or equipment attached to roofs or walls of reinforced concrete or masonry construction.
+
+3.2,000 pounds for components or equipment attached to floors or slabs-on-grade.
+
+Exception:  If the anchorage or bracing is configured in a manner that results in significant torsion on a supporting structural element, the effects of the nonstructural reaction force on the structural element shall be considered in the anchorage design.
+
+501A.4 A. Health care facilities.
+
+In Group I-2 facilities, ambulatory care facilities and outpatient clinics, any altered or added portion of an existing electrical or medical gas systems shall be required to meet installation and equipment requirements in NFPA 99.
+
+SECTION 502A A ADDITIONS
+
+502A.1 A General.
+
+Additions to any building or structure shall comply with the requirements of the California Building Code for new construction. Alterations to the existing building or structure shall be made to ensure that the existing building or structure together with the addition are not less complying with the provisions of the California Building Code than the existing building or structure was prior to the addition. An existing building together with its additions shall comply with the height and area provisions of Chapter 5 of the California Building Code.
+
+[BS] 502A.2 A Disproportionate earthquake damage.
+
+A building assigned to Seismic Design Category D, E or F that has sustained disproportionate earthquake damage shall be subject to the requirements for buildings with substantial structural damage to vertical elements of the lateral force-resisting system.
+
+[BS] 502A.3 A Flood hazard areas.
+
+For buildings and structures in flood hazard areas established in California Building Code Section 1612A.3, any addition that constitutes substantial improvement of the existing structure, as defined in Chapter 2, shall comply with the flood design requirements for new construction, and all aspects of the existing structure shall be brought into compliance with the requirements for new construction for flood design.
+
+For buildings and structures in flood hazard areas established in California Building Code Section 1612A.3, any additions that do not constitute substantial improvement of the existing structure, as defined in Chapter 2, are not required to comply with the flood design requirements for new construction.
+
+[BS] 502A.4 A Existing structural elements carrying gravity load.
+
+Any existing gravity load-carrying structural element for which an addition and its related alterations cause an increase in design gravity load of more than 5 percent shall be strengthened, supplemented, replaced or otherwise altered as needed to carry the increased gravity load required by this code for new structures. Any existing gravity load-carrying structural element whose gravity load-carrying capacity is decreased shall be considered an altered element subject to the requirements of Section 503A.3. Any existing element that will form part of the lateral load path for any part of the addition shall be considered an existing lateral load-carrying structural element subject to the requirements of Section 502A.5.
+
+502A.4.1 A Design live load.
+
+Where the addition does not result in increased design live load, existing gravity load-carrying structural elements shall be permitted to be evaluated and designed for live loads approved prior to the addition. If the approved live load is less than that required by California Building Code Section 1607A, the area designed for the nonconforming live load shall be posted with placards of approved design indicating the approved live load. Where the addition does result in increased design live load, the live load required by California Building Code Section 1607A shall be used.
+
+[BS] 502A.5 A Existing structural elements carrying lateral load.
+
+Where the addition is structurally independent of the existing structure, existing lateral load-carrying structural elements shall be permitted to remain unaltered. Where the addition is not structurally independent of the existing structure, the existing structure and its addition acting together as a single structure shall be shown to meet the requirements of Sections 1609A and 1613A of the California Building Code.
+
+
+
+Exceptions: For incidental and minor additions:
+
+1.Any existing lateral load-carrying structural element whose demand-capacity ratio with the addition considered is no more than 10 percent greater than its demand-capacity ratio with the addition ignored shall be permitted to remain unaltered. For purposes of calculating demand-capacity ratios, the demand shall consider applicable load combinations with design lateral loads or forces in accordance with Sections 1609A and 1613A of the California Building Code. For purposes of this exception, comparisons of demand-capacity ratios and calculation of design lateral loads, forces and capacities shall account for the cumulative effects of additions and alterations since original construction.
+
+2.Drift limits based on original design code shall be permitted to be used in lieu of the drift limits required by ASCE 7.
+
+502 A Enhanced classroom acoustics.
+
+In Group E occupancies, enhanced classroom acoustics shall be provided in all classrooms in the addition with a volume of 20,000 cubic feet (565 m3) or less. Enhanced classroom acoustics shall comply with the reverberation time in Section 808 of ICC A117.1.
+
+
+
+502 A Smoke alarms in existing portions of a building.
+
+Shall comply with California Building Standards Code.
+
+502 A Carbon monoxide alarms in existing portions of a building.
+
+Shall comply with California Building Standards Code.
+
+SECTION 503A A ALTERATIONS
+
+503A.1 A General.
+
+Except as provided by this section, alterations to any building or structure shall comply with the requirements of the California Building Code for new construction. Alterations shall be such that the existing building or structure is no less conforming with the provisions of this code than the existing building or structure was prior to the alteration.
+
+Exceptions:
+
+1.An existing stairway shall not be required to comply with the requirements of California Building Code Section 1011 where the existing space and construction does not allow a reduction in pitch or slope.
+
+2.Handrails otherwise required to comply with California Building Code Section 1011.11 shall not be required to comply with the requirements of California Building Code Section 1014.6 regarding full extension of the handrails where such extensions would be hazardous due to plan configuration.
+
+
+
+[BS] 503A.2 A Flood hazard areas.
+
+For buildings and structures in flood hazard areas established in Section 1612A.3 of the California Building Code, any alteration that constitutes substantial improvement of the existing structure, as defined in Chapter 2, shall comply with the flood design requirements for new construction, and all aspects of the existing structure shall be brought into compliance with the requirements for new construction for flood design.
+
+
+
+For buildings and structures in flood hazard areas established in Section 1612A.3 of the California Building Code, any alterations that do not constitute substantial improvement of the existing structure, as defined in Chapter 2, are not required to comply with the flood design requirements for new construction.
+
+
+
+[BS] 503A.3 A Existing structural elements carrying gravity load.
+
+Any existing gravity load-carrying structural element for which an alteration causes an increase in design gravity load of more than 5 percent shall be replaced or otherwise altered as needed to carry the gravity loads required by this code for new structures. Any existing gravity load-carrying structural element whose gravity load-carrying capacity is decreased as part of the alteration shall be shown to have the capacity to resist the applicable design gravity load required by this code for new structures.
+
+
+
+503A.3.1 A Design live load. Design live load.
+
+Where the alteration does not result in increased design live load, existing gravity load carrying structural elements shall be permitted to be evaluated and designed for live loads approved prior to the alteration. If the approved live load is less than that required by California Building Code Section 1607A, the area designed for the nonconforming live load shall be posted with placards of approved design indicating the approved live load. Where the alteration does result in increased design live load, the live load required by California Building Code Section 1607A shall be used.
+
+[BS] 503 A Existing structural elements carrying lateral load
+
+Except as permitted by Section 503A.13, where the alteration increases design lateral loads in accordance with California Building Code Section 1609A or 1613A, or where the alteration, results in a prohibited structural irregularity as defined in the California Building Code, or where the alteration decreases the capacity of any existing lateral load-carrying structural element, the structure of the altered building or structure shall meet the requirements of Sections 1609A and 1613A of the California Building Code.
+
+
+
+Exceptions: For incidental and minor alterations:
+
+1.Any existing lateral load-carrying structural element whose demand-capacity ratio with the alteration considered is not more than 10 percent greater than its demand-capacity ratio with the alteration ignored shall be permitted to remain unaltered. For purposes of calculating demand-capacity ratios, the demand shall consider applicable load combinations with design lateral loads or forces in accordance with Sections 1609A and 1613A of the California Building Code. Reduced seismic forces shall be permitted. For purposes of this exception, comparisons of demand-capacity ratios and calculation of design lateral loads, forces and capacities shall account for the cumulative effects of additions and alterations since original construction.
+
+2.Drift limits based on original design code shall be permitted to be used in lieu of the drift limits required by ASCE 7.
+
+[BS] 503A.5 A Seismic Design Category F.
+
+Not permitted by OSHPD.
+
+[BS] 503A.6 A Bracing for unreinforced masonry parapets on reroofing.
+
+Not permitted by OSHPD.
+
+[BS] 503A.7 A Anchorage for concrete and reinforced masonry walls.
+
+Not permitted by OSHPD.
+
+[BS] 503A.8 A Anchorage for unreinforced masonry walls in major alterations.
+
+Not permitted by OSHPD.
+
+[BS] 503A.9 A Bracing for unreinforced masonry parapets in major alterations.
+
+Not permitted by OSHPD.
+
+[BS] 503A.10 A Anchorage of unreinforced masonry partitions in major alterations.
+
+Not permitted by OSHPD.
+
+[BS] 503A.11 A Substantial structural alteration.
+
+Not permitted by OSHPD.
+
+[BS] 503A.12 A Roof diaphragms resisting wind loads in high-wind regions.
+
+Not permitted by OSHPD.
+
+[BS] 503A.13 A Voluntary seismic improvements. seismic improvements
+
+Alterations to existing structural elements or additions of new structural elements that are not otherwise required by this chapter and are initiated for the purpose of improving the performance of the seismic force-resisting system of an existing structure or the performance of seismic bracing or anchorage of existing nonstructural elements shall be permitted, provided that an engineering analysis is submitted demonstrating the following:
+
+1.The altered structure, and the altered structural and nonstructural elements are no less conforming with the provisions of this code with respect to earthquake design than they were prior to the alteration.
+
+2.New structural elements are designed, detailed and connected to the existing structural elements as required by California Building Code Chapter 16A. Alterations of existing structural elements shall be based on design demand required by California Building Code Chapter 16A. Demands for new or altered existing structural elements need not exceed the maximum load effect that can be transferred to the elements by the system.
+
+3.New, relocated or altered nonstructural elements are designed, detailed and connected to existing or new structural elements as required by California Building Code Chapter 16A.
+
+4.The alterations do not create a structural irregularity as defined in ASCE 7 or make an existing structural irregularity more severe.
+
+
+
+503A.14 A Smoke compartments.
+
+Shall comply with California Building Standards Code.
+
+
+
+503A.15 A Refuge areas.
+
+Shall comply with California Building Standards Code.
+
+
+
+503A.16 A Enhanced classroom acoustics.
+
+In Group E occupancies, where the work area exceeds 50 percent of the building area, enhanced classroom acoustics shall be provided in all classrooms with a volume of 20,000 cubic feet (565 m3) or less. Enhanced classroom acoustics shall comply with the reverberation time in Section 808 of ICC A117.1.
+
+503A.17 A Locking arrangements in educational occupancies.
+
+In Group E occupancies, Group B educational occupancies and Group I-4 occupancies, egress doors with locking arrangements designed to keep intruders from entering the room shall comply with Section 1010.2.8 of the California Building Code.
+
+503A.18 A Two-way communications systems.
+
+Where the work area for alterations exceeds 50 percent of the building area and the building has elevator service, a two-way communication systems shall be provided where required by Section 1009.8 of the California Building Code.
+
+503A.19 A Smoke alarms.
+
+Shall comply with California Building Standards Code.
+
+503A.20 A Carbon monoxide alarms.
+
+Shall comply with California Building Standards Code.
+
+SECTION 504A A RESERVED RESERVED
+
+SECTION 505A A RESERVED RESERVED
+
+SECTION 506A A CHANGE OF OCCUPANCY
+
+506A.1 A Conformance. Conformance.
+
+No change shall be made in the use or occupancy of any building, that would place the building in a different division of the same group of occupancy or in a different group of occupancies, unless such building is made to comply with the requirements of the California Building Code for the use or occupancy. Subject to the approval of the building official, the use or occupancy of existing buildings shall be permitted to be changed and the building is allowed to be occupied for purposes in other groups without conforming to all the requirements of the California Building Code for those groups, provided the new or proposed use is less hazardous, based on life and fire risk, than the existing use.
+
+506A.1.1 A Change in function.
+
+A change in function shall require compliance with all the functional requirements for new construction in the California Building Code, including requirements in California Building Code Section 1224.
+
+Exception:  Minimum room clearances, areas and dimensions may meet the requirements of the 2001 California Building Code for existing rooms re-used for a similar purpose, subject to the approval of OSHPD.
+
+506A.2 A Certificate of occupancy.
+
+A certificate of occupancy shall be issued where it has been determined that the requirements for the new occupancy classification have been met.
+
+506A.3 A Stairways.
+
+Existing stairways in an existing structure shall not be required to comply with the requirements of a new stairway as outlined in California Building Code Section 1009 where the existing space and construction will not allow a reduction in pitch or slope.
+
+506A.4 A Existing emergency escape and rescue openings.
+
+Where a change of occupancy would require an emergency escape and rescue opening in accordance with Section 1031.1 of the California Building Code, operable windows serving as the emergency escape and rescue opening shall comply with the following
+
+1.An existing operable window shall provide a minimum net clear opening of 4 square feet (0.38 m2) with a minimum net clear opening height of 22 inches (559 mm) and a minimum net clear opening width of 20 inches (508 mm).
+
+2.A replacement window where such window complies with both of the following:
+
+2.1.The replacement window meets the size requirements in Item 1.
+
+2.2.The replacement window is the manufacturer’s largest standard size window that will fit within the existing frame or existing rough opening. The replacement window shall be permitted to be of the same operating style as the existing window or a style that provides for an equal or greater window opening area than the existing window.
+
+506A.5 A Structural.
+
+When a change of occupancy results in a structure being reclassified to a higher risk category, the structure shall conform to the seismic requirements for a new structure in the California Building Code of the higher risk category.
+
+Exception: Specific seismic detailing requirements of California Building Code Section 1613A for a new structure shall not be required to be met where it can be shown that the level of performance is equivalent to that of a new structure. A demonstration of equivalence shall consider the regularity, over strength, redundancy and ductility of the structure.
+
+
+
+SECTION 507A A HISTORIC BUILDINGS
+
+507A.1 A Historic buildings.
+
+The provisions of this code that require improvements relative to a building’s existing condition or, in the case of repairs, that require improvements relative to a building’s predamage condition, shall not be mandatory for historic buildings unless specifically required by this section.
+
+507A.2 A Life safety hazards.
+
+The provisions of this code shall apply to historic buildings judged by the code official to constitute a distinct life safety hazard.
+
+[BS] 507A.3 A Flood hazard areas.
+
+Within flood hazard areas established in accordance with Section 1612.3 of the California Building Code, or Section R322 of the California Residential Code, as applicable, where the work proposed constitutes substantial improvement, the building shall be brought into compliance with Section 1612 of the California Building Code, or Section R322 of the California Residential Code, as applicable.
+
+Exception:  Historic buildings meeting any of the following criteria need not be brought into compliance:
+
+1.Listed or preliminarily determined to be eligible for listing in the National Register of Historic Places.
+
+2.Determined by the Secretary of the US Department of Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined to qualify as an historic district.
+
+3.Designated as historic under a state or local historic preservation program that is approved by the Department of Interior.
+
+[BS] 507A.4 A Structural.
+
+Historic buildings shall comply with the applicable structural provisions in this chapter.
+
+Exceptions:
+
+1.The code official shall be authorized to accept existing floors and existing live loads and to approve operational controls that limit the live load on any floor.
+
+2.Repair of substantial structural damage is not required to comply with Sections 405A.2.3, and 405A.2.4. Substantial structural damage shall be repaired in accordance with Section 405A.2.1.
+

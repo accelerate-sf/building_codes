@@ -1,0 +1,208 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX O – TEMPORARY HAUNTED HOUSES, GHOST WALKS AND SIMILAR AMUSEMENT USES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX APPENDIX O O TEMPORARY HAUNTED HOUSES, GHOST WALKS AND SIMILAR AMUSEMENT USES TEMPORARY HAUNTED HOUSES, GHOST WALKS AND SIMILAR AMUSEMENT USES
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+SECTION O101 GENERAL
+
+O101.1 Scope.
+
+These regulations shall apply to temporary haunted houses, ghost walks or similar amusement uses, where decorative materials and confusing sounds and/or visual effects are present and shall be in accordance with this Appendix.
+
+O101.2 Permits.
+
+An operational permit shall be required for haunted houses, ghost walks or similar amusement uses in accordance with Appendix O101.2.
+
+O101.2.1 Permit documents.
+
+The permit application shall include a dimensioned site plan and floor plan.
+
+A site plan showing the following:
+
+1.The proximity of the event building(s) to other structures or hazardous areas.
+
+2.The path of travel from the event building or area to the public way.
+
+3.The location of exterior evacuation assembly points.
+
+A floor plan showing the following:
+
+1.Dimensions of the area being used (include total square footage, width and types of exits, aisles or interior exit pathways, etc.).
+
+2.The path of travel shall include the layout of any mazes, mirrors or other display items that may confuse the egress paths.
+
+3.A brief description of what will be depicted in each room or area along the walk or course, including the type of special effects to be utilized.
+
+4.Location of exits, exit signs and emergency lighting.
+
+5.Location of electrical panel(s) and light switches.
+
+6.Identification of what the normal or prior use of the structure(s) being used is (i.e., auditorium, school, church, etc.).
+
+7.Accessible egress routes.
+
+8.When required, areas of refuge.
+
+9.When required by Section 907.2.12, fire alarm panel location, manual fire alarm boxes and horn/strobe locations.
+
+10.Portable fire extinguisher locations.
+
+11.The location and fuel capacity of all generators.
+
+SECTION O102 DEFINITIONS
+
+O102.1 DECORATIVE MATERIALS.
+
+All materials used for decorative, acoustical or other effect (such as curtains, draperies, fabrics, streamers and surface coverings) and all other materials utilized for decorative effect (such as batting, cloth, cotton, hay stalks, straw, vines, leaves, trees, moss and similar items), including foam plastics and other materials containing foam plastics.
+
+O102.2 HAUNTED HOUSE.
+
+A temporary building or structure, or portion thereof, which contains a system that transports passengers or provides a walkway through a course so arranged that the means of egresses are not apparent due to theatrical distractions, not visible due to low illumination, are disguised or are not readily available due to the method of transportation through the building or structure.
+
+O102.3 GHOST WALKS.
+
+Similar to haunted houses and may include both indoor and outdoor areas where the means of egresses are similarly not readily identifiable.
+
+SECTION O103 GENERAL REQUIREMENTS
+
+O103.1 Allowable structures.
+
+Haunted houses, ghost walks and similar amusement uses shall only be located in structures that comply with the provisions for Special Amusement Areas in accordance with the California Building Code.
+
+O103.2 Tents or membrane structures.
+
+Tents and membrane structures may be used when in compliance with all applicable requirements of this regulation and when the total floor area of the tent is less than 1,000 square feet and the travel distance to an exit from any location is less than 50 feet.
+
+O103.3 Fire evacuation plans.
+
+A fire safety and evacuation plan that complies with Section 404 of this code shall be submitted.
+
+O103.4 Staffing.
+
+The event shall be adequately staffed by qualified person(s) to control the occupant load and assist patrons in exiting should an evacuation become necessary. Staffing level shall be determined upon review of plans and may be increased at the discretion of the Fire Code Official.
+
+O103.5 Occupant load.
+
+Maximum occupant load shall be in accordance with Chapter 10, Table 1004.1.1. A sign stating maximum occupancy shall be posted in a visible location near the entrance. The attendant(s) shall control the flow of patrons so as not to exceed this limit.
+
+O103.6 Exits.
+
+Exiting shall be in accordance with Chapter 10 and this section.
+
+1.Two exits shall be provided from each room with an occupant load of 50 or more. Required exit doors shall swing in the direction of egress.
+
+2.Illuminated exit signs shall be provided at each exit serving an occupant load of 50 or more.
+
+3.Exit doors serving an occupant load of 50 or more shall not be provided with a latch or lock unless it is panic hardware.
+
+4.When tents or membrane structures are approved for use, curtains shall not be allowed to cover the exits.
+
+5.Emergency lighting shall be provided in exit pathways.
+
+6.Exhibits and decorative materials shall not obstruct, confuse or obscure exits, exit pathways, exit signs or emergency lights.
+
+7.Additional exit pathway markings, such as low level exit signs and directional exit path markings, may be required.
+
+O103.7 Fire protection.
+
+Haunted houses and ghost walks shall be provided with fire protection systems in accordance with Appendix O103.7.
+
+Exception: When the total floor area of haunted houses or indoor portions of ghost walks are less than 1,000 square feet and the travel distance to an exit is less than 50 feet.
+
+O103.7.1 Fire sprinkler protection.
+
+An automatic fire sprinkler system shall be required for haunted houses and indoor portions of ghost walks. Fire sprinkler systems shall be in accordance with Section 903.
+
+O103.7.2 Fire detection systems.
+
+An approved automatic fire detection system shall be provided in accordance with Section 907.2.12, as required for amusement buildings.
+
+O103.7.3 Alarm.
+
+Activation of any single smoke detector, the fire sprinkler system or other automatic fire detection device shall be in accordance with Section 907.2.12.1.
+
+O103.7.4 Emergency voice alarm.
+
+Provide an emergency voice/alarm communication system in accordance with Section 907.2.12.3, as required for amusement buildings.
+
+O103.7.5 Portable fire extinguishers.
+
+Fire extinguishers shall have a minimum 2A-10B:C rating. Fire extinguishers shall be properly mounted and shall be visible and accessible at all times. Clearly identify locations with signs or reflective tape. Fire extinguishers shall be located within 50 of feet travel distance from anywhere in the building.
+
+O103.8 Electrical.
+
+When required, a permit shall be obtained from the local building official.
+
+O103.8.1 Extension cords.
+
+Extension cords shall be UL listed and shall be appropriate for the intended use.
+
+O103.8.2 Power strips.
+
+Only UL listed power strips with overcurrent protection shall be used when the number of outlets provided is inadequate. Power strips shall be plugged directly into the outlet, and shall not be plugged into one another in series.
+
+O103.8.3 String lighting.
+
+Manufacturer’s installation guidelines shall be followed for the maximum allowable number of string lights that can be connected. When connecting string lights together, the total amperage of all string lights shall be calculated to ensure that they do not exceed the amperage for the extension cord and circuit.
+
+O103.8.4 Protection.
+
+All extension cords and power strips shall be adequately protected from foot traffic.
+
+O103.8.5 Portable generators.
+
+When portable generators are utilized, they shall be diesel fuel type and located a minimum of 20 feet away from all structures.
+
+O103.9 Decorative materials.
+
+Interior wall, ceiling and floor finishes shall be Class A rated in accordance with the California Building Code.
+
+O103.9.1 Flame retardant.
+
+All decorative materials shall be both inherently flame retardant and labeled as such, or shall be treated with a listed flame-retardant material. If the material is treated by the user, a container and receipt will serve as proof.
+
+O103.9.2 Flame test.
+
+Testing shall be done in accordance with Section 803.5 of this code, as referenced from the California Code of Regulations, Title 19, Division 1, Article 3, Section 3.21(a) and (b). Proof of testing shall be provided.
+
+O103.9.3 Placement of decorative materials.
+
+Decorative materials, props and/or performer platforms shall not obstruct, confuse or obscure exits, exit signs, exit pathways, emergency lighting or any component of fire protection systems and equipment (i.e. fire extinguishers, fire alarm systems, fire sprinklers, etc.) inside or outside the building.
+
+O103.10 Smoke generators.
+
+Use of smoke-generating equipment may be restricted if determined to be incompatible with smoke alarm(s). Care and consideration shall be used with respect to smoke generator and smoke alarm locations. Smoke generator and smoke alarm locations shall be approved by the fire department.
+
+O103.11 Display of motor vehicles.
+
+Display of motor vehicles shall be in accordance with Section 3104.18 of this code.
+
+O103.12 Inspections.
+
+A fire and life safety inspection shall be conducted by the fire department prior to the start of the event.
+
+O103.13 Signs.
+
+“NO SMOKING” signs shall be conspicuously posted at the main entrance and throughout the exhibit.
+
+O103.14 Prohibited areas.
+
+Inside storage or use of flammable and/or combustible liquids, gases and solids shall be prohibited. Open flames shall be prohibited.
+
+O103.15 Maintenance.
+
+Good housekeeping shall be maintained at all times throughout exhibit and exit pathways.
+

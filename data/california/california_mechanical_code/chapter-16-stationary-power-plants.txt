@@ -1,0 +1,18 @@
+Chapter 16 Stationary Power Plants
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X		X	X	X			X	X														
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1601.0 Stationary Fuel Cell Power Plants
+1601.1 General
+1602.0 Stationary Gas Engines and Generators
+1602.1 General
+1602.2 Connection to the Gas Supply Piping
+1602.3 Stationary Engine Generators

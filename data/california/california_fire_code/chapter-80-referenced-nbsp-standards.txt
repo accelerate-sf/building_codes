@@ -1,0 +1,2178 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 80 – REFERENCED STANDARDS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+	T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt Entire Chapter																							
+	Adopt Entire Chapter as amended (amended sections listed below)			X																				
+	Adopt only those sections that are listed below																							
+	[California Code of Regulations, Title 19, Division 1]																							
+	Chapter / Section																							
+	ANSI/APA PRG 320-18			X																				
+	ASME A17.1 CSA B44			X																				
+	ASME BPE-2009			X																				
+	ASTM F2374			X																				
+	D3498—11			X																				
+	FM3260—00			X																				
+	FM3011—99			X																				
+	FM4430—80			X																				
+	ICC ES AC 331			X																				
+	ICC ES AC 77			X																				
+	NFPA 2—20			X																				
+	NFPA 10—21			X																				
+>	NFPA 13—22			X																				
+	NFPA 13D—22			X																				
+	NFPA 14—19			X																				
+	NFPA 24—19			X																				
+	NFPA 25—13 CA			X																				
+	NFPA 32—16			X																				
+	NFPA 37—15			X																				
+	NFPA 54—15			X																				
+>	NFPA 68—13			X																				
+	NFPA 72—22			X																				
+	NFPA 76—16			X																				
+	NFPA 82—14			X																				
+	NFPA 111—16			X																				
+	NFPA 241—19			X																				
+	NFPA 260—19			X																				
+	NFPA 289—19			X																				
+	NFPA 502—14			X																				
+	NFPA 1124—17			X																				
+	NFPA 2001—18			X																				
+	SFM 12-3			X																				
+	SFM 12-7-3			X																				
+	SFM 12-7A-1			X																				
+	SFM 12-7A-2			X																				
+	SFM 12-7A-3			X																				
+	SFM 12-7A-4			X																				
+	SFM 12-7A-4A			X																				
+	SFM 12-7A-5			X																				
+	SFM 12-8-100			X																				
+	SFM 12-10-1			X																				
+	SFM 12-10-2			X																				
+	SFM 12-10-3			X																				
+	UL 13—96			X																				
+	UL 38—99			X																				
+	UL 193—04			X																				
+	UL 199—95			X																				
+	UL 228—97			X																				
+	UL 260—04			X																				
+	UL 262—04			X																				
+	UL 268A—98			X																				
+	UL 312—04			X																				
+	UL 346—05			X																				
+	UL 464—03			X																				
+	UL 497B—04			X																				
+	UL 521—99			X																				
+	UL 539—00			X																				
+	UL 632—00			X																				
+	UL 753—04			X																				
+	UL 791—06			X																				
+	UL 813—96			X																				
+	UL 864—03			X																				
+	UL 1974—17			X																				
+>	UL 9540 Edition 2—2020			X																				
+>	UL 9540 Edition 4—2019			X																				CHAPTER 80 REFERENCED STANDARDS
+
+User note:
+
+About this chapter: This code contains numerous references to standards promulgated by other organizations that are used to provide requirements for materials and methods of construction. This chapter contains a comprehensive list of all standards that are referenced in this code. These standards, in essence, are part of this code to the extent of the reference to the standard.
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and title, and the section or sections of this document that reference the standard. The application of the referenced standards shall be as specified in Section 102.7.
+
+AASHTO
+
+HB-17—2002:
+
+Specification for Highway Bridges, 17th Edition 2002
+
+503.2.6
+
+AFSI
+
+FSAAS—16:
+
+Fabric Structures Associated Air Structures 2016
+
+3103.10.2
+
+ANSI
+
+ANSI E1.21—2013:
+
+Entertainment Technology: Temporary Structures Used for Technical Production of Outdoor Entertainment Events
+
+3105.1, 3105.4, 3105.5
+
+APA
+
+ANSI/APA PRG 320—18:
+
+Standard for Performance-rated Cross Laminated Timber
+
+701.6, 914.3.1.2, 3303.5
+
+API
+
+Publ 2009—7th Edition (2002, R2012):
+
+Safe Welding and Cutting Practices in Refineries, Gas Plants and Petrochemical Plants
+
+5706.7
+
+Publ 2028 3rd Edition—(2002, R2010):
+
+Flame Arrestors in Piping Systems
+
+5704.2.7.3.2
+
+Publ 2201 5th Edition—(2003, R2010):
+
+Procedures for Welding or Hot Tapping on Equipment in Service
+
+5706.7
+
+RP 651—4th Edition (2014):
+
+Cathodic Protection of Aboveground Petroleum Storage Tanks
+
+5706.7, 5706.7.1
+
+RP 752— 3rdEdition (2009):
+
+Management of Hazards Associated with Location of Process Plant Buildings, CMA Managers Guide
+
+5706.7
+
+RP 1604—3rdEdition (1996 R2010):
+
+Closure of Underground Petroleum Storage Tanks
+
+5704.2.13
+
+RP 1615—(1996) 6th Edition (2011):
+
+Installation of Underground-petroleum Storage Systems
+
+5704.2.13.1.5, 5706.7
+
+RP 2001—9th Edition (2012):
+
+Fire Protection in Refineries, 8th Edition
+
+5706.7
+
+RP 2003—8th Edition (2015):
+
+Protection Against Ignitions Arising out of Static, Lightning and Stray Currents
+
+5706.7
+
+RP 2023—3rd Edition (2001, R2006):
+
+Guide for Safe Storage and Handling of Heated Petroleum-derived Asphalt Products and Crude-oil Residue
+
+5706.7, 5706.7.3
+
+Std 653—5th Edition (2018):
+
+Tank Inspection, Repair, Alteration and Reconstruction
+
+5706.7
+
+Std 2000—7th Edition (2014):
+
+Venting Atmosphere and Low-pressure Storage Tanks: Nonrefrigerated and Refrigerated
+
+5704.2.7.3.2
+
+Std 2015—8th Edition 2001 (2018):
+
+Requirements for Safe Entry and Clearing of Petroleum Storage Tanks
+
+5706.7, 5706.7.2
+
+Std 2350— 4th Edition (2012):
+
+Overfill Protection for Storage Tanks in Petroleum Facilities, 3rd Edition
+
+5704.2.7.5.8, 5706.4.6, 5706.7
+
+ASCE/SEI
+
+ASCE/SEI 24—20:
+
+Flood Resistant Design and Construction
+
+1203.1.8
+
+ASHRAE
+
+15—2019
+
+Safety Standard for Refrigeration Systems
+
+608.1.1, 608.18.2
+
+170—2017
+
+Ventilation of Health Care Facilities
+
+1020.6
+
+ASME
+
+A13.1—2020:
+
+Scheme for the Identification of Piping Systems
+
+3509.3, 5003.2.2.1, 5303.4.3, 5503.4.5, 5703.5.2
+
+A17.1—2019/CSA B44—19 the edition as referenced in:
+
+Safety Code for Elevators and Escalators, California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders
+
+508.1.6, 604.2, 606.2.5, 606.8.6, 606.8.6.1, 606.8.6.2, 606.8.6.3, 606.8.6.4, 907.3.3, 1009.4.1, 1103.3.3
+
+A17.3—2020:
+
+Safety Code for Existing Elevators and Escalators California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders
+
+1103.3.1, 1103.3.2
+
+B16.18—2018:
+
+Cast Copper-alloy Solder-joint Pressure Fittings
+
+909.13.1
+
+B16.22—2018:
+
+Wrought Copper and Copper-alloy Solder-joint Pressure Fittings
+
+909.13.1
+
+B31.1—2020:
+
+Power Piping
+
+5003.2.2, Table 5703.6.2
+
+B31.3—2020:
+
+Process Piping
+
+5003.2.2.2, Table 5703.6.2
+
+B31.4—2019:
+
+Pipeline Transportation Systems for Liquids and Slurries
+
+Table 5703.6.2
+
+B31.9—2020:
+
+Building Services Piping
+
+Table 5703.6.2, 5703.6.3, 5703.6.11
+
+BPE—2009:
+
+Bioprocessing Equipment Standard
+
+
+
+BPVC—2019:
+
+ASME Boiler and Pressure Vessel Code (Sections I, II, IV, V & VI, VIII)
+
+5003.2.1, 5303.2, 5303.3.2, 5503.2.6, 5503.4.3, 5503.7, 5704.2.13.1.5, 5806.3.1, 5806.4.1, 5806.4.8
+
+ASSP
+
+ANSI/ASSP Z359.1—2020:
+
+The Fall Protection Code
+
+1015.6, 1015.7
+
+ASTM
+
+B42—15a:
+
+Specification for Seamless Copper Pipe, Standard Sizes
+
+909.13.1
+
+B43—15:
+
+Specification for Seamless Red Brass Pipe, Standard Sizes
+
+909.13.1
+
+B68/B68M—11:
+
+Specification for Seamless Copper Tube, Bright Annealed (Metric)
+
+909.13.1
+
+B88—16:
+
+Specification for Seamless Copper Water Tube
+
+909.13.1
+
+B251/B251M—17:
+
+Specification for General Requirements for Wrought Seamless Copper and Copper-alloy Tube
+
+909.13.1
+
+B280—18:
+
+Specification for Seamless Copper Tube for Air Conditioning and Refrigeration Field Service
+
+909.13.1
+
+D56—16a:
+
+Test Method for Flash Point by Tag Closed Cup Tester
+
+202
+
+D86—17:
+
+Test Method for Distillation of Petroleum Products at Atmospheric Pressure
+
+202
+
+D92—18:
+
+Test Method for Flash and Fire Points by Cleveland Open Cup Tester
+
+202, 2401.2, 5001.1, 5104.1.1, 5104.1.2, 5701.2
+
+D93—18:
+
+Test Method for Flash Point by Pensky-Martens Closed Up Tester
+
+202
+
+D323—15A:
+
+Test Method for Vapor Pressure of Petroleum Products (Reid Method)
+
+202
+
+D2859—16:
+
+Standard Test Method for Ignition Characteristics of Finished Textile Floor Covering Materials
+
+804.3.3.1, 804.3.3.2
+
+D3278—96(2011):
+
+Test Methods for Flash Point of Liquids by Small Scale Closed-cup Apparatus
+
+202
+
+D3498—03(2011):
+
+Standard Specification for Adhesives for Field-Gluing Plywood to Lumber Framing for Floor Systems
+
+701.6, 914.3.1.2, 3303.5
+
+E84—18b:
+
+Standard Test Method for Surface Burning Characteristics of Building Materials
+
+202, 803.1, 803.1.2, 803.3, 803.5.2, 803.10, 803.12, 803.13, 804.1.1, 804.1.2, 804.2.4, 3305.9
+
+E108—17:
+
+Standard Test Methods for Fire Tests of Roof Coverings
+
+317.2, 317.3
+
+E648—17a:
+
+Standard Test Method for Critical Radiant Flux of Floor-covering Systems Using a Radiant Heat Energy Source
+
+804.3.1, 804.3.2, 804.4
+
+E681—09(2015):
+
+Test Method for Concentration Limits of Flammability of Chemicals (Vapors and Gases)
+
+202
+
+E1354—17:
+
+Standard Test Method for Heat and Visible Smoke Release Rates for Materials and Products Using an Oxygen Consumption Calorimeter
+
+304.3.2, 304.3.4, 318.1, 808.1, 808.2, 2310.5.3, 3305.2.3, 3305.9, 3603.4
+
+E1529—16e1:
+
+Standard Test Method for Determining Effects of Large Hydrocarbon Pool Fires on Structural Members and Assemblies
+
+5704.2.9.2.3
+
+E1537—16:
+
+Test Method for Fire Testing of Upholstered Furniture
+
+805.1.1.2, 805.2.1.2, 805.3.1.2, 805.4.1.2
+
+E1590—17:
+
+Test Method for Fire Testing of Mattresses
+
+805.1.2.2, 805.2.2.2, 805.3.2.2.1, 805.4.2.2
+
+E1966—15:
+
+Standard Test Method for Fire-resistant Joint Systems
+
+202
+
+E2072—14:
+
+Standard Specification for Photoluminescent (Phosphorescent) Safety Markings
+
+1025.4
+
+E2404—17:
+
+Standard Practice for Specimen Preparation and Mounting of Textile, Paper or Polymeric (Including Vinyl) and Wood Wall or Ceiling Coverings, Facing and Veneers to Assess Surface Burning Characteristics
+
+803.5.1, 803.5.2, 803.12
+
+E2573—17:
+
+Standard Practice for Specimen Preparation and Mounting of Site-fabricated Stretch Systems to Assess Surface Burning Characteristics
+
+803.10
+
+E2579—15:
+
+Standard Practice for Specimen Preparation and Mounting of Wood Products to Assess Surface Burning Characteristics
+
+803.13
+
+E3082—17:
+
+Standard Test Methods for Determining the Effectiveness of Fire-retardant Treatments for Natural Christmas Trees
+
+806.1.4
+
+F1085—14:
+
+Standard Specification for Mattress and Box Springs for Use in Berths in Marine Vessels
+
+805.3.2.2.2
+
+F2006—17:
+
+Standard/Safety Specification for Window Fall Prevention Devices for Non-emergency Escape (Egress) and Rescue (Ingress) Windows
+
+1015.8
+
+F2090—17:
+
+Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms
+
+1015.8, 1015.8.1, 1031.2.1
+
+F2200—17:
+
+Standard Specification for Automated Vehicular Gate Construction
+
+503.5, 503.6
+
+F2374—21a:
+
+Standard Practice for Design, Manufacture, Operation, and Maintenance of Inflatable Amusement Devices
+
+3106.2
+
+BHMA
+
+A156.10—2017:
+
+Power-operated Pedestrian Doors
+
+1010.3.2
+
+A156.19—2019:
+
+Power Assist and Low-energy Power-operated Doors
+
+1010.3.2
+
+A156.27—2019:
+
+Power- and Manual-operated Revolving Pedestrian Doors
+
+1010.3.1, 1010.3.1.1
+
+A156.38—2019:
+
+Low-energy Power-operated Sliding and Folding Doors
+
+1010.3.2
+
+CA
+
+California Technical Bulletin 129—1992:
+
+Flammability Test Procedure for Mattresses for Use in Public Buildings
+
+805.1.2.2, 805.2.2.2, 805.3.2.2.1, 805.4.2.2
+
+California Technical Bulletin 133—1991:
+
+Flammability Test Procedure for Seating Furniture for Use in Public Occupancies
+
+805.1.1.2, 805.2.1.2, 805.4.1.2
+
+CGA
+
+ANSI/CGA G-13—(2016):
+
+Storage and Handling of Silane and Silane Mixtures (an American National Standard)
+
+6404.1, 6404.2, 6405.3
+
+ANSI/CGA P-18—(2013):
+
+Standard for Bulk Inert Gas Systems
+
+5501.1
+
+C-7—(2014):
+
+Guide to Classification and Labeling of Compressed Gases
+
+5303.4.2, 5503.4.2
+
+P-1—(2015):
+
+Standard for Safe Handling of Compressed Gases in Containers
+
+5305.7
+
+S-1.1—(2011):
+
+Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases
+
+5303.3.2, 5503.2
+
+S-1.2—(2009):
+
+Pressure Relief Device Standards—Part 2—Cargo and Portable Tanks for Compressed Gases
+
+5303.3.2, 5503.2
+
+S-1.3—(2008):
+
+Pressure Relief Device Standards—Part 3—Stationary Storage Containers for Compressed Gases
+
+5303.3.2, 5503.2
+
+V-1—(2013):
+
+Standard for Gas Cylinder Valve Outlet and Inlet Connections
+
+3505.2.1
+
+CGR
+
+46 CFR Parts 30, 32, 35 & 39—1999:
+
+Shipping
+
+5706.8
+
+CPSC
+
+16 CFR Part 1500—2009:
+
+Hazardous Substances and Articles; Administration and Enforcement Regulations
+
+202, 5601.1.3
+
+16 CFR Part 1500.41—2009:
+
+Method for Testing Primary Irritant Substances
+
+202
+
+16 CFR Part 1500.42—2009:
+
+Test for Eye Irritants
+
+202
+
+16 CFR Part 1500.44—2009:
+
+Method for Testing Extremely Flammable and Flammable Solids
+
+202
+
+16 CFR Part 1507—2002:
+
+Fireworks Devices
+
+202, 5601.1.3
+
+16 CFR Part 1630—2007:
+
+Standard for the Surface Flammability of Carpets and Rugs
+
+804.3.3.1, 804.3.3.2
+
+CSA
+
+ANSI Z21.69/CSA 6.16—2015:
+
+Connectors for Movable Gas Appliances
+
+319.5, 606.4
+
+ANSI Z83.26/CSA 2.37—2014:
+
+Gas-fired Outdoor Infrared Patio Heaters
+
+605.5.2.2.1
+
+CSA FC1—2012:
+
+Stationary Fuel Cell Power Systems
+
+1206.3
+
+CSA/ANSI NGV 2—2016:
+
+Compressed Natural Gas Vehicle Fuel Containers
+
+319.9.1.3
+
+CSA/ANSI NGV 5.1—2016:
+
+Residential Fueling Appliances
+
+2308.2.3
+
+CSA/ANSI NGV 5.2—2017:
+
+Vehicle Fueling Appliances
+
+2308.2.4
+
+DOC
+
+16 CFR Part 1632—2015:
+
+Standard for the Flammability of Mattress and Mattress Pads (FF 4-72, Amended)
+
+805.1.2.1, 805.2.2.1, 805.3.2.1, 805.4.2.1
+
+DOL
+
+29 CFR Part 1910.1000—2015:
+
+Air Contaminants
+
+202, 2104.2.1
+
+29 CFR Part 1910.1200—2015:
+
+Hazard Communication
+
+202, 5603.6
+
+DOTn
+
+33 CFR Part 154—2015:
+
+Facilities Transferring Oil or Hazardous Material in Bulk
+
+5706.8
+
+33 CFR Part 155—2015:
+
+Oil or Hazardous Material Pollution Prevention Regulations for Vessels
+
+5706.8
+
+33 CFR Part 156—2015:
+
+Oil and Hazardous Material Transfer Operations
+
+5706.8
+
+49 CFR Part 172—2015:
+
+Hazardous Materials Tables, Special Provisions, Hazardous Materials Communications, Emergency Response Information and Training Requirements
+
+5604.6.5.2
+
+49 CFR Part 173—2009:
+
+Shippers—General Requirements for Shipments and Packagings
+
+5104.1.1, 5104.1.2, 5606.3
+
+49 CFR Part 173.137—2009:
+
+Shippers—General Requirements for Shipments and Packagings: Class 8—Assignment of Packing Group
+
+202
+
+49 CFR Part 173.192—2006:
+
+Packaging for Certain Toxic Gases in Hazard Zone A
+
+Table 5003.8.2
+
+49 CFR Part 178—2015:
+
+Specifications for Packagings
+
+3505.4
+
+49 CFR Parts 100–185—2015:
+
+Hazardous Materials Regulations
+
+202, 3505.4, 5303.2, 5503.4.3, 5503.7, 5601.1, 5601.1.3, 5601.3, 5706.5.1.15
+
+DOTy
+
+27 CFR Part 555—2015:
+
+Commerce in Explosives, as amended through April 1, 1998
+
+202, 5604.6.5.2
+
+EN
+
+European Standard EN 1081—1998:
+
+Resilient Floor Coverings—Determination of the Electrical Resistance
+
+2309.5.1.1
+
+FCC
+
+47 CFR Part 90.219—2014:
+
+Private Land Mobile Radio Services—Use of Signal Boosters
+
+510.5.5
+
+FM
+
+3260—00:
+
+Radiant Energy-Sensing Fire Detectors for Automatic Fire Alarm Signaling
+
+
+
+3011—99:
+
+Approval Standard for Central Station Service for Fire Alarm and Protective Equipment Supervision
+
+907.7.5.2
+
+4430—2012:
+
+Approval Standard for Heat and Smoke Vents
+
+910.3.1
+
+ANSI/FM 4996—2019:
+
+Approval Standard for Classification of Pallets and Other Material Handling Products as Equivalent to Wood Pallets
+
+315.7.5, 3206.4.1.1
+
+ICC
+
+CBC—22:
+
+California Building Code
+
+201.3, 202, 304.1.3, 306.1, 311.1.1, 311.3, 313.1, 317.1, 322.4.2.2, 322.4.3.1, 403.7.3.4, 403.10.4, 404.2.1, 404.6.3, 404.6.4, 404.6.5, 404.6.5.3, 504.1, 508.1, 508.1.2, 510.5.1, 603.1, 604.1, 604.4, 604.5, 604.5.1, 604.5.2, 604.5.3, 604.5.4, 604.6.4.2, 604.6.4.4, 605.2.1.1, 605.3, 605.4.2.6, 605.6.2, 605.8, 701.1, 701.6, 801.1, 803.1, Table 803.3, 803.11.1, 803.11.2, 803.15, 807.2, 807.5.1.2, 808.1, 808.2, 808.5, 901.4, 901.4.1, 901.4.2, 901.4.3, 901.4.4, Table 902.2.11.6, 903.2, 903.2.21, 903.2.5.2, 903.2.6, 903.2.8, 903.2.9.1, 903.2.10, 903.3.1.1.1, 903.3.1.2, 903.3.1.2.1, 903.3.1.2.3, 903.3.2, 904.14, 905.3.9, 905.4, 907.1.1, 907.2.1, 907.2.3.1, 907.2.6.2, 907.2.6.2.2, 907.2.6.3.3, 907.2.7, 907.2.13, 907.2.18, 907.2.21, 907.2.25.2, 907.4.2.2, 907.5.2.1, Table 907.5.2.3.2, 907.6.6, 909.1, 909.2, 909.3, 909.4.3, 909.5, 909.5.3, 909.5.3.1, 909.5.3.2, 909.6.3, 909.10.5, 909.11.1, 909.18.8, 909.20.2, 909.20.2.1, 909.20.3.1, 909.20.3.2, 909.20.6.1, 909.21.1, 910.4.5, Table 911.1, 911.2, 913.2.1, 914.1, 914.2.1, 914.3.1, 914.3.2, 914.3.8, 914.3.8.2, 914.4.1, 914.5.3, 914.7, Table 914.8.3, 914.8.3.2, 914.10, 915.1.6, 1003.1, 1003.2, 1003.3.4, 1003.5, Table 1004.5, 1004.6, 1005.7.2, 1006.2.1, Table 1006.2.1, Table 1006.3.4(2), 1008.3.4, 1009.1, 1009.2, 1009.4.1, 1009.4.2, 1009.5, 1009.6.4, 1009.7.2, 1010.1.2.1, 1010.1.4, 1010.1.6, 1010.2.2, 1010.2.5, 1010.2.7, 1010.2.9, 1010.3.1, 1010.3.3, 1011.5.2, 1011.7, 1011.10, 1011.11, 1011.12.2, 1012.6.3, 1012.6.4, 1013.4, 1013.7, 1014.1, 1015.2, 1015.2.1, 1016.2, Table 1017.2, 1018.3, 1018.5, 1019.3, 1019.4, 1020.2, Table 1020.2, 1020.2.1, Table 1020.3, 1021.4, 1022.3, 1023.2, 1023.3.1, 1023.4, 1023.5, 1023.6, 1023.7, 1023.9, 1023.12, 1023.12.1, 1023.12.2, 1024.3, 1024.5, 1024.6, 1024.7, 1024.8, 1026.2, 1026.3, 1026.4.1, 1027.5, 1028.2, 1030.1.1.1, 1030.14.1, 1030.16.4, 1031.2.1, 1031.5.3, 1101.2, 1101.3, 1103.3.2, 1103.3.3, 1103.4.1, 1103.4.8, 1103.4.9.1, 1103.4.9.2.1, 1103.4.9.2.2, 1103.4.9.4, 1103.4.9.5, 1103.4.10, 1103.5.4, 1104.5, 1104.17, 1104.17.1, 1104.18, Table 1104.18, 1105.4.1, 1105.4.3.1, 1105.4.3.2, 1105.5.7, 1105.7.2, 1105.7.3, 1105.7.4, 1105.7.5, 1105.7.6, 1105.8, 1113.6.1, 1113.6.1.4.2, 1113.7, 1113.10, 1113.12.1, 1113.13.2, 1113.13.3, 1114.8, 1114.13, 1114.15, 1114.16, 1114.17, 1114.20, 1114.22, 1114.25, 1114.26, 1115.3, 1115.4, 1115.6, 1115.7, 1115.8, 1203.1, 1203.1.3, 1203.1.8, 1203.2.1, 1203.2.8, 1203.2.9, 1203.2.11, 1203.2.16, 1203.2.19, 1205.1, 1206.6.2, 1207.4.4, 1207.7.4, 1207.9.2, 1207.11.3, 2004.6, 2006.17, 2007.1, 2007.4, 2103.3, 2107.1, 2301.1, 2301.4, 2303.1, 2307.4, 2308.3, 2308.3.1, 2309.3.1.5.1, 2309.3.2, 2310.1, 2311.1, 2311.3.1, 2311.4.1, 2311.8.3, 2404.2, 2404.3.1, 2404.3.3.6, 2404.3.4, 2405.2, 2701.1, 2701.4, 2703.2.2, 2703.3.1, 2703.3.2, 2703.3.4, 2703.3.8, 2703.14, 2703.14.1, 2703.14.2, 2703.15.1, 2704.3.1, 2705.2.3.2, 2705.3.1, 2705.3.2.1, 2705.3.3, 2803.1, 2905.1, 2909.2, 2909.4, 2909.6, 3101.1, 3103.1, 3103.3.1, 3103.8.2, 3103.8.4, 3103.9.1, 3103.9.2, 3103.9.3, 3104.1, 3105.5, 3201.3, 3206.3.2, 3206.9, 3207.2, 3208.1.1, 3208.2, 3315.1, 3403.1, 3704.3, 3704.4, 3704.5, 3801.1, 3801.2, 3804.1, 3804.1.1.1, Table 3805.4, Table 3806.2.1, 3901.1, 3903.1, 3904.1, 4802.1, 4802.2, 4804.5, 4804.6, 4902, 4905.2, Table 5003.1.1(1), Table 5003.1.1(2), 5003.2.2.2, 5003.2.8, 5003.8.1, Table 5003.8.2, 5003.8.3, 5003.8.3.1, 5003.8.4.1, 5003.9.9, 5003.10.5.1, 5004.13, 5005.2, 5005.3.9, 5101.1, 5303.16.1, 5303.16.2, 5306.1, 5306.2, 5306.2.1, 5306.2.2, 5307.4.6, 5503.1.2, 5503.5.2, 5504.2.1.2, 5504.2.2.2, 5505.4.1, 5604.2, Table 5604.5.2(3), 5605.5, 5701.3, 5704.2.7.7, 5704.2.8.1, 5704.2.8.2, 5704.2.9.3, 5704.2.9.4, 5704.3.3.5, 5704.3.7.1, 5704.3.8, 5705.3.4, 5705.3.5.3, 5705.3.7.1, 5705.3.7.2, 5705.3.7.3, 5705.3.7.4, 5705.3.7.5.1, 5706.2.3, 5706.4.1, 5803.1.1, 5806.4.3, 5808.1, 5808.3, 5808.3.2, 5906.2.2, 5906.2.3, 5906.4.2, 6003.1.4.2, 6005.3.1, 6109.11.2, 6204.1.2, 6306.4, 6404.1.4, 6604.1
+
+CEBC—22:
+
+California Existing Building Code
+
+102.3, 1011.5.2, 1103.1, 1104.18, 1105.5.2
+
+CMC—22:
+
+California Mechanical Code
+
+201.3, 308.3, 605.1, 605.2.1.1, 605.2.1.2, 605.2.1.3, 605.2.1.4, 605.2.1.5, 605.3, 605.4, 605.4.2.3, 605.4.2.5, 605.6.2, 605.8, 606.1, 606.2, 608.1, 608.3, 608.4, 608.5, 608.8, 608.9.1, 608.10, 608.17, 610.1.1, 903.2.11.4, 904.13, 907.3.1, 909.1, 909.10.2, 909.13.1, 910.4.7, 915.6.1, 1006.2.2.3, 1011.16, 1020.6.1, 1207.4.7, 1207.6.1, 1207.6.1.2.2, 1207.11.7, 2104.2.1, 2105.3, 2301.1, 2301.6, 2309.3.1.2, 2311.3.1, 2311.4.3, 2311.8.2, 2311.8.8, 2311.8.10, 2404.7, 2404.7.2, 2504.5, 2703.2.2, 2703.10.4, 2703.14, 2803.2, 2803.3, 3001.1, 3003.1, 3004.2, 3107.12.1, 3107.12.2, 3703.5, 3804.1.1.7, 3904.1, Table 5003.1.1(1), 5003.8.4.2, 5003.8.5.2, 5003.8.6.2, 5004.3.1, 5303.7.6, 5303.16.9, 5305.5, 5306.2.2, 5306.2.3, 5307.4.4, 5504.2.1.3, 5504.2.2.3, 5505.4.1.1, 5701.3, 5703.6.1, 5704.2.8.9, 5705.3.7.5.1, 5706.2, 5706.4.4, 6003.1.3, 6003.2.3.2, 6004.2.2.7, 6005.3.1, 6005.3.2, 6103.2.1.7
+
+CPC—22:
+
+California Plumbing Code
+
+201.3, 903.3.5, 904.11.1.3, 912.6, 2311.2.3, 5004.2.2.6
+
+CRC—22:
+
+California Residential Code
+
+102.5, 202, 913.1, 1001.1, 1205.1, 1205.2.1
+
+ICC 300—17:
+
+Standard on Bleachers, Folding and Telescopic Seating and Grandstands
+
+1030.1.1, 1030.17
+
+ICC ES AC 331:
+
+Acceptance Criteria for Smoke and Heat Vents
+
+910.3.1
+
+ICC ES AC 77:
+
+Acceptance Criteria for Smoke Containment Systems Used with Fire-resistance-rated Elevator Hoistway Doors and Frames
+
+707.14.1
+
+ICC 500—20:
+
+ICC/NSSA Standard on the Design and Construction of Storm Shelters
+
+1031.2
+
+ICC A117.1—17:
+
+Accessible and Usable Buildings and Facilities
+
+907.5.2.3.3, 1009.8.2, 1009.9, 1009.11, 1010.2.13.1, 1012.1, 1012.6.5, 1012.10, 1013.4, 1023.11
+
+IIAR
+
+ANSI/IIAR 2—2014,
+
+including Addendum A: Safe Design of Closed-circuit Ammonia Refrigeration Systems
+
+608.1.2, 608.9
+
+ANSI/IIAR 6—2019:
+
+Standard for Inspection, Testing, and Maintenance of Closed-circuit Ammonia Refrigeration Systems
+
+608.1.2
+
+ANSI/IIAR 7—2019:
+
+Developing Operating Procedures for Closed-circuit Ammonia Refrigeration Systems
+
+608.1.2
+
+ANSI/IIAR 8—2020:
+
+Decommissioning of Closed-circuit Ammonia Refrigeration Systems
+
+608.1.2
+
+ANSI/IIAR 9—2020:
+
+Standard for Minimum System Safety Requirements for Existing Closed-circuit Ammonia Refrigeration Systems
+
+608.1.2
+
+IKECA
+
+ANSI/IKECA C10—2016:
+
+Standard for the Methodology for Cleaning of Commercial Kitchen Exhaust Systems
+
+606.3.3.2
+
+ISO
+
+ISO 8115—86:
+
+Cotton Bales—Dimensions and Density
+
+Table 2704.2.2.1, Table 5003.1.1(1)
+
+NEMA
+
+250—2018:
+
+Enclosures for Electrical Equipment (1,000 Volt Maximum)
+
+6005.2
+
+NFPA
+
+02—20:
+
+Hydrogen Technologies Code
+
+1206.3, 1206.4, 2309.1, 2309.3.1.1, 2309.3.1.2, 2309.4, 2309.6, 2311.8, 2311.8.2, 2311.8.10, 2311.8.11, 5301.1, 5801.1
+
+04—21:
+
+Standard for Integrated Fire Protection and Life Safety System Testing
+
+901.6.2.1, 901.6.2.2
+
+10—21:
+
+Standard for Portable Fire Extinguishers
+
+Table 901.6.1, 906.2, Table 906.3(1), Table 906.3(2), 906.3.2, 906.3.4, 3006.3
+
+11—16:
+
+Standard for Low-, Medium-, and High-expansion Foam
+
+904.7, 5704.2.9.2.2
+
+12—18:
+
+Standard on Carbon Dioxide Extinguishing Systems
+
+Table 901.6.1, 904.8, 904.13, 1207.5.5
+
+12A—18:
+
+Standard on Halon 1301 Fire Extinguishing Systems
+
+Table 901.6.1, 904.9
+
+13—22:
+
+Standard for the Installation of Sprinkler Systems as amended*
+
+903.2.6.2, 903.2.15, 903.2.16, 903.3.1.1, 903.3.2, 903.3.8.2, 903.3.8.5, 904.13, 905.3.4, 907.6.4, 914.3.2, 1019.3, 1019.3, 1031.2.1,1103.4.8, 1114.27, 3201.1, 3204.2, 3205.5, Table 3206.2, 3206.4.1, 3206.10, 3207.2, 3207.2.1, 3208.2.2, 3208.2.2.1, 3208.4, 3210.1, 3401.1, 5104.1, 5104.1.1, 5106.5.7, 5704.3.3.9, Table 5704.3.6.3(7), 5704.3.7.5.1, 5704.3.8.4
+
+
+
+Exceptions:
+
+1. Where allowed in accordance with Section 6.4.3.1.
+
+2.Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.
+
+(1) Combustible concealed spaces filled entirely with noncombustible insulation.
+
+(2) Light or ordinary hazard occupancies where noncombustible or limited-combustible ceilings are directly attached to the bottom of solid wood joists so as to create enclosed joist spaces 160 ft3 (4.5 m3) or less in volume, including space below insulation that is laid directly on top or within the ceiling joists in an otherwise sprinklered attic [See 11.2.3.1.5.2(9)].
+
+(3) Concealed spaces over isolated small roofs or canopies not exceeding 55 ft2 (5.1 m2).
+
+(1)The elevator machine room, machinery space, control room, control space or hoistway of traction elevator is dedicated to
+elevator equipment only.
+
+(2)The elevator machinery space, control room, control space or hoistway of traction elevators is separated from the remainder of
+the building by walls and floor/ceiling or roof/ceiling assemblies having a fire resistance rating of not less than that specified by the
+applicable building code.
+
+(3)No materials unrelated to elevator equipment are permitted to be stored in elevator machine rooms, machinery spaces, control
+rooms, control spaces or hoistways of traction elevators.
+
+(4)The elevator machinery is not of the hydraulic type.
+
+(1)Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2)Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings
+throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+(1)Wet pipe system
+
+(2)Light hazard occupancy
+
+(3)20 ft (6.1 m) maximum ceiling height
+
+(4)There are no unprotected ceiling pockets as allowed by 10.2.9 and 11.2.7 exceeding 32 ft2(3 m2)
+
+FIGURE 19.2.3.2.3.1
+
+DESIGN AREA REDUCTION FOR QUICK-RESPONSE SPRINKLERS
+
+(1)Notify the authority having jurisdiction and the property owner or property owner’s authorized representative of the time and
+date testing will be performed.
+
+(2)Perform all required testing (see Section 29.2).
+
+(3)Complete and sign the appropriate contractor’s material and test certificate(s) (see Figure A.29.1).
+
+(4)Remove all caps and straps prior to placing the sprinkler system in service.
+
+(5)Upon system acceptance by the authority having jurisdiction a label prescribed by Title 19 California Code of Regulations,
+Chapter 5 shall be affixed to each system riser.
+
+(1)All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed.
+
+(2)NFPA 25, Standard for the Inspection, testing, and maintenance of Water-Based Fire Protection Systems, 2013 California Edition.
+
+(3)Title 19, California Code of Regulations, Chapter 5, “Fire Extinguishing Systems.”
+
+(1)Location of the design area or areas
+
+(2)Discharge densities over the design area or areas
+
+(3)Required flow and pressure of the system at the base of the riser.
+
+(4)Occupancy classification or commodity classification and maximum permitted storage height and configuration
+
+(5)Hose stream allowance included in addition to the sprinkler demand
+
+(6)The name of the installing contractor
+
+(7)Required flow and pressure of the system at the water supply source.
+
+(8)Required flow and pressure of the system at the discharge side of the fire pump where a fire pump is installed.
+
+(9)Type or types and number of sprinklers or nozzles installed including the orifice size, temperature rating, orientation, K-Factor, sprinkler identification number (SIN) for sprinkler heads when applicable, and response type.
+
+(10)The minimum discharge flow rate and pressure required from the hydraulically most demanding sprinkler.
+
+(11)The required pressure settings for pressure reducing valves.
+
+(12)For deluge sprinkler systems, the required flow and pressure at the hydraulically most demanding sprinkler or nozzle.
+
+(13)The protection area per sprinkler based on the hydraulic calculations.
+
+(14)The edition of NFPA 13 to which the system was designed and installed.
+
+13D—22:
+
+Standard for the Installation of Sprinkler Systems in One- and Two-family Dwellings and Manufactured Homes as amended*
+
+903.3.1.3, 903.3.5.1.1
+
+
+
+(1)The water supply shall serve both domestic and fire sprinkler systems.
+
+(a)A test connection shall be provided downstream of the pump that creates a flow of water equal to the smallest sprinkler on the system. The connection shall return water to the tank.
+
+(b)Any disconnecting means for the pump shall be approved.
+
+(c)A method for refilling the tank shall be piped to the tank.
+
+(d)A method of seeing the water level in the tank shall be provided without having to open the tank.
+
+(e)The pump shall not be permitted to sit directly on the floor.
+
+(2) A stand-alone tank is permitted if the following conditions are met:
+
+(a)The pump shall be connected to a 220-volt circuit breaker shared with a common household appliance (e.g., range, oven, dryer),
+
+(b) The pump shall be a stainless steel 240-volt pump,
+
+(c) A valve shall be provided to exercise the pump. The discharge of the exercise valve shall drain to the tank, and
+
+(d) A sign shall be provided stating: “Valve must be opened monthly for 5 minutes.”
+
+(e) A means for automatically refilling the tank level, so that the tank capacity will meet the required water supply duration in minutes, shall be provided.
+
+(f) A test connection shall be provided downstream of the pump that creates a flow of water equal to the smallest sprinkler on the system. The connection shall return water to the tank.
+
+(g) Any disconnecting means for the pump shall be approved.
+
+(h) A method for refilling the tank shall be piped to the tank.
+
+(i) A method of seeing the water level in the tank shall be provided without having to open the tank.
+
+(j) The pump shall not be permitted to sit directly on the floor.
+
+(1) Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2) Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+13R—22:
+
+Standard for the Installation of Sprinkler Systems in Low-rise Residential Occupancies as amended*
+
+903.3.1.2, 903.3.5.1.1, 903.3.5.1.2, 903.3.5.2, 903.4
+
+
+
+(1) Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2) Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+(1) All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed.
+
+(2) NFPA 25, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems 2013 California Edition and Title 19, California Code of Regulations, Chapter 5.
+
+(3) Once the system is accepted by the authority having jurisdiction a label as prescribed by Title 19, California Code of Regulations, Chapter 5, shall be affixed to each system riser.
+
+14—19:
+
+Standard for the Installation of Standpipe and Hose System, as amended*
+
+905.2, 905.3.4, 905.4.2, 905.6.2, 905.8
+
+
+
+(1) Where a building has a fire alarm system or a sprinkler monitoring system installed, the valve shall be supervised by:
+
+(a) a central station, proprietary or remote supervising station, or
+
+(b) a local signaling service that initiates an audible signal at a constantly attended location.
+
+(2) Where a building does not have a fire alarm system or a sprinkler monitoring system installed, the valve shall be supervised by:
+
+(a) Locking the valves in the open position, or
+
+(b) Sealing of valves and an approved weekly recorded inspection where valves are located within fenced enclosures under the control of the owner.
+
+16—19:
+
+Standard for the Installation of Foam-water Sprinkler and Foam-water Spray Systems
+
+904.7, 904.13
+
+17—21:
+
+Standard for Dry Chemical Extinguishing Systems
+
+904.6, 904.13
+
+17A—21:
+
+Standard for Wet Chemical Extinguishing Systems
+
+904.5, 904.13
+
+20—19:
+
+Standard for the Installation of Stationary Pumps for Fire Protection
+
+412.2.4.1, 913.1, 913.2, 913.2.1, 913.5
+
+24—19:
+
+Standard for Installation of Private Fire Service Mains and Their Appurtenances, as amended*
+
+3109F
+
+
+
+Exceptions
+
+1.Where allowed in accordance with 10.4.3.2.
+
+2. Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.
+
+25—13CA:
+
+California NFPA 25 Edition (Based on the 2011 Edition)Inspection, Testing and Maintenance of Water-based Fire Protection Systems
+
+Chapter 31F, 3108F
+
+30—21:
+
+Flammable and Combustible Liquids Code
+
+415.6.1, 415.6.2, 507.8.1.1.1, 507.8.1.1.2
+
+30A—21:
+
+Code for Motor Fuel Dispensing Facilities and Repair Garages
+
+406.2.9.2
+
+31—20:
+
+Standard for the Installation of Oil-burning Equipment
+
+2113.15
+
+32—16:
+
+Standard for Dry Cleaning Facilities, as amended*
+
+415.9.3, 2101.1.1
+
+
+
+37—18:
+
+Installation and Use of Stationary Combustion Engines and Gas Turbines
+
+40—19:
+
+Standard for the Storage and Handling of Cellulose Nitrate Film
+
+409.1
+
+
+
+51—18:
+
+Design and Installation of Oxygen-fuel Gas Systems for Welding, Cutting and Allied Processes
+
+3501.5, 3507.1, 3509.1
+
+52—19:
+
+Vehicular Gaseous Fuel System Code
+
+319.9.2, 5301.1
+
+54—18:
+
+National Fuel Gas Code
+
+55—19:
+
+Compressed Gases and Cryogenic Fluids Code
+
+3508.1, 5301.1, 5307.4.2, 5501.1, 5801.1, 6301.1
+
+56—20:
+
+Standard for Fire and Explosion Prevention during Cleaning and Purging of Flammable Gas Piping Systems
+
+3307.2.1
+
+58—20:
+
+Liquefied Petroleum Gas Code
+
+415.9.2
+
+61—20:
+
+Standard for the Prevention of Fires and Dust Explosions in Agricultural and Food Product Facilities
+
+426.1
+
+68—13:
+
+Standard on Explosion Protection by Deflagration Venting
+
+Table 414.5.1, 911.1 , 911.4 , Table 2205.1
+
+70—20:
+
+National Electrical Code
+
+108.3, 406.2.7, 406.2.9, 412.5.7, 415.11.1.8, Table 509.1, 904.3.1, 907.6.1, 909.12.2, 909.16.3, 910.4.6, 1204.4.1, 2701.1, 2702.1.3, 3111.3
+
+72—22:
+
+National Fire Alarm and Signaling Code, as amended*
+
+508.1.6, 604.6.3, Table 901.6.1, 903.4.1, 904.3.5, 907.1.2, 907.1.5, 907.2, 907.2.6, 907.2.6.3.3, 907.2.9.3, 907.2.11, 907.2.11.8, 907.2.13.2, 907.2.26.1, 907.2.26.4, 907.3, 907.3.3, 907.3.4, 907.5.2.1.2, 907.5.2.1.3, 907.5.2.1.3.1, 907.5.2.1.3.2, 907.5.2.2, 907.5.2.3.3, 907.5.2.3.4, 907.6, 907.6.1, 907.6.1.1, 907.6.2, 907.6.4.1, 907.6.6, 907.6.6.1, 907.6.6.4, 907.7, 907.7.1, 907.7.2, 907.8, 907.8.2, 907.8.2.4, 907.8.4, 917.1, 1009.12, 1103.3.2, 1203.2.4, 1207.5.4, 1207.6.1.2.3, 1207.6.1.2.4, Table 1207.7, 2810.11
+
+
+
+(1) For a distance not to exceed 10 ft (3.0 m) where the outgoing and return conductors enter or exit the initiating device, notification appliance or control unit enclosures.
+
+(2) Single drops installed in the raceway to individual devices or appliances.
+
+(3)*In a single room not exceeding 1000 ft2 (93 m2) in area, a drop installed in the raceway to multiple devices or appliances that does not include any emergency control function devices.
+
+(4) Where the vertically run conductors are contained in a 2-hour rated cable assembly, or enclosed (installed) in a 2-hour rated enclosure or a listed circuit integrity (C.I.) cable, which meets or exceeds a 2-hour fire-resistive rating.
+
+Exception: Fire alarm systems dedicated to elevator recall control, supervisory service and fire sprinkler monitoring as permitted in section 17.15 of NFPA 72 .
+
+(1) The alarm verification feature is not initially enabled unless conditions or occupant activities that are expected to cause nuisance alarms are anticipated in the area that is protected by the smoke detectors. Enabling of the alarm verification feature shall be protected by password or limited access.
+
+(2) A smoke detector that is continuously subjected to a smoke concentration above alarm threshold does not delay the system functions of Sections 10.7 through 10.16, 23.8.1.1 or 21.2.1 by more than 30 seconds.
+
+(3) Actuation of an alarm-initiating device other than a smoke detector causes the system functions of Sections 10.7 through 10.16, 23.8.1.1 or 21.2.1 without additional delay.
+
+(4) The current status of the alarm verification feature is shown on the record of completion (see Figure 7.8.2(a), Item 4.3).
+
+(5) Operation of a patient room smoke detector in I-2 and R-2.1 occupancies shall not include an alarm verification feature.
+
+
+
+76—16:
+
+Standard for the Fire Protection of Telecommunications Facilities
+
+1207.1.2.1, 1207.2.1, 1207.3.1, 1207.3.7.1, 1207.4.1, 1207.5.1, 1207.5.2, 1207.5.3, 1207.5.5,
+Table 1207.6, 1207.6.2.3, Table 1207.7
+
+80—19:
+
+Standard for Fire Doors and Other Opening Protectives
+
+410.2.5, 509.4.2, 716.1, 716.2.5.1, 716.2.6.4, 716.2.9, 716.3.4.1, 716.3.5, 716.4.3, 1010.3.3
+
+82—19:
+
+Standard on Incinerators and Waste and Linen Handling Systems and Equipment
+
+713.13
+
+85—19:
+
+Boiler and Combustion System Hazards Code
+
+426.1
+
+92—18:
+
+Standard for Smoke Control Systems
+
+909.7, 909.8
+
+96—20:
+
+Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations
+
+606.2, 904.13
+
+99—21:
+
+Health Care Facilities Code
+
+407.11, 422.6, 425.1
+
+101—21:
+
+Life Safety Code
+
+1030.6.2
+
+105—19:
+
+Standard for Smoke Door Assemblies and Other Opening Protectives
+
+405.4.2, 710.5.2.2, 716.2.10, 909.20.4.1
+
+110—19:
+
+Standard for Emergency and Standby Power Systems
+
+2702.1.3, 3111F
+
+111—19:
+
+Standard on Stored Electrical Energy Emergency and Standby Power Systems
+
+2702.1.3, 3111F
+
+120—20:
+
+Standard for Fire Prevention and Control in Coal Mines
+
+426.1
+
+170—18:
+
+Standard for Fire Safety and Emergency Symbols
+
+1025.2.6.1
+
+211—19:
+
+Standard for Chimneys, Fireplaces, Vents and Solid Fuel-burning Appliances
+
+2112.5
+
+221—21:
+
+Standard for High Challenge Fire Walls, Fire Walls and Fire Barrier Walls
+
+706.2, Table 716.1(2)
+
+241—19:
+
+Standard for Safeguarding Construction, Alteration and Demolition Operations
+
+3301.1, 3303.2
+
+252—17:
+
+Standard Methods of Fire Tests of Door Assemblies
+
+Table 716.1(1), 716.1.1, 716.1.2.2.1, 716.2.1.1, 716.2.1.2, 716.2.2.1, 716.2.2.2, 716.2.2.3.1,
+716.2.5.1.1
+
+253—19:
+
+Standard Method of Test for Critical Radiant Flux of Floor Covering Systems Using a Radiant Heat Energy Source
+
+406.2.4, 424.2, 804.2, 804.3
+
+257—17:
+
+Standard for Fire Test for Window and Glass Block Assemblies
+
+Table 716.1(1), 716.1.1, 716.1.2.2.2, 716.3.1.1, 716.3.1.2, 716.3.2.1.3, 716.3.4
+
+259—18:
+
+Standard Test Method for Potential Heat of Building Materials
+
+2603.4.1.10, 2603.5.3
+
+260—19
+
+Methods of Tests and Classification System for Cigarette Ignition Resistance of Components of Upholstered Furniture
+
+805.1.1.1, 805.2.1.1, 805.3.1.1, 805.4.1.1
+
+265—19:
+
+Standard Methods of Fire Tests for Evaluating Room Fire Growth Contribution of Textile or Expanded Vinyl Wall
+Coverings on Full Height Panels and Walls
+
+803.5.1, 803.5.1.1
+
+268—19:
+
+Standard Test Method for Determining Ignitability of Exterior Wall Assemblies Using a Radiant Heat Energy Source
+
+1405.1.1.1, 1405.1.1.1.1, 1405.1.1.1.2, 2603.5.7
+
+275—17:
+
+Standard Method of Fire Tests for the Evaluation of Thermal Barriers
+
+508.4.4.1, 509.4.1.1, 1406.10.2, 1408.10.2, 2603.4
+
+276—19:
+
+Standard Method of Fire Tests for Determining the Heat Release Rate of Roofing Assemblies with Combustible Above-deck Roofing Components
+
+1508.1, 2603.3, 2603.4.1.5
+
+285—19:
+
+Standard Fire Test Method for the Evaluation of Fire Propagation Characteristics of Exterior Nonload-bearing Wall
+Assemblies Containing Combustible Components
+
+718.2.6, 1402.5, 1406.10.3, 1408.10.4, 1511.6.2, 2603.5.5
+
+286—15:
+
+Standard Methods of Fire Test for Evaluating Contribution of Wall and Ceiling Interior Finish to Room Fire Growth
+
+402.6.4.4, 424.2, 803.1.1, 803.1.1.1, 803.11, 803.12, 803.13, 1406.10.2, 1408.10.3, 2603.7, 2603.9, 2604.2.4, 2614.4, 3105.3
+
+288—17:
+
+Standard Methods of Fire Tests of Horizontal Fire Door Assemblies Installed in Horizontal in Fire-resistance-rated Floor Systems
+
+712.1.13.1
+
+289—19:
+
+Standard Method of Fire Test for Individual Fuel Packages
+
+402.6.2, 402.6.4.5, 424.2, 806.4
+
+409—16:
+
+Standard for Aircraft Hangars
+
+412.3.6, Table 412.3.6, 412.3.6.1, 412.5.5
+
+418—16:
+
+Standard for Heliports
+
+412.7.4
+
+484—19:
+
+Standard for Combustible Metals
+
+426.1
+
+495—18:
+
+Explosive Materials Code
+
+202, 911.1, 911.4, 5601.1.1, 5601.1.5, 5604.2, 5604.6.2, 5604.6.3, 5604.7.1, 5605.1, 5606.1, 5606.5.2.1, 5605.2.3, 5607.1, 5607.9, 5607.11, 5607.15
+
+502—14:
+
+Standard for Road Tunnels, Bridges, and Other Limited Access Highways
+
+429
+
+652—19:
+
+Standard on the Fundamentals of Combustible Dust
+
+426.1
+
+654—20:
+
+Standard for the Prevention of Fire and Dust Explosions from the Manufacturing, Processing and Handling of Combustible Particulate Solids
+
+426.1
+
+655—17:
+
+Standard for the Prevention of Sulfur Fires and Explosions
+
+426.1
+
+664—20:
+
+Standard for the Prevention of Fires and Explosions in Wood Processing and Woodworking Facilities
+
+426.1
+
+701—19:
+
+Standard Methods of Fire Tests for Flame Propagation of Textiles and Films
+
+410.2.6, 424.2, 806.4, 3102.3, 3102.3.1, 3102.6.1.1, 3105.3
+
+704—17:
+
+Standard System for the Identification of the Hazards of Materials for Emergency Response
+
+202, 415.5.2
+
+750—19:
+
+Standard on Water Mist Fire Protection Systems
+
+202, 904.11.1.1, 904.13
+
+1123—18:
+
+Code for Fireworks Display
+
+202, 5604.2, 5608.1, 5608.2.2, 5608.5, 5608.6
+
+1124—06:
+
+Code for the Manufacture, Transportation and Storage and Retail Sales of Fireworks and Pyrotechnic Articles
+
+5601.1.3
+
+1124—17:
+
+Code for the Manufacture, Transportation and Storage and Retail Sales of Fireworks and Pyrotechnic Articles
+
+202, 5604.2, 5605.1, 5605.3, 5605.4, 5605.5, 5609.1
+
+1221—19:
+
+Standard for the Installation, Maintenance and Use of Emergency Services Communications Systems
+
+510.4.2, 510.5
+
+2001—18:
+
+Standard on Clean Agent Fire Extinguishing Systems, as amended*
+
+904.10
+
+
+
+2010—20:
+
+Standard for Fixed Aerosol Fire-extinguishing Systems
+
+904.12
+
+2245—2006:
+
+Below-grade Vaults for Flammable Liquid Storage Tanks
+
+5704.2.8.1
+
+2335—2010:
+
+Fire Tests of Storage Pallets—with revisions through August 2017
+
+315.7.5, 3206.4.1.1
+
+2360—2000:
+
+Test Methods for Determining the Combustibility Characteristics of Plastics Used in Semi-conductor Tool Construction—with revisions through October 2017
+
+2703.10.1.2
+
+2524—2019:
+
+Standard for In-building 2-way Emergency Radio Communication Enhancement Systems
+
+510.4
+
+9540 Edition 2—2020:
+
+Standard for Energy Storage Systems and Equipment
+
+1207.3.1, 1207.3.2, 1207.3.7, 1207.10.6, 1207.10.7.4, 1207.11.1, 1207.11.5
+
+9540A Edition 4—2019:
+
+Standard for Safety Test Method for Evaluating Thermal Runaway Fire Propagation in Battery Energy Storage Systems
+
+1207.1.5, 1207.6.3
+
+60601-1—2003:
+
+Medical Electrical Equipment, Part I: General Requirements for Safety
+
+603.5.1.1
+
+60950-1—2014:
+
+Information Technology Equipment—Safety Requirements
+
+320.2.1
+
+62368-1—2014:
+
+Audio/video, Information and Communication Technology Equipment—Safety Requirements
+
+320.2.1
+
+SFM
+
+SFM 12-3
+
+Releasing Systems for Security Bars in Dwellings
+
+SFM 12-7-3
+
+Fire-testing Furnaces
+
+SFM 12-7A-1
+
+Exterior Wall Siding and Sheathing
+
+SFM 12-7A-2
+
+Exterior Window
+
+SFM 12-7A-3
+
+Under Eave
+
+SFM 12-7A-4
+
+Decking
+
+SFM 12-7A-4A
+
+Decking Alternate Method A
+
+SFM 12-7A-5
+
+Ignition Resistant Building Material
+
+SFM 12-8-100
+
+Room Fire Tests for Wall and Ceiling Materials
+
+SFM 12-10-1
+
+Power Operated Exit Doors
+
+SFM 12-10-2
+
+Single Point Latching or Locking Devices
+
+SFM 12-10-3
+
+Emergency Exit and Panic Hardware
+
+(The Office of the State Fire Marshal standards referred to above are found in the California Code of Regulations, Title 24, Part 12.)
+
+UL
+
+10C—2016:
+
+Positive Pressure Fire Tests of Door Assemblies
+
+1010.2.9.3
+
+13—96:
+
+Power-limited Circuit Cables
+
+30—1995:
+
+Metal Safety Cans—with revisions through June 2014
+
+5003.9.10, 5005.1.10, 5705.2.4, 5707.2
+
+38—99:
+
+Manually Actuated Signaling Boxes—with Revisions through February 2, 2005 as amended.*
+
+
+
+58—2018:
+
+Steel Underground Tanks for Flammable and Combustible Liquids
+
+5704.2.13.1.5
+
+80—2007:
+
+Steel Tanks for Oil-burner Fuels and Other Combustible Liquids—with revisions through January 2014
+
+319.7.1, 605.4.2.1, 605.4.2.2, 607.2
+
+87A—2015:
+
+Power-operated Dispensing Devices for Gasoline and Gasoline/Ethanol Blends with Nominal Ethanol Concentrations up to 85 Percent—with revisions through June 2017
+
+2306.8.1
+
+142—2006:
+
+Steel Aboveground Tanks for Flammable and Combustible Liquids—with revisions through August 2014
+
+319.7.1, 605.4.1.1, 605.4.2.1, 605.4.2.2, 607.2, 2306.2.3
+
+193—04:
+
+Alarm Valves for Fire-Protection Service
+
+199—95:
+
+Automatic Sprinklers for Fire Protection Service—with Revisions through August 19, 2005
+
+199E—2004:
+
+Outline of Investigation for Fire Testing of Sprinklers and Water Spray Nozzles for Protection of Deep Fat Fryers
+
+904.13.4.1
+
+217—2015:
+
+Single and Multiple Station Smoke Alarms—with revisions through November 2016
+
+907.2.11, 915.4.4
+
+228—97:
+
+Door Closers/Holders, with or without Integral Smoke Detectors—with Revisions through January 26, 2006
+
+260—04:
+
+Dry Pipe and Deluge Valves for Fire Protection Service
+
+262—04:
+
+Gate Valves for Fire Protection Service
+
+268—2016:
+
+Smoke Detectors for Fire Alarm Systems—with revisions through July 2016
+
+907.2.6.2, 907.2.11.7, 915.5.3
+
+268A—09:
+
+Smoke Detectors for Duct Application—with Revisions through October 22, 2003
+
+294—2018:
+
+Access Control System Units—with revisions through October 2018
+
+1010.2.11, 1010.2.12, 1010.2.13.1, 1010.2.14
+
+300—2005:
+
+Fire Testing of Fire Extinguishing Systems for Protection of Commercial Cooking Equipment—with revisions through December 2014
+
+904.13
+
+300A—2006:
+
+Outline of Investigation for Extinguishing System Units for Residential Range Top Cooking Surfaces
+
+904.14.1.1
+
+305—2012:
+
+Panic Hardware—with revisions through March 2017
+
+1010.2.9.3
+
+312—04:
+
+Check Valves for Fire-Protection Service
+
+325—2017:
+
+Standard for Door, Drapery, Gate, Louver and Window Operators and Systems
+
+503.5, 503.6
+
+498A—2008:
+
+Current Taps and Adaptors—with revisions through June 2016
+
+603.5.1
+
+346—05:
+
+Waterflow Indicators for Fire Protective Signaling Systems
+
+464—03:
+
+Audible Signal Appliances—with Revisions through October 10, 2003
+
+497B—04:
+
+Protectors for Data Communication and Fire Alarm Circuits
+
+499—2014:
+
+Standard for Electrical Heating Appliances—with revisions through February 2017
+
+607.6
+
+521—99:
+
+Heat Detectors for Fire Protective Signaling Systems—with Revisions through July 20, 2005
+
+539—00:
+
+Single- and Multiple-Station Heat Detectors—with Revisions through August 15, 2005
+
+632—00:
+
+Electrically Actuated Transmitters
+
+647—1993:
+
+Standard for Unvented Kerosene-fired Room Heaters and Portable Heaters—with revisions through April 2010
+
+605.5
+
+710—2012:
+
+Exhaust Hoods for Commercial Cooking Equipment—with revisions through June 2018
+
+606.2
+
+710B—2011:
+
+Recirculating Systems—with revisions through August 2014
+
+606.2, 904.13
+
+723—2018:
+
+Standard for Test for Surface Burning Characteristics of Building Materials
+
+202, 803.1, 803.1.2, 803.3, 803.5.2, 803.10, 803.12, 803.13, 804.1.1, 804.1.2, 804.2.4, 3305.9
+
+753—04:
+
+Alarm Accessories for Automatic Water Supply Valves for Fire Protection Service
+
+790—2004:
+
+Standard Test Methods for Fire Tests of Roof Coverings—with revisions through October 2018
+
+317.2, 317.3, 1207.9.5
+
+791—2006:
+
+Standard for Residential Incinerators—with revisions through November 2014
+
+605.8.1
+
+791—06:
+
+Standard for Residential Incinerators
+
+605.8
+
+793—2008:
+
+Automatically Operated Roof Vents for Smoke and Heat—with revisions through March 2017
+
+910.3.1
+
+813—96:
+
+Commercial Audio Equipment—with Revisions through December 7, 1999
+
+817—2015:
+
+Standard for Cord Sets and Power-supply Cords—with revisions through August 2018
+
+603.6
+
+864—2014:
+
+Control Units and Accessories for Fire Alarm Systems—with revisions through March 2018
+
+909.12
+
+
+
+900—2015:
+
+Air Filter Units
+
+2404.7.8
+
+924—2016:
+
+Standard for Safety Emergency Lighting and Power Equipment—with revisions through May 2018
+
+1013.5, 3103.12.6.1
+
+971A—2006:
+
+Outline of Investigation for Metallic Underground Fuel Pipe
+
+Table 5703.6.2
+
+1037—2016:
+
+Antitheft Alarms and Devices—with revisions through September 2017
+
+506.1
+
+1046—2010:
+
+Grease Filters for Exhaust Ducts—with revisions through April 2017
+
+606.3.1
+
+1275—2014:
+
+Flammable Liquid Storage Cabinets—with revisions through February 2018
+
+5003.8.7.1, 5704.3.2.1.1
+
+1313—2015:
+
+Nonmetallic Safety Cans for Petroleum Products
+
+5003.9.10
+
+1315—2017:
+
+Safety for Metal Waste Paper Containers
+
+808.1, 808.2
+
+1316—1994:
+
+Glass Fiber Reinforced Plastic Underground Storage Tanks for Petroleum Products, Alcohols and Alcohol-gasoline Mixtures—with revisions through May 2006
+
+5704.2.13.1.5
+
+1363—2018:
+
+Relocatable Power Taps
+
+603.5.1
+
+1363A—2014:
+
+Outline of Investigation for Special Purpose Relocatable Power Taps
+
+603.5.1.1
+
+1369—2018:
+
+Aboveground Piping Requirements
+
+Table 5703.6.2
+
+1389—2019:
+
+Plant Oil Extraction Equipment for Installation and Use in Ordinary (Unclassified) Locations and Hazardous (Classified) Locations
+
+3904.2.1
+
+1489—2016:
+
+Fire Resistant Pipe Protection Systems Carrying Combustible Liquids
+
+1203.1.2
+
+1741—2010:
+
+Inverters, Converters, Controllers and Interconnection System Equipment for Use with Distributed Energy Resources— with revisions through February 2018
+
+1207.3.3, 1207.11.5
+
+1805—2002:
+
+Laboratory Hoods and Cabinets—with revisions through June 2006
+
+3805.2.2
+
+1973—2018:
+
+Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER) Applications and Stationary Applications
+
+Table 1207.6
+
+1974—2017:
+
+Standard for Evaluation for Repurposing Batteries
+
+1207.3.9
+
+1975—2006:
+
+Fire Tests for Foamed Plastics Used for Decorative Purpose
+
+807.5.1.1, 808.3
+
+1994—2015:
+
+Standard for Luminous Egress Path Marking Systems
+
+1008.2.1, 1025.2.1, 1025.2.3, 1025.2.4, 1025.2.5, 1025.4
+
+2011—2019:
+
+Outline for Machinery
+
+320.2.1, 320.3.2
+
+2017—2008:
+
+General-purpose Signaling Devices and Systems—with revisions through January 2016
+
+3905.1.2
+
+2034—2017:
+
+Single and Multiple Station Carbon Monoxide Alarms—with revisions through September 2018
+
+915.4.2, 915.4.4
+
+2075—2013:
+
+Standard for Gas and Vapor Detectors and Sensors—with revisions through December 2017
+
+915.5.1, 915.5.3
+
+2079—2015:
+
+Tests for Fire Resistance of Building Joint Systems
+
+202
+
+2085—1997:
+
+Protected Aboveground Tanks for Flammable and Combustible Liquids—with revisions through September 2010
+
+202, 605.4.1.1, 605.4.2.1, 605.4.2.2, 2306.2.2, 2306.2.3, 5704.2.7.4, 5704.2.9.2.3, 5704.2.9.7.4, 5705.3.8.2
+
+2152—2016:
+
+Outline of Investigation for Special Purpose Nonmetallic Containers and Tanks for Specific Combustible or Noncombustible Liquids
+
+607.3
+
+2196—2017:
+
+Standard for Fire Test for Circuit Integrity of Fire-resistive Power, Instrumentation, Control and Data Cables
+
+913.2.2, 1203.3
+
+2200—2012:
+
+Stationary Engine Generator Assemblies—with revisions through October 2015
+
+1203.1.1
+
+2201—2018:
+
+Standard for Carbon Monoxide (CO) Emission Rate of Portable Generators
+
+1204.2
+
+2208—2010:
+
+Solvent Distillation Units—with revisions through September 2015
+
+5705.4.1
+
+2245—2006:
+
+Below-grade Vaults for Flammable Liquid Storage Tanks
+
+5704.2.8.1
+
+2335—2010:
+
+Fire Tests of Storage Pallets—with revisions through August 2017
+
+315.7.5, 3206.4.1.1
+
+2360—2000:
+
+Test Methods for Determining the Combustibility Characteristics of Plastics Used in Semi-conductor Tool Construction—with revisions through October 2017
+
+2703.10.1.2
+
+2524—2019:
+
+Standard for In-building 2-way Emergency Radio Communication Enhancement Systems
+
+510.4
+
+9540—2016:
+
+Standard for Energy Storage Systems and Equipment
+
+1207.3.1, 1207.3.2, 1207.3.7, 1207.10.6, 1207.10.7.4, 1207.11.1, 1207.11.5
+
+9540A—2017:
+
+Standard for Safety Test Method for Evaluating Thermal Runaway Fire Propagation in Battery Energy Storage Systems
+
+1207.1.5, 1207.6.3
+
+60601-1—2003:
+
+Medical Electrical Equipment, Part I: General Requirements for Safety
+
+603.5.1.1
+
+60950-1—2014:
+
+Information Technology Equipment—Safety Requirements
+
+320.2.1
+
+62368-1—2014:
+
+Audio/video, Information and Communication Technology Equipment—Safety Requirements
+
+320.2.1
+
+USC
+
+18 USC Part 1, Chapter 40:
+
+Importation, Manufacture, Distribution and Storage of Explosive Materials
+
+202
+
+21 USC Chapter 9:
+
+United States Food, Drug and Cosmetic Act
+
+202
+

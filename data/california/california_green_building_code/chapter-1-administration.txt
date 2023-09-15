@@ -1,0 +1,388 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 1 – ADMINISTRATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter																						
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below		X		X				X	X		X		X									
+Chapter/Section																						
+101		X		X				X	X		X		X									
+102		X		X				X	X		X		X									
+103		X																				
+104				X																		
+105								X														
+106									X		X		X									CHAPTER 1 ADMINISTRATION ADMINISTRATION
+
+SECTION 101 GENERAL
+
+101.1 Title.
+
+These regulations shall be known as the California Green Building Standards Code, may be cited as such, and will be referred to herein as “this code.” It is intended that it shall also be known as the CALGreen Code. The California Green Building Standards Code is Part 11 of thirteen parts of the official compilation and publication of the adoption, amendment and repeal of building regulations to the California Code of Regulations, Title 24, also referred to as the California Building Standards Code.
+
+101.2 Purpose.
+
+The purpose of this code is to improve public health, safety and general welfare by enhancing the design and construction of buildings through the use of building concepts having a reduced negative impact or positive environmental impact and encouraging sustainable construction practices in the following categories:
+
+1.Planning and design.
+
+2.Energy efficiency.
+
+3.Water efficiency and conservation.
+
+4.Material conservation and resource efficiency.
+
+5.Environmental quality.
+
+101.3 Scope.
+
+The provisions of this code shall apply to the planning, design, operation, construction, use and occupancy of every newly constructed building or structure, unless otherwise indicated in this code, throughout the State of California.
+
+It is not the intent that this code substitute or be identified as meeting the certification requirements of any green building program.
+
+101.3.1 State-regulated buildings, structures and applications.
+
+Provisions of this code shall apply to the following buildings, structures and applications regulated by state agencies as specified in Sections 103 through 106, except where modified by local ordinance pursuant to Section 101.7. When adopted by a state agency, the provisions of this code shall be enforced by the appropriate enforcing agency, but only to the extent of authority granted to such agency by statute.
+
+1.State-owned buildings, including buildings constructed by the Trustees of the California State University, and to the extent permitted by California law, buildings designed and constructed by the Regents of the University of California and regulated by the Building Standards Commission. See Section 103 for additional scoping provisions.
+
+2.Energy efficiency standards regulated by the California Energy Commission.
+
+3.All residential buildings constructed throughout the State of California, including but not limited to, hotels, motels, lodging houses, apartments, dwellings, dormitories, condominiums, shelters for homeless persons, congregate residences, employee housing, factory-built housing and other types of dwellings containing sleeping accommodations with or without common toilets or cooking facilities regulated by the Department of Housing and Community Development. See Section 104 for additional scoping provisions.
+
+4.Public elementary and secondary schools, and community college buildings regulated by the Division of the State Architect. See Section 105 for additional scoping provisions.
+
+5.Qualified historical buildings and structures and their associated sites regulated by the State Historical Building Safety Board within the Division of the State Architect.
+
+6.General acute care hospitals, acute psychiatric hospitals, skilled nursing and/or intermediate care facilities, clinics licensed by the Department of Public Health and correctional treatment centers regulated by the Office of Statewide Health Planning and Development. See Section 106 for additional scoping provisions.
+
+7.Graywater systems regulated by the Department of Water Resources and the Department of Housing and Community Development.
+
+8.Green building standards for occupancies where no state agency has authority or expertise, adopted by the California Building Standards Commission. See Section 103 for additional scoping provisions.
+
+101.4 Appendices.
+
+Provisions contained in the appendices of this code are not mandatory unless specifically adopted by a city, county, or city and county in compliance with Health and Safety Code Sections 18930 and 18941.5, respectively, for Building Standards Law; Health and Safety Code Section 17950 for State Housing Law; and Health and Safety Code Section 13869.7 for Fire Protection Districts. See Section 101.7 of this code.
+
+101.5 Referenced codes and standards.
+
+The codes and standards referenced elsewhere in this code shall be considered part of the requirements of this code to the prescribed extent of each such reference.
+
+101.5.1 Building.
+
+The provisions of the California Building Code, California Residential Code and California Existing Building Code, as applicable, shall apply to the construction, alteration, movement, enlargement, replacement, repair, use and occupancy, location, maintenance, removal and demolition of every structure or any appurtenances connected or attached to such buildings or structures.
+
+101.5.2 Electrical.
+
+The provisions of the California Electrical Code shall apply to the installation of electrical systems, including but not limited to, alterations, repair, replacement, equipment, appliances, fixtures, fittings and appurtenances thereto.
+
+101.5.3 Mechanical.
+
+The provisions of the California Mechanical Code shall apply to the installation, alterations, repair and replacement of mechanical systems, including equipment, appliances, fixtures, fittings and/or appurtenances, including ventilating, heating, cooling, air-conditioning and refrigeration systems, incinerators and other energy-related systems.
+
+101.5.4 Plumbing.
+
+The provisions of the California Plumbing Code shall apply to the installation, alteration, repair and replacement of plumbing systems, including equipment, appliances, fixtures, fittings and appurtenances where connected to a water or sewage system.
+
+101.5.5 Fire prevention.
+
+The provisions of CCR, Title 19, Division 1 and CCR, Title 24, Part 2 and Part 9 relating to fire and panic safety as adopted by the Office of the State Fire Marshal shall apply to all structures, processes and premises for protection from the hazard of fire, panic and explosion.
+
+101.5.6 Energy.
+
+The provisions of the California Energy Code shall apply to the minimum design and construction of buildings for energy efficiency.
+
+101.6 Order of precedence and use.
+
+101.6.1 Differences.
+
+In the event of any differences between these building standards and the standard reference documents, the text of these building standards shall govern. In the event a local amendment to this code results in differences between these building standards and the amendment, the text of the amendment shall govern.
+
+101.6.2 Specific provision.
+
+Where a specific provision varies from a general provision, the specific provision shall apply.
+
+101.6.3 Conflicts.
+
+When the requirements of this code conflict with the requirements of any other part of the California Building Standards Code, Title 24, the most restrictive requirement shall prevail.
+
+101.6.4 Explanatory notes.
+
+Explanatory material, such as references to websites or other sources where additional information may be found, is included in this code in the form of notes. Notes are informational only and are not enforceable requirements of this code.
+
+101.7 City, county, or city and county amendments, additions or deletions.
+
+This code is intended to set mandatory minimum Green Building Standards and includes optional tiers that may, at the discretion of any city, county, or city and county, be applied.
+
+This code does not limit the authority of city, county, or city and county governments to make necessary changes to the provisions contained in this code pursuant to Section 101.7.1. The effective date of amendments, additions or deletions to this code for cities, counties, or cities and counties filed pursuant to Section 101.7.1 shall be the date on which it is filed. However, in no case shall the amendments, additions or deletions to this code be effective any sooner than the effective date of this code.
+
+Local modifications shall comply with Health and Safety Code Section 18941.5(b) for Building Standards Law, Health and Safety Code Section 17958.5 for State Housing Law or Health and Safety Code Section 13869.7 for Fire Protection Districts.
+
+101.7.1 Findings and filings.
+
+1.The city, county, or city and county shall make express findings for each amendment, addition or deletion based upon climatic, topographical or geological conditions. For the purpose of this section, climatic, topographical or geological conditions include local environmental conditions as established by the city, county, or city and county.
+
+2.The city, county, or city and county shall file the amendments, additions or deletions expressly marked and identified as to the applicable findings. Cities, counties, cities and counties, and fire departments shall file the amendments, additions or deletions and the findings with the California Building Standards Commission at 2525 Natomas Park Drive, Suite 130, Sacramento, CA 95833.
+
+3.Findings prepared by fire protection districts shall be ratified by the local city, county, or city and county and filed with the California Department of Housing and Community Development at 9342 Tech Center Drive, Suite 500, Sacramento, CA 95826.
+
+4.The city, county, or city and county shall obtain California Energy Commission approval for any energy-related ordinances consistent with Public Resources Code Section 25402.1(h)(2) and Title 24, Part 1, Section 10-106. Local governmental agencies may adopt and enforce energy standards for newly constructed buildings, additions, alterations and repairs, provided the California Energy Commission finds that the standards will require buildings to be designed to consume no more energy than permitted by Part 6. Such local standards include, but are not limited to, adopting the requirements of Part 6 before their effective date, requiring additional energy conservation measures, or setting more stringent energy budgets.
+
+101.8 Alternate materials, designs and methods of construction.
+
+The provisions of this code are not intended to prevent the use of any alternate material, appliance, installation, device, arrangement, method, design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved. An alternate shall be approved on a case-by-case basis where the enforcing agency finds that the proposed alternate is satisfactory and complies with the intent of the provisions of this code and is at least the equivalent of that prescribed in this code in planning and design, energy, water, material conservation and resource efficiency, environmental air quality, performance, safety and the protection of life and health. Consideration and compliance provisions for occupancies regulated by adopting state agencies are found in the sections listed below.
+
+1.Section 1.2.3 in the California Building Code (CBC) for the California Building Standards Commission.
+
+2.Section 104.11 of Chapter 1, Division II for the Division of the State Architect.
+
+3.Section 1.8.7, Chapter 1, Division I, of the 2022 California Building Code; and Section 1.8.7, Chapter 1, Division I, of the 2022 California Residential Code for the Department of Housing and Community Development.
+
+4.Section 7-104, 2022 California Administrative Code for the Office of the Statewide Health Planning and Development.
+
+101.9 Effective date of this code.
+
+Only those standards approved by the California Building Standards Commission that are effective at the time an application for a building permit is submitted shall apply to the plans and specifications for, and to the construction performed under, that permit. For the effective dates of the provisions contained in this code, see the appropriate application checklist and the History Note page of this code.
+
+101.10 Mandatory requirements.
+
+This code contains both mandatory and voluntary green building measures. Mandatory and voluntary measures are identified in the appropriate application checklist contained in this code.
+
+101.11 Effective use of this code.
+
+The following steps shall be used to establish which provisions of this code are applicable to a specific occupancy:
+
+1.Establish the type of occupancy.
+
+2.Verify which state agency has authority for the established occupancy by reviewing the authorities list in Sections 103 through 106.
+
+3.Once the appropriate agency has been identified, find the chapter which covers the established occupancy.
+
+4.The Matrix Adoption Tables at the beginning of Chapters 4 and 5 identify the mandatory green building measures necessary to meet the minimum requirements of this code for the established occupancy.
+
+5.Voluntary tier measures are contained in Appendix Chapters A4 and A5. A checklist containing each green building measure, both required and voluntary, is provided at the end of each appendix chapter. Each measure listed in the application checklist has a section number which correlates to a section where more information about the specific measure is available.
+
+6.The application checklist identifies which measures are required by this code and allows users to check off which voluntary items have been selected to meet voluntary tier levels if desired or mandated by a city, county, or city and county.
+
+SECTION 102 CONSTRUCTION DOCUMENTS AND  INSTALLATION VERIFICATION
+
+102.1 Submittal documents.
+
+Construction documents and other data shall be submitted in one or more sets with each application for a permit. Where special conditions exist, the enforcing agency is authorized to require additional construction documents to be prepared by a licensed design professional and may be submitted separately.
+
+Exception: The enforcing agency is authorized to waive the submission of construction documents and other data not required to be prepared by a licensed design professional.
+
+102.2 Information on construction documents.
+
+Construction documents shall be of sufficient clarity to indicate the location, nature and scope of the proposed green building feature and show that it will conform to the provisions of this code, the California Building Standards Code and other relevant laws, ordinances, rules and regulations as determined by the enforcing agency.
+
+102.3 Verification.
+
+Documentation of conformance for applicable green building measures shall be provided to the enforcing agency. Alternate methods of documentation shall be acceptable when the enforcing agency finds that the proposed alternate documentation is satisfactory to demonstrate substantial conformance with the intent of the proposed green building measure.
+
+(HCD) Documentation of conformance for applicable green building measures shall be provided to the enforcing agency. All projects shall submit a completed Residential Occupancies Application Checklist that includes Chapter 4 residential mandatory measures and Tier 1 or Tier 2, as applicable. References to the measure-specific documentation used to show compliance shall be included. Alternate methods of documentation shall be acceptable when the enforcing agency finds that the proposed alternate documentation is satisfactory to demonstrate substantial conformance with the intent of the proposed green building measure.
+
+Note: HCD’s Residential Occupancies Application Checklist that includes the minimum criteria for documentation is available at: http://www.hcd.ca.gov/building-standards/calgreen/cal-green-forms.shtml.
+
+SECTION 103 BUILDING STANDARDS COMMISSION
+
+103.1 BSC-CG.
+
+Specific scope of application of the agency responsible for enforcement, the enforcement agency, and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+1.Application—All occupancies where no state agency has the authority to adopt green building standards applicable to those occupancies.
+
+Enforcing agency—State or local agency specified by the applicable provisions of law.
+
+Authority cited—Health and Safety Code Sections 18930.5(a), 18938 and 18940.5.
+
+Reference—Health and Safety Code, Division 13, Part 2.5, commencing with Section 18901.
+Enforcing agency—State or local agency specified by the applicable provisions of law.
+
+Authority cited—Health and Safety Code Sections 18930.5(a), 18938 and 18940.5.
+
+Reference—Health and Safety Code, Division 13, Part 2.5, commencing with Section 18901.
+
+2.Graywater systems. The construction, installation and alteration of graywater systems for indoor and outdoor uses in nonresidential occupancies.
+
+Application—All occupancies where no state agency has the authority to adopt green building standards applicable to those occupancies.
+
+Enforcing agency—State or local agency specified by the applicable provisions of law.
+
+Authority cited—Health and Safety Code Section 18941.8.
+
+Reference—Health and Safety Code Section 18941.8.
+Application—All occupancies where no state agency has the authority to adopt green building standards applicable to those occupancies.
+
+Enforcing agency—State or local agency specified by the applicable provisions of law.
+
+Authority cited—Health and Safety Code Section 18941.8.
+
+Reference—Health and Safety Code Section 18941.8.
+
+103.1.1 Adopting agency identification.
+
+The provisions of this code applicable to buildings identified in this section will be identified in the Matrix Adoption Tables under the acronym BSC-CG.
+
+SECTION 104 DEPARTMENT OF HOUSING  AND COMMUNITY DEVELOPMENT
+
+104.1 Scope.
+
+Specific scope of application of the agency responsible for enforcement, the enforcement agency and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+1. Housing construction.
+
+Application—Hotels, motels, lodging houses, apartments, dwellings, dormitories, condominiums, shelters for homeless persons, congregate residences, employee housing, factory-built housing and other types of dwellings containing sleeping accommodations with or without common toilet or cooking facilities including accessory buildings, facilities and uses thereto.
+
+Enforcing agency—Local building department or the Department of Housing and Community Development.
+
+Authority cited—Health and Safety Code Sections 17040, 17920.9, 17921, 17921.5, 17921.6, 17921.10, 17922, 17922.6, 17922.12, 17922.14, 17922.15, 17926, 17927, 17928, 17958.12, 18938.3, 18944.11 and 19990; and Government Code Section 12955.1.
+
+Reference—Business and Professions Code Division 5; Health and Safety Code Sections 17000 through 17062.5, 17910 through 17995.5, 18200 through 18700, 18860 through 18874, 18938.6, 18941, 19890, 19891, 19892 and 19960 through 19997; Civil Code Sections 832, 1101.4, 1101.5, 1954.201, 1954.202 and 5551; Government Code Sections 8698.4, 12955.1 and 12955.1.1; and California Code of Regulations, Title 20, Sections 1605.1, 1605.3 and 1607.
+Application—Hotels, motels, lodging houses, apartments, dwellings, dormitories, condominiums, shelters for homeless persons, congregate residences, employee housing, factory-built housing and other types of dwellings containing sleeping accommodations with or without common toilet or cooking facilities including accessory buildings, facilities and uses thereto.
+
+Enforcing agency—Local building department or the Department of Housing and Community Development.
+
+Authority cited—Health and Safety Code Sections 17040, 17920.9, 17921, 17921.5, 17921.6, 17921.10, 17922, 17922.6, 17922.12, 17922.14, 17922.15, 17926, 17927, 17928, 17958.12, 18938.3, 18944.11 and 19990; and Government Code Section 12955.1.
+
+Reference—Business and Professions Code Division 5; Health and Safety Code Sections 17000 through 17062.5, 17910 through 17995.5, 18200 through 18700, 18860 through 18874, 18938.6, 18941, 19890, 19891, 19892 and 19960 through 19997; Civil Code Sections 832, 1101.4, 1101.5, 1954.201, 1954.202 and 5551; Government Code Sections 8698.4, 12955.1 and 12955.1.1; and California Code of Regulations, Title 20, Sections 1605.1, 1605.3 and 1607.
+
+SECTION 105 DIVISION OF THE STATE ARCHITECT
+
+105.1
+
+Specific scope of application of the agency responsible for enforcement, the enforcement agency, and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+105.1.1 Application—Public elementary and secondary schools and community colleges.
+
+New building construction and site work on a new or existing site.
+
+Note: The Application of Standards outlined in Title 24, Part 6 supersedes the above application as it applies to the California Energy Code.
+
+Enforcing agency—The Division of the State Architect-Structural Safety (DSA-SS) has been delegated the responsibility and authority by the Department of General Services to review and approve the design and observe the construction of public elementary and secondary schools, and community colleges.
+
+Authority cited—Education Code Sections 17310 and 81142.
+
+Reference—Education Code Sections 17280 through 17317, and 81130 through 81147.
+Enforcing agency—The Division of the State Architect-Structural Safety (DSA-SS) has been delegated the responsibility and authority by the Department of General Services to review and approve the design and observe the construction of public elementary and secondary schools, and community colleges.
+
+Authority cited—Education Code Sections 17310 and 81142.
+
+Reference—Education Code Sections 17280 through 17317, and 81130 through 81147.
+
+105.1.2 Applicable administrative standards.
+
+1.Title 24, Part 1, California Code of Regulations:
+
+Sections 4-301 through 4-355, Group 1, Chapter 4, for public elementary and secondary schools, and community colleges.
+Sections 4-301 through 4-355, Group 1, Chapter 4, for public elementary and secondary schools, and community colleges.
+
+2.Title 24, Part 2, California Code of Regulations:
+
+2.1.Sections 1.1 and 1.9.2 of Chapter 1, Division I.
+
+2.2.Sections 102.1, 102.2, 102.3, 102.4, 102.5, 104.9, 104.10 and 104.11 of Chapter 1, Division II.
+
+105.1.3 Applicable building standards.
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 6, 9, 11 and 12, California Code of Regulations, for school buildings and community colleges.
+
+SECTION 106 OFFICE OF STATEWIDE HEALTH  PLANNING AND DEVELOPMENT
+
+106.1 OSHPD 1.
+
+Specific scope of application of the agency responsible for enforcement, enforcement agency and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+Application—General acute care hospitals and acute psychiatric hospitals, excluding distinct part units or distinct part freestanding buildings providing skilled nursing or intermediate care services. For structural regulations: Skilled nursing facilities and/or intermediate care facilities except those skilled nursing facilities and intermediate care facilities of single-story, Type V, wood or light steel-frame construction.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility types.
+Application—General acute care hospitals and acute psychiatric hospitals, excluding distinct part units or distinct part freestanding buildings providing skilled nursing or intermediate care services. For structural regulations: Skilled nursing facilities and/or intermediate care facilities except those skilled nursing facilities and intermediate care facilities of single-story, Type V, wood or light steel-frame construction.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility types.
+
+106.1.1 Applicable administrative standards.
+
+1.Title 24, Part 1, California Code of Regulations: Chapters 6 and 7.
+
+2.Title 24, Part 2, California Code of Regulations: Sections 1.1 and 1.10 of Chapter 1, Division I and Chapter 1, Division II.
+
+106.1.2 Applicable building standards.
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 9, 11 and 12.
+
+106.1.3 Identification of amendments.
+
+For applications listed in Section 106.1, amendments appear in this code preceded with the acronym [OSHPD 1].
+
+Authority—Health and Safety Code Sections 127010, 127015, 1275 and 129850.
+
+Reference—Health and Safety Code Sections 19958, 127010, 127015, 129680, 1275 and 129675 through 130070.
+Authority—Health and Safety Code Sections 127010, 127015, 1275 and 129850.
+
+Reference—Health and Safety Code Sections 19958, 127010, 127015, 129680, 1275 and 129675 through 130070.
+
+106.2 OSHPD 2.
+
+Specific scope of application of the agency responsible for enforcement, enforcement agency and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+Application—Skilled nursing facilities and intermediate care facilities, including distinct part skilled nursing and intermediate care services on a general acute care or acute psychiatric hospital license, provided either are in a separate unit or a freestanding building. For structural regulations: Single-story, Type V skilled nursing facility and/or intermediate care facilities utilizing wood or light steel-frame construction.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall also enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility type.
+Application—Skilled nursing facilities and intermediate care facilities, including distinct part skilled nursing and intermediate care services on a general acute care or acute psychiatric hospital license, provided either are in a separate unit or a freestanding building. For structural regulations: Single-story, Type V skilled nursing facility and/or intermediate care facilities utilizing wood or light steel-frame construction.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall also enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility type.
+
+106.2.1 Applicable administrative standards.
+
+1.Title 24, Part 1, California Code of Regulations: Chapter 7.
+
+2.Title 24, Part 2, California Code of Regulations: Sections 1.1 and 1.10 of Chapter 1, Division I and Chapter 1, Division II.
+
+106.2.2 Applicable building standards.
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 9, 11 and 12.
+
+106.2.3 Identification of amendments.
+
+For applications listed in Section 106.2, amendments appear in this code preceded with the acronym [OSHPD 2].
+
+Authority—Health and Safety Code Sections 127010, 127015, 1275 and 129850.
+
+Reference—Health and Safety Code Sections 127010, 127015, 1275 and 129680.
+Authority—Health and Safety Code Sections 127010, 127015, 1275 and 129850.
+
+Reference—Health and Safety Code Sections 127010, 127015, 1275 and 129680.
+
+106.3 OSHPD 4.
+
+Specific scope of application of the agency responsible for enforcement, enforcement agency and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+Application—Correctional treatment centers.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall also enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility types.
+Application—Correctional treatment centers.
+
+Enforcing agency—Office of Statewide Health Planning and Development (OSHPD). The office shall also enforce the Division of the State Architect—Access Compliance regulations and the regulations of the Office of the State Fire Marshal for the above-stated facility types.
+
+106.3.1 Applicable administrative standards.
+
+1.Title 24, Part 1, California Code of Regulations: Chapter 7.
+
+2.Title 24, Part 2, California Code of Regulations: Sections 1.1 and 1.10 of Chapter 1, Division I and Chapter 1, Division II.
+
+106.3.2 Applicable building standards.
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 9, 11 and 12.
+
+106.3.3 Identification of amendments.
+
+For applications listed in Section 106.3, amendments appear in this code preceded with the acronym [OSHPD 4], unless the entire chapter is applicable.
+
+Authority—Health and Safety Code Sections 127010, 127010, 127015 and 129790.
+
+References—Health and Safety Code Sections 127010, 127015, 1275, and 129675 through 130070.
+Authority—Health and Safety Code Sections 127010, 127010, 127015 and 129790.
+
+References—Health and Safety Code Sections 127010, 127015, 1275, and 129675 through 130070.
+

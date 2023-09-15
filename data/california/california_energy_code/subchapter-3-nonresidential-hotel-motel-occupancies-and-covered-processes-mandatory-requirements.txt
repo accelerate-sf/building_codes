@@ -1,0 +1,1751 @@
+SUBCHAPTER 3 NONRESIDENTIAL, HOTEL/MOTEL OCCUPANCIES, AND COVERED PROCESSES—MANDATORY REQUIREMENTS NONRESIDENTIAL, HOTEL/MOTEL OCCUPANCIES, AND COVERED PROCESSES—MANDATORY REQUIREMENTS
+
+SECTION 120.0 GENERAL
+
+Sections 120.1 through 120.10 establish requirements for the design and installation of building envelopes, ventilation, space-conditioning and service water-heating systems and  equipment in nonresidential and hotel/motel buildings as well as covered processes that are within the scope of Section 100.0(a).
+
+NOTE: The requirements of Sections 120.1 through 120.10 apply to newly constructed buildings. Section 141.0 specifies which requirements of Sections 120.1 through 120.10 also apply to additions or alterations to existing buildings.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 120.1 REQUIREMENTS FOR VENTILATION AND INDOOR AIR QUALITY
+
+(a) General requirements.
+
+1. All occupiable spaces in hotel/motel buildings, and nonresidential buildings other than healthcare facilities shall comply with the applicable requirements of Section 120.1(a) through 120.1(g). Healthcare facilities shall be ventilated in accordance with Chapter 4 of the California Mechanical Code.
+
+2. The required outdoor air-ventilation rate and the airdistribution system design shall be clearly identified on the plans in accordance with Section 10-103 of Title 24, Part 1.
+
+(b)Reserved.
+
+(c) Nonresidential and hotel/motel buildings. All occupiable spaces shall meet the requirements of Section 120.1(c)1, and shall also comply with either Section 120.1(c)2 or Section 120.1(c)3.
+
+1. Air filtration.
+
+A.Mechanical system types specified in Subsections i, ii and iii below shall be designed to ensure that all recirculated air and all outdoor air supplied to the occupiable space is filtered before passing through any system thermal conditioning components. Air filters shall conform to the requirements of Sections 120.1(c)1B, 120.1(c)1C and 120.1(c)1D.
+
+i.Mechanical space-conditioning systems that supply air to an occupiable space through ductwork exceeding 10 ft (3 m) in length.
+
+ii.Mechanical supply-only ventilation systems and makeup air systems that provide outside air to an occupiable space.
+
+iii.The supply side of mechanical balanced ventilation systems, including heat recovery ventilation systems and energy recovery ventilation systems that provide outside air to an occupiable space.
+
+Exception to Section 120.1(c)1A: For heat recovery ventilators and energy recovery ventilators, the location of the filters required by Section 120.1(c)1A may be downstream of a system thermal conditioning component, provided the system is equipped with ancillary filtration upstream of the system’s thermal conditioning component.
+
+B. Air filter efficiency. The filters shall have a designated efficiency equal to or greater than MERV 13 when tested in accordance with ASHRAE Standard 52.2, or a particle size efficiency rating equal to or greater than 50 percent in the 0.30–1.0 μm range, and equal to or greater than 85 percent in the 1.0–3.0 μm range when tested in accordance with AHRI Standard 680; and
+
+C. Systems shall be equipped with air filters that meet either Subsection i or ii below.
+
+i. Nominal 2-inch minimum depth filter(s); or
+
+ii. Nominal 1-inch minimum depth filter(s) shall be allowed if the filter(s) are sized according to Equation 120.1-A, based on a maximum face velocity of 150 feet per minute.
+
+Where:
+
+Aface = air filter face area, the product of air filter nominal length × nominal width, ft2
+
+Qfilter = design airflow rate for the air filter, ft3/min
+
+Vface = air filter face velocity ≤ 150, ft/min
+
+D.Filter racks or grilles shall use gaskets, sealing or other means to close gaps around inserted filters and prevent air from bypassing the filter.
+
+2. Natural ventilation. Naturally ventilated spaces shall be designed in accordance with 120.1(c)2A through 120.1(c)2C and include a mechanical ventilation system designed in accordance with 120.1(c)3:
+
+A. Floor area to be ventilated. Spaces or portions of spaces to be naturally ventilated shall be located within a distance based on the ceiling height, as specified in i, ii and iii. The ceiling height (H) to be used in i, ii or iii shall be the minimum ceiling height in the space, or for ceilings that are increasing in height as distance from the operable openings is increased, the ceiling height shall be determined as the average height of the ceiling within 20 feet from the operable opening. [ASHRAE 62.1:6.4.1]
+
+i. Single side opening. For spaces with operable opening on one side of the space, the maximum distance from the operable opening shall be not more than 2H. [ASHRAE 62.1:6.4.1.1]
+
+ii. Double side opening. For spaces with operable openings on two opposite sides of the space, the maximum distance from the operable opening shall be not more than 5H. [ASHRAE 62.1:6.4.1.2]
+
+iii. Corner opening. For spaces with operable openings on two adjacent sides of a space, the maximum distance from the operable openings shall be not more than 5H along a line drawn between the two openings that are the farthest apart. Floor area outside that line shall comply with i or ii. [ASHRAE 62.1:6.4.1.3]
+
+iv. Ceiling height. The ceiling height (H) to be used in Section 120.1(c)2Ai through 120.1(c)2Aiii shall be the minimum ceiling height in the space.
+
+Exception to Section 120.1(c)2Aiv: For ceilings that are increasing in height as distance from the opening is increased, the ceiling height shall be determined as the average height of the ceiling within 20 feet from the operable openings. [ASHRAE 62.1:6.4.1.4]
+
+B. Location and size of openings. Spaces or portions of spaces to be naturally ventilated shall be permanently open to operable wall openings directly to the outdoors. The openable area shall be not less than 4 percent of the net occupiable floor area. Where openings are covered with louvers or otherwise obstructed, the openable area shall be based on the net free unobstructed area through the opening. Where interior rooms, or portions of rooms, without direct openings to the outdoors are ventilated through adjoining rooms, the opening between rooms shall be permanently unobstructed and have a free area of not less than 8 percent of the area of the interior room or less than 25 square feet. [ASHRAE 62.1:6.4.2]
+
+C. Control and accessibility. The means to open the required operable opening shall be readily accessible to building occupants whenever the space is occupied. Controls shall be designed to coordinate operation of the natural and mechanical ventilation systems. [ASHRAE 62.1:6.4.3]
+
+Exception 1 to Section 120.1(c)2: The mechanical ventilation system shall not be required where natural ventilation openings complying with 120.1(c)2 are either permanently open or have controls that prevent the openings from being closed during periods of expected occupancy.
+
+Exception 2 to Section 120.1(c)2: The mechanical ventilation system shall not be required where the zone is not served by a space-conditioning system.
+
+3. Mechanical ventilation.  Occupiable spaces shall be ventilated with a mechanical ventilation system capable of providing an outdoor airflow rate to the zone (Vz) no less than Equation 120.1-F as described below:
+
+(Equation 120.1-F)Where:Rt = Total outdoor airflow rate required per unit area as determined from Table 120.1-A.Az = Zone floor area, meaning the net occupiable floor area of the ventilation zone in square feet.
+
+Exception 1 to Section 120.1(c)3: Designed occupancy. For spaces designed for an expected number of occupants per the Exception to Section 1004.5 of the CBC, or spaces with fixed seating per Section 1004.6 of the CBC, the outdoor airflow rate to the  zone (Vz) shall be determined in accordance with Equation 120.1-G;(Equation 120.1-G)Where:Rp = 15 cubic feet per minute of outdoor airflow per personPz = The expected number of occupants. The expected number of occupants shall be the expected number specified by the building designer. For spaces with fixed seating, the expected number of occupants shall be determined in accordance with the California Building Code.Ra= The minimum ventilation airflow rate allowed for DCV in Table 120.1-A. If Ra is not defined for an occupancy category, Ra = 0.Az = Zone floor area, meaning the net occupiable floor area of the ventilation zone in square feet.
+
+Exception 2 to Section 120.1(c)3: Transfer air.  The rate of outdoor air required by Section 120.1(c)3 may be provided with air transferred from other ventilated space if:A. Use of transfer air is in accordance with Section 120.1(g); andB. The outdoor air that is supplied to all spaces combined, is sufficient to meet the requirements of Section 120.1(c)3 for each space individually.
+
+A. Use of transfer air is in accordance with Section 120.1(g); and
+
+B. The outdoor air that is supplied to all spaces combined, is sufficient to meet the requirements of Section 120.1(c)3 for each space individually.
+Where:
+
+Rt = Total outdoor airflow rate required per unit area as determined from Table 120.1-A.
+
+Az = Zone floor area, meaning the net occupiable floor area of the ventilation zone in square feet.
+
+Exception 1 to Section 120.1(c)3: Designed occupancy. For spaces designed for an expected number of occupants per the Exception to Section 1004.5 of the CBC, or spaces with fixed seating per Section 1004.6 of the CBC, the outdoor airflow rate to the  zone (Vz) shall be determined in accordance with Equation 120.1-G;
+
+Where:
+
+Rp = 15 cubic feet per minute of outdoor airflow per person
+
+Pz = The expected number of occupants. The expected number of occupants shall be the expected number specified by the building designer. For spaces with fixed seating, the expected number of occupants shall be determined in accordance with the California Building Code.
+
+Ra= The minimum ventilation airflow rate allowed for DCV in Table 120.1-A. If Ra is not defined for an occupancy category, Ra = 0.
+
+Az = Zone floor area, meaning the net occupiable floor area of the ventilation zone in square feet.
+
+Exception 2 to Section 120.1(c)3: Transfer air.  The rate of outdoor air required by Section 120.1(c)3 may be provided with air transferred from other ventilated space if:
+
+A. Use of transfer air is in accordance with Section 120.1(g); and
+
+B. The outdoor air that is supplied to all spaces combined, is sufficient to meet the requirements of Section 120.1(c)3 for each space individually.
+
+4. Exhaust ventilation. The design exhaust airflow shall be determined in accordance with the requirements in Table 120.1-B. Exhaust makeup air shall be permitted to be any combination of outdoor air, recirculated air, or transfer air. [ASHRAE 62.1:6.5.1]
+
+(d) Operation and control requirements for minimum quantities of outdoor air.
+
+1. Times of occupancy. The minimum rate of outdoor air required by Section 120.1(c) shall be supplied to each space at all times when the space is usually occupied.
+
+Exception 1 to Section 120.1(d)1: Demand control ventilation. In intermittently occupied spaces that do not have processes or operations that generate dusts, fumes, mists, vapors or gasses and are not provided with local exhaust ventilation (such as indoor operation of internal combustion engines or areas designated for unvented food service preparation), the rate of outdoor air may be reduced if the ventilation system serving the space is controlled by a demand control ventilation device complying with Section 120.1(d)4 or by an occupant sensor ventilation control device complying with Section 120.1(d)5.
+
+Exception 2 to Section 120.1(d)1: Temporary reduction. The rate of outdoor air provided to a space may be reduced below the level required by Section 120.1(c) for up to 30 minutes at a time if the average rate for each hour is equal to or greater than the required ventilation rate.
+
+2. Pre-occupancy. The lesser of the minimum rate of outdoor air required by Section 120.1(c) or three complete air changes shall be supplied to the entire building during the one-hour period immediately before the building is normally occupied.
+
+3. Required demand control ventilation. Demand ventilation controls complying with Section 120.1(d)4 are required for a space with a design occupant density, or a maximum occupant load factor for egress purposes in the CBC, greater than or equal to 25 people per 1,000 square feet (40 square feet or less per person) if the ventilation system serving the space has one or more of the following:
+
+A. an air economizer; or
+
+B. modulating outside air control; or
+
+C. design outdoor airflow rate > 3,000 cfm
+
+Exception 1 to Section 120.1(d)3: Where space exhaust is greater than the design ventilation rate specified in Section 120.1(c)3 minus 0.2 cfm per square foot of conditioned area.
+
+Exception 2 to Section 120.1(d)3: Spaces that have processes or operations that generate dusts, fumes, mists, vapors or gases and are not provided with local exhaust ventilation, such as indoor operation of internal combustion engines or areas designated for unvented food service preparation, daycare sick-rooms, science labs, barber shops or beauty and nail salons shall not install demand control ventilation.
+
+Exception 3 to Section 120.1(d)3: Spaces with an area of less than 150 square feet, or a design occupancy of less than 10 people as specified by Section 120.1(c)3.
+
+4. Demand control ventilation devices.
+
+A. For each system with demand control ventilation (DCV), CO2 sensors shall be installed in each room that meets the criteria of Section 120.1(d)3 with no less than one sensor per 10,000 square feet of floor space. When a zone or a space is served by more than one sensor, a signal from any sensor indicating that CO2 is near or at the setpoint within the zone or space, shall trigger an increase in ventilation.
+
+B. CO2 sensors shall be located in the room between 3 feet and 6 feet above the floor or at the anticipated height of the occupants’ heads.
+
+C. Demand ventilation controls shall maintain CO2 concentrations less than or equal to 600 ppm plus the outdoor air CO2 concentration in all rooms with CO2 sensors.
+
+Exception to Section 120.1(d)4C: The outdoor air ventilation rate is not required to be larger than the design outdoor air ventilation rate required by Section 120.1(c)3 regardless of CO2 concentration.
+
+D. Outdoor air CO2 concentration shall be determined by one of the following:
+
+i. CO2 concentration shall be assumed to be 400 ppm without any direct measurement; or
+
+ii. CO2 concentration shall be dynamically measured using a CO2 sensor located within 4 feet of the outdoor air intake.
+
+E. When the system is operating during hours of expected occupancy, the controls shall maintain system outdoor air ventilation rates no less than the rate listed in Table 120.1-A for DCV, times the conditioned floor area for spaces with CO2 sensors, plus the rate required by Section 120.1(c)3 for other spaces served by the system, or the exhaust air rate, whichever is greater.
+
+F. CO2 sensors shall be certified by the manufacturer to be accurate within plus or minus 75 ppm at a 600 and 1000 ppm concentration when measured at sea level and 25°C, factory calibrated and certified by the manufacturer to require calibration no more frequently than once every 5 years. Upon detection of sensor failure, the system shall provide a signal which resets to supply the minimum quantity of outside air to levels required by Section 120.1(c)3 to the zone serviced by the sensor at all times that the zone is occupied.
+
+G. The CO2 sensor(s) reading for each zone shall be displayed continuously, and shall be recorded on systems with DDC to the zone level.
+
+5. Occupant sensor ventilation control devices. Occupant sensing or ventilation controls are required for space-conditioning zones that are both permitted to have their ventilation air reduced to zero while in occupiedstandby mode per Table 120.1-A and required to install occupant sensors to comply with Section 130.1(c)5, 6 and 7. Occupant sensor ventilation control devices used to reduce the rate of outdoor air flow when occupants are not present shall comply with the following:
+
+A. Occupant sensors shall have suitable coverage and placement to detect occupants in the entire space ventilated. In 20 minutes or less after no occupancy is detected by any sensors covering the room, occupant sensing controls shall indicate a room is vacant.
+
+B. When occupant sensors controlling lighting are also used for ventilation, the ventilation signal shall be independent of daylighting, manual lighting overrides or manual control of lighting.
+
+C. When a single zone damper or a single zone system serves multiple rooms, there shall be an occupant sensor in each room and the zone shall not be considered  vacant until all rooms in the zone are vacant.
+
+D. One hour prior to normal scheduled occupancy, the occupant sensor ventilation control shall allow preoccupancy purge as described in Section 120.1(d)2.
+
+E. When the zone is scheduled to be occupied and occupant sensing controls in all rooms and areas served by the zone indicate the spaces are unoccupied, the zone shall be placed in occupied-standby mode.
+
+F. In 5 minutes or less after entering occupied-standby mode, mechanical ventilation to the zone shall be shut off until the space becomes occupied or until ventilation is needed to provide space heating or conditioning. When mechanical ventilation is shut off to the zone, the ventilation system serving the zone shall reduce the system outside air rate by the amount of outside air required for the zone.
+
+G. Where the system providing space conditioning also provides ventilation to the zone, in 5 minutes or less after entering occupied-standby mode, space-conditioning zone setpoints shall be reset in accordance with Section 120.2(e)3.
+
+(e) Ducting for zonal heating and cooling units. Where a return plenum is used to distribute outdoor air to a zonal heating or cooling unit, which then supplies the air to a space in order to meet the requirements of Section 120.1(c)3, the outdoor air shall be ducted to discharge either:
+
+1. Within 5 feet of the unit; or
+
+2. Within 15 feet of the unit, substantially toward the unit, and at a velocity not less than 500 feet per minute.
+
+(f) Design and control requirements for quantities of outdoor air.
+
+1. All mechanical ventilation and space-conditioning systems shall be designed with and have installed ductwork, dampers and controls that allow design minimum outside air rates to be operated at no less than the larger of (1) the minimum levels specified in Section 120.1(c)3; or (2) the rate required for make-up of exhaust systems that are required for an exempt or covered process, for control of odors, or for the removal of contaminants within the space.
+
+2. All variable air volume mechanical ventilation and space-conditioning systems shall include dynamic controls that are capable of maintaining measured outside air ventilation rates within 10 percent of the design minimum outside air ventilation rate at both full and reduced supply airflow conditions. Fixed minimum damper position is not considered to be dynamic and is not an allowed control strategy.
+
+3. All mechanical ventilation and space-conditioning systems shall be tested to confirm their ability to operate within 10 percent of the design minimum outside air rate.
+
+(g) Air classification and recirculation limitations. Air classification and recirculation limitations of air shall be based on the air classification as listed in Table 120.1-A or Table 120.1-C, and in accordance with the requirements of Sections 120.1(g)1 through 4.
+
+Note: Air class definitions are taken directly from ASHRAE 62.1 and are duplicated here for convenience.
+Note: Air class definitions are taken directly from ASHRAE 62.1 and are duplicated here for convenience.
+
+1.Class 1 Air is air with low contaminant concentration, low sensory-irritation intensity or inoffensive odor. Recirculation or transfer of Class 1 air to any space shall be permitted; [ASHRAE 62.1:5.16.3.1]
+
+2.Class 2 Air is air with moderate contaminant concentration, mild sensory-irritation intensity or mildly offensive odors (Class 2 air also includes air that is not necessarily harmful or objectionable but that is inappropriate for transfer or recirculation to spaces used for different purposes). Recirculation or transfer of Class 2 air shall be permitted in accordance with Sections 120.1(g)2A through 120.1(g)2E:
+
+A. Recirculation of Class 2 air within the space of origin shall be permitted [ASHRAE 62.1:5.16.3.2.1];
+
+B. Recirculation or transfer of Class 2 to other Class 2 or Class 3 spaces shall be permitted, provided that the other spaces are used for the same or similar purpose or task and involve the same or similar pollutant sources as the Class 2 space [ASHRAE 62.1:5.16.3.2.2]; or
+
+C. Transfer of Class 2 air to toilet rooms [ASHRAE 62.1:5.16.3.2.3]; or
+
+D. Recirculation or transfer of Class 2 air to Class 4 spaces [ASHRAE 62.1:5.16.3.2.4]; or
+
+E. Class 2 air shall not be recirculated or transferred to Class 1 spaces. [ASHRAE 62.1:5.16.3.2.5]
+
+Exception to Section 120.1(g)2E: When using any energy recovery device, recirculation from leakage, carryover, or transfer from the exhaust side of the energy recovery device is permitted. Recirculated Class 2 air shall not exceed 10 percent of the outdoor air intake flow.
+
+3.Class 3 Air is air with significant contaminant concentration, significant sensory-irritation intensity or offensive odor. Recirculation or transfer of Class 3 air shall be permitted in accordance with Section 120.1(g)3A and B:
+
+A. Recirculation of Class 3 air within the space of origin shall be permitted. [ASHRAE 62.1:5.16.3.3.1]
+
+B. Class 3 air shall not be recirculated or transferred to any other space. [ASHRAE 62.1:5.16.3.3.2].
+
+Exception to Section 120.1(g)3B: When using any energy recovery device, recirculation from leakage, carryover, or transfer from the exhaust side of the energy recovery device is permitted. Recirculated Class 3 air shall not exceed 5 percent of the outdoor air intake flow.
+
+4.Class 4 Air is air with highly objectionable fumes or gases or with potentially dangerous particles, bioaerosols, or gases at concentrations high enough to be considered as harmful. Class 4 air shall not be recirculated or transferred to any space or recirculated within the space of origin. [ASHRAE 62.1:5.16.3.4]
+
+5. Ancillary spaces. Redesignation of Class 1 air to Class 2 air shall be permitted for Class 1 spaces that are ancillary to Class 2 spaces. [ASHRAE 62.1:5.16.2.3]
+
+6. Transfer. A mixture of air that has been transferred through or returned from spaces or locations with different air classes shall be redesignated with the highest classification among the air classes mixed. [ASHRAE 62.1:5.16.2.2]
+
+7. Classification. Air leaving each space or location shall be designated at an expected air-quality classification not less than that shown in Tables 120.1-A, 120.1-B or 120.1-C. Air leaving spaces or locations that are not listed in Tables 120.1-A, 120.1-B or 120.1-C shall be designated with the same classification as air from the most similar space or location listed in terms of occupant activities and building construction.
+
+(h)Ventilation only mechanical systems. HVAC systems without mechanical cooling or mechanical heating shall meet the requirements of Section 120.2(f).
+
+Note:  Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 120.1-A
+
+MINIMUM VENTILATION RATES
+
+OCCUPANCY CATEGORY	TOTAL OUTDOOR AIR RATE1 Rt(cfm/ft2)	MIN VENTILATION AIR RATE FOR DCV2Ra (cfm/ft2)	AIR CLASS	NOTES
+Educational Facilities
+Daycare (through age 4)	0.21	0.15	2	
+Daycare sickroom	0.15		3	
+Classrooms (ages 5–8)	0.38	0.15	1	
+Classrooms (age 9–18)	0.38	0.15	1	
+Lecture/postsecondary classroom	0.38	0.15	1	F
+Lecture hall (fixed seats)	—	0.15	1	F
+Art classroom	0.15		2	
+Science laboratories	0.15		2	
+University/college laboratories	0.15		2	
+Wood/metal shop	0.15		2	
+Computer lab	0.15		1	
+Media center	0.15		1	A
+Music/theater/dance	1.07	0.15	1	F
+Multiuse assembly	0.50	0.15	1	F
+Food and Beverage Service
+Restaurant dining rooms	0.50	0.15	2	
+Cafeteria/fast-food dining	0.50	0.15	2	
+Bars, cocktail lounges	0.50	0.20	2	
+Kitchen (cooking)	0.15		2	
+General
+Break rooms	0.50	0.15	1	F
+Coffee Stations	0.50	0.15	1	F
+Conference/meeting	0.50	0.15	1	F
+Corridors	0.15		1	F
+Occupiable storage rooms for liquids or gels	0.15		2	B
+Hotels, Motels, Resorts, Dormitories
+Bedroom/living room	0.15		1	F
+Barracks sleeping areas	0.15		1	F
+Laundry rooms, central	0.15		2	
+Laundry rooms within dwelling units	0.15		1	
+Lobbies/pre-function	0.50	0.15	1	F
+Multipurpose assembly	0.50		1	F
+Office Buildings
+Breakrooms	0.50	0.15	1	
+Main entry lobbies	0.50	0.15	1	F
+Occupiable storage rooms for dry materials	0.15		1	
+Office space	0.15		1	F
+Reception areas	0.15		1	F
+Telephone/data entry	0.15		1	F
+Miscellaneous Spaces
+Bank vaults/safe deposit	0.15		2	F
+Banks or bank lobbies	0.15		1	F
+Computer (not printing)	0.15		1	F
+Freezer and refrigerated spaces (< 50°F)	—		2	E
+General manufacturing (excludes heavy industrial and process using chemicals)	0.15		3	
+Pharmacy (prep. Area)	0.15		2	
+Photo studios	0.15		1	
+Shipping/receiving	0.15		2	B
+Sorting, packing, light assembly	0.15		2	
+Telephone closets	0.15		1	
+Transportation waiting	0.50	0.15	1	F
+Warehouses	0.15		2	B
+All others	0.15		2	
+Public Assembly Spaces
+Auditorium seating area	1.07	0.15	1	F
+Places of religious worship	1.07	0.15	1	F
+Courtrooms	0.19	0.15	1	F
+Legislative chambers	0.19	0.15	1	F
+Libraries (reading rooms and stack areas)	0.15		1	
+Lobbies	0.50	0.15	1	F
+Museums (children’s)	0.25	0.15	1	
+Museums/galleries	0.25	0.15	1	F
+Residential
+Common corridors				
+Retail
+Sales (except as below)	0.25	0.20	2	
+Mall common areas	0.25	0.15	1	F
+Barbershop	0.40		2	
+Beauty and nail salons	0.40		2	
+Pet shops (animal areas)	0.25	0.15	2	
+Supermarket	0.25	0.20	1	F
+Coin-operated laundries	0.30		2	
+Sports and Entertainment
+Gym, sports arena (play area)	0.50	0.15	2	E
+Spectator areas	0.50	0.15	1	F
+Swimming (pool)	0.15		2	C
+Swimming (deck)	0.50	0.15	2	C
+Disco/dance floors	1.50	0.15	2	F
+Health club/aerobics room	0.15		2	
+Health club/weight rooms	0.15		2	
+Bowling alley (seating)	1.07	0.15	1	
+Gambling casinos	0.68	0.15	1	
+Game arcades	0.68	0.15	1	
+Stages, studios	0.50	0.15	1	D, FGeneral footnotes for Table 120.1-A:
+
+1.Rt is determined as being the larger of the area method and the default per person method. The occupant density used in the default per person method is one-half of the maximum occupant load assumed for egress purposes in the CBC.
+
+Specific Notes:
+
+A – For high-school and college libraries, the values shown for “Public Assembly Spaces – Libraries” shall be used.
+
+B – Rate may not be sufficient where stored materials include those having potentially harmful emissions.
+
+C – Rate does not allow for humidity control. “Deck area” refers to the area surrounding the pool that is capable of being wetted during pool use or when the pool is occupied. Deck area that is not expected to be wetted shall be designated as an occupancy category.
+
+D – Rate does not include special exhaust for stage effects such as dry ice vapors and smoke.
+
+E – Where combustion equipment is intended to be used on the playing surface or in the space, additional dilution ventilation, source control, or both shall be provided.
+
+F – Ventilation air for this occupancy category shall be permitted to be reduced to zero when the space is in occupied-standby mode.
+
+TABLE 120.1-B – MINIMUM EXHAUST RATES
+
+[ASHRAE 62.1: TABLE 6.5]
+
+OCCUPANCY CATEGORY	EXHAUST RATE cfm/unit	EXHAUST RATEcfm/ft2	AIR CLASS	NOTES
+Arenas	—	0.50	1	B
+Art classrooms	—	0.70	2	
+Auto repair rooms	—	1.5	2	A
+Barber shops	—	0.50	2	
+Beauty and nail salons	—	0.60	2	
+Cells with toilet	—	1.00	2	
+Copy, printing rooms	—	0.50	2	
+Darkrooms	—	1.00	2	
+Educational science laboratories	—	1.00	2	
+Janitor closets, trash rooms, recycling	—	1.00	3	
+Kitchenettes	—	0.30	2	
+Kitchens – commercial	—	0.70	2	
+Locker rooms for athletic or industrial facilities	—	0.50	2	
+All other locker rooms	—	0.25	2	
+Shower rooms	20/50	—	2	G,H
+Paint spray booths	—	—	4	F
+Parking garages	—	0.75	2	C
+Pet shops (animal areas)	—	0.90	2	
+Refrigerating machinery rooms	—	-	3	F
+Soiled laundry storage rooms	—	1.00	3	F
+Storage rooms, chemical	—	1.50	4	F
+Toilets – private	25/50	—	2	E
+Toilets – public	50/70	—	2	D
+Woodwork shop/classrooms	—	0.50	2	Notes:
+
+A – Stands where engines are run shall have exhaust systems that directly connect to the engine exhaust and prevent escape of fumes.
+
+B – Where combustion equipment is intended to be used on the playing surface, additional dilution ventilation, source control, or both shall be provided.
+
+C – Exhaust shall not be required where two or more sides comprise walls that are at least 50% open to the outside.
+
+D – Rate is per water closet, urinal, or both. Provide the higher rate where periods of heavy use are expected to occur. The lower rate shall be permitted to be used otherwise.
+
+E – Rate is for a toilet room intended to be occupied by one person at a time. For continuous systems operation during hours of use, the lower rate shall be permitted to be used. Otherwise the higher rate shall be used.
+
+F – See other applicable standards for exhaust rate.
+
+G – For continuous system operation, the lower rate shall be permitted to be used. Otherwise the higher rate shall be used.
+
+H – Rate is per showerhead.
+
+TABLE 120.1-C – AIRSTREAMS OR SOURCES
+
+[ASHRAE 62.1:TABLE 5.16.1]
+
+DESCRIPTION	AIR CLASS
+Diazo printing equipment discharge	4
+Commercial kitchen grease hoods	4
+Commercial kitchen hoods other than grease	3
+Laboratory hoods	4a
+Hydraulic elevator machine room	2a. Air Class 4 unless determined otherwise by the Environmental Health and Safety professional responsible to the owner or to the owner’s designee.
+
+SECTION 120.2 REQUIRED CONTROLS FOR SPACE-CONDITIONING SYSTEMS
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 120.2(a) through 120.2(k).
+
+(a) Thermostatic controls for each zone. The supply of heating and cooling energy to each space-conditioning zone or dwelling unit shall be controlled by an individual thermostatic control that responds to temperature within the zone and that meets the applicable requirements of Section 120.2(b). An energy management control system (EMCS) may be installed to comply with the requirements of one or more thermostatic controls if it complies with all applicable requirements for each thermostatic control.
+
+Exception to Section 120.2(a): An independent perimeter heating or cooling system may serve more than one zone without individual thermostatic controls if:
+
+1. All zones are also served by an interior cooling system; and
+
+2. The perimeter system is designed solely to offset envelope heat losses or gains; and
+
+3. The perimeter system has at least one thermostatic control for each building orientation of 50 feet or more; and
+
+4. The perimeter system is controlled by at least one thermostat located in one of the zones served by the system.
+
+(b) Criteria for zonal thermostatic controls. The individual thermostatic controls required by Section 120.2(a) shall meet the following requirements as applicable:
+
+1. Where used to control comfort heating, the thermostatic controls shall be capable of being set, locally or remotely, down to 55°F or lower.
+
+2. Where used to control comfort cooling, the thermostatic controls shall be capable of being set, locally or remotely, up to 85°F or higher.
+
+3. Where used to control both comfort heating and comfort cooling, the thermostatic controls shall meet Items 1 and 2 and shall be capable of providing a temperature range or dead band of at least 5°F within which the supply of heating and cooling energy to the zone is shut off or reduced to a minimum.
+
+Exception 1 to Section 120.2(b)3: Systems with thermostats that require manual changeover between heating and cooling modes.
+
+Exception 2 to Section 120.2(b)3: Systems serving healthcare facilities.
+
+4. Thermostatic controls for all single zone, air conditioners and heat pumps shall comply with the requirements of Sections 110.2(c) and 110.12(a) and, if equipped with DDC to the Zone level, with the Automatic Demand Shed Controls of Section 110.12(b).
+
+Exception 1 to Section 120.2(b)4: Systems serving exempt process loads that must have constant temperatures to prevent degradation of materials, a process, plants or animals.
+
+Exception 2 to Section 120.2(b)4: Package terminal air conditioners, package terminal heat pumps, room air conditioners and room air conditioner heat pumps.
+
+Exception 3 to Section 120.2(b)4: Systems serving healthcare facilities.
+
+(c) Hotel/motel guest room thermostats.
+
+1. Hotel/motel guest room thermostats shall:
+
+A. Have numeric temperature setpoints in °F and °C; and
+
+B. Have setpoint stops, which are accessible only to authorized personnel, such that guest room occupants cannot adjust the setpoint more than ±5°F (±3°C); and
+
+C. Meet the requirements of Section 110.2(c).
+
+Exception to Section 120.2(c)1: Thermostats that are integrated into the room heating and cooling equipment.
+
+(d) Heat pump controls. All heat pumps with supplementary electric resistance heaters shall be installed with controls that comply with Section 110.2(b).
+
+(e) Shut-off and reset controls for space-conditioning systems. Each space-conditioning system shall be installed with controls that comply with the following:
+
+1. The control shall be capable of automatically shutting off the system during periods of nonuse and shall have:
+
+A. An automatic time switch control device complying with Section 110.9 with an accessible manual override that allows operation of the system for up to 4 hours; or
+
+B. An occupancy sensor; or
+
+C. A 4-hour timer that can be manually operated.
+
+Exception to Section 120.2(e)1: Mechanical systems serving retail stores and associated malls, restaurants, grocery stores, churches and theaters equipped with 7-day programmable timers.
+
+2. The control shall automatically restart and temporarily operate the system as required to maintain:
+
+A. A setback heating thermostat setpoint if the system provides mechanical heating; and
+
+Exception to Section 120.2(e)2A: Thermostat setback controls are not required in nonresidential buildings in areas where the Winter Median of Extremes outdoor air temperature determined in accordance with Section 140.4(b)3 is greater than 32°F.
+
+B. A setup cooling thermostat setpoint if the system provides mechanical cooling.
+
+Exception to Section 120.2(e)2B: Thermostat setup controls are not required in nonresidential buildings in areas where the Summer Design Dry Bulb 0.5 percent temperature determined in accordance with Section 140.4(b)3 is less than 100°F.
+
+3.Occupant sensing zone controls. Where the system providing space conditioning also provides the ventilation required by Section 120.1 and includes occupant sensor ventilation control as specified in Section 120.1(d)5, the occupant sensing zone controls shall additionally comply with the following:
+
+A. In 5 minutes or less after entering occupied-standby mode as described in Section 120.1(d).
+
+i. Automatically set up the operating cooling temperature set point by 2°F or more and set back the operating heating temperature set point by 2°F or more; or
+
+ii. For multiple zone systems with Direct Digital Controls (DDC) to the zone level, setup the operating cooling temperature setpoint by 0.5°F or more and setback the operating heating temperature setpoint by 0.5°F or more.
+
+B. In 5 minutes or less after entering occupied-standby mode, mechanical ventilation to the zone shall remain off whenever the space temperature is between the active heating and cooling setpoints.
+
+Exception 1 to Sections 120.2(e)1, 2, 3: Where it can be demonstrated to the satisfaction of the enforcing agency that the system serves an area that must operate continuously.
+
+Exception 2 to Sections 120.2(e)1, 2, 3: Systems with full load demands of 2 kW or less, if they have a readily accessible manual shut-off switch.
+
+Exception 3 to Sections 120.2(e) 1 and 2: Systems serving hotel/motel guest rooms, if they have a readily accessible manual shut-off switch.
+
+4. Hotel and motel guest rooms shall have captive card key controls, occupancy sensing controls or automatic controls such that, no longer than 30 minutes after the guest room has been vacated, setpoints are set up at least +5°F (+3°C) in cooling mode and set down at least -5°F (-3°C) in heating mode.
+
+Exception to Section 120.2(e): Systems serving healthcare facilities.
+
+(f) Dampers for air supply and exhaust equipment. Outdoor air supply and exhaust equipment shall be installed with dampers that automatically close upon fan shutdown.
+
+Exception 1 to Section 120.2(f): Equipment that serves an area that must operate continuously.
+
+Exception 2 to Section 120.2(f): Gravity and other non-electrical equipment that has readily accessible manual damper controls.
+
+Exception 3 to Section 120.2(f): At combustion air intakes and shaft vents.
+
+Exception 4 to Section 120.2(f): Where prohibited by other provisions of law.
+
+(g) Isolation area devices. Each space-conditioning system serving multiple zones with a combined conditioned floor area of more than 25,000 square feet shall be designed, installed and controlled to serve isolation areas.
+
+1. Each zone, or any combination of zones not exceeding 25,000 square feet, shall be a separate isolation area.
+
+2. Each isolation area shall be provided with isolation devices, such as valves or dampers, that allow the supply of heating or cooling to be reduced or shut off independently of other isolation areas.
+
+3. Each isolation area shall be controlled by a device meeting the requirements of Section 120.2(e)1.
+
+Exception to Section 120.2(g): Zones designed to be conditioned continuously.
+
+(h) Automatic demand shed controls. See Section 110.12 for requirements for automatic demand shed controls.
+
+(i) Economizer fault detection and diagnostics (FDD). All newly installed air handlers with a mechanical cooling capacity over 33,000 Btu/hr and an installed air economizer shall include a stand-alone or integrated Fault Detection and Diagnostics (FDD) system in accordance with Subsections 120.2(i)1 through 120.2(i)8.
+
+1. The following temperature sensors shall be permanently installed to monitor system operation: outside air, supply air, and when required for differential economizer operation a return air sensor, and
+
+2. Temperature sensors shall have an accuracy of ±2°F over the range of 40°F to 80°F; and
+
+3. The controller shall have the capability of displaying the value of each sensor; and
+
+4. The controller shall provide system status by indicating the following conditions:
+
+A. Free cooling available;
+
+B. Economizer enabled;
+
+C. Compressor enabled;
+
+D. Heating enabled, if the system is capable of heating; and
+
+E. Mixed-air low limit cycle active.
+
+5. The unit controller shall allow manual initiation of each operating mode so that the operation of cooling systems, economizers, fans and heating system can be independently tested and verified; and
+
+6. Faults shall be reported in one of the following ways:
+
+A. Reported to an Energy Management Control System regularly monitored by facility personnel.
+
+B. Annunciated locally on one or more zone thermostats, or a device within five (5) feet of zone thermostat(s), clearly visible, at eye level, and meeting the following requirements:
+
+i. On the thermostat, device, or an adjacent written sign, display instructions to contact appropriate building personnel or an HVAC technician; and
+
+ii. In buildings with multiple tenants, the annunciation shall either be within property management offices or in a common space accessible by the property or building manager.
+
+C. Reported to a fault management application which automatically provides notification of the fault to a remote HVAC service provider.
+
+7. The FDD system shall detect the following faults:
+
+A. Air temperature sensor failure/fault;
+
+B. Not economizing when it should;
+
+C. Economizing when it should not;
+
+D. Damper not modulating; and
+
+E. Excess outdoor air.
+
+8. The FDD System shall be certified by the Energy Commission as meeting requirements of Subsections 120.2(i)1 through 120.2(i)7 in accordance with Section 110.0 and JA6.3.
+
+Exception to  Section 120.2(i)8: FDD algorithms based in direct digital control systems are not required to be certified to the Energy Commission.
+
+(j) Direct Digital Controls (DDC). Direct Digital Controls to the zone shall be provided as specified by Table 120.2-A. The provided DDC system shall meet the control
+logic requirements of Sections 120.1(d), 110.12(a) and
+110.12(b), and be capable of the following:
+
+The provided DDC system shall meet the control logic requirements of Sections 110.12(a), 110.12(b) and 120.1(d) and be capable of the following:
+
+1. Monitoring zone and system demand for fan pressure, pump pressure, heating and cooling;
+
+2. Transferring zone and system demand information from zones to air distribution system controllers and from air distribution systems to heating and cooling plant controllers;
+
+3. Automatically detecting the zones and systems that may be excessively driving the reset logic and generate an alarm or other indication to the system operator;
+
+4. Readily allow operator removal of zone(s) from the reset algorithm;
+
+5. For new buildings, trending and graphically displaying input and output points; and
+
+6. Resetting heating and cooling setpoints in all noncritical zones upon receipt of a signal from a centralized contact or software point as described in Section 110.12(b).
+
+(k) Optimum start/stop controls. Space conditioning systems with DDC to the zone level shall have optimum start/stop controls. The control algorithm shall, as a minimum, be a function of the difference between space temperature and occupied setpoint, the outdoor air temperature, and the amount of time prior to scheduled occupancy. Mass radiant floor slab systems shall incorporate floor temperature onto the optimum start algorithm.
+
+Exception to Section 120.2(k): Systems that must operate continuously.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 120.2-A
+
+DDC APPLICATIONS AND QUALIFICATIONS
+
+BUILDING STATUS	APPLICATIONS	QUALIFICATIONS
+Newly Constructed Buildings	Air handling system and all zones served by the system	Individual systems supplying more than three zones and with design heating or cooling capacity of 300 kBtu/h and larger
+Chilled water plant and all coils and terminal units served by the system	Individual plants supplying more than three zones and with design cooling capacity of 300 kBtu/h (87.9 kW) and larger
+Hot water plant and all coils and terminal units served by the system	Individual plants supplying more than three zones and with design heating capacity of 300 kBtu/h (87.9 kW) and larger
+Additions or Alterations	Zone terminal unit such as VAV box	Where existing zones served by the same air handling, chilled water, or hot water systems that have DDC
+Air handling system or fan coil	Where existing air handling system(s) and fan coil(s) served by the same chilled or hot water plant have DDC
+New air handling system and all new zones served by the system	Individual systems with design heating or cooling capacity of 300 kBtu/h and larger and supplying more than three zones and more than 75 percent of zones are new
+New or upgraded chilled water plant	Where all chillers are new and plant design cooling capacity is 300 kBtu/h (87.9 kW) and larger
+New or upgraded hot water plant	Where all boilers are new and plant design heating capacity is 300 kBtu/h (87.9 kW) and largerSECTION 120.3 REQUIREMENTS FOR PIPE INSULATION
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 120.3(a) through 120.3(c).
+
+(a) General requirements. The piping conditions listed below for space-conditioning and service water-heating systems with fluid normal operating temperatures listed in Table 120.3-A, shall have at least the amount of insulation specified in Subsection (c):
+
+1. Space cooling systems. All refrigerant suction, chilled water, and brine fluid distribution systems.
+
+2. Space heating systems. All refrigerant, steam, steam condensate and hot water fluid distribution systems.
+
+3. Service water-heating systems.
+
+A. Recirculating system piping, including the supply and return piping to the water heater.
+
+B. The first 8 feet of hot and cold outlet piping, including piping between a storage tank and a heat trap, for a nonrecirculating storage system.
+
+C. Pipes that are externally heated.
+
+Insulation conductivity shall be determined in accordance with ASTM C335 at the mean temperature listed in Table 120.3-A, and shall be rounded to the nearest 1/100 Btu-inch per hour per square foot per °F. Fluid distribution systems include all elements that are in series with the fluid flow, such as pipes, pumps, valves, strainers, coil u-bends, and air separators, but not including elements that are not in series with the fluid flow, such as expansion tanks, fill lines, chemical feeders, and drains.
+
+Exception to Section 120.3(a)2: Heat pump refrigerant vapor line shall be installed with a minimum of 0.5-inch-thick or R-3.0 insulation for nonresidential buildings and 0.75-inch-thick or R-6.0 insulation for residential buildings. No insulation is required on the refrigerant liquid line.
+
+(b) Insulation protection. Pipe insulation shall be protected from damage due to sunlight, moisture, equipment maintenance and wind. Protection shall, at minimum, include the following:
+
+1. Pipe insulation exposed to weather shall be protected by a cover suitable for outdoor service. The cover shall be water retardant and provides shielding from solar radiation that can cause degradation of the material. Adhesive tape shall not be used to provide this protection.
+
+2. Pipe insulation covering chilled water piping and refrigerant suction piping located outside the conditioned space shall include, or be protected by, a Class I or Class II vapor retarder. All penetrations and joints shall be sealed.
+
+3. Pipe insulation buried below grade must be installed in a water proof and noncrushable casing or sleeve.
+
+(c) Insulation thickness
+
+1. For insulation with a conductivity in the range shown in Table 120.3-A for the applicable fluid temperature range, the insulation shall have the applicable minimum thickness or R-value shown in Table 120.3-A.
+
+2. For insulation with a conductivity outside the range shown in Table 120.3-A for the applicable fluid temperature range, the insulation shall have a minimum R-value shown in Table 120.3-A or thickness as calculated:
+
+where:
+
+T = minimum insulation thickness for material with conductivity K, inches.
+
+PR = pipe actual outside radius, inches.
+
+t = insulation thickness from Table 120.3-A, inches.
+
+K = conductivity of alternate material at the mean rating temperature indicated in Table 120.3-A for the applicable fluid temperature range, in Btu-inch per hour per square foot per °F.
+
+k = The lower value of the conductivity range listed in Table 120.3-A for the applicable fluid temperature range, Btu-inch per hour per square foot per °F.
+
+Exception 1 to Section 120.3: Factory-installed piping within space-conditioning equipment certified under Section 110.1 or 110.2.
+
+Exception 2 to Section 120.3: Piping that conveys fluids with a design operating temperature range between 60°F and 105°F.
+
+Exception 3 to Section 120.3: Where the heat gain or heat loss to or from piping without insulation will not increase building source energy use.
+
+Exception 4 to Section 120.3: Piping that penetrates framing members shall not be required to have pipe insulation for the distance of the framing penetration. Metal piping that penetrates metal framing shall use grommets, plugs, wrapping or other insulating material to assure that no contact is made with the metal framing.
+
+Note:  Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 120.3-A
+
+PIPE INSULATION THICKNESS
+
+FLUID OPERATING TEMPERATURE RANGE (°F)	INSULATION CONDUCTIVITY		NOMINAL PIPE DIAMETER (in inches)
+CONDUCTIVITY (in Btu·in/h·ft2 · °F)	MEAN RATING TEMPERATURE (°F)	< 1	1 to < 1.5	1.5 to < 4	4 to < 8	8 and larger
+Space heating and Service Water Heating Systems (Steam, Steam Condensate, Refrigerant, Space Heating, Service Hot Water)	Minimum Pipe Insulation Required (Thickness in inches or R-value)
+Above 350	0.32–0.34	250	Inches	4.5	5.0	5.0	5.0	5.0
+R-value	R-37	R-41	R-37	R-27	R-23
+251–350	0.29–0.32	200	Inches	3.0	4.0	4.5	4.5	4.5
+R-value	R-24	R-34	R-35	R-26	R-22
+201–250	0.27–0.30	150	Inches	2.5	2.5	2.5	3.0	3.0
+R-value	R-21	R-20	R-17.5	R-17	R-14.5
+141–200	0.25–0.29	125	Inches	1.5	1.5	2.0	2.0	2.0
+R-value	R-11.5	R-11	R-14	R-11	R-10
+105–140	0.22–0.28	100	Inches	1.0	1.5	1.5	1.5	1.5
+R-value	R-7.7	R-12.5	R-11	R-9	R-8
+FLUIDOPERATINGTEMPERATURERANGE (°F)	INSULATION CONDUCTIVITY		Nominal Pipe Diameter (in inches)
+CONDUCTIVITY (in Btu·in/h·ft2 · °F)	MEAN RATING TEMPERATURE (°F)	< 1	1 to < 1.5	1.5 to < 4	4 to < 8	8 and larger
+Space cooling systems (chilled water, refrigerant and brine)	Minimum Pipe Insulation Required (Thickness in inches or R-value)1
+40–60	0.21–0.27	75	Inches	Nonres 0.5	Res 0.75	Nonres 0.5	Res 0.75	1.0	1.0	1.0
+R-value	Nonres R-3	Res R-6	Nonres R-3	Res R-5	R-7	R-6	R-5
+Below 40	0.20–0.26	50	Inches	1.0	1.5	1.5	1.5	1.5
+R-value	R-8.5	R-14	R-12	R-10	R-91. These thicknesses are based on energy efficiency considerations only. Issues such as water vapor permeability or surface condensation sometimes require vapor retarders or additional insulation.
+
+SECTION 120.4 REQUIREMENTS FOR AIR DISTRIBUTION SYSTEM DUCTS AND PLENUMS
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 120.4(a) through 120.4(g).
+
+Exception to Section 120.4: Systems serving healthcare facilities shall comply with the applicable requirements of the California Mechanical Code.
+
+(a) CMC compliance. All air distribution system ducts and plenums, including but not limited to building cavities, mechanical closets, air-handler boxes and support platforms used as ducts or plenums, shall meet the requirements of the CMC Sections 601.0, 602.0, 603.0, 604.0, and 605.0, and ANSI/SMACNA-006-2006 HVAC Duct Construction Standards Metal and Flexible, 3rd Edition incorporated herein by reference. Connections of metal ducts and the inner core of flexible ducts shall be mechanically fastened. Openings shall be sealed with mastic, tape, aerosol sealant or other duct-closure system that meets the applicable requirements of UL 181, UL 181A, or UL 181B. If mastic or tape is used to seal openings greater than 1/4 inch, the combination of mastic and either mesh or tape shall be used.
+
+Portions of supply-air and return-air ducts conveying heated or cooled air located in one or more of the following spaces shall be insulated to a minimum installed level of R-8:1. Outdoors; or2. In a space between the roof and an insulated ceiling; or3. In a space directly under a roof with fixed vents or openings to the outside or unconditioned spaces; or4. In an unconditioned crawlspace; or5. In other unconditioned spaces.
+
+1. Outdoors; or
+
+2. In a space between the roof and an insulated ceiling; or
+
+3. In a space directly under a roof with fixed vents or openings to the outside or unconditioned spaces; or
+
+4. In an unconditioned crawlspace; or
+
+5. In other unconditioned spaces.
+
+Portions of supply-air ducts that are not in one of these spaces, including ducts buried in concrete slab, shall be insulated to a minimum installed level of R-4.2 or be enclosed in directly conditioned space.
+Portions of supply-air and return-air ducts conveying heated or cooled air located in one or more of the following spaces shall be insulated to a minimum installed level of R-8:
+
+1. Outdoors; or
+
+2. In a space between the roof and an insulated ceiling; or
+
+3. In a space directly under a roof with fixed vents or openings to the outside or unconditioned spaces; or
+
+4. In an unconditioned crawlspace; or
+
+5. In other unconditioned spaces.
+
+Portions of supply-air ducts that are not in one of these spaces, including ducts buried in concrete slab, shall be insulated to a minimum installed level of R-4.2 or be enclosed in directly conditioned space.
+
+(b) Duct and plenum materials.
+
+1. Factory-fabricated duct systems.
+
+A. All factory-fabricated duct systems shall comply with UL 181 for ducts and closure systems, including collars, connections and splices, and be labeled as complying with UL 181. UL 181 testing may be performed by UL laboratories or a laboratory approved by the Executive Director.
+
+B. All pressure-sensitive tapes, heat-activated tapes, and mastics used in the manufacture of rigid fiberglass ducts shall comply with UL 181 and UL 181A.
+
+C. All pressure-sensitive tapes and mastics used with flexible ducts shall comply with UL 181 and UL 181B.
+
+D.All ductwork and plenums with pressure class ratings shall be constructed to Seal Class A. Joints and seams of duct systems and their components shall not be sealed with cloth-back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+Exception to Section 120.4(b)1D: Ductwork located in occupied space and exposed to view is not required to meet Seal Class A.
+
+2. Field-fabricated duct systems.
+
+A. Factory-made rigid fiberglass and flexible ducts for field-fabricated duct systems shall comply with UL 181. All pressure-sensitive tapes, mastics, aerosol sealants or other closure systems used for installing field-fabricated duct systems shall meet the applicable requirements of UL 181, UL 181A and UL 181B.
+
+B. Mastic sealants and mesh.
+
+i. Sealants shall comply with the applicable requirements of UL 181, UL 181A and UL 181B, and be nontoxic and water resistant.
+
+ii. Sealants for interior applications shall pass ASTM C731 (extrudability after aging) and D2202 (slump test on vertical surfaces), incorporated herein by reference.
+
+iii. Sealants for exterior applications shall pass ASTM tests C731, C732 (artificial weathering test), and D2202, incorporated herein by reference.
+
+iv. Sealants and meshes shall be rated for exterior use.
+
+C. Pressure-sensitive tape. Pressure-sensitive tapes shall comply with the applicable requirements of UL 181, UL 181A and UL 181B.
+
+D.All ductwork and plenums with pressure class ratings shall be constructed to Seal Class A. Joints and seams of duct systems and their components shall not be sealed with cloth-back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+Exception to Section 120.4(b)2D: Ductwork located in occupied space and exposed to view is not required to meet Seal Class A.
+
+E. Drawbands used with flexible duct.
+
+i. Drawbands shall be either stainless-steel worm-drive hose clamps or UV-resistant nylon duct ties.
+
+ii. Drawbands shall have a minimum tensile strength rating of 150 pounds.
+
+iii. Drawbands shall be tightened as recommended by the manufacturer with an adjustable tensioning tool.
+
+F. Aerosol-sealant closures.
+
+i. Aerosol sealants shall meet the requirements of UL 723 and be applied according to manufacturer specifications.
+
+ii. Tapes or mastics used in combination with aerosol sealing shall meet the requirements of this section.
+
+(c) All duct insulation product R-values shall be based on insulation only (excluding air films, vapor retarders or other duct components) and tested C-values at 75°F mean temperature at the installed thickness, in accordance with ASTM C518 or ASTM C177, incorporated herein by reference, and certified pursuant to Section 110.8.
+
+(d) The installed thickness of duct insulation used to determine its R-value shall be determined as follows:
+
+1. For duct board, duct liner and factory-made rigid ducts not normally subjected to compression, the nominal insulation thickness shall be used.
+
+2. For duct wrap, installed thickness shall be assumed to be 75 percent (25 percent compression) of nominal thickness.
+
+3. For factory-made flexible air ducts, the installed thickness shall be determined by dividing the difference between the actual outside diameter and nominal inside diameter by two.
+
+(e) Insulated flexible duct products installed to meet this requirement must include labels, in maximum intervals of 3 feet, showing the thermal performance R-value for the duct insulation itself (excluding air films, vapor retarder or other duct components), based on the tests in Section 120.4(c) and the installed thickness determined by Section 120.4(d)3.
+
+(f) Protection of insulation. Insulation shall be protected from damage, including that due to sunlight, moisture, equipment maintenance and wind, but not limited to the following:
+
+Insulation exposed to weather shall be suitable for outdoor service, e.g., protected by aluminum, sheet metal, painted canvas or plastic cover. Cellular foam insulation shall be protected as above or painted with a coating that is water retardant and provides shielding from solar radiation that can cause degradation of the material.
+Insulation exposed to weather shall be suitable for outdoor service, e.g., protected by aluminum, sheet metal, painted canvas or plastic cover. Cellular foam insulation shall be protected as above or painted with a coating that is water retardant and provides shielding from solar radiation that can cause degradation of the material.
+
+(g)Duct sealing. Duct systems shall comply with Subsection 1 or 2 below:
+
+1.New duct systems that meet the criteria in Subsections A, B, C and D below shall be sealed to a leakage rate not to exceed 6 percent of the nominal air handler airflow rate as confirmed through HERS field verification and diagnostic testing, in accordance with Reference Nonresidential Appendix NA7.5.3;
+
+A.The duct system does not serve a healthcare facility; and
+
+B.The duct system provides conditioned air to an occupiable space for a constant volume, single zone, space-conditioning system; and
+
+C.The space-conditioning system serves less than 5,000 square feet of conditioned floor area; and
+
+D.The combined surface area of the ducts located outdoors or in unconditioned space is more than 25 percent of the total surface area of the entire duct system.
+
+2.New duct systems that are not subject to testing under Section 120.4(g)1 shall instead meet the duct leakage testing requirements of CMC Section 603.9.2.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 120.5 REQUIRED NONRESIDENTIAL MECHANICAL SYSTEM ACCEPTANCE
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 120.5(a) through 120.5(b).
+
+Exception to Section 120.5: Systems serving healthcare facilities.
+
+(a) Before an occupancy permit is granted, the following equipment and systems shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements:
+
+1. Outdoor air ventilation systems shall be tested in accordance with NA7.5.1.
+
+2. Constant volume, single zone unitary air conditioning and heat pump unit controls shall be tested in accordance with NA7.5.2.
+
+3.Duct systems that are subject to testing under Section 120.4(g)1, Section 141.0(b)2Di or Section 141.0(b)2Dii shall be tested in accordance with NA7.5.3.
+
+4. Air economizers shall be tested in accordance with NA7.5.4.
+
+Exception to Section 120.5(a)4: Air economizers installed by the HVAC system manufacturer and certified to the Commission as being factory calibrated and tested are exempt from the Functional Testing section of the air economizer controls acceptance test as described in NA7.5.4.2.
+
+5. Demand control ventilation systems required by Section 120.1(c)3 shall be tested in accordance with NA7.5.5.
+
+6. Supply fan variable flow controls shall be tested in accordance with NA7.5.6.
+
+7. Hydronic system variable flow controls shall be tested in accordance with NA7.5.7 and NA7.5.9.
+
+8. Boiler or chillers that require isolation controls as specified by Section 140.4(k)2 or 140.4(k)3 shall be tested in accordance with NA7.5.7.
+
+9. Hydronic systems with supply water temperature reset controls shall be tested in accordance with NA7.5.8.
+
+10. Automatic demand shed controls shall be tested in accordance with NA7.5.10.
+
+11. Fault Detection and Diagnostics (FDD) for Packaged Direct-Expansion Units shall be tested in accordance with NA7.5.11.
+
+12. Automatic fault detection and diagnostics (FDD) for air handling units and zone terminal units shall be tested in accordance with NA7.5.12.
+
+13. Distributed Energy Storage DX AC Systems shall be tested in accordance with NA7.5.13.
+
+14. Thermal Energy Storage (TES) Systems shall be tested in accordance with NA7.5.14.
+
+15. Supply air temperature reset controls shall be tested in accordance with NA7.5.15.
+
+16. Water-cooled chillers served by cooling towers with condenser water reset controls shall be tested in accordance with NA7.5.16.
+
+17. When an energy management control system is installed, it shall functionally meet all of the applicable requirements of Part 6.
+
+18. Occupant sensing zone controls shall be tested in accordance with NA7.5.17.
+
+(b) When certification is required by Title 24, Part 1, Section 10-103.2, the acceptance testing specified by Section 120.5(a) shall be performed by a certified mechanical acceptance test technician (CMATT). If the CMATT is operating as an employee, the CMATT shall be employed by a certified mechanical acceptance test employer. The CMATT shall disclose on the certificate of acceptance a valid CMATT certification identification number issued by an approved acceptance test technician certification provider. The CMATT shall complete all certificate of acceptance documentation in accordance with the applicable requirements in Section 10-103(a)4.
+
+Note: Authority cited: Sections 25213, 25218, 25218.5, 25402 and 25402.1,   Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402(a)-(b), 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 120.6 MANDATORY REQUIREMENTS FOR COVERED PROCESSES
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements of Sections 120.6(a) through 120.6(g).
+
+(a) Mandatory requirements for refrigerated ware-houses.
+
+Refrigerated warehouses that are greater than or equal to 3,000 square feet and refrigerated spaces with a sum total of 3,000 square feet or more that are served by the same refrigeration system shall meet the requirements of Section 120.6(a).
+
+Refrigerated spaces that are less than 3,000 square feet shall meet the requirements of the Appliance Efficiency Regulations for walk-in coolers or freezers contained in the Appliance Efficiency Regulations (California Code of Regulations, Title 20, Sections 1601 through 1608).
+
+1. Insulation requirements. Exterior surfaces of refrigerated warehouses shall be insulated at least to the R-values in Table 120.6-A.
+
+2. Underslab heating. Electric resistance heat shall not be used for the purposes of underslab heating.Exception to Section 120.6(a)2: Underslab heating systems controlled such that the electric resistance heat is thermostatically controlled and disabled during the summer on-peak period defined by the local electric utility.
+
+3. Evaporators. New fan-powered evaporators used in coolers and freezers shall conform to the following:A. Single phase fan motors less than 1 hp and less than 460 Volts in newly installed evaporators shall be electronically-commutated motors or shall have a minimum motor efficiency of 70 percent when rated in accordance with NEMA Standard MG 1-2006 at full load rating conditions.B. Evaporator fans served either by a suction group with multiple compressors or by a single compressor with variable capacity capability shall be variable speed and the speed shall be controlled in response to space temperature or humidity.Exception 1 to Section 120.6(a)3B: Addition, alteration or replacement of less than all of the evaporators in an existing refrigerated space that does not have speed-controlled evaporators.Exception 2 to Section 120.6(a)3B: Coolers within refrigerated warehouses that maintain a controlled atmosphere for which a licensed engineer has certified that the types of products stored will require constant operation at 100 percent of the design airflow.Exception 3 to Section 120.6(a)3B: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products, including but not limited to spaces with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet).C. Evaporator fans served by a single compressor that does not have variable capacity shall utilize controls to reduce airflow by at least 40 percent for at least 75 percent of the time when the compressor is not running.Exception to Section 120.6(a)3C: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet)].
+
+A. Single phase fan motors less than 1 hp and less than 460 Volts in newly installed evaporators shall be electronically-commutated motors or shall have a minimum motor efficiency of 70 percent when rated in accordance with NEMA Standard MG 1-2006 at full load rating conditions.
+
+B. Evaporator fans served either by a suction group with multiple compressors or by a single compressor with variable capacity capability shall be variable speed and the speed shall be controlled in response to space temperature or humidity.Exception 1 to Section 120.6(a)3B: Addition, alteration or replacement of less than all of the evaporators in an existing refrigerated space that does not have speed-controlled evaporators.Exception 2 to Section 120.6(a)3B: Coolers within refrigerated warehouses that maintain a controlled atmosphere for which a licensed engineer has certified that the types of products stored will require constant operation at 100 percent of the design airflow.Exception 3 to Section 120.6(a)3B: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products, including but not limited to spaces with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet).
+
+C. Evaporator fans served by a single compressor that does not have variable capacity shall utilize controls to reduce airflow by at least 40 percent for at least 75 percent of the time when the compressor is not running.Exception to Section 120.6(a)3C: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet)].
+
+4. Condensers. New fan-powered condensers on new refrigeration systems shall conform to the following:A. Design saturated condensing temperatures for evaporative-cooled condensers and water-cooled condensers served by fluid coolers or cooling towers shall be less than or equal to:i. The design wetbulb temperature plus 20°F in locations where the design wetbulb temperature is less than or equal to 76°F;ii. The design wetbulb temperature plus 19°F in locations where the design wetbulb temperature is between 76°F and 78°F; oriii. The design wetbulb temperature plus 18°F in locations were the design wetbulb temperature is greater than or equal to 78°F.Exception 1 to Section 120.6(a)4A: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.B. Design saturated condensing temperatures for air-cooled condensers shall be less than or equal to:i. The design drybulb temperature plus 10°F for systems serving freezers;ii. The design drybulb temperature plus 15°F for systems serving coolers.Exception 1 to Section 120.6(a)4B: Condensing units with a total compressor horsepower less than 100 HP.Exception 2 to Section 120.6(a)4B: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.C. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:i. The design drybulb temperature plus 20°F for systems serving freezers;ii. The design drybulb temperature plus 30°F for systems serving coolers.Exception 1 to Section 120.6(a)4C: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.D. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water fluid coolers or cooling towers shall be continuously variable speed, with system shall control the speed of all fans serving a common condenser high side controlled in unison.E. The minimum condensing temperature setpoint shall be less than or equal to 70°F for systems utilizing air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.F. Condensing temperature reset. The condensing temperature set point of systems served by air-cooled condensers shall be reset in response to ambient drybulb temperature. The condensing temperature set point of systems served by evaporative-cooled condensers or water-cooled condensers (via cooling towers or fluid coolers) shall be reset in response to ambient wetbulb temperatures. The condensing temperature set point for systems served by adiabatic condensers shall be reset in response to ambient drybulb temperature while operating in dry mode.Exception 1 to Section 120.6(a)4F: Condensing temperature control strategies approved by the Executive Director that have been demonstrated to provide at least equal energy savings.Exception 2 to Section 120.6(a)4F: Systems served by adiabatic condensers in Climate Zones 1, 3, 5, 12, 14 and 16.G. Fan-powered condensers shall meet the condenser efficiency requirements listed in Table 120.6-B. Condenser efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power including fan power at 100 percent fan speed, and power of spray pumps for evaporative condensers.Exception to Section 120.6(a)4G: Adiabatic condensers with ammonia as refrigerant.H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.Exception to Section 120.6(a)4H: Micro-channel condensers.Exception to Section 120.6(a)4: Transcritical CO2  refrigeration systems.
+
+A. Design saturated condensing temperatures for evaporative-cooled condensers and water-cooled condensers served by fluid coolers or cooling towers shall be less than or equal to:i. The design wetbulb temperature plus 20°F in locations where the design wetbulb temperature is less than or equal to 76°F;ii. The design wetbulb temperature plus 19°F in locations where the design wetbulb temperature is between 76°F and 78°F; oriii. The design wetbulb temperature plus 18°F in locations were the design wetbulb temperature is greater than or equal to 78°F.Exception 1 to Section 120.6(a)4A: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.
+
+i. The design wetbulb temperature plus 20°F in locations where the design wetbulb temperature is less than or equal to 76°F;
+
+ii. The design wetbulb temperature plus 19°F in locations where the design wetbulb temperature is between 76°F and 78°F; or
+
+iii. The design wetbulb temperature plus 18°F in locations were the design wetbulb temperature is greater than or equal to 78°F.
+
+B. Design saturated condensing temperatures for air-cooled condensers shall be less than or equal to:i. The design drybulb temperature plus 10°F for systems serving freezers;ii. The design drybulb temperature plus 15°F for systems serving coolers.Exception 1 to Section 120.6(a)4B: Condensing units with a total compressor horsepower less than 100 HP.Exception 2 to Section 120.6(a)4B: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.
+
+i. The design drybulb temperature plus 10°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 15°F for systems serving coolers.
+
+C. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:i. The design drybulb temperature plus 20°F for systems serving freezers;ii. The design drybulb temperature plus 30°F for systems serving coolers.Exception 1 to Section 120.6(a)4C: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.
+
+i. The design drybulb temperature plus 20°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 30°F for systems serving coolers.
+
+D. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water fluid coolers or cooling towers shall be continuously variable speed, with system shall control the speed of all fans serving a common condenser high side controlled in unison.
+
+E. The minimum condensing temperature setpoint shall be less than or equal to 70°F for systems utilizing air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.
+
+F. Condensing temperature reset. The condensing temperature set point of systems served by air-cooled condensers shall be reset in response to ambient drybulb temperature. The condensing temperature set point of systems served by evaporative-cooled condensers or water-cooled condensers (via cooling towers or fluid coolers) shall be reset in response to ambient wetbulb temperatures. The condensing temperature set point for systems served by adiabatic condensers shall be reset in response to ambient drybulb temperature while operating in dry mode.Exception 1 to Section 120.6(a)4F: Condensing temperature control strategies approved by the Executive Director that have been demonstrated to provide at least equal energy savings.Exception 2 to Section 120.6(a)4F: Systems served by adiabatic condensers in Climate Zones 1, 3, 5, 12, 14 and 16.
+
+G. Fan-powered condensers shall meet the condenser efficiency requirements listed in Table 120.6-B. Condenser efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power including fan power at 100 percent fan speed, and power of spray pumps for evaporative condensers.Exception to Section 120.6(a)4G: Adiabatic condensers with ammonia as refrigerant.
+
+H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.Exception to Section 120.6(a)4H: Micro-channel condensers.Exception to Section 120.6(a)4: Transcritical CO2  refrigeration systems.
+
+5. Compressors. Compressor systems utilized in refrigerated warehouses shall conform to the following:A.Compressors serving refrigeration systems that are not transcritical CO2 shall be designed to operate at a minimum condensing temperature of 70°F or less.B.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.Exception to Section 120.6(a)5B: Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.C. New open-drive screw compressors in new refrigeration systems with a design saturated suction temperature (SST) of 28°F or lower that discharges to the system condenser pressure shall control compressor speed in response to the refrigeration load.Exception 1 to Section 120.6(a)5C:  Refrigeration plants with more than one dedicated compressor per suction group.Exception 2 to Section 120.6(a)5C:  Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/ freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.D. New screw compressors with nominal electric motor power greater than 150 HP shall include the ability to automatically vary the compressor volume ratio (Vi) in response to operating pressures.
+
+A.Compressors serving refrigeration systems that are not transcritical CO2 shall be designed to operate at a minimum condensing temperature of 70°F or less.
+
+B.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.Exception to Section 120.6(a)5B: Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.
+
+C. New open-drive screw compressors in new refrigeration systems with a design saturated suction temperature (SST) of 28°F or lower that discharges to the system condenser pressure shall control compressor speed in response to the refrigeration load.Exception 1 to Section 120.6(a)5C:  Refrigeration plants with more than one dedicated compressor per suction group.Exception 2 to Section 120.6(a)5C:  Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/ freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.
+
+D. New screw compressors with nominal electric motor power greater than 150 HP shall include the ability to automatically vary the compressor volume ratio (Vi) in response to operating pressures.
+
+6. Infiltration barriers. Passageways between freezers and higher-temperature spaces, and passageways between coolers and nonrefrigerated spaces, shall have an infiltration barrier consisting of strip curtains, an automatically-closing door or an air curtain designed by the manufacturer for use in the passageway and temperature for which it is applied.Exception 1 to Section 120.6(a)6: Openings with less than 16 square feet of opening area.Exception 2 to Section 120.6(a)6: Dock doorways for trailers.
+
+7. Refrigerated warehouse acceptance. Before an occupancy permit is granted for a new refrigerated warehouse, or before a new refrigeration system serving a refrigerated warehouse is operated for normal use, the following equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements:A. Electric resistance underslab heating systems shall be tested in accordance with NA7.10.1.B. Evaporators fan motor controls shall be tested in accordance with NA7.10.2.C. Evaporative condensers shall be tested in accordance with NA7.10.3.1.D. Air-Cooled condensers shall be tested in accordance with NA7.10.3.2.E. Adiabatic condensers shall be tested in accordance with NA7.10.3.3.F. Variable speed compressors shall be tested in accordance with NA7.10.4.G. Transcritical CO2 refrigeration systems shall be tested in accordance with NA7.20.1.
+
+A. Electric resistance underslab heating systems shall be tested in accordance with NA7.10.1.
+
+B. Evaporators fan motor controls shall be tested in accordance with NA7.10.2.
+
+C. Evaporative condensers shall be tested in accordance with NA7.10.3.1.
+
+D. Air-Cooled condensers shall be tested in accordance with NA7.10.3.2.
+
+E. Adiabatic condensers shall be tested in accordance with NA7.10.3.3.
+
+F. Variable speed compressors shall be tested in accordance with NA7.10.4.
+
+G. Transcritical CO2 refrigeration systems shall be tested in accordance with NA7.20.1.
+
+8. Transcritical CO2 gas coolers. New fan-powered gas coolers on all new transcritical CO2 refrigeration systems shall conform to the following:A. Air-cooled gas coolers are prohibited in Climate Zones 9 through 15.B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.Exception to Section 120.6(a)8B: Design leaving gas temperature for air-cooled gas coolers in Climate Zones 2, 4 and 8 shall be less than or equal to the design dry-bulb temperature plus 8°F.C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(a)4F.F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for systems utilizing air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.Exception to Section 120.6(a)8G: Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.H. Fan-powered gas coolers shall meet the gas cooler efficiency requirements listed in Table 120.6-C. Gas cooler efficiency is defined as the Total Heat of Rejection (THR) capacity divided by all electrical input power (fan power at 100 percent fan speed).
+
+A. Air-cooled gas coolers are prohibited in Climate Zones 9 through 15.
+
+B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.Exception to Section 120.6(a)8B: Design leaving gas temperature for air-cooled gas coolers in Climate Zones 2, 4 and 8 shall be less than or equal to the design dry-bulb temperature plus 8°F.
+
+C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.
+
+D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(a)4F.
+
+F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.
+
+G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for systems utilizing air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.Exception to Section 120.6(a)8G: Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.
+
+H. Fan-powered gas coolers shall meet the gas cooler efficiency requirements listed in Table 120.6-C. Gas cooler efficiency is defined as the Total Heat of Rejection (THR) capacity divided by all electrical input power (fan power at 100 percent fan speed).
+
+9.Automatic door closers. Doors designed for the passage of people that are between freezers and highertemperature spaces, or between coolers and nonrefrigerated spaces, shall have automatic door closers.
+Refrigerated warehouses that are greater than or equal to 3,000 square feet and refrigerated spaces with a sum total of 3,000 square feet or more that are served by the same refrigeration system shall meet the requirements of Section 120.6(a).
+
+Refrigerated spaces that are less than 3,000 square feet shall meet the requirements of the Appliance Efficiency Regulations for walk-in coolers or freezers contained in the Appliance Efficiency Regulations (California Code of Regulations, Title 20, Sections 1601 through 1608).
+
+1. Insulation requirements. Exterior surfaces of refrigerated warehouses shall be insulated at least to the R-values in Table 120.6-A.
+
+2. Underslab heating. Electric resistance heat shall not be used for the purposes of underslab heating.
+
+Exception to Section 120.6(a)2: Underslab heating systems controlled such that the electric resistance heat is thermostatically controlled and disabled during the summer on-peak period defined by the local electric utility.
+
+3. Evaporators. New fan-powered evaporators used in coolers and freezers shall conform to the following:
+
+A. Single phase fan motors less than 1 hp and less than 460 Volts in newly installed evaporators shall be electronically-commutated motors or shall have a minimum motor efficiency of 70 percent when rated in accordance with NEMA Standard MG 1-2006 at full load rating conditions.
+
+B. Evaporator fans served either by a suction group with multiple compressors or by a single compressor with variable capacity capability shall be variable speed and the speed shall be controlled in response to space temperature or humidity.
+
+Exception 1 to Section 120.6(a)3B: Addition, alteration or replacement of less than all of the evaporators in an existing refrigerated space that does not have speed-controlled evaporators.
+
+Exception 2 to Section 120.6(a)3B: Coolers within refrigerated warehouses that maintain a controlled atmosphere for which a licensed engineer has certified that the types of products stored will require constant operation at 100 percent of the design airflow.
+
+Exception 3 to Section 120.6(a)3B: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products, including but not limited to spaces with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet).
+
+C. Evaporator fans served by a single compressor that does not have variable capacity shall utilize controls to reduce airflow by at least 40 percent for at least 75 percent of the time when the compressor is not running.
+
+Exception to Section 120.6(a)3C: Areas within refrigerated warehouses that are designed solely for the purpose of quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 square feet)].
+
+4. Condensers. New fan-powered condensers on new refrigeration systems shall conform to the following:
+
+A. Design saturated condensing temperatures for evaporative-cooled condensers and water-cooled condensers served by fluid coolers or cooling towers shall be less than or equal to:
+
+i. The design wetbulb temperature plus 20°F in locations where the design wetbulb temperature is less than or equal to 76°F;
+
+ii. The design wetbulb temperature plus 19°F in locations where the design wetbulb temperature is between 76°F and 78°F; or
+
+iii. The design wetbulb temperature plus 18°F in locations were the design wetbulb temperature is greater than or equal to 78°F.
+
+Exception 1 to Section 120.6(a)4A: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.
+
+B. Design saturated condensing temperatures for air-cooled condensers shall be less than or equal to:
+
+i. The design drybulb temperature plus 10°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 15°F for systems serving coolers.
+
+Exception 1 to Section 120.6(a)4B: Condensing units with a total compressor horsepower less than 100 HP.
+
+Exception 2 to Section 120.6(a)4B: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products (space with design cooling capacities of greater than 240 Btu/hr-ft2), or process refrigeration cooling for other than a refrigerated space.
+
+C. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:
+
+i. The design drybulb temperature plus 20°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 30°F for systems serving coolers.
+
+Exception 1 to Section 120.6(a)4C: Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.
+
+D. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water fluid coolers or cooling towers shall be continuously variable speed, with system shall control the speed of all fans serving a common condenser high side controlled in unison.
+
+E. The minimum condensing temperature setpoint shall be less than or equal to 70°F for systems utilizing air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.
+
+F. Condensing temperature reset. The condensing temperature set point of systems served by air-cooled condensers shall be reset in response to ambient drybulb temperature. The condensing temperature set point of systems served by evaporative-cooled condensers or water-cooled condensers (via cooling towers or fluid coolers) shall be reset in response to ambient wetbulb temperatures. The condensing temperature set point for systems served by adiabatic condensers shall be reset in response to ambient drybulb temperature while operating in dry mode.
+
+Exception 1 to Section 120.6(a)4F: Condensing temperature control strategies approved by the Executive Director that have been demonstrated to provide at least equal energy savings.
+
+Exception 2 to Section 120.6(a)4F: Systems served by adiabatic condensers in Climate Zones 1, 3, 5, 12, 14 and 16.
+
+G. Fan-powered condensers shall meet the condenser efficiency requirements listed in Table 120.6-B. Condenser efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power including fan power at 100 percent fan speed, and power of spray pumps for evaporative condensers.
+
+Exception to Section 120.6(a)4G: Adiabatic condensers with ammonia as refrigerant.
+
+H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.
+
+Exception to Section 120.6(a)4H: Micro-channel condensers.
+
+Exception to Section 120.6(a)4: Transcritical CO2  refrigeration systems.
+
+5. Compressors. Compressor systems utilized in refrigerated warehouses shall conform to the following:
+
+A.Compressors serving refrigeration systems that are not transcritical CO2 shall be designed to operate at a minimum condensing temperature of 70°F or less.
+
+B.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.
+
+Exception to Section 120.6(a)5B: Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.
+
+C. New open-drive screw compressors in new refrigeration systems with a design saturated suction temperature (SST) of 28°F or lower that discharges to the system condenser pressure shall control compressor speed in response to the refrigeration load.
+
+Exception 1 to Section 120.6(a)5C:  Refrigeration plants with more than one dedicated compressor per suction group.
+
+Exception 2 to Section 120.6(a)5C:  Compressors and condensers on a refrigeration system for which more than 20 percent of the total design refrigeration cooling load is for quick chilling/ freezing of products [space with design cooling capacities of greater than 240 Btu/hr-ft2 (2 tons per 100 ft2)], or process refrigeration cooling for other than a refrigerated space.
+
+D. New screw compressors with nominal electric motor power greater than 150 HP shall include the ability to automatically vary the compressor volume ratio (Vi) in response to operating pressures.
+
+6. Infiltration barriers. Passageways between freezers and higher-temperature spaces, and passageways between coolers and nonrefrigerated spaces, shall have an infiltration barrier consisting of strip curtains, an automatically-closing door or an air curtain designed by the manufacturer for use in the passageway and temperature for which it is applied.
+
+Exception 1 to Section 120.6(a)6: Openings with less than 16 square feet of opening area.
+
+Exception 2 to Section 120.6(a)6: Dock doorways for trailers.
+
+7. Refrigerated warehouse acceptance. Before an occupancy permit is granted for a new refrigerated warehouse, or before a new refrigeration system serving a refrigerated warehouse is operated for normal use, the following equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements:
+
+A. Electric resistance underslab heating systems shall be tested in accordance with NA7.10.1.
+
+B. Evaporators fan motor controls shall be tested in accordance with NA7.10.2.
+
+C. Evaporative condensers shall be tested in accordance with NA7.10.3.1.
+
+D. Air-Cooled condensers shall be tested in accordance with NA7.10.3.2.
+
+E. Adiabatic condensers shall be tested in accordance with NA7.10.3.3.
+
+F. Variable speed compressors shall be tested in accordance with NA7.10.4.
+
+G. Transcritical CO2 refrigeration systems shall be tested in accordance with NA7.20.1.
+
+8. Transcritical CO2 gas coolers. New fan-powered gas coolers on all new transcritical CO2 refrigeration systems shall conform to the following:
+
+A. Air-cooled gas coolers are prohibited in Climate Zones 9 through 15.
+
+B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.
+
+Exception to Section 120.6(a)8B: Design leaving gas temperature for air-cooled gas coolers in Climate Zones 2, 4 and 8 shall be less than or equal to the design dry-bulb temperature plus 8°F.
+
+C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.
+
+D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(a)4F.
+
+F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.
+
+G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for systems utilizing air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers for heat rejection.
+
+Exception to Section 120.6(a)8G: Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.
+
+H. Fan-powered gas coolers shall meet the gas cooler efficiency requirements listed in Table 120.6-C. Gas cooler efficiency is defined as the Total Heat of Rejection (THR) capacity divided by all electrical input power (fan power at 100 percent fan speed).
+
+9.Automatic door closers. Doors designed for the passage of people that are between freezers and highertemperature spaces, or between coolers and nonrefrigerated spaces, shall have automatic door closers.
+
+(b) Mandatory requirements for commercial refrigeration.
+
+Retail food or beverage stores with 8,000 square feet or more of conditioned floor area, and that utilize either refrigerated display cases, or walk-in coolers or freezers shall meet all applicable state and federal appliance and equipment standards consistent with Section 110.0 and 110.1 or, for equipment not subject to such standards, the requirements of Subsections 1 through 4.
+
+1. Condensers serving refrigeration systems. Fan-powered condensers shall conform to the following requirements:A. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air- or water-cooled fluid coolers or cooling towers shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.B. The refrigeration system condenser controls for systems with air-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature.C. The refrigeration system condenser controls for systems with evaporative-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient wet-bulb temperature.D. The refrigeration system condenser controls for systems with adiabatic condensers shall use variable setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature while operating in dry mode.Exception 1 to Section 120.6(b)1B, C and D:  Condensing temperature control strategies approved by the executive director that have been demonstrated to provide equal energy savings.Exception 2 to Section 120.6(b)1D:  Systems served by adiabatic condensers in Climate Zone 16.E. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:i. The design drybulb temperature plus 20°F for systems serving freezers;ii. The design drybulb temperature plus 30°F for systems serving coolers.F. The minimum condensing temperature setpoint shall be less than or equal to 70°F.G. Fan-powered condensers shall meet the specific efficiency requirements listed in Table 120.6-D.Exception 1 to Section 120.6(b)1G: Condensers with a total heat rejection capacity of less than 150,000 Btuh at the specific efficiency rating condition.Exception 2 to Section 120.6(b)1G: Stores located in Climate Zone 1.Exception 3 to Section 120.6(b)1G: Existing condensers that are reused for an addition or alteration.H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.Exception 1 to Section 120.6(b)1H: Microchannel condensers.Exception 2 to Section 120.6(b)1H: Existing condensers that are reused for an addition or alteration.Exception to Section 120.6(b)1B, 1C, 1D, 1E, 1F, 1G: Transcritical CO2 refrigeration systems.Exception to Section 120.6(b)1: New condensers replacing existing condensers when the attached compressor system total heat of rejection does not increase and less than 25 percent of both the attached compressors and the attached display cases are new.
+
+A. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air- or water-cooled fluid coolers or cooling towers shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+B. The refrigeration system condenser controls for systems with air-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature.
+
+C. The refrigeration system condenser controls for systems with evaporative-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient wet-bulb temperature.
+
+D. The refrigeration system condenser controls for systems with adiabatic condensers shall use variable setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature while operating in dry mode.Exception 1 to Section 120.6(b)1B, C and D:  Condensing temperature control strategies approved by the executive director that have been demonstrated to provide equal energy savings.Exception 2 to Section 120.6(b)1D:  Systems served by adiabatic condensers in Climate Zone 16.
+
+E. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:i. The design drybulb temperature plus 20°F for systems serving freezers;ii. The design drybulb temperature plus 30°F for systems serving coolers.
+
+i. The design drybulb temperature plus 20°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 30°F for systems serving coolers.
+
+F. The minimum condensing temperature setpoint shall be less than or equal to 70°F.
+
+G. Fan-powered condensers shall meet the specific efficiency requirements listed in Table 120.6-D.Exception 1 to Section 120.6(b)1G: Condensers with a total heat rejection capacity of less than 150,000 Btuh at the specific efficiency rating condition.Exception 2 to Section 120.6(b)1G: Stores located in Climate Zone 1.Exception 3 to Section 120.6(b)1G: Existing condensers that are reused for an addition or alteration.
+
+H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.Exception 1 to Section 120.6(b)1H: Microchannel condensers.Exception 2 to Section 120.6(b)1H: Existing condensers that are reused for an addition or alteration.Exception to Section 120.6(b)1B, 1C, 1D, 1E, 1F, 1G: Transcritical CO2 refrigeration systems.Exception to Section 120.6(b)1: New condensers replacing existing condensers when the attached compressor system total heat of rejection does not increase and less than 25 percent of both the attached compressors and the attached display cases are new.
+
+2. Compressor systems. Refrigeration compressor systems and condensing units shall conform to the following requirements:A. Compressors and multiple-compressor suction groups shall include control systems that use floating suction pressure logic to reset the target saturated suction temperature based on the temperature requirements of the attached refrigeration display cases or walk-ins.Exception 1 to Section 120.6(b)2A: Single compressor systems that do not have continuously variable capacity capability.Exception 2 to Section 120.6(b)2A: Suction groups that have a design saturated suction temperature of 30°F or higher, or suction groups that comprise the high stage of a two-stage or cascade system or that primarily serve chillers for secondary cooling fluids.B. Liquid subcooling shall be provided for all low temperature compressor systems with a design cooling capacity equal or greater than 100,000 Btu/hr with a design saturated suction temperature of -10°F or lower, with the subcooled liquid temperature maintained continuously at 50°F or less at the exit of the subcooler, using compressor economizer port(s) or a separate medium or high temperature suction group operating at a saturated suction temperature of 18°F or higher.Exception 1 to Section 120.6(b)2B: Low temperature cascade systems that condense into another refrigeration system rather than condensing to ambient temperature.Exception 2 to Section 120.6(b)2B:  Transcritical CO2 refrigeration systems.C.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.Exception to  Section 120.6(b)2C:  Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.Exception to Section 120.6(b)2: Existing compressor systems that are reused for an addition or alteration.
+
+A. Compressors and multiple-compressor suction groups shall include control systems that use floating suction pressure logic to reset the target saturated suction temperature based on the temperature requirements of the attached refrigeration display cases or walk-ins.Exception 1 to Section 120.6(b)2A: Single compressor systems that do not have continuously variable capacity capability.Exception 2 to Section 120.6(b)2A: Suction groups that have a design saturated suction temperature of 30°F or higher, or suction groups that comprise the high stage of a two-stage or cascade system or that primarily serve chillers for secondary cooling fluids.
+
+B. Liquid subcooling shall be provided for all low temperature compressor systems with a design cooling capacity equal or greater than 100,000 Btu/hr with a design saturated suction temperature of -10°F or lower, with the subcooled liquid temperature maintained continuously at 50°F or less at the exit of the subcooler, using compressor economizer port(s) or a separate medium or high temperature suction group operating at a saturated suction temperature of 18°F or higher.Exception 1 to Section 120.6(b)2B: Low temperature cascade systems that condense into another refrigeration system rather than condensing to ambient temperature.Exception 2 to Section 120.6(b)2B:  Transcritical CO2 refrigeration systems.
+
+C.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.Exception to  Section 120.6(b)2C:  Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.Exception to Section 120.6(b)2: Existing compressor systems that are reused for an addition or alteration.
+
+3. Refrigerated display cases. Lighting in refrigerated display cases, and lights on glass doors installed on walk-in coolers and freezers shall be controlled by one of the following:A. Automatic time switch controls to turn off lights during nonbusiness hours. Timed overrides for any line-up or walk-in case may only be used to turn the lights on for up to one hour. Manual overrides shall time-out automatically to turn the lights off after one hour.B. Motion sensor controls on each case that reduce display case lighting power by at least 50 percent within 30 minutes after the area near the case is vacated.
+
+A. Automatic time switch controls to turn off lights during nonbusiness hours. Timed overrides for any line-up or walk-in case may only be used to turn the lights on for up to one hour. Manual overrides shall time-out automatically to turn the lights off after one hour.
+
+B. Motion sensor controls on each case that reduce display case lighting power by at least 50 percent within 30 minutes after the area near the case is vacated.
+
+4. Refrigeration heat recovery.A. HVAC systems shall utilize heat recovery from refrigeration system(s) for space heating, using no less than 25 percent of the sum of the design total heat of rejection of all refrigeration systems that have individual total heat of rejection values of 150,000 Btu/h or greater at design conditions.Exception 1 to Section 120.6(b)4A: Stores located in Climate Zone 15.Exception 2 to Section 120.6(b)4A: HVAC systems or refrigeration systems that are reused for an addition or alteration.Exception 3 to Section 120.6(b)4A:  Stores where the design total heat of rejection of all refrigeration systems is less than or equal to 500,000 Btu/h.B. The increase in hydrofluorocarbon refrigerant charge associated with refrigeration heat recovery equipment and piping shall be no greater than 0.35 lbs per 1,000 Btu/h of heat recovery heating capacity.
+
+A. HVAC systems shall utilize heat recovery from refrigeration system(s) for space heating, using no less than 25 percent of the sum of the design total heat of rejection of all refrigeration systems that have individual total heat of rejection values of 150,000 Btu/h or greater at design conditions.Exception 1 to Section 120.6(b)4A: Stores located in Climate Zone 15.Exception 2 to Section 120.6(b)4A: HVAC systems or refrigeration systems that are reused for an addition or alteration.Exception 3 to Section 120.6(b)4A:  Stores where the design total heat of rejection of all refrigeration systems is less than or equal to 500,000 Btu/h.
+
+B. The increase in hydrofluorocarbon refrigerant charge associated with refrigeration heat recovery equipment and piping shall be no greater than 0.35 lbs per 1,000 Btu/h of heat recovery heating capacity.
+
+5. Transcritical CO2 gas coolers. New fan-powered gas coolers on all new transcritical CO2 refrigeration systems shall conform to the following:A. Air-cooled gas coolers are prohibited in Climate Zones 10 through 15.B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(b)1A.F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers.Exception to Section 120.6(b)5G:  Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.H. Fan-powered gas coolers shall meet the condenser efficiency requirements listed in Table 120.6-E. Gas cooler efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power (fan power at 100-percent fan speed).
+
+A. Air-cooled gas coolers are prohibited in Climate Zones 10 through 15.
+
+B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.
+
+C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.
+
+D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(b)1A.
+
+F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.
+
+G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers.Exception to Section 120.6(b)5G:  Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.
+
+H. Fan-powered gas coolers shall meet the condenser efficiency requirements listed in Table 120.6-E. Gas cooler efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power (fan power at 100-percent fan speed).
+
+6.Commercial refrigeration acceptance. Before an occupancy permit is granted for a new retail food or beverage store, or before a new refrigeration system serving a retail food or beverage store is operated for normal use, the following equipment and systems shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements. Transcritical CO2 refrigeration systems shall be tested in accordance with NA7.20.1.
+Retail food or beverage stores with 8,000 square feet or more of conditioned floor area, and that utilize either refrigerated display cases, or walk-in coolers or freezers shall meet all applicable state and federal appliance and equipment standards consistent with Section 110.0 and 110.1 or, for equipment not subject to such standards, the requirements of Subsections 1 through 4.
+
+1. Condensers serving refrigeration systems. Fan-powered condensers shall conform to the following requirements:
+
+A. All condenser fans for air-cooled condensers, evaporative-cooled condensers, adiabatic condensers, gas coolers, air- or water-cooled fluid coolers or cooling towers shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+B. The refrigeration system condenser controls for systems with air-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature.
+
+C. The refrigeration system condenser controls for systems with evaporative-cooled condensers shall use variable-setpoint control logic to reset the condensing temperature setpoint in response to ambient wet-bulb temperature.
+
+D. The refrigeration system condenser controls for systems with adiabatic condensers shall use variable setpoint control logic to reset the condensing temperature setpoint in response to ambient drybulb temperature while operating in dry mode.
+
+Exception 1 to Section 120.6(b)1B, C and D:  Condensing temperature control strategies approved by the executive director that have been demonstrated to provide equal energy savings.
+
+Exception 2 to Section 120.6(b)1D:  Systems served by adiabatic condensers in Climate Zone 16.
+
+E. The saturated condensing temperature necessary for adiabatic condensers to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to:
+
+i. The design drybulb temperature plus 20°F for systems serving freezers;
+
+ii. The design drybulb temperature plus 30°F for systems serving coolers.
+
+F. The minimum condensing temperature setpoint shall be less than or equal to 70°F.
+
+G. Fan-powered condensers shall meet the specific efficiency requirements listed in Table 120.6-D.
+
+Exception 1 to Section 120.6(b)1G: Condensers with a total heat rejection capacity of less than 150,000 Btuh at the specific efficiency rating condition.
+
+Exception 2 to Section 120.6(b)1G: Stores located in Climate Zone 1.
+
+Exception 3 to Section 120.6(b)1G: Existing condensers that are reused for an addition or alteration.
+
+H. Air-cooled condensers shall have a fin density no greater than 10 fins per inch.
+
+Exception 1 to Section 120.6(b)1H: Microchannel condensers.
+
+Exception 2 to Section 120.6(b)1H: Existing condensers that are reused for an addition or alteration.
+
+Exception to Section 120.6(b)1B, 1C, 1D, 1E, 1F, 1G: Transcritical CO2 refrigeration systems.
+
+Exception to Section 120.6(b)1: New condensers replacing existing condensers when the attached compressor system total heat of rejection does not increase and less than 25 percent of both the attached compressors and the attached display cases are new.
+
+2. Compressor systems. Refrigeration compressor systems and condensing units shall conform to the following requirements:
+
+A. Compressors and multiple-compressor suction groups shall include control systems that use floating suction pressure logic to reset the target saturated suction temperature based on the temperature requirements of the attached refrigeration display cases or walk-ins.
+
+Exception 1 to Section 120.6(b)2A: Single compressor systems that do not have continuously variable capacity capability.
+
+Exception 2 to Section 120.6(b)2A: Suction groups that have a design saturated suction temperature of 30°F or higher, or suction groups that comprise the high stage of a two-stage or cascade system or that primarily serve chillers for secondary cooling fluids.
+
+B. Liquid subcooling shall be provided for all low temperature compressor systems with a design cooling capacity equal or greater than 100,000 Btu/hr with a design saturated suction temperature of -10°F or lower, with the subcooled liquid temperature maintained continuously at 50°F or less at the exit of the subcooler, using compressor economizer port(s) or a separate medium or high temperature suction group operating at a saturated suction temperature of 18°F or higher.
+
+Exception 1 to Section 120.6(b)2B: Low temperature cascade systems that condense into another refrigeration system rather than condensing to ambient temperature.
+
+Exception 2 to Section 120.6(b)2B:  Transcritical CO2 refrigeration systems.
+
+C.Compressors for transcritical CO2 refrigeration systems shall be designed to operate at a minimum condensing temperature of 60°F or less.
+
+Exception to  Section 120.6(b)2C:  Compressors with a design saturated suction temperature greater than or equal to 30°F shall be designed to operate at a minimum condensing temperature of 70°F or less.
+
+Exception to Section 120.6(b)2: Existing compressor systems that are reused for an addition or alteration.
+
+3. Refrigerated display cases. Lighting in refrigerated display cases, and lights on glass doors installed on walk-in coolers and freezers shall be controlled by one of the following:
+
+A. Automatic time switch controls to turn off lights during nonbusiness hours. Timed overrides for any line-up or walk-in case may only be used to turn the lights on for up to one hour. Manual overrides shall time-out automatically to turn the lights off after one hour.
+
+B. Motion sensor controls on each case that reduce display case lighting power by at least 50 percent within 30 minutes after the area near the case is vacated.
+
+4. Refrigeration heat recovery.
+
+A. HVAC systems shall utilize heat recovery from refrigeration system(s) for space heating, using no less than 25 percent of the sum of the design total heat of rejection of all refrigeration systems that have individual total heat of rejection values of 150,000 Btu/h or greater at design conditions.
+
+Exception 1 to Section 120.6(b)4A: Stores located in Climate Zone 15.
+
+Exception 2 to Section 120.6(b)4A: HVAC systems or refrigeration systems that are reused for an addition or alteration.
+
+Exception 3 to Section 120.6(b)4A:  Stores where the design total heat of rejection of all refrigeration systems is less than or equal to 500,000 Btu/h.
+
+B. The increase in hydrofluorocarbon refrigerant charge associated with refrigeration heat recovery equipment and piping shall be no greater than 0.35 lbs per 1,000 Btu/h of heat recovery heating capacity.
+
+5. Transcritical CO2 gas coolers. New fan-powered gas coolers on all new transcritical CO2 refrigeration systems shall conform to the following:
+
+A. Air-cooled gas coolers are prohibited in Climate Zones 10 through 15.
+
+B. Design leaving gas temperature for air-cooled gas coolers shall be less than or equal to the design drybulb temperature plus 6°F.
+
+C. Design leaving gas temperature for adiabatic gas coolers necessary to reject the design total heat of rejection of a refrigeration system assuming dry mode performance shall be less than or equal to the design dry-bulb temperature plus 15°F.
+
+D. All gas cooler fans shall be continuously variable speed, with the speed of all fans serving a common condenser high side controlled in unison.
+
+E. While operating below the critical point, the gas cooler pressure shall be controlled in accordance with Section 120.6(b)1A.
+
+F. While operating above the critical point, the gas cooler pressure setpoint shall be reset based on ambient conditions such that the system efficiency is maximized.
+
+G. The minimum condensing temperature setpoint shall be less than or equal to 60°F for air-cooled gas coolers, evaporative-cooled gas coolers, adiabatic gas coolers, air or water-cooled fluid coolers or cooling towers.
+
+Exception to Section 120.6(b)5G:  Transcritical CO2 refrigeration systems with a design intermediate saturated suction temperature greater than or equal to 30°F shall have a minimum condensing temperature setpoint of 70°F or less.
+
+H. Fan-powered gas coolers shall meet the condenser efficiency requirements listed in Table 120.6-E. Gas cooler efficiency is defined as the total heat of rejection (THR) capacity divided by all electrical input power (fan power at 100-percent fan speed).
+
+6.Commercial refrigeration acceptance. Before an occupancy permit is granted for a new retail food or beverage store, or before a new refrigeration system serving a retail food or beverage store is operated for normal use, the following equipment and systems shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements. Transcritical CO2 refrigeration systems shall be tested in accordance with NA7.20.1.
+
+(c) Mandatory requirements for enclosed parking garages.
+
+Mechanical ventilation systems for enclosed parking garages where the total design exhaust rate for the garage is greater than or equal to 10,000 cfm shall conform to all of the following:
+
+1. Automatically detect contaminant levels and stage fans or modulate fan airflow rates to 50 percent or less of design capacity, provided acceptable contaminant levels are maintained.
+
+2. Have controls and/or devices that will result in fan motor demand of no more than 30 percent of design wattage at 50 percent of design airflow.
+
+3. CO shall be monitored with at least one sensor per 5,000 square feet, with the sensor located in the highest expected concentration locations, with at least two sensors per proximity zone. A proximity zone is defined as an area that is isolated from other areas either by floor or other impenetrable obstruction.
+
+4. CO concentration at all sensors is maintained at ≤ 25 ppm or less at all times.
+
+5. The ventilation rate shall be at least 0.15 cfm/ft2 when the garage is scheduled to be occupied.
+
+6. The system shall maintain the garage at negative or neutral pressure relative to other occupiable spaces when the garage is scheduled to be occupied.
+
+7. CO sensors shall be:A. Certified by the manufacturer to be accurate within plus or minus 5 percent of measurement.B. Factory calibrated.C. Certified by the manufacturer to drift no more than 5 percent per year.D. Certified by the manufacturer to require calibration no more frequently than once a year.E. Monitored by a control system. The system shall have logic that automatically checks for sensor failure by the following means. Upon detection of a failure, the system shall reset to design ventilation rates and transmit an alarm to the facility operators.i. If any sensor has not been calibrated according to the manufacturer’s recommendations within the specified calibration period, the sensor has failed.ii. During unoccupied periods the system compares the readings of all sensors, e.g., if any sensor is more than 15 ppm above or below the average of all sensors for longer than four hours, the sensor has failed.iii. During occupied periods the system compares the readings of sensors in the same proximity zone, e.g., if the 30 minute rolling average for any sensor in a proximity zone is more than 15 ppm above or below the 30 minute rolling average for other sensor(s) in that proximity zone, the sensor has failed.
+
+A. Certified by the manufacturer to be accurate within plus or minus 5 percent of measurement.
+
+B. Factory calibrated.
+
+C. Certified by the manufacturer to drift no more than 5 percent per year.
+
+D. Certified by the manufacturer to require calibration no more frequently than once a year.
+
+E. Monitored by a control system. The system shall have logic that automatically checks for sensor failure by the following means. Upon detection of a failure, the system shall reset to design ventilation rates and transmit an alarm to the facility operators.i. If any sensor has not been calibrated according to the manufacturer’s recommendations within the specified calibration period, the sensor has failed.ii. During unoccupied periods the system compares the readings of all sensors, e.g., if any sensor is more than 15 ppm above or below the average of all sensors for longer than four hours, the sensor has failed.iii. During occupied periods the system compares the readings of sensors in the same proximity zone, e.g., if the 30 minute rolling average for any sensor in a proximity zone is more than 15 ppm above or below the 30 minute rolling average for other sensor(s) in that proximity zone, the sensor has failed.
+
+i. If any sensor has not been calibrated according to the manufacturer’s recommendations within the specified calibration period, the sensor has failed.
+
+ii. During unoccupied periods the system compares the readings of all sensors, e.g., if any sensor is more than 15 ppm above or below the average of all sensors for longer than four hours, the sensor has failed.
+
+iii. During occupied periods the system compares the readings of sensors in the same proximity zone, e.g., if the 30 minute rolling average for any sensor in a proximity zone is more than 15 ppm above or below the 30 minute rolling average for other sensor(s) in that proximity zone, the sensor has failed.
+
+8. Parking garage ventilation system acceptance. Before an occupancy permit is granted for a parking garage system subject to Section 120.6(c), the following equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.12.Exception 1 to Section 120.6(c): Any garage, or portion of a garage, where more than 20 percent of the vehicles expected to be stored have nongasoline combustion engines.Exception 2 to Section 120.6(c): Additions and alterations to existing garages where less than 10,000 cfm of new exhaust capacity is being added.
+Mechanical ventilation systems for enclosed parking garages where the total design exhaust rate for the garage is greater than or equal to 10,000 cfm shall conform to all of the following:
+
+1. Automatically detect contaminant levels and stage fans or modulate fan airflow rates to 50 percent or less of design capacity, provided acceptable contaminant levels are maintained.
+
+2. Have controls and/or devices that will result in fan motor demand of no more than 30 percent of design wattage at 50 percent of design airflow.
+
+3. CO shall be monitored with at least one sensor per 5,000 square feet, with the sensor located in the highest expected concentration locations, with at least two sensors per proximity zone. A proximity zone is defined as an area that is isolated from other areas either by floor or other impenetrable obstruction.
+
+4. CO concentration at all sensors is maintained at ≤ 25 ppm or less at all times.
+
+5. The ventilation rate shall be at least 0.15 cfm/ft2 when the garage is scheduled to be occupied.
+
+6. The system shall maintain the garage at negative or neutral pressure relative to other occupiable spaces when the garage is scheduled to be occupied.
+
+7. CO sensors shall be:
+
+A. Certified by the manufacturer to be accurate within plus or minus 5 percent of measurement.
+
+B. Factory calibrated.
+
+C. Certified by the manufacturer to drift no more than 5 percent per year.
+
+D. Certified by the manufacturer to require calibration no more frequently than once a year.
+
+E. Monitored by a control system. The system shall have logic that automatically checks for sensor failure by the following means. Upon detection of a failure, the system shall reset to design ventilation rates and transmit an alarm to the facility operators.
+
+i. If any sensor has not been calibrated according to the manufacturer’s recommendations within the specified calibration period, the sensor has failed.
+
+ii. During unoccupied periods the system compares the readings of all sensors, e.g., if any sensor is more than 15 ppm above or below the average of all sensors for longer than four hours, the sensor has failed.
+
+iii. During occupied periods the system compares the readings of sensors in the same proximity zone, e.g., if the 30 minute rolling average for any sensor in a proximity zone is more than 15 ppm above or below the 30 minute rolling average for other sensor(s) in that proximity zone, the sensor has failed.
+
+8. Parking garage ventilation system acceptance. Before an occupancy permit is granted for a parking garage system subject to Section 120.6(c), the following equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.12.
+
+Exception 1 to Section 120.6(c): Any garage, or portion of a garage, where more than 20 percent of the vehicles expected to be stored have nongasoline combustion engines.
+
+Exception 2 to Section 120.6(c): Additions and alterations to existing garages where less than 10,000 cfm of new exhaust capacity is being added.
+
+(d) Mandatory requirements for process boilers.
+
+1. Combustion air positive shut-off shall be provided on all newly installed process boilers as follows:
+
+A. All process boilers with an input capacity of 2.5 MMBtu/h (2,500,000 Btu/h) and above, in which the boiler is designed to operate with a nonpositive vent static pressure.
+
+B. All process boilers where one stack serves two or more boilers with a total combined input capacity per stack of 2.5 MMBtu/h (2,500,000 Btu/h).
+
+2. Process boiler combustion air fans with motors 10 horsepower or larger shall meet one of the following for newly installed boilers:
+
+A. The fan motor shall be driven by a variable speed drive; or.
+
+B. The fan motor shall include controls that limit the fan motor demand to no more than 30 percent of the total design wattage at 50 percent of design air volume.
+
+3. Newly installed process boilers with an input capacity greater than 5 MMBtu/h (5,000,000 Btu/h) shall maintain stack-gas oxygen concentrations at less than or equal to 3.0 percent by volume on a dry basis over firing rates of 20 to 100 percent. Combustion air volume shall be controlled with respect to measured flue gas oxygen concentration. Use of a common gas and combustion air control linkage or jack shaft is prohibited.
+
+Exception to Section 120.6(d)3:  Boilers with steady state full-load combustion efficiency 90 percent or higher.
+
+(e) Mandatory requirements for compressed air systems.
+
+All new compressed air systems, and all additions or alterations of compressed air systems where the total combined horsepower (hp) of the compressor(s) is 25 hp or more shall meet the requirements of Subsections 1 through 5. These requirements apply to the compressors, related piping systems and related controls that provide compressed air and do not apply to any equipment or controls that use or process the compressed air.
+
+Exception 1 to Section 120.6(e):  Medical gas compressed air systems serving healthcare facilities.
+
+1. Trim compressor and storage. The compressed air system shall be equipped with an appropriately sized trim compressor and primary storage to provide acceptable performance across the range of the system and to avoid control gaps. The compressed air system shall comply with Subsection A or B below.
+
+A. The compressed air system shall include one or more variable speed drive (VSD) compressors. For systems with more than one compressor, the total combined capacity of the VSD compressor(s) acting as trim compressors must be at least 1.25 times the largest net capacity increment between combinations of compressors. The compressed air system shall include primary storage of at least one gallon per actual cubic feet per minute (acfm) of the largest trim compressor; or
+
+B. The compressed air system shall include a compressor or set of compressors with total effective trim capacity at least the size of the largest net capacity increment between combinations of compressors, or the size of the smallest compressor, whichever is larger. The total effective trim capacity of single compressor systems shall cover at least the range from 70 to 100 percent of rated capacity. The effective trim capacity of a compressor is the size of the continuous operational range where the specific power of the compressor (kW/100 acfm) is within 15 percent of the specific power at its most efficient operating point. The total effective trim capacity of the system is the sum of the effective trim capacity of the trim compressors. The system shall include primary storage of at least 2 gallons per acfm of the largest trim compressor.
+
+Exception 1 to Section 120.6(e)1:  Alterations where the total combined added or replaced compressor horsepower is less than the average per-compressor horsepower of all compressors in the system.
+
+Exception 2 to Section 120.6(e)1:  Alterations where all added or replaced compressors are variable speed drive (VSD) compressors and compressed air system includes primary storage of at least one gallon per actual cubic foot per minute (acfm) of the largest trim compressor.
+
+Exception 3 to Section 120.6(e)1: Compressed air systems that have been approved by the Energy Commission Executive Director as having demonstrated that the system serves loads for which typical air demand fluctuates less than 10 percent.
+
+Exception 4 to Section 120.6(e)1:  Alterations of existing compressed air systems that include one or more centrifugal compressors.
+
+2. Controls. Compressed air systems with three or more compressors and a combined horsepower rating of more than 100 hp shall operate with controls that are able to choose the most energy efficient combination and loading of compressors within the system based on the current compressed air demand.
+
+3.Monitoring.  Compressed air systems having a combined horsepower rating equal to or greater than 100 hp shall have an energy and air demand monitoring system with the following minimum requirements:
+
+A. Measurement of system pressure.
+
+B. Measurement of amps or power of each compressor.
+
+C.  Measurement or determination of total airflow from compressors in cfm.
+
+D. Data logging of pressure, power in kW, airflow in cfm and compressed air system specific efficiency in kW/100 cfm at intervals of 5 minutes or less.
+
+E. Maintained data storage of at least the most recent 24 months.
+
+F. Visual trending display of each recorded point, load and specific energy.
+
+4.Leak testing of compressed air piping.  Compressed air system piping greater than 50 adjoining feet in length shall be pressure tested after being isolated from the compressed air supply and end uses. The piping shall be pressurized to the design pressure and test pressures shall be held for a length of time at the discretion of the authority having jurisdiction, but in no case for less than 30 minutes, with no perceptible drop in pressure.
+
+If dial gauges are used for conducting this test, these gauges must conform with California Plumbing Code Sections 318.3, 318.4 and 318.5.
+
+Piping less than or equal to 50 adjoining feet in length shall be pressurized and inspected. Connections shall be tested with a noncorrosive leak-detecting fluid or other leak-detecting methods at the discretion of the authority having jurisdiction.
+If dial gauges are used for conducting this test, these gauges must conform with California Plumbing Code Sections 318.3, 318.4 and 318.5.
+
+Piping less than or equal to 50 adjoining feet in length shall be pressurized and inspected. Connections shall be tested with a noncorrosive leak-detecting fluid or other leak-detecting methods at the discretion of the authority having jurisdiction.
+
+5. Pipe sizing. Compressed air piping greater than 50 adjoining feet in length shall be designed and installed to minimize frictional losses in the distribution network. These piping installations shall meet the requirements of Section 120.6(e)5A and either Section 120.6(e)5B or 120.6(e)5C:
+
+A.  Service line piping shall have inner diameters greater than or equal to ¾ inch. Service line piping are pipes that deliver compressed air from distribution piping to end uses.
+
+B.  Piping section average velocity. Compressor room interconnection and main header piping shall be sized so that at coincident peak flow conditions, the average velocity in the segment of pipe is no greater than 20 ft/sec. Compressor room interconnection and main header piping are the pipes that deliver compressed air from the compressor outlets to the inlet to the distribution piping. Each segment of distribution and service piping shall be sized so that at coincident peak flow conditions, the average velocity in the segment of pipe is no greater than 30 ft/sec. Distribution piping are pipes that deliver compressed air from the compressor room interconnection piping or main header piping to the service line piping.
+
+C.  Piping total pressure drop. Piping shall be designed such that piping frictional pressure loss at coincident peak loads is less than 5 percent of operating pressure between the compressor and end use or end use regulator.
+
+6. Compressed air system acceptance. Before an occupancy permit is granted for a compressed air system subject to Section 120.6(e), the equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA 7.13.
+
+(f) Mandatory requirements for elevators. Elevators shall meet the following requirements:
+
+1. The light power density for the luminaires inside the elevator cab shall be no greater than 0.6 watts per square foot.
+
+Exception to Section 120.6(f)1: Interior signal lighting and interior display lighting are not included in the calculation of lighting power density.
+
+2. Elevator cab ventilation fans for cabs without space conditioning shall not exceed 0.33 watts per cfm as measured at maximum speed.
+
+3. When the elevator cab is stopped and unoccupied with doors closed for over 15 minutes, the cab interior lighting and ventilation fans shall be switched off until elevator cab operation resumes.
+
+4. Lighting and ventilation shall remain operational in the event that the elevator cabin gets stuck when passengers are in the cabin.
+
+5. Elevator Lighting and Ventilation Control Acceptance. Before an occupancy permit is granted for elevators subject to 120.6(f), the following equipment and systems shall be certified as meeting the Acceptance Requirement for Code Compliance, as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.14.
+
+Exception to Section 120.6(f): Elevators located in healthcare facilities.
+
+(g) Mandatory requirements for escalators and moving walkways.
+
+1. Escalators and moving walkways located in airports, hotels, and transportation function areas shall automatically slow to the minimum permitted speed in accordance with ASME A17.1/CSA B44 when not conveying passengers.
+
+2. Escalators and Moving Walkways Acceptance. Before an occupancy permit is granted for escalators and moving walkways subject to 120.6(g), the following equipment and systems shall be certified as meeting the Acceptance Requirement for Code Compliance, as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.15.
+
+(h) Mandatory requirements for controlled environment horticulture (CEH) spaces.
+
+1. Indoor growing, dehumidification. Dehumidification equipment shall be one of the following:
+
+A. Dehumidifiers subject to regulation under federal appliance standards tested in accordance with 10 CFR 430.23(z) and Appendix X or X1 to Subpart B of 10 CFR Part 430 as applicable, and complying with 10 CFR 430.32(v)2;
+
+B. Integrated HVAC system with on-site heat recovery designed to fulfill at least 75 percent of the annual energy for dehumidification reheat;
+
+C. Chilled water system with on-site heat recovery designed to fulfill at least 75 percent of the annual energy for dehumidification reheat; or
+
+D. Solid or liquid desiccant dehumidification system for system designs that require dew point of 50°F or less.
+
+2. Indoor growing, horticultural lighting. In a building with CEH spaces and with more than 40 kW of aggregate horticultural lighting load, the electric lighting systems used for plant growth and plant maintenance shall meet all of the following requirements:
+
+A. The horticultural lighting systems shall have a photosynthetic photon efficacy (PPE) rated in accordance with ANSI/ASABE S640 for wavelengths from 400 to 700 nanometers and meet one of the following requirements:
+
+i. Integrated, nonserviceable luminaires shall have a rated PPE of at least 1.9 micromoles per joule; or
+
+ii. Luminaires with removable or serviceable lamps shall have lamps with a rated PPE of at least 1.9 micromoles per joule.
+
+B. Time-switch lighting controls shall be installed and comply with Section 110.9(b)1, Section 130.4(a)4 and applicable sections of NA7.6.2.
+
+C. Multilevel lighting controls shall be installed and comply with Section 130.1(b).
+
+3. Indoor growing, electrical power distribution systems. Electrical power distribution systems serving CEH spaces shall be designed so that a measurement device is capable of monitoring the electrical energy usage of aggregate horticultural lighting load.
+
+4. Conditioned greenhouses, building envelope. Conditioned greenhouses shall meet the following requirements:
+
+A. Opaque wall and opaque roof assembly shall meet the requirements of Section 120.7; and
+
+B. Nonopaque envelopes shall have two or more glazings separated by either air or gas fill.
+
+5. Conditioned greenhouses, space-conditioning systems. Space-conditioning systems used for plant production shall comply with all applicable requirements.
+
+6. Greenhouses, horticultural lighting. In a greenhouse with more than 40 kW of aggregate horticultural lighting load, the electric lighting system used for plant growth and plant maintenance shall meet the following requirements:
+
+A. The horticultural lighting systems shall have a photosynthetic photon efficacy (PPE) rated in accordance with ANSI/ASABE S640 for wavelengths from 400 to 700 nanometers and meet one of the following requirements:
+
+i. Integrated, nonserviceable luminaires shall have a rated PPE of at least 1.7 micromoles per joule; or
+
+ii. Luminaires with removable or serviceable lamps shall have lamps with a rated PPE of at least 1.7 micromoles per joule.
+
+B. Time-switch lighting controls shall be installed and comply with Section 110.9(b)1, Section 130.4(a)4 and applicable sections of Reference Nonresidential Appendix NA7.6.2.
+
+C. Multilevel lighting controls shall be installed and comply with Section 130.1(b).
+
+(i) Mandatory requirements for steam traps. Steam traps in new industrial facilities and new steam traps added to support new, nonreplacement, process equipment in existing industrial facilities where the installed steam trap operating pressure, which is the steam pressure entering the steam trap during normal design operating conditions, is greater than 15 psig and the total combined connected boiler input rating is greater than 5 million Btu/hr shall meet the following requirements:
+
+1. Central steam trap fault detection and diagnostics monitoring. Steam trap systems shall be equipped with a central steam trap monitoring system that:
+
+A. Provides a status update of all steam trap fault detection sensors at no greater than 8-hour intervals.
+
+B. Automatically displays an alarm that identifies which steam trap has a fault once the system has detected a fault.
+
+2. Steam trap fault detection. Steam traps shall be equipped with automatic fault detection sensors that shall communicate their operational state to the central steam trap monitoring system as described in Section 120.6(i)1.
+
+3. Steam trap strainer installation. Steam traps shall either:
+
+A. Be equipped with an integral strainer and blow-off valve; or
+
+B. Be installed downstream within 3 feet of a strainer and blow-off valve.
+
+4. Steam trap system acceptance. Before an occupancy permit is granted for steam trap systems subject to Section 120.6(i), the equipment and systems shall be certified as meeting the Acceptance Requirement for Code Compliance, as specified by the Reference Nonresidential Appendix NA7.19. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.19.
+
+Exception 1 to Section 120.6(i):  Steam traps where steam is diverted to a steam system of lower pressure for use when the steam trap fails open.
+
+(j) Mandatory requirements for computer rooms. Space-conditioning systems serving a computer room shall meet the following requirements:
+
+1.Reheat. Each computer room zone shall have controls that prevent reheating, recooling and simultaneous provisions of heating and cooling to the same zone, such as mixing or simultaneous supply of air that has been previously mechanically heated and air that has been previously cooled, either by cooling equipment or by economizer systems.
+
+2.Humidification. Humidification shall be adiabatic. Nonadiabatic humidification, including but not limited to steam and infrared, is prohibited.
+
+3.Fan control. Each unitary air conditioner with mechanical cooling capacity exceeding 60,000 Btu/hr and each chilled water fan system shall be designed to vary the airflow rate as a function of actual load. Fan motor demand shall not exceed 50 percent of design wattage at 66 percent of design fan speed.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 120.6-A
+
+REFRIGERATED WAREHOUSE INSULATION
+
+SPACE	SURFACE	MNIMUM R-VALUE (ºF·hr·sf/Btu)
+Freezers	Roof/ceiling	R-40
+Wall	R-36
+Floor	R-35
+Floor with all heating from productive refrigeration capacity1	R-20
+Coolers	Roof/ceiling	R-28
+Wall	R-281. All underslab heating is provided by a heat exchanger that provides refrigerant subcooling or other means that result in productive refrigeration capacity on the associated refrigerated system.
+
+TABLE 120.6-B
+
+FAN-POWERED CONDENSERS – MINIMUM EFFICIENCY REQUIREMENTS
+
+CONDENSER TYPE	REFRIGERANT TYPE	MINIMUM EFFICIENCY	RATING CONDITION
+Outdoor evaporative cooled with THR Capacity > 8,000 MBH	All	350 Btuh/Watt	100°F saturated condensing temperature (SCT), 70°F outdoor wetbulb temperature
+Outdoor evaporative cooled with THR Capacity < 8,000 MBH and indoor evaporative cooled	All	160 Btuh/Watt
+Outdoor air cooled	Ammonia	75 Btuh/Watt	105°F saturated condensing temperature (SCT), 95°F outdoor drybulb temperature
+Halocarbon	65 Btuh/Watt
+Adiabatic dry mode	Halocarbon	45 Btuh/Watt	105°F saturated condensing temperature (SCT), 95°F outdoor drybulb temperature
+Indoor air cooled	All	ExemptTABLE 120.6-C
+
+TRANSCRITICAL CO2 FAN-POWERED GAS COOLERS—MINIMUM EFFICIENCY REQUIREMENTS
+
+CONDENSER TYPE	REFRIGERANT TYPE	MINIMUM EFFICIENCY	RATING CONDITION
+Outdoor air cooled	Transcritical CO2	160 Btuh/watt	1400 psig, 100°F outlet gas temperature, 90°F outdoor dry-bulb temperature
+Adiabatic dry mode	Transcritical CO2	90 Btuh/watt	1100 psig, 100°F outlet gas temperature, 90°F outdoor dry-bulb temperatureTABLE 120.6-D
+
+FAN-POWERED CONDENSERS—SPECIFIC EFFICIENCY REQUIREMENTS
+
+CONDENSER TYPE	MINIMUM SPECIFIC EFFICIENCYa	RATING CONDITION
+Evaporative cooled	160 Btuh/Watt	100°F saturated condensingtemperature (SCT), 70°F outdoor wetbulb temperature
+Air cooled	160 Btuh/Watt	105°F saturated condensingtemperature (SCT), 95°F outdoor drybulb temperature
+Adiabatic dry mode	45 Btu/W (halocarbon)	105°F saturated condensingtemperature (SCT), 95°F outdoor drybulb temperaturea. See Section 100.1 for definition of condenser specific efficiency.
+
+TABLE 120.6-E
+
+TRANSCRITICAL CO2 FAN-POWERED GAS COOLERS—MINIMUM EFFICIENCY REQUIREMENTS
+
+CONDENSER TYPE	REFRIGERANT TYPE	MINIMUM EFFICIENCY	RATING CONDITION
+Outdoor air cooled	Transcritical CO2	160 Btuh/watt	1400 psig, 100°F outlet gas temperature, 90°F outdoor dry-bulb temperature
+Adiabatic dry mode	Transcritical CO2	90 Btuh/watt	1100 psig, 100°F outlet gas temperature, 90°F outdoor dry-bulb temperatureSECTION 120.7 MANDATORY INSULATION REQUIREMENTS
+
+Nonresidential and hotel/motel buildings shall comply with the applicable requirements in Sections 120.7(a) through 120.7(c).
+
+(a) Roof/Ceiling insulation. The opaque portions of the roof/ceiling that separates conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 through 3 below:
+
+1. Metal building. The weighted average U-factor of the roof assembly shall not exceed 0.098.
+
+2. Wood framed and others. The weighted average U-factor of the roof assembly shall not exceed 0.075.
+
+3. Insulation placement. Insulation installed to limit heat loss and gain from conditioned spaces to unconditioned spaces shall comply with all of the following:
+
+A. Insulation shall be installed in direct contact with a  roof or ceiling that is sealed to limit infiltration and exfiltration as specified in Section 110.7. This may include, but is not limited to, placing insulation either above or below the roof deck or on top of the finished ceiling.
+
+B. When insulation is installed at the roof in nonresidential buildings, fixed vents or openings to the outdoors or to unconditioned spaces shall not be installed. When the space between the ceiling and the roof is either directly or indirectly conditioned space, it shall not be considered an attic for the purposes of complying with CBC attic ventilation requirements.
+
+C. Insulation placed on top of a suspended ceiling with removable ceiling panels shall not be used to meet the Roof/Ceiling requirement of Sections 140.3 and 141.0.
+
+Exception to Section 120.7(a)3: When there are conditioned spaces with a combined floor area no greater than 2,000 square feet in an otherwise unconditioned building, and when the average height of the space between the ceiling and the roof over these spaces is greater than 12 feet, insulation placed in direct contact with a suspended ceiling with removable ceiling panels shall be an acceptable method of reducing heat loss from a conditioned space and shall be accounted for in heat loss calculations.
+
+NOTE: Vents that do not penetrate the roof deck and are instead designed for wind resistance for roof membranes are not within the scope of Section 120.7(a)3B.
+NOTE: Vents that do not penetrate the roof deck and are instead designed for wind resistance for roof membranes are not within the scope of Section 120.7(a)3B.
+
+(b) Wall insulation. The opaque portions of walls that separate conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 through 7 below:
+
+1. Metal building. The weighted average U-factor of the wall assembly shall not exceed 0.113.
+
+2. Metal framed. The weighted average U-factor of the wall assembly shall not exceed 0.151.
+
+3. Light mass walls. A 6-inch or greater hollow core concrete masonry unit shall have a U-factor not to exceed 0.440.
+
+4. Heavy mass walls. An 8-inch or greater hollow core concrete masonry unit shall have a U-factor not to exceed 0.690.
+
+5. Wood framed and others. The weighted average U-factor of the wall assembly shall not exceed 0.110.
+
+6. Spandrel panels and curtain wall. The weighted average U-factor of the spandrel panels and curtain wall assembly shall not exceed 0.280.
+
+7. Demising walls. The opaque portions of framed demising walls shall meet the requirements of Item A or B below:
+
+A. Wood framed walls shall be insulated to meet a U-factor not greater than 0.099.
+
+B. Metal framed walls shall be insulated to meet a U-factor not greater than 0.151.
+
+(c) Floor and soffit insulation. The opaque portions of floors and soffits that separate conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 and 2 below:
+
+1. Raised mass floors. Shall have a minimum of 3 inches of lightweight concrete over a metal deck, or the weighted average U-factor of the floor assembly shall not exceed 0.269.
+
+2. Other floors. The weighted average U-factor of the floor assembly shall not exceed 0.071.
+
+3. Heated slab on grade floor. A heated slab on grade floor shall be insulated to meet the requirements of Section 110.8(g).
+
+Exception to Section 120.7: A dedicated building used solely as a data center that has a total covered process load exceeding 750 kW.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 120.8 NONRESIDENTIAL BUILDING COMMISSIONING
+
+Nonresidential buildings other than healthcare facilities, with conditioned space of 10,000 square feet or more, shall comply with the applicable requirements of Sections 120.8(a) through 120.8(i) in the building design and construction processes. All building systems and components covered by Sections 110.0, 120.0, 130.0, and 140.0 shall be included in the scope of the commissioning requirements in this Section, excluding those related solely to covered processes.
+
+Nonresidential buildings other than healthcare facilities, with conditioned space of less than 10,000 square feet shall comply with the design review requirements specified in Sections 120.8(d), and shall include any measures or requirements necessary for completing this review in the construction documents in a manner consistent with Section 120.8(e).
+
+Healthcare facilities shall instead comply with the applicable requirements of Chapter 7 of the California Administrative Code (Title 24, Part 1).
+
+NOTE: Nonresidential buildings include nonresidential spaces such as nonresidential function areas within hotel/motel and high-rise residential buildings. The requirements of Section 120.8 apply based on the square footage of the nonresidential spaces.
+
+The commissioning described in this Section is in addition to any commissioning required by Title 24, Part 11, Section 5.410.2, 5.410.4 and subsections.
+
+(a) Summary of commissioning requirements. Commissioning shall include completion of the following items:
+
+1. Owner’s or owner representative’s project requirements;
+
+2. Basis of design;
+
+3. Design phase design review;
+
+4. Commissioning measures shown in the construction documents;
+
+5. Commissioning plan;
+
+6. Functional performance testing;
+
+7. Documentation and training; and
+
+8. Commissioning report.
+
+(b) Owner’s or Owner Representative’s Project Requirements (OPR). The energy-related expectations and requirements of the building shall be documented before the design phase of the project begins. This documentation shall include the following:
+
+1. Energy efficiency goals;
+
+2. Ventilation requirements;
+
+3. Project documentation requirements, including facility functions, hours of operation, and need for after-hours operation;
+
+4. Equipment and systems expectations; and
+
+5. Building envelope performance expectations.
+
+(c) Basis of design (BOD). A written explanation of how the design of the building systems and components meets the OPR shall be completed at the design phase of the building project, and updated as necessary during the design and construction phases. The basis of design document shall cover the following systems and components:
+
+1. Heating, ventilation, air conditioning (HVAC) systems and controls;
+
+2. Indoor lighting system and controls;
+
+3. Water heating systems and controls;
+
+4. Any other building equipment or system listed in the OPR; and
+
+5. Any building envelope component considered in the OPR.
+
+(d) Design phase design review.
+
+1. Design reviewer requirements. The design reviewer shall be the signer of the Design Review Kickoff Certificate(s) of Compliance and Construction Document Design Review Checklist Certificate(s) of Compliance as specified in Part 1 Section 10-103(a)1.
+
+2. Design review kickoff. During the schematic design phase of the building project, the owner or owner’s representative, design team and design reviewer must meet to discuss the project scope, schedule and how the design reviewer will coordinate with the project team. The building owner or owner’s representative shall include the Design Review Kickoff Certificate of Compliance form in the certificate of compliance documentation (as specified in Part 1 Section 10-103).
+
+3. Construction documents design review. The construction documents design review Checklist Certificate of Compliance shall list the items checked by the design reviewer during the construction document review. The completed form shall be returned to the owner and design team for review and sign-off. The building owner or owner’s representative shall include this form in the certificate of compliance documentation (as specified in Part 1 Section 10-103).
+
+(e) Commissioning measures shown in the construction documents. Complete descriptions of all measures or requirements necessary for commissioning shall be included in the construction documents (plans and specifications). Commissioning measures or requirements shall be clear, detailed and complete to clarify the commissioning process.
+
+(f) Commissioning plan. Prior to permit issuance a commissioning plan shall be completed to document how the project will be commissioned and shall be started during the design phase of the building project. The commissioning plan shall include the following:
+
+1. General project information;
+
+2. Commissioning goals;
+
+3. Systems to be commissioned; and
+
+4. Plans to test systems and components, which shall include:
+
+A. An explanation of the original design intent;
+
+B. Equipment and systems to be tested, including the  extent of tests;
+
+C. Functions to be tested;
+
+D. Conditions under which the test shall be performed;
+
+E. Measurable criteria for acceptable performance;
+
+F. Commissioning team information; and
+
+G. Commissioning process activities, schedules and responsibilities. Plans for the completion of commissioning requirements listed in Sections 120.8(g) through 120.8(i) shall be included.
+
+(g) Functional performance testing. Functional performance tests shall demonstrate the correct installation and operation of each component, system and system-to-system interface in accordance with the acceptance test requirements in Sections 120.5, 130.4, 140.9, 160.3(d) and 160.5(e). Functional performance testing reports shall contain information addressing each of the building components tested, the testing methods utilized, and include any readings and adjustments made.
+
+Exception to Section 120.8(g): Healthcare facilities.
+
+(h) Documentation and training. A systems manual and systems operations training shall be completed.
+
+1. Systems manual. Documentation of the operational aspects of the building shall be completed within the systems manual and delivered to the building owner or representative and facilities operator. The systems manual shall include the following:
+
+A. Site information, including facility description,  history and current requirements;
+
+B. Site contact information;
+
+C. Instructions for basic operations and maintenance, including general site operating procedures, basic troubleshooting, recommended maintenance  requirements, and a site events log;
+
+D. Description of major systems;
+
+E. Site equipment inventory and maintenance notes; and
+
+F. A copy of all special inspection verifications required by the enforcing agency or the standards.
+
+2. Systems operations training. The training of the appropriate maintenance staff for each equipment type or system shall be documented in the commissioning report. Training materials shall include the following:
+
+A. System and equipment overview (i.e., what the equipment is, what it does and with what other systems or equipment it interfaces);
+
+B. Review and demonstration of operation, servicing and preventive maintenance procedures;
+
+C. Review of the information in the systems manual; and
+
+D. Review of the record drawings on the systems and equipment.
+
+(i) Commissioning report. A complete report of commissioning process activities undertaken through the design, construction and reporting recommendations for post-construction phases of the building project shall be completed and provided to the owner or owner’s representative.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 120.9 MANDATORY REQUIREMENTS FOR COMMERCIAL BOILERS
+
+(a) Combustion air positive shut-off shall be provided on all newly installed boilers as follows:
+
+1. All boilers with an input capacity of 2.5 MMBtu/h (2,500,000 Btu/h) and above, in which the boiler is designed to operate with a nonpositive vent static pressure.
+
+2. All boilers where one stack serves two or more boilers with a total combined input capacity per stack of 2.5 MMBtu/h (2,500,000 Btu/h).
+
+(b) Boiler combustion air fans with motors 10 horsepower or larger shall meet one of the following for newly installed boilers:
+
+1. The fan motor shall be driven by a variable speed drive, or
+
+2. The fan motor shall include controls that limit the fan motor demand to no more than 30 percent of the total design wattage at 50 percent of design air volume.
+
+(c) Newly installed boilers with an input capacity 5 MMBtu/h (5,000,000 Btu/h) and greater shall maintain stack-gas  oxygen concentrations at less than or equal to 5.0 percent by volume on a dry basis over firing rates of 20 to 100 percent. Combustion air volume shall be controlled with respect to firing rate or flue gas oxygen concentration. Use of a common gas and combustion air control linkage or jack shaft is prohibited.
+
+Exception to Section 120.9(c): Boilers with steady state full-load combustion efficiency 90 percent or higher.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 120.10 MANDATORY REQUIREMENTS FOR FANS
+
+(a)Each fan or fan array with a combined motor nameplate horsepower greater than 1.00 hp or with a combined fan nameplate electrical input power greater than 0.89 kW shall have a fan energy index (FEI) of 1.00 or higher at fan system design conditions. Each fan and fan array used for a variable-air-volume system that meets the requirements of Section 140.4(c)2 shall have an FEI of 0.95 or higher at fan system design conditions.
+
+1.The FEI for fan arrays shall be calculated in accordance with ANSI/AMCA 208-18 Annex C.
+
+2.All FEI values shall be provided by a manufacturer, where fan selection software and/or fan catalogs display third-party-verified FEI values in accordance with ANSI/AMCA 208-18.
+
+Exception to Section 120.10(a)2:  FEI values for embedded fans do not need to be third-party verified.
+
+Exception 1 to Section 120.10(a): Embedded fans that are part of the equipment listed under Section 110.1 or Section 110.2, computer room air conditioners (CRACs) as defined in 10 CFR 431, and DX-DOAS units.
+
+Exception 2 to Section 120.10(a): Embedded fans and embedded fan arrays with a combined motor nameplate horsepower of 5 hp or less or with a fan system electrical input power of 4.1 kW or less.
+
+Exception 3 to Section 120.10(a): Circulation fans, ceiling fans and air curtains.
+
+Exception 4 to Section 120.10(a): Fans that are intended to operate only during emergency conditions.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8 and 25943, Public Resources Code.
+

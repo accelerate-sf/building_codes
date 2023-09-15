@@ -1,0 +1,2570 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 16 – STRUCTURAL DESIGN
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. 
+ See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+	1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+	Adopt entire chapter													X										
+	Adopt entire chapter as amended (amended sections listed below)	X			X	X				X		X	X			X								
+	Adopt only those sections that are listed below						X	X															X	
+	Chapter / Section																							
+	1601.1.1									X		X	X			X								
+	1601.1.2									X		X	X			X								
+	1601.1.3									X														
+	1601.1.4									X		X	X			X								
+	1601.2									X		X	X			X								
+	1603.1											X	X			X								
+	Table 1604.5												X			X								
+	1605.2											X	B			X								
+	Table 1607.1											X	X			X								
+	1607.9						X																	
+	1607.9.2						X	X																
+	1612.3, Exception											X	X			X								
+	1613.1											X	X			X								
+	1613.1.1																						X	
+	1613.1.2	X																						
+	1613.1.3	X																						
+	1613.2.1, Exception											X	X			X								
+	Table 1613.2.3(1)											X	X			X								
+	Table 1613.2.3(2)											X	X			X								
+	1613.2.5, Exception											X	X			X								
+	1613.2.5.1											X	X			X								
+	1613.2.5.2											X	X			X								
+>	1613.3											X	X			X								
+	1613.4											X	X			X								
+	1617									X														
+																								The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+(A & B) – OSHPD (HCAI) delineates that OHSPD 2 is either designated as an OSHPD 2A or 2B. See Ch. 1, Div. I, Section 1.10 for additional information.
+
+CHAPTER 16 STRUCTURAL DESIGN
+
+User notes:
+
+About this chapter: Chapter 16 establishes minimum design requirements so that the structural components of buildings are proportioned to resist the loads that are likely to be encountered. In addition, this chapter assigns buildings and structures to risk categories that are indicative of their intended use. The loads specified herein along with the required load combinations have been established through research and service performance of buildings and structures. The application of these loads and adherence to the serviceability criteria enhance the protection of life and property.
+
+Code development reminder: Code change proposals to this chapter will be considered by the IBC—Structural Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION 1601 GENERAL
+
+1601.1 Scope.
+
+The provisions of this chapter shall govern the structural design of buildings, structures and portions thereof regulated by this code.
+
+1601.1.1 Application.
+
+[DSA-SS/CC, OSHPD] The scope of application of Chapter 16 is as follows:
+
+1. Structures regulated by the Division of the State Architect-Structural Safety/Community Colleges (DSA-SS/CC), which include those applications listed in Section 1.9.2.2.
+
+2.Hospital buildings removed from general acute care service, skilled nursing facility buildings, intermediate care facility buildings and acute psychiatric hospital buildings regulated by the Office of Statewide Health Planning and Development (OSHPD) as listed in Sections 1.10.1, 1.10.2 and 1.10.5.
+
+1601.1.2 Amendments in this chapter.
+
+DSA-SS/CC and OSHPD adopt this chapter and all amendments.
+
+Exception: Amendments adopted by only one agency appear in this chapter preceded with the appropriate acronym of the adopting agency, as follows:
+
+1. Division of the State Architect - Structural Safety/Community Colleges:
+
+[DSA-SS/CC] - For applications listed in Section 1.9.2.2.
+[DSA-SS/CC] - For applications listed in Section 1.9.2.2.
+
+2.OSHPD amendments [OSHPD] appear in this chapter preceded with the appropriate acronym, as follows:
+
+[OSHPD 1R] - For applications listed in Section 1.10.1.
+
+[OSHPD 2] - For applications listed in Section 1.10.2.
+
+[OSHPD 5] - For applications listed in Section 1.10.5.
+[OSHPD 1R] - For applications listed in Section 1.10.1.
+
+[OSHPD 2] - For applications listed in Section 1.10.2.
+
+[OSHPD 5] - For applications listed in Section 1.10.5.
+
+1601.1.3 Reference to other chapters.
+
+[DSA-SS/CC] Where reference within this chapter is made to sections in Chapters 17 and 18, the provisions in Chapters 17A and 18A respectively shall apply instead.
+
+1601.1.4 Amendments.
+
+[DSA-SS/CC, OSHPD]
+
+1.[OSHPD 1R, 2 & 5] In addition to the amendments in this chapter, these buildings shall comply with the requirements of Sections 1617A.1.1, 1617A.1.4, 1617A.1.18 − 1617A.1.20, 1617A.1.27, 1617A.1.39 and 1617A.1.41.
+
+2.[DSA-SS/CC] See Section 1617 for additional requirements.
+
+1601.2 Enforcement agency approval.
+
+[DSA-SS/CC, OSHPD 1R, 2 & 5] In addition to requirements of the California Administrative Code and the California Building Code, any aspect of project design, construction, quality assurance or quality control programs for which this code requires approval by the Registered Design Professional (RDP), are also subject to approval by the enforcement agency.
+
+SECTION 1602 NOTATIONS
+
+1602.1 Notations.
+
+The following notations are used in this chapter:
+
+D	=	Dead load.
+Di	=	Weight of ice in accordance with Chapter 10 of ASCE 7.
+E	=	Combined effect of horizontal and vertical earthquake induced forces as defined in Section 12.4 of ASCE 7.
+F	=	Load due to fluids with well-defined pressures and maximum heights.
+Fa	=	Flood load in accordance with Chapter 5 of ASCE 7.
+H	=	Load due to lateral earth pressures, ground water pressure or pressure of bulk materials.
+L	=	Live load.
+Lr	=	Roof live load.
+R	=	Rain load.
+S	=	Snow load.
+T	=	Cumulative effects of self-straining load forces and effects.
+Vasd	=	Allowable stress design wind speed, miles per hour (mph) (km/hr) where applicable.
+V	=	Basic design wind speeds, miles per hour (mph) (km/hr) determined from Figures 1609.3(1) through 1609.3(12) or ASCE 7.
+W	=	Load due to wind pressure.
+Wi	=	Wind-on-ice in accordance with Chapter 10 of ASCE 7.SECTION 1603 CONSTRUCTION DOCUMENTS
+
+1603.1 General.
+
+Construction documents shall show the size, section and relative locations of structural members with floor levels, column centers and offsets dimensioned. The design loads and other information pertinent to the structural design required by Sections 1603.1.1 through 1603.1.9 shall be indicated on the construction documents.
+
+Exception: Construction documents for buildings constructed in accordance with the conventional light-frame construction provisions of Section 2308 shall indicate the following structural design information:
+
+1.Floor and roof dead and live loads.
+
+2.Ground snow load, pg.
+
+3.Basic design wind speed, V, miles per hour (mph) (km/hr) and allowable stress design wind speed, Vasd, as determined in accordance with Section 1609.3.1 and wind exposure.
+
+4.Seismic design category and site class.
+
+5.Flood design data, if located in flood hazard areas established in Section 1612.3.
+
+6.Design load-bearing values of soils.
+
+7.Rain load data.
+
+[OSHPD 1R, 2 & 5] Additional requirements are included in Sections 7-115 and 7-125 of the California Administrative Code (Part 1, Title 24, C.C.R).
+
+1603.1.1 Floor live load.
+
+The uniformly distributed, concentrated and impact floor live load used in the design shall be indicated for floor areas. Use of live load reduction in accordance with Section 1607.12 shall be indicated for each type of live load used in the design.
+
+1603.1.2 Roof live load.
+
+The roof live load used in the design shall be indicated for roof areas (Section 1607.14).
+
+1603.1.3 Roof snow load data.
+
+The ground snow load, pg, shall be indicated. In areas where the ground snow load, pg, exceeds 10 pounds per square foot (psf) (0.479 kN/m2), the following additional information shall also be provided, regardless of whether snow loads govern the design of the roof:
+
+1.Flat-roof snow load, pf.
+
+2.Snow exposure factor, Ce.
+
+3.Snow load importance factor, Is.
+
+4.Thermal factor, Ct.
+
+5.Slope factor(s), Cs.
+
+6.Drift surcharge load(s), pd, where the sum of pd and pf exceeds 20 psf (0.96 kN/m2).
+
+7.Width of snow drift(s), w.
+
+1603.1.4 Wind design data.
+
+The following information related to wind loads shall be shown, regardless of whether wind loads govern the design of the lateral force-resisting system of the structure:
+
+1.Basic design wind speed, V, miles per hour and allowable stress design wind speed, Vasd, as determined in accordance with Section 1609.3.1.
+
+2.Risk category.
+
+3.Wind exposure. Applicable wind direction if more than one wind exposure is utilized.
+
+4.Applicable internal pressure coefficient.
+
+5.Design wind pressures and their applicable zones with dimensions to be used for exterior component and cladding materials not specifically designed by the registered design professional responsible for the design of the structure, pounds per square foot (kN/m2).
+
+1603.1.5 Earthquake design data.
+
+The following information related to seismic loads shall be shown, regardless of whether seismic loads govern the design of the lateral force-resisting system of the structure:
+
+1.Risk category.
+
+2.Seismic importance factor, Ie.
+
+3.Mapped spectral response acceleration parameters, SS and S1.
+
+4.Site class.
+
+5.Design spectral response acceleration parameters, SDS and SD1.
+
+6.Seismic design category.
+
+7.Basic seismic force-resisting system(s).
+
+8.Design base shear(s).
+
+9.Seismic response coefficient(s), CS.
+
+10.Response modification coefficient(s), R.
+
+11.Analysis procedure used.
+
+1603.1.6 Geotechnical information.
+
+The design load-bearing values of soils shall be shown on the construction documents.
+
+1603.1.7 Flood design data.
+
+For buildings located in whole or in part in flood hazard areas as established in Section 1612.3, the documentation pertaining to design, if required in Section 1612.4, shall be included and the following information, referenced to the datum on the community’s Flood Insurance Rate Map (FIRM), shall be shown, regardless of whether flood loads govern the design of the building:
+
+1.Flood design class assigned according to ASCE 24.
+
+2.In flood hazard areas other than coastal high hazard areas or coastal A zones, the elevation of the proposed lowest floor, including the basement.
+
+3.In flood hazard areas other than coastal high hazard areas or coastal A zones, the elevation to which any nonresidential building will be dry floodproofed.
+
+4.In coastal high hazard areas and coastal A zones, the proposed elevation of the bottom of the lowest horizontal structural member of the lowest floor, including the basement.
+
+1603.1.8 Special loads.
+
+Special loads that are applicable to the design of the building, structure or portions thereof, including but not limited to the loads of machinery or equipment, and that are greater than specified floor and roof loads shall be specified by their descriptions and locations.
+
+1603.1.8.1 Photovoltaic panel systems.
+
+The dead load of rooftop-mounted photovoltaic panel systems, including rack support systems, shall be indicated on the construction documents.
+
+1603.1.9 Roof rain load data.
+
+Rain intensity, i (in/hr) (cm/hr), shall be shown regardless of whether rain loads govern the design.
+
+SECTION 1604 GENERAL DESIGN REQUIREMENTS
+
+1604.1 General.
+
+Building, structures and parts thereof shall be designed and constructed in accordance with strength design, load and resistance factor design, allowable stress design, empirical design or conventional construction methods, as permitted by the applicable material chapters and referenced standards.
+
+1604.2 Strength.
+
+Buildings and other structures, and parts thereof, shall be designed and constructed to support safely the factored loads in load combinations defined in this code without exceeding the appropriate strength limit states for the materials of construction. Alternatively, buildings and other structures, and parts thereof, shall be designed and constructed to support safely the nominal loads in load combinations defined in this code without exceeding the appropriate specified allowable stresses for the materials of construction.
+
+Loads and forces for occupancies or uses not covered in this chapter shall be subject to the approval of the building official.
+
+1604.3 Serviceability.
+
+Structural systems and members thereof shall be designed to have adequate stiffness to limit deflections as indicated in Table 1604.3.
+
+TABLE 1604.3
+
+DEFLECTION LIMITSa, b, c, h, i
+
+CONSTRUCTION	L or Lr	S or W f	D + Ld, g
+Roof members:e			
+ Supporting plaster or stucco ceiling	l/360	l/360	l/240
+ Supporting nonplaster ceiling	l/240	l/240	l/180
+ Not supporting ceiling	l/180	l/180	l/120
+Floor members	l/360	—	l/240
+Exterior walls:			
+ With plaster or stucco finishes	—	l/360	—
+ With other brittle finishes	—	l/240	—
+ With flexible finishes	—	l/120	—
+Interior partitions:b			
+ With plaster or stucco finishes	l/360	—	—
+ With other brittle finishes	l/240	—	—
+ With flexible finishes	l/120	—	—
+Farm buildings	—	—	l/180
+Greenhouses	—	—	l/120For SI: 1 foot = 304.8 mm.
+
+a.For structural roofing and siding made of formed metal sheets, the total load deflection shall not exceed l/60. For secondary roof structural members supporting formed metal roofing, the live load deflection shall not exceed l/150. For secondary wall members supporting formed metal siding, the design wind load deflection shall not exceed l/90. For roofs, this exception only applies when the metal sheets have no roof covering.
+
+b.Flexible, folding and portable partitions are not governed by the provisions of this section. The deflection criterion for interior partitions is based on the horizontal load defined in Section 1607.16.
+
+c.See Section 2403 for glass supports.
+
+d.The deflection limit for the D + (L + Lr) load combination only applies to the deflection due to the creep component of long-term dead load deflection plus the short-term live load deflection. For lumber, structural glued laminated timber, prefabricated wood I-joists and structural composite lumber members that are dry at time of installation and used under dry conditions in accordance with the ANSI/AWC NDS, the creep component of the long-term deflection shall be permitted to be estimated as the immediate dead load deflection resulting from 0.5D. For lumber and glued laminated timber members installed or used at all other moisture conditions or cross laminated timber and wood structural panels that are dry at time of installation and used under dry conditions in accordance with the ANSI/AWC NDS, the creep component of the long-term deflection is permitted to be estimated as the immediate dead load deflection resulting from D. The value of 0.5D shall not be used in combination with ANSI/AWC NDS provisions for long-term loading.
+
+e.The preceding deflections do not ensure against ponding. Roofs that do not have sufficient slope or camber to ensure adequate drainage shall be investigated for ponding. See Chapter 8 of ASCE 7.
+
+f.The wind load shall be permitted to be taken as 0.42 times the “component and cladding” loads or directly calculated using the 10-year mean return interval wind speed for the purpose of determining deflection limits in Table 1604.3. Where framing members support glass, the deflection limit therein shall not exceed that specified in Section 1604.3.7
+
+g.For steel structural members, the deflection due to creep component of long-term dead load shall be permitted to be taken as zero.
+
+h.For aluminum structural members or aluminum panels used in skylights and sloped glazing framing, roofs or walls of sunroom additions or patio covers not supporting edge of glass or aluminum sandwich panels, the total load deflection shall not exceed l/60. For continuous aluminum structural members supporting edge of glass, the total load deflection shall not exceed l/175 for each glass lite or l/60 for the entire length of the member, whichever is more stringent. For aluminum sandwich panels used in roofs or walls of sunroom additions or patio covers, the total load deflection shall not exceed 1/120.
+
+i.l = Length of the member between supports. For cantilever members, l shall be taken as twice the length of the cantilever.
+
+1604.3.1 Deflections.
+
+The deflections of structural members shall not exceed the more restrictive of the limitations of Sections 1604.3.2 through 1604.3.5 or that permitted by Table 1604.3.
+
+1604.3.2 Reinforced concrete.
+
+The deflection of reinforced concrete structural members shall not exceed that permitted by ACI 318.
+
+1604.3.3 Steel.
+
+The deflection of steel structural members shall not exceed that permitted by AISC 360, AISI S100, ASCE 8, SJI 100 or SJI 200, as applicable.
+
+1604.3.4 Masonry.
+
+The deflection of masonry structural members shall not exceed that permitted by TMS 402.
+
+1604.3.5 Aluminum.
+
+The deflection of aluminum structural members shall not exceed that permitted by AA ADM.
+
+1604.3.6 Limits.
+
+The deflection limits of Section 1604.3.1 shall be used unless more restrictive deflection limits are required by a referenced standard for the element or finish material.
+
+1604.3.7 Framing supporting glass.
+
+The deflection of framing members supporting glass subjected to 0.6 times the “component and cladding” wind loads shall not exceed either of the following:
+
+1.1/175 of the length of span of the framing member, for framing members having a length not more than 13 feet 6 inches (4115 mm).
+
+2.1/240 of the length of span of the framing member + 1/4 inch (6.4 mm), for framing members having a length greater than 13 feet 6 inches (4115 mm).
+
+1604.4 Analysis.
+
+Load effects on structural members and their connections shall be determined by methods of structural analysis that take into account equilibrium, general stability, geometric compatibility and both short- and long-term material properties.
+
+Members that tend to accumulate residual deformations under repeated service loads shall have included in their analysis the effects of added deformations expected to occur during their service life.
+
+Any system or method of construction to be used shall be based on a rational analysis in accordance with well-established principles of mechanics. Such analysis shall result in a system that provides a complete load path capable of transferring loads from their point of origin to the load-resisting elements.
+
+The total lateral force shall be distributed to the various vertical elements of the lateral force-resisting system in proportion to their rigidities, considering the rigidity of the horizontal bracing system or diaphragm. Rigid elements assumed not to be a part of the lateral force-resisting system are permitted to be incorporated into buildings provided that their effect on the action of the system is considered and provided for in the design. A diaphragm is rigid for the purpose of distribution of story shear and torsional moment when the lateral deformation of the diaphragm is less than or equal to two times the average story drift. Where required by ASCE 7, provisions shall be made for the increased forces induced on resisting elements of the structural system resulting from torsion due to eccentricity between the center of application of the lateral forces and the center of rigidity of the lateral force-resisting system.
+
+Every structure shall be designed to resist the effects caused by the forces specified in this chapter, including overturning, uplift and sliding. Where sliding is used to isolate the elements, the effects of friction between sliding elements shall be included as a force.
+
+1604.5 Risk category.
+
+Each building and structure shall be assigned a risk category in accordance with Table 1604.5. Where a referenced standard specifies an occupancy category, the risk category shall not be taken as lower than the occupancy category specified therein. Where a referenced standard specifies that the assignment of a risk category be in accordance with ASCE 7, Table 1.5-1, Table 1604.5 shall be used in lieu of ASCE 7, Table 1.5-1.
+
+Exception: The assignment of buildings and structures to Tsunami Risk Categories III and IV is permitted to be in accordance with Section 6.4 of ASCE 7.
+
+TABLE 1604.5
+
+RISK CATEGORY OF BUILDINGS AND OTHER STRUCTURES
+
+RISK CATEGORY	NATURE OF OCCUPANCY
+I	Buildings and other structures that represent a low hazard to human life in the event of failure, including but not limited to:
+• Agricultural facilities.• Certain temporary facilities.• Minor storage facilities.
+II	Buildings and other structures except those listed in Risk Categories I, III and IV.
+III	Buildings and other structures that represent a substantial hazard to human life in the event of failure, including but not limited to:
+• Buildings and other structures whose primary occupancy is public assembly with an occupant load greater than 300.• Buildings and other structures containing one or more public assembly spaces, each having an occupant load greater than 300 and a cumulative occupant load of these public assembly spaces of greater than 2,500.• Buildings and other structures containing Group E or Group I-4 occupancies or combination therof, with an occupant load greater than 250.• Buildings and other structures containing educational occupancies for students above the 12th grade with an occupant load greater than 500.• Group I-2, Condition 1 occupancies with 50 or more care recipients.• Group I-2, Condition 2 occupancies not having emergency surgery or emergency treatment facilities.• [OSHPD 2] Skilled nursing facilities, intermediate care facilities, Group I-2 occupancy with 50 or more care recipients.• [OSHPD 5] Acute psychiatric hospitals, Group I-2 occupancy with 50 or more care recipients.• Group I-3 occupancies.• Any other occupancy with an occupant load greater than 5,000.a• Power-generating stations, water treatment facilities for potable water, wastewater treatment facilities and other public utility facilities not included in Risk Category IV.• Buildings and other structures not included in Risk Category IV containing quantities of toxic or explosive materials that:• Exceed maximum allowable quantities per control area as given in Table 307.1(1) or 307.1(2) or per outdoor control area in accordance with the California Fire Code; and• Are sufficient to pose a threat to the public if released.b
+IV	Buildings and other structures designated as essential facilities, including but not limited to:
+• Group I-2, Condition 2 occupancies having emergency surgery or emergency treatment facilities.• Ambulatory care facilities having emergency surgery or emergency treatment facilities.• Fire, rescue, ambulance and police stations and emergency vehicle garages• Designated earthquake, hurricane or other emergency shelters.• Designated emergency preparedness, communications and operations centers and other facilities required for emergency response.• Power-generating stations and other public utility facilities required as emergency backup facilities for Risk Category IV structures.• Buildings and other structures containing quantities of highly toxic materials that:• Exceed maximum allowable quantities per control area as given in Table 307.1(2) or per outdoor control area in accordance with the California Fire Code; and• Are sufficient to pose a threat to the public if released.b• Aviation control towers, air traffic control centers and emergency aircraft hangars.• Buildings and other structures having critical national defense functions.• Water storage facilities and pump structures required to maintain water pressure for fire suppression.• Agricultural facilities.
+
+• Certain temporary facilities.
+
+• Minor storage facilities.
+• Agricultural facilities.
+
+• Certain temporary facilities.
+
+• Minor storage facilities.
+
+• Buildings and other structures whose primary occupancy is public assembly with an occupant load greater than 300.
+
+• Buildings and other structures containing one or more public assembly spaces, each having an occupant load greater than 300 and a cumulative occupant load of these public assembly spaces of greater than 2,500.
+
+• Buildings and other structures containing Group E or Group I-4 occupancies or combination therof, with an occupant load greater than 250.
+
+• Buildings and other structures containing educational occupancies for students above the 12th grade with an occupant load greater than 500.
+
+• Group I-2, Condition 1 occupancies with 50 or more care recipients.
+
+• Group I-2, Condition 2 occupancies not having emergency surgery or emergency treatment facilities.
+
+• [OSHPD 2] Skilled nursing facilities, intermediate care facilities, Group I-2 occupancy with 50 or more care recipients.
+
+• [OSHPD 5] Acute psychiatric hospitals, Group I-2 occupancy with 50 or more care recipients.
+
+• Group I-3 occupancies.
+
+• Any other occupancy with an occupant load greater than 5,000.a
+
+• Power-generating stations, water treatment facilities for potable water, wastewater treatment facilities and other public utility facilities not included in Risk Category IV.
+
+• Buildings and other structures not included in Risk Category IV containing quantities of toxic or explosive materials that:• Exceed maximum allowable quantities per control area as given in Table 307.1(1) or 307.1(2) or per outdoor control area in accordance with the California Fire Code; and• Are sufficient to pose a threat to the public if released.b
+
+• Exceed maximum allowable quantities per control area as given in Table 307.1(1) or 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+• Buildings and other structures whose primary occupancy is public assembly with an occupant load greater than 300.
+
+• Buildings and other structures containing one or more public assembly spaces, each having an occupant load greater than 300 and a cumulative occupant load of these public assembly spaces of greater than 2,500.
+
+• Buildings and other structures containing Group E or Group I-4 occupancies or combination therof, with an occupant load greater than 250.
+
+• Buildings and other structures containing educational occupancies for students above the 12th grade with an occupant load greater than 500.
+
+• Group I-2, Condition 1 occupancies with 50 or more care recipients.
+
+• Group I-2, Condition 2 occupancies not having emergency surgery or emergency treatment facilities.
+
+• [OSHPD 2] Skilled nursing facilities, intermediate care facilities, Group I-2 occupancy with 50 or more care recipients.
+
+• [OSHPD 5] Acute psychiatric hospitals, Group I-2 occupancy with 50 or more care recipients.
+
+• Group I-3 occupancies.
+
+• Any other occupancy with an occupant load greater than 5,000.a
+
+• Power-generating stations, water treatment facilities for potable water, wastewater treatment facilities and other public utility facilities not included in Risk Category IV.
+
+• Buildings and other structures not included in Risk Category IV containing quantities of toxic or explosive materials that:
+
+• Exceed maximum allowable quantities per control area as given in Table 307.1(1) or 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+• Exceed maximum allowable quantities per control area as given in Table 307.1(1) or 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+
+• Group I-2, Condition 2 occupancies having emergency surgery or emergency treatment facilities.
+
+• Ambulatory care facilities having emergency surgery or emergency treatment facilities.
+
+• Fire, rescue, ambulance and police stations and emergency vehicle garages
+
+• Designated earthquake, hurricane or other emergency shelters.
+
+• Designated emergency preparedness, communications and operations centers and other facilities required for emergency response.
+
+• Power-generating stations and other public utility facilities required as emergency backup facilities for Risk Category IV structures.
+
+• Buildings and other structures containing quantities of highly toxic materials that:• Exceed maximum allowable quantities per control area as given in Table 307.1(2) or per outdoor control area in accordance with the California Fire Code; and• Are sufficient to pose a threat to the public if released.b
+
+• Exceed maximum allowable quantities per control area as given in Table 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+
+• Aviation control towers, air traffic control centers and emergency aircraft hangars.
+
+• Buildings and other structures having critical national defense functions.
+
+• Water storage facilities and pump structures required to maintain water pressure for fire suppression.
+• Group I-2, Condition 2 occupancies having emergency surgery or emergency treatment facilities.
+
+• Ambulatory care facilities having emergency surgery or emergency treatment facilities.
+
+• Fire, rescue, ambulance and police stations and emergency vehicle garages
+
+• Designated earthquake, hurricane or other emergency shelters.
+
+• Designated emergency preparedness, communications and operations centers and other facilities required for emergency response.
+
+• Power-generating stations and other public utility facilities required as emergency backup facilities for Risk Category IV structures.
+
+• Buildings and other structures containing quantities of highly toxic materials that:
+
+• Exceed maximum allowable quantities per control area as given in Table 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+• Exceed maximum allowable quantities per control area as given in Table 307.1(2) or per outdoor control area in accordance with the California Fire Code; and
+
+• Are sufficient to pose a threat to the public if released.b
+
+• Aviation control towers, air traffic control centers and emergency aircraft hangars.
+
+• Buildings and other structures having critical national defense functions.
+
+• Water storage facilities and pump structures required to maintain water pressure for fire suppression.
+
+a.For purposes of occupant load calculation, occupancies required by Table 1004.5 to use gross floor area calculations shall be permitted to use net floor areas to determine the total occupant load.
+
+b.Where approved by the building official, the classification of buildings and other structures as Risk Category III or IV based on their quantities of toxic, highly toxic or explosive materials is permitted to be reduced to Risk Category II, provided that it can be demonstrated by a hazard assessment in accordance with Section 1.5.3 of ASCE 7 that a release of the toxic, highly toxic or explosive materials is not sufficient to pose a threat to the public.
+
+1604.5.1 Multiple occupancies.
+
+Where a building or structure is occupied by two or more occupancies not included in the same risk category, it shall be assigned the classification of the highest risk category corresponding to the various occupancies. Where buildings or structures have two or more portions that are structurally separated, each portion shall be separately classified. Where a separated portion of a building or structure provides required access to, required egress from or shares life safety components with another portion having a higher risk category, both portions shall be assigned to the higher risk category.
+
+Exception: Where a storm shelter designed and constructed in accordance with ICC 500 is provided in a building, structure or portion thereof normally occupied for other purposes, the risk category for the normal occupancy of the building shall apply unless the storm shelter is a designated emergency shelter in accordance with Table 1604.5.
+
+1604.6 In-situ load tests.
+
+The building official is authorized to require an engineering analysis or a load test, or both, of any construction whenever there is reason to question the safety of the construction for the intended occupancy. Engineering analysis and load tests shall be conducted in accordance with Section 1708.
+
+1604.7 Preconstruction load tests.
+
+Materials and methods of construction that are not capable of being designed by approved engineering analysis or that do not comply with the applicable referenced standards, or alternative test procedures in accordance with Section 1707, shall be load tested in accordance with Section 1709.
+
+1604.8 Anchorage.
+
+Buildings and other structures, and portions thereof, shall be provided with anchorage in accordance with Sections 1604.8.1 through 1604.8.3, as applicable.
+
+1604.8.1 General.
+
+Anchorage of the roof to walls and columns, and of walls and columns to foundations, shall be provided to resist the uplift and sliding forces that result from the application of the prescribed loads.
+
+1604.8.2 Structural walls.
+
+Walls that provide vertical load-bearing resistance or lateral shear resistance for a portion of the structure shall be anchored to the roof and to all floors and members that provide lateral support for the wall or that are supported by the wall. The connections shall be capable of resisting the horizontal forces specified in Section 1.4.4 of ASCE 7 for walls of structures assigned to Seismic Design Category A and to Section 12.11 of ASCE 7 for walls of structures assigned to all other seismic design categories. Required anchors in masonry walls of hollow units or cavity walls shall be embedded in a reinforced grouted structural element of the wall. See Sections 1609 for wind design requirements and 1613 for earthquake design requirements.
+
+1604.8.3 Decks.
+
+Where supported by attachment to an exterior wall, decks shall be positively anchored to the primary structure and designed for both vertical and lateral loads as applicable. Such attachment shall not be accomplished by the use of toenails or nails subject to withdrawal. Where positive connection to the primary building structure cannot be verified during inspection, decks shall be self-supporting. Connections of decks with cantilevered framing members to exterior walls or other framing members shall be designed for both of the following:
+
+1.The reactions resulting from the dead load and live load specified in Table 1607.1, or the snow load specified in Section 1608, in accordance with Section 1605, acting on all portions of the deck.
+
+2.The reactions resulting from the dead load and live load specified in Table 1607.1, or the snow load specified in Section 1608, in accordance with Section 1605, acting on the cantilevered portion of the deck, and no live load or snow load on the remaining portion of the deck.
+
+1604.9 Wind and seismic detailing.
+
+Lateral force-resisting systems shall meet seismic detailing requirements and limitations prescribed in this code and ASCE 7 Chapters 11, 12, 13, 15, 17 and 18 as applicable, even where wind load effects are greater than seismic load effects.
+
+Exception: References within ASCE 7 to Chapter 14 shall not apply, except as specifically required herein.
+
+1604.10 Loads on storm shelters.
+
+Loads and load combinations on storm shelters shall be determined in accordance with ICC 500.
+
+SECTION 1605 LOAD COMBINATIONS
+
+1605.1 General.
+
+Buildings and other structures and portions thereof shall be designed to resist the strength load combinations specified in ASCE 7, Section 2.3, the allowable stress design load combinations specified in ASCE 7, Section 2.4, or the alternative allowable stress design load combinations of Section 1605.2.
+
+Exceptions:
+
+1.The modifications to load combinations of ASCE 7, Section 2.3, ASCE 7, Section 2.4, and Section 1605.2 specified in ASCE 7 Chapters 18 and 19 shall apply.
+
+2.Where the allowable stress design load combinations of ASCE 7, Section 2.4 are used, flat roof snow loads of 30 pounds per square foot (1.44 kN/m2) and roof live loads of 30 pounds per square foot (1.44 kN/m2) or less need not be combined with seismic load. Where flat roof snow loads exceed 30 pounds per square foot (1.44 kN/m2), 20 percent shall be combined with seismic loads.
+
+3.Where the allowable stress design load combinations of ASCE 7, Section 2.4 are used, crane hook loads need not be combined with roof live loads or with more than three-fourths of the snow load or one-half of the wind loads.
+
+1605.1.1 Stability
+
+Regardless of which load combinations are used to design for strength, where overall structure stability (such as stability against overturning, sliding, or buoyancy) is being verified, use of the load combinations specified in Section 2.3 or 2.4 of ASCE 7, and in Section 1605.2 shall be permitted. Where the load combinations specified in ASCE 7, Section 2.3 are used, strength reduction factors applicable to soil resistance shall be provided by a registered design professional. The stability of retaining walls shall be verified in accordance with Section 1807.2.3.
+
+
+
+1605.2 Alternative allowable stress design load combinations.
+
+In lieu of the load combinations in ASCE 7, Section 2.4, structures and portions thereof shall be permitted to be designed for the most critical effects resulting from the following combinations. Where using these alternative allowable stress load combinations that include wind or seismic loads, allowable stresses are permitted to be increased or load combinations reduced where permitted by the material chapter of this code or the referenced standards. For load combinations that include the counteracting effects of dead and wind loads, only two-thirds of the minimum dead load likely to be in place during a design wind event shall be used. Where using these alternative load combinations to evaluate sliding, overturning and soil bearing at the soil-structure interface, the reduction of foundation overturning from Section 12.13.4 in ASCE 7 shall not be used. Where using these alternative basic load combinations for proportioning foundations for loadings, which include seismic loads, the vertical seismic load effect, Ev, in Equation 12.4-4 of ASCE 7 is permitted to be taken equal to zero. Where required by ASCE 7, Chapters 12, 13 and 15, the load combinations including overstrength of ASCE 7, Section 2.3.6 shall be used. [OSHPD 1R, 2B & 5] Each load combination shall be investigated with one or more of the variable loads set to zero.
+
+Exceptions:
+
+1.Crane hook loads need not be combined with roof live loads or with more than three-fourths of the snow load or one-half of the wind load.
+
+2.Flat roof snow loads of 30 pounds per square foot (1.44 kN/m2) or less and roof live loads of 30 pounds per square foot (1.44 kN/m2) or less need not be combined with seismic loads. Where flat roof snow loads exceed 30 pounds per square foot (1.44 kN/m2), 20 percent shall be combined with seismic loads.
+
+
+
+SECTION 1606 DEAD LOADS
+
+1606.1 General.
+
+Dead loads are those loads defined in Chapter 2 of this code. Dead loads shall be considered to be permanent loads.
+
+1606.2 Weights of materials of construction.
+
+For purposes of design, the actual weights of materials of construction shall be used. In the absence of definite information, values used shall be subject to the approval of the building official.
+
+1606.3 Weight of fixed service equipment.
+
+In determining dead loads for purposes of design, the weight of fixed service equipment, including the maximum weight of the contents of fixed service equipment, shall be included. The components of fixed service equipment that are variable, such as liquid contents and movable trays, shall not be used to counteract forces causing overturning, sliding, and uplift conditions in accordance with Section 1.3.6 of ASCE 7.
+
+Exceptions:
+
+1.Where force effects are the result of the presence of the variable components, the components are permitted to be used to counter those load effects. In such cases, the structure shall be designed for force effects with the variable components present and with them absent.
+
+2.For the calculation of seismic force effects, the components of fixed service equipment that are variable, such as liquid contents and movable trays, need not exceed those expected during normal operation.
+
+1606.4 Photovoltaic panel systems.
+
+The weight of photovoltaic panel systems, their support system, and ballast shall be considered as dead load.
+
+1606.5 Vegetative and landscaped roofs.
+
+The weight of all landscaping and hardscaping materials for vegetative and landscaped roofs shall be considered as dead load. The weight shall be computed considering both fully saturated soil and drainage layer materials and fully dry soil and drainage layer materials to determine the most severe load effects on the structure.
+
+SECTION 1607 LIVE LOADS
+
+1607.1 General.
+
+Live loads are those loads defined in Chapter 2 of this code.
+
+TABLE 1607.1
+
+MINIMUM UNIFORMLY DISTRIBUTED LIVE LOADS, L0, AND MINIMUM CONCENTRATED LIVE LOADS
+
+OCCUPANCY OR USE	UNIFORM (psf)	CONCENTRATED (pounds)	ALSO SEE SECTION
+1.	Apartments (see residential)	—	—	—
+2.	Access floor systems	Office use	50	2,000	—
+Computer use	100	2,000	—
+3.	Armories and drill rooms	150b	—	—
+4.	Assembly areas	Fixed seats (fastened to floor)	60a	—	—
+Follow spot, projections and control rooms	50
+Lobbies	100a
+Movable seats	100a
+Stage floors	150b
+Platforms (assembly)	100a
+Bleachers, folding and telescopic seating and grandstands	100a (See Section 1607.19)
+Stadiums and arenas with fixed seats
+(fastened to the floor)	60a (See Section 1607.19)
+Other assembly areas	100a
+5.	Balconies and decks	1.5 times the live load for the area served, not required to exceed 100	—	—
+6.	Catwalks for maintenance and service access	40	300	—
+7.	Cornices	60	—	—
+8.	Corridors	First floor	100	—	—
+Other floors	Same as occupancy served except as indicated
+9.	Dining rooms and restaurants	100a	—	—
+10.	Dwellings (see residential)	—	—	—
+11.	Elevator machine room and control room grating (on area of 2 inches by 2 inches)	—	300	—
+12.	Finish light floor plate construction (on area of 1 inch by 1 inch)	—	200	—
+13.	Fire escapes	100	—	—
+	On single-family dwellings only	40
+14.	Fixed ladders	See Section 1607.17	—
+15.	Garages	Passenger vehicles only	40c	See Section 1607.7	—
+Trucks and buses	See Section 1607.8
+16.	Handrails, guards and grab bars	See Section 1607.9	—
+17.	Helipads	See Section 1607.6	—
+18.	Hospitals	Corridors above first floor	80	1,000	—
+Operating rooms, laboratories	60	1,000
+Patient rooms	40	1,000
+19.	Hotels (see residential)	—	—	—
+20.	Libraries	Corridors above first floor	80	1,000	—
+Reading rooms	60	1,000	—
+Stack rooms	150b	1,000	Section 1607.18
+21.	Manufacturing	Heavy	250b	3,000	—
+Light	125b	2,000
+22.	Marquees, except one- and two-family dwellings	75	—	—
+23.	Office buildings	Corridors above first floor	80	2,000	—
+File and computer rooms shall be designed for heavier loads based on anticipated occupancy	—	—
+Lobbies and first-floor corridors	100	2,000
+Offices	50	2,000
+24.	Penal institutions	Cell blocks	40	—	—
+Corridors	100
+25.	Recreational uses	Bowling alleys, poolrooms and similar uses	75a	—	—
+Dance halls and ballrooms	100a
+Gymnasiums	100a
+Ice skating rinks	250b
+Roller skating rinks	100a
+26.	Residential	One- and two-family dwellings:		—	Section 1607.22
+Uninhabitable attics without storage	10
+Uninhabitable attics with storage	20
+Habitable attics and sleeping areas	30
+Canopies, including marquees	20
+All other areas	40
+Hotels and multifamily dwellings:	
+Private rooms and corridors serving them	40
+Public roomsa and corridors serving them	100
+27.	Roofs	Ordinary flat, pitched, and curved roofs (that are not occupiable)	20	—	Section 1607.14.2
+Roof areas used for assembly purposes	100a	—
+Roof areas used for occupancies other than assembly	Same as occupancy served	—
+Vegetative and landscaped roofs:	—
+Roof areas not intended for occupancy	20	—
+Roof areas used for assembly purposes	100a	—
+Roof areas used for other occupancies	Same as occupancy served	—
+Awnings and canopies:	—
+Fabric construction supported by a skeleton structure	5a	—
+All other construction, except one- and two-family dwellings	20	—
+Primary roof members exposed to a work floor:		Section 1607.15.2
+Single panel point of lower chord of roof trusses or any point along primary structural members supporting roofs over manufacturing, storage warehouses, and repair garages	—	2,000
+All other primary roof members	—	300
+All roof surfaces subject to maintenance workers	—	300
+28.	Schools	Classrooms	40	1,000	—
+Corridors above first floor	80	1,000
+First-floor corridors	100	1,000
+29.	Scuttles, skylight ribs and accessible ceilings	—	200	—
+30.	Sidewalks, vehicular driveways and yards, subject to trucking	250b	8,000	Section 1607.20
+31.	Stairs and exits	One- and two-family dwellings	40	300	Section 1607.21
+All other	100	300	Section 1607.21
+32.	Storage areas above ceilings	20	—	—
+33.	Storage warehouses (shall be designed for heavier loads if required for anticipated storage)	Heavy	250b	—	—
+Light	125b
+34.	Stores	Retail:			—
+First floor	100	1,000
+Upper floors	75	1,000
+Wholesale, all floors	125b	1,000
+35.	Vehicle barriers	See Section 1607.10	—
+36.	Walkways and elevated platforms (other than exitways)	60	—	—
+37.	Yards and terraces, pedestrian	100a	—	—
+38.	[OSHPD 1R, 2 & 5] Storage racks and wall-hung cabinets.	Total loadsd	—	—For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm2, 1 square foot = 0.0929 m2, 1 pound per square foot = 0.0479 kN/m2, 1 pound = 0.004448 kN, 1 pound per cubic foot = 16 kg/m3.
+
+
+
+a.Live load reduction is not permitted.
+
+b.Live load reduction is only permitted in accordance with Section 1607.12.1.2 or Item 1 of Section 1607.12.2.
+
+c.Live load reduction is only permitted in accordance with Section 1607.12.1.3 or Item 2 of Section 1607.12.2.
+
+d. [OSHPD 1R, 2 & 5] The minimum vertical design live load shall be as follows:
+
+Paper media:12-inch-deep (305 mm) shelf 33 pounds per lineal foot (482 N/m)15-inch-deep (381 mm) shelf 41 pounds per lineal foot (598 N/m), or33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+12-inch-deep (305 mm) shelf 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf 41 pounds per lineal foot (598 N/m), or
+
+33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Film media:18-inch-deep (457 mm) shelf 100 pounds per lineal foot (1459 N/m), or50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+18-inch-deep (457 mm) shelf 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Other media:20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+Paper media:
+
+12-inch-deep (305 mm) shelf 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf 41 pounds per lineal foot (598 N/m), or
+
+33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+12-inch-deep (305 mm) shelf 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf 41 pounds per lineal foot (598 N/m), or
+
+33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Film media:
+
+18-inch-deep (457 mm) shelf 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+18-inch-deep (457 mm) shelf 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Other media:
+
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+
+1607.2 Loads not specified.
+
+For occupancies or uses not designated in Section 1607, the live load shall be determined in accordance with a method approved by the building official.
+
+1607.3 Uniform live loads.
+
+The live loads used in the design of buildings and other structures shall be the maximum loads expected by the intended use or occupancy but shall not be less than the minimum uniformly distributed live loads given in Table 1607.1.
+
+1607.4 Concentrated live loads.
+
+Floors, roofs and other similar surfaces shall be designed to support the uniformly distributed live loads prescribed in Section 1607.3 or the concentrated live loads, given in Table 1607.1, whichever produces the greater load effects. Unless otherwise specified, the indicated concentration shall be assumed to be uniformly distributed over an area of 21/2 feet by 21/2 feet (762 mm by 762 mm) and shall be located so as to produce the maximum load effects in the structural members.
+
+1607.5 Partition loads.
+
+In office buildings and in other buildings where partition locations are subject to change, provisions for partition weight shall be made, whether or not partitions are shown on the construction documents, unless the specified live load is 80 psf (3.83 kN/m2) or greater. The partition load shall be not less than a uniformly distributed live load of 15 psf (0.72 kN/m2).
+
+1607.6 Helipads.
+
+Helipads shall be designed for the following live loads:
+
+1.A uniform live load, L, as specified in Items 1.1 and 1.2. This load shall not be reduced.
+
+1.1.40 psf (1.92 kN/m2) where the design basis helicopter has a maximum take-off weight of 3,000 pounds (13.35 kN) or less.
+
+1.2.60 psf (2.87 kN/m2) where the design basis helicopter has a maximum take-off weight greater than 3,000 pounds (13.35 kN).
+
+2.A single concentrated live load, L, of 3,000 pounds (13.35 kN) applied over an area of 4.5 inches by 4.5 inches (114 mm by 114 mm) and located so as to produce the maximum load effects on the structural elements under consideration. The concentrated load is not required to act concurrently with other uniform or concentrated live loads.
+
+3.Two single concentrated live loads, L, 8 feet (2438 mm) apart applied on the landing pad (representing the helicopter’s two main landing gear, whether skid type or wheeled type), each having a magnitude of 0.75 times the maximum take-off weight of the helicopter, and located so as to produce the maximum load effects on the structural elements under consideration. The concentrated loads shall be applied over an area of 8 inches by 8 inches (203 mm by 203 mm) and are not required to act concurrently with other uniform or concentrated live loads.
+
+Landing areas designed for a design basis helicopter with maximum take-off weight of 3,000 pounds (13.35 kN) shall be identified with a 3,000-pound (13.34 kN) weight limitation. The landing area weight limitation shall be indicated by the numeral “3” (kips) located in the bottom right corner of the landing area as viewed from the primary approach path. The indication for the landing area weight limitation shall be a minimum 5 feet (1524 mm) in height.
+
+1607.7 Passenger vehicle garages.
+
+Floors in garages or portions of a building used for the storage of motor vehicles shall be designed for the uniformly distributed live loads indicated in Table 1607.1 or the following concentrated load:
+
+1. For garages restricted to passenger vehicles accommodating not more than nine passengers, 3,000 pounds (13.35 kN) acting on an area of 4.5 inches by 4.5 inches (114 mm by 114 mm).
+
+2. For mechanical parking structures without slab or deck that are used for storing passenger vehicles only, 2,250 pounds (10 kN) per wheel.
+
+1607.8 Heavy vehicle loads.
+
+Floors and other surfaces that are intended to support vehicle loads greater than a 10,000-pound (4536 kg) gross vehicle weight rating shall comply with Sections 1607.8.1 through 1607.8.5.
+
+1607.8.1 Loads.
+
+Where any structure does not restrict access for vehicles that exceed a 10,000-pound (4536 kg) gross vehicle weight rating, those portions of the structure subject to such loads shall be designed using the vehicular live loads, including consideration of impact and fatigue, in accordance with the codes and specifications required by the jurisdiction having authority for the design and construction of the roadways and bridges in the same location of the structure.
+
+1607.8.2 Fire truck and emergency vehicles.
+
+Where a structure or portions of a structure are accessed and loaded by fire department access vehicles and other similar emergency vehicles, the structure shall be designed for the greater of the following loads:
+
+1.The actual operational loads, including outrigger reactions and contact areas of the vehicles as stipulated and approved by the building official.
+
+2.The live loading specified in Section 1607.8.1.
+
+1607.8.3 Heavy vehicle garages.
+
+Garages designed to accommodate vehicles that exceed a 10,000-pound (4536 kg) gross vehicle weight rating, shall be designed using the live loading specified by Section 1607.8.1. For garages the design for impact and fatigue is not required.
+
+Exception: The vehicular live loads and load placement are allowed to be determined using the actual vehicle weights for the vehicles allowed onto the garage floors, provided that such loads and placement are based on rational engineering principles and are approved by the building official, but shall be not less than 50 psf (2.9 kN/m2). This live load shall not be reduced.
+
+1607.8.4 Forklifts and movable equipment.
+
+Where a structure is intended to have forklifts or other movable equipment present, the structure shall be designed for the total vehicle or equipment load and the individual wheel loads for the anticipated vehicles as specified by the owner of the facility. These loads shall be posted in accordance with Section 1607.8.5.
+
+1607.8.4.1 Impact and fatigue.
+
+Impact loads and fatigue loading shall be considered in the design of the supporting structure. For the purposes of design, the vehicle and wheel loads shall be increased by 30 percent to account for impact.
+
+1607.8.5 Posting.
+
+The maximum weight of vehicles allowed into or on a garage or other structure shall be posted by the owner or the owner’s authorized agent in accordance with Section 106.1.
+
+1607.9 Loads on handrails, guards, grab bars, shower seats, dressing room bench and seats. shower seats, dressing room bench
+
+Handrails and guards shall be designed and constructed for the structural loading conditions set forth in Section 1607.9.1. Grab bars, shower seats and accessible benches shall be designed and constructed for the structural loading conditions set forth in Section 1607.9.2.
+
+1607.9.1 Handrails and guards.
+
+Handrails and guards shall be designed to resist a linear load of 50 pounds per linear foot (plf) (0.73 kN/m) in accordance with Section 4.5.1.1 of ASCE 7. Glass handrail assemblies and guards shall comply with Section 2407.
+
+Exceptions:
+
+1.For one- and two-family dwellings, only the single concentrated load required by Section 1607.9.1.1 shall be applied.
+
+2.In Group I-3, F, H and S occupancies, for areas that are not accessible to the general public and that have an occupant load less than 50, the minimum load shall be 20 pounds per foot (0.29 kN/m).
+
+1607.9.1.1 Concentrated load.
+
+Handrails and guards shall be designed to resist a concentrated load of 200 pounds (0.89 kN) in accordance with Section 4.5.1 of ASCE 7.
+
+1607.9.1.2 Guard component loads.
+
+Balusters, panel fillers and guard infill components, including all rails except the handrail and the top rail, shall be designed to resist a concentrated load of 50 pounds (0.22 kN) in accordance with Section 4.5.1.2 of ASCE 7.
+
+1607.9.2 Grab bars, shower seats and accessible benches.
+
+Grab bars, shower seats and accessible benches shall be designed to resist a single concentrated load of 250 pounds (1.11 kN) applied in any direction at any point on the grab bar, shower seat, or seat of the accessible bench so as to produce the maximum load effects. [DSA-AC & HCD 1-AC] See Chapter 11A, Section 1127A.4 and Chapter 11B, Sections 11B-609.8, 11B-610.4 and 11B-903.6 for grab bars, shower seats and dressing room bench seats, as applicable.
+
+1607.10 Vehicle barriers.
+
+Vehicle barriers for passenger vehicles shall be designed to resist a concentrated load of 6,000 pounds (26.70 kN) in accordance with Section 4.5.3 of ASCE 7. Garages accommodating trucks and buses shall be designed in accordance with an approved method that contains provisions for traffic railings.
+
+1607.11 Impact loads.
+
+The live loads specified in Sections 1607.3 through 1607.10 shall be assumed to include adequate allowance for ordinary impact conditions. Provisions shall be made in the structural design for uses and loads that involve unusual vibration and impact forces.
+
+1607.11.1 Elevators.
+
+Members, elements and components subject to dynamic loads from elevators shall be designed for impact loads and deflection limits prescribed by ASME A17.1/CSA B44.
+
+1607.11.2 Machinery.
+
+For the purpose of design, the weight of machinery and moving loads shall be increased as follows to allow for impact:
+
+1.Light machinery, shaft- or motor-driven, 20 percent.
+
+2.Reciprocating machinery or power-driven units, 50 percent.
+
+Percentages shall be increased where specified by the manufacturer.
+
+1607.11.3 Elements supporting hoists for façade access and building maintenance equipment.
+
+In addition to any other applicable live loads, structural elements that support hoists for façade access and building maintenance equipment shall be designed for a live load of 2.5 times the rated load of the hoist or the stall load of the hoist, whichever is larger.
+
+1607.11.4 Fall arrest, lifeline, and rope descent system anchorages.
+
+In addition to any other applicable live loads, fall arrest, lifeline, and rope descent system anchorages and structural elements that support these anchorages shall be designed for a live load of not less than 3,100 pounds (13.8 kN) for each attached line, in any direction that the load can be applied.
+
+Anchorages of horizontal lifelines and the structural elements that support these anchorages shall be designed for the maximum tension that develops in the horizontal lifeline from these live loads.
+
+1607.12 Reduction in uniform live loads.
+
+Except for uniform live loads at roofs, all other minimum uniformly distributed live loads, Lo, in Table 1607.1 are permitted to be reduced in accordance with Section 1607.12.1 or 1607.12.2. Uniform live loads at roofs are permitted to be reduced in accordance with Section 1607.14.2.
+
+1607.12.1 Basic uniform live load reduction.
+
+Subject to the limitations of Sections 1607.12.1.1 through 1607.12.1.3 and Table 1607.1, members for which a value of KLLAT is 400 square feet (37.16 m2) or more are permitted to be designed for a reduced uniformly distributed live load, L, in accordance with the following equation:
+
+where:
+
+L = Reduced design live load per square foot (m2) of area supported by the member.
+
+Lo = Unreduced design live load per square foot (m2) of area supported by the member (see Table 1607.1).
+
+KLL = Live load element factor (see Table 1607.12.1).
+
+AT = Tributary area, in square feet (m2).
+
+L shall be not less than 0.50Lo for members supporting one floor and L shall be not less than 0.40Lo for members supporting two or more floors.
+
+TABLE 1607.12.1
+
+LIVE LOAD ELEMENT FACTOR, KLL
+
+ELEMENT	KLL
+Interior columns	4
+Exterior columns without cantilever slabs	4
+Edge columns with cantilever slabs	3
+Corner columns with cantilever slabs	2
+Edge beams without cantilever slabs	2
+Interior beams	2
+Members not previously identified including:	1
+ Edge beams with cantilever slabs
+ Cantilever beams
+ One-way slabs
+ Two-way slabs
+Members without provisions for continuous shear transfer normal to their span1607.12.1.1 One-way slabs.
+
+The tributary area, AT, for use in Equation 16-7 for one-way slabs shall not exceed an area defined by the slab span times a width normal to the span of 1.5 times the slab span.
+
+1607.12.1.2 Heavy live loads.
+
+Live loads that exceed 100 psf (4.79 kN/m2) shall not be reduced.
+
+Exceptions:
+
+1.The live loads for members supporting two or more floors are permitted to be reduced by not greater than 20 percent, but the live load shall be not less than L as calculated in Section 1607.12.1.
+
+2.For uses other than storage, where approved, additional live load reductions shall be permitted where shown by the registered design professional that a rational approach has been used and that such reductions are warranted.
+
+1607.12.1.3 Passenger vehicle garages.
+
+The live loads shall not be reduced in passenger vehicle garages.
+
+Exception: The live loads for members supporting two or more floors are permitted to be reduced by not greater than 20 percent, but the live load be shall be not less than L as calculated in Section 1607.12.1.
+
+1607.12.2 Alternative uniform live load reduction.
+
+As an alternative to Section 1607.12.1 and subject to the limitations of Table 1607.1, uniformly distributed live loads are permitted to be reduced in accordance with the following provisions. Such reductions shall apply to slab systems, beams, girders, columns, piers, walls and foundations.
+
+1.A reduction shall not be permitted where the live load exceeds 100 psf (4.79 kN/m2) except that the design live load for members supporting two or more floors is permitted to be reduced by not greater than 20 percent.
+
+Exception: For uses other than storage, where approved, additional live load reductions shall be permitted where shown by the registered design professional that a rational approach has been used and that such reductions are warranted.
+
+2.A reduction shall not be permitted in passenger vehicle parking garages except that the live loads for members supporting two or more floors are permitted to be reduced by not greater than 20 percent.
+
+3.For live loads not exceeding 100 psf (4.79 kN/m2), the design live load for any structural member supporting 150 square feet (13.94 m2) or more is permitted to be reduced in accordance with Equation 16-8
+
+4.For one-way slabs, the area, A, for use in Equation 16-8 shall not exceed the product of the slab span and a width normal to the span of 0.5 times the slab span.
+
+(Equation 16-8)For SI: R = 0.861(A - 13.94)
+
+Such reduction shall not exceed the smallest of:1.40 percent for members supporting one floor.2.60 percent for members supporting two or more floors.3.R as determined by the following equation:
+
+1.40 percent for members supporting one floor.
+
+2.60 percent for members supporting two or more floors.
+
+3.R as determined by the following equation:
+For SI: R = 0.861(A - 13.94)
+
+Such reduction shall not exceed the smallest of:
+
+1.40 percent for members supporting one floor.
+
+2.60 percent for members supporting two or more floors.
+
+3.R as determined by the following equation:
+
+where:
+
+A = Area of floor supported by the member, square feet (m2).
+
+D = Dead load per square foot (m2) of area supported.
+
+Lo = Unreduced live load per square foot (m2) of area supported.
+
+R = Reduction in percent.
+
+1607.13 Distribution of floor loads.
+
+Where uniform floor live loads are involved in the design of structural members arranged so as to create continuity, the minimum applied loads shall be the full dead loads on all spans in combination with the floor live loads on spans selected to produce the greatest load effect at each location under consideration. Floor live loads are permitted to be reduced in accordance with Section 1607.12 .
+
+1607.14 Roof loads.
+
+The structural supports of roofs and marquees shall be designed to resist wind and, where applicable, snow and earthquake loads, in addition to the dead load of construction and the appropriate live loads as prescribed in this section, or as set forth in Table 1607.1. The live loads acting on a sloping surface shall be assumed to act vertically on the horizontal projection of that surface.
+
+1607.14.1 Distribution of roof loads.
+
+Where uniform roof live loads are reduced to less than 20 psf (0.96 kN/m2) in accordance with Section 1607.14.2.1 and are applied to the design of structural members arranged so as to create continuity, the reduced roof live load shall be applied to adjacent spans or to alternate spans, whichever produces the most unfavorable load effect. See Section 1607.14.2 for reductions in minimum roof live loads and Section 7.5 of ASCE 7 for partial snow loading.
+
+1607.14.2 Reduction in uniform roof live loads.
+
+The minimum uniformly distributed live loads of roofs and marquees, Lo, in Table 1607.1 are permitted to be reduced in accordance with Section 1607.14.2.1.
+
+1607.14.2.1 Ordinary roofs, awnings and canopies.
+
+Ordinary flat, pitched and curved roofs, and awnings and canopies other than of fabric construction supported by a skeleton structure, are permitted to be designed for a reduced uniformly distributed roof live load, Lr, as specified in the following equations or other controlling combinations of loads as specified in Section 1605, whichever produces the greater load effect.
+
+In structures such as greenhouses, where special scaffolding is used as a work surface for workers and materials during maintenance and repair operations, a lower roof load than specified in the following equations shall not be used unless approved by the building official. Such structures shall be designed for a minimum roof live load of 12 psf (0.58 kN/m2).
+
+where: 12 ≤ Lr ≤ 20
+
+For SI: Lr = LoR1R2
+
+where: 0.58 ≤ Lr ≤ 0.96
+
+Lo = Unreduced roof live load per square foot (m2) of horizontal projection supported by the member (see Table 1607.1).
+
+Lr = Reduced roof live load per square foot (m2) of horizontal projection supported by the member.
+
+The reduction factors R1 and R2 shall be determined as follows:
+
+For SI: 1.2 - 0.011At for 18.58 square meters < At < 55.74 square meters
+
+where:
+
+At = Tributary area (span length multiplied by effective width) in square feet (m2) supported by the member, and
+
+where:
+
+F = For a sloped roof, the number of inches of rise per foot (for SI: F = 0.12 × slope, with slope expressed as a percentage), or for an arch or dome, the rise-to-span ratio multiplied by 32.
+
+1607.14.2.2 Occupiable roofs.
+
+Areas of roofs that are occupiable, such as vegetative roofs, landscaped roofs or for assembly or other similar purposes, and marquees are permitted to have their uniformly distributed live loads reduced in accordance with Section 1607.12.
+
+
+
+1607.14.3 Awnings and canopies.
+
+Awnings and canopies shall be designed for uniform live loads as required in Table 1607.1 as well as for snow loads and wind loads as specified in Sections 1608 and 1609.
+
+1607.14.4 Photovoltaic panel systems.
+
+Roof structures that provide support for photovoltaic panel systems shall be designed in accordance with Sections 1607.14.4.1 through 1607.14.4.5, as applicable.
+
+1607.14.4.1 Roof live load.
+
+Roof structures that support photovoltaic panel systems shall be designed to resist each of the following conditions:
+
+1.Applicable uniform and concentrated roof loads with the photovoltaic panel system dead loads.
+
+Exception: Roof live loads need not be applied to the area covered by photovoltaic panels where the clear space between the panels and the roof surface is 24 inches (610 mm) or less.
+
+2.Applicable uniform and concentrated roof loads without the photovoltaic panel system present.
+
+1607.14.4.2 Photovoltaic panels or modules.
+
+The structure of a roof that supports solar photovoltaic panels or modules shall be designed to accommodate the full solar photovoltaic panels or modules and ballast dead load, including concentrated loads from support frames in combination with the loads from Section 1607.14.4.1 and other applicable loads. Where applicable, snow drift loads created by the photovoltaic panels or modules shall be included.
+
+1607.14.4.3 Photovoltaic panels installed on open grid roof structures.
+
+Structures with open grid framing and without a roof deck or sheathing supporting photovoltaic panel systems shall be designed to support the uniform and concentrated roof live loads specified in Section 1607.14.4.1, except that the uniform roof live load shall be permitted to be reduced to 12 psf (0.57 kN/m2).
+
+1607.14.4.4 Ground-mounted photovoltaic (PV) panel systems.
+
+Ground-mounted photovoltaic (PV) panel systems that are independent structures and do not have accessible/occupied space underneath are not required to accommodate a roof photovoltaic live load. Other loads and combinations in accordance with Section 1605 shall be accommodated.
+
+1607.14.4.5 Ballasted photovoltaic panel systems.
+
+Roof structures that provide support for ballasted photovoltaic panel systems shall be designed, or analyzed, in accordance with Section 1604.4; checked in accordance with Section 1604.3.6 for deflections; and checked in accordance with Section 1611 for ponding.
+
+1607.15 Crane loads.
+
+The crane live load shall be the rated capacity of the crane. Design loads for the runway beams, including connections and support brackets, of moving bridge cranes and monorail cranes shall include the maximum wheel loads of the crane and the vertical impact, lateral and longitudinal forces induced by the moving crane.
+
+1607.15.1 Maximum wheel load.
+
+The maximum wheel loads shall be the wheel loads produced by the weight of the bridge, as applicable, plus the sum of the rated capacity and the weight of the trolley with the trolley positioned on its runway at the location where the resulting load effect is maximum.
+
+1607.15.2 Vertical impact force.
+
+The maximum wheel loads of the crane shall be increased by the following percentages to account for the effects of vertical impact or vibration:
+
+Monorail cranes (powered)	25 percent
+Cab-operated or remotely operated bridge cranes (powered)	25 percent
+Pendant-operated bridge cranes (powered)	10 percent
+Bridge cranes or monorail cranes with hand-geared bridge, trolley and hoist	0 percent1607.15.3 Lateral force.
+
+The lateral force on crane runway beams with electrically powered trolleys shall be calculated as 20 percent of the sum of the rated capacity of the crane and the weight of the hoist and trolley. The lateral force shall be assumed to act horizontally at the traction surface of a runway beam, in either direction perpendicular to the beam, and shall be distributed with due regard to the lateral stiffness of the runway beam and supporting structure.
+
+1607.15.4 Longitudinal force.
+
+The longitudinal force on crane runway beams, except for bridge cranes with hand-geared bridges, shall be calculated as 10 percent of the maximum wheel loads of the crane. The longitudinal force shall be assumed to act horizontally at the traction surface of a runway beam, in either direction parallel to the beam.
+
+1607.16 Interior walls and partitions.
+
+Interior walls and partitions that exceed 6 feet (1829 mm) in height, including their finish materials, shall have adequate strength and stiffness to resist the loads to which they are subjected but not less than a horizontal load of 5 psf (0.240 kN/m2).
+
+1607.16.1 Fabric partitions.
+
+Fabric partitions that exceed 6 feet (1829 mm) in height, including their finish materials, shall have adequate strength and stiffness to resist the following load conditions:
+
+1.The horizontal distributed load need only be applied to the partition framing. The total area used to determine the distributed load shall be the area of the fabric face between the framing members to which the fabric is attached. The total distributed load shall be uniformly applied to such framing members in proportion to the length of each member.
+
+2.A concentrated load of 40 pounds (0.176 kN) applied to an 8-inch-diameter (203 mm) area [50.3 square inches (32 452 mm2)] of the fabric face at a height of 54 inches (1372 mm) above the floor.
+
+1607.16.2 Fire walls.
+
+In order to meet the structural stability requirements of Section 706.2 where the structure on either side of the wall has collapsed, fire walls and their supports shall be designed to withstand a minimum horizontal allowable stress load of 5 psf (0.240 kN/m2).
+
+1607.17 Fixed ladders.
+
+Fixed ladders with rungs shall be designed to resist a single concentrated load of 300 pounds (1.33 kN) in accordance with Section 4.5.4 of ASCE 7. Where rails of fixed ladders extend above a floor or platform at the top of the ladder, each side rail extension shall be designed to resist a single concentrated load of 100 pounds (0.445 kN) in accordance with Section 4.5.4 of ASCE 7. Ship’s ladders shall be designed to resist the stair loads given in Table 1607.1.
+
+1607.18 Library stack rooms.
+
+The live loading indicated in Table 1607.1 for library stack rooms applies to stack room floors that support nonmobile, double-faced library book stacks, subject to the following limitations:
+
+1. The nominal book stack unit height shall not exceed 90 inches (2290 mm).
+
+2. The nominal shelf depth shall not exceed 12 inches (305 mm) for each face.
+
+3. Parallel rows of double-faced book stacks shall be separated by aisles not less than 36 inches (914 mm) in width.
+
+1607.19 Seating for assembly uses.
+
+Bleachers, folding and telescopic seating and grandstands shall be designed for the loads specified in ICC 300. Stadiums and arenas with fixed seats shall be designed for the horizontal sway loads in Section 1607.19.1.
+
+1607.19.1 Horizontal sway loads.
+
+The design of stadiums and arenas with fixed seats shall include horizontal swaying forces applied to each row of seats as follows:
+
+1.24 pounds per linear foot (0.35 kN/m) of seat applied in a direction parallel to each row of seats.
+
+2.10 pounds per linear foot (0.15 kN/m) of seat applied in a direction perpendicular to each row of seats.
+
+The parallel and perpendicular horizontal swaying forces are not required to be applied simultaneously.
+
+1607.20 Sidewalks, vehicular driveways, and yards subject to trucking.
+
+The live loading indicated in Table 1607.1 for sidewalks, vehicular driveways, and yards subject to trucking shall comply with the requirements of this section.
+
+1607.20.1 Uniform loads.
+
+In addition to the loads indicated in Table 1607.1, other uniform loads in accordance with an approved method that contains provisions for truck loading shall be considered where appropriate.
+
+1607.20.2 Concentrated loads.
+
+The concentrated wheel load indicated in Table 1607.1 shall be applied on an area of 41/2 inches by 41/2 inches (114 mm by 114 mm).
+
+1607.21 Stair treads.
+
+The concentrated load indicated in Table 1607.1 for stair treads shall be applied on an area of 2 inches by 2 inches (51 mm by 51 mm). This load need not be assumed to act concurrently with the uniform load.
+
+1607.22 Residential attics.
+
+The live loads indicated in Table 1607.1 for attics in residential occupancies shall comply with the requirements of this section.
+
+1607.22.1 Uninhabitable attics without storage.
+
+In residential occupancies, uninhabitable attic areas without storage are those where the maximum clear height between the joists and rafters is less than 42 inches (1067 mm), or where there are not two or more adjacent trusses with web configurations capable of accommodating an assumed rectangle 42 inches (1067 mm) in height by 24 inches (610 mm) in width, or greater, within the plane of the trusses. The live load in Table 1607.1 need not be assumed to act concurrently with any other live load requirement.
+
+1607.22.2 Uninhabitable attics with storage.
+
+In residential occupancies, uninhabitable attic areas with storage are those where the maximum clear height between the joist and rafter is 42 inches (1067 mm) or greater, or where there are two or more adjacent trusses with web configurations capable of accommodating an assumed rectangle 42 inches (1067 mm) in height by 24 inches (610 mm) in width, or greater, within the plane of the trusses. The live load in Table 1607.1 need only be applied to those portions of the joists or truss bottom chords where both of the following conditions are met:
+
+1. The attic area is accessed from an opening not less than 20 inches (508 mm) in width by 30 inches (762 mm) in length that is located where the clear height in the attic is not less than 30 inches (762 mm).
+
+2. The slope of the joists or truss bottom chords is not greater than 2 units vertical in 12 units horizontal.
+
+The remaining portions of the joists or truss bottom chords shall be designed for a uniformly distributed concurrent live load of not less than 10 pounds per square foot (0.48 kN/m2).
+
+1607.22.3 Attics served by stairs.
+
+Attic spaces served by stairways other than the pull-down type shall be designed to support the minimum live load specified for habitable attics and sleeping rooms.
+
+SECTION 1608 SNOW LOADS
+
+1608.1 General
+
+Design snow loads shall be determined in accordance with Chapter 7 of ASCE 7, but the design roof load shall be not less than that determined by Section 1607.
+
+1608.2 Ground snow loads
+
+The ground snow loads to be used in determining the design snow loads for roofs shall be determined in accordance with ASCE 7 or Figures 1608.2(1) and 1608.2(2) for the contiguous United States and Table 1608.2 for Alaska. Site-specific case studies shall be made in areas designated “CS” in Figures 1608.2(1) and 1608.2(2). Ground snow loads for sites at elevations above the limits indicated in Figures 1608.2(1) and 1608.2(2) and for all sites within the CS areas shall be approved. Ground snow load determination for such sites shall be based on an extreme value statistical analysis of data available in the vicinity of the site using a value with a 2-percent annual probability of being exceeded (50-year mean recurrence interval). Snow loads are zero for Hawaii, except in mountainous regions as approved by the building official.
+
+TABLE 1608.2
+
+GROUND SNOW LOADS, pg, FOR ALASKAN LOCATIONS
+
+LOCATION	POUNDS PER SQUARE FOOT
+Adak	30
+Anchorage	50
+Angoon	70
+Barrow	25
+Barter Island	35
+Bethel	40
+Big Delta	50
+Cold Bay	25
+Cordova	100
+Fairbanks	60
+Fort Yukon	60
+Galena	60
+Gulkana	70
+Homer	40
+Juneau	60
+Kenai	70
+Kodiak	30
+Kotzebue	60
+McGrath	70
+Nenana	80
+Nome	70
+Palmer	50
+Petersburg	150
+St. Paul Islands	40
+Seward	50
+Shemya	25
+Sitka	50
+Talkeetna	120
+Unalakleet	50
+Valdez	160
+Whittier	300
+Wrangell	60
+Yakutat	150For SI: 1 pound per square foot = 0.0479 kN/m2.
+
+NOTE: See ASCE 7 Table 7.2-2 for Colorado, Table 7.2-3 for Idaho, Table 7.2-4 for Montana, Table 7.2-5 for Washington, Table 7.2-6 for New Mexico and Table 7.2-7 for Oregon.
+
+FIGURE 1608.2(1)
+
+GROUND SNOW LOADS, pg, FOR THE UNITED STATES (psf)
+
+NOTE: See ASCE 7 Table 7.2-8 for New Hampshire.
+
+FIGURE 1608.2(2)
+
+GROUND SNOW LOADS, pg, FOR THE UNITED STATES (psf)
+
+1608.3 Ponding instability
+
+Susceptible bays of roofs shall be evaluated for ponding instability in accordance with Chapters 7 and 8 of ASCE 7.
+
+SECTION 1609 WIND LOADS
+
+1609.1 Applications.
+
+Buildings, structures and parts thereof shall be designed to withstand the minimum wind loads prescribed herein. Decreases in wind loads shall not be made for the effect of shielding by other structures.
+
+1609.1.1 Determination of wind loads.
+
+Wind loads on every building or structure shall be determined in accordance with Chapters 26 to 30 of ASCE 7. The type of opening protection required, the basic design wind speed, V, and the exposure category for a site is permitted to be determined in accordance with Section 1609 or ASCE 7. Wind shall be assumed to come from any horizontal direction and wind pressures shall be assumed to act normal to the surface considered.
+
+Exceptions:
+
+1.Subject to the limitations of Section 1609.1.1.1, the provisions of ICC 600 shall be permitted for applicable Group R-2 and R-3 buildings.
+
+2.Subject to the limitations of Section 1609.1.1.1, residential structures using the provisions of AWC WFCM.
+
+3.Subject to the limitations of Section 1609.1.1.1, residential structures using the provisions of AISI S230.
+
+4.Designs using NAAMM FP 1001.
+
+5.Designs using TIA-222 for antenna-supporting structures and antennas, provided that the horizontal extent of Topographic Category 2 escarpments in Section 2.6.6.2 of TIA-222 shall be 16 times the height of the escarpment.
+
+6.Wind tunnel tests in accordance with ASCE 49 and Sections 31.4 and 31.5 of ASCE 7.
+
+The wind speeds in Figures 1609.3(1) through 1609.3(12) are basic design wind speeds, V, and shall be converted in accordance with Section 1609.3.1 to allowable stress design wind speeds, Vasd, when the provisions of the standards referenced in Exceptions 4 and 5 are used.
+
+1609.1.1.1 Applicability.
+
+The provisions of ICC 600 are applicable only to buildings located within Exposure B or C as defined in Section 1609.4. The provisions of ICC 600, AWC WFCM and AISI S230 shall not apply to buildings sited on the upper half of an isolated hill, ridge or escarpment meeting all of the following conditions:
+
+1.The hill, ridge or escarpment is 60 feet (18 288 mm) or higher if located in Exposure B or 30 feet (9144 mm) or higher if located in Exposure C.
+
+2.The maximum average slope of the hill exceeds 10 percent.
+
+3.The hill, ridge or escarpment is unobstructed upwind by other such topographic features for a distance from the high point of 50 times the height of the hill or 2 miles (3.22 km), whichever is greater.
+
+1609.2 Protection of openings.
+
+In windborne debris regions, glazing in buildings shall be impact resistant or protected with an impact-resistant covering meeting the requirements of an approved impact-resistant standard or ASTM E1996 referenced herein as follows:
+
+1.Glazed openings located within 30 feet (9144 mm) of grade shall meet the requirements of the large missile test of ASTM E1996.
+
+2.Glazed openings located more than 30 feet (9144 mm) above grade shall meet the provisions of the small missile test of ASTM E1996.
+
+Exceptions:
+
+1.Wood structural panels with a minimum thickness of 7/16 inch (11.1 mm) and maximum panel span of 8 feet (2438 mm) shall be permitted for opening protection in buildings with a mean roof height of 33 feet (10 058 mm) or less that are classified as a Group R-3 or R-4 occupancy. Panels shall be precut so that they shall be attached to the framing surrounding the opening containing the product with the glazed opening. Panels shall be predrilled as required for the anchorage method and shall be secured with the attachment hardware provided. Attachments shall be designed to resist the components and cladding loads determined in accordance with the provisions of ASCE 7, with corrosion-resistant attachment hardware provided and anchors permanently installed on the building. Attachment in accordance with Table 1609.2 with corrosion-resistant attachment hardware provided and anchors permanently installed on the building is permitted for buildings with a mean roof height of 45 feet (13 716 mm) or less where Vasd determined in accordance with Section 1609.3.1 does not exceed 140 mph (63 m/s).
+
+2.Glazing in Risk Category I buildings, including greenhouses that are occupied for growing plants on a production or research basis, without public access shall be permitted to be unprotected.
+
+3.Glazing in Risk Category II, III or IV buildings located over 60 feet (18 288 mm) above the ground and over 30 feet (9144 mm) above aggregate surface roofs located within 1,500 feet (458 m) of the building shall be permitted to be unprotected.
+
+TABLE 1609.2
+
+WINDBORNE DEBRIS PROTECTION FASTENING SCHEDULE FOR WOOD STRUCTURAL PANELSa, b, c, d
+
+FASTENER TYPE	FASTENER SPACING (inches)
+Panel Span ≤ 4 feet	4 feet < Panel Span ≤ 6 feet	6 feet < Panel Span ≤ 8 feet
+No. 8 wood-screw-based anchor with 2-inch embedment length	16	10	8
+No. 10 wood-screw-based anchor with 2-inch embedment length	16	12	9
+1/4-inch diameter lag-screw-based anchor with 2-inch embedment length	16	16	16For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound = 4.448 N, 1 mile per hour = 0.447 m/s.
+
+a.This table is based on 140 mph wind speeds and a 45-foot mean roof height.
+
+b.Fasteners shall be installed at opposing ends of the wood structural panel. Fasteners shall be located not less than 1 inch from the edge of the panel.
+
+c.Anchors shall penetrate through the exterior wall covering with an embedment length of 2 inches minimum into the building frame. Fasteners shall be located not less than 21/2 inches from the edge of concrete block or concrete.
+
+d.Where panels are attached to masonry or masonry/stucco, they shall be attached using vibration-resistant anchors having a minimum ultimate withdrawal capacity of 1,500 pounds.
+
+1609.2.1 Louvers.
+
+Louvers protecting intake and exhaust ventilation ducts not assumed to be open that are located within 30 feet (9144 mm) of grade shall meet the requirements of AMCA 540.
+
+1609.2.2 Application of ASTM E1996.
+
+The text of Section 6.2.2 of ASTM E1996 shall be substituted as follows:
+
+6.2.2 Unless otherwise specified, select the wind zone based on the basic design wind speed, V, as follows:
+
+6.2.2.1 Wind Zone 1—130 mph ≤ basic design wind speed, V < 140 mph.
+
+6.2.2.2 Wind Zone 2—140 mph ≤ basic design wind speed, V < 150 mph at greater than one mile (1.6 km) from the coastline. The coastline shall be measured from the mean high water mark.
+
+6.2.2.3 Wind Zone 3—150 mph (67 m/s) ≤ basic design wind speed, V ≤ 160 mph (72 m/s), or 140 mph (63 m/s) ≤ basic design wind speed, V ≤ 160 mph (72 m/s) and within one mile (1.6 km) of the coastline. The coastline shall be measured from the mean high water mark.
+
+6.2.2.4 Wind Zone 4— basic design wind speed, V > 160 mph (72 m/s).
+6.2.2 Unless otherwise specified, select the wind zone based on the basic design wind speed, V, as follows:
+
+6.2.2.1 Wind Zone 1—130 mph ≤ basic design wind speed, V < 140 mph.
+
+6.2.2.2 Wind Zone 2—140 mph ≤ basic design wind speed, V < 150 mph at greater than one mile (1.6 km) from the coastline. The coastline shall be measured from the mean high water mark.
+
+6.2.2.3 Wind Zone 3—150 mph (67 m/s) ≤ basic design wind speed, V ≤ 160 mph (72 m/s), or 140 mph (63 m/s) ≤ basic design wind speed, V ≤ 160 mph (72 m/s) and within one mile (1.6 km) of the coastline. The coastline shall be measured from the mean high water mark.
+
+6.2.2.4 Wind Zone 4— basic design wind speed, V > 160 mph (72 m/s).
+
+1609.2.3 Garage doors.
+
+Garage door glazed opening protection for windborne debris shall meet the requirements of an approved impact-resisting standard or ANSI/DASMA 115.
+
+1609.3 Basic design wind speed.
+
+The basic design wind speed, V, in mph, for the determination of the wind loads shall be determined by Figures 1609.3(1) through 1609.3(12). The basic design wind speed, V, for use in the design of Risk Category II buildings and structures shall be obtained from Figures 1609.3(1), 1609.3(5) and 1609.3(6). The basic design wind speed, V, for use in the design of Risk Category III buildings and structures shall be obtained from Figures 1609.3(2), 1609.3(7) and 1609.3(8). The basic design wind speed, V, for use in the design of Risk Category IV buildings and structures shall be obtained from Figures 1609.3(3), 1609.3(9) and 1609.3(10). The basic design wind speed, V, for use in the design of Risk Category I buildings and structures shall be obtained from Figures 1609.3(4), 1609.3(11) and 1609.3(12). The basic design wind speed, V, for the special wind regions indicated near mountainous terrain and near gorges shall be in accordance with local jurisdiction requirements. The basic design wind speeds, V, determined by the local jurisdiction shall be in accordance with Chapter 26 of ASCE 7.
+
+In nonhurricane-prone regions, when the basic design wind speed, V, is estimated from regional climatic data, the basic design wind speed, V, shall be determined in accordance with Chapter 26 of ASCE 7.
+
+Notes:
+
+1.Values are nominal design 3-second gust wind speeds in miles per hour (m/s) at 33 feet (10 m) above ground for Exposure C Category.
+
+2.Linear interpolation between contours. Point values are provided to aid with interpolation.
+
+3.Islands, coastal areas, and land boundaries outside the last contour shall use the last wind speed contour.
+
+4.Mountainous terrain, gorges, ocean promontories, and special wind regions shall be examined for unusual wind conditions.
+
+5.Wind speeds correspond to approximately a 7% probability of exceedance in 50 years (Annual Exceedance Probability = 0.00143, MRI = 700 Years).
+
+6.Location-specific basic wind speeds shall be permitted to be determined using www.atcouncil.org/windspeed
+
+FIGURE 1609.3(1)
+
+BASIC DESIGN WIND SPEEDS, V, FOR RISK CATEGORY II BUILDINGS AND OTHER STRUCTURES
+
+Notes:
+
+1.Values are nominal design 3-second gust wind speeds in miles per hour (m/s) at 33 feet (10 m) above ground for Exposure C Category.
+
+2.Linear interpolation between contours. Point values are provided to aid with interpolation.
+
+3.Islands, coastal areas, and land boundaries outside the last contour shall use the last wind speed contour.
+
+4.Mountainous terrain, gorges, ocean promontories, and special wind regions shall be examined for unusual wind conditions.
+
+5.Wind speeds correspond to approximately a 3% probability of exceedance in 50 years (Annual Exceedance Probability = 0.00143, MRI = 700 Years).
+
+6.Location-specific basic wind speeds shall be permitted to be determined using www.atcouncil.org/windspeed
+
+FIGURE 1609.3(2)
+
+BASIC DESIGN WIND SPEEDS, V, FOR RISK CATEGORY III BUILDINGS AND OTHER STRUCTURES
+
+Notes:
+
+1.Values are nominal design 3-second gust wind speeds in miles per hour (m/s) at 33 feet (10 m) above ground for Exposure C Category.
+
+2.Linear interpolation between contours. Point values are provided to aid with interpolation.
+
+3.Islands, coastal areas, and land boundaries outside the last contour shall use the last wind speed contour.
+
+4.Mountainous terrain, gorges, ocean promontories, and special wind regions shall be examined for unusual wind conditions.
+
+5.Wind speeds correspond to approximately a 1.6% probability of exceedance in 50 years (Annual Exceedance Probability = 0.00033, MRI = 3000 Years).
+
+6.Location-specific basic wind speeds shall be permitted to be determined using www.atcouncil.org/windspeed
+
+FIGURE 1609.3(3)
+
+BASIC DESIGN WIND SPEEDS, V, FOR RISK CATEGORY IV BUILDINGS AND OTHER STRUCTURES
+
+Notes:
+
+1.Values are nominal design 3-second gust wind speeds in miles per hour (m/s) at 33 feet (10 m) above ground for Exposure C Category.
+
+2.Linear interpolation between contours. Point values are provided to aid with interpolation.
+
+3.Islands, coastal areas, and land boundaries outside the last contour shall use the last wind speed contour.
+
+4.Mountainous terrain, gorges, ocean promontories, and special wind regions shall be examined for unusual wind conditions.
+
+5.Wind speeds correspond to approximately a 15% probability of exceedance in 50 years (Annual Exceedance Probability = 0.00333, MRI = 300 Years).
+
+6.Location-specific basic wind speeds shall be permitted to be determined using www.atcouncil.org/windspeed.
+
+FIGURE 1609.3(4)
+
+BASIC DESIGN WIND SPEEDS, V, FOR RISK CATEGORY I BUILDINGS AND OTHER STRUCTURES
+
+1609.3.1 Wind speed conversion.
+
+Where required, the basic design wind speeds of Figures 1609.3(1) through 1609.3(12) shall be converted to allowable stress design wind speeds, Vasd, using Table 1609.3.1 or Equation 16-17.
+
+where:
+
+Vasd = Allowable stress design wind speed applicable to methods specified in Exceptions 4 and 5 of Section 1609.1.1.
+
+V = Basic design wind speeds determined from Figures 1609.3(1) through 1609.3(12).
+
+TABLE 1609.3.1
+
+WIND SPEED CONVERSIONSa, b, c
+
+V	100	110	120	130	140	150	160	170	180	190	200
+Vasd	78	85	93	101	108	116	124	132	139	147	155For SI: 1 mile per hour = 0.44 m/s.
+
+a.Linear interpolation is permitted.
+
+b.Vasd = allowable stress design wind speed applicable to methods specified in Exceptions 1 through 5 of Section 1609.1.1.
+
+c.V = basic design wind speeds determined from Figures 1609.3(1) through 1609.3(12).
+
+1609.4 Exposure category.
+
+For each wind direction considered, an exposure category that adequately reflects the characteristics of ground surface irregularities shall be determined for the site at which the building or structure is to be constructed. Account shall be taken of variations in ground surface roughness that arise from natural topography and vegetation as well as from constructed features.
+
+1609.4.1 Wind directions and sectors.
+
+For each selected wind direction at which the wind loads are to be evaluated, the exposure of the building or structure shall be determined for the two upwind sectors extending 45 degrees (0.79 rad) either side of the selected wind direction. The exposures in these two sectors shall be determined in accordance with Sections 1609.4.2 and 1609.4.3 and the exposure resulting in the highest wind loads shall be used to represent winds from that direction.
+
+1609.4.2 Surface roughness categories.
+
+A ground surface roughness within each 45-degree (0.79 rad) sector shall be determined for a distance upwind of the site as defined in Section 1609.4.3 from the following categories, for the purpose of assigning an exposure category as defined in Section 1609.4.3.
+
+Surface Roughness B. Urban and suburban areas, wooded areas or other terrain with numerous closely spaced obstructions having the size of single-family dwellings or larger.
+
+Surface Roughness C. Open terrain with scattered obstructions having heights generally less than 30 feet (9144 mm). This category includes flat open country, and grasslands.
+
+Surface Roughness D. Flat, unobstructed areas and water surfaces. This category includes smooth mud flats, salt flats and unbroken ice.
+Surface Roughness B. Urban and suburban areas, wooded areas or other terrain with numerous closely spaced obstructions having the size of single-family dwellings or larger.
+
+Surface Roughness C. Open terrain with scattered obstructions having heights generally less than 30 feet (9144 mm). This category includes flat open country, and grasslands.
+
+Surface Roughness D. Flat, unobstructed areas and water surfaces. This category includes smooth mud flats, salt flats and unbroken ice.
+
+1609.4.3 Exposure categories.
+
+An exposure category shall be determined in accordance with the following:
+
+Exposure B. For buildings with a mean roof height of less than or equal to 30 feet (9144 mm), Exposure B shall apply where the ground surface roughness, as defined by Surface Roughness B, prevails in the upwind direction for a distance of not less than 1,500 feet (457 m). For buildings with a mean roof height greater than 30 feet (9144 mm), Exposure B shall apply where Surface Roughness B prevails in the upwind direction for a distance of not less than 2,600 feet (792 m) or 20 times the height of the building, whichever is greater.
+
+Exposure C. Exposure C shall apply for all cases where Exposure B or D does not apply.
+
+Exposure D. Exposure D shall apply where the ground surface roughness, as defined by Surface Roughness D, prevails in the upwind direction for a distance of not less than 5,000 feet (1524 m) or 20 times the height of the building, whichever is greater. Exposure D shall apply where the ground surface roughness immediately upwind of the site is B or C, and the site is within a distance of 600 feet (183 m) or 20 times the building height, whichever is greater, from an Exposure D condition as defined in the previous sentence.
+Exposure B. For buildings with a mean roof height of less than or equal to 30 feet (9144 mm), Exposure B shall apply where the ground surface roughness, as defined by Surface Roughness B, prevails in the upwind direction for a distance of not less than 1,500 feet (457 m). For buildings with a mean roof height greater than 30 feet (9144 mm), Exposure B shall apply where Surface Roughness B prevails in the upwind direction for a distance of not less than 2,600 feet (792 m) or 20 times the height of the building, whichever is greater.
+
+Exposure C. Exposure C shall apply for all cases where Exposure B or D does not apply.
+
+Exposure D. Exposure D shall apply where the ground surface roughness, as defined by Surface Roughness D, prevails in the upwind direction for a distance of not less than 5,000 feet (1524 m) or 20 times the height of the building, whichever is greater. Exposure D shall apply where the ground surface roughness immediately upwind of the site is B or C, and the site is within a distance of 600 feet (183 m) or 20 times the building height, whichever is greater, from an Exposure D condition as defined in the previous sentence.
+
+
+
+1609.5 Roof systems.
+
+Roof systems shall be designed and constructed in accordance with Sections 1609.5.1 through 1609.5.3, as applicable.
+
+1609.5.1 Roof deck.
+
+The roof deck shall be designed to withstand the wind pressures determined in accordance with ASCE 7.
+
+1609.5.2 Roof coverings.
+
+Roof coverings shall comply with Section 1609.5.1.
+
+Exception: Rigid tile roof coverings that are air permeable and installed over a roof deck complying with Section 1609.5.1 are permitted to be designed in accordance with Section 1609.5.3.
+
+Asphalt shingles installed over a roof deck complying with Section 1609.5.1 shall comply with the wind-resistance requirements of Section 1504.2.
+
+1609.5.3 Rigid tile.
+
+Wind loads on rigid tile roof coverings shall be determined in accordance with the following equation:
+
+For SI:
+
+where:
+
+b = Exposed width, feet (mm) of the roof tile.
+
+CL = Lift coefficient. The lift coefficient for concrete and clay tile shall be 0.2 or shall be determined by test in accordance with Section 1504.3.1.
+
+GCp = Roof pressure coefficient for each applicable roof zone determined from Chapter 30 of ASCE 7. Roof coefficients shall not be adjusted for internal pressure.
+
+L = Length, feet (mm) of the roof tile.
+
+La = Moment arm, feet (mm) from the axis of rotation to the point of uplift on the roof tile. The point of uplift shall be taken at 0.76L from the head of the tile and the middle of the exposed width. For roof tiles with nails or screws (with or without a tail clip), the axis of rotation shall be taken as the head of the tile for direct deck application or as the top edge of the batten for battened applications. For roof tiles fastened only by a nail or screw along the side of the tile, the axis of rotation shall be determined by testing. For roof tiles installed with battens and fastened only by a clip near the tail of the tile, the moment arm shall be determined about the top edge of the batten with consideration given for the point of rotation of the tiles based on straight bond or broken bond and the tile profile.
+
+Ma = Aerodynamic uplift moment, feet-pounds (N-mm) acting to raise the tail of the tile.
+
+qh = Wind velocity pressure, psf (kN/m2) determined from Section 26.10.2 of ASCE 7.
+
+Concrete and clay roof tiles complying with the following limitations shall be designed to withstand the aerodynamic uplift moment as determined by this section.
+
+1.The roof tiles shall be either loose laid on battens, mechanically fastened, mortar set or adhesive set.
+
+2.The roof tiles shall be installed on solid sheathing that has been designed as components and cladding.
+
+3.An underlayment shall be installed in accordance with Chapter 15.
+
+4.The tile shall be single lapped interlocking with a minimum head lap of not less than 2 inches (51 mm).
+
+5.The length of the tile shall be between 1.0 and 1.75 feet (305 mm and 533 mm).
+
+6.The exposed width of the tile shall be between 0.67 and 1.25 feet (204 mm and 381 mm).
+
+7.The maximum thickness of the tail of the tile shall not exceed 1.3 inches (33 mm).
+
+8.Roof tiles using mortar set or adhesive set systems shall have not less than two-thirds of the tile’s area free of mortar or adhesive contact.
+
+SECTION 1610 SOIL LOADS AND HYDROSTATIC PRESSURE
+
+1610.1 Lateral pressures.
+
+Foundation walls and retaining walls shall be designed to resist lateral soil loads from adjacent soil. Soil loads specified in Table 1610.1 shall be used as the minimum design lateral soil loads unless determined otherwise by a geotechnical investigation in accordance with Section 1803. Foundation walls and other walls in which horizontal movement is restricted at the top shall be designed for at-rest pressure. Retaining walls free to move and rotate at the top shall be permitted to be designed for active pressure. Lateral pressure from surcharge loads shall be added to the lateral soil load. Lateral pressure shall be increased if expansive soils are present at the site. Foundation walls shall be designed to support the weight of the full hydrostatic pressure of undrained backfill unless a drainage system is installed in accordance with Sections 1805.4.2 and 1805.4.3.
+
+Exception: Foundation walls extending not more than 8 feet (2438 mm) below grade and laterally supported at the top by flexible diaphragms shall be permitted to be designed for active pressure.
+
+TABLE 1610.1
+
+LATERAL SOIL LOAD
+
+DESCRIPTION OF BACKFILL MATERIALc	UNIFIED SOIL  CLASSIFICATION	DESIGN LATERAL SOIL LOADa (pound per square foot per foot of depth)
+Active pressure	At-rest pressure
+Well-graded, clean gravels; gravel-sand mixes	GW	30	60
+Poorly graded clean gravels; gravel-sand mixes	GP	30	60
+Silty gravels, poorly graded gravel-sand mixes	GM	40	60
+Clayey gravels, poorly graded gravel-and-clay mixes	GC	45	60
+Well-graded, clean sands; gravelly sand mixes	SW	30	60
+Poorly graded clean sands; sand-gravel mixes	SP	30	60
+Silty sands, poorly graded sand-silt mixes	SM	45	60
+Sand-silt clay mix with plastic fines	SM-SC	45	100
+Clayey sands, poorly graded sand-clay mixes	SC	60	100
+Inorganic silts and clayey silts	ML	45	100
+Mixture of inorganic silt and clay	ML-CL	60	100
+Inorganic clays of low to medium plasticity	CL	60	100
+Organic silts and silt clays, low plasticity	OL	Note b	Note b
+Inorganic clayey silts, elastic silts	MH	Note b	Note b
+Inorganic clays of high plasticity	CH	Note b	Note b
+Organic clays and silty clays	OH	Note b	Note bFor SI: 1 pound per square foot per foot of depth = 0.157 kPa/m, 1 foot = 304.8 mm.
+
+a.Design lateral soil loads are given for moist conditions for the specified soils at their optimum densities. Actual field conditions shall govern. Submerged or saturated soil pressures shall include the weight of the buoyant soil plus the hydrostatic loads.
+
+b.Unsuitable as backfill material.
+
+c.The definition and classification of soil materials shall be in accordance with ASTM D2487.
+
+1610.2 Uplift loads on floor and foundations.
+
+Basement floors, slabs on ground, foundations, and similar approximately horizontal elements below grade shall be designed to resist uplift loads where applicable. The upward pressure of water shall be taken as the full hydrostatic pressure applied over the entire area. The hydrostatic load shall be measured from the underside of the element being evaluated. The design for upward loads caused by expansive soils shall comply with Section 1808.6.
+
+SECTION 1611 RAIN LOADS
+
+1611.1 Design rain loads
+
+Each portion of a roof shall be designed to sustain the load of rainwater as per the requirements of Chapter 8 of ASCE 7. The design rainfall shall be based on the 100-year 15-minute duration event, or on other rainfall rates determined from approved local weather data. Alternatively, a design rainfall of twice the 100-year hourly rainfall rate indicated in Figures 1611.1(1) through 1611.1(5) shall be permitted.
+
+For SI: R = 0.0098(ds + dh)
+
+where:
+
+dh = Additional depth of water on the undeflected roof above the inlet of secondary drainage system at its design flow (in other words, the hydraulic head), in inches (mm).
+
+ds = Depth of water on the undeflected roof up to the inlet of secondary drainage system when the primary drainage system is blocked (in other words, the static head), in inches (mm).
+
+R = Rain load on the undeflected roof, in psf (kN/m2). Where the phrase “undeflected roof” is used, deflections from loads (including dead loads) shall not be considered when determining the amount of rain on the roof.
+
+For SI: 1 inch = 25.4 mm.
+
+Source: National Weather Service, National Oceanic and Atmospheric Administration, Washington, DC.
+
+FIGURE 1611.1(1)
+
+100-YEAR, 1-HOUR RAINFALL (INCHES) WESTERN UNITED STATES
+
+For SI: 1 inch = 25.4 mm.
+
+Source: National Weather Service, National Oceanic and Atmospheric Administration, Washington, DC.
+
+FIGURE 1611.1(2)
+
+100-YEAR, 1-HOUR RAINFALL (INCHES) CENTRAL UNITED STATES
+
+For SI: 1 inch = 25.4 mm.
+
+Source: National Weather Service, National Oceanic and Atmospheric Administration, Washington, DC.
+
+FIGURE 1611.1(3)
+
+100-YEAR, 1-HOUR RAINFALL (INCHES) EASTERN UNITED STATES
+
+For SI: 1 inch = 25.4 mm.
+
+Source: National Weather Service, National Oceanic and Atmospheric Administration, Washington, DC.
+
+FIGURE 1611.1(4)
+
+100-YEAR, 1-HOUR RAINFALL (INCHES) ALASKA
+
+For SI: 1 inch = 25.4 mm.
+
+Source: National Weather Service, National Oceanic and Atmospheric Administration, Washington, DC.
+
+FIGURE 1611.1(5)
+
+100-YEAR, 1-HOUR RAINFALL (INCHES) HAWAII
+
+1611.2 Ponding instability
+
+Susceptible bays of roofs shall be evaluated for ponding instability in accordance with Chapters 7 and 8 of ASCE 7.
+
+1611.3 Controlled drainage
+
+Roofs equipped with hardware to control the rate of drainage shall be equipped with a secondary drainage system at a higher elevation that limits accumulation of water on the roof above that elevation. Such roofs shall be designed to sustain the load of rainwater that will accumulate on them to the elevation of the secondary drainage system plus the uniform load caused by water that rises above the inlet of the secondary drainage system at its design flow determined from Section 1611.1. Such roofs shall be checked for ponding instability in accordance with Section 1611.2.
+
+SECTION 1612 FLOOD LOADS
+
+1612.1 General.
+
+Within flood hazard areas as established in Section 1612.3, all new construction of buildings, structures and portions of buildings and structures, including substantial improvement and restoration of substantial damage to buildings and structures, shall be designed and constructed to resist the effects of flood hazards and flood loads. For buildings that are located in more than one flood hazard area, the provisions associated with the most restrictive flood hazard area shall apply.
+
+1612.2 Design and construction.
+
+The design and construction of buildings and structures located in flood hazard areas, including coastal high hazard areas and coastal A zones, shall be in accordance with Chapter 5 of ASCE 7 and ASCE 24.
+
+1612.3 Establishment of flood hazard areas.
+
+To establish flood hazard areas, the applicable governing authority shall adopt a flood hazard map and supporting data. The flood hazard map shall include, at a minimum, areas of special flood hazard as identified by the Federal Emergency Management Agency in an engineering report entitled “The Flood Insurance Study for [INSERT NAME OF JURISDICTION],” dated [INSERT DATE OF ISSUANCE], as amended or revised with the accompanying Flood Insurance Rate Map (FIRM) and Flood Boundary and Floodway Map (FBFM) and related supporting data along with any revisions thereto. The adopted flood hazard map and supporting data are hereby adopted by reference and declared to be part of this section.
+
+Exception: [OSHPD 1R, 2 & 5] The flood hazard map shall include, at a minimum, areas of special flood hazard as identified by the Federal Emergency Management Agency’s Flood Insurance Study (FIS) adopted by the local authority having jurisdiction where the project is located.
+
+1612.3.1 Design flood elevations.
+
+Where design flood elevations are not included in the flood hazard areas established in Section 1612.3, or where floodways are not designated, the building official is authorized to require the applicant to do one of the following:
+
+1.Obtain and reasonably utilize any design flood elevation and floodway data available from a federal, state or other source.
+
+2.Determine the design flood elevation or floodway in accordance with accepted hydrologic and hydraulic engineering practices used to define special flood hazard areas. Determinations shall be undertaken by a registered design professional who shall document that the technical methods used reflect currently accepted engineering practice.
+
+1612.3.2 Determination of impacts.
+
+In riverine flood hazard areas where design flood elevations are specified but floodways have not been designated, the applicant shall provide a floodway analysis that demonstrates that the proposed work will not increase the design flood elevation more than 1 foot (305 mm) at any point within the jurisdiction of the applicable governing authority.
+
+1612.4 Flood hazard documentation.
+
+The following documentation shall be prepared and sealed by a registered design professional and submitted to the building official:
+
+1.For construction in flood hazard areas other than coastal high hazard areas or coastal A zones:
+
+1.1.The elevation of the lowest floor, including the basement, as required by the lowest floor elevation inspection in Section 110.3.3 and for the final inspection in Section 110.3.12.1.
+
+1.2.For fully enclosed areas below the design flood elevation where provisions to allow for the automatic entry and exit of floodwaters do not meet the minimum requirements in Section 2.7.2.1 of ASCE 24, construction documents shall include a statement that the design will provide for equalization of hydrostatic flood forces in accordance with Section 2.7.2.2 of ASCE 24.
+
+1.3.For dry floodproofed nonresidential buildings, construction documents shall include a statement that the dry floodproofing is designed in accordance with ASCE 24 and shall include the flood emergency plan specified in Chapter 6 of ASCE 24.
+
+2.For construction in coastal high hazard areas and coastal A zones:
+
+2.1.The elevation of the bottom of the lowest horizontal structural member as required by the lowest floor elevation inspection in Section 110.3.3 and for the final inspection in Section 110.3.12.1.
+
+2.2.Construction documents shall include a statement that the building is designed in accordance with ASCE 24, including that the pile or column foundation and building or structure to be attached thereto is designed to be anchored to resist flotation, collapse and lateral movement due to the effects of wind and flood loads acting simultaneously on all building components, and other load requirements of Chapter 16.
+
+2.3.For breakaway walls designed to have a resistance of more than 20 psf (0.96 kN/m2) determined using allowable stress design, construction documents shall include a statement that the breakaway wall is designed in accordance with ASCE 24.
+
+2.4For breakaway walls where provisions to allow for the automatic entry and exit of floodwaters do not meet the minimum requirements in Section 2.7.2.1 of ASCE 24, construction documents shall include a statement that the design will provide for equalization of hydrostatic flood forces in accordance with Section 2.7.2.2 of ASCE 24.
+
+SECTION 1613 EARTHQUAKE LOADS
+
+1613.1 Scope.
+
+Every structure, and portion thereof, including nonstructural components that are permanently attached to structures and their supports and attachments, shall be designed and constructed to resist the effects of earthquake motions in accordance with Chapters 11, 12, 13, 15, 17 and 18 of ASCE 7, as applicable. The seismic design category for a structure is permitted to be determined in accordance with Section 1613 or ASCE 7.
+
+Exceptions:
+
+1.Detached one- and two-family dwellings, assigned to Seismic Design Category A, B or C, or located where the mapped short-period spectral response acceleration, SS, is less than 0.4 g.
+
+2.The seismic force-resisting system of wood-frame buildings that conform to the provisions of Section 2308 are not required to be analyzed as specified in this section. [OSHPD 1R, 2 & 5]  Not permitted by OSHPD, see Section 2308.
+
+3.Agricultural storage structures intended only for incidental human occupancy.
+
+4.Structures that require special consideration of their response characteristics and environment that are not addressed by this code or ASCE 7 and for which other regulations provide seismic criteria, such as vehicular bridges, electrical transmission towers, hydraulic structures, buried utility lines and their appurtenances and nuclear reactors.
+
+5.References within ASCE 7 to Chapter 14 shall not apply, except as specifically required herein.
+
+6.[OSHPD 1R, 2 & 5] Seismic Design Category shall be in accordance with exception to Section 1613.2.5.
+
+1613.1.1 Scope. [SL]
+
+For applications listed in Section 1.12 regulated by the State Librarian, only the provisions of ASCE 7 Tables 13.5-1 and 1607.1, as amended, of this code shall apply.
+
+1613.1.2 State-owned buildings. [BSC]
+
+State-owned buildings, including those of the University of California, CSU and Judicial Council, shall not be constructed where any portion of the foundation would be within a mapped area of earthquake-induced liquefaction or landsliding or within 50 feet of a mapped fault rupture hazard as established by Section 1803.7.
+
+1613.1.3 Existing state buildings. [BSC]
+
+Additions, alterations, repairs or change of occupancy category of existing buildings shall be in accordance with the California Existing Building Code, Part 10.
+
+1613.2 Seismic ground motion values.
+
+Seismic ground motion values shall be determined in accordance with this section.
+
+1613.2.1 Mapped acceleration parameters.
+
+The parameters SS and S1 shall be determined from the 0.2 and 1-second spectral response accelerations shown on Figures 1613.2.1(1) through 1613.2.1(10). Where S1 is less than or equal to 0.04 and SS is less than or equal to 0.15, the structure is permitted to be assigned Seismic Design Category A.
+
+Exception: [OSHPD 1R, 2 & 5] Seismic Design Category shall be in accordance with exception to Section 1613.2.5.
+
+FIGURE 1613.2.1(1)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS FOR THE CONTERMINOUS UNITED STATES OF 0.2-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(2)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS FOR THE CONTERMINOUS UNITED STATES OF 0.2-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(3)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS FOR THE
+CONTERMINOUS UNITED STATES OF 1-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(4)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS FOR THE COTERMINOUS UNITED STATES OF 1-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(5)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS FOR HAWAII OF 0.2- AND 1-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(6)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS
+FOR ALASKA OF 0.2-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(7)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS
+FOR ALASKA OF 1.0-SECOND SPECTRAL RESPONSE ACCELERATION (5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(8)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS
+FOR PUERTO RICO AND THE UNITED STATES VIRGIN ISLANDS OF 0.2- AND 1-SECOND SPECTRAL RESPONSE ACCELERATION
+(5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(9)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS
+FOR GUAM AND THE NORTHERN MARIANA ISLANDS OF 0.2- AND 1-SECOND SPECTRAL RESPONSE ACCELERATION
+(5% OF CRITICAL DAMPING)
+
+FIGURE 1613.2.1(10)
+
+RISK-TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) GROUND MOTION RESPONSE ACCELERATIONS
+FOR AMERICAN SAMOA OF 0.2- AND 1-SECOND SPECTRAL RESPONSE ACCELERATION
+(5% OF CRITICAL DAMPING)
+
+1613.2.2 Site class definitions.
+
+Based on the site soil properties, the site shall be classified as Site Class A, B, C, D, E or F in accordance with Chapter 20 of ASCE 7.
+
+Where the soil properties are not known in sufficient detail to determine the site class, Site Class D, subjected to the requirements of Section 1613.2.3, shall be used unless the building official or geotechnical data determines that Site Class E or F soils are present at the site.
+
+Where site investigations that are performed in accordance with Chapter 20 of ASCE 7 reveal rock conditions consistent with Site Class B, but site-specific velocity measurements are not made, the site coefficients Fa and Fv shall be taken at unity (1.0).
+
+1613.2.3 Site coefficients and adjusted maximum considered earthquake spectral response acceleration parameters.
+
+The maximum considered earthquake spectral response acceleration for short periods, SMS, and at 1-second period, SM1, adjusted for site class effects shall be determined by Equations 16-20 and 16-21, respectively:
+
+but SMS shall not be taken less than SM1 except when determining the seismic design category in accordance with Section 1613.2.5.
+
+where:
+
+Fa = Site coefficient defined in Table 1613.2.3(1).
+
+Fv = Site coefficient defined in Table 1613.2.3(2).
+
+SS = The mapped spectral accelerations for short periods as determined in Section 1613.2.1.
+
+S1 = The mapped spectral accelerations for a 1-second period as determined in Section 1613.2.1.
+
+Where Site Class D is selected as the default site class per Section 1613.2.2, the value of Fa shall be not less than 1.2. Where the simplified design procedure of ASCE 7, Section 12.14 is used, the value of Fa shall be determined in accordance with ASCE 7, Section 12.14.8.1, and the values of Fv, SMS and SM1 need not be determined.
+
+TABLE 1613.2.3(1) [OSHPD 1R, 2 & 5]
+
+VALUES OF SITE COEFFICIENT Faa
+
+SITE CLASS	MAPPED RISK TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) SPECTRAL RESPONSE ACCELERATION PARAMETER AT SHORT PERIOD
+Ss ≤ 0.25	Ss = 0.50	Ss = 0.75	Ss = 1.00	Ss = 1.25	Ss ≥ 1.5
+A	0.8	0.8	0.8	0.8	0.8	0.8
+B	0.9	0.9	0.9	0.9	0.9	0.9
+C	1.3	1.3	1.2	1.2	1.2	1.2
+D	1.6	1.4	1.2	1.1	1.0	1.0
+E	2.4	1.7	1.3	1.2 c	1.2 c	1.2 c
+F	Note b	Note b	Note b	Note b	Note b	Note ba.Use straight-line interpolation for intermediate values of mapped spectral response acceleration at short period, Ss.
+
+b.Values shall be determined in accordance with Section 11.4.8 of ASCE 7.
+
+c.See requirements for site-specific ground motions in Section 11.4.8 of ASCE 7. These values of Fa shall only be used for calculation of Ts , determination of Seismic Design Category, linear interpolation for intermediate values of Ss , and when taking the exception under Item 2 within Section 11.4.8 of ASCE 7.
+
+TABLE 1613.2.3(2)
+
+VALUES OF SITE COEFFICIENT FVa
+
+SITE CLASS	MAPPED RISK TARGETED MAXIMUM CONSIDERED EARTHQUAKE (MCER) SPECTRAL RESPONSE ACCELERATION PARAMETER AT 1-SECOND PERIOD
+S1 ≤ 0.1	S1 = 0.2	S1 = 0.3	S1 = 0.4	S1 = 0.5	S1 ≥ 0.6
+A	0.8	0.8	0.8	0.8	0.8	0.8
+B	0.8	0.8	0.8	0.8	0.8	0.8
+C	1.5	1.5	1.5	1.5	1.5	1.4
+D	2.4	2.2c	2.0c	1.9c	1.8c	1.7c
+E	4.2	3.3c	2.8c	2.4c	2.2c	2.0c
+F	Note b	Note b	Note b	Note b	Note b	Note ba.Use straight-line interpolation for intermediate values of mapped spectral response acceleration at 1-second period, S1.
+
+b.Values shall be determined in accordance with Section 11.4.8 of ASCE 7.
+
+c.See requirements for site-specific ground motions in Section 11.4.8 of ASCE 7. [OSHPD 1R, 2 & 5] These values of Fv shall only be used for calculation of TS , determination of Seismic Design Category, linear interpolation for intermediate values of S1 , and when taking the exceptions under Items 1 and 2 of Section 11.4.8 for the calculation of SD1.
+
+1613.2.4 Design spectral response acceleration parameters.
+
+Five-percent damped design spectral response acceleration at short periods, SDS, and at 1-second period, SD1, shall be determined from Equations 16-22 and Equation 16-23, respectively:
+
+where:
+
+SMS = The maximum considered earthquake spectral response accelerations for short period as determined in Section 1613.2.3.
+
+SM1 = The maximum considered earthquake spectral response accelerations for 1-second period as determined in Section 1613.2.3.
+
+1613.2.5 Determination of seismic design category.
+
+Structures classified as Risk Category I, II or III that are located where the mapped spectral response acceleration parameter at 1-second period, S1, is greater than or equal to 0.75 shall be assigned to Seismic Design Category E. Structures classified as Risk Category IV that are located where the mapped spectral response acceleration parameter at 1-second period, S1, is greater than or equal to 0.75 shall be assigned to Seismic Design Category F. Other structures shall be assigned to a seismic design category based on their risk category and the design spectral response acceleration parameters, SDS and SD1, determined in accordance with Section 1613.2.4 or the site-specific procedures of ASCE 7. Each building and structure shall be assigned to the more severe seismic design category in accordance with Table 1613.2.5(1) or 1613.2.5(2), irrespective of the fundamental period of vibration of the structure, T.
+
+Exception: [OSHPD 1R, 2 & 5] Structures not assigned to Seismic Design Category E or F above shall be assigned to Seismic Design Category D.
+
+TABLE 1613.2.5(1)
+
+SEISMIC DESIGN CATEGORY BASED ON SHORT-PERIOD (0.2 second) RESPONSE ACCELERATION
+
+VALUE OF SDS	RISK CATEGORY
+I or II	III	IV
+SDS < 0.167g	A	A	A
+0.167g ≤ SDS < 0.33g	B	B	C
+0.33g ≤ SDS < 0.50g	C	C	D
+0.50g ≤ SDS	D	D	DTABLE 1613.2.5(2)
+
+SEISMIC DESIGN CATEGORY BASED ON 1-SECOND PERIOD RESPONSE ACCELERATION
+
+VALUE OF SD1	RISK CATEGORY
+I or II	III	IV
+SD1 < 0.067g	A	A	A
+0.067g ≤ SD1 < 0.133g	B	B	C
+0.133g ≤ SD1  < 0.20g	C	C	D
+0.20g ≤ SD1	D	D	D1613.2.5.1 Alternative seismic design category determination.
+
+Where S1 is less than 0.75, the seismic design category is permitted to be determined from Table 1613.2.5(1) alone where all of the following apply:
+
+1.In each of the two orthogonal directions, the approximate fundamental period of the structure, Ta, in each of the two orthogonal directions determined in accordance with Section 12.8.2.1 of ASCE 7, is less than 0.8 Ts determined in accordance with Section 11.8.6 of ASCE 7.
+
+2.In each of the two orthogonal directions, the fundamental period of the structure used to calculate the story drift is less than Ts.
+
+3.Equation 12.8-2 of ASCE 7 is used to determine the seismic response coefficient, Cs.
+
+4.The diaphragms are rigid or are permitted to be idealized as rigid in accordance with Section 12.3.1 of ASCE 7 or, for diaphragms permitted to be idealized as flexible in accordance with Section 12.3.1 of ASCE 7, the distances between vertical elements of the seismic force-resisting system do not exceed 40 feet (12 192 mm).
+
+Exception: [OSHPD 1R, 2 & 5] Seismic design category shall be determined in accordance with exception to Section 1613.2.5.
+
+1613.2.5.2 Simplified design procedure.
+
+Where the alternate simplified design procedure of ASCE 7 is used, the seismic design category shall be determined in accordance with ASCE 7.
+
+Exception: [OSHPD 1R, 2 & 5] Seismic design category shall be determined in accordance with exception to Section 1613.2.5.
+
+1613.3 Ballasted photovoltaic panel systems.
+
+Ballasted, roof-mounted photovoltaic panel systems need not be rigidly attached to the roof or supporting structure. Ballasted nonpenetrating systems shall be designed and installed only on roofs with slopes not more than one unit vertical in 12 units horizontal. Ballasted nonpenetrating systems shall be designed to resist sliding and uplift resulting from lateral and vertical forces as required by Section 1605, using a coefficient of friction determined by acceptable engineering principles. In structures assigned to Seismic Design Category C, D, E or F, ballasted nonpenetrating systems shall be designed to accommodate seismic displacement determined by nonlinear response-hi story or other approved analysis or shake-table testing, using input motions consistent with ASCE 7 lateral and vertical seismic forces for nonstructural components on roofs. [OSHPD 1R, 2 & 5] Ballasted photovoltaic panel systems shall be considered as an alternative system.
+
+1613.4 Component Importance Factors.
+
+[OSHPD 1R, 2 & 5] Nonstructural components designated below shall have a component importance factor, Ip, equal to 1.5:
+
+1.For components that are required for life-safety purposes after an earthquake, including emergency and standby power systems, mechanical smoke removal systems, fire protection sprinkler systems and fire alarm control panels.
+
+2.For medical equipment required for patient life support.
+
+SECTION 1614 ATMOSPHERIC ICE LOADS
+
+1614.1 General
+
+Ice-sensitive structures shall be designed for atmospheric ice loads in accordance with Chapter 10 of ASCE 7.
+
+SECTION 1615 TSUNAMI LOADS
+
+1615.1 General.
+
+The design and construction of Risk Category III and IV buildings and structures located in the Tsunami Design Zones defined in the Tsunami Design Geodatabase shall be in accordance with Chapter 6 of ASCE 7, except as modified by this code.
+
+SECTION 1616 STRUCTURAL INTEGRITY
+
+1616.1 General.
+
+High-rise buildings that are assigned to Risk Category III or IV shall comply with the requirements of Section 1616.2 if they are frame structures, or Section 1616.3 if they are bearing wall structures.
+
+1616.2 Frame structures.
+
+Frame structures shall comply with the requirements of this section.
+
+1616.2.1 Concrete frame structures.
+
+Frame structures constructed primarily of reinforced or prestressed concrete, either cast-in-place or precast, or a combination of these, shall conform to the requirements of Section 4.10 of ACI 318. Where ACI 318 requires that nonprestressed reinforcing or prestressing steel pass through the region bounded by the longitudinal column reinforcement, that reinforcing or prestressing steel shall have a minimum nominal tensile strength equal to two-thirds of the required one-way vertical strength of the connection of the floor or roof system to the column in each direction of beam or slab reinforcement passing through the column.
+
+Exception: Where concrete slabs with continuous reinforcement having an area not less than 0.0015 times the concrete area in each of two orthogonal directions are present and are either monolithic with or equivalently bonded to beams, girders or columns, the longitudinal reinforcing or prestressing steel passing through the column reinforcement shall have a nominal tensile strength of one-third of the required one-way vertical strength of the connection of the floor or roof system to the column in each direction of beam or slab reinforcement passing through the column.
+
+1616.2.2 Structural steel, open web steel joist or joist girder, or composite steel and concrete frame structures.
+
+Frame structures constructed with a structural steel frame or a frame composed of open web steel joists, joist girders with or without other structural steel elements or a frame composed of composite steel or composite steel joists and reinforced concrete elements shall conform to the requirements of this section.
+
+1616.2.2.1 Columns.
+
+Each column splice shall have the minimum design strength in tension to transfer the design dead and live load tributary to the column between the splice and the splice or base immediately below.
+
+1616.2.2.2 Beams.
+
+End connections of all beams and girders shall have a minimum nominal axial tensile strength equal to the required vertical shear strength for allowable stress design (ASD) or two-thirds of the required shear strength for load and resistance factor design (LRFD) but not less than 10 kips (45 kN). For the purpose of this section, the shear force and the axial tensile force need not be considered to act simultaneously.
+
+Exception: Where beams, girders, open web joist and joist girders support a concrete slab or concrete slab on metal deck that is attached to the beam or girder with not less than 3/8-inch-diameter (9.5 mm) headed shear studs, at a spacing of not more than 12 inches (305 mm) on center, averaged over the length of the member, or other attachment having equivalent shear strength, and the slab contains continuous distributed reinforcement in each of two orthogonal directions with an area not less than 0.0015 times the concrete area, the nominal axial tension strength of the end connection shall be permitted to be taken as half the required vertical shear strength for ASD or one-third of the required shear strength for LRFD, but not less than 10 kips (45 kN).
+
+1616.3 Bearing wall structures.
+
+Bearing wall structures shall have vertical ties in all load-bearing walls and longitudinal ties, transverse ties and perimeter ties at each floor level in accordance with this section and as shown in Figure 1616.3.
+
+FIGURE 1616.3
+
+LONGITUDINAL, PERIMETER, TRANSVERSE AND VERTICAL TIES
+
+1616.3.1 Concrete wall structures.
+
+Precast bearing wall structures constructed solely of reinforced or prestressed concrete, or combinations of these shall conform to the requirements of Sections 16.2.4 and 16.2.5 of ACI 318.
+
+1616.3.2 Other bearing wall structures.
+
+Ties in bearing wall structures other than those covered in Section 1616.3.1 shall conform to this section.
+
+1616.3.2.1 Longitudinal ties.
+
+Longitudinal ties shall consist of continuous reinforcement in slabs; continuous or spliced decks or sheathing; continuous or spliced members framing to, within or across walls; or connections of continuous framing members to walls. Longitudinal ties shall extend across interior load-bearing walls and shall connect to exterior load-bearing walls and shall be spaced at not greater than 10 feet (3038 mm) on center. Ties shall have a minimum nominal tensile strength, TT, given by Equation 16-24. For ASD the minimum nominal tensile strength shall be permitted to be taken as 1.5 times the allowable tensile stress times the area of the tie.
+
+where:
+
+L = The span of the horizontal element in the direction of the tie, between bearing walls, feet (m).
+
+w = The weight per unit area of the floor or roof in the span being tied to or across the wall, psf (N/m2).
+
+S = The spacing between ties, feet (m).
+
+αT = A coefficient with a value of 1,500 pounds per foot (2.25 kN/m) for masonry bearing wall structures and a value of 375 pounds per foot (0.6 kN/m) for structures with bearing walls of cold-formed steel light-frame construction.
+
+1616.3.2.2 Transverse ties.
+
+Transverse ties shall consist of continuous reinforcement in slabs; continuous or spliced decks or sheathing; continuous or spliced members framing to, within or across walls; or connections of continuous framing members to walls. Transverse ties shall be placed not farther apart than the spacing of load-bearing walls. Transverse ties shall have minimum nominal tensile strength TT, given by Equation 16-24. For ASD the minimum nominal tensile strength shall be permitted to be taken as 1.5 times the allowable tensile stress times the area of the tie.
+
+1616.3.2.3 Perimeter ties.
+
+Perimeter ties shall consist of continuous reinforcement in slabs; continuous or spliced decks or sheathing; continuous or spliced members framing to, within or across walls; or connections of continuous framing members to walls. Ties around the perimeter of each floor and roof shall be located within 4 feet (1219 mm) of the edge and shall provide a nominal strength in tension not less than Tp, given by Equation 16-25. For ASD the minimum nominal tensile strength shall be permitted to be taken as 1.5 times the allowable tensile stress times the area of the tie.
+
+where:
+
+w = As defined in Section 1616.3.2.1.
+
+βT = A coefficient with a value of 16,000 pounds (7200 kN) for structures with masonry bearing walls and a value of 4,000 pounds (1300 kN) for structures with bearing walls of cold-formed steel light-frame construction.
+
+1616.3.2.4 Vertical ties.
+
+Vertical ties shall consist of continuous or spliced reinforcing, continuous or spliced members, wall sheathing or other engineered systems. Vertical tension ties shall be provided in bearing walls and shall be continuous over the height of the building. The minimum nominal tensile strength for vertical ties within a bearing wall shall be equal to the weight of the wall within that story plus the weight of the diaphragm tributary to the wall in the story below. Not fewer than two ties shall be provided for each wall. The strength of each tie need not exceed 3,000 pounds per foot (450 kN/m) of wall tributary to the tie for walls of masonry construction or 750 pounds per foot (140 kN/m) of wall tributary to the tie for walls of cold-formed steel light-frame construction.
+
+SECTION 1617 ADDITIONAL REQUIREMENTS FOR COMMUNITY COLLEGES [DSA-SS/CC]
+
+1617.1 Construction documents.
+
+1617.1.1
+
+Additional requirements for construction documents are included in Sections 4-210 and 4-317 of the California Administrative Code (Part 1, Title 24, C.C.R).
+
+1617.1.2 Connections.
+
+Connections that resist design seismic forces shall be designed and detailed on the design drawings.
+
+1617.1.3 Construction procedures.
+
+Where unusual erection or construction procedures are considered essential by the project structural engineer or architect in order to accomplish the intent of the design or influence the construction, such procedure shall be indicated on the plans or in the specifications.
+
+1617.2 General design requirements.
+
+1617.2.1 Lateral load deflections.
+
+1617.2.1.1 Horizontal diaphragms.
+
+The maximum span-depth ratio for any roof or floor diaphragm consisting of steel and composite steel slab decking or concrete shall be based on test data and design calculations acceptable to the enforcement agency.
+
+1617.2.1.2 Veneers.
+
+The deflection shall not exceed l/600 for veneered walls, anchored veneers and adhered veneers over 1 inch (25 mm) thick, including the mortar backing.
+
+1617.2.1.3 Risk Category of buildings and other structures.
+
+Risk Category IV includes structures as defined in the California Administrative Code, Section 4-207 and all structures required for their continuous operation or access/egress.
+
+1617.2.1.4 Analysis.
+
+Structural analysis shall explicitly include consideration of stiffness of diaphragm in accordance with ASCE 7, Section 12.3.1. A diaphragm is rigid for the purpose of distribution of story shear and torsional moment where so indicated in Section 12.3.1 of ASCE 7.
+
+1617.2.2 Structural walls.
+
+For anchorage of concrete or masonry walls to roof and floor diaphragms, the out-of-plane strength design force shall not be less than 280 lb/linear ft (4.09 kN/m) of wall.
+
+1617.3 Load combinations.
+
+1617.3.1 Stability.
+
+When checking stability under the provisions of Section 1605.1.1 using allowable stress design, the factor of safety for soil bearing values shall not be less than the overstrength factor of the structures supported. Strength design for foundation geotechnical capacity shall be in accordance with ASCE 7, Section 12.13.5 for all strength design load combinations, except that Resistance Factor (Ø) shall be permitted to be 1.0 for load combinations with overstrength factor. Allowable stress design for foundation geotechnical capacity shall be in accordance with ASCE 7, Section 12.13.6 for all allowable stress design load combinations, and shall be established to be consistent with strength design requirements in ASCE 7, Section 12.13.5.
+
+1617.3.2 Alternative allowable stress design load combinations.
+
+Where the alternative allowable stress design load combinations of Section 1605.2 are used, each load combination shall be investigated with one or more of the variable loads set to zero.
+
+1617.3.3 Modifications to load combinations in ICC 300.
+
+Modify the text of ICC 300 as follows:
+
+1617.3.3.1 ICC 300, Section 303.5.2.
+
+Modify Section
+303.5.2 by adding Equation 3-5a as follows:
+
+1617.3.3.2 ICC 300, Section 303.5.3.
+
+Modify Section 303.5.3 as follows:
+
+The uniform live load, L, used in Equation 3-2 and 3-4 may be taken as zero when evaluating elements supporting the handrail/guardrail provided those elements do not also support L.
+The uniform live load, L, used in Equation 3-2 and 3-4 may be taken as zero when evaluating elements supporting the handrail/guardrail provided those elements do not also support L.
+
+1617.4 Roof dead loads.
+
+The design dead load shall provide for the weight of at least one additional roof covering in addition to other applicable loadings if the new roof covering is permitted to be applied over the original roofing without its removal, in accordance with Section 1512.
+
+1617.5 Live loads.
+
+1617.5.1 Modifications to Table 1607.1.
+
+1617.5.1.1 Item 4. Assembly areas.
+
+The following minimum loads for stage accessories apply:
+
+1.Gridirons and fly galleries: 75 pounds per square foot uniform live load.
+
+2.Loft block wells: 250 pounds per lineal foot vertical load and lateral load.
+
+3.Head block wells and sheave beams: 250 pounds per lineal foot vertical load and lateral load. Head block wells and sheave beams shall be designed for all tributary loft block well loads. Sheave blocks shall be designed with a safety factor of five.
+
+4.Scenery beams where there is no gridiron: 300 pounds per lineal foot vertical load and lateral load.
+
+5.Ceiling framing over stages shall be designed for a uniform live load of 20 pounds per square foot. For members supporting a tributary area of 200 square feet or more, this additional load may be reduced to 15 pounds per square foot (0.72 kN/m2).
+
+1617.5.1.2 Reserved.
+
+1617.5.1.3 Item 4. Bleachers, folding and telescopic seating and grandstands.
+
+The minimum uniform live load for a press box floor or accessible roof with railing is 100 psf.
+
+1617.5.1.4 Item 37. Yards and terraces, pedestrians.
+
+Item 37 applies to pedestrian bridges and walkways that are not subjected to uncontrolled vehicle access.
+
+1617.5.1.5 Item 38. Storage racks and wall-hung cabinets.
+
+The minimum vertical design live load shall be as follows:
+
+Paper media:12-inch-deep (305 mm) shelf - 33 pounds per lineal foot (482 N/m)15-inch-deep (381 mm) shelf - 41 pounds per lineal foot (598 N/m), or 33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+12-inch-deep (305 mm) shelf - 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf - 41 pounds per lineal foot (598 N/m), or 33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Film media:18-inch-deep (457 mm) shelf - 100 pounds per lineal foot (1459 N/m), or50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+18-inch-deep (457 mm) shelf - 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Other media:20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+Paper media:
+
+12-inch-deep (305 mm) shelf - 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf - 41 pounds per lineal foot (598 N/m), or 33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+12-inch-deep (305 mm) shelf - 33 pounds per lineal foot (482 N/m)
+
+15-inch-deep (381 mm) shelf - 41 pounds per lineal foot (598 N/m), or 33 pounds per cubic foot (5183 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Film media:
+
+18-inch-deep (457 mm) shelf - 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+18-inch-deep (457 mm) shelf - 100 pounds per lineal foot (1459 N/m), or
+
+50 pounds per cubic foot (7853 N/m3) per total volume of the rack or cabinet, whichever is less.
+
+Other media:
+
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+20 pounds per cubic foot (311 N/m3) or 20 pounds per square foot (958 Pa), whichever is less, but not less than actual loads.
+
+1617.5.2 Uncovered open-frame roof structures.
+
+Uncovered open-frame roof structures shall be designed for a vertical live load of not less than 10 pounds per square foot (0.48 kN/m2) of the total area encompassed by the framework.
+
+1617.5.3 Seating for assembly uses.
+
+Replace Section 1607.19 with the following:
+
+Bleachers, folding and telescopic seating and grandstands shall be designed for the loads specified in ICC 300 as modified by Section 1617.3.3 load combinations. Stadiums and arenas with fixed seats shall be designed for the horizontal sway loads in Section 1607.19.1.
+
+1617.6 Determination of snow loads.
+
+The ground snow load or the design snow load for roofs shall conform with the adopted ordinance of the city, county, or city and county in which the project site is located, and shall be approved by DSA. See Section 106.1.2 for snow load posting requirements.
+
+1617.7 Wind loads.
+
+1617.7.1 Story drift for wind loads.
+
+The calculated story drift due to wind pressures with ultimate design wind speed, Vult , shall not exceed 0.008 times the story height for buildings less than 65 feet (19 812 mm) in height or 0.007 times the story height for buildings 65 feet (19 812 mm) or greater in height.
+
+Exception: This story drift limit need not be applied for single-story open structures in Risk Categories I and II.
+
+1617.8 Establishment of flood hazard areas.
+
+Flood hazard maps shall include, at a minimum, areas of special flood hazard as identified by the Federal Emergency Management Agency's Flood Insurance Study (FIS) adopted by the local authority having jurisdiction where the project is located, as amended or revised with the accompanying Flood Insurance Rate Map (FIRM) and Flood Boundary and Floodway Map (FBFM) and related supporting data along with any revisions thereto.
+
+1617.9 Earthquake loads.
+
+1617.9.1 Modifications to Table 1613.2.3(1).
+
+Replace Table 1613.2.3(1) with Table 1613A.2.3(1).
+
+1617.9.2 Modifications to Table 1613.2.3(2).
+
+Replace Table 1613.2.3(2) with Table 1613A.2.3(2).
+
+1617.9.3 Seismic design category.
+
+The seismic design category for a structure shall be determined in accordance with Section 1613.
+
+1617.9.4 Mapped acceleration parameters.
+
+Seismic Design Category shall be determined in accordance with Section 1613.2.5.
+
+1617.9.5 Determination of seismic design category.
+
+Structures not assigned to Seismic Design Category E or F, in accordance with Section 1613.2, shall be assigned to Seismic Design Category D.
+
+1617.9.5.1 Alternative seismic design category determination.
+
+The alternative Seismic Design Category determination procedure of Section 1613.2.5.1 is not permitted by DSA-SS/CC.
+
+1617.9.5.2 Simplified design procedure.
+
+The simplified design procedure of Section 1613.2.5.2 is not permitted by DSA-SS/CC.
+
+1617.9.6 Ballasted photovoltaic panel systems.
+
+Ballasted, roof-mounted photovoltaic panel systems shall comply with ASCE 7, Section 13.6.12.
+
+1617.10 Tsunami loads.
+
+The design and construction of Risk Category III or IV buildings and structures located in the ASCE Tsunami Design Zones defined in the ASCE Tsunami Design Geodatabase, or other data determined applicable by the enforcement agency, shall be in accordance with Section 1615.1 except as modified by this code. Tsunami Risk Category for community college buildings and structures shall be identified and submitted for acceptance by DSA. Determination of Tsunami Risk Category shall be proposed by the design professional in general responsible charge in coordination with the owner and local community based upon the relative importance of that facility to provide vital services, provide important functions and protect special populations. The determination of relative importance shall include consideration of a tsunami warning and evacuation plan and procedure when adopted by the local community.
+
+1617.11 Modifications to ASCE 7.
+
+The text of ASCE 7 shall be modified as indicated in Sections 1617.11.1 through 1617.11.24.
+
+1617.11.1 ASCE 7, Section 1.3.
+
+Modify ASCE 7, Section 1.3 by adding Section 1.3.8 as follows:
+
+1.3.8 Structural design criteria. Where design is based on ASCE 7, Chapters 16, 17, 18 or 31, the ground motion, wind tunnel design recommendations, analysis and design methods, material assumptions, testing requirements and acceptance criteria proposed by the engineer shall be submitted to the enforcement agency in the form of structural design criteria for approval.
+1.3.8 Structural design criteria. Where design is based on ASCE 7, Chapters 16, 17, 18 or 31, the ground motion, wind tunnel design recommendations, analysis and design methods, material assumptions, testing requirements and acceptance criteria proposed by the engineer shall be submitted to the enforcement agency in the form of structural design criteria for approval.
+
+Peer review requirements in Section 322 of the California Existing Buildings Code shall apply to design reviews required by ASCE 7, Chapters 17 and 18.
+
+1617.11.2 ASCE 7, Section 11.4.
+
+Modify ASCE 7, Section 11.4 to include the following:
+
+Seismic ground motion values shall include updated subsections in Supplement 3.
+
+1617.11.3 ASCE 7, Table 12.2-1.
+
+Modify ASCE 7, Table 12.2-1 as follows:
+
+A. BEARING WALL SYSTEMS
+
+17.Light-framed walls with shear panels of all other materials—Not permitted by DSA-SS/CC.
+
+B. BUILDING FRAME SYSTEMS
+
+24.Light-framed walls with shear panels of all other materials—Not permitted by DSA-SS/CC.
+
+C. MOMENT RESISTING FRAME SYSTEMS
+
+12.Cold-formed steel — special bolted moment frame—Not permitted by DSA-SS/CC.
+
+Exceptions:
+
+1.Systems listed in this section can be used as an alternative system when preapproved by the enforcement agency.
+
+2.Rooftop or other supported structures not exceeding two stories in height and 10 percent of the total structure weight can use the systems in this section when designed as components per ASCE 7, Chapter 13.
+
+3.Systems listed in this section can be used for seismically isolated buildings when permitted by ASCE 7, Section 17.2.5.4.
+
+1617.11.4 ASCE 7, Sections 12.2.3, 12.2.3.1 and 12.2.3.2.
+
+Modify ASCE 7, Sections 12.2.3, 12.2.3.1 and 12.2.3.2 as follows:
+
+1617.11.4.1 ASCE 7, Section 12.2.3.
+
+Replace ASCE 7, Section 12.2.3 with the following:
+
+Where different seismic force-resisting systems are used in combinations to resist seismic forces in the same direction, other than those combinations considered as dual systems, the design shall comply with the requirements of this section. The most stringent applicable structural system limitations contained in Table 12.2-1 shall apply, except as otherwise permitted by this section.
+
+1617.11.4.2 ASCE 7, Section 12.2.3.1.
+
+Replace ASCE 7, Section 12.2.3.1, Items 1 and 2 by the following:
+
+The value of the response modification coefficient, R, used for design at any story shall not exceed the lowest value of R that is used in the same direction at any story above that story. Likewise, the deflection amplification factor, Cd , and the system over strength factor, Ω0, used for the design at any story shall not be less than the largest value of these factors that are used in the same direction at any story above that story.
+
+1617.11.4.3 ASCE 7, Section 12.2.3.2.
+
+Modify ASCE 7, Section 12.2.3.2 by modifying Item a and adding Items f, g and h, as follows:
+
+a. The stiffness of the lower portion shall be at least 10 times the stiffness of the upper portion. For purposes of determining this ratio, the base shear shall be computed and distributed vertically according to Section 12.8. Using these forces, the stiffness for each portion shall be computed as the ratio of the base shear for that portion to the elastic displacement, δxe, computed at the top of that portion, considering the portion fixed at its base. For the lower portion, the applied forces shall include the reactions from the upper portion, modified as required in Item d.
+
+f. The structural height of the upper portion shall not exceed the height limits of Table 12.2-1 for the seismic force-resisting system used, where the height is measured from the base of the upper portion.
+
+g. Where Horizontal Irregularity Type 4 or Vertical Irregularity Type 4 exists at the transition from the upper to the lower portion, the reactions from the upper portion shall be amplified in accordance with Sections 12.3.3.3, 12.10.1.1 and 12.10.3.3 as applicable, in addition to amplification required by Item d.
+
+h. Where design of vertical elements of the upper portion is governed by special seismic load combinations, the special loads shall be considered in the design of the lower portions.
+
+1617.11.5 Reserved.
+
+1617.11.6 ASCE 7, Section 12.2.5.6.1.
+
+The exception in Item a is not permitted by DSA-SS/CC.
+
+1617.11.7 ASCE 7, Section 12.2.5.7.1.
+
+The exception in Item a is not permitted by DSA-SS/CC.
+
+1617.11.8 ASCE 7, Section 12.2.5.7.2.
+
+The exception in Item a is not permitted by DSA-SS/CC.
+
+1617.11.9 ASCE 7, Section 12.3.3.1.
+
+Modify ASCE 7, Section 12.3.3.1 as follows:
+
+12.3.3.1 Prohibited horizontal and vertical irregularities for Seismic Design Categories D through F. Structures assigned to Seismic Design Category E or F having horizontal structural irregularity Type 1b of Table 12.3-1 or vertical structural irregularities Type 1b, 5a or 5b of Table 12.3-2 shall not be permitted. Structures assigned to Seismic Design Category D having vertical irregularity Type 1b or 5b of Table 12.3-2 shall not be permitted.Exceptions: 1. Structures with reinforced concrete or reinforced masonry shear wall systems and rigid or semi-rigid diaphragms, consisting of concrete slabs or concrete-filled metal deck having a span-to-depth ratio of 3 or less, having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided that the maximum story drift in the direction of the irregularity, computed including the torsional amplification factor from Section 12.8.4.3, is less than 10 percent of the allowable story drift in ASCE 7, Table 12.12-1.2. Structures having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided a redundancy factor, ρ, of 1.3 as defined in ASCE 7, Section 12.3.4 is assigned to the seismic force-resisting system in both orthogonal directions and the structure is designed for one of the orthogonal procedures as defined in ASCE 7, Section 12.5.3.1.
+
+1. Structures with reinforced concrete or reinforced masonry shear wall systems and rigid or semi-rigid diaphragms, consisting of concrete slabs or concrete-filled metal deck having a span-to-depth ratio of 3 or less, having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided that the maximum story drift in the direction of the irregularity, computed including the torsional amplification factor from Section 12.8.4.3, is less than 10 percent of the allowable story drift in ASCE 7, Table 12.12-1.
+
+2. Structures having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided a redundancy factor, ρ, of 1.3 as defined in ASCE 7, Section 12.3.4 is assigned to the seismic force-resisting system in both orthogonal directions and the structure is designed for one of the orthogonal procedures as defined in ASCE 7, Section 12.5.3.1.
+12.3.3.1 Prohibited horizontal and vertical irregularities for Seismic Design Categories D through F. Structures assigned to Seismic Design Category E or F having horizontal structural irregularity Type 1b of Table 12.3-1 or vertical structural irregularities Type 1b, 5a or 5b of Table 12.3-2 shall not be permitted. Structures assigned to Seismic Design Category D having vertical irregularity Type 1b or 5b of Table 12.3-2 shall not be permitted.
+
+Exceptions:
+
+1. Structures with reinforced concrete or reinforced masonry shear wall systems and rigid or semi-rigid diaphragms, consisting of concrete slabs or concrete-filled metal deck having a span-to-depth ratio of 3 or less, having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided that the maximum story drift in the direction of the irregularity, computed including the torsional amplification factor from Section 12.8.4.3, is less than 10 percent of the allowable story drift in ASCE 7, Table 12.12-1.
+
+2. Structures having a horizontal structural irregularity Type 1b of Table 12.3-1 are permitted, provided a redundancy factor, ρ, of 1.3 as defined in ASCE 7, Section 12.3.4 is assigned to the seismic force-resisting system in both orthogonal directions and the structure is designed for one of the orthogonal procedures as defined in ASCE 7, Section 12.5.3.1.
+
+1617.11.10 ASCE 7, Section 12.7.2.
+
+Modify ASCE 7, Section 12.7.2 by adding Item 6 to read as follows:
+
+6.Where buildings provide lateral support for walls retaining earth, and the exterior grades on opposite sides of the building differ by more than 6 feet (1829 mm), the load combination of the seismic increment of earth pressure due to earthquake acting on the higher side, as determined by a Geotechnical engineer qualified in soils engineering, plus the difference in earth pressures shall be added to the lateral forces provided in this section.
+
+1617.11.11 Reserved.
+
+
+
+1617.11.12 Reserved.
+
+1617.11.13 ASCE 7, Section 12.13.1.
+
+Modify ASCE 7, Section 12.13.1 by adding Section 12.13.1.1 as follows:
+
+12.13.1.1 Foundations and superstructure-to-foundation connections. The foundation shall be capable of transmitting the design base shear and the overturning forces from the structure into the supporting soil. Stability against overturning and sliding shall be in accordance with Section 1605.1.1.
+
+In addition, the foundation and the connection of the superstructure elements to the foundation shall have the strength to resist, in addition to gravity loads, the lesser of the following seismic loads:1.The strength of the superstructure elements.2.The maximum forces that can be delivered to the foundation in a fully yielded structural system.3.Forces from the Load Combinations with overstrength factor in accordance with ASCE 7, Section 12.4.3.1.Exceptions:1.Where referenced standards specify the use of higher design loads.2.When it can be demonstrated that inelastic deformation of the foundation and superstructure-to-foundation connection will not result in a weak story or cause collapse of the structure.3.Where seismic force-resisting system consists of light-framed walls with shear panels, unless the reference standard specifies the use of higher design loads.
+
+1.The strength of the superstructure elements.
+
+2.The maximum forces that can be delivered to the foundation in a fully yielded structural system.
+
+3.Forces from the Load Combinations with overstrength factor in accordance with ASCE 7, Section 12.4.3.1.Exceptions:1.Where referenced standards specify the use of higher design loads.2.When it can be demonstrated that inelastic deformation of the foundation and superstructure-to-foundation connection will not result in a weak story or cause collapse of the structure.3.Where seismic force-resisting system consists of light-framed walls with shear panels, unless the reference standard specifies the use of higher design loads.
+
+1.Where referenced standards specify the use of higher design loads.
+
+2.When it can be demonstrated that inelastic deformation of the foundation and superstructure-to-foundation connection will not result in a weak story or cause collapse of the structure.
+
+3.Where seismic force-resisting system consists of light-framed walls with shear panels, unless the reference standard specifies the use of higher design loads.
+12.13.1.1 Foundations and superstructure-to-foundation connections. The foundation shall be capable of transmitting the design base shear and the overturning forces from the structure into the supporting soil. Stability against overturning and sliding shall be in accordance with Section 1605.1.1.
+
+In addition, the foundation and the connection of the superstructure elements to the foundation shall have the strength to resist, in addition to gravity loads, the lesser of the following seismic loads:
+
+1.The strength of the superstructure elements.
+
+2.The maximum forces that can be delivered to the foundation in a fully yielded structural system.
+
+3.Forces from the Load Combinations with overstrength factor in accordance with ASCE 7, Section 12.4.3.1.
+
+Exceptions:
+
+1.Where referenced standards specify the use of higher design loads.
+
+2.When it can be demonstrated that inelastic deformation of the foundation and superstructure-to-foundation connection will not result in a weak story or cause collapse of the structure.
+
+3.Where seismic force-resisting system consists of light-framed walls with shear panels, unless the reference standard specifies the use of higher design loads.
+
+Where the computation of the seismic overturning moment is by the equivalent lateral-force method or the modal analysis method, reduction in overturning moment permitted by Section 12.13.4 of ASCE 7 may be used.
+
+Where moment resistance is assumed at the base of the superstructure elements, the rotation and flexural deformation of the foundation as well as deformation of the superstructure-to-foundation connection shall be considered in the drift and deformation compatibility analyses.
+
+1617.11.14 ASCE 7, Section 12.13.9.2.
+
+Modify ASCE 7, Section 12.13.9.2 by the following sentence added to the end of Item b as follows:
+
+Seismic load effects determined in accordance with Section 12.4 need not be considered in this check.
+Seismic load effects determined in accordance with Section 12.4 need not be considered in this check.
+
+1617.11.15 ASCE 7, Section 13.1.4.
+
+Replace ASCE 7, Section 13.1.4 by the following:
+
+13.1.4 The following nonstructural components and  equipment shall be anchored in accordance with this section. Design and detailing shall be in accordance with Chapter 13 except as modified by this section.1.Fixed Equipment: Equipment shall be anchored if it is directly attached to the building utility services such as electricity, gas or water. For the purposes of this requirement, “directly attached” shall include all electrical connections except plugs for 110/220-volt receptacles having a flexible cable/cord. Equipment that is connected to the building plumbing system with a shut-off valve in proximity to the equipment shall not be considered as directly attached provided the inside diameter of the pipe/tubing is less than ½ inch (12.7 mm).2.Movable Equipment: Equipment is subject to the same requirement as fixed equipment, but is permitted to be anchored by re-attachable anchors or restraints in a manner approved by the enforcement agency. Utilities and services at the equipment shall have flexible connections to allow for necessary movement.3.Mobile Equipment: Equipment heavier than 400 pounds (181.4 kg) or that has a center of mass located 4 feet (1219 mm) or more above the adjacent floor or roof level that directly supports the equipment shall be restrained in a manner approved by the enforcement agency. Mobile equipment shall be restrained when not in use and is stored, unless the equipment is stored in a storage room that does not house hazardous materials or any facility systems or fixed equipment that can be affected by mobile equipment lacking restraint.4.Countertop Equipment: Countertop equipment shall be subject to the same anchorage or restraint requirements for fixed or movable equipment, as applicable. Countertop equipment shall also be subject to the same requirements as mobile or other equipment if weight of equipment is greater than 100 pounds (45 kg) and has a center of mass located 4 feet (1219 mm) or more above the adjacent floor level or if equipment could fall and block a required means of egress.5.Other Equipment: Equipment shall be anchored where any of the following apply:a. Weight of equipment is greater than 100 pounds (45 kg) and essential to operations for emergency preparedness, communications and operations centers and other facilities required for emergency response of state-owned essential services buildings as defined in the California Administrative Code (Title 24, Part 1, CCR) Section 4-207 and all structures required for their continuous operation or access/egress.b. Could fall and block a required means of egress.c. Weight of equipment is greater than 400 pounds (181.4 kg) or center of mass is located greater than 4 feet (1219 mm) above the finished floor or roof level that directly supports the component.6. Equipment with hazardous contents.7. Other architectural, mechanical and electrical components stated in Chapter 13.8. Wall-, Roof- or Floor-Hung Equipment: Seismic design and seismic details shall be provided for wall-, roof- or floor-hung nonstructural components and equipment when the component weighs more than 20 pounds (9 kg).
+
+1.Fixed Equipment: Equipment shall be anchored if it is directly attached to the building utility services such as electricity, gas or water. For the purposes of this requirement, “directly attached” shall include all electrical connections except plugs for 110/220-volt receptacles having a flexible cable/cord. Equipment that is connected to the building plumbing system with a shut-off valve in proximity to the equipment shall not be considered as directly attached provided the inside diameter of the pipe/tubing is less than ½ inch (12.7 mm).
+
+2.Movable Equipment: Equipment is subject to the same requirement as fixed equipment, but is permitted to be anchored by re-attachable anchors or restraints in a manner approved by the enforcement agency. Utilities and services at the equipment shall have flexible connections to allow for necessary movement.
+
+3.Mobile Equipment: Equipment heavier than 400 pounds (181.4 kg) or that has a center of mass located 4 feet (1219 mm) or more above the adjacent floor or roof level that directly supports the equipment shall be restrained in a manner approved by the enforcement agency. Mobile equipment shall be restrained when not in use and is stored, unless the equipment is stored in a storage room that does not house hazardous materials or any facility systems or fixed equipment that can be affected by mobile equipment lacking restraint.
+
+4.Countertop Equipment: Countertop equipment shall be subject to the same anchorage or restraint requirements for fixed or movable equipment, as applicable. Countertop equipment shall also be subject to the same requirements as mobile or other equipment if weight of equipment is greater than 100 pounds (45 kg) and has a center of mass located 4 feet (1219 mm) or more above the adjacent floor level or if equipment could fall and block a required means of egress.
+
+5.Other Equipment: Equipment shall be anchored where any of the following apply:a. Weight of equipment is greater than 100 pounds (45 kg) and essential to operations for emergency preparedness, communications and operations centers and other facilities required for emergency response of state-owned essential services buildings as defined in the California Administrative Code (Title 24, Part 1, CCR) Section 4-207 and all structures required for their continuous operation or access/egress.b. Could fall and block a required means of egress.c. Weight of equipment is greater than 400 pounds (181.4 kg) or center of mass is located greater than 4 feet (1219 mm) above the finished floor or roof level that directly supports the component.
+
+a. Weight of equipment is greater than 100 pounds (45 kg) and essential to operations for emergency preparedness, communications and operations centers and other facilities required for emergency response of state-owned essential services buildings as defined in the California Administrative Code (Title 24, Part 1, CCR) Section 4-207 and all structures required for their continuous operation or access/egress.
+
+b. Could fall and block a required means of egress.
+
+c. Weight of equipment is greater than 400 pounds (181.4 kg) or center of mass is located greater than 4 feet (1219 mm) above the finished floor or roof level that directly supports the component.
+
+6. Equipment with hazardous contents.
+
+7. Other architectural, mechanical and electrical components stated in Chapter 13.
+
+8. Wall-, Roof- or Floor-Hung Equipment: Seismic design and seismic details shall be provided for wall-, roof- or floor-hung nonstructural components and equipment when the component weighs more than 20 pounds (9 kg).
+13.1.4 The following nonstructural components and  equipment shall be anchored in accordance with this section. Design and detailing shall be in accordance with Chapter 13 except as modified by this section.
+
+1.Fixed Equipment: Equipment shall be anchored if it is directly attached to the building utility services such as electricity, gas or water. For the purposes of this requirement, “directly attached” shall include all electrical connections except plugs for 110/220-volt receptacles having a flexible cable/cord. Equipment that is connected to the building plumbing system with a shut-off valve in proximity to the equipment shall not be considered as directly attached provided the inside diameter of the pipe/tubing is less than ½ inch (12.7 mm).
+
+2.Movable Equipment: Equipment is subject to the same requirement as fixed equipment, but is permitted to be anchored by re-attachable anchors or restraints in a manner approved by the enforcement agency. Utilities and services at the equipment shall have flexible connections to allow for necessary movement.
+
+3.Mobile Equipment: Equipment heavier than 400 pounds (181.4 kg) or that has a center of mass located 4 feet (1219 mm) or more above the adjacent floor or roof level that directly supports the equipment shall be restrained in a manner approved by the enforcement agency. Mobile equipment shall be restrained when not in use and is stored, unless the equipment is stored in a storage room that does not house hazardous materials or any facility systems or fixed equipment that can be affected by mobile equipment lacking restraint.
+
+4.Countertop Equipment: Countertop equipment shall be subject to the same anchorage or restraint requirements for fixed or movable equipment, as applicable. Countertop equipment shall also be subject to the same requirements as mobile or other equipment if weight of equipment is greater than 100 pounds (45 kg) and has a center of mass located 4 feet (1219 mm) or more above the adjacent floor level or if equipment could fall and block a required means of egress.
+
+5.Other Equipment: Equipment shall be anchored where any of the following apply:
+
+a. Weight of equipment is greater than 100 pounds (45 kg) and essential to operations for emergency preparedness, communications and operations centers and other facilities required for emergency response of state-owned essential services buildings as defined in the California Administrative Code (Title 24, Part 1, CCR) Section 4-207 and all structures required for their continuous operation or access/egress.
+
+b. Could fall and block a required means of egress.
+
+c. Weight of equipment is greater than 400 pounds (181.4 kg) or center of mass is located greater than 4 feet (1219 mm) above the finished floor or roof level that directly supports the component.
+
+6. Equipment with hazardous contents.
+
+7. Other architectural, mechanical and electrical components stated in Chapter 13.
+
+8. Wall-, Roof- or Floor-Hung Equipment: Seismic design and seismic details shall be provided for wall-, roof- or floor-hung nonstructural components and equipment when the component weighs more than 20 pounds (9 kg).
+
+Exemptions: The following nonstructural components are exempt from the requirements of ASCE 7, Chapter 13:
+
+1.Furniture except storage cabinets as noted in Table 13.5-1.
+
+2. Discrete architectural, mechanical and electrical components and fixed equipment that are positively attached to the structure, provided that none of the conditions in this section apply, and flexible connections are provided between the component and associated ductwork, piping and conduit where required.
+
+1617.11.16 ASCE 7, Section 13.5.6.2.
+
+Modify ASCE 7, Section 13.5.6.2 by the following exception added to the end of Section 13.5.6.2.2 and by adding Section 13.5.6.2.3 as follows:
+
+Exception to Section 13.5.8.1 shall not be used in accordance with ASTM E580 Section 5.5.
+
+13.5.6.2.3 Modification to ASTM E580. Modify ASTM E580 by the following:
+
+1.Exitways. Lay-in ceiling assemblies in exitways of hospitals and essential services buildings shall be installed with a main runner or cross runner surrounding all sides of each piece of tile, board or panel and each light fixture or grille. A cross runner that supports another cross runner shall be considered as a main runner for the purpose of structural classification. Splices or intersections of such runners shall be attached with through connectors such as pop rivets, screws, pins, plates with end tabs or other approved connectors. Lateral force diagonal bracing may be omitted in the short or transverse direction of exitways, not exceeding 8 feet wide, when perimeter support in accordance with ASTM E580 Sections 5.2.2 and 5.2.3 is provided and the perimeter wall laterally supporting the ceiling in the short or transverse direction is designed to carry the ceiling lateral forces. The connections between the ceiling grid, wall angle and the wall shall be designed to resist the ceiling lateral forces.
+
+2.Corridors and lobbies. Expansion joints shall be provided in the ceiling at intersections of corridors and at junctions of corridors and lobbies or other similar areas.
+
+3.Lay-in panels. Metal panels and panels weighing more than 1/2 pounds per square foot (24 N/m2) other than acoustical tiles shall be positively attached to the ceiling suspension runners.
+
+4.Lateral force bracing. Lateral force bracing is required for all ceiling areas except that they shall be permitted to be omitted in rooms with floor areas up to 144 square feet when perimeter support in accordance with ASTM E580 Sections 5.2.2 and 5.2.3 are provided and perimeter walls are designed to carry the ceiling lateral forces. The connections between the ceiling grid, wall angle and the wall shall be designed to resist the ceiling lateral forces. Horizontal restraint point spacing shall be justified by analysis or test and shall not exceed a spacing of 12 feet by 12 feet. Bracing wires shall be secured with four tight twists in 11/2 inches, or an approved alternate connection.
+
+5.Ceiling support and bracing wires shall be spaced a minimum of 6 inches from all pipes, ducts, conduits and equipment that are not braced for horizontal forces, unless approved otherwise by the building official.
+
+1617.11.17 ASCE 7, Section 13.6.5.
+
+Replace ASCE 7, Section 13.6.5 as follows:
+
+13.6.5 Distribution systems: Conduit, cable tray and raceways. Cable trays and raceways shall be designed for seismic forces and seismic relative displacements as required in Section 13.3. Conduit equal to or greater than 2.5 inches (64 mm) trade size and attached to panels, cabinets or other equipment subject to seismic relative displacement, DpI, shall be provided with flexible connections or designed for seismic forces and seismic relative displacements as required in Section 13.3.Exceptions:1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for raceways where flexible connections or other assemblies are provided between the cable tray or raceway and associated components to accommodate the relative displacement, where the cable tray or raceway is positively attached to the structure, and where one of the following apply:a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the conduit, cable tray, or raceway support point to the connection at the supporting structure are used to support the cable tray or raceway, and the total weight supported by any single trapeze is 100 pounds (445 N) or less; orb.The conduit, cable tray or raceway is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the raceway run is 12 inches (305 mm) or less in length from the conduit, cable tray or raceway support point connection to the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for conduit, regardless of the value of Ip, where the conduit is less than 2.5 inches (64 mm) trade size.
+
+1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for raceways where flexible connections or other assemblies are provided between the cable tray or raceway and associated components to accommodate the relative displacement, where the cable tray or raceway is positively attached to the structure, and where one of the following apply:a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the conduit, cable tray, or raceway support point to the connection at the supporting structure are used to support the cable tray or raceway, and the total weight supported by any single trapeze is 100 pounds (445 N) or less; orb.The conduit, cable tray or raceway is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the raceway run is 12 inches (305 mm) or less in length from the conduit, cable tray or raceway support point connection to the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the conduit, cable tray, or raceway support point to the connection at the supporting structure are used to support the cable tray or raceway, and the total weight supported by any single trapeze is 100 pounds (445 N) or less; or
+
+b.The conduit, cable tray or raceway is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the raceway run is 12 inches (305 mm) or less in length from the conduit, cable tray or raceway support point connection to the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for conduit, regardless of the value of Ip, where the conduit is less than 2.5 inches (64 mm) trade size.
+
+Design for the displacements across seismic joints shall be required for conduit, cable trays and raceways with Ip = 1.5 without consideration of conduit size.
+13.6.5 Distribution systems: Conduit, cable tray and raceways. Cable trays and raceways shall be designed for seismic forces and seismic relative displacements as required in Section 13.3. Conduit equal to or greater than 2.5 inches (64 mm) trade size and attached to panels, cabinets or other equipment subject to seismic relative displacement, DpI, shall be provided with flexible connections or designed for seismic forces and seismic relative displacements as required in Section 13.3.
+
+Exceptions:
+
+1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for raceways where flexible connections or other assemblies are provided between the cable tray or raceway and associated components to accommodate the relative displacement, where the cable tray or raceway is positively attached to the structure, and where one of the following apply:
+
+a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the conduit, cable tray, or raceway support point to the connection at the supporting structure are used to support the cable tray or raceway, and the total weight supported by any single trapeze is 100 pounds (445 N) or less; or
+
+b.The conduit, cable tray or raceway is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the raceway run is 12 inches (305 mm) or less in length from the conduit, cable tray or raceway support point connection to the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for conduit, regardless of the value of Ip, where the conduit is less than 2.5 inches (64 mm) trade size.
+
+Design for the displacements across seismic joints shall be required for conduit, cable trays and raceways with Ip = 1.5 without consideration of conduit size.
+
+1617.11.18 ASCE 7, Section 13.6.6.
+
+Replace ASCE 7, Section 13.6.6 with the following:
+
+13.6.6 Distribution Systems: Duct Systems. HVACR and other duct systems shall be designed for seismic forces and seismic relative displacements as required in Section 13.3.Exceptions: The following exceptions pertain to ductwork not designed to carry toxic, highly toxic or flammable gases or not used for smoke control:1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for duct systems where flexible connections or other assemblies are provided to accommodate the relative displacement between the duct system and associated components, the duct system is positively attached to the structure, and where one of the following apply:a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the duct support point to the connection at the supporting structure are used to support duct, and the total weight supported by any single trapeze is less than 10 lb/ft (146 N/m) and 100 pounds or less; orb.The duct is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the duct run is 12 inches (305 mm) or less in length from the duct support point to the connection at the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required where provisions are made to avoid impact with other ducts or mechanical components or to protect the ducts in the event of such impact, the distribution system is positively attached to the structure; and HVACR ducts have a cross-sectional area of less than 6 square feet (0.557 m2) and weigh 20 lb/ft (292 N/m) or less.
+
+1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for duct systems where flexible connections or other assemblies are provided to accommodate the relative displacement between the duct system and associated components, the duct system is positively attached to the structure, and where one of the following apply:a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the duct support point to the connection at the supporting structure are used to support duct, and the total weight supported by any single trapeze is less than 10 lb/ft (146 N/m) and 100 pounds or less; orb.The duct is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the duct run is 12 inches (305 mm) or less in length from the duct support point to the connection at the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the duct support point to the connection at the supporting structure are used to support duct, and the total weight supported by any single trapeze is less than 10 lb/ft (146 N/m) and 100 pounds or less; or
+
+b.The duct is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the duct run is 12 inches (305 mm) or less in length from the duct support point to the connection at the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required where provisions are made to avoid impact with other ducts or mechanical components or to protect the ducts in the event of such impact, the distribution system is positively attached to the structure; and HVACR ducts have a cross-sectional area of less than 6 square feet (0.557 m2) and weigh 20 lb/ft (292 N/m) or less.
+
+Components that are installed in line with the duct system and have an operating weight greater than 75 pounds (334 N), such as fans, terminal units, heat exchangers and humidifiers, shall be supported and laterally braced independent of the duct system, and such braces shall meet the force requirements of Section 13.3.1. Components that are installed in line with the duct system, have an operating weight of 75 pounds (334 N) or less, such as small terminal units, dampers, louvers and diffusers, and are otherwise not independently braced shall be positively attached with mechanical fasteners to the rigid duct on both sides. Piping and conduit attached to in-line equipment shall be provided with adequate flexibility to accommodate the seismic relative displacements of Section 13.3.2.
+13.6.6 Distribution Systems: Duct Systems. HVACR and other duct systems shall be designed for seismic forces and seismic relative displacements as required in Section 13.3.
+
+Exceptions: The following exceptions pertain to ductwork not designed to carry toxic, highly toxic or flammable gases or not used for smoke control:
+
+1.Design for the seismic forces and relative displacements of Section 13.3 shall not be required for duct systems where flexible connections or other assemblies are provided to accommodate the relative displacement between the duct system and associated components, the duct system is positively attached to the structure, and where one of the following apply:
+
+a.Trapeze assemblies with 3/8-inch (10 mm) or 1/2-inch (13 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the duct support point to the connection at the supporting structure are used to support duct, and the total weight supported by any single trapeze is less than 10 lb/ft (146 N/m) and 100 pounds or less; or
+
+b.The duct is supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the duct run is 12 inches (305 mm) or less in length from the duct support point to the connection at the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+2.Design for the seismic forces and relative displacements of Section 13.3 shall not be required where provisions are made to avoid impact with other ducts or mechanical components or to protect the ducts in the event of such impact, the distribution system is positively attached to the structure; and HVACR ducts have a cross-sectional area of less than 6 square feet (0.557 m2) and weigh 20 lb/ft (292 N/m) or less.
+
+Components that are installed in line with the duct system and have an operating weight greater than 75 pounds (334 N), such as fans, terminal units, heat exchangers and humidifiers, shall be supported and laterally braced independent of the duct system, and such braces shall meet the force requirements of Section 13.3.1. Components that are installed in line with the duct system, have an operating weight of 75 pounds (334 N) or less, such as small terminal units, dampers, louvers and diffusers, and are otherwise not independently braced shall be positively attached with mechanical fasteners to the rigid duct on both sides. Piping and conduit attached to in-line equipment shall be provided with adequate flexibility to accommodate the seismic relative displacements of Section 13.3.2.
+
+1617.11.19 ASCE 7, Section 13.6.7.3.
+
+Replace ASCE 7, Section 13.6.7.3 with the following:
+
+13.6.7.3 Additional provisions for piping and tubing systems.
+
+A) Design for the seismic forces of Section 13.3 shall not be required for piping systems where flexible connections, expansion loops or other assemblies are provided to accommodate the relative displacement between component and piping, where the piping system is positively attached to the structure, and where any of the following conditions apply:
+
+1.Trapeze assemblies are supported by 3/8-inch (10 mm) or 1/2-inch (13-mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the pipe support point to the connection at the supporting structure, and no single pipe exceeds the diameter limits set forth in item 2b or 2 inches (50 mm) where I p is greater than 1.0 and the total weight supported by any single trapeze is 100 pounds (445 N) or less; or
+
+2.Piping that has an Rp in Table 13.6-1 of 4.5 or greater is either supported by rod hangers and provisions are made to avoid impact with other structural or nonstructural components or to protect the piping in the event of such impact, or pipes with Ip = 1.0 are supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, where each hanger in the pipe run is 12 inches (305 mm) or less in length from the pipe support point to the connection at the supporting structure; and the total weight supported by any single hanger is 50 pounds (220 N) or less. In addition, the following limitations on the size of piping shall be observed:
+
+a.In structures assigned to Seismic Design Category D, E or F where Ip is greater than 1.0, the nominal pipe size shall be 1 inch (25 mm) or less.
+
+b.In structures assigned to Seismic Design Category D, E or F where Ip = 1.0, the nominal pipe size shall be 3 inches (80 mm) or less.
+
+3.Pneumatic tube systems supported with trapeze assemblies using 3/8-inch (10 mm) diameter rod hangers not exceeding 12 inches (305 mm) in length from the tube support point to the connection at the supporting structure and the total weight supported by any single trapeze is 100 pounds (445 N) or less.
+
+4.Pneumatic tube systems supported by individual rod hangers 3/8 inch (10 mm) or 1/2 inch (13 mm) in diameter, and each hanger in the run is 12 inches (305 mm) or less in length from the tube support point to the connection at the supporting structure, and the total weight supported by any single rod is 50 pounds (220 N) or less.
+
+B) Flexible connections in piping required in Section 13.6.7.3 are not required where pipe is rigidly attached to the same floor or wall that provides vertical and lateral support for the equipment, or to a fixture.
+
+C) Flexible connections in piping are required at seismic separation joints and shall be detailed to accommodate the seismic relative displacements at connections.
+
+1617.11.20 ASCE 7, Section 13.6.11.1.
+
+Modify ASCE 7, Section 13.6.11.1 by adding Section 13.6.11.1.1, as follows:
+
+13.6.11.1.1 Elevators guide rail support. The design of guide rail support bracket fastenings and the supporting structural framing shall use the weight of the counterweight or maximum weight of the car plus not more than 40 percent of its rated load. The seismic forces shall be assumed to be distributed one-third to the top guiding members and two-thirds to the bottom guiding members of cars and counterweights, unless other substantiating data are provided. In addition to the requirements of ASCE 7, Section 13.6.11.1, the minimum seismic forces shall be 0.5g allowable stress design load acting in any horizontal direction.
+13.6.11.1.1 Elevators guide rail support. The design of guide rail support bracket fastenings and the supporting structural framing shall use the weight of the counterweight or maximum weight of the car plus not more than 40 percent of its rated load. The seismic forces shall be assumed to be distributed one-third to the top guiding members and two-thirds to the bottom guiding members of cars and counterweights, unless other substantiating data are provided. In addition to the requirements of ASCE 7, Section 13.6.11.1, the minimum seismic forces shall be 0.5g allowable stress design load acting in any horizontal direction.
+
+1617.11.21 ASCE 7, Section 13.6.11.4.
+
+Replace ASCE 7, Section 13.6.11.4, as follows:
+
+13.6.11.4 Retainer plates. Retainer plates are required at the top and bottom of the car and counterweight, except where safety devices acceptable to the enforcement agency are provided which meet all requirements of the retainer plates, including full engagement of the machined portion of the rail. The design of the car, cab stabilizers, counterweight guide rails and counterweight frames for seismic forces shall be based on the following requirements:1.The seismic force shall be computed per the requirements of ASCE 7, Section 13.6.11.1. The minimum horizontal acceleration shall be 0.5g allowable stress design load for all buildings.2.Wp shall equal the weight of the counterweight or the maximum weight of the car plus not less than 40 percent of its rated load.3.With the car or counterweight located in the most adverse position, the stress in the rail shall not exceed the limitations specified in these regulations, nor shall the deflection of the rail relative to its supports exceed the deflection listed below4.Where guide rails are continuous over supports and rail joints are within 2 feet (610 mm) of their supporting brackets, a simple span may be assumed.5.The use of spreader brackets is allowed.6.Cab stabilizers and counterweight frames shall be designed to withstand computed lateral load with a minimum horizontal acceleration of 0.5g allowable stress design load.
+
+1.The seismic force shall be computed per the requirements of ASCE 7, Section 13.6.11.1. The minimum horizontal acceleration shall be 0.5g allowable stress design load for all buildings.
+
+2.Wp shall equal the weight of the counterweight or the maximum weight of the car plus not less than 40 percent of its rated load.
+
+3.With the car or counterweight located in the most adverse position, the stress in the rail shall not exceed the limitations specified in these regulations, nor shall the deflection of the rail relative to its supports exceed the deflection listed below
+
+4.Where guide rails are continuous over supports and rail joints are within 2 feet (610 mm) of their supporting brackets, a simple span may be assumed.
+
+5.The use of spreader brackets is allowed.
+
+6.Cab stabilizers and counterweight frames shall be designed to withstand computed lateral load with a minimum horizontal acceleration of 0.5g allowable stress design load.
+13.6.11.4 Retainer plates. Retainer plates are required at the top and bottom of the car and counterweight, except where safety devices acceptable to the enforcement agency are provided which meet all requirements of the retainer plates, including full engagement of the machined portion of the rail. The design of the car, cab stabilizers, counterweight guide rails and counterweight frames for seismic forces shall be based on the following requirements:
+
+1.The seismic force shall be computed per the requirements of ASCE 7, Section 13.6.11.1. The minimum horizontal acceleration shall be 0.5g allowable stress design load for all buildings.
+
+2.Wp shall equal the weight of the counterweight or the maximum weight of the car plus not less than 40 percent of its rated load.
+
+3.With the car or counterweight located in the most adverse position, the stress in the rail shall not exceed the limitations specified in these regulations, nor shall the deflection of the rail relative to its supports exceed the deflection listed below
+
+4.Where guide rails are continuous over supports and rail joints are within 2 feet (610 mm) of their supporting brackets, a simple span may be assumed.
+
+5.The use of spreader brackets is allowed.
+
+6.Cab stabilizers and counterweight frames shall be designed to withstand computed lateral load with a minimum horizontal acceleration of 0.5g allowable stress design load.
+
+RAIL SIZE (weight per foot of length, pounds)	WIDTH OF MACHINED SURFACE (inches)	ALLOWABLE RAIL DEFLECTION (inches)
+8	11/4	0.20
+11	11/2	0.30
+12	13/4	0.40
+15	131/32	0.50
+181/2	131/32	0.50
+221/2	2	0.50
+30	21/4	0.50For SI: 1 inch = 25 mm, 1 foot = 305 mm, 1 pound = 0.454 kg.
+
+Note: Deflection limitations are given to maintain a consistent factor of safety against disengagement of retainer plates from the guide rails during an earthquake.
+
+1617.11.22 Reserved.
+
+1617.11.23 Reserved.
+
+1617.11.24 ASCE 7, Section 17.2.4.7.
+
+Modify ASCE 7, Section 17.2.4.7 by adding the following to the end of the section:
+
+The effects of uplift shall be explicitly accounted for in the analysis and in the testing of the isolator units.
+

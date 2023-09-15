@@ -1,0 +1,138 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 30 – INDUSTRIAL OVENS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 30 INDUSTRIAL OVENS
+
+User note:
+
+About this chapter: Chapter 30 addresses the fuel supply, ventilation, emergency shutdown equipment, fire protection and the operation and maintenance of industrial ovens, which are sometimes referred to as industrial heat enclosures or industrial furnaces. Compliance with this chapter is intended to reduce the likelihood of fires involving industrial ovens, which are usually the result of the fuel in use or volatile vapors given off by the materials being heated, or to manage the impact if a fire should occur.
+
+SECTION 3001 GENERAL
+
+3001.1 Scope.
+
+This chapter shall apply to the installation and operation of industrial ovens and furnaces. Industrial ovens and furnaces shall comply with the applicable provisions of the International Fuel Gas Code, the California Mechanical Code, NFPA 86 and this chapter. The terms “ovens” and “furnaces” are used interchangeably in this chapter.
+
+3001.2 Permits.
+
+Permits shall be required as set forth in Sections 105.5 and 105.6.
+
+SECTION 3002 DEFINITIONS
+
+3002.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+FURNACE CLASS A.
+
+FURNACE CLASS B.
+
+FURNACE CLASS C.
+
+FURNACE CLASS D.
+
+SECTION 3003 LOCATION
+
+3003.1 Ventilation.
+
+Enclosed rooms or basements containing industrial ovens or furnaces shall be provided with combustion air in accordance with the International Fuel Gas Code and the California Mechanical Code, and with ventilation air in accordance with the California Mechanical Code.
+
+3003.2 Exposure.
+
+When locating ovens, oven heaters and related equipment, the possibility of fire resulting from overheating or from the escape of fuel gas or fuel oil and the possibility of damage to the building and injury to persons resulting from explosion shall be considered.
+
+3003.3 Ignition source.
+
+Industrial ovens and furnaces shall be located so as not to pose an ignition hazard to flammable vapors or mists or combustible dusts.
+
+3003.4 Temperatures.
+
+Roofs and floors of ovens shall be insulated and ventilated to prevent temperatures at combustible ceilings and floors from exceeding 160°F (71°C).
+
+SECTION 3004 FUEL PIPING
+
+3004.1 Fuel-gas piping.
+
+Fuel-gas piping serving industrial ovens shall comply with the International Fuel Gas Code. Piping for other fuel sources shall comply with this section.
+
+3004.2 Shutoff valves.
+
+Each industrial oven or furnace shall be provided with an approved manual fuel shutoff valve in accordance with the International Fuel Gas Code or the California Mechanical Code.
+
+3004.2.1 Fuel supply lines.
+
+Valves for fuel supply lines shall be located within 6 feet (1829 mm) of the appliance served.
+
+Exception: Where approved and the valve is located in the same general area as the appliance served.
+
+3004.3 Valve position.
+
+The design of manual fuel shutoff valves shall incorporate a permanent feature that visually indicates the open or closed position of the valve. Manual fuel shutoff valves shall not be equipped with removable handles or wrenches unless the handle or wrench can only be installed parallel with the fuel line when the valve is in the open position.
+
+SECTION 3005 INTERLOCKS
+
+3005.1 Shut down.
+
+Interlocks shall be provided for Class A ovens so that conveyors or sources of flammable or combustible materials shall shut down if either the exhaust or recirculation air supply fails.
+
+SECTION 3006 FIRE PROTECTION
+
+3006.1 Required protection.
+
+Class A and B ovens that contain, or are utilized for the processing of, combustible materials shall be protected by an approved automatic fire-extinguishing system complying with Chapter 9.
+
+Exceptions:
+
+1.Small tabletop ovens used in laboratory facilities.
+
+2.Nonwalk-in ovens that are less than 4 feet (1219 mm) in length and width.
+
+3006.2 Fixed fire-extinguishing systems.
+
+Fixed fire-extinguishing systems shall be provided for Class C or D ovens to protect against such hazards as overheating, spillage of molten salts or metals, quench tanks, ignition of hydraulic oil and escape of fuel. It shall be the user’s responsibility to consult with the fire code official concerning the necessary requirements for such protection.
+
+3006.3 Fire extinguishers.
+
+Portable fire extinguishers complying with Section 906 shall be provided not closer than 15 feet (4572 mm) or not more than 50 feet (15 240 mm) or in accordance with NFPA 10. This shall apply to the oven and related equipment.
+
+SECTION 3007 OPERATION AND MAINTENANCE
+
+3007.1 Furnace system information.
+
+An approved, clearly worded, and prominently displayed safety design data form or manufacturer’s nameplate shall be provided stating the safe operating condition for which the furnace system was designed, built, altered or extended.
+
+3007.2 Oven nameplate.
+
+Safety data for Class A solvent atmosphere ovens shall be furnished on the manufacturer’s nameplate. The nameplate shall provide the following design data:
+
+1.The solvent used.
+
+2.The number of gallons (L) used per batch or per hour of solvent entering the oven.
+
+3.The required purge time.
+
+4.The oven operating temperature.
+
+5.The exhaust blower rating for the number of gallons (L) of solvent per hour or batch at the maximum operating temperature.
+
+Exception: For low-oxygen ovens, the maximum allowable oxygen concentration shall be included in place of the exhaust blower ratings.
+
+3007.3 Training.
+
+Operating, maintenance and supervisory personnel shall be thoroughly instructed and trained in the operation of ovens or furnaces.
+
+3007.4 Equipment maintenance.
+
+Equipment shall be maintained in accordance with the manufacturer’s instructions.
+

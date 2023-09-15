@@ -1,0 +1,555 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 58 – FLAMMABLE GASES AND FLAMMABLE CRYOGENIC FLUIDS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)			X																				
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+5801			X																				
+5809			X																				
+																							The state agency does not adopt sections identified with the following symbol: †
+
+* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 58 FLAMMABLE GASES AND FLAMMABLE CRYOGENIC FLUIDS
+
+User note:
+
+About this chapter: Chapter 58 sets requirements for the storage and use of flammable gases. For safety purposes, there is a limit on the quantities of flammable gas allowed per control area. Exceeding these limitations increases the possibility of damage to both property and individuals. The principal hazard posed by flammable gas is its ready ignitability, or even explosivity, when mixed with air in the proper proportions. Consequently, occupancies storing or handling large quantities of flammable gas are classified as Group H-2 (high hazard) by the California Building Code.
+
+SECTION 5801 GENERAL
+
+5801.1 Scope.
+
+The storage and use of flammable gases and flammable cryogenic fluids shall be in accordance with this chapter, NFPA 2 and NFPA 55. Compressed gases shall also comply with Chapter 53 and cryogenic fluids shall also comply with Chapter 55. Flammable cryogenic fluids shall comply with Section 5806. Hydrogen motor fuel-dispensing stations and repair garages and their associated above-ground hydrogen storage systems shall also be designed, constructed and maintained in accordance with Chapter 23. Mobile fueling of hydrogen-fueled vehicles shall comply with Section 5809.
+
+Exceptions:
+
+1.Gases used as refrigerants in refrigeration systems (see Section 608).
+
+2.Liquefied petroleum gases and natural gases regulated by Chapter 61.
+
+3.Fuel-gas systems and appliances regulated under the California Mechanical Code and the California Plumbing Code other than gaseous hydrogen systems and appliances.
+
+4.Pyrophoric gases in accordance with Chapter 64.
+
+5801.2 Permits.
+
+Permits shall be required as set forth in Section 105.5.
+
+SECTION 5802 DEFINITIONS
+
+5802.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+FLAMMABLE GAS.
+
+FLAMMABLE LIQUEFIED GAS.
+
+GAS DECTECTION SYSTEM.
+
+GASEOUS HYDROGEN SYSTEM.
+
+HYDROGEN FUEL GAS ROOM.
+
+METAL HYDRIDE.
+
+METAL HYDRIDE STORAGE SYSTEM.
+
+SECTION 5803 GENERAL REQUIREMENTS
+
+5803.1 Quantities not exceeding the maximum allowable quantity per control area.
+
+The storage and use of flammable gases in amounts not exceeding the maximum allowable quantity per control area indicated in Section 5003.1 shall be in accordance with Sections 5001, 5003, 5801 and 5803.
+
+5803.1.1 Special limitations for indoor storage and use.
+
+Flammable gases shall not be stored or used in Group A, E, I or R occupancies or in offices in Group B occupancies.
+
+Exceptions:
+
+1.Cylinders of nonliquefied compressed gases not exceeding a capacity of 250 cubic feet (7.08 m3) or liquefied gases not exceeding a capacity of 40 pounds (18 kg) each at normal temperature and pressure (NTP) used for maintenance purposes, patient care or operation of equipment.
+
+2.Food service operations in accordance with Section 6103.2.1.7.
+
+3.Hydrogen gas systems located in a hydrogen fuel gas room constructed in accordance with Section 421 of the California Building Code.
+
+5803.1.1.1 Medical gases.
+
+Medical gas system supply cylinders shall be located in medical gas storage rooms or gas cabinets as set forth in Section 5306.
+
+5803.1.1.2 Aggregate quantity.
+
+The aggregate quantities of flammable gases used for maintenance purposes and operation of equipment shall not exceed the maximum allowable quantity per control area indicated in Table 5003.1.1(1).
+
+5803.1.2 Storage containers.
+
+Cylinders and pressure vessels for flammable gases shall be designed, constructed, installed, tested and maintained in accordance with Chapter 53.
+
+5803.1.3 Emergency shutoff.
+
+Compressed gas systems conveying flammable gases shall be provided with approved manual or automatic emergency shutoff valves that can be activated at each point of use and at each source.
+
+5803.1.3.1 Shutoff at source.
+
+A manual or automatic fail-safe emergency shutoff valve shall be installed on supply piping at the cylinder or bulk source. Manual or automatic cylinder valves are allowed to be used as the required emergency shutoff valve where the source of supply is limited to unmanifolded cylinder sources.
+
+5803.1.3.2 Shutoff at point of use.
+
+A manual or automatic emergency shutoff valve shall be installed on the supply piping at the point of use or at a point where the equipment using the gas is connected to the supply system.
+
+5803.1.4 Ignition source control.
+
+Ignition sources in areas containing flammable gases in storage or in use shall be controlled in accordance with Section 5003.7.
+
+Exception: Fuel gas systems connected to building service utilities in accordance with the International Fuel Gas Code.
+
+5803.1.4.1 Static-producing equipment.
+
+Static-producing equipment located in flammable gas storage areas shall be grounded.
+
+5803.1.4.2 Signs.
+
+“No Smoking” signs shall be posted at entrances to rooms and in areas containing flammable gases in accordance with Section 5003.7.1.
+
+5803.1.5 Electrical.
+
+Electrical wiring and equipment shall be installed and maintained in accordance with Section 603 and the California Electrical Code.
+
+5803.1.5.1 Bonding of electrically conductive materials and equipment.
+
+Exposed noncurrent-carrying metal parts, including metal gas piping systems, that are part of flammable gas supply systems located in a hazardous (electrically classified) location shall be bonded to a grounded conductor in accordance with the provisions of the California Electrical Code.
+
+5803.1.5.2 Static-producing equipment.
+
+Static-producing equipment located in flammable gas storage or use areas shall be grounded.
+
+5803.1.6 Liquefied flammable gases and flammable gases in solution.
+
+Containers of liquefied flammable gases and flammable gases in solution shall be positioned in the upright position or positioned so that the pressure relief valve is in direct contact with the vapor space of the container.
+
+Exceptions:
+
+1.Containers of flammable gases in solution with a capacity of 1.3 gallons (5 L) or less.
+
+2.Containers of flammable liquefied gases, with a capacity not exceeding 1.3 gallons (5 L), designed to preclude the discharge of liquid from safety relief devices.
+
+5803.2 Quantities exceeding the maximum allowable quantity per control area.
+
+The storage and use of flammable gases in amounts exceeding the maximum allowable quantity per control area indicated in Section 5003.1 shall be in accordance with Chapter 50 and this chapter.
+
+SECTION 5804 STORAGE
+
+5804.1 Indoor storage.
+
+Indoor storage of flammable gases in amounts exceeding the maximum allowable quantity per control area indicated in Table 5003.1.1(1), shall be in accordance with Sections 5001, 5003 and 5004, and this chapter.
+
+5804.1.1 Explosion control.
+
+Buildings or portions thereof containing flammable gases shall be provided with explosion control in accordance with Section 911.
+
+5804.2 Outdoor storage.
+
+Outdoor storage of flammable gases in amounts exceeding the maximum allowable quantity per control area indicated in Table 5003.1.1(3) shall be in accordance with Sections 5001, 5003 and 5004, and this chapter.
+
+SECTION 5805 USE
+
+5805.1 General.
+
+The use of flammable gases in amounts exceeding the maximum allowable quantity per control area indicated in Table 5003.1.1(1) or Table 5003.1.1(3) shall be in accordance with Sections 5001, 5003 and 5005, and this chapter.
+
+SECTION 5806 FLAMMABLE CRYOGENIC FLUIDS
+
+5806.1 General.
+
+The storage and use of flammable cryogenic fluids shall be in accordance with Sections 5806.2 through 5806.4.8.3 and Chapter 55.
+
+5806.2 Limitations.
+
+Storage of flammable cryogenic fluids in stationary containers outside of buildings is prohibited within the limits established by law as the limits of districts in which such storage is prohibited [JURISDICTION TO SPECIFY].
+
+5806.3 Above-ground tanks for liquid hydrogen.
+
+Above-ground tanks for the storage of liquid hydrogen shall be in accordance with Sections 5806.3.1 through 5806.3.2.1.
+
+5806.3.1 Construction of the inner vessel.
+
+The inner vessel of storage tanks in liquid hydrogen service shall be designed and constructed in accordance with Section VIII, Division 1, of the ASME Boiler and Pressure Vessel Code and shall be vacuum jacketed in accordance with Section 5806.3.2.
+
+5806.3.2 Construction of the vacuum jacket (outer vessel).
+
+The vacuum jacket used as an outer vessel for storage tanks in liquid hydrogen service shall be of welded steel construction designed to withstand the maximum internal and external pressure to which it will be subjected under operating conditions to include conditions of emergency pressure relief of the annular space between the inner and outer vessel. The jacket shall be designed to withstand a minimum collapsing pressure differential of 30 psi (207 kPa).
+
+5806.3.2.1 Vacuum-level monitoring.
+
+A connection shall be provided on the exterior of the vacuum jacket to allow measurement of the pressure within the annular space between the inner and outer vessel. The connection shall be fitted with a bellows-sealed or diaphragm-type valve equipped with a vacuum gauge tube that is shielded to protect against damage from impact.
+
+5806.4 Underground tanks for liquid hydrogen.
+
+Underground tanks for the storage of liquid hydrogen shall be in accordance with Sections 5806.4.1 through 5806.4.8.3.
+
+5806.4.1 Construction.
+
+Storage tanks for liquid hydrogen shall be designed and constructed in accordance with ASME Boiler and Pressure Vessel Code (Section VIII, Division 1) and shall be vacuum jacketed in accordance with Section 5806.4.8.
+
+5806.4.2 Location.
+
+Storage tanks shall be located outside in accordance with the following:
+
+1.Tanks and associated equipment shall be located with respect to foundations and supports of other structures such that the loads carried by the latter cannot be transmitted to the tank.
+
+2.The distance from any part of the tank to the nearest wall of a basement, pit, cellar or lot line shall be not less than 3 feet (914 mm).
+
+3.A minimum distance of 1 foot (305 mm), shell to shell, shall be maintained between underground tanks.
+
+5806.4.3 Depth, cover and fill.
+
+The tank shall be buried such that the top of the vacuum jacket is covered with not less than 1 foot (305 mm) of earth and with concrete not less than 4 inches (102 mm) thick placed over the earthen cover. The concrete shall extend not less than 1 foot (305 mm) horizontally beyond the footprint of the tank in all directions. Underground tanks shall be set on firm foundations constructed in accordance with the California Building Code and surrounded with not less than 6 inches (152 mm) of noncorrosive inert material, such as sand.
+
+Exception: The vertical extension of the vacuum jacket as required for service connections.
+
+5806.4.4 Anchorage and security.
+
+Tanks and systems shall be secured against accidental dislodgement in accordance with this chapter.
+
+5806.4.5 Venting of underground tanks.
+
+Vent pipes for underground storage tanks shall be in accordance with Section 5503.3.
+
+5806.4.6 Underground liquid hydrogen piping.
+
+Underground liquid hydrogen piping shall be vacuum jacketed or protected by approved means and designed in accordance with Chapter 55.
+
+5806.4.7 Overfill protection and prevention systems.
+
+An approved means or method shall be provided to prevent the overfill of all storage tanks.
+
+5806.4.8 Vacuum jacket construction.
+
+The vacuum jacket shall be designed and constructed in accordance with Section VIII of ASME Boiler and Pressure Vessel Code and shall be designed to withstand the anticipated loading, including loading from vehicular traffic, where applicable. Portions of the vacuum jacket installed below grade shall be designed to withstand anticipated soil, seismic and hydrostatic loading.
+
+5806.4.8.1 Material.
+
+The vacuum jacket shall be constructed of stainless steel or other approved corrosion-resistant material.
+
+5806.4.8.2 Corrosion protection.
+
+The vacuum jacket shall be protected by approved or listed corrosion-resistant materials or an engineered cathodic protection system. Where cathodic protection is utilized, an approved maintenance schedule shall be established. Exposed components shall be inspected not less than twice a year. Records of maintenance and inspection events shall be maintained.
+
+5806.4.8.3 Vacuum-level monitoring.
+
+An approved method shall be provided to indicate loss of vacuum within the vacuum jacket(s).
+
+SECTION 5807 METAL HYDRIDE STORAGE SYSTEMS
+
+5807.1 General requirements.
+
+The storage and use of metal hydride storage systems shall be in accordance with Sections 5801, 5803, 5804, 5805 and 5807. Those portions of the system that are used as a means to store or supply hydrogen shall also comply with Chapters 50 and 53 as applicable.
+
+5807.1.1 Classification.
+
+The hazard classification of the metal hydride storage system, as required by Section 5001.2.2, shall be based on the hydrogen stored without regard to the metal hydride content.
+
+5807.1.2 Listed or approved systems.
+
+Metal hydride storage systems shall be listed or approved for the application and designed in a manner that prevents the addition or removal of the metal hydride by other than the original equipment manufacturer.
+
+5807.1.3 Containers, design and construction.
+
+Compressed gas containers, cylinders and tanks shall be designed and constructed in accordance with Section 5303.2.
+
+5807.1.4 Service life and inspection of containers.
+
+Metal hydride storage system cylinders, containers or tanks shall be inspected, tested and requalified for service at not less than 5-year intervals.
+
+5807.1.5 Marking and labeling.
+
+Marking and labeling of cylinders, containers, tanks and systems shall be in accordance with Section 5303.4 and Sections 5807.1.5.1 through 5807.1.5.4.
+
+5807.1.5.1 System marking.
+
+Metal hydride storage systems shall be marked with all of the following:
+
+1.Manufacturer’s name.
+
+2.Service life indicating the last date the system can be used.
+
+3.A unique code or serial number specific to the unit.
+
+4.System name or product code that identifies the system by the type of chemistry used in the system.
+
+5.Emergency contact name, telephone number or other contact information.
+
+6.Limitations on refilling of containers to include rated charging pressure and capacity.
+
+5807.1.5.2 Valve marking.
+
+Metal hydride storage system valves shall be marked with all of the following:
+
+1.Manufacturer’s name.
+
+2.Service life indicating the last date the valve can be used.
+
+3.Metal hydride service in which the valve can be used, or a product code that is traceable to this information.
+
+5807.1.5.3 Pressure relief device marking.
+
+Metal hydride storage system pressure relief devices shall be marked with all of the following:
+
+1.Manufacturer’s name.
+
+2.Metal hydride service in which the device can be used, or a product code that is traceable to this information.
+
+3.Activation parameters to include temperature, pressure or both.
+
+5807.1.5.3.1 Pressure relief devices integral to container valves.
+
+The required markings for pressure relief devices that are integral components of valves used on cylinders, containers and tanks shall be allowed to be placed on the valve.
+
+5807.1.5.4 Pressure vessel markings.
+
+Cylinders, containers and tanks used in metal hydride storage systems shall be marked with all of the following:
+
+1.Manufacturer’s name.
+
+2.Design specification to which the vessel was manufactured.
+
+3.Authorized body approving the design and initial inspection and test of the vessel.
+
+4.Manufacturer’s original test date.
+
+5.Unique serial number for the vessel.
+
+6.Service life identifying the last date the vessel can be used.
+
+7.System name or product code that identifies the system by the type of chemistry used in the system.
+
+5807.1.6 Temperature extremes.
+
+Metal hydride storage systems, whether full or partially full, shall not be exposed to artificially created high temperatures exceeding 125°F (52°C) or subambient (low) temperatures unless designed for use under the exposed conditions.
+
+5807.1.7 Falling objects.
+
+Metal hydride storage systems shall not be placed in areas where they are capable of being damaged by falling objects.
+
+5807.1.8 Piping systems.
+
+Piping, including tubing, valves, fittings and pressure regulators, serving metal hydride storage systems, shall be maintained gas tight to prevent leakage.
+
+5807.1.8.1 Leaking systems.
+
+Leaking systems shall be removed from service.
+
+5807.1.9 Refilling of containers.
+
+The refilling of listed or approved metal hydride storage systems shall be in accordance with the listing requirements and manufacturer’s instructions.
+
+5807.1.9.1 Industrial trucks.
+
+The refilling of metal hydride storage systems serving powered industrial trucks shall be in accordance with Section 309.
+
+5807.1.9.2 Hydrogen purity.
+
+The purity of hydrogen used for the purpose of refilling containers shall be in accordance with the listing and the manufacturer’s instructions.
+
+5807.1.10 Electrical.
+
+Electrical components for metal hydride storage systems shall be designed, constructed and installed in accordance with the California Electrical Code.
+
+5807.2 Portable containers or systems.
+
+Portable containers or systems shall comply with Sections 5807.2.1 through 5807.2.2.
+
+5807.2.1 Securing containers.
+
+Containers, cylinders and tanks shall be secured in accordance with Section 5303.5.3.
+
+5807.2.1.1 Use on mobile equipment.
+
+Where a metal hydride storage system is used on mobile equipment, the equipment shall be designed to restrain containers, cylinders or tanks from dislodgement, slipping or rotating when the equipment is in motion.
+
+5807.2.1.2 Motorized equipment.
+
+Metal hydride storage systems used on motorized equipment, shall be installed in a manner that protects valves, pressure regulators, fittings and controls against accidental impact.
+
+5807.2.1.2.1 Protection from damage.
+
+Metal hydride storage systems, including cylinders, containers, tanks and fittings, shall not extend beyond the platform of the mobile equipment.
+
+5807.2.2 Valves.
+
+Valves on containers, cylinders and tanks shall remain closed except when containers are connected to closed systems and ready for use.
+
+SECTION 5808 HYDROGEN FUEL GAS ROOMS
+
+5808.1 General.
+
+Where required by this code, hydrogen fuel gas rooms shall be designed and constructed in accordance with Sections 5808.1 through 5808.7 and the California Building Code.
+
+5808.2 Location.
+
+Hydrogen fuel gas rooms shall not be located below grade.
+
+5808.3 Design and construction.
+
+Hydrogen fuel gas rooms not exceeding the maximum allowable quantity per control area in Table 5003.1.1(1) shall be separated from other areas of the building in accordance with Section 509.1 of the California Building Code.
+
+5808.3.1 Pressure control.
+
+Hydrogen fuel gas rooms shall be provided with a ventilation system designed to maintain the room at a negative pressure in relation to surrounding rooms and spaces.
+
+5808.3.2 Windows.
+
+Operable windows in interior walls shall not be permitted. Fixed windows shall be permitted where in accordance with Section 716 of the California Building Code.
+
+5808.4 Exhaust ventilation.
+
+Hydrogen fuel gas rooms shall be provided with mechanical exhaust ventilation in accordance with the applicable provisions of Section 2311.8.2.
+
+5808.5 Gas detection system.
+
+Hydrogen fuel gas rooms shall be provided with a gas detection system that complies with Sections 916, 5808.5.1 and 5808.5.2.
+
+5808.5.1 System activation.
+
+Activation of a gas detection system alarm shall result in both of the following:
+
+1.Initiation of distinct audible and visible alarm signals both inside and outside of the hydrogen fuel gas room.
+
+2.Automatic activation of the mechanical exhaust ventilation system.
+
+5808.5.2 Failure of the gas detection system.
+
+Failure of the gas detection system shall automatically activate the mechanical exhaust ventilation system, stop hydrogen generation and cause a trouble signal to sound at an approved location.
+
+5808.6 Explosion control.
+
+Explosion control shall be provided where required by Section 911.
+
+5808.7 Standby power.
+
+Mechanical ventilation and gas detection systems shall be connected to a standby power system in accordance with Section 1203.
+
+SECTION 5809 MOBILE GASEOUS FUELING OF HYDROGEN-FUELED VEHICLES
+
+5809.1 General.
+
+Mobile fueling of gaseous hydrogen into the fuel tanks of hydrogen-fueled vehicles shall comply with Sections 5809.1 through 5809.6. Mobile fueling of liquid hydrogen is prohibited.
+
+5809.1.1 Approval required.
+
+Mobile hydrogen-fueling operations shall not be conducted without first obtaining a permit and approval from the fire code official. Mobile hydrogen-fueling operations shall occur only at approved locations within the jurisdiction.
+
+5809.2 Roadside service vehicles.
+
+Roadside hydrogen service vehicles shall comply with the following:
+
+1.Roadside hydrogen service vehicles and hydrogen supply tanks shall comply with US DOTn requirements for the transportation of hydrogen gas.
+
+2.Individual hydrogen fuel supply tanks installed on roadside hydrogen service vehicles shall have a maximum individual fuel capacity of 1,270 cubic feet (3 kg) of hydrogen.
+
+3.The maximum aggregate amount of all hydrogen fuel in the supply tanks of roadside hydrogen service vehicles shall not exceed 4,233 cubic feet (10 kg) of hydrogen.
+
+4.The roadside hydrogen service vehicle shall comply with all local, state and federal requirements.
+
+5.The vehicle and its equipment shall be maintained in good repair.
+
+5809.3 Required documents.
+
+Documents developed to comply with Sections 5809.3.1 through 5809.3.4 shall be submitted to the fire code official prior to approval of the permit application to conduct mobile gaseous hydrogen fueling operations. The required documents shall be maintained and updated when necessary by the permittee. Any modifications to an approved plan shall be submitted as needed and made available to the fire code official for review and approval.
+
+5809.3.1 Safety and emergency response plan.
+
+The owner of a mobile hydrogen-fueling operation shall develop a written safety and emergency response plan that:
+
+1.Establishes policies and procedures for fire safety, hydrogen leak prevention and control, personnel training and compliance with other applicable requirements of this code; and
+
+2.Demonstrates readiness to respond to a hydrogen leak and carry out appropriate mitigation measures.
+
+5809.3.2 Standard operating procedures.
+
+The owner of a mobile hydrogen-fueling operation shall develop a written fueling standard operating procedure (SOP) that:
+
+1.Clearly and unambiguously describes the sequence of steps that a roadside gaseous hydrogen service vehicle operator needs to take to ensure safety of gaseous hydrogen fueling and compliance with the fueling protocol requirements;
+
+2.Establishes a fueling protocol that is consistent with applicable requirements of a recognized national standard such as SAE J2601. Compliance with these requirements shall be demonstrated by a valid test record from an independent third party such as a recognized hydrogen-fueled vehicle OEM (Original Equipment Manufacturer).
+
+5809.3.3 Training records.
+
+Persons performing dispensing operations shall be qualified to deliver and dispense gaseous hydrogen fuels and shall be trained in these standards that are being created, the equipment manufacturer’s training and the appropriate mitigating actions in the event of a fire or a hydrogen leak prior to beginning the dispensing operations. Re-training shall be performed periodically, but no less frequent than annually. Training records shall be maintained by the dispensing company and made available to the fire code official upon request.
+
+5809.3.4 Site plan.
+
+Where required by the fire code official for other than emergency roadside service, a site plan shall be developed for each location at which mobile gaseous hydrogen fueling occurs. The site plan shall be in sufficient detail to indicate: all buildings, structures, lot lines, property lines and appurtenances on site and their use and function, and the scale of the site plan.
+
+5809.4 Mobile hydrogen-fueling areas.
+
+Areas where mobile hydrogen fueling is allowed shall comply with Sections 5809.4.1 through 5809.4.3.
+
+5809.4.1 Prohibited locations.
+
+Mobile hydrogen fueling shall not occur on public streets, public ways or inside buildings. Fueling on the roof level of parking structures or other buildings is prohibited.
+
+Exception: Fueling hydrogen-fueled vehicles on a public street during a roadside emergency.
+
+5809.4.2 Separation.
+
+The point of connection between the roadside hydrogen service vehicle and the hydrogen-fuel vehicle shall not be less than 15 feet (4572 mm) from buildings, property lines or combustible storage.
+
+5809.4.3 Sources of ignition.
+
+Smoking, open flames and other sources of ignition, including un-rated electrical equipment, shall be prohibited within 25 feet (7620 mm) of fuel-dispensing activities. Signs prohibiting smoking or open flames within 25 feet (7620 mm) of the vehicle or the point of fueling shall be prominently posted on the mobile fueling vehicle. The engines of vehicles being fueled shall be shut off during fueling.
+
+5809.5 Equipment.
+
+Mobile hydrogen-fueling equipment shall comply with Sections 5809.5.1 through 5809.5.4.
+
+5809.5.1 Listed equipment.
+
+Roadside hydrogen service vehicle fuel-dispensing equipment and appurtenances shall be listed or approved by a recognized third party for its intended use.
+
+5809.5.2 Dispensing hose.
+
+The dispensing hose shall be equipped with a breakaway coupling installed within 3 feet (1 m) from the dispensing nozzle.
+
+5809.5.3 Hose reel.
+
+The dispensing hose shall be properly placed on an approved reel or in an approved compartment before moving the roadside hydrogen service vehicle.
+
+5809.5.4 Pressure limit.
+
+Only dispensing of compressed gaseous hydrogen at partial pressure into the fuel tanks of hydrogen-fueled vehicles from on-board hydrogen supply tanks is allowed.
+
+5809.6 Operations.
+
+Mobile hydrogen-fueling operations shall comply with Sections 5809.6.1 through 5809.6.6.
+
+5809.6.1 Attendance.
+
+Roadside hydrogen service vehicles shall be constantly attended during fueling operations.
+
+5809.6.2 Bonding cable.
+
+A bonding cable shall be securely connected between the mobile fueling vehicle and the fueled vehicle prior to the start of the dispensing operation.
+
+5809.6.3 Positioning of fueling vehicle.
+
+Roadside hydrogen service vehicles shall be positioned with respect to vehicles being fueled to prevent traffic from driving over the delivery hose and between the transport vehicle and motor vehicle being fueled.
+
+5809.6.4 Brakes.
+
+During fueling operations, mobile fueling vehicle’s brakes shall be set, chock blocks shall be in place and warning lights shall be in operation.
+
+5809.6.5 Fire extinguisher.
+
+A portable fire extinguisher with a minimum rating of 40-B:C shall be provided on the mobile, roadside service hydrogen-fueling vehicle with signage clearly indicating its location.
+
+5809.6.6 Emergency communication device.
+
+Operators of mobile, roadside service hydrogen fueling vehicles shall have in their possession at all times an emergency communication device to notify the proper authorities in the event of an emergency during fueling.
+

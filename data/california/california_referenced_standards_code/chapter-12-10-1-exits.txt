@@ -1,0 +1,120 @@
+CHAPTER 12-10-1 EXITS
+
+POWER-OPERATED EXIT DOORS STANDARD 12-10-1
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-10-100.
+
+(a)General. These requirements and methods of test apply to power operated: swinging doors, and combination sliding and swinging doors intended for installation in locations where conforming exits are required by Title 24, California Code of Regulations, Part 2, Chapter 10.
+
+(b)Power-operated doors described in (a) may be provided with air, hydraulic or electric operators actuated from a floor, activating carpet, photoelectric device or other approved signaling device.
+
+(c)Alternates. A product employing materials or having forms of construction differing from those described in this procedure may be examined and tested in accordance with the intent of these testing procedures and, if found to be substantially equivalent, may be recognized for listing.
+
+(d)Application. The minimum design, construction and testing procedures set forth herein are those deemed as the minimum necessary to establish conformance to the regulations of the State Fire Marshal contained in Title 24, California Code of Regulations.
+
+(e)Fire door assemblies. Power-operated doors intended for installation in openings where listed fire door assemblies are required, shall in addition to the requirements of this standard, be tested in accordance with the Fire Door Assembly Tests, SFM 12-7-4.
+
+GENERAL
+
+Sec. 12-10-101.
+
+(a)Panic hardware. Power-operated doors intended for installation in openings where panic hardware is required shall be tested with listed panic hardware on the doors.
+
+(b)Glazed doors. Glazing of doors shall conform to Title 24, California Code of Regulations, Part 2, Chapter 7.
+
+(c)Opening degree. Where manually operated in the direction of egress, leaves of swinging doors or swing-out sections of sliding doors shall swing open to not less than 90 degrees from the closed position.
+
+(d)Locking mechanisms. Locking mechanisms on doors intended for locations which do not require panic hardware shall be of a type readily identified as locked, and the doors shall be posted with durable, permanent signs reading “THESE DOORS TO REMAIN UNLOCKED WHENEVER THE PUBLIC IS PRESENT.” Signs shall be 1-inch-high (25 mm) block letters on a contrasting background. Signs shall be located on the header framing.
+
+(e)Swinging and sliding doors. Each swing-out leaf of swinging or sliding doors with swinging sections shall be provided with durable signs in not less than 1-inch (25 mm) block letters on contrasting background wording, “IN EMERGENCY, PUSH TO OPEN,” or other approved wording. The sign shall be located at the closing edge of the door not less than 36 inches (914 mm) or more than 60 inches (1524 mm) above the floor. The sign shall read horizontally and be in two lines.
+
+Illuminated exit signs when required by other provisions of the basic building regulations shall be installed above the header. Wiring and circuit arrangement shall conform to the provisions of the California Electrical Code.
+
+(f)Electrical wiring and devices. Electrical wiring, electrical devices and controls shall be of a type tested and listed in conformance with the standards established by the California Electrical Code, or shall be tested for conformance with the testing procedures approved by the State Fire Marshal.
+
+(g)Testing. Doors with power operators shall be examined and tested by a testing laboratory approved by the State Fire Marshal, or tests shall be conducted by a qualified independent fire protection engineer, acceptable to the State Fire Marshal.
+
+(h)Test report. The test report shall contain engineering data and drawings; size and weight of door tested; wiring diagrams of electrical control systems; schematic drawings of mechanical controls; and operating manuals. The report shall describe the mechanical operation of the power operator in sequence as the door(s) open and close under normal and emergency conditions. The report shall set forth the tests performed in accordance with the provisions of this standard and the results thereof. The report shall additionally contain an analysis comparing each feature of the design against the performance test procedures contained herein.
+
+(i)Simulated installation and test equipment. Doors with power operators shall be installed in a simulated wall and door framing assembly in accordance with the manufacturer’s instructions. The test specimen shall be not less than 3 feet (914 mm) wide by 7 feet (2133 mm) high. A motor-driven or suitable mechanism shall be used to actuate the activating carpet. The rate of operation or number of cycles shall be 3 to 5 per minutes. On sliding doors with a swing-out section additional operating endurance tests shall be conducted. A motor-driven mechanism or other approved means shall be used to push the swinging door section open and pull the swinging section closed at a rate of 3 to 5 cycles per minute, so that the latching mechanism and disconnect switches operate as in service. During the test the door specimen shall have only the lubrication which is provided by the manufacturer at the factory, or as may be recommended by the manufacturer in his installation instructions.
+
+(j)Endurance tests. The power operator shall function as intended to open and close the door(s) for 100,000 cycles of operation without failure or excessive wear of parts. The release mechanism and disconnect switches of the swinging section in sliding doors shall function as intended for 250 cycles of operation without failure or excessive wear of parts. The opening and closing forces, and the speed of opening and closing shall be recorded at the start of the endurance tests, and shall again be recorded at the end of the endurance tests. Opening and closing forces at the beginning and at the end of the endurance test shall not exceed the maximum forces prescribed in these procedures.
+
+HISTORY:
+
+1.Editorial correction (Register 71, No. 52 errata sheets).
+
+SWINGING DOORS
+
+Sec. 12-10-102.
+
+(a)Each door opening when the door(s) is in the 90-degree open position, shall provide a clear opening width of not less than 28 inches (711 mm), with no single leaf less than 24 inches (609 mm) in width.
+
+(b)Doors in pairs. Doors in pairs shall be equipped with a separate operator for each leaf unless tests with a tandem operator with one leaf jammed in a closed and in a partially open position indicates that the second leaf continues to operate or is free to swing into the open position without exceeding the maximum permitted manual opening pressures. On doors with mechanical controls, one mechanism shall be subjected to fault conditions; during the fault condition the second leaf shall be openable manually without exceeding the maximum permitted opening pressure.
+
+(c)Closing mechanism. Normal closing of doors shall be by spring action, pressure-operated mechanism or electrically driven mechanism. The closing force measured at the closing stile shall not exceed 40 pounds at any point in the closing arc. The final 10 degrees of closing shall be not less than 11/2 seconds.
+
+(d)Each possible fault condition that affects the power supply shall be introduced into the door and power-operator assembly. Under each fault condition, single doors and each leaf of doors in pairs shall open to the 90-degree position with an applied pressure at the normal location at the push plate not exceeding 40 pounds.
+
+(e)In-swinging doors. Power-operated in-swinging doors are not recognized in determining exit width opening required to swing in the direction of egress.
+
+(f)Activating carpets and safety mats.
+
+1.When carpets are used as the activating device, they shall have a width1 not less than 10 inches (254 mm) less than the clear width of the door opening with the centerline of the carpet in the centerline of the door opening.
+
+2.The length2 of activating carpets shall be not less than 42 inches (1067 mm). The length of activating carpets for doors exceeding 42 inches (1067 mm) in width shall be not less than 56 inches (1422 mm).
+
+3.Doors serving one-way traffic only shall be provided with a safety mat3 having a length not less than the width of the widest leaf.
+
+4.Doors serving both egress and ingress shall have a series of joined carpets on the swing side of the door arranged as follows:
+
+A.One safety carpet or mat nearest to the door at least as long as the width of the door leaf;
+
+B.One or more activating carpets to provide a total carpet length on the swing side of not less than 21/2 times the width of the widest door leaf.
+
+HISTORY:
+
+1.Editorial correction (Register 71, No. 52 errata sheets).
+
+1 Width: Shall be measured between the exposed edges of the carpet tread surface excluding molded edge bevels or aluminum edge trim.
+
+2 Length: Shall be measured from the centerline of the doors pivot to the exposed edge of the carpet tread surface excluding molded edge bevels or aluminum edge trim.
+
+3 Safety Mat: A safety mat is one that will prevent the door from opening if there is pressure on the safety mat before pressure is applied to the activating mat, and one that will prevent the door from closing following normal door actuation until pressure on the safety mat is removed.
+
+SLIDING DOORS
+
+Sec. 12-10-103.
+
+(a)General.
+
+1.Sliding leaves of sliding doors shall be provided with swinging sections arranged to swing in the direction of egress when pressure is applied at the location of normal push plates or on the crossbar of panic hardware on doors where panic hardware is required.
+
+2.Operation of the swinging section shall disconnect the sliding door power operator.
+
+3.Permanent stops shall be provided to prevent double swing.
+
+4.Location of the breakway tension adjustment, opening and closing speed adjustment, opening and closing snub speed adjustments, opening and closing power pressure adjustments, and similar controls shall be concealed and not readily accessible where they may be subject to tampering.
+
+5.Doors shall be suspended from overhead track. Operators, control levers or mechanisms shall be guarded.
+
+(b)Closing mechanism. The closing force of sliding doors at 24 inches (609 mm) of opening shall not exceed 30 pounds with a closing speed not in excess of 1.5 feet per second.
+
+(c)Opening width. The minimum clear width of the door opening with the swinging section, or sections in the 90-degree open position shall be not less than 28 inches (711 mm) with no single leaf less than 24 inches (609 mm) in width.
+
+(d)Opening forces. The swinging section in sliding doors shall swing open into the full open position when an opening force not exceeding 40 pounds is applied at the normal push plate location or on the crossbar of panic hardware.
+
+(e)Fault condition introduced. Under each possible fault condition that affects the power supply with the sliding leaf or leaves retracted one-half the leaf width into its or their pocket(s) each swinging section shall open to the 90-degree position with an applied pressure at the normal location of the push plate not exceeding 40 pounds.
+
+(f)Sliding doors without swing-out section. Power-operated sliding doors which are not provided with a swing-out section may be evaluated for conformance to the mechanical requirements and endurance tests provided in this standard. Power-operated sliding doors which are not provided with a swing-out section shall not be listed for use in locations where required exits are specified in Part 2, Title 24, California Code of Regulations.
+
+(g)Activating carpets, safety mats. Activating carpets and safety mats shall conform to Section 12-10-102 (f).
+
+MARKING
+
+Sec. 12-10-104.
+
+The name of the manufacturer, or trademark by which the manufacturer can be readily identified, shall be legibly marked on the operating equipment where it can be seen after installation. The type, model number or letter designation identifying the product as a listed device shall be provided on a label attached in a location as indicated in its listing.
+

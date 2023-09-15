@@ -1,0 +1,339 @@
+CHAPTER 12-72-2 PROTECTIVE SIGNALING SYSTEMS
+
+SINGLE- AND MULTIPLE-STATION FIRE ALARM DEVICES MECHANICALLY OPERATED TYPE STANDARD 12-72-2
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-72-200.
+
+(a)Basic. This standard represents the minimum basic requirements for the construction and performance of single-and multiple-station fire alarm devices intended for indoor installation, and to be listed under this classification. The minimum design, construction and performance standards set forth herein are those deemed as minimum necessary to establish conformance to the regulations of the State Fire Marshal.
+
+(b)Definitions. For the purpose of this standard, the following definitions shall apply:
+
+1.Fire alarm device, multiple station. Two or more gas-operated single station units interconnected by metal tubing to one or more remote alarm-sounding devices.
+
+2.Fire alarm device, single station. A self-contained fire alarm system comprising a heat detector, an alarm- sounding device and a stored energy source incorporated in one integral package. The basic types are gas- operated units and spring-wound units.
+
+3.Gas-operated type. A device having a temperature-sensitive eutectic element; compressed gas, usually in a liquid state in a cylinder; and a sounding means, such as a horn or whistle. When the eutectic element melts, the compressed gas is released in a gaseous state through the alarm-sounding device.
+
+4.Spring-wound type. A device having a temperature-sensitive bimetal or eutectic element and a spring-wound type mechanism with clapper mounted within a bell housing. The snap action of the bimetal or melting of the eutectic element releases the spring mechanism resulting in a bell-type sound.
+
+TEST REPORTS
+
+Sec. 12-72-201.
+
+(a)Test Report contents. The report shall include engineering data, and an analysis comparing the design against Sections 12-72-201(b) through 12-72-202(g); it shall include operating manuals and photographs. The report shall set forth the tests performed in accordance with this standard and the results thereof.
+
+(b)Instructions and drawings. A copy of the operating and installation instructions and any related drawings is to be furnished with the sample submitted for investigation to be used as a guide in the examination and test of the unit and for this purpose they need not be in final printed form.
+
+The instructions and drawings shall include such directions and information as deemed by the manufacturer to be adequate for attaining proper and safe installation, operation and maintenance.
+
+(c)Rejection for cause. Compliance with these standards will not necessarily mean approval and listing, if, when examined and tested, it is found to have other features which may impair the result intended by these regulations. Unusual constructions may require application of additional performance tests. The State Fire Marshal may refuse to approve any item for cause. (See the California Electrical Code.)
+
+(d)Devices covered. This standard does not cover electrically operated single- or multiple-station fire alarm devices actuated by heat, smoke or combustion products.
+
+(e)Temperature classification. The temperature sensitive elements of single- and multiple-station fire alarm devices are to be identified as to their temperature of operation as follows:
+
+TEMPERATURECLASSIFICATION	RATING RANGE,°F (°C)	MAXIMUM CEILINGTEMPERATURE,°F (°C)
+Ordinary	135-174 (57-79)	100 (38)
+Intermediate	175-225 (79-107)	150 (66)The maximum rating of a fire alarm device is to be not more than 225°F (107°C).
+
+(f)Differing constructions. A control unit having materials or forms of construction differing from this standard may be investigated and tested according to the intent of this standard, and if found to be substantially equivalent may be given recognition for approval and listing. The office of the State Fire Marshal shall be consulted for general requirements and performance standards.
+
+GENERAL
+
+Sec. 12-72-202.
+
+(a)Construction.
+
+1.Unless otherwise indicated, the term “fire alarm device” as used in this standard refers to single- and multiple-station mechanically operated type fire alarm devices.
+
+2.A fire alarm device shall be so constructed that it will be reliable and durable for the intended installation and use.
+
+(b)Mounting.
+
+1.A fire alarm device shall be provided with a means for mounting either to a ceiling or wall.
+
+2.The means for mounting shall not result in any distortion of the fire alarm device so as to alter its operating characteristics.
+
+(c)Calibration.
+
+1.Any means for calibration or adjustment shall be guarded or sealed to prevent manipulation by hand or ordinary tools. A thermal responsive element adjustment, if provided as part of a unit, shall not be capable of being readjusted after shipment from the factory.
+
+2.A calibration means considered to be not accessible or apparent is one not exposed to manipulation by tools, or one not readily replaceable. The complete concealment of tool-engagement means in a screw, such as a slot, recessed head, etc., by the use of solder or brazing material is considered adequate for the purpose of preventing manipulation or replacement.
+
+(d)Materials.
+
+1.A part shall be constructed of materials that are acceptable for the intended application and shall be of adequate mechanical strength.
+
+2.Diaphragms and spring parts shall be made of nonferrous material, such as phosphor bronze, nickel, silver, etc., or of ferrous materials. If ferrous materials are employed, they shall be hermetically sealed or plated so as not to be affected adversely by corrosion.
+
+3.A eutectic element, if used as the operating member of a fire alarm device, shall be constructed so as not to be affected adversely by conditions to which it is likely to be exposed in service, as represented by the tests described in Section 12-72-203.
+
+4.All exposed parts likely to be affected adversely by corrosion shall be protected by enameling, galvanizing, sherardizing, plating or equivalent means.
+
+(e)Operating mechanisms.
+
+1.The moving parts of a fire alarm device shall have sufficient play at bearing surfaces to prevent binding.
+
+2.The manually operated parts of a fire alarm device shall have sufficient strength to withstand the stresses to which they will be subjected in service.
+
+3.A gear train driving spring shall be reliably anchored at each end. The spring winding means shall be provided with a positive stop to limit the winding or shall withstand the maximum force likely to be applied without affecting the operation of the mechanism adversely.
+
+(f)Mechanical assembly.
+
+1.Any servicing or restoration operations intended to be made by the user shall be simple and capable of being accomplished with ordinary tools.
+
+2.A device shall be so constructed that parts will not become displaced during or after installation.
+
+3.An obstruction means, such as a wire mesh screen, shall be provided to prevent the entry of foreign bodies or materials into sounding devices which could prevent their operation.
+
+(g)Power supervisory feature. A means shall be provided on a unit to automatically indicate that operating power is not available. The indication may be in the form of a flag, target, sight glass, change in mounting position of the fire alarm device or equivalent. A fire alarm device shall be capable of producing an alarm signal for not less than 4 minutes at the point where the loss of operating power is indicated initially. See Section 12-72-203 (l).
+
+(h)Operating gas.
+
+1.The operating gas employed in a fire alarm device shall be noncombustible and shall be of a degree of toxicity that will not produce death or serious injury to guinea pigs during a 2-hour exposure to the gas at a concentration of 21/2 percent by volume of air.
+
+2.Refrigerants 12 and 22 are commonly used gases which comply with this requirement.
+
+PERFORMANCE
+
+Sec. 12-72-203.
+
+(a)General.
+
+1.Representative samples of units in commercial form shall be subjected to the following applicable tests.
+
+2.If a device(s) is required to be mounted in a definite position in order to function properly, it shall be tested in that position.
+
+3.If a device is normally intended to be connected to tubing to function, it shall be connected to the maximum length of tubing specified by the manufacturer unless the length of tubing would not have a bearing on its operation.
+
+(b)Determination of spacings.
+
+1.The sensitivity of a fire alarm device is to be expressed in terms of spacing limitations. Spacing limitations refer to the maximum distance permitted between devices mounted on smooth ceilings.
+
+2.Installation spacing limitations of a fire alarm device are developed by an oven test [15-foot (4572 mm) spacing only] or by a fire test. See Sections 12-72-203 (c) and (d).
+
+3.Determination of spacings is obtained by the testing of ordinary degree ratings. Devices shall be sufficiently sensitive to qualify for at least a 15-foot (4572 mm) spacing limitation.
+
+4.An ordinary-degree rating, with a spacing of 15 feet (4572 mm), may be tested for sensitivity by being subjected to the oven test. See Section 12-72-203 (c), Item 1. If the device does not operate within 2 minutes, a fire test shall be conducted.
+
+5.A fire alarm device is not acceptable if it fails to qualify for at least a 15-foot (4572 mm) spacing, i.e., does not operate within 2 minutes in the oven test, and does not operate when subjected to the fire test.
+
+(c)Oven test.
+
+1.A fire alarm device shall operate in a normal and uniform manner when tested to the time-temperature curve illustrated in Figure 12-72-2-1. A sample shall be uniform in operation when mounted in the same position inside the oven. Operation is considered uniform if the device operates within a tolerance of 15°F (8.3°C) for an ordinary rated unit and 20°F (11°C) for an intermediate rated unit. A fire alarm device which operates within 2 minutes or less is suitable for a 15-foot (4572 mm) spacing allocation.
+
+2.The test apparatus consists of a full draft circulating air oven capable of producing the time-temperature curve illustrated in Figure 12-72-2-1. Air is to be moved past the sample at a velocity of 230 to 245 feet per minute. The temperature in the oven is recorded by means of a thermocouple and calibrated potentiometer.
+
+3.The device under test is to be installed in the test oven with its temperature-sensitive element located in the air streams and positioned so that there is no obstruction of the moving air to the sensing element.
+
+4.After installation in the oven, the device is to be subjected to the time-temperature conditions illustrated by Figure 12-72-2-1. The time of actuation is to be recorded at the instant the unit goes into alarm.
+
+5.To determine that the performance of a fire alarm device is uniform, five samples are to be tested, using a different sample for each test, but each of the five samples is to be installed inside the chamber in the same position.
+
+(d)Fire test.
+
+1.A fire alarm device, installed at the intended spacing, shall operate prior to the 160°F (71.1°C) rated sprinklers installed on a 10-foot (3048 mm) spacing schedule when both are simultaneously exposed to a control fire condition.
+
+2.The test room is to be equipped with automatic sprinkler piping arranged to receive automatic sprinklers on a 10-by-10-foot (3048 mm by 3048 mm) spacing schedule. Sprinklers of the standard upright spray type are to be installed with the deflectors approximately 7 inches  (178 mm) below the ceiling, which is normal for sprinkler piping installation. For each test, new automatic sprinklers of the same make and ratings are to be installed in the sprinkler piping. The devices under test are to be installed at their designated spacing, minimum 15 feet (4572 mm), in line with the sprinkler and fire test plan. See Figure 12-72-2-2 for layout.
+
+3.This test is to be conducted in a room having a smooth ceiling with no physical obstructions between the fire source and devices under test and with minimum air movement. The room is to be provided for maintaining the room temperature ambient, if necessary. The heaters are to be shut off during a test trial.
+
+4.The room shall be of sufficient cross-sectional area so that the devices under test are located in accordance with the spacing layout illustrated by Figure 12-72-2-2. The reflection of heated air is to be prevented from returning to the devices under test from adjacent wall surfaces during the course of the fire test. The room height shall be such that the vertical distance from the base of the fire to the ceiling is approximately 12 feet (3657 mm).
+
+5.Fire tests are to be produced by burning denatured alcohol consisting of 190 proof ethanol to which 5 percent methanol has been added as a denaturant, in steel pans of a size necessary to produce a temperature rise sufficient to operate the automatic sprinklers in 2 minutes, ± 10 seconds, when installed on a 10-by-10-foot (3048 mm by 3048 mm) spacing schedule. Since temperature conditions in the test room may vary throughout the year, it is necessary to utilize different pan sizes in order to obtain the proper temperature-rise condition. This test condition develops a time-temperature curve similar to that shown in Figure 12-72-2-1.
+
+6.The fire tests are to be conducted to compare the operating time of the fire alarm devices when installed at their recommended spacing schedule as compared with the operating time of automatic sprinklers installed on the standard 10-by-10-foot (3048 mm by 3048 mm) spacing schedule. Operation of the devices prior to the sprinkler will qualify the device for a spacing on which it is installed. Since automatic sprinklers vary in their sensitivity, the particular sprinkler utilized in these tests is to be one which has average operating response under uniform temperature-rise conditions.
+
+7.Four units shall be subjected simultaneously to the fire test condition and all four units are required to respond prior to the sprinkler.
+
+8.For units which may be mounted on a side wall, the device under test shall be mounted in a vertical position so that the distance between the top of the unit and the ceiling is 6 inches (152 mm). The front of the units shall face the fire source and any surfaces on which the units are mounted shall be of a configuration to prevent reflection of heat onto the detector element.
+
+9.If a fire alarm device is intended to be mounted on the ceiling, the unit shall be so installed for this test.
+
+10.If a device is intended to be employed with an enclosure, such as used in mounting, it shall be subjected to the fire test using the enclosure representative of normal installation.
+
+(e)High-temperature exposure test.
+
+1.A fire alarm device shall not operate when subjected for 30 days to the test ambient temperature indicated in Table 12-72-2A. Following the exposure, the response of the units shall not show a variation of more than 10 percent from the value obtained in the Oven Test on as-received samples. There shall be no change in the sound intensity when tested following the exposure. There shall be no evidence of eutectic flow as a result of this test.
+
+2.Devices capable of repeated operation are to be subjected to the Oven Test before and after exposure to the test temperature ambient. Where devices are not capable of repeated operation the response data after exposure is to be compared to the response of identical as-received samples.
+
+3.A fire alarm device shall withstand the high-temperature exposure without false operation and there shall be no visible deformation or change in the temperature sensitive element or any other part of the unit as a result of the test.
+
+4.Five samples of each temperature rating are to be tested for their normal operating temperature after which they are to be placed in a circulating air oven maintained at the test temperature.
+
+5.The units are to be removed from the oven after the 30-day period, allowed to remain at room temperature for at least 24 hours and then subjected to the oven test.
+
+(f)Corrosion tests.
+
+1.The response of a fire alarm device, after being subjected to corrosive atmospheres, shall not show a variation of more than 50 percent from the value obtained in the oven test on as-received samples. No false alarms shall occur during the exposure and there shall be no change in the sound intensity when the units are subjected to the oven test.
+
+2.Devices capable of repeated operations are to be subjected to the oven test before and after exposure to the corrosive atmospheres. Where devices are not capable of repeated operation, the response data obtained from the oven test is to be compared to the response of identical as-received samples.
+
+3.Two samples are to be exposed for 10 days to an atmosphere containing approximately 1 percent hydrogen sulfide by volume in air saturated with water vapor at room temperature.
+
+4.Two samples are to be exposed for 10 days to an atmosphere containing approximately 1 percent sulphur dioxide in 1 percent carbon dioxide by volume in air saturated with water vapor at room temperature.
+
+5.After exposure to the corrosive atmospheres, the samples are to be removed from the test chamber, allowed to remain in a normal atmosphere at room temperature for at least 24 hours and then subjected to the oven test.
+
+6.This test is to be conducted only on devices of the ordinary degree rating unless there is reason to anticipate different behavior of other ratings.
+
+(g)Operating temperature test.
+
+1.A fire alarm device shall operate in a normal manner and within the operating temperature limits and tolerances included in Table 12-72-2B, when subjected to an operating temperature test in heated water, oil or air bath.
+
+2.Five samples of each temperature rating are to be subjected to this test. Depending on their particular design, the devices are to be suspended in a circulating water, oil or air bath, and the temperature gradually increased at the rate of 1°F (0.6°C) per minute until operation takes place. The temperature of the bath at the instant of operation is to be recorded.
+
+(h)Vibration test.
+
+1.A fire alarm device shall be capable of withstanding vibration without false operation, without breakage or damage to parts or any leakage at fittings. Following the vibration test the response of a unit shall not show a variation of more than 50 percent from the value obtained in the oven test on as-received samples. There shall be no change in the sound intensity following the vibration.
+
+2.Two samples are to be secured in the position of normal use on a mounting board and the board, in turn, securely fastened to a variable speed vibration machine having an amplitude of 0.01 inch (0.2 mm). The frequency of vibration is to be varied from 10 to 35 cycles per second (cps) in increments of 5 cps until a resonant frequency is obtained. The samples are then to be vibrated at the maximum resonant frequency for a period of 4 hours. If no resonant frequency is obtained, the samples are to be vibrated at 35 cycles per second for a period of 120 hours.
+
+3.For these tests, amplitude is defined as the maximum displacement of sinusoidal motion from a position of rest or one-half of the total table displacement. Resonance is defined as the maximum magnification of the applied vibration.
+
+4.Devices capable of repeated operation are to be subjected to the oven test before and after the vibration test. Where devices are not capable of repeated operation, the response data obtained from the oven test is to be compared to the response of identical as-received samples.
+
+5.This test is generally to be conducted only on devices of the ordinary degree rating unless there is a reason to anticipate different behavior of other ratings. For multiple station fire alarm devices, the units shall be interconnected with a 10-foot (3048 mm) length of tubing between units and between the units and any sounding appliance with which it is intended to be employed.
+
+(i)Humidity test.
+
+1.A fire alarm device shall be capable of operating in a normal manner and comply with the requirements of the oven test following exposure for 24 hours to moist air having a relative humidity of 85 ± 5 percent at a temperature of 30 ± 2°C (86 ± 3.6°F). The units shall be tested within 5 minutes after removal from the humid environment.
+
+2.Two samples are to be subjected to this test. This test is to be conducted on devices having an ordinary degree rating only, unless different behavior of other ratings is anticipated.
+
+(j)Low-temperature exposure test.
+
+1.A fire alarm device shall be capable of operating in a normal manner and comply with the requirements of the oven test following exposure for 24 hours to a temperature of minus 30 ± 2°C (minus 34.4 ± 3.6°F). The units shall be tested within 5 minutes after removal from the low temperature chamber. There shall be no false operation, damage to parts or leakage at fittings.
+
+2.Two samples are to be subjected to this test. This test is to be conducted on devices having an ordinary degree rating only, unless different behavior of other ratings is anticipated.
+
+3.For a multiple station fire alarm device the maximum length of tubing specified by the manufacturer [see Section 12-72-203 (a), Item 2] is to be connected between the unit and any alarm sounding device with which it is intended to be used prior to conducting the test.
+
+(k)Endurance test.
+
+1.There shall be no mechanical failure of a spring wound-type fire alarm device and the unit shall be capable of operating in a normal manner and comply with the requirements of the oven test following 100 cycles of operation at a rate of not less than once per hour.
+
+2.Two samples of any rating shall be subjected to this test. Each cycle shall consist of a complete rundown and rewinding operation. Following the 100 cycles, the units shall be subjected to the oven test.
+
+(l)Audibility test.
+
+1.The audible alarm generated by a fire alarm device shall be distinctive in sound from other customary sounds, continue for at least 4 full minutes at full intensity and be not less than 83 decibels when measured in an ambient temperature of 23 ± 3°C (73 ± 5.4°F) with a relative humidity of 60 ± 20 percent and a barometric pressure of approximately 700 mm mercury.
+
+2.The measurement of sound level is to be made with a sound level meter employing the C weighting network and fast response characteristics. The measurement is to be made in a room having the approximate dimensions of 20- by 10- by 10-feet (6096 mm by 3048 mm by 3048 mm) high or larger with sound absorbing panels on walls and ceiling having a Noise Reduction Coefficient (NRC) of 0.95 or higher for the walls and 0.64 or higher for the ceiling. The ambient noise level shall be not greater than 55 decibels. The device is to be mounted in a position of normal use, approximately 5 feet (1524 mm) above the floor in the center of the room. The microphone is to be located at a 10-foot (3048 mm) distance from the device and in a position to receive the maximum sound level produced by the device.
+
+3.Alternately, the measurement may be made in a free field condition to minimize the effect of reflected sound energy. The ambient noise level is to be at least 10 decibels below the measured level produced by the signal device. Free field conditions may be simulated by mounting the device not less than 10 feet (3048 mm) from the ground and with the microphone located 10 feet (3048 mm) from the device and conducting the test outdoors on a clear day with a wind velocity of not more than 5 miles per hour and an ambient temperature of 15–25°C (50–77°F).
+
+4.Alternatively, an anechoic chamber of not less than 1,000 cubic feet (28 m3), with no dimension less than 7 feet (2133 mm), and with an absorption factor of 0.99 or greater from 100 Hertz (Hz) to 10 kiloHertz (kHz) for all surfaces may be used for this measurement.
+
+(m)Hydrostatic strength test.
+
+1.The storage cylinder of a gas operated-type detector shall be capable of withstanding, without failure, an internal hydrostatic pressure of five times the pressure of the stored gas at the operating temperature of the device.
+
+2.In conducting the hydrostatic strength test, the storage cylinder is to be tested to the specified pressure after the shell has been completely filled with water or oil. Care should be exercised to expel all air from the test specimen before the pressure is applied.
+
+3.The apparatus for this test is to consist of a hand- or motor-operated hydraulic pump capable of producing the required test pressure, a substantial test cage capable of containing the shell and its parts in the event of failure, the necessary valves and fittings for attachment to the test sample, a calibrated pressure gage graduated in at least 20 pounds per square inch (psi) increments to at least 200 psi more than the test pressure, and the necessary valves, fittings, etc., for regulating and maintaining the specified test pressure.
+
+4.The pressure should be increased at a rate of approximately 300 psi per minute until the test pressure is obtained. The ultimate test pressure is to be held for 1 minute.
+
+5.Five cylinders are to be subjected to this test. None of the cylinders shall rupture or show evidence of leakage. Deformation of a cylinder is not considered a failure.
+
+INSTRUCTIONS
+
+Sec. 12-72-204.
+
+(a)General. Each fire alarm device shall be provided with the following installation, operating and maintenance instructions:
+
+1.Typical installation layout for the unit(s) indicating recommended locations.
+
+2.Description of the operation, testing (if provided), and proper maintenance procedures of the unit(s).
+
+3.Information on establishing a household emergency evacuation plan in the event of a fire.
+
+4.An indication that the local fire authority shall be notified of the installation.
+
+(b)The instructions may be incorporated on the outside of the unit, on a separate sheet, or as part of a manual. If not included directly on the device, the instructions or manual shall be referenced in the marking information on the unit.
+
+MARKING
+
+Sec. 12-72-205.
+
+(a)General. A fire alarm device shall be clearly and permanently marked where it will be visible after installation with the following information. Removal of a unit from an installed position by removing not more than one screw to view the marking is considered as meeting the requirement regarding visibility after installation.
+
+1.Name or identifying symbol of manufacturer or vendor.
+
+2.Model number or equivalent.
+
+3.Temperature rating of the fire alarm device.
+
+4.Reference to the State Fire Marshal Regulations for Household Fire Warning Equipment.
+
+5.The statement: “Do Not Paint” or equivalent to prevent painting of the temperature sensitive element and the markings. The letters shall be a minimum of 1/8 inch (3 mm) in height.
+
+6.The following information is required on gas operated units. The letters shall be a minimum of 1/8 inch (3 mm) in height.
+
+CAUTION—Pressurized Container—Do Not Puncture or Incinerate—Explosion Hazard May Result
+
+7.The following or equivalent wording:
+
+Operation—Responds To A Heat Producing Fire Only. Unit Will Actuate When The Temperature Of The Surrounding Air Reaches The Marked Temperature Rating (Plus Or Minus A Few Degrees) Provided The Air Temperature Increase Is 1°F (0.56°C) Per Minute Or Less. At Faster Rates Of Temperature Rise, The Surrounding Air Temperature At Which The Unit Will Actuate Will Be Above The Marked Rating, The Temperature Differential Depending On The Rate Of Rise Of Temperature Produced By A Fire. This Temperature Differential Results From the Time Lag Before The Temperature Element Absorbs The Necessary Heat From the Surrounding Air to Actuate.
+
+8.Instructions for setting or rewinding of a spring wound fire alarm device to be included on the device.
+
+9.For gas-operated fire alarm devices information to return the unit to the factory for servicing shall be provided.
+
+10.State Fire Marshal listing file number if required by Article 1.5.
+
+(b)If a manufacturer has more than one temperature rating for an alarm device, where the thermally sensitive element is renewable and must be replaced after operation, the renewable element shall bear the manufacturer’s name or equivalent identification and the temperature rating.
+
+(c)If a manufacturer produces units at more than one factory, each unit shall have a distinctive marking to identify it as the product of a particular factory.
+
+TESTING OVEN
+
+Sec. 12-72-206.
+
+(a)General. The testing oven shall be constructed and operated in accordance with this section and the following:
+
+1.A typical test oven consists of an oval shaped stainless steel box approximately 31 by 10 by 16 inches (787 mm by 254 mm by 406 mm) high, made of No. 11 M.S.G. material. One of the curved end sections is hinged. See Figure 12-72-2-3.
+
+2.A section 6 by 6 inches (152 mm by 152 mm) at the top is fitted with a removable wooden cover.
+
+3.Two glass windows, 4 by 6 inches (101 mm by 152 mm) in size, are provided in the sides of the oven for observation of the samples under test.
+
+4.The interior of the oven is divided horizontally by a baffle over the heater chamber located in the central lower section. One end of the horizontal baffle is joined to a guide vane extending upward at an angle of 72 degrees into the oven chamber. The vane directs the air currents to ensure greater uniformity of temperature in the oven.
+
+5.Eight 1,000-watt heating elements, threaded into screw shell lampholders, furnish the heat. They are so connected that six of the heating elements are controlled by means of two manually adjusted autotransformers. An auxiliary switch controls the other two heating elements for supplying additional heat when necessary.
+
+6.An air current through the bank of heaters is created by means of a four blade 5-inch (127 mm) diameter fan located behind the heating elements and connected to a shaft which extends to the outside of the oven. A variable speed motor is mounted on a bracket inside the lower cabinet and operates the fan through a pulley and belt arrangement. The speed of the motor is adjusted and the pitch of the fan blade is such that the velocity of the air current is 230 to 245 feet per minute over the sample under test.
+
+7.Temperatures are measured by means of two No. 30 AWG wire thermocouples inserted through copper tubes extending to the inside of the test chamber and are located adjacent to the device under test and in the heating chamber. The air velocity is measured by a velometer installed in the oven.
+
+8.A control board is mounted on the cabinet adjacent to the testing oven. The control board incorporates five toggle switches and four indicating lights for operating the heating elements, air flow fan and a cooling fan. A toggle switch is used for turning on the temperature recorder and another is used for checking the temperatures in either the upper or lower portion of the oven.
+
+9.Two manually adjusted autotransformers are mounted on the control panel for controlling the heat developed by the heating coils. An air flow indicator gage is incorporated on the control board for continuous indication of the air flow during the test run. In the event that the air flow tends to change during a test run, the speed of the fan is adjusted to keep the air velocity within the specified range.
+
+(b)Test method.
+
+1.The preparation for test consists of mounting the device on the small removable screen base of 1/4-inch (6 mm) hardware cloth formed to a height where the temperature sensing element is midway between the top of the chamber and the guide vane. The sample under test is positioned in the air stream so that there is no obstruction between the guide vane and sensing element. A spring wound device is mounted with the sensing element in a horizontal position. The test sample shall remain in the oven at least 5 minutes prior to starting each test run.
+
+2.The heating coils are permitted to preheat for 10 to 20 seconds prior to starting the test. The fan controlling the air flow is turned on and its speed adjusted to produce the required velocity. The temperatures are read every 10 seconds. The two autotransformers are adjusted as needed to obtain the desired rate of temperature rise. Normal oven temperatures at the start of the test are to be 85–90°F (29.4–32.2°C).
+
+3.Upon operation of the device, the current applied to the bank of heaters is cut-off and the oven is cooled to normal room temperature by means of the cooling fan.
+
+TABLE 12-72-2A—TEMPERATURE CLASSIFICATIONS
+
+TEMPERATURE CLASSIFICATION	RATING RANGE °F (°C)	TEST TEMPERATURE °F (°C)
+Ordinary	135-174 (57-74)	125 (51.7)
+Intermediate	175-225 (79-107)	150 (66)TABLE 12-72-2B—TEMPERATURE CLASSIFICATIONS
+
+TEMPERATURE CLASSIFICATION	OPERATING TEMPERATURE LIMITS	OPERATION
+Minimum °F (°C)	Maximum °F (°C)	Tolerance, °F (°C)
+Ordinary	128 (53.3)	165 (73.9)	10 (5.6)
+Intermediate	166 (74.4)	225 (107)	15 (8.3)FIGURE 12-72-2-1—TIME-TEMPERATURE CURVE—15-FOOT SPACINGS
+
+FIGURE 12-72-2-2—FIRE-TEST LAYOUT
+
+FIGURE 12-72-2-3—TEST OVEN
+

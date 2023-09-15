@@ -1,0 +1,1356 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  APPENDIX A4 – RESIDENTIAL VOLUNTARY MEASURES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter				X																		
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																			X			
+Chapter/Section																						
+Appendix A4.2				†															X			The state agency does not adopt sections identified by the following symbol: †.
+
+APPENDIX A4 RESIDENTIAL VOLUNTARY MEASURES RESIDENTIAL VOLUNTARY MEASURES
+
+Some of the measures contained in this appendix are not mandatory unless adopted by a city, county, or city and county as specified in Section 101.7 and provide additional measures that designers, builders and property owners may wish to consider during the planning, design and construction process.
+
+Division A4.1  – PLANNING AND DESIGN Division Division A4.1 A4.1 A4.1 – PLANNING AND DESIGN – PLANNING AND DESIGN
+
+PREFACE
+
+Given that land use and planning are largely regulated locally, cities, counties, and cities and counties should consider reducing greenhouse gas emissions associated with development through local land-use practices in conjunction with enforcing the provisions of this code. Specific land use strategies a city, county, or city and county may wish to consider include but are not limited to the following:
+
+Site selection. Develop sites for buildings, hardscape, roads or parking areas consistent with the local general plan and regional transportation plan pursuant to SB 375 (Stats 2008, Ch. 728).
+
+Regional sustainable communities strategy. Site selection and building design and use shall conform the project with the prevailing regional sustainable communities strategy or alternative planning strategy, whichever meets the greenhouse gas target established by the California Air Resources Board pursuant to SB 375 (Stats. 2008, Ch. 728), including the general location of uses, residential densities and building intensities.
+
+Transit priority projects. To qualify as a transit priority project, the project shall meet three criteria:
+
+(1)(a) contain at least 50 percent residential use, based on total building square footage and, if the project contains between 26 and 50 percent nonresidential uses, a floor area ratio of not less than 0.75; (b) provide a minimum net density of at least 20 dwelling units per acre; and (c) be within one-half mile of a major transit stop or high-quality transit corridor included in a regional transportation plan as described in Section 21155 of Stats. 2008, Ch. 728;
+
+(2)be consistent with the prevailing sustainable communities strategy or alternative planning strategy, whichever meets the greenhouse gas target established by the California Air Resources Board, including the general location of uses, residential densities and building intensities; and
+
+(3)have all necessary entitlements required by the applicable local government.
+
+Note: For additional information, see Government Code Sections 65080, 65080.1, 65400 and 65470, and Public Resources Code Sections 21061.3 and 21155.
+Note: For additional information, see Government Code Sections 65080, 65080.1, 65400 and 65470, and Public Resources Code Sections 21061.3 and 21155.
+
+SECTION A4.101 GENERAL
+
+A4.101.1 Scope.
+
+The provisions of this division outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore and enhance the environmental quality of the site and respect the integrity of adjacent properties.
+
+SECTION A4.102 DEFINITIONS
+
+A4.102.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+BROWNFIELD SITE.
+
+DEVELOPMENT FOOTPRINT.
+
+GREENFIELDS.
+
+GREYFIELD SITE.
+
+INFILL SITE.
+
+PERMEABLE PAVING.
+
+SECTION A4.103 SITE SELECTION
+
+A4.103.1 Selection.
+
+A site which complies with at least one of the following characteristics is selected:
+
+1.An infill site is selected.
+
+2.A greyfield site is selected.
+
+3.An EPA-recognized and remediated Brownfield site is selected.
+
+A4.103.2 Community connectivity.
+
+Facilitate community connectivity by one of the following methods:
+
+1.Locate project within a 1/4-mile true walking distance of at least four basic services, readily accessible by pedestrians.
+
+2.Locate project within a 1/2-mile true walking distance of at least seven basic services, readily accessible by pedestrians.
+
+3.Other methods increasing access to additional resources.
+
+Note: Examples of services include, but are not limited to, bank, place of worship, convenience grocery, day care, cleaners, fire station, barber shop, beauty shop, hardware store, laundry, library, medical clinic, dental clinic, senior care facility, park, pharmacy, post office, restaurant, school, supermarket, theater, community center, fitness center, museum or farmers market. Other services may be considered on a case-by-case basis.
+
+SECTION A4.104 SITE PRESERVATION
+
+A4.104.1 Supervision and education.
+
+Individuals with oversight authority on the project who have been trained in areas related to environmentally friendly development can teach green concepts to other members of the development staff and ensure that training is provided to all parties associated with the development of the project.
+
+Prior to beginning the construction activities, all parties involved with the development process shall receive a written guideline and instruction specifying the green goals of the project.
+
+Note: Lack of adequate supervision and dissemination of the project goals can result in negative effects on green building projects. If the theme of green building is not carried throughout the project, the overall benefit can be substantially reduced by the lack of knowledge and information provided to the various entities involved with the construction of the project.
+
+SECTION A4.105 DECONSTRUCTION AND REUSE OF EXISTING MATERIALS
+
+A4.105.1 General.
+
+Existing buildings on the site are deconstructed and the salvaged materials are reused. Reused materials or products must comply with current building standards requirements or be an accepted alternate method or material.
+
+A4.105.2 Reuse of materials.
+
+Materials which can be easily reused include but are not limited to the following:
+
+1.Light fixtures.
+
+2.Plumbing fixtures.
+
+3.Doors and trim.
+
+4.Masonry.
+
+5.Electrical devices.
+
+6.Appliances.
+
+7.Foundations or portions of foundations.
+
+Note: Reused material must be in compliance with the appropriate Title 24 requirements.
+
+SECTION A4.106 SITE DEVELOPMENT
+
+A4.106.1 Reserved.
+
+A4.106.2 Soil analysis and protection.
+
+The soils at the building site are analyzed and protected as specified in this section.
+
+A4.106.2.1 Soil analysis.
+
+Soil analysis is performed by a licensed design professional and the findings utilized in the structural design of the building.
+
+A4.106.2.2 Soil protection.
+
+The effect of development on building sites is evaluated and the soil is protected by one or more of the following:
+
+1.Natural drainage patterns are evaluated and erosion controls are implemented to minimize erosion during construction and after occupancy.
+
+2.Site access is accomplished by minimizing the amount of cut and fill needed to install access roads and driveways.
+
+3.As allowed by other parts of the California Building Standards Code underground construction activities are coordinated to utilize the same trench, minimize the amount of time the disturbed soil is exposed and the soil is replaced using accepted compaction methods.
+
+A4.106.2.3 Topsoil protection.
+
+Topsoil shall be protected or saved for reuse as specified in this section.
+
+Tier 1. Displaced topsoil shall be stockpiled for reuse in a designated area and covered or protected from erosion.Note: Protection from erosion includes covering with tarps, straw, mulch, chipped wood, vegetative cover or other means acceptable to the enforcing agency to protect the topsoil for later use.
+
+Note: Protection from erosion includes covering with tarps, straw, mulch, chipped wood, vegetative cover or other means acceptable to the enforcing agency to protect the topsoil for later use.
+
+Tier 2. The construction area shall be identified and delineated by fencing or flagging to limit construction activity to the construction area. Heavy equipment or vehicle traffic and material storage outside the construction area shall be limited to areas that are planned to be paved.
+Tier 1. Displaced topsoil shall be stockpiled for reuse in a designated area and covered or protected from erosion.
+
+Note: Protection from erosion includes covering with tarps, straw, mulch, chipped wood, vegetative cover or other means acceptable to the enforcing agency to protect the topsoil for later use.
+Note: Protection from erosion includes covering with tarps, straw, mulch, chipped wood, vegetative cover or other means acceptable to the enforcing agency to protect the topsoil for later use.
+
+Tier 2. The construction area shall be identified and delineated by fencing or flagging to limit construction activity to the construction area. Heavy equipment or vehicle traffic and material storage outside the construction area shall be limited to areas that are planned to be paved.
+
+A4.106.3 Landscape design.
+
+Postconstruction landscape designs shall accomplish one or more of the following:
+
+1.Areas disrupted during construction are restored to be consistent with native vegetation species and patterns.
+
+2.Utilize at least 75 percent native California or drought tolerant plant and tree species appropriate for the climate zone region.
+
+A4.106.4 Water permeable surfaces.
+
+Permeable paving is utilized for the parking, walking or patio surfaces in compliance with the following.
+
+Tier 1. Not less than 20 percent of the total parking, walking or patio surfaces shall be permeable.
+
+Tier 2. Not less than 30 percent of the total parking, walking or patio surfaces shall be permeable.
+Exceptions:1.The primary driveway, primary entry walkway and entry porch or landing shall not be included when calculating the area required to be a permeable surface.2.Required accessible routes for persons with disabilities as required by California Code of Regulations, Title 24, Part 2, Chapter 11A and/or Chapter 11B as applicable.
+
+1.The primary driveway, primary entry walkway and entry porch or landing shall not be included when calculating the area required to be a permeable surface.
+
+2.Required accessible routes for persons with disabilities as required by California Code of Regulations, Title 24, Part 2, Chapter 11A and/or Chapter 11B as applicable.
+Tier 1. Not less than 20 percent of the total parking, walking or patio surfaces shall be permeable.
+
+Tier 2. Not less than 30 percent of the total parking, walking or patio surfaces shall be permeable.
+
+Exceptions:
+
+1.The primary driveway, primary entry walkway and entry porch or landing shall not be included when calculating the area required to be a permeable surface.
+
+2.Required accessible routes for persons with disabilities as required by California Code of Regulations, Title 24, Part 2, Chapter 11A and/or Chapter 11B as applicable.
+
+A4.106.5 Cool roof for reduction of heat island effect.
+
+Roofing materials for Tier 1 and Tier 2 buildings shall comply with this section:
+
+Exceptions:
+
+1.Roof constructions that have a thermal mass over the roof membrane including areas of vegetated (green) roofs, weighing at least 25 pounds per square foot.
+
+2.Roof areas covered by building integrated solar photovoltaic panels and building integrated solar thermal panels.
+
+A4.106.5.1 Solar reflectance.
+
+Roofing materials shall have a minimum 3-year aged solar reflectance equal to or greater than the values specified in Tables A4.106.5.1(1) and A4.106.5.1(3) for Tier 1 and Tables A4.106.5.1(2) and A4.105.5.1(4) for Tier 2.
+
+If CRRC testing for aged solar reflectance is not available for any roofing products, the aged value shall be determined using the Cool Roof Rating Council (CRRC) certified initial value using the equation ρaged = [0.2 + β[ρinitial-0.2], where ρinitial = the initial Solar Reflectance and soiling resistance, β, is listed by product type in Table A4.106.5.1.
+
+Solar reflectance may also be certified by other supervisory entities approved by the Energy Commission pursuant to Title 24, Part 1, Section 10-113.
+
+TABLE A4.106.5.1
+
+VALUES OF SOILING RESISTANCE (ß) BY PRODUCT TYPE
+
+PRODUCT TYPE	CCRC PRODUCT CATEGORY	ß
+Field-applied coating	Field-applied coating	0.65
+Other	Not a field-applied coating	0.70TABLE A4.106.5.1(1)
+
+TIER 1 – LOW-RISE RESIDENTIAL
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM 3-YEAR AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	13 & 15	0.63	0.75	75
+> 2:12	10 – 15	0.20	0.75	16TABLE A4.106.5.1(2)
+
+TIER 2 – LOW-RISE RESIDENTIAL
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM 3-YEAR AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	2, 4, 6 – 15	0.65	0.85	78
+> 2:12	2, 4, 6 – 15	0.23	0.85	20TABLE A4.106.5.1(3)
+
+TIER 1 – HIGH-RISE RESIDENTIAL BUILDINGS, HOTELS AND MOTELS
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM 3-YEAR AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	9, 10, 11, 13, 14, 15	0.55	0.75	64
+> 2:12	2 – 15	0.20	0.75	16TABLE A4.106.5.1(4)
+
+TIER 2 – HIGH-RISE RESIDENTIAL BUILDINGS, HOTELS AND MOTELS
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM 3-YEAR AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	2 – 15	0.65	0.75	78
+> 2:12	2 – 15	0.23	0.75	20A4.106.5.2 Thermal emittance.
+
+Roofing materials shall have a CRRC initial or aged thermal emittance equal to or greater than those specified in Tables A4.106.5.1(1) and A4.106.5.1(3) for Tier 1 and Tables A4.106.5.1(2) and A4.106.5.1(4) for Tier 2.
+
+Thermal emittance may also be certified by other supervisory entities approved by the Energy Commission pursuant to Title 24, Part 1, California Administrative Code.
+
+A4.106.5.3 Solar reflectance index alternative.
+
+Solar Reflectance Index (SRI) equal to or greater than the values specified in Tables A4.106.5.1(1) and A4.106.5.1(3) for Tier 1 and Tables A4.106.5.1(2) and A4.106.5.1(4) for Tier 2 may be used as an alternative to compliance with the 3-year aged solar reflectance values and thermal emittance.
+
+SRI values used to comply with this section shall be calculated using the Solar Reflectance Index (SRI) Calculation Worksheet (SRI-WS) developed by the California Energy Commission or in compliance with ASTM E1980-01 as specified in the 2022 California Energy Code. Solar reflectance values used in the SRI-WS shall be based on the aged reflectance value of the roofing product or the equation in Section A4.106.5.1 if the CRRC certified aged solar reflectance are not available. Certified thermal emittance used in the SRI-WS may be either the initial value or the aged value listed by the CRRC.
+
+Solar reflectance and thermal emittance may also be certified by other supervisory entities approved by the Commission pursuant to Title 24, Part 1, California Administrative Code.
+
+Note: The Solar Reflectance Index Calculation Worksheet (SRI-WS) is available by contacting the Energy Standards Hotline at 1-800-772-3300, website at www.energy.ca.gov or by email at Title24@energy.ca.gov.
+
+A4.106.5.4 Verification.
+
+Inspection shall be conducted to ensure roofing materials meet cool roof aged solar reflectance and thermal emittance or SRI values.
+
+A4.106.6 Vegetated roof.
+
+Install a vegetated roof for at least 50 percent of the roof area. Vegetated roofs shall comply with requirements for roof gardens and landscaped roofs in the California Building Code, Chapter 15 and Chapter 16.
+
+A4.106.7 Reduction of heat island effect for nonroof areas.
+
+Reduce nonroof heat islands for 50 percent of sidewalks, patios, driveways or other paved areas by using one or more of the methods listed.
+
+1.Trees or other plantings to provide shade and that mature within 15 years of planting. Trees should be native or adaptive to the region and climate zones and noninvasive; hardy and resistant to drought, insects and disease; easy to maintain (no frequent shedding of twigs, branches, unwanted fruit or seed pods); and suitable in mature size and environmental requirements for the site. Tree selection and placement should consider location and size of areas to be shaded, location of utilities, views from the structure, distance to sidewalks and foundations, overhangs onto adjacent properties and streets; other infrastructure and adjacent to landscaping. In addition, shading shall not cast a shadow, as specified, on any neighboring solar collectors pursuant to Public Resources Code Section 25981, et seq. (Solar Shade Control Act).
+
+2.Use high albedo materials with an initial solar reflectance value of at least 0.30 as determined in accordance with American Society for Testing and Materials (ASTM) Standards E1918 or C1549.
+
+3.Use open grid pavement system or pervious or permeable pavement system.
+
+4.Locate 50 percent of parking underground or use multilevel parking.
+
+5.Other methods of reducing heat island effects acceptable to the enforcing agency.
+
+Note: Local agencies may have ordinances requiring mitigation of heat island effects through building or parking lot shading, tree plantings, landscaping, use of pervious pavements and other approved methods.
+
+A4.106.8 Electric vehicle (EV) charging for new construction.
+
+New construction shall comply with Sections A4.106.8.1, A4.106.8.2 or A4.106.8.3, to facilitate future installation and use of electric vehicle chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the California Electrical Code, Article 625.
+
+A4.106.8.1 New one- and two-family dwellings and townhouses with attached private garages.
+
+Tier 1 and Tier 2. For each dwelling unit, a dedicated 208/240-volt branch circuit shall be installed in the raceway required by Section 4.106.4.1. The branch circuit and associated overcurrent protective device shall be rated at 40 amperes minimum. Other electrical components, including a receptacle or blank cover, related to this section shall be installed in accordance with the California Electrical Code.
+
+A4.106.8.1.1 Identification.
+
+The service panel or subpanel circuit directory shall identify the overcurrent protective device designated for future EV charging purposes as “EV READY” in accordance with the California Electrical Code. The receptacle or blank cover shall be identified as “EV READY.”
+
+A4.106.8.2 New multifamily development projects and hotels and motels. New multifamily development projects and hotels and motels.
+
+New multifamily development projects and hotels and motels shall meet the following requirements.
+
+
+
+A4.106.8.2.1 Multifamily development projects and hotels and motels.
+
+Tier 1.EV Ready. Thirty-five (35) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Ten (10) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+
+EV Ready. Thirty-five (35) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Ten (10) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+
+Tier 2.EV Ready. Forty (40) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Fifteen (15) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+
+EV Ready. Forty (40) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Fifteen (15) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+Tier 1.
+
+EV Ready. Thirty-five (35) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Ten (10) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+EV Ready. Thirty-five (35) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.
+
+Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Ten (10) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+
+Tier 2.
+
+EV Ready. Forty (40) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Fifteen (15) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+EV Ready. Forty (40) percent of the total number of parking spaces shall be equipped with low power Level 2 EV charging receptacles. For multifamily parking facilities, no more than one receptacle is required per dwelling unit when more than one parking space is provided for use by a single dwelling unit.
+
+Exception: Areas of parking facilities served by parking lifts.
+
+EV Chargers for projects with 20 or more dwelling units, sleeping units or guest rooms. Fifteen (15) percent of the total number of parking spaces shall be equipped with Level 2 EVSE. Where common use parking is provided, at least one EV charger shall be located in the common use parking area and shall be available for use by all residents or guests.
+
+A4.106.8.2.2 Technical requirements.
+
+The EV spaces required by Section A4.106.8.2 shall be designed and constructed in accordance with Sections 4.106.4.2, 4.106.4.2.1 (Notes), 4.106.4.2.2 (Notes), 4.106.4.2.2.1.1, 4.106.4.2.2.1.2, 4.106.4.2.2.1.3, 4.106.4.2.3, 4.106.4.2.4 and 4.106.4.2.5.
+
+
+
+A4.106.9 Bicycle parking.
+
+Comply with Sections A4.106.9.1 through A4.106.9.3 or meet a local ordinance, whichever is more stringent.
+
+Exception: Number of bicycle parking spaces shall be permitted to be reduced, as approved by the enforcing agency, due to building site characteristics, including but not limited to, isolation from other development.
+
+A4.106.9.1 Short-term bicycle parking.
+
+Provide permanently anchored bicycle racks within 100 feet of the visitor’s entrance, readily visible to passers-by, for 5 percent of visitor motorized vehicle parking capacity with a minimum of one two-bike capacity rack.
+
+A4.106.9.2 Long-term bicycle parking for multifamily buildings.
+
+Provide on-site bicycle parking for at least one bicycle per every two dwelling units. Acceptable parking facilities shall be conveniently reached from the street and may include, but not be limited to:
+
+1.Covered, lockable enclosures with permanently anchored racks for bicycles.
+
+2.Lockable bicycle rooms with permanently anchored racks.
+
+3.Lockable, permanently anchored bicycle lockers.
+
+A4.106.9.3 Long-term bicycle parking for hotel and motel buildings.
+
+Provide one on-site bicycle parking space for every 25,000 square feet, but not less than two. Acceptable parking facilities shall be conveniently reached from the street and may include, but not be limited to:
+
+1.Covered, lockable enclosures with permanently anchored racks for bicycles.
+
+2.Lockable bicycle rooms with permanently anchored racks.
+
+3.Lockable, permanently anchored bicycle lockers.
+
+SECTION A4.107 (Reserved)
+
+SECTION A4.108 INNOVATIVE CONCEPTS AND LOCAL ENVIRONMENTAL CONDITIONS
+
+A4.108.1 Innovative concepts and local environmental conditions.
+
+The provisions of this code are not intended to prevent the use of any alternate material, appliance, installation, device, arrangement, method, design or method of construction not specifically prescribed by this code. This code does not limit the authority of city, county, or city and county government to make necessary changes to the provisions contained in this code pursuant to Section 101.7.1.
+
+Division A4.2  – ENERGY EFFICIENCY Division Division A4.2 A4.2 – ENERGY EFFICIENCY – ENERGY EFFICIENCY
+
+SECTION A4.201 GENERAL
+
+A4.201.1 Scope.
+
+For the purposes of mandatory energy efficiency standards in the California Building Standards Code (Title 24), the California Energy Commission will continue to adopt mandatory standards in the California Energy Code (Title 24, Part 6). It is the intent of these voluntary provisions to encourage local jurisdictions through codification to achieve exemplary performance in the area of building energy efficiency. Local jurisdictions adopting these voluntary provisions as mandatory local energy efficiency standards shall submit the required application and receive the required approval of the California Energy Commission in compliance with Title 24, Part 1, Section 10-106 prior to enforcement. Once the required filing has been verified and finding has been made by the Energy Commission, local jurisdictions shall file an ordinance expressly marking the local modification along with findings and receive the required acceptance from the California Building Standards Commission in compliance with Section 101.7 of this code, prior to enforcement. (Title 24, Part 1, Section 10-106 is available at http://www.energy.ca.gov/title24/2022standards/)
+
+SECTION A4.202 DEFINITIONS
+
+A4.202.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+ENERGY BUDGET.
+
+ENERGY DESIGN RATING (EDR).
+
+ENERGY DESIGN RATING, ENERGY EFFICIENCY.
+
+ENERGY DESIGN RATING, SOLAR ELECTRIC GENERATION AND DEMAND FLEXIBILITY.
+
+ENERGY DESIGN RATING, TOTAL
+
+TIME DEPENDENT VALUATION (TDV) ENERGY.
+
+SECTION A4.203 PERFORMANCE APPROACH FOR NEWLY CONSTRUCTED BUILDINGS
+
+A4.203.1 Energy efficiency.
+
+Newly constructed low-rise residential buildings shall comply with Sections A4.203.1.1 through A4.203.1.3.
+
+
+
+A4.203.1.1 Hourly Source Energy Design Rating (EDR1). Hourly Source Energy Design Rating (EDR1). 
+
+EDR1 rating for the building’s Proposed Design shall be computed by Compliance Software certified by the Energy Commission as specified in Title 24, Part 6, Section 100.1 and 150.1(b), and shall reduce the EDR1 required in the Compliance Software for minimum performance-based compliance with the California Energy Code by the compliance margin specified in Table A4.203.1.1. The rating shall be included in the Certificate of Compliance documentation.
+
+
+
+TABLE A4.203.1.1
+
+RECOMMENDED EDR1 MARGINS BY CLIMATE ZONES
+
+CALIFORNIA ENERGY CODE CLIMATE ZONE	EDR1 COMPLIANCE MARGIN
+1  	4.3
+2  	4.4
+ 3 	6.0
+ 4 	5.8
+ 5 	5.8
+ 6 	3.5
+ 7 	2.9
+ 8 	2.1
+ 9 	3.6
+ 10	6.5
+ 11	4.3
+ 12	4.4
+ 13	4.9
+ 14	5.8
+ 15	1.8
+ 16	4.3Note: Community shared options complying with Title 24, Part 1, Section 10-115 may be used to achieve EDR1 targets.
+
+
+
+A4.203.1.2 Prerequisite options. 
+
+In addition, a minimum of TWO of the efficiency measures specified in Sections A4.203.1.2.1 through A4.203.1.2.8 will be required to be met.
+
+A4.203.1.2.1 Roof deck insulation, or ducts in conditioned space.
+
+Meet one of the three options for the location of ducts and air handlers as well as insulation R-values and installation of a radiant barrier as specified in Title 24, Part 6, Section 150.1(c)9A or B:
+
+1.Below roof deck insulation with a minimum R-value of 19; or,
+
+2.Continuous above deck insulation with a minimum R-8 and with an air space present between the roofing and the roof deck; or,
+
+3.All ducts and air handlers in conditioned space as specified in the Title 24, Part 6, Reference Appendix RA3.1.
+
+A4.203.1.2.2 High performance walls.
+
+Meet the climate zone dependent U-factor or insulation R-value for either 2x6 or 2x4 framing as specified in Title 24, Part 6, Section 150.1(c)1B: maximum U-factor of 0.048.
+
+A4.203.1.2.3 Compact hot water distribution system.  Compact hot water distribution system.
+
+Meet the requirements for installation of Compact Hot Water Distribution Systems specified in the Title 24, Part 6, Reference Appendix RA3.6.5.
+
+A4.203.1.2.4 Drain water heat recovery. Drain water heat recovery.
+
+Meet the requirements for installation of Drain Water Heat Recovery specified in Title 24, Part 6, Reference Appendix RA4.4.21.
+
+A4.203.1.2.5 High performance vertical fenestration.
+
+Meet the climate zone dependent U-factor and Solar Heat Gain Co-efficient (SHGC) specified in Title 24, Part 6, Section 110.6, Maximum U-factor 0.21, SHGC 0.23.
+
+A4.203.1.2.6 Heat pump water heater demand management.
+
+For buildings with heat pump water heating,
+meet the requirements for installation of controls specified by Title 24, Part 6, Reference Appendix JA13.3.3.
+
+A4.203.1.2.7 Battery storage system controls.
+
+For buildings with battery storage systems, meet the requirements for installation of controls specified by Title 24, Part 6, Reference Appendix JA12 for either the Time-of-Use Control or Advanced Demand Flexibility Control option.
+
+A4.203.1.2.8 Heat pump space and water heating.
+
+Meet the space heating and water heating loads using
+heat pump equipment.
+
+
+
+A4.203.1.3 Consultation with local electric service provider. 
+
+Local jurisdictions considering adoption of reduced EDR targets based on using solar photovoltaic (PV) systems larger than required by the California Energy Code shall consult with the local electric service provider to ensure that PV system sizing required to comply with the EDR targets will be acceptable to the local electric service provider. The local jurisdiction shall not require onsite PV systems that are larger than the local electric service provider will allow to be interconnected.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25402, 25402.1, 25402.4 and 25402.8, Public Resources Code.
+
+Division A4.3  – WATER EFFICIENCY AND CONSERVATION Division Division A4.3 A4.3 – WATER EFFICIENCY AND CONSERVATION
+
+SECTION A4.301 GENERAL
+
+(Reserved)
+
+SECTION A4.302 DEFINITIONS
+
+(Reserved)
+
+SECTION A4.303 INDOOR WATER USE
+
+A4.303.1 Kitchen faucets.
+
+The maximum flow rate of kitchen faucets shall not exceed 1.5 gallons per minute at 60 psi. Kitchen faucets may temporarily increase the flow above the maximum rate, but not to exceed 2.2 gallons per minute at 60 psi, and must default to a maximum flow rate of 1.5 gallons per minute at 60 psi.
+
+Note: Where complying faucets are unavailable, aerators or other means may be used to achieve reduction.
+
+A4.303.2 Alternate water sources for nonpotable applications.
+
+Alternate nonpotable water sources are used for indoor potable water reduction. Alternate nonpotable water sources shall be installed in accordance with the California Plumbing Code.
+
+A4.303.3 Appliances.
+
+Install at least one qualified ENERGY STAR dishwasher or clothes washer.
+
+Note: See Section A5.303.3 for nonresidential dishwashers and clothes washers.
+
+A4.303.4 Nonwater urinals and waterless toilets.
+
+Nonwater urinals or composting toilets are installed.
+
+Where approved, nonwater urinals with drain cleansing action (formerly hybrid urinals), as defined in Chapter 2, shall be considered nonwater urinals.
+
+A4.303.5 Hot water recirculation systems.
+
+One- and two-family dwellings shall be equipped with a demand hot water recirculation system, as defined in Chapter 2. The demand hot water recirculation system shall be installed in accordance with the California Plumbing Code, California Energy Code and the manufacturer’s installation instructions.
+
+SECTION A4.304 OUTDOOR WATER USE
+
+A4.304.1 Rainwater catchment systems.
+
+An approved rainwater catchment system is designed and installed to use rainwater generated by at least 65 percent of the available roof area. Rainwater catchment systems shall be designed and installed in accordance with the California Plumbing Code.
+
+A4.304.2 Potable water elimination.
+
+When landscaping is provided and as allowed by local ordinance, a water efficient landscape irrigation design that eliminates the use of potable water beyond the initial requirements for plant installation and establishment shall be provided. Methods used to accomplish the requirements of this section shall comply with the requirements of the California Building Standards Code and shall include, but not be limited to, the following:
+
+1.Use of captured rainwater.
+
+2.Use of recycled water.
+
+3.Water treated for irrigation purposes and conveyed by a water district or public entity.
+
+4.Use of graywater.
+
+5.Use of drought tolerant plants.
+
+A4.304.3 Landscape water meters.
+
+For new water service connections, landscaped irrigated areas less than 5,000 square feet shall be provided with separate submeters or metering devices for outdoor potable water use.
+
+SECTION A4.305 WATER REUSE SYSTEMS
+
+A4.305.1 Graywater.
+
+Alternative plumbing piping is installed to permit the discharge from the clothes washer or other fixtures to be used for an irrigation system in compliance with the California Plumbing Code.
+
+A4.305.2 Recycled water piping.
+
+Based on projected availability, dual water piping is installed for future use of recycled water at the following locations:
+
+1.Interior piping for the use of recycled water is installed to serve all water closets, urinals and floor drains.
+
+2.Exterior piping is installed to transport recycled water from the point of connection to the structure. Recycled water systems shall be designed and installed in accordance with the California Plumbing Code.
+
+A4.305.3 Recycled water for landscape irrigation.
+
+Recycled water is used for landscape irrigation.
+
+SECTION A4.306 INNOVATIVE CONCEPTS AND LOCAL ENVIRONMENTAL CONDITIONS
+
+A4.306.1 Innovative concepts and local environmental conditions.
+
+The provisions of this code are not intended to prevent the use of any alternate material, appliance, installation, device, arrangement, method, design or method of construction not specifically prescribed by this code. This code does not limit the authority of city, county, or city and county government to make necessary changes to the provisions contained in this code pursuant to Section 101.7.1.
+
+Division A4.4  – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY Division Division A4.4 A4.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+SECTION A4.401 GENERAL
+
+(Reserved)
+
+SECTION A4.402 DEFINITIONS
+
+A4.402.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+ASSEMBLY (ASSEMBLY PRODUCT).
+
+POSTCONSUMER CONTENT.
+
+PRECONSUMER (OR POSTINDUSTRIAL) CONTENT.
+
+PROPORTIONAL RECYCLED CONTENT (PRCM).
+
+RECYCLED CONTENT (RC).
+
+RECYCLED CONTENT VALUE (RCV).
+
+Assembly products (RCVA).
+
+Materials (RCVM).
+Assembly products (RCVA).
+
+Materials (RCVM).
+
+SECTION A4.403 FOUNDATION SYSTEMS
+
+A4.403.1 Frost protected foundation systems.
+
+As allowed by local conditions, utilize a Frost-Protected Shallow Foundation (FPSF) in compliance with the California Residential Code (CRC). When an FPSF foundation system is installed, the manual required by Section 4.410.1 shall include instructions to the owner or occupant regarding the necessity for heating the structure as required in Section R403.3 of the California Residential Code.
+
+A4.403.2 Reduction in cement use.
+
+As allowed by the enforcing agency, cement used in foundation mix design shall be reduced as follows:
+
+Tier 1. Not less than a 20 percent reduction in cement use.
+
+Tier 2. Not less than a 25 percent reduction in cement use.
+Tier 1. Not less than a 20 percent reduction in cement use.
+
+Tier 2. Not less than a 25 percent reduction in cement use.
+
+Note: Products commonly used to replace cement in concrete mix designs include, but are not limited to:
+Note: Products commonly used to replace cement in concrete mix designs include, but are not limited to:
+
+1.Fly ash.
+
+2.Slag.
+
+3.Silica fume.
+
+4.Rice hull ash.
+
+SECTION A4.404 EFFICIENT FRAMING TECHNIQUES
+
+A4.404.1 Lumber size.
+
+Beams, headers and trimmers are sized and installed as specified in Chapter 23 of the California Building Code, or Chapter 6 of the California Residential Code, as applicable. Other calculations acceptable to the enforcing agency which use the minimum size member for the tributary load shall be acceptable.
+
+A4.404.2 Dimensions and layouts.
+
+Building dimensions and layouts are designed to minimize waste by one or more of the following measures in at least 80 percent of the structure:
+
+1.Building design dimensions in 2-foot increments are used.
+
+2.Windows and doors are located at regular 16″ or 24″ stud positions.
+
+3.Other methods acceptable to the enforcing agency.
+
+A4.404.3 Building systems.
+
+Use premanufactured building systems to eliminate solid sawn lumber whenever possible. One or more of the following premanufactured building systems is used:
+
+1.Composite floor joist or premanufactured floor framing system.
+
+2.Composite roof rafters or premanufactured roof framing system.
+
+3.Panelized (SIPS, ICF or similar) framing systems.
+
+4.Other methods approved by the enforcing agency.
+
+A4.404.4 Pre-cut materials and details.
+
+Material lists are included in the plans which specify the material quantity and provide direction for on-site cuts to be made from the material provided. Material lists and direction shall be provided for the following systems:
+
+1.Floor framing.
+
+2.Wall framing.
+
+3.Ceiling and roof framing.
+
+4.Structural panels and roof sheathing.
+
+SECTION A4.405 MATERIAL SOURCES
+
+A4.405.1 Prefinished building materials.
+
+Utilize prefinished building materials which do not require additional painting or staining when possible. One or more of the following building materials that do not require additional resources for finishing are used:
+
+1.Exterior trim not requiring paint or stain.
+
+2.Windows not requiring paint or stain.
+
+3.Siding or exterior wall coverings which do not require paint or stain.
+
+A4.405.2 Concrete floors.
+
+Floors that do not require additional coverings are used including but not limited to stained, natural or stamped concrete floors.
+
+A4.405.3 Recycled content.
+
+Comply with the requirements for recycled content in Section A4.405.3.1.
+
+A4.405.3.1 Recycled content.
+
+Use materials, equivalent in performance to virgin materials with a total (combined) recycled content value (RCV) of:
+
+Tier 1. The RCV shall not be less than 10 percent of the total material cost of the project.
+
+Tier 2. The RCV shall not be less than 15 percent of the total material cost of the project.
+
+For the purposes of this section, materials used as components of the structural frame shall not be used to calculate recycled content. The structural frame includes the load bearing structural elements, such as wall studs, plates, sills, columns, beams, girders, joists, rafters and trusses.
+
+Notes:
+
+1.Sample forms which allow user input and automatic calculation are located at http://www.hcd.ca.gov/building-standards/calgreen/calgreen-forms.html and may be used to simplify documenting compliance with this section and for calculating recycled content value of materials or assembly products.
+
+2.Sources and recycled content of some recycled materials can be obtained from CalRecycle if not provided by the manufacturer.
+
+A4.405.3.1.1 Total material cost.
+
+Total material cost is the total estimated or actual cost of materials and assembly products used in the project. The required total recycled content value for the project (in dollars) shall be determined by Equation A4.4-1 or Equation A4.4-2.
+
+Total material cost shall be calculated by using one of the methods specified below:
+
+1.Simplified method. To obtain the total cost of the project, multiply the square footage of the residential structure by the square foot valuation established pursuant to the ICC Building Valuation Data (BVD) or other valuation data approved and/or established by the enforcing agency. The total material cost is 45 percent of the total cost of the project. Use Equations A4.4-3A or A4.4-3B to determine total material costs using the simplified method.
+
+(Equation A4.4-3A)
+
+(Equation A4.4-3B)
+2.Detailed method. To obtain the total cost of the project, add the estimated and/or actual costs of materials used for the project, including the structure (steel, concrete, wood or masonry); the enclosure (roof, windows, doors and exterior walls); the interior walls, ceilings and finishes (gypsum board, ceiling tiles, etc.). The total estimated and/or actual costs shall not include fees, labor and installation costs, overhead, appliances, equipment, furniture or furnishings.
+
+A4.405.3.1.2 Determination of total recycled content value (RCV).
+
+Total RCV may be determined either by dollars or percentage as noted below.
+
+1.Total recycled content value for the project (in dollars). This is the sum of the recycled content value of the materials and/or assemblies considered and shall be determined by Equation A4.4-4. The result of this calculation may be directly compared to Equations A4.4-1 and A4.4-2 to determine compliance with Tier 1 or Tier 2 prerequisites.
+
+2.Total recycled content value for the project (by percentage). This is expressed as a percentage of the total material cost and shall be determined by Equation A4.4-4 and Equation A4.4-5. The result of this calculation may be directly compared for compliance with Tier 1 (10 percent) or Tier 2 (15 percent) prerequisites.
+
+A4.405.3.1.3 Determination of recycled content value of materials (RCVM).
+
+The recycled content value of each material (RCVM) is calculated by multiplying the cost of material, as defined by the recycled content. See Equations A4.4-6 and A4.4-7.
+
+Notes:
+
+1.If the postconsumer and preconsumer recycled content is provided in pounds, Equation A4.4-7 may be used, but the final result (in pounds) must be multiplied by 100 to show RCM as a percentage.
+
+2.If the manufacturer reports total recycled content of a material as one percentage in lieu of separately reporting preconsumer and post-consumer values, the total shall be considered preconsumer recycled material.
+
+A4.405.3.1.4 Determination of recycled content value of assemblies – (RCVA).
+
+Recycled content value of assemblies is calculated by multiplying the total cost of the assembly by the total recycled content of the assembly (RCA), and shall be determined by Equation A4.4-8.
+
+If not provided by the manufacturer, Total RCA (percent) is the sum (Σ) of the Proportional Recycled Content (PRCM) of each material in the assembly. RCA shall be determined by Equation A4.4-9.
+
+PRCM of each material may be calculated by one of two methods using the following formulas:
+
+Method 1: Recycled content (postconsumer and preconsumer) of each material provided in percentages
+
+Method 2: Recycled content (postconsumer and preconsumer) provided in pounds
+
+Note: If the manufacturer reports total recycled content of a material as one percentage in lieu of separately reporting preconsumer and postconsumer values, the total shall be considered preconsumer recycled material.
+
+A4.405.3.1.5 Alternate method for concrete.
+
+When Supplementary Cementitious Materials (SCMs), such as fly ash or ground blast furnace slag cement, are used in concrete, an alternate method of calculating and reporting recycled content in concrete products shall be permitted. When determining the recycled content value, the percent recycled content shall be multiplied by the cost of the cementitious materials only, not the total cost of the concrete.
+
+A4.405.4 Use of building materials from rapidly renewable sources.
+
+One or more of the following materials manufactured from rapidly renewable sources or agricultural byproducts is used:
+
+1.Insulation.
+
+2.Bamboo or cork.
+
+3.Engineered products.
+
+4.Agricultural based products.
+
+5.Other products acceptable to the enforcing agency.
+
+Note: The intent of this section is to utilize building materials and products which are typically harvested within a 10-year or shorter cycle.
+
+SECTION A4.406 ENHANCED DURABILITY
+
+AND REDUCED MAINTENANCE
+
+(Reserved)
+
+SECTION A4.407 WATER RESISTANCE AND MOISTURE MANAGEMENT
+
+A4.407.1 Drainage around foundations.
+
+Install foundation and landscape drains which discharge to a dry well, sump, bioswale or other approved on-site location.
+
+A4.407.2 Roof drainage.
+
+Install gutter and downspout systems to route water at least 5 feet away from the foundation or connect to landscape drains which discharge to a dry well, sump, bioswale, rainwater capture system or other approved on-site location.
+
+A4.407.3 Flashing details.
+
+Provide flashing details on the building plans which comply with accepted industry standards or manufacturer’s instructions. Details are shown on house plans at all of the following locations:
+
+1.Around windows and doors.
+
+2.Roof valleys.
+
+3.Deck connections to the structure.
+
+4.Roof-to-wall intersections.
+
+5.Chimneys to roof intersections.
+
+6.Drip caps above windows and doors with architectural projections.
+
+Note: Reference details may be found in the Residential Sheet Metal Guidelines published by the Sheet Metal and Air Conditioning Contractors’ National Association Inc.
+
+A4.407.4 Material protection.
+
+Protect building materials delivered to the construction site from rain and other sources of moisture.
+
+A4.407.5 Ice and water barriers.
+
+In Climate Zone 16, an ice and water barrier is installed at valley, eaves and wall to roof intersections. The ice and water barrier shall extend at least 24 inches inside the exterior wall line or as specified by the manufacturer’s installation instructions.
+
+A4.407.6 Door protection.
+
+Exterior doors to the dwelling are covered to prevent water intrusion by one or more of the following:
+
+1.An awning at least 4 feet in depth is installed.
+
+2.The door is protected by a roof overhang at least 4 feet in depth.
+
+3.The door is recessed at least 4 feet.
+
+4.Other methods which provide equivalent protection.
+
+A4.407.7 Roof overhangs.
+
+A permanent overhang or awning at least 2 feet in depth is provided at all exterior walls.
+
+SECTION A4.408 CONSTRUCTION WASTE REDUCTION, DISPOSAL AND RECYCLING
+
+A4.408.1 Enhanced construction waste reduction.
+
+Nonhazardous construction and demolition debris generated at the site is diverted to recycle or salvage in compliance with one of the following:
+
+Tier 1. At least a 65 percent reduction. Any mixed recyclables that are sent to mixed-waste recycling facilities shall include a qualified third party verified facility average diversion rate. Verification of diversion rates shall meet minimum certification eligibility guidelines, acceptable to the local enforcing agency.
+
+Tier 2. At least a 75 percent reduction with a third-party verification as required for Tier 1.
+
+Exceptions:
+
+1.Equivalent or alternative waste reduction methods are developed by working with local agencies if diversion or recycle facilities capable of compliance with this item do not exist.
+
+2.The enforcing agency may make exceptions to the requirements of this section when jobsites are located in areas beyond the haul boundaries of the diversion facility.
+
+A4.408.1.1 Documentation.
+
+Documentation shall be provided to the enforcing agency which demonstrates compliance with this section. Documentation shall be in compliance with Section 4.408.5.
+
+SECTION A4.409 LIFE CYCLE ASSESSMENT
+
+(Reserved)
+
+SECTION A4.410 BUILDING MAINTENANCE AND OPERATION
+
+(Reserved)
+
+SECTION A4.411 INNOVATIVE CONCEPTS AND LOCAL ENVIRONMENTAL CONDITIONS
+
+A4.411.1 Innovative concepts and local environmental conditions.
+
+The provisions of this code are not intended to prevent the use of any alternate material, appliance, installation, device, arrangement, method, design or method of construction not specifically prescribed by this code. This code does not limit the authority of city, county, or city and county government to make necessary changes to the provisions contained in this code pursuant to Section 101.7.1.
+
+Division A4.5  – ENVIRONMENTAL QUALITY Division Division A4.5 A4.5 – ENVIRONMENTAL QUALITY – ENVIRONMENTAL QUALITY
+
+SECTION A4.501 GENERAL
+
+(Reserved)
+
+SECTION A4.502 DEFINITIONS
+
+A4.502.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+MERV.
+
+NO ADDED FORMALDEHYDE (NAF) BASED RESINS.
+
+ULTRA-LOW EMITTING FORMALDEHYDE (ULEF) RESINS.
+
+SECTION A4.503 FIREPLACES
+
+(Reserved)
+
+SECTION A4.504 POLLUTANT CONTROL
+
+A4.504.1 Compliance with formaldehyde limits.
+
+Use composite wood products made with either California Air Resources Board approved no-added formaldehyde (NAF) resins or ultra-low emitting formaldehyde (ULEF) resins.
+
+Note: Documentation must be provided that verifies that finish materials are certified to meet the pollutant emission limits.
+
+A4.504.2 Resilient flooring systems.
+
+Resilient flooring systems installed in the building shall meet the percentages specified in this section and meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx
+
+Tier 1. At least 90 percent of the total area of resilient flooring installed shall comply.
+
+Tier 2. 100 percent of the total area of resilient flooring installed shall comply.
+
+Exception for Tier 2: An allowance for up to 5 percent specialty purpose flooring may be permitted.
+
+Note: Documentation must be provided that verifies that finish materials are certified to meet the pollutant emission limits in this section.
+Tier 1. At least 90 percent of the total area of resilient flooring installed shall comply.
+
+Tier 2. 100 percent of the total area of resilient flooring installed shall comply.
+
+Exception for Tier 2: An allowance for up to 5 percent specialty purpose flooring may be permitted.
+
+Note: Documentation must be provided that verifies that finish materials are certified to meet the pollutant emission limits in this section.
+
+A4.504.3 Thermal insulation.
+
+Thermal insulation installed in the building shall meet the following requirements:
+
+Tier 1. Install thermal insulation that meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350). See California Department of Public Health’s website for certification programs and testing labs.https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx
+
+Tier 2. Install insulation which complies with Tier 1 plus does not contain any added formaldehyde.
+Note: Documentation must be provided that verifies the materials are certified to meet the pollutant emission limits in this section.
+
+Note: Documentation must be provided that verifies the materials are certified to meet the pollutant emission limits in this section.
+Tier 1. Install thermal insulation that meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx
+
+Tier 2. Install insulation which complies with Tier 1 plus does not contain any added formaldehyde.
+
+Note: Documentation must be provided that verifies the materials are certified to meet the pollutant emission limits in this section.
+Note: Documentation must be provided that verifies the materials are certified to meet the pollutant emission limits in this section.
+
+SECTION A4.505 INTERIOR MOISTURE CONTROL
+
+(Reserved)
+
+SECTION A4.506 INDOOR AIR QUALITY AND EXHAUST
+
+A4.506.1 Reserved.
+
+A4.506.2 Construction filter.
+
+[HR] Provide filters on return air openings rated at MERV 8 or higher during construction.
+
+A4.506.3 Direct-vent appliances.
+
+Direct-vent heating and cooling equipment shall be utilized if the equipment will be located in the conditioned space or install the space heating and water heating equipment in an isolated mechanical room.
+
+SECTION A4.507 ENVIRONMENTAL COMFORT
+
+(Reserved)
+
+SECTION A4.508 OUTDOOR AIR QUALITY
+
+(Reserved)
+
+SECTION A4.509 INNOVATIVE CONCEPTS AND LOCAL ENVIRONMENTAL CONDITIONS
+
+A4.509.1 Innovative concepts and local environmental conditions.
+
+The provisions of this code are not intended to prevent the use of any alternate material, appliance, installation, device, arrangement, method, design or method of construction not specifically prescribed by this code. This code does not limit the authority of city, county, or city and county government to make necessary changes to the provisions contained in this code pursuant to Section 101.7.1.
+
+Division A4.6  – TIER I AND TIER 2 Division Division A4.6 A4.6 – TIER I AND TIER 2 – TIER I AND TIER 2
+
+SECTION A4.601 GENERAL
+
+A4.601.1 Scope.
+
+The measures contained in this appendix are not mandatory unless adopted by a city, county, or city and county as specified in Section 101.7. The provisions of this section outline means of achieving enhanced construction or reach levels by incorporating additional green building measures. In order to meet one of the tier levels designers, builders or property owners are required to incorporate additional green building measures necessary to meet the threshold of each level.
+
+A4.601.2 Prerequisite measures.
+
+Tier 1 and Tier 2 thresholds require compliance with the mandatory provisions of this code and incorporation of the required prerequisite measures listed in Section A4.601.4.2 for Tier 1 and A4.601.5.2 for Tier 2. Prerequisite measures are also identified in the Residential Occupancies Application Checklist in Section A4.602.
+
+As specified in Section 101.7, additional prerequisite measures may be included by the enforcing agency to address specific local environmental conditions and may be listed in the Innovative Concepts and Local Environmental Conditions portions of the checklist.
+
+A4.601.3 Elective measures.
+
+In addition to the required measures, Tier 1 and Tier 2 buildings must incorporate at least the number of elective measures specified in Sections A4.601.4.2 and A4.601.5.2.
+
+A4.601.4 Tier 1.
+
+To achieve Tier 1 status a project must comply with the following:
+
+A4.601.4.1 Mandatory measures for Tier 1.
+
+The project shall meet or exceed all of the mandatory measures in Chapter 4, Divisions 4.1 through 4.5 and Chapter 7 as applicable.
+
+A4.601.4.2 Prerequisite and elective measures for Tier 1.
+
+In addition to the mandatory measures, compliance with the following prerequisite and elective measures from Appendix A4 is also required to achieve Tier 1 status:
+
+1.From Division A4.1, Planning and Design.
+
+1.1.Comply with the topsoil protection requirements in Section A4.106.2.3.
+
+1.2.Comply with the 20 percent permeable paving requirements in Section A4.106.4.
+
+1.3.Comply with the cool roof requirements in Section A4.106.5.
+
+1.4.Comply with the Tier 1 electric vehicle (EV) charging requirements in Section A4.106.8.
+
+1.5.Comply with at least two elective measures selected from Division A4.1.
+
+2.From Division A4.2, Energy Efficiency.
+
+2.1.For newly constructed low-rise residential buildings, comply with the energy efficiency requirements in Sections A4.203.1, A4.203.1.1, Table A4.203.1.1, A4.203.1.2 and A4.203.1.3.
+
+3.From Division A4.3, Water Efficiency and Conservation.
+
+3.1.Comply with at least two elective measures selected from Division A4.3.
+
+4.From Division A4.4, Material Conservation and Resource Efficiency.
+
+4.1.Comply with the 20 percent cement reduction requirements in Section A4.403.2.
+
+4.2.Comply with the 10 percent recycled content requirements in Section A4.405.3.1.
+
+4.3.Comply with the 65 percent reduction in construction waste in Section A4.408.1.
+
+4.4.Comply with at least two elective measures selected from Division A4.4.
+
+5.From Division A4.5, Environmental Quality.
+
+5.1.Comply with the 90 percent resilient flooring systems requirements in Section A4.504.2.
+
+5.2.Comply with the thermal insulation requirements for Tier 1 in Section A4.504.3.
+
+5.3.Comply with at least one elective measure selected from Division A4.5.
+
+Note: The Residential Occupancies Application Checklist contained in Section A4.602 may be used to show which elective measures are selected.
+
+A4.601.5 Tier 2.
+
+To achieve Tier 2 status a project must comply with the following.
+
+Note: The measures necessary to achieve Tier 2 status are very stringent. Cities, counties, and cities and counties considering adoption of Tier 2 as mandatory should carefully consider the stringency of each measure and ensure that the measures are achievable in their location.
+
+A4.601.5.1 Mandatory measures for Tier 2.
+
+The project shall meet or exceed all of the mandatory measures in Chapter 4, Divisions 4.1 through 4.5 and Chapter 7 as applicable.
+
+A4.601.5.2 Prerequisite and elective measures for Tier 2.
+
+In addition to the mandatory measures, compliance with the following prerequisite and elective measures from Appendix A4 is also required to achieve Tier 2 status.
+
+1.From Division A4.1, Planning and Design.
+
+1.1.Comply with the topsoil protection requirements for Tier 1 and Tier 2 in Section A4.106.2.3.
+
+1.2.Comply with the 30 percent permeable paving requirements in Section A4.106.4.
+
+1.3.Comply with the cool roof requirements in Section A4.106.5.
+
+1.4.Comply with the Tier 2 electric vehicle (EV) charging requirements in Section A4.106.8.
+
+1.5.Comply with at least four elective measures selected from Division A4.1.
+
+2.From Division A4.2, Energy Efficiency.
+
+2.1.For newly constructed low-rise residential buildings, comply with the energy efficiency requirements in Sections A4.203.1, A4.203.1.1, Table A4.203.1.1, A4.203.1.2 and A4.203.1.3.
+
+3.From Division A4.3, Water Efficiency and Conservation.
+
+3.1.Comply with at least three elective measures selected from Division A4.3.
+
+4.From Division A4.4, Material Conservation and Resource Efficiency.
+
+4.1.Comply with the 25 percent cement reduction requirements in Section A4.403.2.
+
+4.2.Comply with the 15 percent recycled content requirements in Section A4.405.3.1.
+
+4.3.Comply with the 75 percent reduction in construction waste in Section A4.408.1.
+
+4.4.Comply with at least four elective measures selected from Division A4.4.
+
+5.From Division A4.5, Environmental Quality.
+
+5.1.Comply with the 100 percent resilient flooring systems requirements in Section A4.504.2.
+
+5.2.Comply with the thermal insulation requirements for Tier 1 and Tier 2 in Section A4.504.3.
+
+5.3.Comply with at least one elective measure selected from Division A4.5.
+
+Note: The Residential Occupancies Application Checklist contained in Section A4.602 may be used to show which elective measures are selected.
+
+SECTION A4.602 RESIDENTIAL OCCUPANCIES APPLICATION CHECKLIST
+
+	FEATURE OR MEASURE	LEVELS APPLICANT TO SELECT ELECTIVE MEASURES	VERIFICATIONS ENFORCING AGENCY TO SPECIFY VERIFICATION METHOD
+	Mandatory	Prerequisites and electives1	Enforcing Agency◻All	Installer or Designer◻All	Third party◻All
+	Tier 1	Tier 2
+	PLANNING AND DESIGN	
+	Site Selection	
+	A4.103.1 A site which complies with at least one of the following characteristics is selected:						
+	1. An infill site is selected.		◻	◻	◻	◻	◻
+	2. A greyfield site is selected.		◻	◻	◻	◻	◻
+	3. An EPA-recognized Brownfield site is selected.		◻	◻	◻	◻	◻
+	A4.103.2 Facilitate community connectivity by one of the following methods:						
+	1. Locate project within a 1/4-mile true walking distance of at least 4 basic services;		◻	◻	◻	◻	◻
+	2. Locate project within 1/2-mile true walking distance of at least 7 basic services;		◻	◻	◻	◻	◻
+	3. Other methods increasing access to additional resources.		◻	◻	◻	◻	◻
+	Site Preservation	
+	A4.104.1 An individual with oversight responsibility for the project has participated in an educational program promoting environmentally friendly design or development and has provided training or instruction to appropriate entities.		◻	◻	◻	◻	◻
+	Deconstruction and Reuse of Existing Materials	
+	A4.105.2 Existing buildings are disassembled for reuse or recycling of building materials. The proposed structure utilizes at least one of the following materials which can be easily reused:		◻	◻	◻	◻	◻
+	1. Light fixtures
+	2. Plumbing fixtures
+	3. Doors and trim
+	4. Masonry
+	5. Electrical devices
+	6. Appliances
+	7. Foundations or portions of foundations
+	Site Development	
+	4.106.2 A plan is developed and implemented to manage storm water drainage during construction.	⌧					
+	4.106.3 Construction plans shall indicate how site grading or a drainage system will manage all surface water flows to keep water from entering buildings.	⌧			◻	◻	◻
+>	4.106.4.1 Provide capability for electric vehicle charging for one-and two-family dwellings; townhouses with attached private garages in accordance with Section 4.106.4.1	⌧	◻	◻	◻	◻	◻
+	4.106.4.2 Provide capability for electric vehicle charging for multifamily dwellings and hotels/motels in accordance with Sections 4.106.4.2.1 or 4.106.4.2.2, as applicable.	⌧	◻	◻	◻	◻	◻
+	4.106.4.3 Provide capability for electric vehicle charging for existing parking lots or new parking lots for existing residential buildings in accordance with Section 4.106.4.3, as applicable.	⌧	◻	◻	◻	◻	◻
+	A4.106.1 Reserved		◻	◻	◻	◻	◻
+	A4.106.2.1 Soil analysis is performed by a licensed design professional and the findings utilized in the structural design of the building.		◻	◻	◻	◻	◻
+	A4.106.2.2 Soil disturbance and erosion are minimized by at least one of the following:						
+	1. Natural drainage patterns are evaluated and erosion controls are implemented to minimize erosion during construction and after occupancy.	◻	◻	◻	◻	◻
+	2. Site access is accomplished by minimizing the amount of cut and fill needed to install access roads and driveways.	◻	◻	◻	◻	◻
+	3. Underground construction activities are coordinated to utilize the same trench, minimize the amount of time the disturbed soil is exposed and the soil is replaced using accepted compaction methods.	◻	◻	◻	◻	◻
+	A4.106.2.3 Topsoil shall be protected or saved for reuse as specified in this section.				◻	◻	◻
+	Tier 1. Displaced topsoil shall be stockpiled for reuse in a designated area and covered or protected from erosion.	⌧2	⌧2			
+	Tier 2. The construction area shall be identified and delineated by fencing or flagging to limit construction activity to the construction area.		⌧2			
+	A4.106.3 Postconstruction landscape designs accomplish one or more of the following:						
+	1. Areas disrupted during construction are restored to be consistent with native vegetation species and patterns.	◻	◻	◻	◻	◻
+	2. Utilize at least 75 percent native California or drought tolerant plant and tree species appropriate for the climate zone region.	◻	◻	◻	◻	◻
+	A4.106.4 Permeable paving is utilized for the parking, walking or patio surfaces in compliance with the following:						
+	Tier 1. Not less than 20 percent of the total parking, walking or patio surfaces shall be permeable.	⌧2		◻	◻	◻
+	Tier 2. Not less than 30 percent of the total parking, walking or patio surfaces shall be permeable.		⌧2	◻	◻	◻
+	A4.106.5 Roofing materials shall have a minimum 3-year aged solar reflectance and thermal emittance or a minimum Solar Reflectance Index (SRI) equal to or greater than the values specified in the applicable tables.						
+	Low-rise Residential
+	Tier 1 roof covering shall meet or exceed the values contained in Table A4.106.5.1(1).		⌧2		◻	◻	◻
+	Tier 2 roof covering shall meet or exceed the values contained in Table A4.106.5.1(2).		⌧2	◻	◻	◻
+	High-rise Residential, Hotels and Motels					
+	Tier 1 roof covering shall meet or exceed the values contained in Table A4.106.5.1(3).	⌧2		◻	◻	◻
+	Tier 2 roof covering shall meet or exceed the values contained in Table A4.106.5.1(4).		⌧2	◻	◻	◻
+	A4.106.6 Install a vegetated roof for at least 50 percent of the roof area. Vegetated roofs shall comply with requirements for roof gardens and landscaped roofs in the California Building Code, Chapters 15 and 16.		◻	◻	◻	◻	◻
+	A4.106.7 Reduce nonroof heat islands for 50 percent of sidewalks, patios, driveways or other paved areas by using one or more of the methods listed.		◻	◻	◻	◻	◻
+	A4.106.8.1 Tier 1 and Tier 2 for one- and two-family dwellings and townhouses with attached private garages. Install a dedicated 208/240-volt branch circuit, including an overcurrent protective device rated at 40 amperes minimum per dwelling unit.		⌧2	⌧2	◻	◻	◻
+	A4.106.8.2.1 Provide capability for future electric vehicle charging in new multifamily dwellings, hotels and motels, as specified.						
+	Tier 1. 35 percent of the total number of parking spaces shall be electric vehicle (EV ready) with low power Level 2 EV charging receptacles. For projects with 20 or more dwelling units, sleeping units or guest rooms, 10 percent of the total number of parking spaces shall be equipped with Level 2 EVSE.	⌧2		◻	◻	◻
+	Tier 2. 40 percent of the total number of parking spaces shall be electric vehicle (EV ready) with low power Level 2 EV charging receptacles. For projects with 20 or more dwelling units, sleeping units or guest rooms, 15 percent of the total number of parking spaces shall be equipped with Level 2 EVSE.		⌧2	◻	◻	◻
+	A4.106.9 Provide bicycle parking facilities as noted below or meet a local ordinance, whichever is more stringent. Number of bicycle parking spaces may be reduced, as approved by the enforcing agency, due to building site characteristics, including but not limited to, isolation from other development.						
+	1. Provide short-term bicycle parking, per Section A4.106.9.1.	◻	◻	◻	◻	◻
+	2. Provide long-term bicycle parking for multifamily buildings, per Section A4.106.9.2.	◻	◻	◻	◻	◻
+	3. Provide long-term bicycle parking for hotel and motel buildings, per Section A4.106.9.3.	◻	◻	◻	◻	◻
+	Innovative Concepts and Local Environmental Conditions	
+	A4.108.1 Items in this section are necessary to address innovative concepts or local environmental conditions.						
+	Item 1	◻	◻	◻	◻	◻	◻
+	Item 2	◻	◻	◻	◻	◻	◻
+	Item 3	◻	◻	◻	◻	◻	◻
+	ENERGY EFFICIENCY	
+	General	
+	4.201.1 Building meets or exceeds the requirements of the California Building Energy Efficiency Standards3.	⌧	⌧2	⌧2	◻	◻	◻
+	Performance Approach for Newly Constructed Buildings	
+	A4.203.1.1 Hourly Source Energy Rating (EDR1). EDR1 ratings for building design shall be computed by Energy Compliant software and shall reduce the EDR1 required by the software by the compliance margins specified in Table A4.203.1.1.		⌧2	⌧2	◻	◻	◻
+	A4.203.1.2 Prerequisite options. In addition, a minimum of two of the efficiency measures specified in Sections A4.203.1.2.1 through A4.203.1.2.8 will be required to be met.		⌧2	⌧2	◻	◻	◻
+	· Roof Deck Insulation or Ducts in Conditioned Space.
+	· High-performance Walls.
+	· Compact Hot Water Distribution System.
+	· Drain Water Heat Recovery.
+	· High Performance Vertical Fenestration.
+	· Heat Pump Water Heater Demand Management.
+	· Battery Storage System Controls.
+	· Heat Pump Space and Water Heating.
+	A4.203.1.3 Consultation with local electric service provider. Local jurisdictions considering adoption of reduced EDR targets based on using solar photovoltaic (PV) systems larger than required by the California Energy Code shall consult with the local electric service provider to ensure that that PV system sizing required to comply with the EDR targets will be acceptable to the local electric service provider.		⌧2	⌧2	◻	◻	◻
+	WATER EFFICIENCY AND CONSERVATION	
+	Indoor Water Use	
+	4.303.1 Plumbing fixtures (water closets and urinals) and fittings (showerheads, faucets and pre-rinse spray valves) installed in residential buildings shall comply with the prescriptive requirements of Sections 4.303.1.1 through 4.303.1.4.5.	⌧			◻	◻	◻
+	4.303.2 Submeters for multifamily building and dwelling units in mixed-use residential/commercial buildings. Submeters shall be installed to measure water usage of individual rental dwelling units in accordance with the California Plumbing Code.	⌧			◻	◻	◻
+	4.303.3 Plumbing fixtures and fittings required in Section 4.303.1 shall be installed in accordance with the California Plumbing Code, and shall meet the applicable referenced standards.	⌧			◻	◻	◻
+	A4.303.1 The maximum flow rate of kitchen faucets shall not exceed 1.5 gallons per minute at 60 psi. Kitchen faucets may temporarily increase the flow above the maximum rate, but not to exceed 2.2 gallons per minute at 60 psi, and must default to a maximum flow rate of 1.5 gallons per minute at 60 psi.		◻	◻	◻	◻	◻
+	Note: Where complying faucets are unavailable, aerators or other means may be used to achieve reduction.
+	4.303.1.4.3 Metering faucets in residential buildings shall not deliver more than 0.2 gallons per cycle.	⌧			◻	◻	◻
+	A4.303.2 Alternate water source for nonpotable applications. Alternate nonpotable water sources are used for indoor potable water reduction. Alternate nonpotable water sources shall be installed in accordance with the California Plumbing Code.		◻	◻	◻	◻	◻
+	A4.303.3 Install at least one qualified ENERGY STAR dishwasher or clothes washer.		◻	◻	◻	◻	◻
+	A4.303.4 Nonwater urinals or waterless toilets are installed.		◻	◻	◻	◻	◻
+	A4.303.5 One- and two-family dwellings shall be equipped with a demand hot water recirculation system.		◻	◻	◻	◻	◻
+	Outdoor Water Use	
+	4.304.1 Residential developments shall comply with a local water efficient landscape ordinance or the current California Department of Water Resources’ Model Water Efficient Landscape Ordinance (MWELO), whichever is more stringent.	⌧			◻	◻	◻
+	A4.304.1 A rainwater capture, storage and re-use system is designed and installed.		◻	◻	◻	◻	◻
+	A4.304.2 A landscape design is installed, which does not utilize potable water.		◻	◻	◻	◻	◻
+	A4.304.3 For new water service connections, landscaped irrigated areas less than 5,000 square feet shall be provided with separate submeters or metering devices for outdoor potable water use.		◻	◻	◻	◻	◻
+	Water Reuse Systems	
+	A4.305.1 Piping is installed to permit future use of a graywater irrigation system served by the clothes washer or other fixtures.		◻	◻	◻	◻	◻
+	A4.305.2 Recycled water piping is installed.		◻	◻	◻	◻	◻
+	A4.305.3 Recycled water is used for landscape irrigation.		◻	◻	◻	◻	◻
+	Innovative Concepts and Local Environmental Conditions	
+	A4.306.1 Items in this section are necessary to address innovative concepts or local environmental conditions.						
+	Item 1	◻	◻	◻	◻	◻	◻
+	Item 2	◻	◻	◻	◻	◻	◻
+	Item 3	◻	◻	◻	◻	◻	◻
+	MATERIAL CONSERVATION AND RESOURCE EFFICIENCY	
+	Foundation Systems	
+	A4.403.1 A Frost-protected Shallow Foundation (FPSF) is designed and constructed.		◻	◻	◻	◻	◻
+	A4.403.2 Cement use in foundation mix design is reduced.				◻	◻	◻
+	Tier 1. Not less than a 20 percent reduction in cement use.	⌧2	
+	Tier 2. Not less than a 25 percent reduction in cement use.		⌧2
+	Efficient Framing Techniques	
+	A4.404.1 Beams and headers and trimmers are the minimum size to adequately support the load.		◻	◻	◻	◻	◻
+	A4.404.2 Building dimensions and layouts are designed to minimize waste.		◻	◻	◻	◻	◻
+	A4.404.3 Use premanufactured building systems to eliminate solid sawn lumber whenever possible.		◻	◻	◻	◻	◻
+	A4.404.4 Material lists are included in the plans which specify material quantity and provide direction for on-site cuts.		◻	◻	◻	◻	◻
+	Material Sources	
+	A4.405.1 One or more of the following building materials, that do not require additional resources for finishing are used:		◻	◻	◻	◻	◻
+	1. Exterior trim not requiring paint or stain
+	2. Windows not requiring paint or stain
+	3. Siding or exterior wall coverings which do not require paint or stain
+	A4.405.2 Floors that do not require additional coverings are used including but not limited to stained, natural or stamped concrete floors.		◻	◻	◻	◻	◻
+	A4.405.3 Postconsumer or preconsumer recycled content value (RCV) materials are used on the project.				◻	◻	◻
+	Tier 1. Not less than a 10 percent recycled content value.	⌧2	
+	Tier 2. Not less than a 15 percent recycled content value.		⌧2
+	A4.405.4 Renewable source building products are used.		◻	◻	◻	◻	◻
+	Enhanced Durability and Reduced Maintenance	
+	4.406.1 Annular spaces around pipes, electric cables, conduits or other openings in plates at exterior walls shall be protected against the passage of rodents by closing such openings with cement mortar, concrete masonry or similar method acceptable to the enforcing agency.	⌧			◻	◻	◻
+	Water Resistance and Moisture Management	
+	A4.407.1 Install foundation and landscape drains.		◻	◻	◻	◻	◻
+	A4.407.2 Install gutter and downspout systems to route water at least 5 feet away from the foundation or connect to landscape drains which discharge to a dry well, sump, bioswale, rainwater capture system or other approved on-site location.		◻	◻	◻	◻	◻
+	A4.407.3 Provide flashing details on the building plans and comply with accepted industry standards or manufacturer’s instructions.		◻	◻	◻	◻	◻
+	A4.407.4 Protect building materials delivered to the construction site from rain and other sources of moisture.		◻	◻	◻	◻	◻
+	A4.407.5 In Climate Zone 16 an ice/water barrier is installed at roof valleys, eaves and wall to roof intersections.		◻	◻	◻	◻	◻
+	A4.407.6 Exterior doors to the dwelling are protected to prevent water intrusion.		◻	◻	◻	◻	◻
+	A4.407.7 A permanent overhang or awning at least 2 feet in depth is provided.		◻	◻	◻	◻	◻
+	Construction Waste Reduction, Disposal and Recycling	
+	4.408.1 Recycle and/or salvage for reuse a minimum of 65 percent of the nonhazardous construction and demolition waste in accordance with one of the following:	⌧			◻	◻	◻
+	1. Comply with a more stringent local construction and demolition waste management ordinance; or
+	2. A construction waste management plan, per Section 4.408.2; or
+	3. A waste management company, per Section 4.408.3; or
+	4. The waste stream reduction alternative, per Section 4.408.4.
+	A4.408.1 Construction waste generated at the site is diverted to recycle or salvage in compliance with one of the following:						
+	1. Tier 1 at least a 65 percent reduction with a third-party verification.	⌧2		◻	◻	◻
+	2. Tier 2 at least a 75 percent reduction with a third-party verification.		⌧2	◻	◻	◻
+	Exception: Equivalent waste reduction methods are developed by working with local agencies.
+						
+	Building Maintenance and Operation	
+	4.410.1 An operation and maintenance manual shall be provided to the building occupant or owner.	⌧			◻	◻	◻
+	4.410.2 Where 5 or more multifamily dwelling units are constructed on a building site, provide readily accessible areas that serve the entire building and are identified for the depositing, storage and collection of non-hazardous materials for recycling, including (at a minimum) paper, corrugated cardboard, glass, plastics, organic waste, and metals or meet a lawfully enacted local recycling ordinance, if more restrictive.	⌧			◻	◻	◻
+	Exception: Rural jurisdictions that meet and apply for the exemption in Public Resources Code Section 42649.82 (a)(2)(A) et seq. will also be exempt from the organic waste portion of this section.
+						
+	Innovative Concepts and Local Environmental Conditions	
+	A4.411.1 Items in this section are necessary to address innovative concepts or local environmental conditions.						
+	Item 1	◻	◻	◻	◻	◻	◻
+	Item 2	◻	◻	◻	◻	◻	◻
+	Item 3	◻	◻	◻	◻	◻	◻
+	ENVIRONMENTAL QUALITY	
+	Fireplaces	
+	4.503.1 Any installed gas fireplace shall be a direct-vent sealed-combustion type. Any installed woodstove or pellet stove shall comply with US EPA New Source Performance Standards (NSPS) emission limits as applicable, and shall have a permanent label indicating they are certified to meet the emission limits. Woodstoves, pellet stoves and fireplaces shall also comply with applicable local ordinances.	⌧			◻	◻	◻
+	Pollutant Control	
+	4.504.1 Duct openings and other related air distribution component openings shall be covered during construction.	⌧			◻	◻	◻
+	4.504.2.1 Adhesives, sealants and caulks shall be compliant with VOC and other toxic compound limits.	⌧			◻	◻	◻
+	4.504.2.2 Paints, stains and other coatings shall be compliant with VOC limits.	⌧			◻	◻	◻
+	4.504.2.3 Aerosol paints and coatings shall be compliant with product weighted MIR limits for ROC and other toxic compounds.	⌧			◻	◻	◻
+	4.504.2.4 Documentation shall be provided to verify that compliant VOC limit finish materials have been used.	⌧			◻	◻	◻
+	4.504.3 Carpet and carpet systems shall be compliant with VOC limits.	⌧			◻	◻	◻
+	4.504.4 80 percent of floor area receiving resilient flooring shall comply with specified VOC criteria.	⌧			◻	◻	◻
+	4.504.5 Particleboard, medium density fiberboard (MDF) and hardwood plywood used in interior finish systems shall comply with low formaldehyde emission standards.	⌧			◻	◻	◻
+	A4.504.1 Use composite wood products made with either California Air Resources Board approved no-added formaldehyde (NAF) resins or ultra-low emitting formaldehyde (ULEF) resins.		◻	◻	◻	◻	◻
+	A4.504.2 Install VOC compliant resilient flooring systems.				◻	◻	◻
+	Tier 1. At least 90 percent of the resilient flooring installed shall comply.	⌧2	
+	Tier 2. 100 percent of the resilient flooring installed shall comply.		⌧2
+	A4.504.3 Thermal insulation installed in the building shall meet the following requirements:				◻	◻	◻
+	Tier 1. Install thermal insulation in compliance with VOC limits.	⌧2	
+	Tier 2. Install insulation which contains no-added formaldehyde (NAF) and is in compliance with Tier 1.		⌧2
+	Interior Moisture Control	
+	4.505.2 Vapor retarder and capillary break is installed at slab-on-grade foundations.	⌧			◻	◻	◻
+	4.505.3 Moisture content of building materials used in wall and floor framing is checked before enclosure.	⌧			◻	◻	◻
+	Indoor Air Quality and Exhaust	
+	4.506.1 Each bathroom shall be provided with the following:	⌧			◻	◻	◻
+	1. ENERGY STAR fans ducted to terminate outside the building.		
+	2. Fans must be controlled by a humidity control (separate or built-in); OR functioning as a component of a whole-house ventilation system.		
+	3. Humidity controls with manual or automatic means of adjustment, capable of adjustment between a relative humidity range of ≤ 50 percent to a maximum of 80 percent.		
+	A4.506.1 Reserved.		◻	◻	◻	◻	◻
+	A4.506.2 [HR] Provide filters on return air openings rated MERV 8 or higher during construction when it is necessary to use HVAC equipment.		◻	◻	◻	◻	◻
+	A4.506.3 Direct-vent appliances shall be used when equipment is located in conditioned space; or the equipment must be installed in an isolated mechanical room.		◻	◻	◻	◻	◻
+	Environmental Comfort	
+	4.507.2 Duct systems are sized, designed and equipment is selected using the following methods:	⌧			◻	◻	◻
+	1. Establish heat loss and heat gain values according to ANSI/ACCA 2 Manual J-2016 or equivalent.
+	2. Size duct systems according to ANSI/ACCA 1 Manual D-2016 or equivalent.
+	3. Select heating and cooling equipment according to ANSI/ACCA 3 Manual S-2014 or equivalent.
+	Outdoor Air Quality Reserved	
+	Innovative Concepts and Local Environmental Conditions
+	A4.509.1 Items in this section are necessary to address innovative concepts or local environmental conditions.						
+	Item 1		◻	◻	◻	◻	◻
+	Item 2		◻	◻	◻	◻	◻
+	Item 3		◻	◻	◻	◻	◻
+	Installer and Special Inspector Qualifications	
+	Qualifications
+	702.1 HVAC system installers are trained and certified in the proper installation of HVAC systems.	⌧			◻	◻	◻
+	702.2 Special inspectors employed by the enforcing agency must be qualified and able to demonstrate competence in the discipline they are inspecting.	⌧			◻	◻	◻
+	Verifications	
+	703.1 Verification of compliance with this code may include construction documents, plans, specifications builder or installer certification, inspection reports or other methods acceptable to the enforcing agency which show substantial conformance.	⌧			◻	◻	◻1.Green building measures listed in this table may be mandatory if adopted by a city, county, or city and county as specified in Section 101.7.
+
+2.Required prerequisite for this Tier.
+
+3.These measures are currently required elsewhere in statute or in regulation.
+
+Division A4.7– RESIDENTIAL MODEL ORDINANCE Division Division A4.7– A4.7– RESIDENTIAL MODEL ORDINANCE RESIDENTIAL MODEL ORDINANCE
+
+A4.701.1 General.
+
+The voluntary measures of this code are designed and promulgated to be adopted by reference and made mandatory by local ordinance pursuant to Section 101.7. Jurisdictions wishing to adopt the voluntary provisions of this code as an enforceable regulation governing structures and premises should ensure that certain factual information is included in the adopting ordinance and that the measures are appropriate and achievable and are considered to be suitable as mandatory by the city, county, or city and county. The following sample adoption ordinance addresses several key elements of a code adoption ordinance, including the information required for insertion into the code text.
+
+This code does not limit the authority of city, county, or city and county government to make necessary changes to the provisions contained in this code.
+
+SAMPLE RESOLUTION FOR ADOPTION OFTHE TIER 1 OR TIER 2 PROVISIONS OF THE CALIFORNIA GREEN BUILDING STANDARDS CODE WITH OR WITHOUTADDITIONAL ITEMS NECESSARY TO ADDRESS INNOVATIVE CONCEPTS OR LOCAL ENVIRONMENTAL CONDITIONS.
+
+ATTACHMENT___.
+
+SAMPLE RESOLUTION ADOPTING THE CALIFORNIA GREEN BUILDING STANDARDS CODEAPPENDICES AS A MANDATORY REFERENCE STANDARD
+
+CITY OF ___________________
+
+RESOLUTION # ______________
+
+RESOLUTION ADOPTING ENHANCED GREEN BUILDING MEASURES FOR NEW AND EXISTING RESIDENTIAL CONSTRUCTION.
+
+WHEREAS, the City/County of ______ ‘s (City or County) General Plan sets forth goals for preserving and improving the natural and built environment of the City/County, protecting the health of its residents and visitors, and fostering its economy; and
+
+WHEREAS, green building is a holistic approach to design, construction and demolition that minimizes the building’s impact on the environment, the occupants and the community; and
+
+WHEREAS, green buildings benefit building industry professionals, residents and communities by improving construction quality; increasing building durability; reducing utility, maintenance, water and energy costs; creating healthier homes; and enhancing comfort and livability; and
+
+WHEREAS, the California Green Building Standards Code appendices have included voluntary tiers to provide a city, county, or city and county, building professionals, and the general public with a range of voluntary green building measures for builders to choose from when constructing homes in California; and
+
+WHEREAS, the California Green Building Standards Code appendices benefited from extensive input from a city, county, or city and county, building professionals, State agencies, and recognized green building professionals and the practices contained in these guidelines were selected for their viability in today’s market and their ability to promote sustainable buildings and communities; and
+
+WHEREAS, adoption of the California Green Building Standards Code appendices promotes statewide consistency and predictability for building professionals; and
+
+NOW THEREFORE, BE IT RESOLVED, that the City/County hereby finds that green building design, construction and operation furthers the goals set forth in the City/County General Plan, including land use, conservation, open space and (include others, if applicable.)
+
+NOW THEREFORE, BE IT RESOLVED, that newly constructed residential buildings, alterations or additions to residential buildings shall meet the _______ (Tier 1 or Tier 2) measures contained in the California Green Building Standards Code appendices and the green building design, construction and operation innovative concepts or additions or amendment thereto contained in Attachment _____ to address local environmental conditions; and;
+
+NOW THEREFORE, BE IT FURTHER RESOLVED, that the City Council or County Board of Supervisors of the City/County of ___________ adopts the California Green Building Standards Code appendices, as they may be amended from time to time, as a City/County mandatory reference document and directs City/County staff to enforce these green building measures as mandatory standards within the City/County.
+
+ADOPTED BY THE FOLLOWING VOTE:
+
+AYES:
+
+NOES:
+
+ABSENT:
+

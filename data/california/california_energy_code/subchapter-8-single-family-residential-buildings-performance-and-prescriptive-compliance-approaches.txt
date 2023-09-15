@@ -1,0 +1,360 @@
+SUBCHAPTER 8 SINGLE-FAMILY RESIDENTIAL BUILDINGS—PERFORMANCE AND PRESCRIPTIVE COMPLIANCE APPROACHES
+
+SECTION 150.1 PERFORMANCE AND PRESCRIPTIVE COMPLIANCE APPROACHES FOR SINGLE-FAMILY RESIDENTIAL BUILDINGS
+
+(a) Basic requirements. Single-family residential buildings shall meet all of the following:
+
+1. The applicable requirements of Sections 110.0 through 110.10.
+
+2. The applicable requirements of Section 150.0 (mandatory features).
+
+3. Either the performance standards or the prescriptive standards set forth in this section for the climate zone in which the building is located. Climate zones are shown in Reference Joint Appendix JA2–Weather/Climate Data.
+
+Exception to Section 150.1(a)3: If a single contiguous subdivision or tract falls in more than one climate zone, all buildings in the subdivision or tract may be designed to meet the performance or prescriptive standards for the climate zone that contains 50 percent or more of the dwelling units.
+
+Note: The Commission periodically updates, publishes, and makes available to interested persons and local enforcement agencies precise descriptions of the climate zones, as specified in Reference Joint Appendix JA2–Weather/Climate Data.
+
+Note: The requirements of Sections 150.0(a) through 150.0(r) apply to newly constructed buildings and Sections 150.2(a) and 150.2(b) specifies changes to the requirements of Sections 150.1(a) through 150.1(c) that apply to additions or alterations.
+
+(b) Performance standards. A building complies with the performance standards if the energy consumption calculated for the proposed design building is no greater than the energy budget calculated for the standard design building using Commission-certified compliance software as specified by the Alternative Calculation Methods Approval Manual.
+
+1. Newly constructed buildings. The Energy Budget for newly constructed buildings is expressed in terms of the Energy Design Ratings, which are based on source energy and time-dependent valuation (TDV) energy. The Energy Design Rating 1 (EDR1) is based on source energy. The Energy Design Rating 2 (EDR2) is based on TDV energy and has two components, the Energy Efficiency Design Rating, and the Solar Electric Generation and Demand Flexibility Design Rating. The total Energy Design Rating shall account for both the Energy Efficiency Design Rating and the Solar Electric Generation and Demand Flexibility Design Rating. The proposed building shall separately comply with the Source Energy Design Rating, Energy Efficiency Design Rating and Total Energy Design Rating.
+
+Exception to Section 150.1(b)1. A community shared solar electric generation system, or other renewable electric generation system, or community shared battery storage system, which provides dedicated power, utility energy reduction credits, or payments for energy bill reductions to the permitted building and is approved by the Energy Commission as specified in Title 24, Part 1, Section 10-115, may offset part or all of the solar electric generation system and demand flexibility Energy Design Rating required to comply with the Standards, as calculated according to methods established by the Commission in the Residential ACM Reference Manual.
+
+2. Additions and alterations to existing buildings. The energy budget for additions and alterations is expressed in terms of TDV energy.
+
+3. Compliance demonstration requirements for performance standards.
+
+A. Certificate of compliance and application for a building permit. The application for a building permit shall include documentation pursuant to Sections 10-103(a)1 and 10-103(a)2 which demonstrates, using an approved calculation method, that the building has been designed so that its Energy Efficiency Design Rating and the total EDR meets or exceeds the standard design EDR for the applicable climate zone.
+
+Exception to Section 150.1(b)3A Multiple orientation: A permit applicant may demonstrate compliance with the energy budget requirements of Section 150.1(a) and (b) for any orientation of the same building model if the documentation demonstrates that the building model with its proposed designs and features would comply in each of the four cardinal orientations.
+
+B. Field verification. When performance of installed features, materials, components, manufactured devices or systems above the minimum specified in Section 150.1(c) is necessary for the building to comply with Section 150.1(b), or is necessary to achieve a more stringent local ordinance, field verification shall be performed in accordance with the applicable requirements in the following subsections, and the results of the verification(s) shall be documented on applicable certificates of installation pursuant to Section 10-103(a)3 and applicable certificates of verification pursuant to Section 10-103(a)5.
+
+i. EER/EER2/SEER/SEER2/CEER/HSPF/HSPF2 Rating. When performance compliance requires installation of a space-conditioning system with a rating that is greater than the minimum rating required by Table 150.1-A or specified for the standard design, the installed system shall be field verified in accordance with the procedures specified in the applicable sections of Reference Residential Appendix RA3.4.
+
+ii. Variable capacity heat pump (VCHP) compliance option. When performance compliance requires installation of a heat pump system that meets all the requirements of the VCHP compliance option specified in the ACM Reference Manual, the system shall be field verified in accordance with the procedures in Reference Residential Appendix RA3.4.4.3.
+
+iii.Low leakage air handler. When performance compliance requires installation of a low leakage air-handling unit, the installed air-handling unit shall be field verified in accordance with the procedures specified in Reference Residential Appendix RA3.1.4.3.9.
+
+iv.Reserved.
+
+v.  Heat pump—rated heating capacity. When performance compliance requires installation of a heat pump system, the heating capacity values at 47°F and 17°F shall be field verified in accordance with the procedures specified in Reference Residential Appendix RA3.4.
+
+vi. Whole-house fan. When performance compliance requires installation of a whole-house fan, the whole-house fan ventilation airflow rate and fan efficacy shall be field verified in accordance with the procedures in Reference Residential Appendix RA3.9.
+
+vii. Central fan ventilation cooling system. When performance compliance requires installation of a central fan ventilation cooling system, the installed system shall be field verified in accordance with the procedures in Reference Residential Appendix RA3.3.4.
+
+viii. Building enclosure air leakage. When performance compliance requires a building enclosure leakage rate that is lower than the standard design, the building enclosure shall be field verified in accordance with the procedures specified in Reference Residential Appendix RA3.8.
+
+ix. Quality Insulation Installation (QII). When performance compliance requires field verification of QII, the building insulation system shall be field verified in accordance with the procedures in Reference Residential Appendix RA3.5.
+
+(c) Prescriptive standards/component packages. Buildings that comply with the prescriptive standards shall be designed, constructed and equipped to meet all of the requirements for the appropriate climate zone shown in Table 150.1-A. In Table 150.1-A, an NA (not allowed) means that feature is not permitted in a particular climate zone and an NR (no requirement) means that there is no prescriptive requirement for that feature in a particular climate zone. Installed components shall meet the following requirements:
+
+1. Insulation.
+
+A. Roof and ceiling insulation shall be installed in a ventilated attic with an R-value equal to or greater  than that shown in Table 150.1-A meeting Option ii or iii below.
+
+i.Option A: Reserved.
+
+ii.Option B: A minimum R-value of insulation installed between the roof rafters in contact with the roof deck and an additional layer of ceiling insulation located between the attic and the conditioned space when meeting Section 150.1(c)9A; or
+
+iii.Option C: A minimum R-value of ceiling insulation located between the attic and the conditioned space when meeting Section 150.1(c)9B.
+
+Note:  Low-rise residential single-family buildings with the ducts and air handler located in the conditioned space, as specified by Section 150.1(c)9B, need only comply with insulation requirements of Option C.
+Note:  Low-rise residential single-family buildings with the ducts and air handler located in the conditioned space, as specified by Section 150.1(c)9B, need only comply with insulation requirements of Option C.
+
+B.Walls.
+
+i.Framed exterior walls shall be insulated such that the exterior wall has an assembly U-factor equal to or less than that shown in Table 150.1-A. The  U-factors shown are maximum U-factors for the exterior wall assembly.
+
+ii.Mass walls above grade and below grade shall be insulated such that the wall has an assembly U-factor equal to or less than that shown in Table 150.1-A, or walls shall be insulated with continuous insulation that has an R-value equal to or greater than that shown in Table 150.1-A. “Interior” denotes continuous insulation installed on the inside surface of the wall, and “exterior” denotes continuous insulation installed on the outside surface of the wall.
+
+iii.Other unframed exterior walls, excluding mass walls, shall meet the requirements for framed walls shown in Table 150.1-A.
+
+C. Raised floors shall be insulated such that the floor assembly has an assembly U-factor equal to or less than shown in Table 150.1-A, or shall be insulated between wood framing with insulation having an R-value equal to or greater than that shown in Table 150.1-A.
+
+Exception to Section 150.1(c)1C: Raised-floor insulation may be omitted if the foundation walls are insulated to meet the wall insulation minimums shown in Table 150.1-A, and a vapor retarder is placed over the entire floor of the crawl space, and the vents are fitted with automatically operated louvers, and the requirements of Reference Residential Appendix RA4.5.1 are met.
+
+D. Slab floor perimeter insulation shall be installed with a U-factor equal to or less than, or R-value equal to or greater than, shown in Table 150.1-A. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.
+
+Exception to Section 150.1(c)1: The insulation requirements of Table 150.1-A may also be met by ceiling, roof deck, wall, or floor assemblies that meet the required maximum U-factors using a U-factor calculation method that considers the thermal effects of all elements of the assembly and is approved by the executive director.
+
+E. All buildings shall comply with the quality insulation installation (QII) requirements shown in Table 150.1-A. When QII is required, insulation installation shall meet the criteria specified in Reference Appendix RA3.5.
+
+2. Radiant barrier. A radiant barrier required in Table 150.1-A  shall meet the requirements specified in Section 110.8(j), and shall meet the installation criteria specified in the Reference Residential Appendix RA4.
+
+3. Fenestration.
+
+A. Installed fenestration products, including glazed doors, shall have an area-weighted average U-factor and Solar Heat Gain Coefficient (SHGC) meeting the applicable fenestration value in Table 150.1-A and shall be determined in accordance with Sections 110.6(a)2 and 110.6(a)3.
+
+Exception 1 to Section 150.1(c)3A: For each dwelling unit, up to 3 square feet of new glazing area installed in doors and up to 3 square feet of new tubular skylights area with dual-pane diffusers shall not be required to meet the U-factor and SHGC requirements of Table 150.1-A.
+
+Exception 2 to Section 150.1(c)3A: For each dwelling unit up to 16 square feet of new skylight area with a maximum U-factor of 0.55 and a maximum SHGC of 0.30.
+
+Exception 3 to Section 150.1(c)3A: For fenestration containing chromogenic type glazing:
+
+i. The lower-rated labeled U-factor and SHGC shall be used with automatic controls to modulate the amount of solar gain and light transmitted into the space in multiple steps in response to daylight levels or solar intensity;
+
+ii. Chromogenic glazing shall be considered separately from other fenestration; and
+
+iii.Area-weighted averaging with other fenestration that is not chromatic shall not be permitted and shall be determined in accordance with Section 110.6(a).
+
+Exception 4 to Section 150.1(c)3A: For dwelling units containing unrated site-built fenestration that meets the maximum area restriction, the U-factor and SHGC can be determined in accordance with the Nonresidential Reference Appendix NA6 or use default values in Table 110.6-A and Table 110.6-B.
+
+B. The maximum total fenestration area shall not exceed the percentage of conditioned floor area CFA as indicated in Table 150.1-A. Total fenestration includes skylights and west-facing glazing.
+
+C. The maximum west-facing fenestration area shall not exceed the percentage of conditioned floor area as indicated in Table 150.1-A. West-facing fenestration area includes skylights tilted in any direction when the pitch is less than 1:12.
+
+4. Shading. Where Table 150.1-A requires a maximum SHGC, the requirements shall be met by one of the following:
+
+A. Complying with the required SHGC pursuant to
+Section 150.1(c)3A, or
+
+B. An exterior operable shading louver or other exterior shading device that meets the required SHGC; or
+
+C. A combination of Items A and B to achieve the same performance as achieved in Section 150.1(c)3A.
+
+D. For south-facing glazing only, optimal overhangs shall be installed so that the south-facing glazing is fully shaded at solar noon on August 21 and substantially exposed to direct sunlight at solar noon on December 21.
+
+E. Exterior shading devices must be permanently secured with attachments or fasteners that are not intended for removal.
+
+Exception to Section 150.1(c)4E: Where the California Building Code (CBC) requires emergency egress or where compliance would conflict with health and safety regulations.
+
+5. Doors. Installed swinging door products separating conditioned space from outside or adjacent unconditioned space, but not including glazed door products, shall have an area-weighted average U-factor no greater than the applicable door value in Table 150.1-A and shall be determined in accordance with Section 110.6(a)2. Glazed door products are treated as fenestration products in Sections 150.1(c)3 and 150.1(c)4.
+
+Exception to Section 150.1(c)5: Swinging doors between the garage and conditioned space that are required to have fire protection are not required to meet the applicable door value in Table 150.1-A.
+
+6. Heating system type. Heating system types shall be installed as required in Table 150.1-A. For Climate Zones 3, 4, 13 and 14, the space-conditioning system shall be a heat pump, or shall meet the performance compliance requirements of Section 150.1(b)1.
+
+Exception to Section 150.1(c)6: A supplemental heating unit may be installed in a space served directly or indirectly by a primary heating system, provided that the unit thermal capacity does not exceed 2 kW or 7,000 Btu/hr and is controlled by a time-limiting device not exceeding 30 minutes.
+
+7. Space heating and space cooling. All space heating and space cooling equipment shall comply with minimum appliance efficiency regulations as specified in Sections 110.0 through 110.2 and meet all applicable requirements of Sections 150.0 and 150.1(c)7A.
+
+A. Refrigerant charge. When refrigerant charge verification or fault indicator display is shown as required by Table 150.1-A, the system shall comply with either Section 150.1(c)7Ai or 150.1(c)7Aii:
+
+i. Air-cooled air conditioners and air-source heat pumps, including but not limited to ducted split systems, ducted packaged systems, small duct high velocity systems, and mini-split systems, shall comply with Subsections a, b and c, unless the system is of a type that cannot be verified using the specified procedures:
+
+a. Have measurement access holes (MAH), installed according to the specifications in Reference Residential Appendix Section RA3.2.2.3; and
+
+Exception to Section 150.1(c)7Aia: Systems that cannot conform to the specifications for hole location in Reference Residential Appendix Figure RA3.2-1, shall not be required to provide holes as described in Figure RA3.2-1.
+
+b. System airflow rate in accordance with Subsection I or II shall be confirmed through field verification and diagnostic testing in accordance with all applicable procedures specified in Reference Residential Appendix Section RA3. 3 or an approved alternative procedure as specified by Section RA1; and
+
+I. For small duct high velocity systems the system airflow rate shall be greater than or equal to 250 cfm per ton; or
+
+II. For all other air-cooled air conditioner or air-source heat pump systems the system airflow rate shall be greater than or equal to 350 cfm per ton.
+
+Exception to Section 150.1(c)7Aib: Standard ducted systems without zoning dampers may comply with the minimum airflow rate by meeting the applicable requirements in Table 150.0-B or 150.0-C as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Section RA3.1.4.4 and RA3.1.4.5. The design clean-filter pressure drop requirements of Section 150.0(m)12D for the system air filter device(s) shall conform to the requirements given in Tables 150.0-B and 150.0-C.
+Exception to Section 150.1(c)7Aib: Standard ducted systems without zoning dampers may comply with the minimum airflow rate by meeting the applicable requirements in Table 150.0-B or 150.0-C as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Section RA3.1.4.4 and RA3.1.4.5. The design clean-filter pressure drop requirements of Section 150.0(m)12D for the system air filter device(s) shall conform to the requirements given in Tables 150.0-B and 150.0-C.
+
+c. The installer shall charge the system according to manufacturer’s specifications. Refrigerant charge shall be verified according to one of the following options, as applicable:
+
+I. The installer and rater shall perform the standard charge procedure as specified by Reference Residential Appendix Section RA3.2.2, or an approved alternative procedure as specified by Section RA1; or
+
+II. The system shall be equipped with a fault indicator display (FID) device that meets the specifications of Reference Joint Appendix JA6. The installer shall verify the refrigerant charge and FID device in accordance with the procedures in Reference Residential Appendix Section RA3.4.2. The HERS Rater shall verify FID device in accordance with the procedures in Section RA3.4.2; or
+
+III. The installer shall perform the weigh-in charging procedure as specified by Reference Residential Appendix Section RA3.2.3.1 provided the system is of a type that can be verified using the Section RA3.2.2 standard charge verification procedure and Section RA3.3 airflow rate verification procedure or approved alternatives in Section RA1. The HERS Rater shall verify the charge using Sections RA3.2.2 and RA3.3 or approved alternatives in Section RA1.
+
+Exception 1 to Section 150.1(c)7Aic: When the outdoor temperature is less than 55°F and the installer utilizes the weigh-in charging procedure in Reference Residential Appendix Section RA3.2.3.1 to verify the refrigerant charge, the installer may elect to utilize the HERS Rater verification procedure in Reference Residential Appendix Section RA3.2.3.2. If the HERS Rater verification procedure in Section RA3.2.3.2 is used for compliance, the system's thermostat shall conform to the specifications in Section 110.12. Ducted systems shall comply with minimum system airflow rate requirement in Section 150.1(c)7Aib.
+Exception 1 to Section 150.1(c)7Aic: When the outdoor temperature is less than 55°F and the installer utilizes the weigh-in charging procedure in Reference Residential Appendix Section RA3.2.3.1 to verify the refrigerant charge, the installer may elect to utilize the HERS Rater verification procedure in Reference Residential Appendix Section RA3.2.3.2. If the HERS Rater verification procedure in Section RA3.2.3.2 is used for compliance, the system's thermostat shall conform to the specifications in Section 110.12. Ducted systems shall comply with minimum system airflow rate requirement in Section 150.1(c)7Aib.
+
+ii. Air-cooled air conditioners and air-source heat pumps, including but not limited to ducted split systems, ducted packaged systems, small duct high-velocity systems and mini-split systems, which are of a type that cannot comply with the requirements of Section 150.1(c)7Ai shall comply with Subsections a and b, as applicable.
+
+I. The installer shall confirm the refrigerant charge using the weigh-in charging procedure specified in Reference Residential Appendix Section RA3.2.3.1, as verified by a HERS Rater according to the procedures specified in Reference Residential Appendix Section RA3.2.3.2.; and
+
+II. Systems that utilize forced air ducts shall comply with the minimum system airflow rate requirement in Section 150.1(c)7Aib provided the system is of a type that can be verified using the procedures in Section RA3.3 or an approved alternative procedure in Section RA1.
+
+Exception to Section 150.1(c)7A: Packaged systems for which the manufacturer has verified correct system refrigerant charge prior to shipment from the factory are not required to have refrigerant charge confirmed through field verification and diagnostic testing. The installer of these packaged systems shall certify on the Certificate of Installation that the packaged system was pre-charged at the factory and has not been altered in a way that would affect the charge. Ducted systems shall comply with minimum system airflow rate requirements in Section 150.1(c)7Aib, provided that the system is of a type that can be verified using the procedure specified in Section RA3.3 or an approved alternative in Section RA1.
+
+8. Domestic water-heating systems. Water-heating systems shall meet the requirements of A, B or C, or shall meet the performance compliance requirements of Section 150.1(b)1. For recirculation distribution systems, only demand recirculation systems with manual on/off control as specified in the Reference Appendix RA4.4.9 shall be used:
+
+A.A single 240 volt heat pump water heater (HPWH). The storage tank shall be located in the garage or conditioned space. In addition, meet the following:
+
+i.A compact hot water distribution system that is field verified as specified in the Reference Appendix RA4.4.6 in Climate Zones 1 and 16; and
+
+ii. A drain water heat recovery system that is field verified as specified in the Reference Appendix RA3.6.9 in Climate Zone 16.
+
+B. A single 240 volt HPWH that meets the requirements of NEEA Advanced Water Heater Specification Tier 3 or higher. In addition, for Climate Zone 16, a drain water heat recovery system that is field verified as specified in Reference Appendix RA3.6.9 and the storage tank shall be located in the garage or conditioned space.
+
+C.  A solar water-heating system with electric backup meeting the installation criteria specified in Reference Residential Appendix RA4 and with a minimum annual solar savings fraction of 0.7.
+
+Exception 1 to Section 150.1(c)8:  For Climate Zones 3, 4, 13 and 14, a gas or propane instantaneous water heater with an input of 200,000 Btu per hour or less and no storage tank may be installed.
+
+NOTE: The space-conditioning system shall be a heat pump as specified in Section 150.1(c)6.
+
+Exception 2 to Section 150.1(c)8:  An instantaneous electric water heater with point of use distribution as specified in RA4.4.5 may be installed for new dwelling units with a conditioned floor area of 500 square feet or less.
+
+Exception 3 to Section 150.1(c)8A and B:  A 120V HPWH may be installed in place of a 240V HPWH 
+for new dwelling unit with one bedroom or fewer.
+
+9. Space conditioning distribution systems. All space conditioning systems shall meet all applicable requirements of A or B below:
+
+A. High performance attics. Air handlers or ducts are allowed to be in ventilated attic spaces when the roof and ceiling insulation level meet Option B in Table 150.1-A. Duct insulation levels shall meet the requirements in Table 150.1-A.
+
+B. Duct and air handlers located in conditioned space. Duct systems and air handlers of HVAC systems shall be located in conditioned space, and confirmed by field verification and diagnostic testing to meet the criterion of Reference Residential Appendix Section RA3.1.4.3.8. Duct insulation levels shall meet the requirements in Table 150.1-A.
+
+Note: Gas heating appliances installed in conditioned spaces must meet the combustion air requirements of the California Mechanical Code Chapter 7, as applicable.
+Note: Gas heating appliances installed in conditioned spaces must meet the combustion air requirements of the California Mechanical Code Chapter 7, as applicable.
+
+10. Central fan integrated ventilation systems. Central forced air system fans used to provide outside air shall have an air-handling unit fan efficacy less than or equal to the maximum W/cfm specified in A, B or C. The airflow rate and fan efficacy requirements in this section shall be confirmed through field verification and diagnostic testing in accordance with all applicable procedures specified in Reference Residential Appendix RA3.3. Central fan integrated ventilation systems shall be certified to the Energy Commission as intermittent ventilation systems as specified in Reference Residential Appendix RA3.7.4.2.
+
+A. 0.45 W/cfm for gas furnace air-handling units.
+
+B. 0.58 W/cfm for air-handling units that are not gas furnaces.
+
+C. 0.62 W/cfm for small-duct high-velocity air-handling units.
+
+Exception to Section 150.1(c)10A:  Gas furnace air-handling units manufactured prior to July 3, 2019 shall comply with a fan efficacy value less than or equal to 0.58 w/cfm as confirmed by field verification and diagnostic testing in accordance with the procedures given in Reference Residential Appendix RA3.3.
+
+11. Roofing products. All roofing products shall meet the requirements of Section 110.8 and the applicable requirements of Subsection A or B:
+
+A.Single-family residential buildings with steep-sloped roofs in climate zones 10 through 15 shall have a minimum aged solar reflectance of 0.20 and a minimum thermal emittance of 0.75, or a minimum SRI of 16.
+
+B. Single-family residential buildings with low-sloped roofs, in climate zones 13 and 15 shall have a minimum aged solar reflectance of 0.63 and a minimum thermal emittance of 0.75 or a minimum SRI of 75.
+
+Exception 1 to Section 150.1(c)11:  Building integrated photovoltaic panels and building integrated solar thermal panels are exempt from the minimum requirements for aged solar reflectance and thermal emittance or SRI.
+
+Exception 2 to Section 150.1(c)11:  Roof constructions with a weight of at least 25 lb/ft2 are exempt from the minimum requirements for aged solar reflectance and thermal emittance or SRI.
+
+12. Ventilation cooling. Single-family homes shall comply with the whole-house fan (WHF) requirements shown in Table 150.1-A. When a WHF is required, comply with Subsections A, B and C below.
+
+A. Have installed one or more WHFs whose total airflow cfm is equal to or greater than 1.5 cfm/ft2 of conditioned floor area. Airflow cfm for WHFs shall be determined based on the airflow listed in the Home Ventilating Institute Certified Products Directory.
+
+B. Have at least 1 square foot of attic vent free area for each 750 cfm of rated whole-house fan airflow cfm, or if the manufacturer has specified a greater free vent area, the manufacturer’s free vent area specifications.
+
+Exception to Section 150.1(c)12B: WHFs that are directly vented to the outside.
+
+C. Provide homeowners who have WHFs with a one page “How to operate your whole-house fan” informational sheet.
+
+Exception to Section 150.1(c)12: New dwelling units with a conditioned floor area of 500 square feet or less shall not be required to comply with the WHF requirements.
+
+13. HVAC system bypass ducts. Bypass ducts that deliver conditioned supply air directly to the space-conditioning system return duct airflow shall not be used.
+
+14. Photovoltaic requirements. All single-family residential buildings shall have a newly installed photovoltaic (PV) system or newly installed PV modules meeting the minimum qualification requirements specified in Joint Appendix JA11. The annual electrical output of the PV system shall be no less than the smaller of a PV system size determined using Equation 150.1-C, or the maximum PV system size that can be installed on the building’s solar access roof area (SARA).
+
+A. SARA includes the area of the building’s roof space capable of structurally supporting a PV system, and the area of all roof space on covered parking areas, carports and all other newly constructed structures on the site that are compatible with supporting a PV system per Title 24, Part 2, Section 1511.2.
+
+B. SARA does NOT include:
+
+i. Any roof area that has less than 70 percent annual solar access. Annual solar access is determined by dividing the total annual solar insolation, accounting for shading obstructions, by the total annual solar insolation if the same areas were unshaded by obstructions. For steep slope roofs, only shading from existing permanent natural or manmade obstructions that are external to the dwelling, including but not limited to trees, hills, and adjacent structures, shall be considered for annual solar access calculations. For low slope roofs, all obstructions, including those that are external to the dwelling unit, and obstructions that are part of the building design and elevation features shall be considered for the annual solar access calculations.
+
+ii. Occupied roof areas as specified by CBC Section 503.1.4.
+
+iii. Roof area that is otherwise not available due to compliance with other building code requirements if confirmed by the Executive Director.
+
+where:
+
+kWPV = kWdc size of the PV system.
+
+CFA = Conditioned floor area.
+
+NDU = Number of dwelling units.
+
+A =  CFA adjustment factor from Table 150.1-C.
+
+B = Dwelling unit adjustment factor from Table 150.1-C.
+
+Exception 1 to Section 150.1(c)14: For steep slope roofs, SARA shall not consider roof areas with a northerly azimuth that lies between 300 degrees and 90 degrees from true north. No PV system is required if the SARA is less than 80 contiguous square feet.
+
+Exception 2 to Section 150.1(c)14: No PV system is required when the minimum PV system size specified by Section 150.1(c)14 is less than 1.8 kWdc.
+
+Exception 3 to Section 150.1(c)14: Buildings with enforcement-authority-approved roof designs, where the enforcement authority determines it is not possible for the PV system, including panels, modules and components and supports and attachments to the roof structure, to meet the requirements of the American Society of Civil Engineers (ASCE), Standard 7-16, Chapter 7, Snow Loads.
+
+Exception 4 to Section 150.1(c)14: For buildings that are approved by the local planning department prior to January 1, 2020 with mandatory conditions for approval:
+
+a. Shading from roof designs and configurations for steep-sloped roofs, which are required by the mandatory conditions for approval, shall be considered for the annual solar access calculations; and
+
+b. Roof areas that are not allowed by the mandatory conditions for approval to have PVs shall not be considered in determining the SARA.
+
+Exception 5 to Section 150.1(c)14: PV system sizes determined using Equation 150.1-C may be reduced by 25 percent if installed in conjunction with a battery storage system. The battery storage system shall meet the qualification requirements specified in Joint Appendix JA12 and have a minimum usable capacity of 7.5 kWh.
+
+TABLE 150.1-A
+
+COMPONENT PACKAGE—SINGLE-FAMILY STANDARD BUILDING DESIGN
+
+SINGLE FAMILY	CLIMATE ZONE
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+Building Envelope Insulation
+Building Envelope	Roofs/Ceilings	Option B(meets §150.1(c)9A)	BelowRoof DeckInsulation1,2(With AirSpace)	NR	NR	NR	R-19	NR	NR	NR	R-19	R-19	R-19	R-19	R-19	R-19	R-19	R-19	R-19
+CeilingInsulation	R-38	R-38	R-30	R-38	R-30	R-30	R-30	R-38	R-38	R-38	R-38	R-38	R-38	R-38	R-38	R-38
+RadiantBarrier	NR	REQ	REQ	NR	REQ	REQ	REQ	NR	NR	NR	NR	NR	NR	NR	NR	NR
+Option C(meets §150.1(c)9B)	CeilingInsulation	R-38	R-30	R-30	R-30	R-30	R-30	R-30	R-30	R-30	R-30	R-38	R-38	R-38	R-38	R-38	R-38
+RadiantBarrier	NR	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	NR
+Walls	Above Grade	Framed
+3	U0.048	U0.048	U0.048	U0.048	U0.048	U0.065	U0.065	U0.048	U0.048	U0.048	U0.048	U0.048	U0.048	U0.048	U0.048	U0.048
+Mass WallInterior 4,5	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.059R-17
+Mass WallExterior 4,5	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.125R-8.0	U0.077R-13
+Below Grade	Below GradeInterior 6	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.077R-13	U0.067R-15
+Below GradeExterior 6	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.200R-5.0	U0.100R-10	U0.100R-10	U0.053R-19
+Floors	SlabPerimeter	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	U 0.58 R-7.0
+Raised	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19	U0.037R-19
+ConcreteRaised	U0.092R-8.0	U0.092R-8.0	U0.269R-0	U0.269R-0	U0.269R-0	U0.269R-0	U0.269R-0	U0.269R-0	U0.269R-0	U0.269R-0	U0.092R-8.0	U0.138R-4.0	U0.092R-8.0	U0.092R-8.0	U0.138R-4.0	U0.092R-8.0
+Quality Insulation Installation (QII)	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Roofing Products	Low-sloped	Aged SolarReflectance	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	0.63	NR	0.63	NR
+ThermalEmittance	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	0.75	NR	0.75	NR
+Steep-sloped	Aged SolarReflectance	NR	NR	NR	NR	NR	NR	NR	NR	NR	0.20	0.20	0.20	0.20	0.20	0.20	NR
+ThermalEmittance	NR	NR	NR	NR	NR	NR	NR	NR	NR	0. 75	0.75	0.75	0.75	0.75	0.75	NR
+Fenestration	MaximumU-factor	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30
+Maximum SHGC	NR	0.23	NR	0.23	NR	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	NR
+Maximum Total Area	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%	20%
+Maximum WestFacing Area	NR	5%	NR	5%	NR	5%	5%	5%	5%	5%	5%	5%	5%	5%	5%	NR
+Door	Maximum U-factor	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20
+HVAC SYSTEM	Space Heating9	Electric-Resistanceallowed	No	No	No	No	No	No	No	No	No	No	No	No	No	No	No	No
+If gas, AFUE	MIN	MIN	NA	NA	MIN	MIN	MIN	MIN	MIN	NA	MIN	MIN	NA	NA	MIN	MIN
+If Heat Pump, HSPF7 /HSPF2	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN
+Space Cooling	SEER/SEER2	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN	MIN
+Refrigerant ChargeVerification or FaultIndicator Display	NR	REQ	NR	NR	NR	NR	NR	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	NR
+Whole House Fan8	NR	NR	NR	NR	NR	NR	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	NR	NR
+Central SystemAir Handlers	Central Fan IntegratedVentilation System FanEfficacy	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ
+Ducts10	Roof/CeilingOption B	DuctInsulation	R-8	R-8	R-6	R-8	R-6	R-6	R-6	R-8	R-8	R-8	R-8	R-8	R-8	R-8	R-8	R-8
+§150.1(c)9A	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR
+Roof/CeilingOption C	DuctInsulation	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6	R-6
+§150.1(c)9B	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ
+WATER HEATING	All Buildings	System Shall meet Section 150.1(c)81. Install the specified R-value with an air space present between the roofing and the roof deck, such as standard installation of concrete or clay tile.
+
+2. R-values shown for below roof deck insulation are for wood-frame construction with insulation installed between the framing members. Alternatives including insulation above rafters or above roof deck shall comply with the performance standards.
+
+3. Assembly U-factors for exterior framed walls can be met with cavity insulation alone or with continuous insulation alone, or with both cavity and continuous insulation that results in an assembly U-factor equal to or less than the U-factor shown. Use Reference Joint Appendices JA4 Table 4.3.1, 4.3.1(a), or Table 4.3.4 to determine alternative insulation products to be less than or equal to the required maximum U-factor.
+
+4. Mass wall has a heat capacity greater than or equal to 7.0 Btu/h-ft2.
+
+5. “Interior” denotes insulation installed on the inside surface of the wall. “Exterior” denotes insulation installed on the exterior surface of the wall.
+
+6. Below grade “interior” denotes insulation installed on the inside surface of the wall; and Below grade “exterior” denotes insulation installed on the outside surface of the wall.
+
+7. HSPF means “heating seasonal performance factor.”
+
+8.When whole-house fans are required (REQ), only those whole-house fans that are listed in the Home Ventilating Institute Certified Products Directory may be installed. Compliance requires installation of one or more WHFs whose total airflow cfm is capable of meeting or exceeding a minimum 1.5 cfm/square foot of conditioned floor area as specified by Section 150.1(c)12.
+
+9. A supplemental heating unit may be installed in a space served directly or indirectly by a primary heating system, provided that the unit thermal capacity does not exceed 2 kilowatts or 7,000 Btu/hr and is controlled by a time-limiting device not exceeding 30 minutes.
+
+10. For duct and air handler location: REQ denotes location in conditioned space. When the table indicates ducts and air handlers are in conditioned space, a HERS verification is required as specified by Reference Residential Appendix RA3.1.4.3.8.
+
+TABLE 150.1-B
+
+RESERVED
+
+TABLE 150.1-C
+
+CFA AND DWELLING UNIT ADJUSTMENT FACTORS
+
+CLIMATE ZONE	A—CFA	B—DWELLING UNITS
+1	0.793	1.27
+2	0.621	1.22
+3	0.628	1.12
+4	0.586	1.21
+5	0.585	1.06
+6	0.594	1.23
+7	0.572	1.15
+8	0.586	1.37
+9	0.613	1.36
+10	0.627	1.41
+11	0.836	1.44
+12	0.613	1.40
+13	0.894	1.51
+14	0.741	1.26
+15	1.56	1.47
+16	0.59	1.22Note: Authority: Sections 25213, 25218, 25218.5, 25402, 25402.1, and 25605, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, 25605, and 25943, Public Resources Code.
+

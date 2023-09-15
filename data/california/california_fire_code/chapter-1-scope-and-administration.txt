@@ -1,0 +1,1895 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 1 – SCOPE AND ADMINISTRATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+	T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt Entire Chapter																							
+	Adopt Entire Chapter as amended (amended sections listed below)																							
+	Adopt only those sections that are listed below	X		X																				
+	[California Code of Regulations, Title 19, Division 1]				X																			
+	Chapter / Section																							
+	Division I																							
+	1.1 – 1.1.12			X																				
+	1.1.3.2	X																						
+	1.11 – 1.11.2.1.1			X																				
+	1.11.4.5			X																				
+	1.11.6			X																				
+	1.11.11			X																				
+	[T-19 §1.11]				X																			
+	[T-19 §3.12]				X																			
+	1.11.2.1.2 – 1.11.2.2			X																				
+	[T-19 §1.08]				X																			
+	[T-19 §1.13]				X																			
+	1.11.2.3 – 1.11.10			X																				
+	[T-19 §1.03]				X																			
+	[T-19 §1.09.1]				X																			
+	Division II																							
+	102.1 – 102.5			X																				
+	102.7 – 102.12			X																				
+	104.2			X																				
+	104.5			X																				
+	104.7 – 104.7.1			X																				
+	104.10			X																				
+	105.1 – 105.2.2			X																				
+	105.2.4			X																				
+	105.3			X																				
+	105.3.1.1	X																						
+	105.3.3 – 105.5.9			X																				
+	Table 105.5.9			X																				
+	105.5.11 – 105.5.12			X																				
+>	105.5.14  – 105.5.18			X																				
+	Table 105.5.22 – 105.5.28			X																				
+	105.5.32			X																				
+	105.5.38			X																				
+	105.5.40			X																				
+	105.5.42			X																				
+	105.5.49			X																				
+	105.5.51			X																				
+	105.5.53 – 105.5.54			X																				
+	105.6 – 105.6.24			X																				
+	108.2 – 108.4			X																				
+	112.1 – 112.3.1			X																				
+	113.1 – 113.4			X																				
+	114			X																				* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+The state agency does not adopt sections identified by the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 1 SCOPE AND ADMINISTRATION
+
+DIVISION DIVISION I I CALIFORNIA ADMINISTRATION CALIFORNIA ADMINISTRATION
+
+SECTION 1.1 GENERAL
+
+1.1.1 Title.
+
+These regulations shall be known as the California Fire Code, may be cited as such and will be referred to herein as “this code.” The California Fire Code is Part 9 of thirteen parts of the official compilation and publication of the adoptions, amendment and repeal of building regulations to the California Code of Regulations, Title 24, also referred to as the California Building Standards Code. This part incorporates by adoption the 2021 International Fire Code of the International Code Council (ICC) with necessary California amendments.
+
+1.1.2 Purpose.
+
+The purpose of this code is to establish the minimum requirements consistent with nationally recognized good practices to safeguard the public health, safety and general welfare from the hazards of fire, explosion or dangerous conditions in new and existing buildings, structures and premises, and to provide safety and assistance to fire fighters and emergency responders during emergency operations.
+
+1.1.3 Scope.
+
+The provisions of this code shall apply to the construction, alteration, movement, enlargement, replacement, repair, equipment, use and occupancy, location, maintenance, removal and demolition of every building or structure or any appurtenances connected or attached to such building structures throughout the State of California.
+
+This code establishes regulations affecting or relating to buildings, structures, processes, premises and a reasonable degree of life and property safeguards regarding:
+
+1. The hazard of fire and explosion arising from the storage, handling or use of structures, materials or devices.
+
+2. Conditions hazardous to life, property or public welfare in the use or occupancy of buildings, structures or premises.
+
+3. Fire hazards in the buildings, structures or on premises from use of, occupancy of, or operation.
+
+4. Matters related to the construction, extension, repair, alteration or removal of fire suppression or alarm systems.
+
+5. Conditions affecting the safety of fire fighters and emergency responders during emergency operations.
+
+1.1.3.1 Nonstate-regulated buildings, structures and applications.
+
+Except as modified by local ordinance pursuant to Section 1.1.8, the following standards in the California Code of Regulations, Title 24, Parts 2, 3, 4, 5, 6, 9, 10 and 11 shall apply to all occupancies and applications not regulated by a state agency.
+
+1.1.3.2 State-regulated buildings, structures and applications.
+
+The model code, state amendments to the model code, and/or state amendments where there are no relevant model code provisions, shall apply to the following buildings, structures and applications regulated by state agencies as specified in Sections 1.2 through 1.14, except where modified by local ordinance pursuant to Section 1.1.8. When adopted by a state agency, the provisions of this code shall be enforced by the appropriate enforcing agency, but only to the extent of authority granted to such agency by the state legislature.
+
+Note: See “How to Distinguish Between Model Code Language and California Amendments” following the Preface.
+
+1. State-owned buildings, including buildings constructed by the Trustees of the California State University, and to the extent permitted by California laws, buildings designed and constructed by the Regents of the University of California, and regulated by the Building Standards Commission. See Section 1.2 for additional scope provisions.
+
+2. Local detention facilities regulated by the Board of State and Community Corrections. See Section 1.3 for additional scope provisions.
+
+3. Barbering, cosmetology or electrolysis establishments, acupuncture offices, pharmacies, veterinary facilities and structural pest control locations regulated by the Department of Consumer Affairs. See Section 1.4 for additional scope provisions.
+
+4. Section 1.5 reserved for the California Energy Commission.
+
+5. Dairies and places of meat inspection regulated by the Department of Food and Agriculture. See Section 1.6 for additional scope provisions.
+
+6. Organized camps, laboratory animal quarters, public swimming pools, radiation protection, commissaries serving mobile food preparation vehicles and wild animal quarantine facilities regulated by the Department of Public Health. See Section 1.7 for additional scope provisions.
+
+7.  Hotels, motels, lodging houses, apartments, dwellings, dormitories, condominiums, shelters for homeless persons, congregate residences, employee housing, factory-built housing and other types of dwellings containing sleeping accommodations with or without common toilets or cooking facilities. See Section 1.8.2.1.1 for additional scope provisions.
+
+8. Accommodations for persons with disabilities in buildings containing newly constructed covered multifamily dwellings, new common use spaces serving existing covered multifamily dwellings, additions to existing buildings where the addition alone meets the definition of a “COVERED MULTIFAMILY DWELLING,” and new common-use areas serving new covered multifamily dwellings which are regulated by the Department of Housing and Community Development. See Section 1.8.2.1.2 for additional scope provisions.
+
+9. Permanent buildings and permanent accessory buildings or structures constructed within mobile home parks and special occupancy parks regulated by the Department of Housing and Community Development. See Section 1.8.2.1.3 for additional scope provisions.
+
+10. Accommodations for persons with disabilities regulated by the Division of the State Architect. See Section 1.9.1 for additional scope provisions.
+
+11. Public elementary and secondary schools, community college buildings and state-owned or state-leased essential service buildings regulated by the Division of the State Architect. See Section 1.9.2 for additional scope provisions.
+
+12. Qualified historical buildings and structures and their associated sites regulated by the State Historical Building Safety Board with the Division of the State Architect. See Section 1.9.3 for additional scope provisions.
+
+13. General acute care hospitals, acute psychiatric hospitals, skilled nursing and/or intermediate care facilities, clinics licensed by the Department of Public Health and correctional treatment centers regulated by the Office of Statewide Health Planning and Development. See Section 1.10 for additional scope provisions.
+
+14. Applications regulated by the Office of the State Fire Marshal include, but are not limited to, the following in accordance with Section 1.11:
+
+14.1. Buildings or structures used or intended for use as an:
+
+1. Asylum, jail, prison.
+
+2. Mental hospital, hospital, home for the elderly, children’s nursery, children’s home or institution, school or any similar occupancy of any capacity.
+
+3. Theater, dancehall, skating rink, auditorium, assembly hall, meeting hall, nightclub, fair building or similar place of assemblage where 50 or more persons may gather together in a building, room or structure for the purpose of amusement, entertainment, instruction, deliberation, worship, drinking or dining, awaiting transportation or education.
+
+4. Small family daycare homes, large family daycare homes, residential facilities and residential facilities for the elderly, residential care facilities.
+
+5. State institutions or other state-owned or state-occupied buildings.
+
+6. High-rise structures.
+
+7. Motion picture production studios.
+
+8. Organized camps.
+
+9. Residential structures.
+
+14.2. Tents, awnings or other fabric enclosures used in connection with any occupancy.
+
+14.3. Fire alarm devices, equipment and systems in connection with any occupancy.
+
+14.4. Hazardous materials, flammable and combustible liquids.
+
+14.5. Public school automatic fire detection, alarm and sprinkler systems.
+
+14.6. Wildland-urban interface fire areas.
+
+15. Public libraries constructed and renovated using funds from the California Library Construction and Renovation Bond Act of 1988 and regulated by the State Librarian. See Section 1.12 of the California Building Code for additional scope provisions.
+
+16. Section 1.13 reserved for the Department of Water Resources.
+
+17. For applications listed in Section 1.9.1 regulated by the Division of the State Architect—Access Compliance, outdoor environments and uses shall be classified according to accessibility uses described in Chapters 11A, 11B and 11C.
+
+18. Marine Oil Terminals regulated by the California State Lands Commission. See Section 1.14 of the California Building Code for additional scope provisions.
+
+1.1.4 Appendices.
+
+Provisions contained in the appendices of this code shall not apply unless specifically adopted by a state agency or adopted by a local enforcing agency in compliance with Health and Safety Code, Section 18901 et. seq. for Building Standards Law, Health and Safety Code, Section 17950 for State Housing Law and Health and Safety Code, Section 13869.7 for Fire Protection Districts. See Section 1.1.8 of this code.
+
+1.1.5 Referenced codes.
+
+The codes, standards and publications adopted and set forth in this code, including other codes, standards and publications referred to therein are, by title and date of publication, hereby adopted as standard reference documents of this code. When this code does not specifically cover any subject related to building design and construction, recognized architectural or engineering practices shall be employed. The National Fire Codes, standards and the Fire Protection Handbook of the National Fire Protection Association are permitted to be used as authoritative guides in determining recognized fire prevention engineering practices.
+
+1.1.6 Nonbuilding standards, orders and regulations.
+
+Requirements contained in the California Fire Code, or in any other referenced standard, code or document, which are not building standards as defined in Health and Safety Code, Section 18909 shall not be construed as part of the provisions of this code. For nonbuilding standards, orders and regulations, see other titles of the California Code of Regulations.
+
+1.1.7 Order of precedence and use.
+
+1.1.7.1 Differences.
+
+In the event of any differences between these building standards and the standard reference documents, the text of these building standards shall govern.
+
+1.1.7.2 Specific provisions.
+
+Where a specific provision varies from a general provision, the specific provision shall apply.
+
+1.1.7.3 Conflicts.
+
+When the requirements of this code conflict with the requirements of any other part of the California Building Standards Code, Title 24, the most restrictive requirements shall prevail.
+
+1.1.7.3.1. 
+
+Detached one- and two-family dwellings, efficiency dwelling units, lodging houses, live/work units, townhouses not more than three stories above grade plane with a separate means of egress, and their accessory structures, may be designed and constructed in accordance with the California Building Code or the California Residential Code, but not both, unless the proposed structure(s) or element(s) exceed the design limitations established in the California Residential Code, and the code user is specially directed by the California Residential Code to use the California Building Code.
+
+1.1.8 City, county or city and county amendments, additions or deletions.
+
+The provisions of this code do not limit the authority of city, county or city and county governments to establish more restrictive and reasonably necessary differences to the provisions contained in this code pursuant to complying with Section 1.1.8.1. The effective date of amendments, additions or deletions to this code of a city, county or a city and county filed pursuant to Section 1.1.8.1 shall be the date filed. However, in no case shall the amendments, additions or deletions to this code be effective any sooner than the effective date of this code.
+
+Local modifications shall comply with Health and Safety Code, Section 18941.5 for Building Standards Law, Health and Safety Code, Section 17958 for State Housing Law or Health and Safety Code, Section 13869.7 for Fire Protection Districts.
+
+1.1.8.1 Findings and filings.
+
+1. The city, county or city and county shall make express findings for each amendment, addition or deletion based upon climatic, topographical or geological conditions.
+
+Exception: Hazardous building ordinances and programs mitigating unreinforced masonry buildings.
+
+2. The city, county or city and county shall file the amendments, additions or deletions expressly marked and identified as to the applicable findings. Cities, counties, cities and counties and fire departments shall file the amendments, additions or deletions, and the findings with the California Building Standards Commission at 2525 Natomas Park Drive, Suite 130, Sacramento, CA 95833.
+
+3. Findings prepared by fire protection districts shall be ratified by the local city, county or city and county and filed with the California Department of Housing and Community Development, Division of Codes and Standards, P.O. Box 1407, Sacramento, CA 95812-1407 or 2020 West El Camino Avenue, Suite 250, Sacramento, CA 95833-1829.
+
+1.1.8.2 Locally adopted energy standards—California Energy Code, Part 6 California Energy Code
+
+In addition to the provisions of Section 1.1.8.1 of this Part, the provisions of this section apply to cities, counties and city and county amending adopted energy standards affecting buildings and structures subject to the California Energy Code, Part 6.
+
+Applicable provisions of Public Resources Code Section 25402.1 and applicable provisions of Chapter 10 of the California Administrative Code, Part 1 apply to local amendment of energy standards adopted by the California Energy Commission.
+
+1.1.9 Effective date of this code.
+
+Only those standards approved by the California Building Standards Commission that are effective at the time an application for building permit is submitted shall apply to the plans and specifications for, and to the construction performed under, that permit. For the effective dates of the provisions contained in this code, see the History Note page of this code.
+
+1.1.10 Availability of codes.
+
+At least one complete copy each of Titles 8, 19, 20, 24 and 25 with all revisions shall be maintained in the office of the building official responsible for the administration and enforcement of this code. Each state department concerned and each city, county or city and county shall have an up-to-date copy of the code available for public inspection. See Health and Safety Code, Section 18942(e)(1) and (2).
+
+1.1.11 Format.
+
+This part fundamentally adopts the California Fire Code by reference on a chapter-by-chapter basis. When a specific chapter of the California Fire Code is not printed in the code and is marked “Reserved,” such chapter of the California Fire Code is not adopted as a portion of this code. When a specific chapter of the California Fire Code is marked “Not adopted by the State of California,” but appears in the code, it may be available for adoption by local ordinance.
+
+Note: Matrix Adoption Tables at the front of each chapter may aid the code user in determining which chapter or sections within a chapter are applicable to buildings under the authority of a specific state agency, but they are not to be considered regulatory.
+
+1.1.12 Validity.
+
+If any chapter, section, subsection, sentence, clause or phrase of this code is for any reason held to be unconstitutional, contrary to statute, exceeding the authority of the state as stipulated by statutes or otherwise inoperative, such decision shall not affect the validity of the remaining portion of this code.
+
+SECTION 1.11 OFFICE OF THE STATE FIRE MARSHAL
+
+1.11.1 SFM—Office of the State Fire Marshal.
+
+Specific scope of application of the agency responsible for enforcement, the enforcement agency and the specific authority to adopt and enforce such provisions of this code, unless otherwise stated.
+
+Application:
+
+Institutional, educational or any similar occupancy. Any building or structure used or intended for use as an asylum, jail, prison, mental hospital, hospital, sanitarium, home for the elderly, children’s nursery, children’s home or institution, school or any similar occupancy of any capacity.
+
+Authority cited—Health and Safety Code, Section 13143.
+
+Reference—Health and Safety Code, Section 13143.
+
+Assembly or similar place of assemblage. Any theater, dancehall, skating rink, auditorium, assembly hall, meeting hall, nightclub, fair building or similar place of assemblage where 50 or more persons may gather together in a building, room or structure for the purpose of amusement, entertainment, instruction, deliberation, worship, drinking or dining, awaiting transportation or education.
+
+Authority cited—Health and Safety Code, Section 13143.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13143.
+
+Reference—Health and Safety Code, Section 13143.
+
+Small family daycare homes.
+
+Authority cited—Health and Safety Code, Sections 1597.45, 1597.54, 13143 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Sections 1597.45, 1597.54, 13143 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+
+Large family daycare homes.
+
+Authority cited—Health and Safety Code, Sections 1597.46, 1597.54 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Sections 1597.46, 1597.54 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+
+Residential facilities and residential facilities for the elderly.
+
+Authority cited—Health and Safety Code, Section 13133.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13133.
+
+Reference—Health and Safety Code, Section 13143.
+
+Any state institution or other state-owned or specified state-occupied building.
+
+Specified state-occupied buildings. Any building, structure or area that meets any of the following criteria:
+
+1.A building where the state has contracted into a buildto-suit lease.
+
+2.A courthouse holding facility or trial court with a detention area.
+
+3.A building used by the Department of Corrections and Rehabilitation (CDCR) as a community correctional reentry center.
+
+4.100 percent state occupied.
+
+5.State-occupied areas in a state-leased building that is a high-rise and is 75 percent of the net area floor space or more occupied by state entities.
+
+6.State-occupied areas in a building that contains 5,000 square feet or more space of state-leased Group H or Group L occupancy.
+
+7.A state-leased building with facilities with the primary purpose of housing state records and/or state artifacts of historical significance.
+
+8.Properties leased by California State University (CSU) or University of California (UC).
+
+9.State institutions and their real property.
+
+10.CAL FIRE occupied areas in leased buildings.
+
+11.State-leased facilities where the governing body’s fire protection services rely on an all-volunteer fire department.
+
+Except as provided in Items 1 through 11, buildings shall become the responsibility of the local jurisdiction.
+
+Authority cited—Health and Safety Code, Sections 13108, 13145, 13146, 16022.5 and 17921.
+
+Reference—Health and Safety Code, Sections 13108, 13143, 13145, 13146, 16022.5 and 17921.
+Authority cited—Health and Safety Code, Sections 13108, 13145, 13146, 16022.5 and 17921.
+
+Reference—Health and Safety Code, Sections 13108, 13143, 13145, 13146, 16022.5 and 17921.
+
+High-rise structures.
+
+Authority cited—Health and Safety Code, Section 13211.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13211.
+
+Reference—Health and Safety Code, Section 13143.
+
+Motion picture production studios.
+
+Authority cited—Health and Safety Code, Section 13143.1.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13143.1.
+
+Reference—Health and Safety Code, Section 13143.
+
+Organized camps.
+
+Authority cited—Health and Safety Code, Section 18897.3.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 18897.3.
+
+Reference—Health and Safety Code, Section 13143.
+
+Residential. All hotels, motels, lodging houses, apartment houses and dwellings, including congregate residences and buildings and structures accessory thereto. Multiple-story structures existing on January 1, 1975, let for human habitation, including and limited to, hotels, motels and apartment houses, less than 75 feet (22 860 mm) above the lowest floor level having building access, wherein rooms used for sleeping are let above the ground floor.
+
+Authority cited—Health and Safety Code, Sections 13143.2 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Sections 13143.2 and 17921.
+
+Reference—Health and Safety Code, Section 13143.
+
+Residential care facilities. Certified family care homes, outof-home placement facilities, halfway houses, drug and/or alcohol rehabilitation facilities and any building or structure used or intended for use as a home or institution for the housing of any person of any age when such person is referred to or placed within such home or institution for protective social care and supervision services by any governmental agency.
+
+Authority cited—Health and Safety Code, Section 13143.6.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13143.6.
+
+Reference—Health and Safety Code, Section 13143.
+
+Tents, awnings or other fabric enclosures used in connection with any occupancy.
+
+Authority cited—Health and Safety Code, Section 13116.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13116.
+
+Reference—Health and Safety Code, Section 13143.
+
+Fire alarm devices, equipment and systems in connection with any occupancy.
+
+Authority cited—Health and Safety Code, Section 13114.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13114.
+
+Reference—Health and Safety Code, Section 13143.
+
+Hazardous materials.
+
+Authority cited—Health and Safety Code, Section 13143.9.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13143.9.
+
+Reference—Health and Safety Code, Section 13143.
+
+Flammable and combustible liquids.
+
+Authority cited—Health and Safety Code, Section 13143.6.
+
+Reference—Health and Safety Code, Section 13143.
+Authority cited—Health and Safety Code, Section 13143.6.
+
+Reference—Health and Safety Code, Section 13143.
+
+Public school automatic fire detection, alarm and sprinkler systems.
+
+Authority cited—Health and Safety Code, Section 13143 and California Education Code, Article 7.5, Sections 17074.50, 17074.52 and 17074.54.
+
+Reference—Government Code, Section 11152.5, Health and Safety Code, Section 13143 and California Education Code Chapter 12.5, Leroy F. Greene School Facilities Act of 1998, Article 1.
+Authority cited—Health and Safety Code, Section 13143 and California Education Code, Article 7.5, Sections 17074.50, 17074.52 and 17074.54.
+
+Reference—Government Code, Section 11152.5, Health and Safety Code, Section 13143 and California Education Code Chapter 12.5, Leroy F. Greene School Facilities Act of 1998, Article 1.
+
+Wildland-urban interface Fire Area.
+
+Authority cited—Health and Safety Code, Sections 13143, 13108.5(a) and 18949.2(b) and (c) and Government Code, Section 51189.
+
+Reference—Health and Safety Code, Sections 13143, Government Code, Sections 51176, 51177, 51178 and 51179 and Public Resources Code, Sections 4201 through 4204.
+Authority cited—Health and Safety Code, Sections 13143, 13108.5(a) and 18949.2(b) and (c) and Government Code, Section 51189.
+
+Reference—Health and Safety Code, Sections 13143, Government Code, Sections 51176, 51177, 51178 and 51179 and Public Resources Code, Sections 4201 through 4204.
+
+1.11.1.1 Adopting agency identification.
+
+The provisions of this code applicable to buildings identified in this Subsection 1.11.1 will be identified in the Matrix Adoption Tables under the acronym SFM.
+
+1.11.2 Duties and powers of the enforcing agency.
+
+1.11.2.1 Enforcement.
+
+1.11.2.1.1
+
+The responsibility for enforcement of building standards adopted by the State Fire Marshal and published in the California Building Standards Code relating to fire and panic safety and other regulations of the State Fire Marshal shall be, except as provided in Section 1.11.2.1.2, as follows:
+
+1. The city, county or city and county with jurisdiction in the area affected by the standard or regulation shall delegate the enforcement of the building standards relating to fire and panic safety and other regulations of the State Fire Marshal as they relate to Group R-3 occupancies, as described in Section 310.1 of Part 2 of the California Building Standards Code, to either of the following:
+
+1.1. The chief of the fire authority of the city, county or city and county or an authorized representative.
+
+1.2. The chief building official of the city, county or city and county or an authorized representative.
+
+2. The chief of any city or county fire department or of any fire protection district, and authorized representatives, shall enforce within the jurisdiction the building standards and other regulations of the State Fire Marshal, except those described in Item 1 or 4.
+
+3. The State Fire Marshal shall have authority to enforce the building standards and other regulations of the State Fire Marshal in areas outside of corporate cities and districts providing fire protection services.
+
+4. The State Fire Marshal shall have authority to enforce the building standards and other regulations of the State Fire Marshal in corporate cities and districts providing fire protection services on request of the chief fire official or the governing body.
+
+5. Any fee charged pursuant to the enforcement authority of this section shall not exceed the estimated reasonable cost of providing the service for which the fee is charged pursuant to Section 66014 of the Government Code.
+
+[California Code of Regulations, Title 19, Division 1, §1.11] Enforcement of Regulations.
+
+In most instances, the application of California Code of Regulations, Title 19, Division 1 to existing occupancies will necessitate the granting of sufficient time to affect the necessary changes. The inspection authority must, therefore, exercise good judgment in authorizing sufficient time to complete the required changes, taking into consideration the degree of danger to life in event of fire while rectification is being carried out. The inspection authority may require immediate compliance with any or all of the regulations, or he may grant a reasonable length of time in which to conform.
+
+[California Code of Regulations, Title 19, Division 1, §3.12] Enforcement Agency.
+
+(a) The provisions of California Code of Regulations, Title 19, Division 1 regulations shall be enforced by the State Fire Marshal, the chief of any city or county fire department or fire protection district, and their authorized representatives, in their respective areas of jurisdiction.
+
+(b) The division of authority for the enforcement of these regulations shall be in accordance with the following:
+
+(1) The chief of any city or county fire department or fire protection district, and their authorized representatives shall enforce the rules and regulations in their respective areas.
+
+(2) The State Fire Marshal shall have authority to enforce the rules and regulations in areas outside of corporate cities and county fire protection districts.
+
+(3) The State Fire Marshal shall have authority to enforce the rules and regulations in corporate cities and county fire protection districts upon request of the chief fire official or the governing body.
+
+(c) Regardless of the provisions of subsections (a) and (b) above, these regulations shall be enforced in state institutions, state-owned and state-occupied buildings in accordance with the provisions of Section 13108, Health and Safety Code.
+
+(d) Regardless of the above provisions of this section, these regulations shall be enforced only by the State Fire Marshal in every jail or place of detention for persons charged with or convicted of a crime, unless the chief of a city or county fire department or fire protection district, or such chief’s authorized representative, indicates in writing to the State Fire Marshal that inspections of such jails or places of detention will be conducted by the chief or such person’s authorized representative, in their respective area of jurisdiction. The inspections shall be made at least once every two years for the purpose of enforcing the regulations adopted by the State Fire Marshal, pursuant to Section 13143. Reports of inspection conducted pursuant to this subsection shall be on forms provided by the State Fire Marshal and shall be submitted to the official in charge of the facility, the local governing body, the State Fire Marshal and the Corrections Standards Authority within 30 days of the inspections.
+
+1.11.2.1.2
+
+Pursuant to Health and Safety Code, Section 13108, and except as otherwise provided in this section, building standards adopted by the State Fire Marshal published in the California Building Standards Code relating to fire and panic safety shall be enforced by the State Fire Marshal in all state-owned buildings, state-occupied buildings and state institutions throughout the state. Upon the written request of the chief fire official of any city, county or fire protection district, the State Fire Marshal may authorize such chief fire official and his or her authorized representatives, in their geographical area of responsibility, to make fire prevention inspections of state-owned or state-occupied buildings, other than state institutions, for the purpose of enforcing the regulations relating to fire and panic safety adopted by the State Fire Marshal pursuant to this section and building standards relating to fire and panic safety published in the California Building Standards Code. Authorization from the State Fire Marshal shall be limited to those fire departments or fire districts which maintain a fire prevention bureau staffed by paid personnel.
+
+Pursuant to Health and Safety Code, Section 13108, any requirement or order made by any chief fire official who is authorized by the State Fire Marshal to make fire prevention inspections of state-owned or state-occupied buildings, other than state institutions, may be appealed to the State Fire Marshal. The State Fire Marshal shall, upon receiving an appeal and subject to the provisions of Chapter 5 (commencing with Section 18945) of Part 2.5 of Division 13 of the Health and Safety Code, determine if the requirement or order made is reasonably consistent with the fire and panic safety regulations adopted by the State Fire Marshal and building standards relating to fire and panic safety published in the California Building Code.
+
+Any person may request a code interpretation from the State Fire Marshal relative to the intent of any regulation or provision adopted by the State Fire Marshal. When the request relates to a specific project, occupancy or building, the State Fire Marshal shall review the issue with the appropriate local enforcing agency prior to rendering such code interpretation.
+
+1.11.2.1.3
+
+Pursuant to Health and Safety Code, Section 13112, any person who violates any order, rule or regulation of the State Fire Marshal is guilty of a misdemeanor punishable by a fine of not less than $100.00 or more than $500.00, or by imprisonment for not less than six months, or by both. A person is guilty of a separate offense each day during which he or she commits, continues or permits a violation of any provision of, or any order, rule or regulation of, the State Fire Marshal as contained in this code.
+
+Any inspection authority who, in the exercise of his or her authority as a deputy State Fire Marshal, causes any legal complaints to be filed or any arrest to be made shall notify the State Fire Marshal immediately following such action.
+
+1.11.2.2 Right of entry.
+
+The fire chief of any city, county or fire protection district, or such person’s authorized representative, may enter any state institution or any other state-owned or state-occupied building for the purpose of preparing a fire suppression preplanning program or for the purpose of investigating any fire in a state-occupied building.
+
+The State Fire Marshal, his or her deputies or salaried assistants, the chief of any city or county fire department or fire protection district and his or her authorized representatives may enter any building or premises not used for dwelling purposes at any reasonable hour for the purpose of enforcing this chapter. The owner, lessee, manager or operator of any such building or premises shall permit the State Fire Marshal, his or her deputies or salaried assistants and the chief of any city or county fire department or fire protection district and his or her authorized representatives to enter and inspect them at the time and for the purpose stated in this section.
+
+[California Code of Regulations, Title 19, Division 1, §1.08] Report of Arrest.
+
+Any inspection authority who, in the exercise of his authority as a Deputy State Fire Marshal, causes any legal complaints to be filed or any arrest to be made shall notify the State Fire Marshal immediately following such action.
+
+[California Code of Regulations, Title 19, Division 1, §1.13] Penalty.
+
+Section 13112 of the Health and Safety Code provides that:
+
+(a)  “Every person who violates any provision of this chapter, or any order, rule or regulation made pursuant to this chapter is guilty of a misdemeanor punishable by a fine of not less than one hundred dollars ($100) or more than five hundred dollars ($500), or by imprisonment for not more than six months, or by both.”
+
+(b)  “A person is guilty of a separate offense each day during which he commits, continues or permits a violation of any provision of, or any order, rule or regulation made pursuant to, this chapter.”
+
+1.11.2.3 More restrictive fire and panic safety building standards.
+
+1.11.2.3.1
+
+Any fire protection district organized pursuant to Health and Safety Code Part 2.7 (commencing with Section 13800) of Division 12 may adopt building standards relating to fire and panic safety that are more stringent than those building standards adopted by the State Fire Marshal and contained in the California Building Standards Code. For these purposes, the district board shall be deemed a legislative body and the district shall be deemed a local agency. Any changes or modifications that are more stringent than the requirements published in the California Building Standards Code relating to fire and panic safety shall be subject to Section 1.1.8.1.
+
+1.11.2.3.2
+
+Any fire protection district that proposes to adopt an ordinance pursuant to this section shall, not less than 30 days prior to noticing a proposed ordinance for public hearing, provide a copy of that ordinance, together with the adopted findings made pursuant to Section 1.11.2.3.1, to the city, county or city and county where the ordinance will apply. The city, county or city and county may provide the district with written comments, which shall become part of the fire protection district’s public hearing record.
+
+1.11.2.3.3
+
+The fire protection district shall transmit the adopted ordinance to the city, county or city and county where the ordinance will apply. The legislative body of the city, county or city and county may ratify, modify or deny an adopted ordinance and transmit its determination to the district within 15 days of the determination. Any modification or denial of an adopted ordinance shall include a written statement describing the reasons for any modifications or denial. No ordinance adopted by the district shall be effective until ratification by the city, county or city and county where the ordinance will apply. Upon ratification of an adopted ordinance, the city, county or city and county shall file a copy of the findings of the district, and any findings of the city, county or city and county, together with the adopted ordinance expressly marked and identified to which each finding refers, in accordance with Section 1.1.8.1(3).
+
+1.11.2.4 Request for alternate means of protection.
+
+Requests for approval to use an alternative material, assembly or materials, equipment, method of construction, method of installation of equipment or means of protection shall be made in writing to the enforcing agency by the owner or the owner’s authorized representative and shall be accompanied by a full statement of the conditions. Sufficient evidence or proof shall be submitted to substantiate any claim that may be made regarding its conformance. The enforcing agency may require tests and the submission of a test report from an approved testing organization as set forth in California Code of Regulations, Title 19, to substantiate the equivalency of the proposed alternative means of protection.
+
+When a request for alternate means of protection involves hazardous materials, the authority having jurisdiction may consider implementation of the findings and recommendations identified in a Risk Management Plan (RMP) developed in accordance with Title 19, Division 2, Chapter 4.5, Article 3.
+
+Approval of a request for use of an alternative material, assembly of materials, equipment, method of construction, method of installation of equipment or means of protection made pursuant to these provisions shall be limited to the particular case covered by request and shall not be construed as establishing any precedent for any future request.
+
+1.11.2.5 Appeals.
+
+When a request for an alternate means of protection has been denied by the enforcing agency, the applicant may file a written appeal to the State Fire Marshal for consideration of the applicant’s proposal. In considering such appeal, the State Fire Marshal may seek the advice of the State Board of Fire Services. The State Fire Marshal shall, after considering all of the facts presented, including any recommendations of the State Board of Fire Services, determine if the proposal is for the purposes intended, at least equivalent to that specified in these regulations in quality, strength, effectiveness, fire resistance, durability and safety, and shall transmit such findings and any recommendations to the applicant and to the enforcing agency.
+
+1.11.3 Construction documents.
+
+1.11.3.1 Public schools.
+
+Plans and specifications for the construction, alteration or addition to any building owned, leased or rented by any public school district shall be submitted to the Division of the State Architect.
+
+1.11.3.2 Movable walls and partitions.
+
+Plans or diagrams shall be submitted to the enforcing agency for approval before the installation of, or rearrangement of, any movable wall or partition in any occupancy. Approval shall be granted only if there is no increase in the fire hazard.
+
+1.11.3.3 New construction high-rise buildings.
+
+1. Complete plans or specifications, or both, shall be prepared covering all work required to comply with new construction high-rise buildings. Such plans and specifications shall be submitted to the enforcing agency having jurisdiction.
+
+2. All plans and specifications shall be prepared under the responsible charge of an architect or a civil or structural engineer authorized by law to develop construction plans and specifications, or by both such architect and engineer. Plans and specifications shall be prepared by an engineer duly qualified in that branch of engineering necessary to perform such services. Administration of the work of construction shall be under the charge of the responsible architect or engineer except that where plans and specifications involve alterations or repairs, such work of construction may be administered by an engineer duly qualified to perform such services and holding a valid certificate under Chapter 7 (commencing with Section 65700) of Division 3 of the Business and Professions Code for performance of services in that branch of engineering in which said plans, specifications and estimates and work of construction are applicable.
+
+This section shall not be construed as preventing the design of fire-extinguishing systems by persons holding a C-16 license issued pursuant to Division 3, Chapter 9, Business and Professions Code. In such instances, however, the responsibility charge of this section shall prevail.
+
+1.11.3.4 Existing high-rise buildings.
+
+1. Complete plans or specifications, or both, shall be prepared covering all work required by Chapter 11 and California Existing Building Code for existing high-rise buildings. Such plans or specifications shall be submitted to the enforcing agency having jurisdiction.
+
+2. When new construction is required to conform with the provisions of these regulations, complete plans or specifications, or both, shall be prepared in accordance with the provisions of this subsection. As used in this section, “new construction” is not intended to include repairs, replacements or minor alterations which do not disrupt or appreciably add to or affect the structural aspects of the building.
+
+1.11.3.5 Retention of plans.
+
+Refer to Building Standards Law, Health and Safety Code, Sections 19850 and 19851 for permanent retention of plans.
+
+1.11.4 Fees.
+
+1.11.4.1 Other fees.
+
+Pursuant to Health and Safety Code, Section 13146.2, a city, county or district which inspects a hotel, motel, lodging house or apartment house may charge and collect a fee for the inspection from the owner of the structure in an amount, as determined by the city, county or district, sufficient to pay its costs of that inspection.
+
+1.11.4.2 Large family daycare.
+
+Pursuant to Health and Safety Code, Section 1597.46, Large Family Day-Care Homes, the local government shall process any required permit as economically as possible, and fees charged for review shall not exceed the costs of the review and permit process.
+
+1.11.4.3 High-rise.
+
+Pursuant to Health and Safety Code, Section 13217, High-rise Structure Inspection: Fees and Costs, a local agency which inspects a high-rise structure pursuant to Health and Safety Code Section 13217 may charge and collect a fee for the inspection from the owner of the high-rise structure in an amount, as determined by the local agency, sufficient to pay its costs of that inspection.
+
+1.11.4.4 Fire clearance pre-inspection.
+
+Pursuant to Health and Safety Code, Section 13235, Fire Clearance Pre-inspection, fee, upon receipt of a request from a prospective licensee of a community care facility, as defined in Section 1502, of a residential care facility for the elderly, as defined in Section 1569.2, or of a child daycare facility, as defined in Section 1596.750, the local fire enforcing agency, as defined in Section 13244, or State Fire Marshal, whichever has primary jurisdiction, shall conduct a pre-inspection of the facility prior to the final fire clearance approval. At the time of the preinspection, the primary fire enforcing agency shall price consultation and interpretation of the fire safety regulations and shall notify the prospective licensee of the facility in writing of the specific fire safety regulations which shall be enforced in order to obtain fire clearance approval. A fee equal to, but not exceeding, the actual cost of the pre-inspection may be charged for the pre-inspection of a facility.
+
+1.11.4.5 Care facilities.
+
+The primary fire enforcing agency shall complete the final fire clearance inspection for a community care facility, residential care facility for the elderly or child day-care facility within 30 days of receipt of the request for the final inspection, or as of the date the prospective facility requests the final prelicensure inspection by the State Department of Social Services, whichever is later.
+
+Pursuant to Health and Safety Code, Section 13235, a pre-inspection fee equal to, but not exceeding, the actual cost of the pre-inspection services may be charged for the pre-inspection of a facility.
+
+Pursuant to Health and Safety Code, Section 13131.5, a reasonable final inspection fee, not to exceed the actual cost of inspection services necessary to complete a final inspection may be charged for occupancies classified as residential care facilities for the elderly (RCFE).
+
+Pursuant to Health and Safety Code, Section 1569.84, neither the State Fire Marshal nor any local public entity shall charge any fee for enforcing fire inspection regulations pursuant to state law or regulation or local ordinance, with respect to residential care facilities for the elderly (RCFE) which service six or fewer persons.
+
+1.11.4.6 Requests of the Office of the State Fire Marshal.
+
+Whenever a local authority having jurisdiction requests that the State Fire Marshal perform plan review and/or inspection services related to a building permit, the applicable fees for such shall be payable to the Office of the State Fire Marshal.
+
+1.11.5 Inspections.
+
+Work performed subject to the provisions of this Code shall comply with the inspection requirements contained in Section 107, as adopted by the Office of the State Fire Marshal.
+
+1.11.5.1 Existing Group R occupancies.
+
+Licensed 24-hour care in a Group R occupancy in existence and originally classified under previously adopted state codes shall be reinspected under the appropriate previous code, provided there is no change in the use or character which would place the facility in a different occupancy group.
+
+1.11.6 Certificate of Occupancy.
+
+A Certificate of Occupancy shall be issued as specified in Title 24, Part 2, California Building Code, Section 111.
+
+Exception: Certificates of occupancy are not required for work exempt from permits in accordance with Section 105.2 of the California Building Code.
+
+1.11.7 Temporary Structures and Uses.
+
+See Title 24, Part 2, California Building Code, Section 108.
+
+1.11.8 Service Utilities.
+
+See Title 24, Part 2, California Building Code, Section 112.
+
+1.11.9 Stop Work Order.
+
+See Title 24, Part 2, California Building Code, Section 115.
+
+1.11.10 Unsafe Buildings, Structures and Equipment.
+
+See Title 24, Part 2, California Building Code, Section 116.
+
+[California Code of Regulations, Title 19, Division 1, §1.03] Scope.
+
+(a) California Code of Regulations, Title 19, Division 1 regulations shall govern the use and maintenance of any building or structure used or intended for use as an asylum, jail, mental hospital, hospital, sanitarium, home for aged, children’s home or institution, school or any similar occupancy of any capacity; and any theater, dance hall, skating rink, auditorium, assembly hall, meeting hall, night club, fair building or similar place of assemblage where 50 or more persons may gather together in a building, room or structure for the purpose of amusement, entertainment, instruction, deliberation, worship, drinking or dining, awaiting transportation or education, and in any building or structure which is open to the public and is used or intended to be used for the showing of motion pictures when an admission fee is charged and when such building or structure has a capacity of 10 or more persons, and shall apply to both new and existing occupancies.
+
+Exceptions:
+
+(1) Buildings controlled by the Federal Government, provided they are not subject to the provisions of Section 15452, Education Code.
+
+(2) Homes and institutions and day-care facilities which provide nonmedical board, room and care for six or fewer ambulatory children.
+
+California Code of Regulations, Title 19, Division 1 regulations shall also apply to any building housing any occupancy when such building is used as an auxiliary or accessory structure to any of the occupancies specified herein. They do not apply to structural requirements not relating to fire and panic safety nor to matters dealing exclusively with health and sanitation.
+
+(b) In accordance with Section 13108 of the Health and Safety Code, California Code of Regulations, Title 19, Division 1 regulations shall govern the design and construction relating to fire protection in any state institution and in any state-owned or state-occupied building. For purposes of California Code of Regulations, Title 19, Division 1 regulations, “state-occupied buildings” are defined as those portions of a building which are leased or rented by the state and shall include all required exits leading therefrom to a public way. Portions of state-occupied buildings which are not leased or rented by the state shall not fall within the scope of this subsection unless such portions present an exposure hazard to the state-occupied area.
+
+(c) California Code of Regulations, Title 19, Division 1 regulations shall also govern the use and maintenance of “organized camps” as defined in Section 18897, Health and Safety Code.
+
+(d) California Code of Regulations, Title 19, Division 1 regulations shall also govern the use and maintenance of any building or structure used or intended for the housing of any person of any age when such person is referred to or placed within such home or facility for protective social care and supervision services by any governmental agency.
+
+(e) California Code of Regulations, Title 19, Division 1 regulations shall also govern the construction, use and maintenance of every building of any type of construction or occupancy having floors used for human occupancy located more than 75 feet above the lowest floor level having building access. For the purpose of this subsection, “building access” shall mean an exterior door opening conforming to all of the following:
+
+(1) Suitable and available for fire department use.
+
+(2) Located not more than 2 feet above the adjacent ground level.
+
+(3) Leading to a space, room or area having foot traffic communication capabilities with the remainder of the building.
+
+(4) Designed to permit penetration through the use of fire department forcible entry tools and equipment unless other approved arrangements have been made with the fire authority having jurisdiction.
+
+(f) California Code of Regulations, Title 19, Division 1 regulations shall also apply to vehicles, ships and boats or other mobile structures when fixed in a specific location and used for any occupancy within the scope of this section.
+
+Note: Unless otherwise specified, Title 19 applies to all building occupancies, and related features and equipment throughout the state.
+
+[California Code of Regulations, Title 19, Division 1, §1.09.1] Order of Precedence.
+
+In the event of any differences between California Code of Regulations, Title 19, Division 1 regulations and the standard reference documents or standard fire prevention practices, the text of California Code of Regulations, Title 19, Division 1 regulations shall govern. Where a specific provision varies from a general provision, the specific provision shall apply.
+
+1.11.11 Adopting agency identification.
+
+The provisions of this code applicable to buildings identified in Section 1.11 will be identified in the Matrix Adoption Tables under the acronym SFM.
+
+DIVISION DIVISION II II SCOPE AND ADMINISTRATION SCOPE AND ADMINISTRATION
+
+User note:
+
+About this chapter: Chapter 1 establishes the limits of applicability of the code and describes how the code is to be applied and enforced. Chapter 1 is in two parts: Part 1—General Provisions (Sections 101–102) and Part 2—Administrative Provisions (Sections 103–114). Section 102 identifies which buildings and structures come under its purview and references other I-Codes as applicable.
+
+This code is intended to be adopted as a legally enforceable document, and it cannot be effective without adequate provisions for its administration and enforcement. The provisions of Chapter 1 establish the authority and duties of the code official appointed by the authority having jurisdiction and also establish the rights and privileges of the design professional, contractor and property owner.
+
+Code development reminder: Code change proposals to this chapter will be considered by the Administrative Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+Portions of this chapter were extensively reorganized for the 2021 edition. For clarity, the relocation marginal markings have not been included. For complete information, see the relocations table in the preface information of this code.
+
+PART 1—GENERAL PROVISIONS PART 1 GENERAL PROVISIONS
+
+SECTION 101 SCOPE AND GENERAL REQUIREMENTS
+
+Note: Sections adopted or amended by state agencies are specifically indicated by an agency banner or indicated in the Matrix Adoption Table.
+
+[A] [A] 101.1 Title.
+
+These regulations shall be known as the Fire Code of [NAME OF JURISDICTION], hereinafter referred to as “this code.”
+
+[A] [A] 101.2 Scope.
+
+This code establishes regulations affecting or relating to structures, processes, premises and safeguards regarding all of the following:
+
+1.The hazard of fire and explosion arising from the storage, handling or use of structures, materials or devices.
+
+2.Conditions hazardous to life, property or public welfare in the occupancy of structures or premises.
+
+3.Fire hazards in the structure or on the premises from occupancy or operation.
+
+4.Matters related to the construction, extension, repair, alteration or removal of fire protection systems.
+
+5.Conditions affecting the safety of fire fighters and emergency responders during emergency operations.
+
+[A] [A] 101.2.1 Appendices.
+
+Provisions in the appendices shall not apply unless specifically adopted.
+
+[A] [A] 101.3 Purpose.
+
+The purpose of this code is to establish the minimum requirements consistent with nationally recognized good practice for providing a reasonable level of life safety and property protection from the hazards of fire, explosion or dangerous conditions in new and existing buildings, structures and premises, and to provide a reasonable level of safety to fire fighters and emergency responders during emergency operations.
+
+[A] [A] 101.4 Severability.
+
+If a section, subsection, sentence, clause or phrase of this code is, for any reason, held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this code.
+
+[A] [A] 101.5 Validity.
+
+In the event any part or provision of this code is held to be illegal or void, this shall not have the effect of making void or illegal any of the other parts or provisions hereof, which are determined to be legal; and it shall be presumed that this code would have been adopted without such illegal or invalid parts or provisions.
+
+SECTION 102 APPLICABILITY
+
+[A] [A] 102.1 Construction and design provisions.
+
+The construction and design provisions of this code shall apply to:
+
+1.Structures, facilities and conditions arising after the adoption of this code.
+
+2.Existing structures, facilities and conditions not legally in existence at the time of adoption of this code.
+
+3.Existing structures, facilities and conditions where required in Chapter 11.
+
+4.Existing structures, facilities and conditions that, in the opinion of the fire code official, constitute a distinct hazard to life or property.
+
+[A] [A] 102.2 Administrative, operational and maintenance provisions.
+
+The administrative, operational and maintenance provisions of this code shall apply to:
+
+1.Conditions and operations arising after the adoption of this code.
+
+2.Existing conditions and operations.
+
+[A] [A] 102.3 Change of use or occupancy.
+
+A change of occupancy shall not be made unless the use or occupancy is made to comply with the requirements of this code and the California Existing Building Code.
+
+Exception: Where approved by the fire code official, a change of occupancy shall be permitted without complying with the requirements of this code and the California Existing Building Code, provided that the new or proposed use or occupancy is less hazardous, based on life and fire risk, than the existing use or occupancy.
+
+[A] [A] 102.4 Application of building code.
+
+The design and construction of new structures shall comply with the California Building Code, and any alterations, additions, changes in use or changes in structures required by this code, which are within the scope of the California Building Code, shall be made in accordance therewith.
+
+[A] [A] 102.5 Application of residential code.
+
+Where structures are designed and constructed in accordance with the California Residential Code, the provisions of this code shall apply as follows:
+
+1.Construction and design provisions of this code pertaining to the exterior of the structure shall apply including, but not limited to, premises identification, fire apparatus access and water supplies. Where interior or exterior systems or devices are installed, construction permits required by Section 105.6 shall apply.
+
+2.Administrative, operational and maintenance provisions of this code shall apply.
+
+[A] [A] 102.6 Historic buildings.
+
+The provisions of this code relating to the construction, alteration, repair, enlargement, restoration, relocation or moving of buildings or structures shall not be mandatory for existing buildings or structures identified and classified by the state or local jurisdiction as historic buildings where such buildings or structures do not constitute a distinct hazard to life or property. Fire protection in designated historic buildings shall be provided with an approved fire protection plan as required in Section 1103.1.1.
+
+[A] [A] 102.7 Referenced codes and standards.
+
+The codes and standards referenced in this code shall be those that are listed in Chapter 80, and such codes and standards shall be considered to be part of the requirements of this code to the prescribed extent of each such reference and as further regulated by Sections 102.7.1 and 102.7.2.
+
+[A] [A] 102.7.1 Conflicts.
+
+Where conflicts occur between provisions of this code and referenced codes and standards, the provisions of this code shall apply.
+
+[A] [A] 102.7.2 Provisions in referenced codes and standards.
+
+Where the extent of the reference to a referenced code or standard includes subject matter that is within the scope of this code, the provisions of this code, as applicable, shall take precedence over the provisions in the referenced code or standard.
+
+[A] [A] 102.8 Subjects not regulated by this code.
+
+Where applicable standards or requirements are not set forth in this code, or are contained within other laws, codes, regulations, ordinances or bylaws adopted by the jurisdiction, compliance with applicable standards of the National Fire Protection Association or other nationally recognized fire safety standards, as approved, shall be deemed as prima facie evidence of compliance with the intent of this code. Nothing herein shall derogate from the authority of the fire code official to determine compliance with codes or standards for those activities or installations within the fire code official’s jurisdiction or responsibility.
+
+[A] [A] 102.9 Matters not provided for.
+
+Requirements that are essential for the public safety of an existing or proposed activity, building or structure, or for the safety of the occupants thereof, that are not specifically provided for by this code, shall be determined by the fire code official.
+
+[A] [A] 102.10 Conflicting provisions.
+
+Where there is a conflict between a general requirement and a specific requirement, the specific requirement shall be applicable. Where, in a specific case, different sections of this code specify different materials, methods of construction or other requirements, the most restrictive shall govern.
+
+[A] [A] 102.11 Other laws.
+
+The provisions of this code shall not be deemed to nullify any provisions of local, state or federal law.
+
+[A] [A] 102.12 Application of references.
+
+References to chapter or section numbers, or to provisions not specifically identified by number, shall be construed to refer to such chapter, section or provision of this code.
+
+PART2—ADMINISTRATION AND ENFORCEMENT PART 2 ADMINISTRATION AND ENFORCEMENT
+
+SECTION 103 CODE COMPLIANCE AGENCY
+
+[A] [A] 103.1 Creation of agency.
+
+The [INSERT NAME OF DEPARTMENT] is hereby created and the official in charge thereof shall be known as the fire code official. The function of the agency shall be the implementation, administration and enforcement of the provisions of this code.
+
+[A] [A] 103.2 Appointment.
+
+The fire code official shall be appointed by the chief appointing authority of the jurisdiction.
+
+[A] [A] 103.3 Deputies.
+
+In accordance with the prescribed procedures of this jurisdiction and with the concurrence of the appointing authority, the fire code official shall have the authority to appoint a deputy fire code official, other related technical officers, inspectors and other employees. Such employees shall have powers as delegated by the fire code official.
+
+SECTION 104 DUTIES AND POWERS OF THE FIRE CODE OFFICIAL
+
+[A] [A] 104.1 General.
+
+The fire code official is hereby authorized to enforce the provisions of this code. The fire code official shall have the authority to render interpretations of this code and to adopt policies, procedures, rules and regulations in order to clarify the application of its provisions. Such interpretations, policies, procedures, rules and regulations shall be in compliance with the intent and purpose of this code. Such policies, procedures, rules and regulations shall not have the effect of waiving requirements specifically provided for in this code.
+
+[A] [A] 104.2 Applications and permits.
+
+The fire code official is authorized to receive applications, review construction documents and issue permits for construction regulated by this code, issue permits for operations regulated by this code, inspect the premises for which such permits have been issued and enforce compliance with the provisions of this code.
+
+[A] [A] 104.3 Right of entry.
+
+Where it is necessary to make an inspection to enforce the provisions of this code, or where the fire code official has reasonable cause to believe that there exists in a building or on any premises any conditions or violations of this code that make the building or premises unsafe, dangerous or hazardous, the fire code official shall have the authority to enter the building or premises at all reasonable times to inspect or to perform the duties imposed on the fire code official by this code. If such building or premises is occupied, the fire code official shall present credentials to the occupant and request entry. If such building or premises is unoccupied, the fire code official shall first make a reasonable effort to locate the owner, the owner’s authorized agent or other person having charge or control of the building or premises and request entry. If entry is refused, the fire code official has recourse to every remedy provided by law to secure entry.
+
+[A] [A] 104.3.1 Warrant.
+
+Where the fire code official has first obtained a proper inspection warrant or other remedy provided by law to secure entry, an owner, the owner’s authorized agent or occupant or person having charge, care or control of the building or premises shall not fail or neglect, after proper request is made as herein provided, to permit entry therein by the fire code official for the purpose of inspection and examination pursuant to this code.
+
+[A] [A] 104.4 Identification.
+
+The fire code official shall carry proper identification when inspecting structures or premises in the performance of duties under this code.
+
+[A] [A] 104.5 Notices and orders.
+
+The fire code official is authorized to issue such notices or orders as are required to affect compliance with this code in accordance with Sections 112.1 and 112.2.
+
+[A] [A] 104.6 Official records.
+
+The fire code official shall keep official records as required by Sections 104.6.1 through 104.6.4. Such official records shall be retained for not less than 5 years or for as long as the structure or activity to which such records relate remains in existence, unless otherwise provided by other regulations.
+
+[A] [A] 104.6.1 Approvals.
+
+A record of approvals shall be maintained by the fire code official and shall be available for public inspection during business hours in accordance with applicable laws.
+
+[A] [A] 104.6.2 Inspections.
+
+The fire code official shall keep a record of each inspection made, including notices and orders issued, showing the findings and disposition of each.
+
+104.6.3 Fire records.
+
+The fire department shall keep a record of fires occurring within its jurisdiction and of facts concerning the same, including statistics as to the extent of such fires and the damage caused thereby, together with other information as required by the fire code official.
+
+[A] [A] 104.6.4 Administrative.
+
+Application for modification, alternative methods or materials and the final decision of the fire code official shall be in writing and shall be officially recorded in the permanent records of the fire code official.
+
+[A] [A] 104.7 Liability.
+
+The fire code official, member of the board of appeals, officer or employee charged with the enforcement of this code, while acting for the jurisdiction, in good faith and without malice in the discharge of the duties required by this code or other pertinent law or ordinance, shall not thereby be rendered civilly or criminally liable personally, and is hereby relieved from all personal liability for any damage accruing to persons or property as a result of an act or by reason of an act or omission in the discharge of official duties.
+
+[A] [A] 104.7.1 Legal defense.
+
+Any suit or criminal complaint instituted against any officer or employee because of an act performed by that officer or employee in the lawful discharge of duties and under the provisions of this code shall be defended by the legal representatives of the jurisdiction until the final termination of the proceedings. The fire code official or any subordinate shall not be liable for costs in an action, suit or proceeding that is instituted in pursuance of the provisions of this code; and any officer of the department of fire prevention, acting in good faith and without malice, shall be free from liability for acts performed under any of its provisions or by reason of any act or omission in the performance of official duties in connection therewith.
+
+[A] [A] 104.8 Approved materials and equipment.
+
+Materials, equipment and devices approved by the fire code official shall be constructed and installed in accordance with such approval.
+
+[A] [A] 104.8.1 Material and equipment reuse.
+
+Materials, equipment and devices shall not be reused or reinstalled unless such elements have been reconditioned, tested and placed in good and proper working condition and approved.
+
+[A] [A] 104.8.2 Technical assistance.
+
+To determine the acceptability of technologies, processes, products, facilities, materials and uses attending the design, operation or use of a building or premises subject to inspection by the fire code official, the fire code official is authorized to require the owner or owner’s authorized agent to provide, without charge to the jurisdiction, a technical opinion and report. The opinion and report shall be prepared by a qualified engineer, specialist, laboratory or fire safety specialty organization acceptable to the fire code official and shall analyze the fire safety properties of the design, operation or use of the building or premises and the facilities and appurtenances situated thereon, to recommend necessary changes. The fire code official is authorized to require design submittals to be prepared by, and bear the stamp of, a registered design professional.
+
+[A] [A] 104.9 Modifications.
+
+Where there are practical difficulties involved in carrying out the provisions of this code, the fire code official shall have the authority to grant modifications for individual cases, provided that the fire code official shall first find that special individual reason makes the strict letter of this code impractical and the modification is in compliance with the intent and purpose of this code and that such modification does not lessen health, life and fire safety requirements. The details of action granting modifications shall be recorded and entered in the files of the department of fire prevention.
+
+[A] [A] 104.10 Alternative materials, design and methods of construction and equipment.
+
+The provisions of this code are not intended to prevent the installation of any material or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative has been approved. An alternative material, design or method of construction shall be approved where the fire code official finds that the proposed design is satisfactory and complies with the intent of the provisions of this code, and that the material, method or work offered is, for the purpose intended, not less than the equivalent of that prescribed in this code in quality, strength, effectiveness, fire resistance, durability and safety. Where the alternative material, design or method of construction is not approved, the fire code official shall respond in writing, stating the reasons why the alternative was not approved.
+
+[A] [A] 104.10.1 Research reports.
+
+Supporting data, where necessary to assist in the approval of materials or assemblies not specifically provided for in this code, shall consist of valid research reports from approved sources.
+
+[A] [A] 104.10.2 Tests.
+
+Where there is insufficient evidence of compliance with the provisions of this code, or evidence that a material or method does not conform to the requirements of this code, or in order to substantiate claims for alternative materials or methods, the fire code official shall have the authority to require tests as evidence of compliance to be made without expense to the jurisdiction. Test methods shall be as specified in this code or by other recognized test standards. In the absence of recognized and accepted test methods, the fire code official shall approve the testing procedures. Tests shall be performed by an approved agency. Reports of such tests shall be retained by the fire code official for the period required for retention of public records.
+
+104.11 Fire investigations.
+
+The fire code official, the fire department or other responsible authority shall have the authority to investigate the cause, origin and circumstances of any fire, explosion or other hazardous condition. Information that could be related to trade secrets or processes shall not be made part of the public record, except as directed by a court of law.
+
+104.11.1 Assistance from other agencies.
+
+Police and other enforcement agencies shall have authority to render necessary assistance in the investigation of fires when requested to do so.
+
+104.12 Authority at fires and other emergencies.
+
+The fire chief or officer of the fire department in charge at the scene of a fire or other emergency involving the protection of life or property, or any part thereof, shall have the authority to direct such operation as necessary to extinguish or control any fire, perform any rescue operation, investigate the existence of suspected or reported fires, gas leaks or other hazardous conditions or situations, or take any other action necessary in the reasonable performance of duty. In the exercise of such power, the fire chief is authorized to prohibit any person, vehicle, vessel or thing from approaching the scene, and is authorized to remove, or cause to be removed or kept away from the scene, any vehicle, vessel or thing that could impede or interfere with the operations of the fire department and, in the judgment of the fire chief, any person not actually and usefully employed in the extinguishing of such fire or in the preservation of property in the vicinity thereof.
+
+104.12.1 Barricades.
+
+The fire chief or officer of the fire department in charge at the scene of an emergency is authorized to place ropes, guards, barricades or other obstructions across any street, alley, place or private property in the vicinity of such operation so as to prevent accidents or interference with the lawful efforts of the fire department to manage and control the situation and to handle fire apparatus.
+
+104.12.2 Obstructing operations.
+
+Persons shall not obstruct the operations of the fire department in connection with extinguishment or control of any fire, or actions relative to other emergencies, or disobey any lawful command of the fire chief or officer of the fire department in charge of the emergency, or any part thereof, or any lawful order of a police officer assisting the fire department.
+
+104.12.3 Systems and devices.
+
+Persons shall not render a system or device inoperative during an emergency unless by direction of the fire chief or fire department official in charge of the incident.
+
+SECTION 105 PERMITS
+
+[A] [A] 105.1 General.
+
+Permits shall be in accordance with Sections 105.1.1 through 105.6.24.
+
+[A] [A] 105.1.1 Permits required.
+
+A property owner or owner’s authorized agent who intends to conduct an operation or business, or install or modify systems and equipment that are regulated by this code, or to cause any such work to be performed, shall first make application to the fire code official and obtain the required permit.
+
+105.1.2 Types of permits.
+
+There shall be two types of permits as follows:
+
+1.Operational permit. An operational permit allows the applicant to conduct an operation or a business for which a permit is required by Section 105.5 for either:
+
+1.1. A prescribed period.
+
+1.2. Until renewed or revoked.
+
+2.Construction permit. A construction permit allows the applicant to install or modify systems and equipment for which a permit is required by Section 105.6.
+
+105.1.3 Multiple permits for the same location.
+
+Where more than one permit is required for the same location, the fire code official is authorized to consolidate such permits into a single permit provided that each provision is listed in the permit.
+
+[A] [A] 105.1.4 Emergency repairs.
+
+Where equipment replacement and repairs must be performed in an emergency situation, the permit application shall be submitted within the next working business day to the fire code official.
+
+[A] [A] 105.1.5 Repairs.
+
+Application or notice to the fire code official is not required for ordinary repairs to structures, equipment or systems. Such repairs shall not include the cutting away of any wall, partition or portion thereof, the removal or change of any required means of egress, or rearrangement of parts of a structure affecting the egress requirements; nor shall any repairs include addition to, alteration of, replacement or relocation of any standpipe, fire protection water supply, automatic sprinkler system, fire alarm system or other work affecting fire protection or life safety.
+
+[A] [A] 105.1.6 Annual permit.
+
+Instead of an individual construction permit for each alteration to an already approved system or equipment installation, the fire code official is authorized to issue an annual permit on application therefor to any person, firm or corporation regularly employing one or more qualified tradespersons in the building, structure or on the premises owned or operated by the applicant for the permit.
+
+[A] [A] 105.1.6.1 Annual permit records.
+
+The person to whom an annual permit is issued shall keep a detailed record of alterations made under such annual permit. The fire code official shall have access to such records at all times or such records shall be filed with the fire code official as designated.
+
+[A] [A] 105.2 Application.
+
+Application for a permit required by this code shall be made to the fire code official in such form and detail as prescribed by the fire code official. Applications for permits shall be accompanied by such plans as prescribed by the fire code official.
+
+[A] [A] 105.2.1 Refusal to issue permit.
+
+If the application for a permit describes a use that does not conform to the requirements of this code and other pertinent laws and ordinances, the fire code official shall not issue a permit, but shall return the application to the applicant with the refusal to issue such permit. Such refusal shall, where requested, be in writing and shall contain the reasons for refusal.
+
+[A] [A] 105.2.2 Inspection authorized.
+
+Before a new operational permit is approved, the fire code official is authorized to inspect the receptacles, vehicles, buildings, devices, premises, storage spaces or areas to be used to determine compliance with this code or any operational constraints required.
+
+[A] [A] 105.2.3 Time limitation of application.
+
+An application for a permit for any proposed work or operation shall be deemed to have been abandoned 180 days after the date of filing, unless such application has been diligently prosecuted or a permit shall have been issued; except that the fire code official is authorized to grant one or more extensions of time for additional periods not exceeding 90 days each. The extension shall be requested in writing and justifiable cause demonstrated.
+
+[A] [A] 105.2.4 Action on application.
+
+The fire code official shall examine or cause to be examined applications for permits and amendments thereto within a reasonable time after filing. If the application or the construction documents do not conform to the requirements of pertinent laws, the fire code official shall reject such application in writing, stating the reasons therefor. If the fire code official is satisfied that the proposed work or operation conforms to the requirements of this code and laws and ordinances applicable thereto, the fire code official shall issue a permit therefor as soon as practicable.
+
+[A] [A] 105.3 Conditions of a permit.
+
+A permit shall constitute permission to maintain, store or handle materials; or to conduct processes that produce conditions hazardous to life or property; or to install equipment utilized in connection with such activities; or to install or modify any fire protection system or equipment or any other construction, equipment installation or modification in accordance with the provisions of this code where a permit is required by Section 105.5 or 105.6. Such permission shall not be construed as authority to violate, cancel or set aside any of the provisions of this code or other applicable regulations or laws of the jurisdiction.
+
+[A] [A] 105.3.1 Expiration.
+
+An operational permit shall remain in effect until reissued, renewed or revoked, or for such a period of time as specified in the permit. Construction permits shall automatically become invalid unless the work authorized by such permit is commenced within 180 days after its issuance, or if the work authorized by such permit is suspended or abandoned for a period of 180 days after the time the work is commenced. Before such work recommences, a new permit shall be first obtained and the fee to recommence work, if any, shall be one-half the amount required for a new permit for such work, provided that changes have not been made and will not be made in the original construction documents for such work, and provided further that such suspension or abandonment has not exceeded one year. Permits are not transferable and any change in occupancy, operation, tenancy or ownership shall require that a new permit be issued.
+
+105.3.1.1 105.3.1.1 Expiration. [BSC] Expiration. [BSC]
+
+On or after January 1, 2019, every permit issued shall become invalid unless the work on the site authorized by such permit is commenced within 12 months after its issuance or if the work authorized on the site by such permit is suspended or abandoned for a period of 12 months after the time the work is commenced. The building official is authorized to grant, in writing, one or more extensions of time for periods not more than 180 days each. The extension shall be requested in writing and justifiable cause demonstrated. (See Health and Safety Code Section 18938.5 and 18938.6.
+
+[A] [A] 105.3.2 Extensions.
+
+A permittee holding an unexpired permit shall have the right to apply for an extension of the time within which the permittee will commence work under that permit where work is unable to be commenced within the time required by this section for good and satisfactory reasons. The fire code official is authorized to grant, in writing, one or more extensions of the time period of a permit for periods of not more than 180 days each. Such extensions shall be requested by the permit holder in writing and justifiable cause demonstrated.
+
+[A] [A] 105.3.3 Occupancy prohibited before approval.
+
+The building or structure shall not be occupied prior to the fire code official issuing a permit and conducting associated inspections indicating the applicable provisions of this code have been met.
+
+[A] [A] 105.3.4 Conditional permits.
+
+Where permits are required and on the request of a permit applicant, the fire code official is authorized to issue a conditional permit to occupy the premises or portion thereof before the entire work or operations on the premises is completed, provided that such portion or portions will be occupied safely prior to full completion or installation of equipment and operations without endangering life or public welfare. The fire code official shall notify the permit applicant in writing of any limitations or restrictions necessary to keep the permit area safe. The holder of a conditional permit shall proceed only to the point for which approval has been given, at the permit holder’s own risk and without assurance that approval for the occupancy or the utilization of the entire premises, equipment or operations will be granted.
+
+[A] [A] 105.3.5 Posting the permit.
+
+Issued permits shall be kept on the premises designated therein at all times and shall be readily available for inspection by the fire code official.
+
+[A] [A] 105.3.6 Compliance with code.
+
+The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other ordinance of the jurisdiction. Permits presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid. The issuance of a permit based on construction documents and other data shall not prevent the fire code official from requiring the correction of errors in the construction documents and other data. Any addition to or alteration of approved construction documents shall be approved in advance by the fire code official, as evidenced by the issuance of a new or amended permit.
+
+[A] [A] 105.3.7 Information on the permit.
+
+The fire code official shall issue all permits required by this code on an approved form furnished for that purpose. The permit shall contain a general description of the operation or occupancy and its location and any other information required by the fire code official. Issued permits shall bear the signature of the fire code official or other approved legal authorization.
+
+[A] [A] 105.3.8 Validity of permit.
+
+The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other ordinances of the jurisdiction. Permits presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid. The issuance of a permit based on construction documents, operational documents and other data shall not prevent the fire code official from requiring correction of errors in the documents or other data.
+
+[A] [A] 105.4 Revocation.
+
+The fire code official is authorized to revoke a permit issued under the provisions of this code where it is found by inspection or otherwise that there has been a false statement or misrepresentation as to the material facts in the application or construction documents on which the permit or approval was based including, but not limited to, any one of the following:
+
+1.The permit is used for a location or establishment other than that for which it was issued.
+
+2.The permit is used for a condition or activity other than that listed in the permit.
+
+3.Conditions and limitations set forth in the permit have been violated.
+
+4.There have been any false statements or misrepresentations as to the material fact in the application for permit or plans submitted or a condition of the permit.
+
+5.The permit is used by a different person or firm than the name for which it was issued.
+
+6.The permittee failed, refused or neglected to comply with orders or notices duly served in accordance with the provisions of this code within the time provided therein.
+
+7.The permit was issued in error or in violation of an ordinance, regulation or this code.
+
+105.5 Required operational permits.
+
+The fire code official is authorized to issue operational permits for the operations set forth in Sections 105.5.2 through 105.5.54.
+
+105.5.1 Additive manufacturing.
+
+An operational permit is required to conduct additive manufacturing operations regulated by Section 320.3.
+
+105.5.2 Aerosol products, aerosol cooking spray products and plastic aerosol 3 products.
+
+An operational permit is required to manufacture, store or handle an aggregate quantity of Level 2 or Level 3 aerosol products, aerosol cooking spray products or plastic aerosol 3 products in excess of 500 pounds (227 kg) net weight.
+
+105.5.3 Amusement buildings.
+
+An operational permit is required to operate a special amusement building.
+
+105.5.4 Aviation facilities.
+
+An operational permit is required to use a Group H or Group S occupancy for aircraft servicing or repair and aircraft fuel-servicing vehicles. Additional permits required by other sections of this code include, but are not limited to, hot work, hazardous materials and flammable or combustible finishes.
+
+105.5.5 Carnivals and fairs.
+
+An operational permit is required to conduct a carnival or fair.
+
+105.5.6 Cellulose nitrate film.
+
+An operational permit is required to store, handle or use cellulose nitrate film in a Group A occupancy.
+
+105.5.7 Combustible dust-producing operations.
+
+An operational permit is required to operate a grain elevator, flour starch mill, feed mill, or a plant pulverizing aluminum, coal, cocoa, magnesium, spices or sugar, or other operations producing combustible dusts as defined in Chapter 2.
+
+105.5.8 Combustible fibers.
+
+An operational permit is required for the storage and handling of combustible fibers in quantities greater than 100 cubic feet (2.8 m3).
+
+Exception: A permit is not required for agricultural storage.
+
+105.5.9 Compressed gases.
+
+An operational permit is required for the storage, use or handling at normal temperature and pressure (NTP) of compressed gases in excess of the amounts listed in Table 105.5.9.
+
+Exception: Vehicles equipped for and using compressed gas as a fuel for propelling the vehicle.
+
+TABLE 105.5.9
+
+PERMIT AMOUNTS FOR COMPRESSED GASES
+
+TYPE OF GAS	AMOUNT (cubic feet at NTP)
+Carbon dioxide used in carbon dioxide enrichment systems	875 (100 lb)
+Carbon dioxide used in insulated liquid carbon dioxide beverage dispensing applications	875 (100 lb)
+Corrosive	200
+Flammable (except cryogenic fluids and liquefied petroleum gases)	200
+Highly toxic	Any Amount
+Inert and simple asphyxiant	6,000
+Oxidizing (including oxygen)	504
+Pyrophoric	Any Amount
+Toxic	Any AmountFor SI: 1 cubic foot = 0.02832 m3.
+
+105.5.10 Covered and open mall buildings.
+
+An operational permit is required for:
+
+1.The placement of retail fixtures and displays, concession equipment, displays of highly combustible goods and similar items in the mall.
+
+2.The display of liquid- or gas-fired equipment in the mall.
+
+3.The use of open-flame or flame-producing equipment in the mall.
+
+105.5.11 Cryogenic fluids.
+
+An operational permit is required to produce, store, transport on site, use, handle or dispense cryogenic fluids in excess of the amounts listed in Table 105.5.11.
+
+Exception: Permits are not required for vehicles equipped for and using cryogenic fluids as a fuel for propelling the vehicle or for refrigerating the lading.
+
+TABLE 105.5.11
+
+PERMIT AMOUNTS FOR CRYOGENIC FLUIDS
+
+TYPE OF CRYOGENIC FLUID	INSIDE BUILDING (gallons)	OUTSIDE BUILDING (gallons)
+Flammable	More than 1	60
+Inert	60	500
+Oxidizing (includes oxygen)	10	50
+Physical or health hazard not indicated above	Any Amount	Any AmountFor SI: 1 gallon = 3.785 L.
+
+105.5.12 Cutting and welding.
+
+An operational permit is required to conduct cutting or welding operations within the jurisdiction.
+
+105.5.13 Dry cleaning.
+
+An operational permit is required to engage in the business of dry cleaning or to change to a more hazardous cleaning solvent used in existing dry cleaning equipment.
+
+105.5.14 Energy storage systems.
+
+An operational permit is required for stationary and mobile energy storage systems regulated by Section 1207.
+
+105.5.15 Exhibits and trade shows.
+
+An operational permit is required to operate exhibits and trade shows.
+
+105.5.16 Explosives.
+
+An operational permit is required for the manufacture, storage, handling, sale or use of any quantity of explosives, explosive materials, fireworks or pyrotechnic special effects within the scope of Chapter 56. See Health and Safety Code Division 11, Part 1, Sections 12000, et seq. for additional requirements.
+
+Exception: Storage in Group R-3 occupancies of smokeless propellant, black powder and small arms primers for personal use, not for resale and in accordance with Section 5606.
+
+105.5.17 Fire hydrants and valves.
+
+An operational permit is required to use or operate fire hydrants or valves intended for fire suppression purposes that are installed on water systems and provided with ready access from a fire apparatus access road that is open to or generally used by the public.
+
+Exception: A permit is not required for authorized employees of the water company that supplies the system or the fire department to use or operate fire hydrants or valves.
+
+105.5.18 Flammable and combustible liquids.
+
+An operational permit is required:
+
+1.To use or operate a pipeline for the transportation within facilities of flammable or combustible liquids. This requirement shall not apply to the offsite transportation in pipelines regulated by the Department of Transportation (DOTn) nor does it apply to piping systems.
+
+2.To store, handle or use Class I liquids in excess of 5 gallons (19 L) in a building or in excess of 10 gallons (37.9 L) outside of a building, except that a permit is not required for the following:
+
+2.1.  The storage or use of Class I liquids in the fuel tank of a motor vehicle, aircraft, motorboat, mobile power plant or mobile heating plant, unless such storage, in the opinion of the fire code official, would cause an unsafe condition.
+
+2.2.  The storage or use of paints, oils, varnishes or similar flammable mixtures where such liquids are stored for maintenance, painting or similar purposes for a period of not more than 30 days.
+
+3.To store, handle or use Class II or Class IIIA liquids in excess of 25 gallons (95 L) in a building or in excess of 60 gallons (227 L) outside a building, except for fuel oil used in connection with oilburning equipment.
+
+4.To store, handle or use Class IIIB liquids in tanks or portable tanks for fueling motor vehicles at motor fuel-dispensing facilities or where connected to fuel-burning equipment.
+
+Exception: Fuel oil and used motor oil used for space heating or water heating.
+
+5.To remove Class I or II liquids from an underground storage tank used for fueling motor vehicles by any means other than the approved, stationary on-site pumps normally used for dispensing purposes.
+
+6.To operate tank vehicles, equipment, tanks, plants, terminals, wells, fuel-dispensing stations, refineries, distilleries and similar facilities where flammable and combustible liquids are produced, processed, transported, stored, dispensed or used.
+
+7.To place temporarily out of service (for more than 90 days) an underground, protected above-ground or above-ground flammable or combustible liquid tank.
+
+8.To change the type of contents stored in a flammable or combustible liquid tank to a material that poses a greater hazard than that for which the tank was designed and constructed.
+
+9.To manufacture, process, blend or refine flammable or combustible liquids.
+
+10.To engage in the dispensing of liquid fuels into the
+fuel tanks of motor vehicles at commercial, industrial, governmental or manufacturing establishments in accordance with Section 5706.5.4 or to engage in on-demand mobile fueling operations in accordance with Section 5707.
+
+11.To utilize a site for the dispensing of liquid fuels from tank vehicles into the fuel tanks of motor vehicles, marine craft and other special equipment at commercial, industrial, governmental or manufacturing establishments in accordance with Section 5706.5.4 or, where required by the fire code official, to utilize a site for on-demand mobile fueling operations in accordance with Section 5707.
+
+105.5.19 Floor finishing.
+
+An operational permit is required for floor finishing or surfacing operations exceeding 350 square feet (33 m2) using Class I or Class II liquids.
+
+105.5.20 Fruit and crop ripening.
+
+An operational permit is required to operate a fruit- or crop-ripening facility or conduct a fruit-ripening process using ethylene gas.
+
+105.5.21 Fumigation and insecticidal fogging.
+
+An operational permit is required to operate a business of fumigation or insecticidal fogging, and to maintain a room, vault or chamber in which a toxic or flammable fumigant is used.
+
+105.5.22 Hazardous materials.
+
+An operational permit is required to store, transport on site, dispense, use or handle hazardous materials in excess of the amounts listed in Table 105.5.22.
+
+105.5.23 HPM facilities.
+
+An operational permit is required to store, handle or use hazardous production materials.
+
+105.5.24 High-piled storage.
+
+An operational permit is required to use a building or portion thereof with more than 500 square feet (46 m2), including aisles, of highpiled combustible storage.
+
+105.5.25 Hot work operations.
+
+An operational permit is required for hot work including, but not limited to:
+
+1.Public exhibitions and demonstrations where hot work is conducted.
+
+2.Use of portable hot work equipment inside a structure.
+
+Exception: Work that is conducted under a construction permit.
+
+3.Fixed-site hot work equipment, such as welding booths.
+
+4.Hot work conducted within a wildfire risk area.
+
+5.Application of roof coverings with the use of an open-flame device.
+
+6.Where approved, the fire code official shall issue a permit to carry out a hot work program. This program allows approved personnel to regulate their facility’s hot work operations. The approved personnel shall be trained in the fire safety aspects denoted in this chapter and shall be responsible for issuing permits requiring compliance with the requirements found in Chapter 35. These permits shall be issued only to their employees or hot work operations under their supervision.
+
+105.5.26 Industrial ovens.
+
+An operational permit is required for operation of industrial ovens regulated by Chapter 30.
+
+105.5.27 Lumber yards and woodworking plants.
+
+An operational permit is required for the storage or processing of lumber exceeding 100,000 board feet (8,333 ft3) (236 m3).
+
+TABLE 105.5.22
+
+PERMIT AMOUNTS FOR HAZARDOUS MATERIALS
+
+TYPE OF MATERIAL	AMOUNT
+Combustible liquids	See Section 105.5.16
+Corrosive materials	
+ Gases	See Section 105.5.8
+ Liquids	55 gallons
+ Solids	500 pounds
+Explosive materials	See Section 105.5.14
+Flammable materials	
+ Gases	See Section 105.5.8
+ Liquids	See Section 105.5.16
+ Solids	100 pounds
+Highly toxic materials	
+ Gases	See Section 105.5.8
+ Liquids	Any Amount
+ Solids	Any Amount
+Organic peroxides	
+ Liquids	
+  Class I	Any Amount
+  Class II	Any Amount
+  Class III	1 gallon
+  Class IV	2 gallons
+  Class V	No Permit Required
+ Solids	
+  Class I	Any Amount
+  Class II	Any Amount
+  Class III	10 pounds
+  Class IV	20 pounds
+  Class V	No Permit Required
+Oxidizing materials	
+ Gases	See Section 105.5.8
+ Liquids	
+  Class 4	Any Amount
+  Class 3	1 gallona
+  Class 2	10 gallons
+  Class 1	55 gallons
+ Solids	
+  Class 4	Any Amount
+  Class 3	10 poundsb
+  Class 2	100 pounds
+  Class 1	500 pounds
+Pyrophoric materials	
+ Gases	Any Amount
+ Liquids	Any Amount
+ Solids	Any Amount
+Toxic materials	
+ Gases	See Section 105.5.8
+ Liquids	10 gallons
+ Solids	100 pounds
+Unstable (reactive) materials	
+ Liquids	
+  Class 4	Any Amount
+  Class 3	Any Amount
+  Class 2	5 gallons
+  Class 1	10 gallons
+ Solids	
+  Class 4	Any Amount
+  Class 3	Any Amount
+  Class 2	50 pounds
+  Class 1	100 pounds
+Water-reactive materials	
+Liquids	
+  Class 3	Any Amount
+  Class 2	5 gallons
+  Class 1	55 gallons
+Solids	
+  Class 3	Any Amount
+  Class 2	50 pounds
+  Class 1	500 poundsFor SI: 1 gallon = 3.785 L, 1 pound = 0.454 kg.
+
+a. 22 gallons where Table 5003.1.1(1) Note k applies and hazard identification signs in accordance with Section 5003.5 are provided for quantities of 22 gallons or less.
+
+b. 220 pounds where Table 5003.1.1(1) Note k applies and hazard identification signs in accordance with Section 5003.5 are provided for quantities of 220 pounds or less.
+
+105.5.28 Liquid- or gas-fueled vehicles or equipment in assembly buildings.
+
+An operational permit is required to display, operate or demonstrate liquid- or gas-fueled vehicles or equipment in assembly buildings.
+
+105.5.29 LP-gas.
+
+An operational permit is required for:
+
+1.Storage and use of LP-gas.
+
+Exception: A permit is not required for individual containers with a 500-gallon (1893 L) water capacity or less or multiple container systems having an aggregate quantity not exceeding 500 gallons (1893 L), serving occupancies in Group R-3.
+
+2.Operation of cargo tankers that transport LP-gas.
+
+105.5.30 Magnesium.
+
+An operational permit is required to melt, cast, heat treat or grind more than 10 pounds (4.54 kg) of magnesium.
+
+105.5.31 Miscellaneous combustible storage.
+
+An operational permit is required to store in any building or on any premises in excess of 2,500 cubic feet (71 m3) gross volume of combustible empty packing cases, boxes, barrels or similar containers, combustible pallets, rubber tires, rubber, cork or similar combustible material.
+
+105.5.32 Mobile fueling of hydrogen-fueled vehicles. Mobile fueling of hydrogen-fueled vehicles.
+
+An operational permit is required:
+
+1.To engage in the mobile dispensing of gaseous hydrogen as a fuel into the fuel tanks of motor vehicles.
+
+2.Where required by the fire code official, to utilize a site for the dispensing of gaseous hydrogen as a fuel from tank vehicles into the fuel tanks of motor vehicles.
+
+Exception: In cases of an emergency, a site permit is not required.
+
+105.5.33 Motor fuel-dispensing facilities.
+
+An operational permit is required for the operation of automotive, marine and fleet motor fuel-dispensing facilities.
+
+105.5.34 Open burning.
+
+An operational permit is required for the kindling or maintaining of an open fire or a fire on any public street, alley, road, or other public or private ground. Instructions and stipulations of the permit shall be complied with.
+
+Exception: Recreational fires.
+
+105.5.35 Open flames and torches.
+
+An operational permit is required to remove paint with a torch, or to use a torch or open-flame device in a wildfire risk area.
+
+105.5.36 Open flames and candles.
+
+An operational permit is required to use open flames or candles in connection with assembly areas, dining areas of restaurants or drinking establishments.
+
+105.5.37 Organic coatings.
+
+An operational permit is required for any organic-coating manufacturing operation producing more than 1 gallon (4 L) of an organic coating in one day.
+
+105.5.38 Outdoor assembly event.
+
+An operational permit is required to conduct an outdoor assembly event where planned attendance exceeds 1,000 persons.
+
+105.5.39 Places of assembly.
+
+An operational permit is required to operate a place of assembly.
+
+105.5.40 Plant extraction systems.
+
+An operational permit is required to use plant extraction systems.
+
+105.5.41 Private fire hydrants.
+
+An operational permit is required for the removal from service, use or operation of private fire hydrants.
+
+Exception: A permit is not required for private industry with trained maintenance personnel, private fire brigade or fire departments to maintain, test and use private hydrants.
+
+105.5.42 Pyrotechnic special effects material.
+
+An operational permit is required for use and handling of pyrotechnic special effects material. See Health and Safety Code Division 11, Part 2, Sections 12500, et seq. for additional requirements.
+
+105.5.43 Pyroxylin plastics.
+
+An operational permit is required for storage or handling of more than 25 pounds (11 kg) of cellulose nitrate (pyroxylin) plastics, and for the assembly or manufacture of articles involving pyroxylin plastics.
+
+105.5.44 Refrigeration equipment.
+
+An operational permit is required to operate a mechanical refrigeration unit or system regulated by Chapter 6.
+
+105.5.45 Repair garages and motor fuel-dispensing facilities.
+
+An operational permit is required for operation of repair garages.
+
+105.5.46 Rooftop heliports.
+
+An operational permit is required for the operation of a rooftop heliport.
+
+105.5.47 Spraying or dipping.
+
+An operational permit is required to conduct a spraying or dipping operation utilizing flammable or combustible liquids, or the application of combustible powders regulated by Chapter 24.
+
+105.5.48 Storage of scrap tires and tire byproducts.
+
+An operational permit is required to establish, conduct or maintain storage of scrap tires and tire byproducts that exceeds 2,500 cubic feet (71 m3) of total volume of scrap tires, and for indoor storage of tires and tire byproducts.
+
+105.5.49 Temporary membrane structures and tents.
+
+An operational permit is required to operate an air-supported temporary membrane structure, a temporary special event structure or a tent having an area in excess of 400 square feet (37 m2).
+
+Exceptions:
+
+1.Tents used exclusively for recreational camping purposes.
+
+2.Tents open on all sides, which comply with all of the following:
+
+2.1.Individual tents having a maximum size of 700 square feet (65 m2).
+
+2.2.The aggregate area of multiple tents placed side by side without a fire break clearance of not less than 12 feet (3658 mm) shall not exceed 700 square feet (65 m2) total.
+
+2.3.A minimum clearance of 12 feet (3658 mm) to structures and other tents shall be provided.
+
+105.5.50 Tire-rebuilding plants.
+
+An operational permit is required for the operation and maintenance of a tire-rebuilding plant.
+
+105.5.51 Waste handling.
+
+An operational permit is required for the operation of wrecking yards, junk yards and waste material-handling facilities.
+
+105.5.52 Wood products.
+
+An operational permit is required to store chips, hogged material, lumber or plywood in excess of 200 cubic feet (6 m3).
+
+
+
+105.5.53 Lithium batteries.
+
+An operational permit is required for an accumulation of more than 15 cubic feet (0.42 m) of lithium-ion and lithium metal batteries, where required by Section 322.1.
+
+105.5.54 Additional permits.
+
+In addition to the permits required by Section 105.6, the following permits shall be obtained from the Bureau of Fire Prevention prior to engaging in the following activities, operations, practices or functions:
+
+1.Production facilities. To change use or occupancy, or allow the attendance of a live audience, or for wrap parties.
+
+2.Pyrotechnics and special effects. To use pyrotechnic special effects, open flame, use of flammable or combustible liquids and gases, welding and the parking of motor vehicles in any building or location used for the purpose of motion picture, television and commercial production.
+
+3.Live audiences. To install seating arrangements for live audiences in approved production facilities, production studios and sound stages. See Chapter 48.
+
+[A] [A] 105.6 Required construction permits.
+
+The fire code official is authorized to issue construction permits for work as set forth in Sections 105.6.1 through 105.6.24.
+
+[A] [A] 105.6.1 Automatic fire-extinguishing systems.
+
+A construction permit is required for installation of or modification to an automatic fire-extinguishing system. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.2 Compressed gases.
+
+Where the compressed gases in use or storage exceed the amounts listed in Table 105.5.9, a construction permit is required to install, repair damage to, abandon, remove, place temporarily out of service, or close or substantially modify a compressed gas system.
+
+Exceptions:
+
+1.Routine maintenance.
+
+2.For emergency repair work performed on an emergency basis, application for permit shall be made within two working days of commencement of work.
+
+[A] [A] 105.6.3 Cryogenic fluids.
+
+A construction permit is required for installation of or alteration to outdoor stationary cryogenic fluid storage systems where the system capacity exceeds the amounts listed in Table 105.5.11. Maintenance performed in accordance with this code is not considered to be an alteration and does not require a construction permit.
+
+[A] [A] 105.6.4 Emergency responder communication coverage system.
+
+A construction permit is required for installation of or modification to in-building, two-way emergency responder communication coverage systems and related equipment. Maintenance performed in accordance with this code is not considered to be a modification and does not require a construction permit.
+
+105.6.5 Energy storage systems.
+
+A construction permit is
+required to install energy storage systems regulated by Section 1207.
+
+[A] [A] 105.6.6 Fire alarm and detection systems and related equipment.
+
+A construction permit is required for installation of or modification to fire alarm and detection systems and related equipment. Maintenance performed in accordance with this code is not considered to be a modification and does not require a construction permit.
+
+[A] [A] 105.6.7 Fire pumps and related equipment.
+
+A construction permit is required for installation of or modification to fire pumps and related fuel tanks, jockey pumps, controllers and generators. Maintenance performed in accordance with this code is not considered to be a modification and does not require a construction permit.
+
+[A] [A] 105.6.8 Flammable and combustible liquids.
+
+A construction permit is required:
+
+1.To install, repair or modify a pipeline for the transportation of flammable or combustible liquids.
+
+2.To install, construct or alter tank vehicles, equipment, tanks, plants, terminals, wells, fuel-dispensing stations, refineries, distilleries and similar facilities where flammable and combustible liquids are produced, processed, transported, stored, dispensed or used.
+
+3.To install, alter, remove, abandon or otherwise dispose of a flammable or combustible liquid tank.
+
+[A] [A] 105.6.9 Fuel cell power systems.
+
+A construction permit is required to install stationary fuel cell power systems.
+
+[A] [A] 105.6.10 Gas detection systems.
+
+A construction permit is required for the installation of or modification to gas detection systems. Maintenance performed in accordance with this code is not considered a modification and shall not require a permit.
+
+[A] [A] 105.6.11 Gates and barricades across fire apparatus access roads.
+
+A construction permit is required for the installation of or modification to a gate or barricade across a fire apparatus access road.
+
+[A] [A] 105.6.12 Hazardous materials.
+
+A construction permit is required to install, repair damage to, abandon, remove, place temporarily out of service, or close or substantially modify a storage facility or other area regulated by Chapter 50 where the hazardous materials in use or storage exceed the amounts listed in Table 105.5.22.
+
+Exceptions:
+
+1.Routine maintenance.
+
+2.For repair work performed on an emergency basis, application for permit shall be made within two working days of commencement of work.
+
+[A] [A] 105.6.13 High-piled combustible storage.
+
+A construction permit is required for the installation of or modification to a structure with more than 500 square feet (46 m2), including aisles, of high-piled combustible storage. Maintenance performed in accordance with this code is not considered to be a modification and does not require a construction permit.
+
+[A] [A] 105.6.14 Industrial ovens.
+
+A construction permit is required for installation of industrial ovens regulated by Chapter 30.
+
+Exceptions:
+
+1.Routine maintenance.
+
+2.For repair work performed on an emergency basis, application for permit shall be made within two working days of commencement of work.
+
+[A] [A] 105.6.15 LP-gas.
+
+A construction permit is required for installation of or modification to an LP-gas system. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.16 Motor vehicle repair rooms and booths.
+
+A construction permit is required to install or modify a motor vehicle repair room or booth. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.17 Plant extraction systems.
+
+A construction permit is required for installation of or modification to plant extraction systems. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.18 Private fire hydrants.
+
+A construction permit is required for the installation or modification of private fire hydrants. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.19 Smoke control or smoke exhaust systems.
+
+Construction permits are required for installation of or alteration to smoke control or smoke exhaust systems. Maintenance performed in accordance with this code is not considered to be an alteration and does not require a permit.
+
+[A] [A] 105.6.20 Solar photovoltaic power systems.
+
+A construction permit is required to install or modify solar photovoltaic power systems. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.21 Special event structure.
+
+A single construction permit is required to erect and take down a temporary special event structure.
+
+[A] [A] 105.6.22 Spraying or dipping.
+
+A construction permit is required to install or modify a spray room, dip tank or booth. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.23 Standpipe systems.
+
+A construction permit is required for the installation, modification or removal from service of a standpipe system. Maintenance performed in accordance with this code is not considered to be a modification and does not require a permit.
+
+[A] [A] 105.6.24 Temporary membrane structures and tents.
+
+A construction permit is required to erect an air-supported temporary membrane structure, a temporary stage canopy or a tent having an area in excess of 400 square feet (37 m2).
+
+Exceptions:
+
+1.Tents used exclusively for recreational camping purposes.
+
+2.Funeral tents and curtains, or extensions attached thereto, when used for funeral services.
+
+3.Tents and awnings open on all sides, which comply with all of the following:
+
+3.1. Individual tents shall have a maximum size of 700 square feet (65 m2).
+
+3.2. The aggregate area of multiple tents placed side by side without a fire break clearance of not less than 12 feet (3658 mm) shall not exceed 700 square feet (65 m2) total.
+
+3.3. A minimum clearance of 12 feet (3658 mm) to structures and other tents shall be maintained.
+
+SECTION 106 CONSTRUCTION DOCUMENTS
+
+[A] [A] 106.1 Submittals.
+
+Construction documents and supporting data shall be submitted in two or more sets with each application for a permit and in such form and detail as required by the fire code official. The construction documents shall be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.
+
+Exception: The fire code official is authorized to waive the submission of construction documents and supporting data not required to be prepared by a registered design professional if it is found that the nature of the work applied for is such that review of construction documents is not necessary to obtain compliance with this code.
+
+[A] [A] 106.2 Examination of documents.
+
+The fire code official shall examine or cause to be examined the accompanying construction documents and shall ascertain by such examinations whether the work indicated and described is in accordance with the requirements of this code.
+
+[A] [A] 106.2.1 Information on construction documents.
+
+Construction documents shall be drawn to scale on suitable material. Documents in a digital format are allowed to be submitted where approved by the fire code official. Construction documents shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and relevant laws, ordinances, rules and regulations as determined by the fire code official.
+
+[A] [A] 106.2.2 Fire protection system shop drawings.
+
+Shop drawings for the fire protection system(s) shall be submitted to indicate compliance with this code and the construction documents, and shall be approved prior to the start of installation. Shop drawings shall contain all information as required by the referenced installation standards in Chapter 9.
+
+[A] [A] 106.2.3 Applicant responsibility.
+
+It shall be the responsibility of the applicant to ensure that the construction documents include all of the fire protection requirements and the shop drawings are complete and in compliance with the applicable codes and standards.
+
+[A] [A] 106.2.4 Approved documents.
+
+Construction documents approved by the fire code official are approved with the intent that such construction documents comply in all respects with this code. Review and approval by the fire code official shall not relieve the applicant of the responsibility of compliance with this code.
+
+[A] [A] 106.2.4.1 Phased approval.
+
+The fire code official is authorized to issue a permit for the construction of part of a structure, system or operation before the construction documents for the whole structure, system or operation have been submitted, provided that adequate information and detailed statements have been filed complying with pertinent requirements of this code. The holder of such permit for parts of a structure, system or operation shall proceed at the holder’s own risk with the building operation and without assurance that a permit for the entire structure, system or operation will be granted.
+
+[A] [A] 106.3 Amended construction documents.
+
+Work shall be installed in accordance with the approved construction documents, and any changes made during construction that are not in compliance with the approved construction documents shall be resubmitted for approval as an amended set of construction documents.
+
+[A] [A] 106.4 Retention of construction documents.
+
+One set of construction documents shall be retained by the fire code official for a period of not less than 180 days from date of completion of the permitted work, or as required by state or local laws. One set of approved construction documents shall be returned to the applicant, and said set shall be kept on the site of the building or work at all times during which the work authorized thereby is in progress.
+
+SECTION 107 FEES
+
+[A] [A] 107.1 Fees.
+
+A permit shall not be issued until the fees have been paid, nor shall an amendment to a permit be released until the additional fee, if any, has been paid.
+
+[A] [A] 107.2 Schedule of permit fees.
+
+Where a permit is required, a fee for each permit shall be paid as required, in accordance with the schedule as established by the applicable governing authority.
+
+107.3 Permit valuations.
+
+The applicant for a permit shall provide an estimated permit value at the time of application. Permit valuations shall include the total value of work, including materials and labor, for which the permit is being issued, such as electrical, gas, mechanical, plumbing equipment and permanent systems. If, in the opinion of the fire code official, the valuation is underestimated on the application, the permit shall be denied unless the applicant can show detailed estimates to meet the approval of the fire code official. Final permit valuation shall be set by the fire code official.
+
+[A] [A] 107.4 Work commencing before permit issuance.
+
+A person who commences any work, activity or operation regulated by this code before obtaining the necessary permits shall be subject to a fee established by the applicable governing authority, which shall be in addition to the required permit fees.
+
+[A] [A] 107.5 Related fees.
+
+The payment of the fee for the construction, alteration, removal or demolition of work done in connection to or concurrently with the work or activity authorized by a permit shall not relieve the applicant or holder of the permit from the payment of other fees that are prescribed by law.
+
+[A] [A] 107.6 Refunds.
+
+The applicable governing authority is authorized to establish a refund policy.
+
+SECTION 108 INSPECTIONS
+
+[A] [A] 108.1 Inspection authority.
+
+The fire code official is authorized to enter and examine any building, structure, marine vessel, vehicle or premises in accordance with Section 104.3 for the purpose of enforcing this code.
+
+[A] [A] 108.2 Inspections.
+
+The fire code official is authorized to conduct such inspections as are deemed necessary to determine the extent of compliance with the provisions of this code and to approve reports of inspection by approved agencies or individuals. Reports of such inspections shall be prepared and submitted in writing for review and approval. Inspection reports shall be certified by a responsible officer of such approved agency or by the responsible individual. The fire code official is authorized to engage such expert opinion as deemed necessary to report on unusual, detailed or complex technical issues subject to the approval of the governing body.
+
+[A] [A] 108.2.1 Inspection requests.
+
+It shall be the duty of the holder of the permit or their duly authorized agent to notify the fire code official when work is ready for inspection. It shall be the duty of the permit holder to provide access to and means for inspections of such work that are required by this code.
+
+[A] [A] 108.2.2 Approval required.
+
+Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the fire code official. The fire code official, on notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or notify the permit holder or his or her agent wherein the same fails to comply with this code. Any portions that do not comply shall be corrected, and such portion shall not be covered or concealed until authorized by the fire code official.
+
+[A] [A] 108.3 Concealed work.
+
+It shall be the duty of the permit applicant to cause the work to remain visible and able to be accessed for inspection purposes. Where any installation subject to inspection prior to use is covered or concealed without having first been inspected, the fire code official shall have the authority to require that such work be made visible and able to be accessed for inspection. Neither the fire code official nor the jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+[A] [A] 108.4 Approvals.
+
+Approval as the result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel provisions of this code or of other ordinances of the jurisdiction shall not be valid.
+
+SECTION 109 MAINTENANCE
+
+[A] [A] 109.1 Maintenance of safeguards.
+
+Where any device, equipment, system, condition, arrangement, level of protection, or any other feature is required for compliance with the provisions of this code, or otherwise installed, such device, equipment, system, condition, arrangement, level of protection, or other feature shall thereafter be continuously maintained in accordance with this code and applicable referenced standards.
+
+[A] [A] 109.2 Testing and operation.
+
+Equipment requiring periodic testing or operation to ensure maintenance shall be tested or operated as specified in this code.
+
+[A] [A] 109.2.1 Reinspection and testing.
+
+Where any work or installation does not pass an initial test or inspection, the necessary corrections shall be made so as to achieve compliance with this code. The work or installation shall then be resubmitted to the fire code official for inspection and testing.
+
+[A] [A] 109.3 Recordkeeping.
+
+A record of periodic inspections, tests, servicing and other operations and maintenance shall be maintained on the premises or other approved location for not less than 3 years, or a different period of time where specified in this code or referenced standards. Records shall be made available for inspection by the fire code official, and a copy of the records shall be provided to the fire code official on request.
+
+The fire code official is authorized to prescribe the form and format of such recordkeeping. The fire code official is authorized to require that certain required records be filed with the fire code official.
+
+[A] [A] 109.4 Supervision.
+
+Maintenance and testing shall be under the supervision of a responsible person who shall ensure that such maintenance and testing are conducted at specified intervals in accordance with this code.
+
+109.5 Rendering equipment inoperable.
+
+Portable or fixed fire-extinguishing systems or devices, and fire-warning systems, shall be provided with ready access and shall not be rendered inoperative, except as necessary during emergencies, maintenance, repairs, alterations, drills or prescribed testing.
+
+[A] [A] 109.6 Overcrowding.
+
+Overcrowding or admittance of any person beyond the approved capacity of a building or a portion thereof shall not be allowed. The fire code official, on finding any overcrowding conditions or obstructions in aisles, passageways or other means of egress, or on finding any condition that constitutes a life safety hazard, shall be authorized to cause the event to be stopped until such condition or obstruction is corrected.
+
+SECTION 110 SERVICE UTILITIES
+
+[A] [A] 110.1 Authority to disconnect service utilities.
+
+The fire code official shall have the authority to authorize disconnection of utility service to the building, structure or system in order to safely execute emergency operations or to eliminate an immediate hazard. The fire code official shall notify the serving utility and, where possible, the owner or the owner’s authorized agent and the occupant of the building, structure or service system of the decision to disconnect prior to taking such action. If not notified prior to disconnection, then the owner, the owner’s authorized agent or occupant of the building, structure or service system shall be notified in writing as soon as practical thereafter.
+
+SECTION 111 MEANS OF APPEALS
+
+[A] [A] 111.1 Board of appeals established.
+
+In order to hear and decide appeals of orders, decisions or determinations made by the fire code official relative to the application and interpretation of this code, there shall be and is hereby created a board of appeals. The board of appeals shall be appointed by the applicable governing authority and shall hold office at its pleasure. The board shall adopt rules of procedure for conducting its business and shall render all decisions and findings in writing to the appellant with a duplicate copy to the fire code official.
+
+[A] [A] 111.2 Limitations on authority.
+
+An application for appeal shall be based on a claim that the true intent of this code or the rules legally adopted thereunder have been incorrectly interpreted, the provisions of this code do not fully apply or an equivalent or better form of construction is proposed. The board shall not have authority to waive requirements of this code or interpret the administration of this code.
+
+[A] [A] 111.3 Qualifications.
+
+The board of appeals shall consist of members who are qualified by experience and training to pass on matters pertaining to hazards of fire, explosions, hazardous conditions or fire protection systems, and are not employees of the jurisdiction.
+
+[A] [A] 111.4 Administration.
+
+The fire code official shall take immediate action in accordance with the decision of the board.
+
+SECTION 112 VIOLATIONS
+
+[A] [A] 112.1 Unlawful acts.
+
+It shall be unlawful for a person, firm or corporation to erect, construct, alter, repair, remove, demolish or utilize a building, occupancy, premises or system regulated by this code, or cause same to be done, in conflict with or in violation of any of the provisions of this code.
+
+[A] [A] 112.2 Owner/occupant responsibility.
+
+Correction and abatement of violations of this code shall be the responsibility of the owner or the owner’s authorized agent. Where an occupant creates, or allows to be created, hazardous conditions in violation of this code, the occupant shall be held responsible for the abatement of such hazardous conditions.
+
+[A] [A] 112.3 Notice of violation.
+
+Where the fire code official finds a building, premises, vehicle, storage facility or outdoor area that is in violation of this code, the fire code official is authorized to prepare a written notice of violation describing the conditions deemed unsafe and, where compliance is not immediate, specifying a time for reinspection.
+
+[A] [A] 112.3.1 Service.
+
+A notice of violation issued pursuant to this code shall be served on the owner, the owner’s authorized agent, operator, occupant or other person responsible for the condition or violation, either by personal service, mail or by delivering the same to, and leaving it with, some person of responsibility on the premises. For unattended or abandoned locations, a copy of such notice of violation shall be posted on the premises in a conspicuous place at or near the entrance to such premises and the notice of violation shall be mailed by certified mail with return receipt requested or a certificate of mailing, to the last known address of the owner, the owner’s authorized agent, or occupant.
+
+[A] [A] 112.3.2 Compliance with orders and notices.
+
+A notice of violation issued or served as provided by this code shall be complied with by the owner, the owner’s authorized agent, operator, occupant or other person responsible for the condition or violation to which the notice of violation pertains.
+
+[A] [A] 112.3.3 Prosecution of violations.
+
+If the notice of violation is not complied with promptly, the fire code official is authorized to request the legal counsel of the jurisdiction to institute the appropriate legal proceedings at law or in equity to restrain, correct or abate such violation or to require removal or termination of the unlawful occupancy of the structure in violation of the provisions of this code or of the order or direction made pursuant hereto.
+
+[A] [A] 112.3.4 Unauthorized tampering.
+
+Signs, tags or seals posted or affixed by the fire code official shall not be mutilated, destroyed or tampered with, or removed, without authorization from the fire code official.
+
+[A] [A] 112.4 Violation penalties.
+
+Persons who shall violate a provision of this code or shall fail to comply with any of the requirements thereof or who shall erect, install, alter, repair or do work in violation of the approved construction documents or directive of the fire code official, or of a permit or certificate used under provisions of this code, shall be guilty of a [SPECIFY OFFENSE], punishable by a fine of not more than [AMOUNT] dollars or by imprisonment not exceeding [NUMBER OF DAYS], or both such fine and imprisonment. Each day that a violation continues after due notice has been served shall be deemed a separate offense.
+
+[A] [A] 112.4.1 Abatement of violation.
+
+In addition to the imposition of the penalties herein described, the fire code official is authorized to institute appropriate action to prevent unlawful construction or to restrain, correct or abate a violation; or to prevent illegal occupancy of a structure or premises; or to stop an illegal act, conduct of business or occupancy of a structure on or about any premises.
+
+SECTION 113 STOP WORK ORDER
+
+[A] [A] 113.1 Authority.
+
+Where the fire code official finds any
+work regulated by this code being performed in a manner contrary to the provisions of this code, or in a dangerous or
+unsafe manner, the fire code official is authorized to issue a 
+stop work order.
+
+[A] [A] 113.2 Issuance.
+
+The stop work order shall be in writing
+and shall be given to the owner of the property, the owner’s
+authorized agent or the person performing the work. Upon
+issuance of a stop work order, the cited work shall immediately cease. The stop work order shall state the reason for the
+order and the conditions under which the cited work is authorized to resume.
+
+[A] [A] 113.3 Emergencies.
+
+Where an emergency exists, the fire
+code official shall not be required to give a written notice
+prior to stopping the work.
+
+[A] [A] 113.4 Failure to comply.
+
+Any person who shall continue
+any work after having been served with a stop work order,
+except such work as that person is directed to perform to
+remove a violation or unsafe condition, shall be subject to
+fines established by the authority having jurisdiction.
+
+SECTION 114 UNSAFE STRUCTURES OR EQUIPMENT
+
+[A] [A] 114.1 General.
+
+If during the inspection of a premises, a
+structure, or any building system, in whole or in part, constitutes a clear and inimical threat to human life, safety or
+health, the fire code official shall issue such notice or orders
+to remove or remedy the conditions as shall be deemed necessary in accordance with this section, and shall refer the
+building to the building official for any repairs, alterations,
+remodeling, removing or demolition required.
+
+[A] [A] 114.1.1 Unsafe conditions.
+
+Structures or existing
+equipment that are or hereafter become unsafe, insanitary
+or deficient because of inadequate means of egress, inadequate light and ventilation, or that constitute a fire hazard,
+are otherwise dangerous to human life or the public
+welfare, or involve illegal or improper occupancy or inadequate maintenance, shall be deemed an unsafe condition.
+Unsafe structures shall be taken down and removed or
+made safe, as the fire code official deems necessary and as
+provided for in this section. A vacant structure that is not
+secured against unauthorized entry shall be deemed
+unsafe.
+
+[A] [A] 114.1.2 Structural hazards.
+
+Where an apparent structural hazard is caused by the faulty installation, operation
+or malfunction of any of the items or devices governed by
+this code, the fire code official shall immediately notify
+the building code official in accordance with Section
+114.1.
+
+[A] [A] 114.2 Evacuation.
+
+The fire code official or the fire
+department official in charge of an incident shall be authorized to order the immediate evacuation of any occupied
+structure deemed unsafe where such structure has hazardous
+conditions that pose an imminent danger to structure occupants. Persons so notified shall immediately leave the
+structure or premises and shall not enter or re-enter until
+authorized to do so by the fire code official or the fire department official in charge of the incident.
+
+[A] [A] 114.3 Record.
+
+The fire code official shall cause a report
+to be filed on an unsafe condition. The report shall state the
+occupancy of the structure and the nature of the unsafe
+condition.
+
+[A] [A] 114.4 Notice.
+
+If an unsafe condition is found, the fire
+code official shall serve on the owner of the structure or the
+owner’s authorized agent a written notice that describes the
+condition deemed unsafe and specifies the required repairs or
+improvements to be made to abate the unsafe condition, or
+requires the unsafe structure to be demolished within a stipulated time. Such notice shall require the person thus notified
+to declare immediately to the fire code official acceptance or
+rejection of the terms of the order.
+
+[A] [A] 114.5 Method of service.
+
+Such notice shall be deemed
+properly served where a copy thereof is served in accordance
+with one of the following methods:
+
+1.  A copy is delivered to the owner personally.
+
+2.  A copy is sent by certified or registered mail addressed
+to the owner at the last known address with return
+receipt requested.
+
+3.  A copy is delivered in any other manner as prescribed
+by local law.
+
+If the certified or registered letter is returned showing that
+the letter was not delivered, a copy thereof shall be posted in
+a conspicuous place in or about the structure affected by such
+notice. Service of such notice in the foregoing manner on the
+owner’s authorized agent shall constitute service of notice on
+the owner.
+
+[A] [A] 114.6 Restoration or abatement.
+
+The structure or equipment determined to be unsafe by the fire code official is
+permitted to be restored to a safe condition. The owner, the
+owner’s authorized agent, operator or occupant of a structure,
+premises or equipment deemed unsafe by the fire code official shall abate or cause to be abated or corrected such unsafe
+conditions either by repair, rehabilitation, demolition or other
+approved corrective action. To the extent that repairs, alterations or additions are made or a change of occupancy occurs
+during the restoration of the structure, such repairs, alterations, additions or change of occupancy shall comply with
+the requirements of Section105.1.5 and the California Existing Building Code.
+
+[A] [A] 114.7 Summary abatement.
+
+Where conditions exist that
+are deemed hazardous to life and property, the fire code official or fire department official in charge of the incident is
+authorized to abate summarily such hazardous conditions that
+are in violation of this code.
+

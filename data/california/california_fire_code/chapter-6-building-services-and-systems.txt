@@ -1,0 +1,1011 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 6 – BUILDING SERVICES AND SYSTEMS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	CSA	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt Entire Chapter																							
+	Adopt Entire Chapter as amended (amended sections listed below)			X																				
+	Adopt only those sections that are listed below																							
+	[California Code of Regulations, Title 19, Division 1]				X																			
+	Chapter / Section																							
+	603.1.2			X																				
+	603.4			X																				
+	[T-19 §3.17 (a)(b)]				X																			
+	603.5.1.1			X																				
+ 	603.8			X																				
+	604.2.4 - 604.2.5			X																				
+	604.5.3 			X																				
+	604.6.3			X																				
+	604.4 - 604.4.4			X																				
+>	606.1			X																				
+																								* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 6 BUILDING SERVICES AND SYSTEMS
+
+User note:
+
+About this chapter: Chapter 6 focuses on building systems and services as they relate to potential safety hazards and when and how they should be installed. This chapter brings together all building system- and service-related issues for convenience and provides a more systematic view of buildings. The following building services and systems are addressed: electrical equipment wiring and hazards, elevator operation, maintenance and fire service keys, fuel-fired appliances, commercial cooking equipment and systems, commercial cooking oil storage, mechanical refrigeration, hyperbaric facilities and clothes dryer exhaust systems. Note that building systems focused on energy systems and components are addressed by Chapter 12. Portions of this chapter were extensively reorganized for the 2021 edition. For clarity, the relocation marginal markings have not been included. For complete information, see the relocations table in the preface information of this code.
+
+SECTION 601 GENERAL
+
+601.1 Scope.
+
+The provisions of this chapter shall apply to the installation, operation and maintenance of the following building services and systems:
+
+1.Electrical systems, equipment and wiring.
+
+2.Information technology server rooms.
+
+3.Elevator systems, emergency operation and recall.
+
+4.Fuel-fired appliances, heating systems, chimneys and fuel oil storage.
+
+5.Commercial cooking equipment and systems.
+
+6.Commercial cooking oil storage.
+
+7.Mechanical refrigeration systems.
+
+8.Hyperbaric facilities.
+
+9.Clothes dryer exhaust systems.
+
+
+
+601.2 Hazard abatement.
+
+Operations or conditions deemed unsafe or hazardous by the fire code official shall be abated. Equipment, appliances, materials and systems that are modified or damaged and constitute an electrical shock or fire hazard shall not be used.
+
+601.2.1 Correction of unsafe conditions.
+
+The fire code official shall be authorized to require the owner, the owner’s authorized agent, operator or occupant of a building or premises to abate or cause to be abated or corrected such unsafe operations or conditions either by repair, rehabilitation, demolition or other approved corrective action in compliance with this code.
+
+SECTION 602 DEFINITIONS
+
+602.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+COMMERCIAL COOKING APPLIANCES.
+
+
+
+HOOD.
+
+Type I.
+
+
+
+REFRIGERANT.
+
+REFRIGERATING (REFRIGERATION) SYSTEM.
+
+SECTION 603 ELECTRICAL EQUIPMENT, WIRING AND HAZARDS AND HAZARDS
+
+603.1 General.
+
+Electrical equipment, wiring and systems required by this code or the California Building Code shall be installed, used and maintained in accordance with the California Electrical Code and Sections 603.2 through 603.10.
+
+603.1.1 Equipment and wiring.
+
+All electrical equipment, wiring, devices and appliances shall be tested; listed and labeled; and installed, used and maintained in accordance with the California Electrical Code and all instructions included as part of such listing.
+
+603.1.2 Healthcare facilities.
+
+In Group I-2 facilities, ambulatory care facilities and outpatient clinics, the electrical systems and equipment shall be maintained and tested in accordance with NFPA 99 and Article 517 of the California Electrical Code.
+
+603.2 Abatement of unsafe conditions and electrical hazards.
+
+Conditions that constitute an electrical shock or fire hazard shall be abated.
+
+603.2.1 Modified or damaged.
+
+Electrical wiring, devices, equipment and appliances that are modified or damaged, and constitute an electrical shock or fire hazard, shall not be used until repaired or replaced in accordance with this code and the California Electrical Code.
+
+603.2.2 Open electrical terminations.
+
+Open junction boxes and open-wiring splices shall be prohibited. Approved covers shall be provided for all switch and electrical outlet boxes.
+
+603.3 Illumination.
+
+Illumination shall be provided for service equipment areas, motor control centers and electrical panelboards.
+
+603.4 Working space and clearances.
+
+Working space around electrical equipment shall be provided in accordance with Section 110.26 of the California Electrical Code for electrical equipment rated 1,000 volts or less, and Section 110.32 of the California Electrical Code for electrical equipment rated over 1,000 volts. The minimum required working space shall be not less than 30 inches (762 mm) in width, 36 inches (914 mm) in depth and 78 inches (1981 mm) in height in front of electrical service equipment. Where the electrical service equipment is wider than 30 inches (762 mm), the minimum working space shall be not less than the width of the equipment. Storage of materials shall not be located within the designated working space.
+
+
+
+603.4.1 Labeling.
+
+Doors into electrical control panel rooms shall be marked with a plainly visible and legible sign stating “ELECTRICAL ROOM” or similar approved wording. The disconnecting means for each service, feeder or branch circuit originating on a switchboard or panelboard shall be legibly and durably marked to indicate its purpose unless such purpose is clearly evident. Where buildings or structures are supplied by more than one power source, markings shall be provided at each service equipment location and at all interconnected electric power production sources identifying all electric power sources at the premises in accordance with the California Electrical Code.
+
+603.5 Relocatable power taps and current taps.
+
+The construction and use of current taps and relocatable taps shall be in accordance with the California Electrical Code and this code.
+
+603.5.1 Listing.
+
+Relocatable power taps shall be listed in accordance with UL 1363. Current taps shall be listed and labeled in accordance with UL 498A.
+
+603.5.1.1 Listing in Group I-2 occupancies and ambulatory care facilities.
+
+In Group I-2 occupancies and ambulatory care facilities, relocatable power taps shall be listed in accordance with UL 1363 except under the following conditions:
+
+1.In Group I-2 occupancies, relocatable power taps providing power to patient care-related electrical equipment in the patient care vicinity, as defined by NFPA 99, shall be listed in accordance with UL 1363A or UL 60601-1.
+
+2.In Group I-2 facilities, in care recipient rooms using line-operated patient care-related electrical equipment, relocatable power taps in the patient care vicinity, as defined by NFPA 99, shall be listed in accordance with UL 1363A or UL 60601-1.
+
+3.In ambulatory care facilities, relocatable power taps providing power to patient care-related electrical equipment in the patient care vicinity, as defined by NFPA 99, shall be listed in accordance with UL 1363A or UL 60601-1.
+
+603.5.2 Application and use.
+
+Relocatable power taps and current taps shall be directly connected to a permanently installed receptacle.
+
+Exceptions:
+
+1.Where approved for use in a Group A occupancy or in a meeting room in a Group B occupancy, not more than five relocatable power taps shall be permitted to be connected together or connected to an extension cord for temporary use to supply power to electronic equipment.
+
+2.Current taps and relocatable power taps shall not be required to connect directly to a permanently installed receptacle outlet where used for 90 days or less for the purpose of testing the performance of such devices.
+
+603.5.3 Installation.
+
+Relocatable power tap cords shall not extend through walls, ceilings, floors, under doors or floor coverings, or be subject to environmental or physical damage.
+
+603.6 Extension cords.
+
+Extension cords shall not be a substitute for permanent wiring and shall be listed and labeled in accordance with UL 817. Extension cords shall not be affixed to structures, extended through walls, ceilings or floors, or under doors or floor coverings, nor shall such cords be subject to environmental damage or physical impact. Extension cords shall be used only with portable appliances. Extension cords marked for indoor use shall not be used outdoors.
+
+603.6.1 Application and use.
+
+Extension cords shall be plugged directly into an approved receptacle, relocatable power tap or current tap and, except for approved multiplug extension cords, shall serve only one portable appliance.
+
+603.6.2 Ampacity.
+
+The ampacity of the extension cords shall be not less than the rated capacity of the portable appliance supplied by the cord.
+
+603.6.3 Maintenance.
+
+Extension cords shall be maintained in good condition without splices, deterioration or damage.
+
+603.6.4 Grounding.
+
+Extension cords shall be grounded where serving grounded portable appliances.
+
+603.7 Electrical motors.
+
+Electrical motors shall be maintained free from excessive accumulations of oil, dirt, waste and debris.
+
+603.8 Temporary wiring.
+
+The use of temporary wiring for electrical power and lighting installations shall not exceed a period of 90 days. Temporary wiring methods shall meet the applicable provisions of the California Electrical Code.
+
+Exception: Temporary wiring for electrical power and lighting installations complying with the applicable provisions of the California Electrical Code is permitted during periods of construction, remodeling, repair or demolition of buildings, structures, equipment or similar activities.
+
+603.8.1 Attachment to structures.
+
+Temporary wiring attached to a structure shall be protected from physical damage and supported on insulators spaced not more than 10 feet (3048 mm) apart.
+
+603.9 Portable, electric space heaters.
+
+Where not prohibited by other sections of this code, portable, electric space heaters shall be permitted to be used in all occupancies in accordance with Sections 603.9.1 through 603.9.5.
+
+603.9.1 Listed and labeled.
+
+Only listed and labeled portable, electric space heaters shall be used.
+
+603.9.2 Power supply.
+
+Portable, electric space heaters shall be plugged directly into an approved receptacle.
+
+603.9.3 Extension cords.
+
+Portable, electric space heaters shall not be plugged into extension cords.
+
+603.9.4 Prohibited areas.
+
+Portable, electric space heaters shall not be operated within 3 feet (914 mm) of any combustible materials. Portable, electric space heaters shall be operated only in locations for which they are listed.
+
+603.9.5 Group I-2 occupancies and ambulatory care facilities.
+
+Where used in Group I-2 and ambulatory care facilities, portable, electric space heaters shall be limited to those having a heating element that cannot exceed a temperature of 212°F (100°C), and such heaters shall only be used in nonsleeping staff and employee areas.
+
+603.10 Abandoned wiring in plenums.
+
+Abandoned cables in plenums that are able to be accessed without causing damage, or requiring demolition to the building, shall be tagged for future use or shall be removed.
+
+SECTION 604 ELEVATOR OPERATION, MAINTENANCE AND FIRE SERVICE KEYS AND FIRE SERVICE KEYS
+
+604.1 General.
+
+Where elevators and conveying systems are installed, they shall comply with Chapter 30 of the California Building Code and Sections 604.2 through 604.7 of this code.
+
+604.2 Emergency operation.
+
+Existing elevators with a travel distance of 25 feet (7620 mm) or more shall comply with the requirements in Chapter 11. New elevators shall be provided with Phase I emergency recall operation and Phase II emergency in-car operation in accordance with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+604.3 Standby power.
+
+In buildings and structures where standby power is required or furnished to operate an elevator, standby power shall be provided in accordance with Section 1203 of this code and Chapter 30 of the California Building Code. Operation of the system shall be in accordance with Sections 604.3.1 through 604.3.5.
+
+604.3.1 Manual transfer.
+
+Standby power shall be manually transferable to all elevators in each bank.
+
+604.3.2 One elevator.
+
+Where only one elevator is installed, the elevator shall automatically transfer to standby power within 60 seconds after failure of normal power.
+
+604.3.3 Two or more elevators.
+
+Where two or more elevators are controlled by a common operating system, all elevators shall automatically transfer to standby power within 60 seconds after failure of normal power where the standby power source is of sufficient capacity to operate all elevators at the same time. Where the standby power source is not of sufficient capacity to operate all elevators at the same time, all elevators shall transfer to standby power in sequence, return to the designated landing and disconnect from the standby power source. After all elevators have been returned to the designated level, not less than one elevator shall remain operable from the standby power source.
+
+604.3.4 Temperature and humidity control. Temperature and humidity control
+
+Where standby power is connected to elevators, the machine room, machine space, control room and control space ventilation or air conditioning system shall be connected to the standby power source.
+
+604.3.5 604.3.5 Emergency hoistway venting. Emergency hoistway venting.
+
+Where standby power is connected to elevators, the emergency hoistway ventilation system, if required, shall be connected to the standby power source.
+
+[BE] 604.4 Emergency signs.
+
+An approved pictorial sign of a standardized design shall be posted adjacent to each elevator call station on all floors instructing occupants to use the exit stairways and not to use the elevators in case of fire. The sign shall read: “IN FIRE EMERGENCY, DO NOT USE ELEVATOR. USE EXIT STAIRS.”
+
+Exceptions:
+
+1.The emergency sign shall not be required for elevators that are part of an accessible means of egress complying with Section 1009.4.
+
+2.The emergency sign shall not be required for elevators that are used for occupant self-evacuation in accordance with Section 3008 of the California Building Code.
+
+604.5 Maintenance of elevators.
+
+Elevator features and lobbies required by Section 3006 of the California Building Code shall be maintained in accordance with Sections 604.5.1 through 604.5.4.
+
+604.5.1 Fire service access elevators and lobbies.
+
+Where fire service access elevators are required by Section 3007 of the California Building Code, fire service access elevator fire protection and safety features and lobbies required by Section 3007 of the California Building Code shall be maintained free of storage and furniture.
+
+604.5.2 Occupant evacuation elevators and lobbies.
+
+Where occupant evacuation elevators are provided in accordance with Section 3008 of the California Building Code, occupant evacuation elevator fire protection and safety features and lobbies required by Section 3008 of the California Building Code shall be maintained free of storage and furniture.
+
+604.5.3 Storage within elevator lobbies.
+
+Where hoistway opening protection is required by Section 3006.2 of the California Building Code, elevator lobbies shall be maintained free of storage.
+
+604.5.4 Water protection of hoistway enclosures.
+
+Methods to prevent water from infiltrating into a hoistway enclosure required by Sections 3007.3 and 3008.3 of the California Building Code shall be maintained.
+
+604.6 Elevator keys.
+
+All elevators shall be provided with elevator car door and fire-fighter service keys in accordance with Sections 604.6.1 through 604.6.2.4.
+
+604.6.1 Elevator key location.
+
+Keys for the elevator car doors and fire-fighter service keys shall be kept in an approved location for immediate use by the fire department.
+
+604.6.2 Standardized fire service elevator keys.
+
+Buildings with elevators equipped with Phase I emergency recall, Phase II emergency in-car operation, or a fire service access elevator shall be equipped to operate with a standardized fire service elevator key approved by the fire code official or a standardized key in accordance with ASME A17.1/CSA B44.
+
+Exception: The owner shall be permitted to place the building’s nonstandardized fire service elevator keys in a key box installed in accordance with Section 506.1.2.
+
+604.6.2.1 Requirements for standardized fire service elevator keys.
+
+Standardized fire service elevator keys shall comply with all of the following:
+
+1.All fire service elevator keys within the jurisdiction shall be uniform and approved in accordance with Section 604.6.2. Keys shall be cut to a uniform key code.
+
+2.Fire service elevator keys shall be of a patentprotected design to prevent unauthorized duplication.
+
+3.Fire service elevator keys shall be factory restricted by the manufacturer to prevent the unauthorized distribution of key blanks. Uncut key blanks shall not be permitted to leave the factory.
+
+4.Fire service elevator keys subject to these rules shall be engraved with the words “DO NOT DUPLICATE.”
+
+604.6.2.2 Access to standardized fire service keys.
+
+Access to standardized fire service elevator keys shall be restricted to the following:
+
+1.Elevator owners or their authorized agents.
+
+2.Elevator contractors.
+
+3.Elevator inspectors of the jurisdiction.
+
+4.Fire code officials of the jurisdiction.
+
+5.The fire department and other emergency response agencies designated by the fire code official.
+
+604.6.2.3 Duplication or distribution of keys.
+
+A person shall not duplicate a standardized fire service elevator key or issue, give, or sell a duplicated key unless in accordance with this code.
+
+604.6.2.4 Responsibility to provide keys.
+
+The building owner shall provide up to three standardized fire service elevator keys where required by the fire code official, upon installation of a standardized fire service key switch or switches in the building.
+
+604.6.3 604.6.3 Shunt trip. Shunt trip.
+
+Where elevator hoistways or elevator machine rooms containing elevator control equipment are protected with automatic sprinklers, a means installed in accordance with NFPA 72, Section 21.4, Elevator Shutdown, shall be provided to automatically disconnect the main line power supply to the affected elevator prior to the application of water. This means shall not be self-resetting. The activation of sprinklers outside the hoistway or machine room shall not disconnect the main line power supply.
+
+604.6.4 604.6.4 Emergency hoistway venting. Emergency hoistway venting.
+
+Elevator hoistways containing the driving machine shall be provided with a means for venting smoke and hot gases to the outer air in case of fire.
+
+604.6.4.1 604.6.4.1 Location of vents. Location of vents.
+
+Vents shall be located at the top of the hoistway and shall open either directly to the outer air or through noncombustible ducts to the outer air.
+
+604.6.4.2 604.6.4.2 Area of vents. Area of vents.
+
+Except as provided for in Section 3003.1.4.4 of the California Building Code, the area of the vents shall be not less than 3½ percent of the area of the hoistway nor less than 3 square feet (0.28 m2) for each elevator car.
+
+604.6.4.3 604.6.4.3 Operation of vents. Operation of vents.
+
+Vent openings shall automatically open upon detection of smoke in the elevator hoistway and upon activation of a manual override control. The manual override control shall be capable of opening and closing the vents and shall be located in an approved location. Smoke detectors provided in elevator hoistways to activate the hoistway ventilation system, shall also be required to activate the elevator Phase I emergency recall operation function in accordance with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+604.6.4.4 604.6.4.4 Reduced vent area. Reduced vent area.
+
+Where mechanical ventilation conforming to the California Mechanical Code is provided, a reduction in the required vent area is allowed provided that all of the following conditions are met:
+
+1.The vents required by Section 3003.1.4.1 of the California Building Code do not have outside exposure.
+
+2.The hoistway does not extend to the top of the building.
+
+3.The hoistway exhaust fan is automatically reactivated by thermostatic means.
+
+4.Equivalent venting of the hoistway is accomplished.
+
+604.7 Storage.
+
+Storage is prohibited in elevator cars or elevator machine rooms.
+
+Exceptions:
+
+1.Blankets used for protection of elevator cab walls during construction or renovation.
+
+2.Materials necessary for the operation and maintenance of the elevator equipment.
+
+SECTION 605 FUEL-FIRED APPLIANCES
+
+605.1 General.
+
+The design, construction, installation, operation, alteration, repair and maintenance of nonportable gasfired appliances and systems shall comply with the California Plumbing Code. The design, construction, installation, operation, alteration, repair and maintenance of nonportable solid fuel-fired and oil-fired appliances and systems shall comply with the provisions of this section and the California Mechanical Code. The construction and use of portable fuelfired appliances not connected to a fixed fuel piping system, such as blow torches, melting pots and weed burners, shall comply with this section.
+
+605.1.1 Installation of nonportable fuel-fired appliances.
+
+The installation of nonportable fuel-fired appliances shall be made in accordance with the manufacturer’s installation instructions and applicable federal, state and local rules and regulations.
+
+
+
+605.1.2 Electrical wiring and equipment.
+
+Electrical wiring and equipment used in connection with fuel-fired appliances and equipment shall be installed and maintained in accordance with Section 603 and the California Electrical Code.
+
+605.1.3 Fuel oil.
+
+The grade of fuel oil used in an oil burner shall be that for which the oil burner is approved and as stipulated by the oil burner manufacturer’s instructions. Oil containing gasoline shall not be used. Waste crankcase oil shall be an acceptable fuel in Group F, M and S occupancies where utilized in equipment listed and labeled for use with waste oil and where such equipment is installed in accordance with the manufacturer’s instructions and the terms of its listing.
+
+605.1.4 Access.
+
+The installation of fuel-fired equipment shall be provided with access to equipment for cleaning hot surfaces; removing burners; replacing motors, controls, air filters, chimney and vent connectors, draft regulators and other working parts; and for adjusting, cleaning and lubricating parts.
+
+605.1.5 Testing, diagrams and instructions.
+
+After installation of the fuel-fired equipment, operation and combustion performance tests shall be conducted to determine that the equipment is in proper operating condition and that all accessory equipment, controls, and safety devices function properly.
+
+605.1.5.1 Diagrams.
+
+Contractors installing industrial oil-burning systems shall furnish not less than two copies of diagrams showing the main oil lines and controlling valves, one copy of which shall be posted at the oil-burning equipment and another at an approved location that will be available in case of emergency.
+
+605.1.5.2 Operating instructions.
+
+After completing the installation, the installer shall instruct the owner or operator in the proper operation of the equipment. The installer shall furnish the owner or operator with the manufacturer’s operating instructions.
+
+605.1.6 Clearances.
+
+Working clearances between fuel-fired appliances and electrical panelboards and equipment shall be in accordance with the California Electrical Code. Clearances between oil-fired equipment and oil supply tanks shall be in accordance with the California Electrical Code.
+
+605.2 Abatement of unsafe conditions.
+
+The fire code official is authorized to order that measures be taken to prevent the operation of any existing stove, oven, furnace, incinerator, boiler or any other heat-producing device or appliance found to be defective or in violation of code requirements for existing appliances after giving notice to this effect to any person, owner, firm or agent or operator in charge of the same. The fire code official is authorized to take measures to prevent the operation of any device or appliance without notice when inspection shows the existence of an immediate fire hazard or when imperiling human life. The defective device shall remain withdrawn from service until all necessary repairs or alterations have been made or replaced in accordance with Section 605.1.
+
+605.2.1 Chimneys and appliances.
+
+Chimneys, vents, incinerators, smokestacks or similar devices for conveying smoke or hot gases to the outer air and the appliances such as stoves, furnaces, fireboxes or boilers to which such devices are connected, shall be maintained so as not to create a fire hazard.
+
+605.2.1.1 Masonry chimneys.
+
+Masonry chimneys that, upon inspection, are found to be without a flue liner and that have open mortar joints which will permit smoke or gases to be discharged into the building, or which are cracked as to be dangerous, shall be repaired or relined with a listed chimney liner system installed in accordance with the manufacturer’s instructions and the California Mechanical Code or a flue lining system installed in accordance with the requirements of the California Building Code and appropriate for the intended class of chimney service.
+
+605.2.1.2 Metal chimneys.
+
+Metal chimneys that are corroded or improperly supported shall be repaired or replaced in accordance with the California Mechanical Code.
+
+605.2.1.3 Decorative shrouds.
+
+Decorative shrouds installed at the termination of factory-built chimneys or vents shall be removed except where such shrouds are listed and labeled for use with the specific factory-built chimney system and are installed in accordance with the chimney or vent manufacturer’s instructions and the California Mechanical Code or International Fuel Gas Code.
+
+605.2.1.4 Factory-built chimney and vent systems.
+
+Existing factory-built chimneys and vent systems that are damaged, corroded or improperly supported shall be repaired or replaced in accordance with the California Mechanical Code.
+
+605.2.1.5 Connectors.
+
+Existing chimney and vent connectors that are damaged, corroded or improperly supported shall be repaired or replaced in accordance with the California Mechanical Code.
+
+605.3 Chimneys and vents.
+
+Masonry chimneys shall be constructed in accordance with the California Building Code. Factory-built chimneys and vent systems serving solid-fuel-fired appliances or oil-fired appliances shall be installed in accordance with the California Mechanical Code. Metal chimneys shall be constructed and installed in accordance with the California Mechanical Code. Factory-built chimneys and vent systems serving gas-fired appliances shall be installed in accordance with the International Fuel Gas Code.
+
+605.4 Fuel oil storage systems.
+
+Fuel oil storage systems for building heating systems shall be installed and maintained in accordance with this code. Tanks and fuel-oil piping systems shall be installed in accordance with Chapter 13 of the California Mechanical Code.
+
+605.4.1 Fuel oil storage in outside, above-ground tanks.
+
+Where connected to a fuel-oil piping system, the maximum amount of fuel oil storage allowed outside above ground without additional protection shall be 660 gallons (2498 L). The storage of fuel oil above ground in quantities exceeding 660 gallons (2498 L) shall comply with NFPA 31.
+
+605.4.1.1 Approval.
+
+Outdoor fuel oil storage tanks shall be in accordance with UL 142 or UL 2085.
+
+605.4.2 Fuel oil storage inside buildings.
+
+Fuel oil storage inside buildings shall comply with Sections 605.4.2.2 through 605.4.2.8 or Chapter 57.
+
+605.4.2.1 Approval.
+
+Indoor fuel oil storage tanks shall be in accordance with UL 80, UL 142 or UL 2085.
+
+605.4.2.2 Quantity limits.
+
+One or more fuel oil storage tanks containing Class II or III combustible liquid shall be permitted in a building. The aggregate capacity of all tanks shall not exceed the following:
+
+1.660 gallons (2498 L) in unsprinklered buildings, where stored in a tank complying with UL 80, UL 142 or UL 2085.
+
+2.1,320 gallons (4996 L) in buildings equipped with an automatic sprinkler system in accordance with Section 903.3.1.1, where stored in a tank complying with UL 142. The tank shall be listed as a secondary containment tank, and the secondary containment shall be monitored visually or automatically.
+
+3.3,000 gallons (11 356 L) in buildings equipped with an automatic sprinkler system in accordance with Section 903.3.1.1, where stored in protected above-ground tanks complying with UL 2085 and Section 5704.2.9.7. The tank shall be listed as a secondary containment tank, as required by UL 2085, and the secondary containment shall be monitored visually or automatically.
+
+605.4.2.3 Restricted use and connection.
+
+Tanks installed in accordance with Section 605.4.2 shall be used only to supply fuel oil to fuel-burning equipment, generators or fire pumps installed in accordance with Section 605.4.2.5. Connections between tanks and equipment supplied by such tanks shall be made using closed piping systems in accordance with the California Mechanical Code.
+
+605.4.2.4 Applicability of maximum allowable quantity and control area requirements.
+
+The quantity of combustible liquid stored in tanks complying with Section 605.4.2 shall not be counted towards the maximum allowable quantity set forth in Table 5003.1.1(1), and such tanks shall not be required to be located in a control area.
+
+605.4.2.5 Installation.
+
+Tanks and piping systems shall be installed in accordance with Section 915 and Chapter 13, both of the California Mechanical Code, as applicable.
+
+605.4.2.6 Separation.
+
+Rooms containing fuel oil tanks for internal combustion engines shall be separated from the remainder of the building by fire barriers, horizontal assemblies, or both, with a minimum 1-hour fire-resistance rating with 1-hour fire-protection-rated opening protectives constructed in accordance with the California Building Code.
+
+Exception: Rooms containing protected above-ground tanks complying with Section 5704.2.9.7 shall not be required to be separated from surrounding areas.
+
+605.4.2.7 Spill containment.
+
+Tanks exceeding 60-gallon (227 L) capacity or an aggregate capacity of 1,000 gallons (3785 L) that are not provided with integral secondary containment shall be provided with spill containment sized to contain a release from the largest tank.
+
+605.4.2.8 Tanks in basements.
+
+Tanks in basements shall be located not more than two stories below grade plane.
+
+605.4.3 Underground storage of fuel oil.
+
+The storage of fuel oil in underground storage tanks shall comply with UL 58 or UL 1316 and be installed in accordance with
+NFPA 31.
+
+605.5 Portable unvented heaters.
+
+Portable unvented fuel-fired heating equipment shall be prohibited in occupancies in Groups A, E, I, R-1, R-2, R-2.1, R-2.2, R-3, R-3.1 and R-4 and ambulatory care facilities.
+
+Exceptions:
+
+1. Portable unvented fuel-fired heaters listed in accordance with UL 647 are permitted to be used in oneand two-family dwellings, where operated and maintained in accordance with the manufacturer’s instructions.
+
+2.Portable outdoor gas-fired heating appliances in accordance with Section 605.5.2.
+
+605.5.1 Prohibited locations.
+
+Unvented fuel-fired heating equipment shall not be located in, or obtain combustion air from, any of the following rooms or spaces: sleeping rooms, bathrooms, toilet rooms or storage closets.
+
+605.5.2 Portable outdoor gas-fired heating appliances.
+
+Portable gas-fired heating appliances located outdoors shall be in accordance with Sections 605.5.2.1 through 605.5.2.3.4.
+
+605.5.2.1 Location.
+
+Portable outdoor gas-fired heating appliances shall be used and located in accordance with Sections 605.5.2.1.1 through 605.5.2.1.4.
+
+605.5.2.1.1 Prohibited locations.
+
+The storage or use of portable outdoor gas-fired heating appliances is prohibited in any of the following locations:
+
+1.Inside of any occupancy where connected to the fuel gas container.
+
+2.Inside of tents, canopies and membrane structures.
+
+3.On exterior balconies.
+
+Exception: As permitted in Chapter 61.
+
+605.5.2.1.2 Clearance to buildings.
+
+Portable outdoor gas-fired heating appliances shall be located not less than 5 feet (1524 mm) from buildings.
+
+605.5.2.1.3 Clearance to combustible materials.
+
+Portable outdoor gas-fired heating appliances shall not be located beneath, or closer than 5 feet (1524 mm) to combustible decorations and combustible overhangs, awnings, sunshades or similar combustible attachments to buildings.
+
+605.5.2.1.4 Proximity to exits.
+
+Portable outdoor gas-fired heating appliances shall not be located within 5 feet (1524 mm) of exits or exit discharges.
+
+605.5.2.2 Use and operation.
+
+Portable outdoor gas-fired heating appliances shall be used and operated in accordance with Sections 605.5.2.2.1 through 605.5.2.2.4.
+
+605.5.2.2.1 Listing and approval.
+
+Only listed and approved portable outdoor gas-fired heating appliances utilizing a fuel gas container that is integral to the appliance shall be used. Portable outdoor gasfired heating appliances shall be listed and labeled in accordance with ANSI Z83.26/CSA 2.37.
+
+605.5.2.2.2 Use and maintenance.
+
+Portable outdoor gas-fired heating appliances shall be used and maintained in accordance with the manufacturer’s instructions.
+
+605.5.2.2.3 Tip-over switch.
+
+Portable outdoor gas-fired heating appliances shall be equipped with a tilt or tip-over switch that automatically shuts off the flow of gas if the appliance is tilted more than 15 degrees (0.26 rad) from the vertical.
+
+605.5.2.2.4 Guard against contact.
+
+The heating element or combustion chamber of portable outdoor gas-fired heating appliances shall be permanently guarded so as to prevent accidental contact by persons or material.
+
+605.5.2.3 Gas containers.
+
+Fuel gas containers for portable outdoor gas-fired heating appliances shall comply with Sections 605.5.2.3.1 through 605.5.2.3.4.
+
+605.5.2.3.1 Approved containers.
+
+Only approved DOTn or ASME gas containers shall be used.
+
+605.5.2.3.2 Container replacement.
+
+Replacement of fuel gas containers in portable outdoor gas-fired heating appliances shall not be conducted while the public is present.
+
+605.5.2.3.3 Container capacity.
+
+The maximum individual capacity of gas containers used in connection with portable outdoor gas-fired heating appliances shall not exceed 20 pounds (9 kg).
+
+605.5.2.3.4 Indoor storage prohibited.
+
+Gas containers shall not be stored inside of buildings except in accordance with Section 6109.9.
+
+605.6 Heating appliances.
+
+Heating appliances shall be listed and shall comply with Sections 605.6.1 and 605.6.2.
+
+[California Code of Regulations, Title 19, Division 1, §3.17(a) and (b)] Guards for Heating Appliances.
+
+Every heating appliance in any occupancy governed by California Code of Regulations, Title 19, Division 1 regulations which does not have protective features incorporated in its design, shall be provided with guards that will provide protection against ignition of clothing and other combustible material.
+
+(a) Appliances employing open flame radiated heat shall have fixed and substantially constructed metallic guards located not less than 10 inches from the radiating flame and the guard members shall be spaced not more than 2 inches apart.
+
+(b) Cabinet type appliances that are not provided with an inner combustion chamber and an air circulating space between the combustion chamber and the outer shell, shall have fixed and substantially constructed metallic guards located not less than 3 inches from the shell and spaced not more than 2 inches apart.
+
+605.6.1 Guard against contact.
+
+The heating element or combustion chamber shall be permanently guarded so as to prevent accidental contact by persons or material.
+
+605.6.2 Heating appliance installation and maintenance.
+
+Heating appliances shall be installed and maintained in accordance with the manufacturer’s instructions, the California Building Code, the International Fuel Gas Code, the California Mechanical Code and the California Electrical Code.
+
+605.7 Unauthorized operation.
+
+It shall be a violation of this code for any person, user, firm or agent to continue the utilization of any device or appliance (the operation of which has been discontinued or ordered discontinued in accordance with Section 605.2) unless written authority to resume operation is given by the fire code official. Removing or breaking the means by which operation of the device is prevented shall be a violation of this code.
+
+605.8 Incinerators.
+
+Commercial, industrial and residentialtype incinerators and chimneys shall be constructed in accordance with the California Building Code and the California Mechanical Code. Unless other approved means are provided for the prompt disposal of rubbish, an approved incinerator shall be provided and maintained for the disposal of combustible waste. Incinerators shall be constructed, located and maintained in such manner that waste material can be safely burned at any hour of the day, where local ordinances permit. Fuel-fired and garbage burning incinerators shall be constructed and maintained in conformance with NFPA 82-2019 Incinerators, Waste and Linen Handling Systems and Equipment or UL 791-2006 Standard for Residential Incinerators, whichever is applicable.
+
+605.8.1 Residential incinerators.
+
+Residential incinerators shall be listed and labeled in accordance with UL 791.
+
+605.8.2 Spark arrestor.
+
+Incinerators shall be equipped with an effective means for arresting sparks.
+
+605.8.3 Restrictions.
+
+Where the fire code official determines that burning in incinerators located within 500 feet (152 m) of mountainous, brush or grass-covered areas will create an undue fire hazard because of atmospheric conditions, such burning shall be prohibited.
+
+605.8.4 Time of burning.
+
+Burning shall take place only during approved hours.
+
+605.8.5 Discontinuance.
+
+The fire code official is authorized to require incinerator use to be discontinued immediately if the fire code official determines that smoke emissions are offensive to occupants of surrounding property or if the use of incinerators is determined by the fire code official to constitute a hazardous condition.
+
+605.8.6 Flue-fed incinerators in Group I-2.
+
+In Group I-2 occupancies, the continued use of existing flue-fed incinerators is prohibited.
+
+605.8.7 Incinerator inspections in Group I-2.
+
+Incinerators in Group I-2 occupancies shall be inspected not less than annually in accordance with the manufacturer’s instructions. Inspection records shall be maintained on the premises and made available to the fire code official upon request.
+
+605.9 Gas meters.
+
+Above-ground gas meters, regulators and piping subject to damage shall be protected by a barrier complying with Section 312 or otherwise protected in an approved manner.
+
+SECTION 606 COMMERCIAL COOKING EQUIPMENT AND SYSTEMS
+
+[M] 606.1 General.
+
+Commercial kitchen exhaust hoods shall comply with the requirements of the California Mechanical Code.
+
+[M] 606.2 Where required.
+
+A Type I hood shall be installed at or above all commercial cooking appliances and domestic cooking appliances used for commercial purposes that produce grease vapors.
+
+Exceptions:
+
+1.Factory-built commercial exhaust hoods that are listed and labeled in accordance with UL 710, and installed in accordance with Section 304.1 of the California Mechanical Code, shall not be required to comply with Sections 507.1.5, 507.2.3, 507.2.5, 507.2.8, 507.3.1, 507.3.3, 507.4 and 507.5 of the California Mechanical Code.
+
+2.Factory-built commercial cooking recirculating systems that are listed and labeled in accordance with UL 710B, and installed in accordance with Section 304.1 of the California Mechanical Code, shall not be required to comply with Sections 507.1.5, 507.2.3, 507.2.5, 507.2.8, 507.3.1, 507.3.3, 507.4 and 507.5 of the California Mechanical Code. Spaces in which such systems are located shall be considered to be kitchens and shall be ventilated in accordance with Table 403.3.1.1 of the California Mechanical Code. For the purpose of determining the floor area required to be ventilated, each individual appliance shall be considered as occupying not less than 100 square feet (9.3 m2).
+
+3.Where cooking appliances are equipped with integral down-draft exhaust systems and such appliances and exhaust systems are listed and labeled for the application in accordance with NFPA 96, a hood shall not be required at or above them.
+
+4.A Type I hood shall not be required for an electric cooking appliance where an approved testing agency provides documentation that the appliance effluent contains 5 mg/m3 or less of grease when tested at an exhaust flow rate of 500 cfm (0.236 m3/s) in accordance with UL 710B.
+
+606.3 Operations and maintenance.
+
+Commercial cooking systems shall be operated and maintained in accordance with Sections 606.3.1 through  606.3.4.
+
+606.3.1 Ventilation system.
+
+The ventilation system in connection with hoods shall be operated at the required rate of air movement, and grease filters listed and labeled in accordance with UL 1046 shall be in place where equipment under a kitchen grease hood is used.
+
+606.3.2 Grease extractors.
+
+Where grease extractors are installed, they shall be operated when the commercial-type cooking equipment is used.
+
+606.3.3 Cleaning.
+
+Hoods, grease-removal devices, fans, ducts and other appurtenances shall be cleaned at intervals as required by Sections 606.3.3.1 through 606.3.3.3.
+
+606.3.3.1 Inspection.
+
+Hoods, grease-removal devices, fans, ducts and other appurtenances shall be inspected at intervals specified in Table 606.3.3.1 or as approved by the fire code official. Inspections shall be completed by qualified individuals.
+
+TABLE 606.3.3.1
+
+COMMERCIAL COOKING SYSTEM INSPECTION FREQUENCY
+
+TYPE OF COOKING OPERATIONS	FREQUENCY OF INSPECTION
+High-volume cooking operations such as 24-hour cooking, charbroiling or wok cooking	3 months
+Low-volume cooking operations such as places of religious worship, seasonal businesses and senior centers	12 months
+Cooking operations utilizing solid fuel-burning cooking appliances	1 month
+All other cooking operations	6 months606.3.3.2 Grease accumulation.
+
+If during the inspection it is found that hoods, grease-removal devices, fans, ducts or other appurtenances have an accumulation of grease, such components shall be cleaned in accordance with ANSI/IKECA C10.
+
+606.3.3.3 Records.
+
+Records for inspections shall state the individual and company performing the inspection, a description of the inspection and when the inspection took place. Records for cleanings shall state the individual and company performing the cleaning and when the cleaning took place. Such records shall be completed after each inspection or cleaning and maintained.
+
+606.3.3.3.1 Tags.
+
+When a commercial kitchen hood or duct system is inspected, a tag containing the service provider name, address, telephone number and date of service shall be provided in a conspicuous location. Prior tags shall be covered or removed.
+
+606.3.4 Extinguishing system service.
+
+Automatic fire-extinguishing systems protecting commercial cooking systems shall be serviced as required in Section 904.13.5.
+
+606.4 Appliance connection to building piping.
+
+Gas-fired commercial cooking appliances installed on casters and appliances that are moved for cleaning and sanitation purposes shall be connected to the piping system with an appliance connector listed as complying with ANSI Z21.69/CSA 6.16. The commercial cooking appliance connector installation shall be configured in accordance with the manufacturer’s installation instructions. Movement of appliances with casters shall be limited by a restraining device installed in accordance with the connector and appliance manufacturer’s instructions.
+
+SECTION 607 COMMERCIAL COOKING OIL STORAGE
+
+607.1 General.
+
+Storage of cooking oil (grease) in commercial cooking operations utilizing above-ground tanks with a capacity greater than 60 gal (227 L) installed within a building shall comply with Sections 607.2 through 607.7 and NFPA 30. For purposes of this section, cooking oil shall be classified as a Class IIIB liquid unless otherwise determined by testing.
+
+607.2 Metallic storage tanks.
+
+Metallic cooking oil storage tanks shall be listed in accordance with UL 80 or UL 142, and shall be installed in accordance with the tank manufacturer’s instructions.
+
+607.3 Nonmetallic storage tanks.
+
+Nonmetallic cooking oil storage tanks shall be listed in accordance with UL 2152 and shall be installed in accordance with the tank manufacturer’s instructions. Tank capacity shall not exceed 200 gallons (757 L) per tank.
+
+607.4 Cooking oil storage system components.
+
+Cooking oil storage system components shall include but are not limited to piping, connections, fittings, valves, tubing, hose, pumps, vents and other related components used for the transfer of cooking oil, and are permitted to be of either metallic or nonmetallic construction.
+
+607.4.1 Design standards.
+
+The design, fabrication and assembly of system components shall be suitable for the working pressures, temperatures and structural stresses to be encountered by the components.
+
+607.4.2 Components in contact with heated oil.
+
+System components that come in contact with heated cooking oil shall be rated for the maximum operating temperatures expected in the system.
+
+607.5 Tank venting.
+
+Normal and emergency venting shall be provided for cooking oil storage tanks.
+
+607.5.1 Normal vents.
+
+Normal vents shall be located above the maximum normal liquid line, and shall have a minimum effective area not smaller than the largest filling or withdrawal connection. Normal vents shall be permitted to vent inside the building.
+
+607.5.2 Emergency vents.
+
+Emergency relief vents shall be located above the maximum normal liquid line, and shall be in the form of a device or devices that will relieve excessive internal pressure caused by an exposure fire. For nonmetallic tanks, the emergency relief vent shall be allowed to be in the form of construction. Emergency vents shall be permitted to vent inside the building.
+
+607.6 Heating of cooking oil.
+
+Electrical equipment used for heating cooking oil in cooking oil storage systems shall be listed to UL 499 and shall comply with the California Electrical Code. Use of electrical immersion heaters shall be prohibited in nonmetallic tanks.
+
+607.7 Electrical equipment.
+
+Electrical equipment used for the operation of cooking oil storage systems shall comply with the California Electrical Code.
+
+SECTION 608 MECHANICAL REFRIGERATION
+
+[M] [M] 608.1 Scope.
+
+Refrigeration systems shall be installed in accordance with the California Mechanical Code.
+
+608.1.1 Refrigerants other than ammonia.
+
+Where a refrigerant other than ammonia is used, refrigeration systems and the buildings in which such systems are installed shall be in accordance with ASHRAE 15.
+
+608.1.2 Ammonia refrigeration.
+
+Refrigeration systems using ammonia refrigerant and the buildings in which such systems are installed shall comply with IIAR 2 for system design; IIAR 6 for inspection, testing and maintenance; and IIAR 7 for operating procedures. Decommissioning of ammonia refrigeration systems shall comply with IIAR 8,  and engineering practices for existing ammonia refrigeration systems shall be in accordance with IIAR 9.
+
+608.2 Permits.
+
+Permits shall be obtained for refrigeration systems in accordance with Sections 105.5 and 105.6.
+
+[M] [M] 608.3 Refrigerants.
+
+The use and purity of new, recovered and reclaimed refrigerants shall be in accordance with the California Mechanical Code.
+
+[M] [M] 608.4 Refrigerant classification.
+
+Refrigerants shall be classified in accordance with the California Mechanical Code.
+
+[M] [M] 608.5 Change in refrigerant type.
+
+A change in the type of refrigerant in a refrigeration system shall be in accordance with the California Mechanical Code.
+
+608.6 Access.
+
+Access to refrigeration systems having a refrigerant circuit containing more than 220 pounds (100 kg) of Group A1 or 30 pounds (14 kg) of any other group refrigerant shall be provided for the fire department at all times as required by the fire code official.
+
+608.7 Testing of equipment.
+
+Refrigeration equipment and systems having a refrigerant circuit containing more than 220 pounds (100 kg) of Group A1 or 30 pounds (14 kg) of any other group refrigerant shall be subject to periodic testing in accordance with Section 608.7.1. Records of tests shall be maintained. Tests of emergency devices or systems required by this chapter shall be conducted by persons trained and qualified in refrigeration systems.
+
+608.7.1 Periodic testing.
+
+The following emergency devices or systems shall be periodically tested in accordance with the manufacturer’s instructions and as required by the fire code official.
+
+1.Treatment and flaring systems.
+
+2.Valves and appurtenances necessary to the operation of emergency refrigeration control boxes.
+
+3.Fans and associated equipment intended to operate emergency ventilation systems.
+
+4.Detection and alarm systems.
+
+608.8 Emergency signs.
+
+Refrigeration units or systems having a refrigerant circuit containing more than 220 pounds (100 kg) of Group A1 or 30 pounds (14 kg) of any other group refrigerant shall be provided with approved emergency signs, charts and labels in accordance with NFPA 704. Hazard signs shall be in accordance with the California Mechanical Code for the classification of refrigerants listed therein.
+
+608.9 Refrigerant detection.
+
+Machinery rooms shall be provided with a refrigerant detector with an audible and visible alarm. Where ammonia is used as the refrigerant, detection shall comply with IIAR 2. For refrigerants other than ammonia, refrigerant detection shall comply with Section 608.9.1.
+
+608.9.1 Refrigerants other than ammonia.
+
+A detector, or a sampling tube that draws air to a detector, shall be provided at an approved location where refrigerant from a leak is expected to accumulate. The system shall be designed to initiate audible and visible alarms inside of and outside each entrance to the refrigerating machinery room and transmit a signal to an approved location where the concentration of refrigerant detected exceeds the lesser of the following:
+
+1.The corresponding TLV-TWA values shown in the California Mechanical Code for the refrigerant classification.
+
+2.Twenty-five percent of the lower flammable limit (LFL).
+
+Detection of a refrigerant concentration exceeding the upper detection limit or 25 percent of the lower flammable limit (LFL), whichever is lower, shall stop refrigerant equipment in the machinery room in accordance with Section 608.10.1.
+
+608.10 Remote controls.
+
+Where flammable refrigerants are used and compliance with Section 1106 of the California Mechanical Code is required, remote control of the mechanical equipment and appliances located in the machinery room as required by Sections 608.10.1 and 608.10.2 shall be provided at an approved location immediately outside the machinery room and adjacent to its principal entrance.
+
+608.10.1 Refrigeration system emergency shutoff.
+
+A clearly identified switch of the break-glass type or with an approved tamper-resistant cover shall provide off-only control of refrigerant compressors, refrigerant pumps and normally closed automatic refrigerant valves located in the machinery room. Additionally, this equipment shall be automatically shut off when the refrigerant vapor concentration in the machinery room exceeds the vapor detector’s upper detection limit or 25 percent of the LEL, whichever is lower.
+
+608.10.2 Ventilation system.
+
+A clearly identified switch of the break-glass type or with an approved tamper-resistant cover shall provide on-only control of the machinery room ventilation fans.
+
+608.11 Emergency pressure control system.
+
+Permanently installed refrigeration systems in machinery rooms containing more than 6.6 pounds (3 kg) of flammable, toxic or highly toxic refrigerant or ammonia shall be provided with an emergency pressure control system in accordance with Sections 608.11.1 and 608.11.2.
+
+608.11.1 Automatic crossover valves.
+
+Each high- and intermediate-pressure zone in a refrigeration system shall be provided with a single automatic valve providing a crossover connection to a lower pressure zone. Automatic crossover valves shall comply with Sections 608.11.1.1 through 608.11.1.3.
+
+608.11.1.1 Overpressure limit set point
+
+Automatic crossover valves shall be arranged to automatically relieve excess system pressure to a lower pressure zone if the pressure in a high- or intermediate-pressure zone rises to within 90 percent of the set point for emergency pressure relief devices.
+
+608.11.1.2 Manual operation
+
+Where required by the fire code official, automatic crossover valves shall be capable of manual operation.
+
+608.11.1.3 System design pressure
+
+Refrigeration system zones that are connected to a higher pressure zone by an automatic crossover valve shall be designed to safely contain the maximum pressure that can be achieved by interconnection of the two zones.
+
+608.11.2 Automatic emergency stop
+
+An automatic emergency stop feature shall be provided in accordance with Sections 608.11.2.1 and 608.11.2.2.
+
+608.11.2.1 Operation of an automatic crossover valve
+
+Operation of an automatic crossover valve shall cause all compressors on the affected system to immediately stop. Dedicated pressure-sensing devices located immediately adjacent to crossover valves shall be permitted as a means for determining operation of a valve. To ensure that the automatic crossover valve system provides a redundant means of stopping compressors in an overpressure condition, high-pressure cutout sensors associated with compressors shall not be used as a basis for determining operation of a crossover valve.
+
+608.11.2.2 Overpressure in low-pressure zone
+
+The lowest pressure zone in a refrigeration system shall be provided with a dedicated means of determining a rise in system pressure to within 90 percent of the set point for emergency pressure relief devices. Activation of the overpressure sensing device shall cause all compressors on the affected system to immediately stop.
+
+608.12 Storage, use and handling
+
+Flammable and combustible materials shall not be stored in machinery rooms for refrigeration systems having a refrigerant circuit containing more than 220 pounds (100 kg) of Group A1 or 30 pounds (14 kg) of any other group refrigerant. Storage, use or handling of extra refrigerant or refrigerant oils shall be as required by Chapters 50, 53, 55 and 57.
+
+Exception: This provision shall not apply to spare parts, tools and incidental materials necessary for the safe and proper operation and maintenance of the system.
+
+608.13 Discharge and termination of pressure relief and purge systems
+
+Pressure relief devices, fusible plugs and purge systems discharging to the atmosphere from refrigeration systems containing flammable, toxic or highly toxic refrigerants or ammonia shall comply with Sections 608.13.2 through 608.13.4.
+
+608.13.1 Fusible plugs and rupture members
+
+Discharge piping and devices connected to the discharge side of a fusible plug or rupture member shall have provisions to prevent plugging the pipe in the event the fusible plug or rupture member functions.
+
+608.13.2 Flammable refrigerants
+
+Systems containing more than 6.6 pounds (3 kg) of flammable refrigerants having a density equal to or greater than the density of air shall discharge vapor to the atmosphere only through an approved treatment system in accordance with Section 608.13.5 or a flaring system in accordance with Section 608.13.6. Systems containing more than 6.6 pounds (3 kg) of flammable refrigerants having a density less than the density of air shall be permitted to discharge vapor to the atmosphere provided that the point of discharge is located outside of the structure at not less than 15 feet (4572 mm) above the adjoining grade level and not less than 20 feet (6096 mm) from any window, ventilation opening or exit.
+
+608.13.3 Toxic and highly toxic refrigerants
+
+Systems containing more than 6.6 pounds (3 kg) of toxic or highly toxic refrigerants shall discharge vapor to the atmosphere only through an approved treatment system in accordance with Section 608.13.5 or a flaring system in accordance with Section 608.13.6.
+
+608.13.4 Ammonia refrigerant
+
+Systems containing more than 6.6 pounds (3 kg) of ammonia refrigerant shall discharge vapor to the atmosphere in accordance with one of the following methods:
+
+1.Directly to atmosphere where the fire code official determines, on review of an analysis prepared in accordance with Section 104.8.2, that a health hazard would not result from atmospheric discharge of ammonia.
+
+2.Through an approved treatment system in accordance with Section 608.13.5.
+
+3.Through a flaring system in accordance with Section 608.13.6.
+
+4.Through an approved ammonia diffusion system in accordance with Section 608.13.7.
+
+5.By other approved means.
+
+Exception:  Ammonia/water absorption systems containing less than 22 pounds (10 kg) of ammonia and for which the ammonia circuit is located entirely outdoors.
+
+608.13.5 Treatment systems
+
+Treatment systems shall be designed to reduce the allowable discharge concentration of the refrigerant gas to not more than 50 percent of the IDLH at the point of exhaust. Treatment systems shall be in accordance with Chapter 60.
+
+608.13.6 Flaring systems
+
+Flaring systems for incineration of flammable refrigerants shall be designed to incinerate the entire discharge. The products of refrigerant incineration shall not pose health or environmental hazards. Incineration shall be automatic upon initiation of discharge, shall be designed to prevent blowback and shall not expose structures or materials to threat of fire. Standby fuel, such as LP-gas, and standby power shall have the capacity to operate for one and one-half the required time for complete incineration of refrigerant in the system. Standby electrical power, where required to complete the incineration process, shall be in accordance with Section 1203.
+
+608.13.7 Ammonia diffusion systems
+
+Ammonia diffusion systems shall include a tank containing 1 gallon of water for each pound of ammonia (8.3 L of water for each 1 kg of ammonia) that will be released in 1 hour from the largest relief device connected to the discharge pipe. The water shall be prevented from freezing. The discharge pipe from the pressure relief device shall distribute ammonia in the bottom of the tank, but not lower than 33 feet (10 058 mm) below the maximum liquid level. The tank shall contain the volume of water and ammonia without overflowing.
+
+608.14 Mechanical ventilation exhaust
+
+Exhaust from mechanical ventilation systems serving refrigeration machinery rooms containing flammable, toxic or highly toxic refrigerants, other than ammonia, capable of exceeding 25 percent of the LFL or 50 percent of the IDLH shall be equipped with approved treatment systems to reduce the discharge concentrations to those values or lower.
+
+Exception: Refrigeration systems containing Group A2L complying with Section 608.18.
+
+608.15 Notification of refrigerant discharges
+
+The fire code official shall be notified immediately when a discharge becomes reportable under state, federal or local regulations in accordance with Section 5003.3.1.
+
+608.16 Records
+
+A record of refrigerant quantities brought into and removed from the premises shall be maintained.
+
+[M] [M] 608.17 Electrical equipment
+
+Where refrigerant of Groups A2, A3, B2 and B3, as defined in the California Mechanical Code, are used, refrigeration machinery rooms shall conform to the Class I, Division 2, hazardous location classification requirements of the California Electrical Code.
+
+Exceptions:
+
+1.Ammonia machinery rooms that are provided with ventilation in accordance with Section 1101.1.2, Exception 1 of the California Mechanical Code.
+
+2.Machinery rooms for systems containing Group A2L refrigerants that are provided with ventilation in accordance with Section 608.18.
+
+[M] [M] 608.18 Special requirements for Group A2L refrigerant machinery rooms
+
+Machinery rooms with systems containing Group A2L refrigerants that do not comply with the Class I, Division 2, hazardous location electrical requirements of the California Electrical Code, as permitted by Section 608.17, Exception 2, shall comply with Sections 608.18.1 through 608.18.2.
+
+608.18.1 Ventilation system activation
+
+Ventilation shall be activated by the refrigerant detection system in the machinery room. Refrigerant detection shall be in accordance with Section 608.9 and all of the following:
+
+1.The detectors shall activate at or below a refrigerant concentration of 25 percent of the LFL.
+
+2.Upon activation, the detection system shall activate the emergency ventilation system in Section 608.18.2.
+
+3.The detection, signaling and control circuits shall be supervised.
+
+[M] [M] 608.18.2 Emergency ventilation system
+
+An emergency ventilation system shall be provided at the minimum exhaust rate specified in ASHRAE 15 or Table 608.18.2. Shut down of the emergency ventilation system shall be by manual means.
+
+[M] TABLE 608.18.2
+
+MINIMUM EXHAUST RATE
+
+REFRIGERANT	Q (m3/sec)	Q (cfm)
+R32	15.4	32,600
+R143a	13.6	28,700
+R444A	6.46	13,700
+R444B	10.6	22,400
+R445A	7.83	16,600
+R446A	23.9	50,700
+R447A	23.8	50,400
+R451A	7.04	15,000
+R451B	7.05	15,000
+R1234yf	7.80	16,600
+R1234ze(E)	5.92	12,600[M] [M] 608.18.3 Emergency ventilation system discharge
+
+The point of discharge to the atmosphere shall be located outside of the structure at not less than 15 feet (4572 mm) above the adjoining grade level and not less than 20 feet (6096 mm) from any window, ventilation opening or exit.
+
+SECTION 609 HYPERBARIC FACILITIES
+
+609.1 General.
+
+Hyperbaric facilities shall be inspected, tested and maintained in accordance with NFPA 99.
+
+609.2 Records.
+
+Records shall be maintained of all testing and repair conducted on the hyperbaric chamber and associated devices and equipment. Records shall be available to the fire code official.
+
+SECTION 610 CLOTHES DRYER EXHAUST SYSTEMS
+
+610.1 Clothes dryer exhaust duct systems.
+
+Clothes dryer exhaust duct systems shall be in accordance with Sections 610.1.1 and 610.1.2.
+
+610.1.1 Installation.
+
+Clothes dryer exhaust duct systems shall be installed in accordance with the California Mechanical Code or the International Fuel Gas Code, and the manufacturer’s installation instructions.
+
+610.1.2 Maintenance.
+
+The lint trap, mechanical and heating components, and the exhaust duct system of a clothes dryer shall be maintained in accordance with the manufacturer’s operating instructions to prevent the accumulation of lint or debris that prevents the exhaust of air and products of combustion.
+

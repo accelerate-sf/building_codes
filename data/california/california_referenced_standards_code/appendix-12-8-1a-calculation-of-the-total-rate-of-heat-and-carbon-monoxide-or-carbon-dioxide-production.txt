@@ -1,0 +1,134 @@
+APPENDIX 12-8-1A CALCULATION OF THE TOTAL RATE OF HEAT AND CARBON MONOXIDE OR CARBON DIOXIDE PRODUCTION
+
+The total rate of heat production is given by
+
+where:
+
+E = the heat release per volume of oxygen consumed, 467 Btu/ft.3
+
+ϕ = the fraction of the oxygen consumed
+
+X0o2 = the ambient molar concentration of oxygen
+
+VA = the volume flow rate of air into the system corrected to 36°F (including that which enters the room and that which passes directly into the exhaust duct).
+
+The oxygen depletion is given by
+
+where:
+
+M0o2 =the molar flow rate of oxygen into the system.
+
+Mo2 =the molar flow rate of oxygen in the exhaust duct.
+
+The concentrations of oxygen and carbon dioxide in the analyzers are given by
+
+where:
+
+M0N2 = the molar flow rate of nitrogen into the system.
+
+Mco2 = the molar flow rate of carbon dioxide in the exhaust duct.
+
+It is assumed that all the water is trapped out and that the only gases passing through the analyzers are nitrogen, oxygen and carbon dioxide.
+
+Combining Equations 3 and 4 to get
+
+and noting that
+
+Equation 3 can be solved for Mo2,
+
+which, when substituted into Equation 2, yields
+
+The volumetric flow rate in the exhaust duct is given by
+
+where:
+
+VS = referred to standard conditions 68°F.
+
+VA = referred to standard conditions 68°F.
+
+=  the expansion factor, due to chemical reaction, of the air that is depleted of its oxygen.
+
+where b is the ratio of the moles of combustion products formed to the moles of oxygen consumed. The value of ranges from 1.000 for carbon to 1.175 for cellulose with the plastics having values in between. In order to reduce the error incurred when unknown products are burning is taken to have an intermediate value of 1.084 which is exact for propane, the burner gas.
+
+From Equation 7, the volumetric flow rate of air entering the system is
+
+Setting: = 1.084
+
+E = 467 Btu/ft3
+
+X0o2 = 0.21
+
+Equation 1 becomes
+
+if VS is in cfm referred to 68°F.
+
+Setting E = 17.4 MJ/m3
+
+where:
+
+VS = in m3/sec, and is determined from the flow measurement in the exhaust duct
+
+ϕ = the oxygen depletion, which is obtained from Equation 6.
+
+When the velocity is measured with a bidirectional probe and the Reynolds number correction is taken into account, the volumetric flow rate in m3/sec. in the duct under standard conditions is given by
+
+where:
+
+0.926 = a suitable calibration factor for air velocities in excess of 3 ft./sec. in a 16-inch (406 mm) duct
+
+k = the ratio of the average duct gas mass flow per unit area, as determined by measuring the velocity and temperature profiles across the stack, and the velocity and temperature at the center line where the bidirectional probe is located during the test
+
+A = the cross-sectional area of the duct in m2 at the location of the probe
+
+ρ = the differential pressure measured with the probe in Pa
+
+o = the density of air in kg/m3 at the reference temperature TO in K
+
+T = the duct gas temperature in K
+
+The volumetric flow rate can be expressed in standard cubic feet per minute (scfm) at 60°F using common engineering units by
+
+where:
+
+A = given in ft2 and in. of water
+
+ρ = given in ft2 and in. of water
+
+t = the duct gas temperature in °F.
+
+The volume flow rate of CO in m3/sec. through the duct can be found from the formula
+
+where:
+
+XCO = the concentration of carbon monoxide measured in the analyzer.
+
+This can be derived as follows
+
+where:
+
+MCO and MA = the molar flow rates of carbon dioxide in the duct and of the air into the system including that flowing into the room and that entering the exhaust duct directly.
+
+The ratio of the CO and O2 concentration in the duct are the same as in the analyzer so that
+
+When CO is present in the sampling line, Equation 5 becomes
+
+Equation 14 is obtained by combining equations 15, 16 and 17, letting
+
+, and letting
+
+
+
+When CO is not measured, but is removed from the sample line and CO is measured, ϕ and  are calculated as follows
+
+where:
+
+E″ = 23.4 MJ/m3
+
+E′ = 17.4 MJ/m3
+
+VA = m3/sec.
+
+referred to a 68°F base. Thus,  becomes
+
+When Equations 18 through 20 are used to calculate the rate of heat release, , the carbon dioxide must be removed from the sample streams flowing through the oxygen and carbon monoxide analyzers. The removal of carbon dioxide can be accomplished by passing the sample stream through a filter of either ascarite or an aqueous solution of sodium hydroxide.
+

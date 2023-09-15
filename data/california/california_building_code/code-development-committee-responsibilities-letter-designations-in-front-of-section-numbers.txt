@@ -1,0 +1,42 @@
+Code Development Committee Responsibilities(Letter Designations in Front of Section Numbers)
+
+As mentioned in the preceding material, in each code development cycle, code change proposals to this code are considered at the Committee Action Hearings by 11 different code development committees.
+
+Code change proposals to sections of the code that are preceded by a bracketed letter designation, such as [A], will be considered by a committee other than the building code committee listed for the chapter or appendix on the preceding page. For example, proposed code changes to Section [F]307.1.1 will be considered by the International Fire Code Development Committee during the Committee Action Hearing in the 2021 (Group A) code development cycle.
+
+The bracketed letter designations for committees responsible for portions of this code are as follows:
+
+[A]	=	Administrative Code Development Committee
+[BE]	=	IBC—Egress Code Development Committee
+[BF]	=	IBC—Fire Safety Code Development Committee
+[BG]	=	IBC—General Code Development Committee
+[BS]	=	IBC—Structural Code Development Committee
+[E]	=	International Commercial Energy Conservation Code Development Committee or International Residential Energy Conservation Code Development Committee
+[EB]	=	International Existing Building Code Development Committee
+[F]	=	International Fire Code Development Committee
+[FG]	=	International Fuel Gas Code Development Committee
+[M]	=	International Mechanical Code Development Committee
+[P]	=	International Plumbing Code Development CommitteeFor the development of the 2024 edition of the I-Codes, there will be two groups of code development committees and they will meet in separate years, as shown in the following Code Development Hearings Table.
+
+Code change proposals submitted for code sections that have a letter designation in front of them will be heard by the respective committee responsible for such code sections. Because different committees hold Committee Action Hearings in different years, proposals for the IBC will be heard by committees in both the 2021 (Group A) and the 2022 (Group B) code development cycles.
+
+For instance, every section of Chapter 16 is the responsibility of the IBC—Structural Code Development Committee. As noted in the preceding table, that committee will hold its Committee Action Hearings in 2022 to consider code change proposals for the chapters for which it is responsible. Therefore any proposals received for Chapter 16 of this code will be assigned to the IBC—Structural Code Development Committee and will be considered in 2022, during the Group B code change cycle.
+
+It is very important that anyone submitting code change proposals understands which code development committee is responsible for the section of the code that is the subject of the code change proposal. For further information on the Code Development Committee responsibilities, please visit the ICC website at www.iccsafe.org/current-code-development-cycle.
+
+CODE DEVELOPMENT HEARINGS
+
+Group A Codes (Heard in 2021, Code Change Proposals Deadline: January 11, 2021)	Group B Codes (Heard in 2022, Code Change Proposals Deadline: January 10, 2022)
+International Building Code– Egress (Chapters 10, 11, Appendix E)– Fire Safety (Chapters 7, 8, 9, 14, 26)– General (Chapters 2–6, 12, 27–33, Appendices A, B, C, D, K, N)	Administrative Provisions (Chapter 1 of all codes
+except IECC, IRC and IgCC; IBC Appendix O; the appendices titled “Board of Appeals” for all codes except IECC, IRC, IgCC, ICCPC and IZC; administra tive updates to currently referenced standards; and designated definitions)
+International Fire Code	International Building Code– Structural (Chapters 15–25, Appendices F, G, H, I, J, L, M)
+International Fuel Gas Code	International Existing Building Code
+International Mechanical Code	International Energy Conservation Code—Commercial
+International Plumbing Code	International Energy Conservation Code—Residential– IECC—Residential– IRC—Energy (Chapter 11)
+International Property Maintenance Code	International Green Construction Code (Chapter 1)
+International Private Sewage Disposal Code	International Residential Code– IRC—Building (Chapters 1–10, Appendices AE, AF, AH, AJ, AK, AL, AM, AO, AQ, AR, AS, AT, AU, AV, AW)
+International Residential Code– IRC—Mechanical (Chapters 12–23)– IRC—Plumbing (Chapters 25–33, Appendices AG, AI , AN, AP)	
+International Swimming Pool and Spa Code	
+International Wildland-Urban Interface Code	
+International Zoning Code	Note: Proposed changes to the ICCPC will be heard by the code development committee noted in brackets [ ] in the text of the ICCPC.
+

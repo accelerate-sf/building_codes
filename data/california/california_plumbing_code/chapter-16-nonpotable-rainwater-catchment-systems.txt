@@ -1,0 +1,233 @@
+Chapter 16 Nonpotable Rainwater Catchment Systems
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)	X			X	X																		
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+1601.2	X			X																			
+1601.3 & Exceptions 1 & 2	X			X	X																		
+1601.5				X	X																		
+1601.5.1	X			X	X																		
+1601.6	X			X																			
+1601.7	X			X																			
+1602.4 & Exceptions	X			X															X				
+1602.7 (Ref. 1602.7.3)	X																						
+1603.4	X			X																			
+1603.4.1 & Exception	X			X																			
+1603.5	X			X																			
+1603.5.2	X			X																			
+Table 1603.5	X			X																			
+1603.6	X																						
+1603.8	X			X																			
+1603.9	X			X																			
+1603.10	X			X																			
+1603.11 A, B	X			X																			
+1603.13	X			X																			
+1604.1 - 1604.3	X			X																			
+1605.3	X			X																			
+1605.3.2	X			X																			
+1605.3.3	X			X																			
+
+1601.5.1
+
+& Exceptions
+
+(Ref. 1602.7.3)
+
+& Exception
+
+1603.5.2
+
+A, B
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1601.0 General
+1601.1 Applicability
+1601.1.1 Allowable Use of Alternate Water
+1601.2 System Design
+person registered or licensed to perform plumbing design work or who demonstrates competency to design the rainwater catchment system as required by the Authority Having Jurisdiction
+
+[HCD 1] Irrigation design plans shall meet the requirements of the California Code of Regulations, Title 23, Division 2, Chapter 2.7, Model Water Efficient Landscape Ordinance.
+
+1601.3 Permit
+nonpotable
+
+1601.4 Component Identification
+1601.5 Maintenance and Inspection
+with the manufacturer's recommendations and/or as required by the enforcing agency
+
+DESCRIPTION	MINIMUM FREQUENCY
+Inspect and clean filters andscreens, and replace (where necessary).	Every 3 months
+Inspect and verify that disinfection, filters, and water quality treatment devices and systems are operational and maintaining minimum water quality requirements as determined by the Authority Having Jurisdiction.	In accordance with manufacturer's instructions and the Authority Having Jurisdiction.
+Inspect and clear debris from rainwater gutters, downspouts, and roof washers.	Every 6 months
+Inspect and clear debris from the roof or another above-ground rainwater collection surfaces.	Every 6 months
+Remove tree branches and vegetation overhanging a roof or other aboveground rainwater collection surfaces.	As needed
+Inspect pumps and verify operation.	After initial installation and every 12 months thereafter
+Inspect valves and verify operation.	After initial installation and every 12 months thereafter
+Inspect pressure tanks and verify operation.	After initial installation and every 12 months thereafter
+Clear debris from and inspect storage tanks, locking devices, and verify operation.	After initial installation and every 12 months thereafter
+Inspect caution labels and marking.	After initial installation and every 12 months thereafter
+Cross-connection inspection and test.*	After initial installation and every 12 months thereafter
+Test water quality of rainwater catchment systems required by Section 1603.5 to maintain a minimum water quality.	Every 12 months. After system renovation or repair.
+
+1601.5.1 Maintenance Responsibility
+1601.6 Operation and Maintenance Manual
+or installer.
+
+Diagram(s)
+
+Instructions
+
+for rainwater catchment systems.
+
+startup, shutdown, and
+
+Section
+
+installer and/or
+
+1601.7 Minimum Water Quality Requirements
+In the absence of water quality requirements for harvested rainwater, Table 1603.5 shall apply.
+
+surface
+
+1602.0 Nonpotable Rainwater Catchment Systems
+1602.1 General
+1602.2 Plumbing Plan Submission
+1602.3 System Changes
+1602.4 Connections to Potable or Reclaimed (Recycled) Water Systems
+water, on-site treated nonpotable gray water
+
+1602.5 Initial Cross-Connection Test
+1602.6 Sizing
+1602.7 Rainwater Catchment System Materials
+1602.7.3
+
+1602.7.1 Water Supply and Distribution Materials
+1602.7.2 Rainwater Catchment System Drainage Materials
+1602.7.3 Storage Tanks
+1602.8 Rainwater Catchment System Color and Marking Information
+1602.9 Deactivation and Drainage for Cross-Connection Test
+1603.0 Design and Installation
+1603.1 Rainwater Catchment Systems
+1603.2 Outside Hose Bibbs
+1603.3 Construction
+1603.4 Rainwater Catchment Collection Surfaces
+impervious
+
+1603.4.1 Other Surfaces
+water quality
+
+gray
+
+1603.4.2 Prohibited Discharges
+1603.5 Minimum Water Quality
+[BSC]
+
+5000 gallons (18 927 L) where the tank is supported directly upon grade and the ratio of height to diameter or width does not exceed 2 to 1
+
+APPLICATION	MINIMUM TREATMENT	MINIMUM WATER QUALITY
+Car washing	Debris excluder or other approved means in accordance with Section1603.18, and 100microns (100 µm) in accordance with Section 1603.19 for drip irrigation.	N/A
+Surface, Subsurface anddrip irrigation	Debris excluder or other approved means in accordance with Section 1603.18, and 100microns (100 µm) in accordance with Section 1603.19 for drip irrigation.	N/A
+Spray irrigation wherethe maximum storagevolume is less than 360 gallons (1363 L)	Debris excluder or other approved means in accordance with Section 1603.18, and disinfectionin accordance withSection 1603.16.	N/A
+Spray irrigation wherethe maximum storagevolume is equal to ormore than 360 gallons(1363 L)	Debris excluder or other approved means in accordance with Section 1603.8.	Escherichiacoli: < 100CFU/100 mL,and Turbidity:< 10 NTU
+Urinal and water closet flushing, clothes washing,and trap priming	Debris excluder or other approved means in accordance with Section 1603.18, and 100microns (100 µm) in accordance with Section 1603.19.	Escherichiacoli: < 100CFU/100 mL,and Turbidity:< 10 NTU
+Ornamental fountainsand other water features	Debris excluder or other approved means in accordance with Section 1603.18.	Escherichiacoli: < 100CFU/100 mL,and Turbidity:< 10 NTU
+Cooling tower make upwater	Debris excluder or other approved means in accordance with Section 1603.18, and 100microns (100 µm) in accordance with Section 1603.19.	Escherichiacoli: < 100CFU/100 mL,and Turbidity:< 10 NTU
+
+(100 µm)
+
+Surface,
+
+100 µm
+
+1363 L
+
+1363 L
+
+100 µm
+
+100 µm
+
+1603.5.1 Treatment
+1603.5.2 Disinfection
+Disinfection
+
+Where the initial quality of the collected rainwater requires disinfection or other treatment or both, the collected rainwater shall be treated as necessary to ensure the required water quality is delivered at the point of use. Where chlorine is used for disinfection or treatment, water shall be tested for residual chlorine in accordance with ASTM D1253. The levels of residual chlorine shall not exceed the levels allowed for the intended use in accordance with the requirements of the local enforcing agency.
+
+1603.6 Rainwater Storage Tanks
+1603.7 Location
+1603.8 Above Grade
+California Building Code
+
+1603.9 Below Grade
+Below grade rainwater tanks installed underground shall be provided with manholes. Below grade storage tanks, located outside of the building, shall be provided with either a manhole not less than 24 inches (610 mm) square or a manhole with an inside diameter of not less than 24 inches (610 mm). Service ports in manhole covers shall be not less than 8 inches (203 mm) in diameter.
+
+1603.10 Drainage and Overflow
+and tank drain
+
+Backwater valves shall be installed so that access is provided to the working parts for service and repair
+
+1603.10.1 Overflow Outlet Size
+1603.11 Opening and Access Protection
+and piping systems.
+
+1603.12 Marking
+1603.13 Storage Tank Venting
+provided with a vent sized in accordance with this code, and based on the size of the influent pipe
+
+1/16
+
+1.6
+
+Tank vent pipes shall not be connected to the sanitary drainage system vent
+
+1603.14 Pumps
+1603.15 Roof Drains
+1603.16 Water Quality Devices and Equipment
+1603.17 Freeze Protection
+1603.18 Debris Removal
+1603.19 Required Filters
+1603.20 Roof Gutters
+1604.0 Signs
+1604.1 General
+and applicable requirements of the California Building Code
+
+1604.2 Commercial, Industrial, Institutional and Residential Restroom Signs
+and Residential
+
+and in residential common use areas
+
+Signs shall comply with all applicable requirements of the California Building Code.
+
+1604.3 Equipment Room Signs
+1605.0 Inspection and Testing
+1605.1 General
+1605.2 Supply System Inspection and Test
+1605.3 Cross-Connection Inspection and Testing
+visual
+
+an initial cross-connection
+
+before the initial operation of the rainwater catchment system. During an initial or subsequent cross-connection test, the
+
+in accordance with Section 1602.5. Initial or subsequent inspections or tests shall be performed
+
+1605.3.3
+
+1605.3.1 Visual System Inspection
+1605.3.2 Cross-Connection Test
+A cross-connection test shall be performed
+
+or
+
+When rainwater is not available for the initial cross-connection test, a temporary connection to a potable water supply shall be required. At the conclusion of the initial cross-connection test, the temporary connection to the potable water supply shall be disconnected.
+
+1605.3.3 Discovery of Cross-Connection
+supply source(s)
+

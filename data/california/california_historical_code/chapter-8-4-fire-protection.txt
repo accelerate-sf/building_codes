@@ -1,0 +1,110 @@
+CHAPTER 8-4 FIRE PROTECTION
+
+SECTION 8-401 PURPOSE, INTENT AND SCOPE
+
+8-401.1 Purpose.
+
+The purpose of this chapter is to provide regulations for fire protection of qualified historical buildings or properties. The CHBC requires enforcing agencies to accept any reasonably equivalent alternatives to the regular code when dealing with qualified historical buildings or properties.
+
+8-401.2 Intent.
+
+The intent of the CHBC is to preserve the integrity of qualified historical buildings or properties while maintaining a reasonable degree of fire protection based primarily on the life safety of the occupants and firefighting personnel.
+
+8-401.3 Scope.
+
+This chapter shall apply when required by the provisions of Section 8-102.
+
+SECTION 8-402 FIRE-RESISTIVE CONSTRUCTION
+
+8-402.1 Exterior wall construction.
+
+The fire-resistance requirement for existing exterior walls and existing opening protection may be satisfied when an automatic sprinkler system designed for exposure protection is installed per the CHBC. The automatic sprinklers may be installed on the exterior with at least one sprinkler located over each opening required to be protected. Additional sprinklers shall also be distributed along combustible walls under the roof lines that do not meet the fire-resistive requirement due to relationship to property lines as required by regular code. Such sprinkler systems may be connected to the domestic water supply on the supply-main side of the building shut-off valve. A shut-off valve may be installed for the sprinkler system, provided it is locked in an open position.
+
+8-402.2 One-hour construction.
+
+Upgrading an existing qualified historical building or property to one-hour fire-resistive construction and one-hour fire-resistive corridors shall not be required regardless of construction or occupancy when one of the following is provided:
+
+1.An automatic sprinkler system throughout. See Section 8-410 for automatic sprinkler systems.
+
+2.An approved life-safety evaluation.
+
+3.Other alternative measures as approved by the enforcing agency.
+
+8-402.3 Openings in fire-rated systems.
+
+Historical glazing materials and solid wood unrated doors in interior walls required to have one-hour fire rating may be approved when operable windows and doors are provided with appropriate smoke seals and when the area affected is provided with an automatic sprinkler system. See Section 8-410 for automatic sprinkler systems.
+
+SECTION 8-403 INTERIOR FINISH MATERIALS
+
+New non-historical interior wall and ceiling finishes shall conform to the provisions of the regular code. Existing non-conforming materials used in interior walls and finishes may be surfaced with an approved fire-retardant to increase the rating of the natural finish to within reasonable proximity of the required rating. For wood lath and plaster walls, see Section 8-404.
+
+Exception: When an automatic sprinkler system is provided throughout the building, existing finishes shall be approved.
+
+SECTION 8-404 WOOD LATH AND PLASTER
+
+Wood lath and plaster walls may be considered in accordance with codes, standards and listings published prior to 1943 whereby a wood stud wall assembly with gypsum or lime plaster on hand split or sawn wooden lath obtains a one-half-hour fire-resistive rating. This rating may be increased for interior walls to as much as one hour by filling the wall with mineral fiber or glass fiber.
+
+SECTION 8-405 OCCUPANCY SEPARATION
+
+See Chapter 8-3.
+
+SECTION 8-406 MAXIMUM FLOOR AREA
+
+See Chapter 8-3.
+
+SECTION 8-407 VERTICAL SHAFTS
+
+Vertical shafts need not be enclosed when such shafts are blocked at every floor level by the installation of not less than 2 full inches (51 mm) of solid wood or equivalent construction to prevent the initial passage of smoke and flame. Automatic sprinkler systems or other solutions may be considered on a case-by-case basis, in lieu of enclosure of vertical shafts and stairwells.
+
+SECTION 8-408 ROOF COVERING
+
+Existing or original roofing materials may be repaired or reconstructed subject to the following requirements:
+
+1.The original or historical roofing system shall be detailed or modified as necessary in order to be capable of providing shelter while preserving the historical materials and appearance of the roof.
+
+2.Wooden roof materials may be utilized where fire resistance is required, provided they are treated with fire-retardant treatments to achieve a Class “B” roof covering rating. Wood roofing in state designated Urban Wildland and High Fire Zones shall be permitted when installed in class “A” assemblies.
+
+3.Jurisdictions that prohibit wood roofing materials for application as roof coverings and roof assemblies shall submit documentation for the adoption. Express Terms, statement of reasons and minutes of the action by the adopting authority Health and Safety Code, Section 18959(f).
+
+SECTION 8-409 FIRE ALARM SYSTEMS
+
+Every qualified historical building or property shall be provided with fire alarm systems as required for the use or occupancy by the regular code or other approved alternative.
+
+SECTION 8-410 AUTOMATIC SPRINKLER SYSTEMS
+
+8-410.1
+
+Every qualified historical building or property which cannot be made to conform to the construction requirements specified in the regular code for the occupancy or use, and which constitutes a distinct fire hazard (for definition of “distinct hazard,” see Chapter 8-2), shall be deemed to be in compliance if provided with an automatic sprinkler system or a life-safety system or other technologies as approved by the enforcing agency. (“Automatic” is defined in the regular code. Sprinkler System is defined in this section.)
+
+8-410.2
+
+When required by the CHBC, an automatic sprinkler system is defined by the following standards as adopted by the State Fire Marshal (for nonhazardous occupancies).
+
+1.Buildings of four stories or less: NFPA 13R.
+
+2.For floors above the fourth, NFPA 13.
+
+3.Buildings with floors above 75 feet, NFPA 13.
+
+4.When the building is free standing or with property line separation, two floors and 1500 sf per floor or less, NFPA 13D.
+
+5.For exterior wall and opening protection. As required by this chapter.
+
+Exception: When the automatic sprinkler systems are used to reach compliance using this code, in three or more occasions, NFPA 13D standard shall be increased to NFPA 13R standard, or NFPA 13R standard shall be increased to a NFPA 13 standard.
+
+8-410.3
+
+Automatic sprinkler systems shall not be used to substitute for or act as an alternate to the required number of exits from any facility. (See Chapter 8-5 for exiting requirements.)
+
+8-410.4
+
+An automatic sprinkler system shall be provided in all detention facilities.
+
+SECTION 8-411 OTHER TECHNOLOGIES
+
+Fire alarm systems, smoke and heat detection systems, occupant notification and annunciation systems, smoke control systems and fire modeling, timed egress analysis and modeling, as well as other engineering methods and technologies may be accepted by the enforcing agency to address areas of nonconformance.
+
+SECTION 8-412 HIGH-RISE BUILDINGS
+
+Qualified historical buildings having floors for human occupancy located more than 75 feet above the lowest floor level having building access shall conform to the provisions of the regular code for existing high-rise buildings as amended by the CHBC.
+

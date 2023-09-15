@@ -1,0 +1,975 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE CHAPTER 19 – CONCRETE
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+	Adopt entire chapter													X										
+	Adopt entire chapter as amended (amended sections listed below)	X			X	X				X		X	X			X								
+	Adopt only those sections that are listed below																							
+	Chapter / Section																							
+	1901.1.1									X		X	X			X								
+	1901.1.2									X		X	X			X								
+	1901.1.3									X		X	X			X								
+	1901.1.4									X		X	X			X								
+	1901.3.1											X	X			X								
+	1901.3.2											X	X			X								
+	1901.3.3											X	X			X								
+	1901.3.4											X	B			X								
+	1901.3.4 Exception 6												B											
+	1901.3.4.2											X	X			X								
+	1901.3.4.5 Exception											X	X			X								
+	1903.2											X	X			X								
+	1903.4											X	X			X								
+	1903.5											X	X			X								
+	1903.7											X	X			X								
+	1903.8											X	X			X								
+	1905.1.2	X																						
+	1905.1.3	X																						
+	1905.1.7											X	B			X								
+	1905.1.8	X																						
+	1906											X	X			X								
+	1907.1.1				X																			
+	1908.1											X	B			X								
+	1908.2											X	B			X								
+	1908.3											X	B			X								
+	1908.5											X	X			X								
+	1908.7											X	X			X								
+	1908.9											X	X			X								
+>	1908.10.2											X	X			X								
+	1909									X														
+	1910											X	B			X								
+	1911											X	X			X								The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+(A & B) – OSHPD (HCAI) delineates that OHSPD 2 is either designated as an OSHPD 2A or 2B. See Ch. 1, Div. I, Section 1.10 for additional information.
+
+CHAPTER 19 CONCRETE
+
+Italics are used for text within Sections 1903 through 1905 of this code to indicate model code provisions that differ from ACI 318. State of California amendments in these sections are shown in italics and underlined.
+
+User notes:
+
+About this chapter: Chapter 19 provides minimum accepted practices for the design and construction of buildings and structural components using concrete—both plain and reinforced. Chapter 19 relies primarily on the reference to American Concrete Institute (ACI) 318, Building Code Requirements for Structural Concrete. Structural concrete must be designed and constructed to comply with this code and all listed standards. There are also specific provisions addressing concrete slabs and shotcrete.
+
+Code development reminder: Code change proposals to this chapter will be considered by the IBC—Structural Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION 1901 GENERAL
+
+1901.1 Scope.
+
+The provisions of this chapter shall govern the materials, quality control, design and construction of concrete used in structures.
+
+1901.1.1 Application.
+
+[DSA-SS/CC, OSHPD] The scope of application of Chapter 19 is as follows:
+
+1.Structures regulated by the Division of the State Architect—Structural Safety/Community Colleges (DSA-SS/CC), which include those applications listed in Section 1.9.2.2.
+
+2.Office of Statewide Health Planning and Development Applications listed in Sections 1.10.1, 1.10.2 and 1.10.5, regulated by the Office of Statewide Health Planning and Development (OSHPD). These applications include hospital buildings removed from general acute care service, skilled nursing facility buildings, intermediate care facility buildings and acute psychiatric hospital buildings.
+
+1901.1.2 Amendments in this chapter.
+
+[DSA-SS/CC, OSHPD] DSA-SS/CC adopts this chapter and all amendments.
+
+Exceptions: Amendments adopted by only one agency appear in this chapter preceded with the appropriate acronym of the adopting agency, as follows:
+
+1.Division of the State Architect—Structural Safety/Community Colleges:
+
+[DSA-SS/CC] For applications listed in Section 1.9.2.2.
+[DSA-SS/CC] For applications listed in Section 1.9.2.2.
+
+2.Office of Statewide Health Planning and Development
+
+[OSHPD 1R] – For applications listed in Section 1.10.1.
+
+[OSHPD 2] – For applications listed in Section 1.10.2.
+
+[OSHPD 5] – For applications listed in Section 1.10.5.
+[OSHPD 1R] – For applications listed in Section 1.10.1.
+
+[OSHPD 2] – For applications listed in Section 1.10.2.
+
+[OSHPD 5] – For applications listed in Section 1.10.5.
+
+1901.1.3 Reference to other chapters.
+
+[DSA-SS/CC] Where reference within this chapter is made to sections in Chapters 17 and 18, the provisions in Chapters 17A and 18A respectively shall apply instead.
+
+1901.1.4 Amendments.
+
+[DSA-SS/CC, OSHPD]
+
+1.[OSHPD 1R, 2 & 5] See Section 1910 for additional requirements applicable to hospital buildings that have been removed from acute care service, skilled nursing and intermediate care facility buildings, and acute psychiatric hospital buildings.
+
+2.[DSA-SS/CC] See Section 1909 for additional requirements applicable to community colleges.
+
+1901.2 Plain and reinforced concrete.
+
+Structural concrete shall be designed and constructed in accordance with the requirements of this chapter and ACI 318 as amended in Section 1905 of this code. Except for the provisions of Sections 1904 and 1907, the design and construction of slabs on grade shall not be governed by this chapter unless they transmit vertical loads or lateral forces from other parts of the structure to the soil.
+
+1901.3 Anchoring to concrete.
+
+Anchoring to concrete shall be in accordance with ACI 318 as amended in Section 1905, and applies to cast-in (headed bolts, headed studs and hooked J- or L-bolts), post-installed expansion (torque-controlled and displacement-controlled), undercut, screw, and adhesive anchors.
+
+1901.3.1 1901.3.1 Power actuated fasteners. Power actuated fasteners
+
+[OSHPD 1R, 2 & 5] Power actuated fasteners qualified in accordance with ICC-ES AC 70 shall be deemed to satisfy the requirements of ASCE 7, Section 13.4.5.
+
+Power actuated fasteners shall be permitted in seismic shear for components exempt from construction documents review by ASCE 7, Section 13.1.4 and for interior non-bearing non-shear wall partitions only. Power actuated fastener shall not be used to anchor seismic bracing, exterior cladding or curtain wall systems.
+
+Exception: Power actuated fasteners in steel to steel connections prequalified for seismic application by cyclic tests in accordance with ICC-ES AC 70 shall be permitted for seismic design.
+
+1901.3.2 Mechanical anchors and specialty inserts.
+
+[OSHPD 1R, 2 & 5] Mechanical anchors qualified in accordance with ICC-ES AC 193 shall be deemed to satisfy the requirements of this section.
+
+Specialty inserts, including cast-in-place specialty inserts, tested in accordance with ICC-ES AC 232 or AC 446 shall be deemed to satisfy the requirements of this section.
+
+1901.3.3 Post-installed adhesive anchors.
+
+[OSHPD 1R, 2 & 5]  Adhesive anchors qualified in accordance with ICC-ES AC 308 shall be deemed to satisfy the requirements of this section.
+
+1901.3.4 Tests for post-installed anchors in concrete.
+
+[OSHPD 1R, 2B & 5] When post-installed anchors are used in lieu of cast-in place bolts, the installation verification test loads, frequency and acceptance criteria shall be in accordance with this section.
+
+1901.3.4.1 General.
+
+Test loads or torques and acceptance criteria shall be shown on the construction documents.
+
+If any anchor fails testing, all anchors of the same type shall be tested, which are installed by the same trade, not previously tested until twenty (20) consecutive anchors pass, then resume the initial test frequency.
+
+1901.3.4.2 Testing procedure.
+
+The test procedure shall be as permitted by an approved evaluation report using criteria adopted in this code. All post-installed anchors shall be tension tested. [OSHPD 1R, 2 & 5] Tension testing to verify proper installation shall be performed in accordance with ASTM E3121.
+
+Exception: Torque controlled post installed anchors shall be permitted to be tested using torque based on an approved evaluation report using criteria adopted in this code.
+
+Alternatively, manufacturer’s recommendation for testing may be approved by the enforcement agency based on an approved evaluation report using criteria adopted in this code.
+
+1901.3.4.3 Test frequency.
+
+When post-installed anchors are used for sill plate bolting applications, 10 percent of the anchors shall be tested.
+
+When post-installed anchors are used for other structural applications, all such anchors shall be tested.
+
+When post-installed anchors are used for nonstructural components, such as equipment anchorage, 50 percent or alternate bolts in a group, including at least one-half the anchors in each group, shall be tested.
+
+The testing of the post-installed anchors shall be done in the presence of the special inspector and a report of the test results shall be submitted to the enforcement agency.
+
+Exceptions:
+
+1.Undercut anchors that allow visual confirmation of full set shall not require testing.
+
+2.Where the design tension on anchors is less than 100 pounds and those anchors are clearly noted on the approved construction documents, only 10 percent of those anchors shall be tested.
+
+3.Where adhesive anchor systems are used to install reinforcing dowel bars in hardened concrete, only 25 percent of the dowels shall be tested if all of the following conditions are met:
+
+a.The dowels are used exclusively to transmit shear forces across joints between existing and new concrete.
+
+b.The number of dowels in any one member equals or exceeds twelve (12).
+
+c.The dowels are uniformly distributed across seismic force resisting members (such as shear walls, collectors and diaphragms).
+
+Anchors to be tested shall be selected at random by the special inspector/inspector of record (IOR).
+
+4.Testing of shear dowels across cold joints in slabs on grade, where the slab is not part of the lateral force-resisting system shall not be required.
+
+5.Testing is not required for power actuated fasteners used to attach tracks of interior non-shear wall partitions for shear only, where there are at least three fasteners per segment of track.
+
+6.[OSHPD 2B] In state detention and correctional facilities, tension testing is not required for post-installed anchors used for attaching nonstructural components, such as grab bars and shower seats, to concrete walls if the components do not contribute to security/detainment, life safety and the continuous operation of the institution following an event of extreme environmental loading from flood, wind, snow or earthquakes, as determined by the enforcing agency.
+
+1901.3.4.4 Test loads.
+
+Required test loads shall be determined by one of the following methods:
+
+1.Twice the maximum allowable tension load or one and a quarter (11/4) times the maximum design strength of anchors as provided in approved evaluation report using criteria adopted in this code or determined in accordance with Chapter 17 of ACI 318.
+
+Tension test load need not exceed 80 percent of the nominal yield strength of the anchor element (= 0.8 Ase fya).
+
+2.The manufacturer’s recommended installation torque based on approved evaluation report using criteria adopted in this code.
+
+1901.3.4.5 Test acceptance criteria.
+
+Acceptance criteria for post-installed anchors shall be based on approved evaluation report using criteria adopted in this code. Field test shall satisfy following minimum requirements.
+
+1.Hydraulic ram method:
+
+Anchors tested with a hydraulic jack or spring loaded devices shall maintain the test load for a minimum of 15 seconds and shall exhibit no discernable movement during the tension test, e.g., as evidenced by loosening of the washer under the nut.
+
+The testing device shall not restrict the concrete shear cone type failure mechanism from occurring.
+Anchors tested with a hydraulic jack or spring loaded devices shall maintain the test load for a minimum of 15 seconds and shall exhibit no discernable movement during the tension test, e.g., as evidenced by loosening of the washer under the nut.
+
+The testing device shall not restrict the concrete shear cone type failure mechanism from occurring.
+
+Exception: When denoted accordingly on the approved construction documents, adhesive anchors complying with ACI 318 Equation 17.8.2a and for which concrete breakout does not control the design tensile strength may be tested with apparatus support locations closer than 1.5 times the anchor embedment depth.
+
+2.Torque wrench method:
+
+Torque-controlled post-installed anchors tested with a calibrated torque wrench shall attain the specified torque within 1/2 turn of the nut; or one-quarter (1/4) turn of the nut for a 3/8-inch sleeve anchor only.
+Torque-controlled post-installed anchors tested with a calibrated torque wrench shall attain the specified torque within 1/2 turn of the nut; or one-quarter (1/4) turn of the nut for a 3/8-inch sleeve anchor only.
+
+1901.4 Composite structural steel and concrete structures.
+
+Systems of structural steel acting compositely with reinforced concrete shall be designed in accordance with Section 2206 of this code.
+
+1901.5 Construction documents.
+
+The construction documents for structural concrete construction shall include:
+
+1.The specified compressive strength of concrete at the stated ages or stages of construction for which each concrete element is designed.
+
+2.The specified strength or grade of reinforcement.
+
+3.The size and location of structural elements, reinforcement and anchors.
+
+4.Provision for dimensional changes resulting from creep, shrinkage and temperature.
+
+5.The magnitude and location of prestressing forces.
+
+6.Anchorage length of reinforcement and location and length of lap splices.
+
+7.Type and location of mechanical and welded splices of reinforcement.
+
+8.Details and location of contraction or isolation joints specified for plain concrete.
+
+9.Minimum concrete compressive strength at time of posttensioning.
+
+10.Stressing sequence for posttensioning tendons.
+
+11.For structures assigned to Seismic Design Category D, E or F, a statement if slab on grade is designed as a structural diaphragm.
+
+1901.6 Special inspections and tests.
+
+Special inspections and tests of concrete elements of buildings and structures and concreting operations shall be as required by Chapter 17.
+
+1901.7 Tolerances for structural concrete.
+
+Where not indicated in construction documents, structural tolerances for concrete structural elements shall be in accordance with this section.
+
+1901.7.1 Cast-in-place concrete tolerances.
+
+Structural tolerances for cast-in-place concrete structural elements shall be in accordance with ACI 117.
+
+Exceptions:
+
+1. Group R-3 detached one- or two-family dwellings are not required to comply with this section.
+
+2. Shotcrete is not required to comply with this section.
+
+1901.7.2 Precast concrete tolerances.
+
+Structural tolerances for precast concrete structural elements shall be in accordance with ACI ITG-7.
+
+Exception: Group R-3 detached one- or two-family dwellings are not required to comply with this section.
+
+SECTION 1902 COORDINATION OF TERMINOLOGY
+
+1902.1 General.
+
+Coordination of terminology used in ACI 318 and ASCE 7 shall be in accordance with Sections 1902.1.1 and 1902.1.2.
+
+1902.1.1 Design displacement.
+
+Design displacement at each level shall be the total lateral deflection at the level calculated for the design earthquake using the procedures defined in Section 12.8.6 of ASCE 7.
+
+1902.1.2 Special structural wall.
+
+Special structural walls made of cast-in-place or precast concrete shall comply with the requirements of Sections 18.2.4 through 18.2.8, 18.10 and 18.11 of ACI 318, as applicable, in addition to the requirements for ordinary reinforced concrete structural walls or ordinary precast structural walls, as applicable. Where ASCE 7 refers to a “special reinforced concrete shear wall,” it shall be deemed to mean a “special structural wall.”
+
+SECTION 1903 SPECIFICATIONS FOR TESTS AND MATERIALS
+
+1903.1 General.
+
+Materials used to produce concrete, concrete itself and testing thereof shall comply with the applicable standards listed in ACI 318.
+
+
+
+Exception: The following standards as referenced in Chapter 35 shall be permitted to be used.
+
+1.ASTM C150
+
+2.ASTM C595
+
+3.ASTM C1157
+
+1903.2 Special inspections.
+
+Where required, special inspections and tests shall be in accordance with Chapter 17. [OSHPD 1R, 2 & 5] and Section 1901.
+
+1903.3 Glass fiber-reinforced concrete.
+
+Glass fiber-reinforced concrete (GFRC) and the materials used in such concrete shall be in accordance with the PCI MNL 128 standard.
+
+1903.4 Flat wall insulating concrete form (ICF) systems.
+
+[OSHPD 1R, 2 & 5] Not Permitted by OSHPD. Insulating concrete form material used for forming flat concrete walls shall conform to ASTM E2634.
+
+1903.5 Aggregates -
+
+[OSHPD 1R, 2 & 5] Modify ACI 318 Section 26.4.1.2.1(a).(1) as follows:
+
+(1)Normal weight aggregate: Aggregate shall be nonreactive as determined by one of the methods in ASTM C33 Appendix X1: Methods for Evaluating Potential for Deleterious Expansion Due to Alkali Reactivity of an Aggregate. Aggregates deemed to be deleterious or potentially deleterious may be used with the addition of a material that has been shown to prevent harmful expansion in accordance with Appendix X1 of ASTM C33, when approved by the building official.
+
+1903.6 Limits on Cementitious Materials.
+
+[OSHPD 1R, 2 & 5] Modify ACI 318 Section 26.4.2.2(b) and Table 26.4.2.2(b) as follows:
+
+The maximum percentage of pozzolans, including fly ash and silica fume, and slag cement in concrete assigned to all exposure categories shall be in accordance with Table 26.4.2.2(b) and Section 26.4.2.2(b) Items (1) and (2).
+
+Where pozzolans are used as cementitious materials, duration for minimum specified compressive strength of concrete (f ′c) that exceeds 28 days shall be considered an alternative system.
+
+1903.7 Steel fiber reinforcement -
+
+[OSHPD 1R, 2 & 5] Not permitted by OSHPD.
+
+1903.8 Welding of reinforcing bars -
+
+[OSHPD 1R, 2 & 5] Modify ACI 318 Section 26.6.4.1(b) by adding the following:
+
+Subject to prior approval of the enforcing agency, longitudinal holding wires conforming to ASTM A1064, of maximum wire size W5, that are machine resistance welded to stirrup/tie cage (or spiral assemblies) consisting of low alloy steel reinforcing conforming to ASTM A706 are permitted when performed under continuous competent control in a fabrication shop. Tack welding of primary reinforcing bars together or to stirrups/ties is not permitted. Holding wire weld locations shall not occur on any longitudinal or primary reinforcing nor on any portion of a reinforcing bar that is or will be bent in accordance with ACI 318 Section 25.3 for the extents specified in AWS D1.4 Section 4.2.6.
+
+Quality control tests shall be performed on shop welded specimens by the fabricator. Reinforcing steel specimens containing the holding wire shall be tested for yield and tensile strength at the frequency required by Section 1910.2. Test reports shall be available on request to the approved agency, design professional and enforcement agency.
+
+SECTION 1904 DURABILITY REQUIREMENTS
+
+1904.1 Structural concrete.
+
+Structural concrete shall conform to the durability requirements of ACI 318.
+
+Exception: For Group R-2 and R-3 occupancies not more than three stories above grade plane, the specified compressive strength, f´c, for concrete in basement walls, foundation walls, exterior walls and other vertical surfaces exposed to the weather shall be not less than 3,000 psi (20.7 MPa).
+
+1904.2 Nonstructural concrete.
+
+The registered design professional shall assign nonstructural concrete a freeze-thaw exposure class, as defined in ACI 318, based on the anticipated exposure of nonstructural concrete. Nonstructural concrete shall have a minimum specified compressive strength, f´c, of 2,500 psi (17.2 MPa) for Class F0; 3,000 psi (20.7 MPa) for Class F1; and 3,500 psi (24.1 MPa) for Classes F2 and F3. Nonstructural concrete shall be air entrained in accordance with ACI 318.
+
+SECTION 1905 MODIFICATIONS TO ACI 318
+
+1905.1 General.
+
+The text of ACI 318 shall be modified as indicated in Sections 1905.1.1 through 1905.1.8.
+
+1905.1.1 ACI 318, Section 2.3.
+
+Modify existing definitions and add the following definitions to ACI 318, Section 2.3.
+
+
+
+DETAILED PLAIN CONCRETE STRUCTURAL WALL. A wall complying with the requirements of Chapter 14, including 14.6.2.
+
+ORDINARY PRECAST STRUCTURAL WALL. A precast wall complying with the requirements of Chapters 1 through 13, 15, 16 and 19 through 26.
+
+ORDINARY REINFORCED CONCRETE STRUCTURAL WALL. A cast-in-place wall complying with the requirements of Chapters 1 through 13, 15, 16 and 19 through 26.
+
+ORDINARY STRUCTURAL PLAIN CONCRETE WALL. A wall complying with the requirements of Chapter 14, excluding 14.6.2.
+
+
+
+1905.1.2 ACI 318, Section 18.2.1.
+
+Modify ACI 318 Sections 18.2.1.2 and 18.2.1.6 to read as follows:
+
+•18.2.1.2 – Structures assigned to Seismic Design Category A shall satisfy requirements of Chapters 1 through 17 and 19 through 26; Chapter 18 does not apply. Structures assigned to Seismic Design Category B, C, D, E or F shall satisfy 18.2.1.3 through 18.2.1.7, as applicable. Except for structural elements of plain concrete complying with Section 1905.1.7 of the California Building Code, structural elements of plain concrete are prohibited in structures assigned to Seismic Design Category C, D, E or F.
+
+•18.2.1.6 – Structural systems designated as part of the seismic force-resisting system shall be restricted to those permitted by ASCE 7. Except for Seismic Design Category A, for which Chapter 18 does not apply, the following provisions shall be satisfied for each structural system designated as part of the seismic force-resisting system, regardless of the seismic design category:(a)Ordinary moment frames shall satisfy 18.3.(b)Ordinary reinforced concrete structural walls and ordinary precast structural walls need not satisfy any provisions in Chapter 18.(c)Intermediate moment frames shall satisfy 18.4.(d)Intermediate precast structural walls shall satisfy 18.5.(e)Special moment frames shall satisfy 18.6 through 18.9.(f)Special structural walls shall satisfy 18.10.(g)Special structural walls constructed using precast concrete shall satisfy 18.11.
+
+(a)Ordinary moment frames shall satisfy 18.3.
+
+(b)Ordinary reinforced concrete structural walls and ordinary precast structural walls need not satisfy any provisions in Chapter 18.
+
+(c)Intermediate moment frames shall satisfy 18.4.
+
+(d)Intermediate precast structural walls shall satisfy 18.5.
+
+(e)Special moment frames shall satisfy 18.6 through 18.9.
+
+(f)Special structural walls shall satisfy 18.10.
+
+(g)Special structural walls constructed using precast concrete shall satisfy 18.11.
+•18.2.1.2 – Structures assigned to Seismic Design Category A shall satisfy requirements of Chapters 1 through 17 and 19 through 26; Chapter 18 does not apply. Structures assigned to Seismic Design Category B, C, D, E or F shall satisfy 18.2.1.3 through 18.2.1.7, as applicable. Except for structural elements of plain concrete complying with Section 1905.1.7 of the California Building Code, structural elements of plain concrete are prohibited in structures assigned to Seismic Design Category C, D, E or F.
+
+•18.2.1.6 – Structural systems designated as part of the seismic force-resisting system shall be restricted to those permitted by ASCE 7. Except for Seismic Design Category A, for which Chapter 18 does not apply, the following provisions shall be satisfied for each structural system designated as part of the seismic force-resisting system, regardless of the seismic design category:
+
+(a)Ordinary moment frames shall satisfy 18.3.
+
+(b)Ordinary reinforced concrete structural walls and ordinary precast structural walls need not satisfy any provisions in Chapter 18.
+
+(c)Intermediate moment frames shall satisfy 18.4.
+
+(d)Intermediate precast structural walls shall satisfy 18.5.
+
+(e)Special moment frames shall satisfy 18.6 through 18.9.
+
+(f)Special structural walls shall satisfy 18.10.
+
+(g)Special structural walls constructed using precast concrete shall satisfy 18.11.
+
+Special moment frames and special structural walls shall also satisfy 18.2.4 through 18.2.8.
+
+1905.1.3 ACI 318, Section 18.5.
+
+Modify ACI 318, Section 18.5 by adding new Section 18.5.2.2 and renumbering existing Sections 18.5.2.2 and 18.5.2.3 to become 18.5.2.3 and 18.5.2.4, respectively.
+
+18.5.2.2 – Connections that are designed to yield shall be capable of maintaining 80 percent of their design strength at the deformation induced by the design displacement or shall use Type 2 mechanical splices.
+
+18.5.2.3 – Elements of the connection that are not designed to yield shall develop at least 1.5 Sy.
+
+18.5.2.4 – In structures assigned to SDC D, E or F, wall piers shall be designed in accordance with 18.10.8 or 18.14 in ACI 318.
+
+1905.1.4 ACI 318, Section 18.11.
+
+Modify ACI 318, Section 18.11.2.1 to read as follows:
+
+18.11.2.1 – Special structural walls constructed using precast concrete shall satisfy all the requirements of 18.10 for cast-in-place special structural walls in addition to 18.5.2.
+
+1905.1.5 ACI 318, Section 18.13.1.1.
+
+Modify ACI 318, Section 18.13.1.1 to read as follows:
+
+18.13.1.1 – Foundations resisting earthquake-induced forces or transferring earthquake-induced forces between a structure and ground shall comply with the requirements of 18.13 and other applicable provisions of ACI 318 unless modified by Chapter 18 of the California Building Code.
+
+1905.1.6 ACI 318, Section 14.6.
+
+Modify ACI 318, Section 14.6 by adding new Section 14.6.2 to read as follows:
+
+14.6.2 – Detailed plain concrete structural walls.
+
+14.6.2.1 – Detailed plain concrete structural walls are walls conforming to the requirements of ordinary structural plain concrete walls and 14.6.2.2.
+
+14.6.2.2 – Reinforcement shall be provided as follows:
+
+•Vertical reinforcement of at least 0.20 square inch (129 mm2) in cross-sectional area shall be provided continuously from support to support at each corner, at each side of each opening and at the ends of walls. The continuous vertical bar required beside an opening is permitted to substitute for one of the two No. 5 bars required by 14.6.1.
+
+•Horizontal reinforcement at least 0.20 square inch (129 mm2) in cross-sectional area shall be provided:
+
+1.Continuously at structurally connected roof and floor levels and at the top of walls.
+
+2.At the bottom of load-bearing walls or in the top of foundations where doweled to the wall.
+
+3.At a maximum spacing of 120 inches (3048 mm).
+
+Reinforcement at the top and bottom of openings, where used in determining the maximum spacing specified in Item 3 above, shall be continuous in the wall.
+
+1905.1.7 ACI 318, Section 14.1.4.
+
+Delete ACI 318, Section 14.1.4 and replace with the following:
+
+[OSHPD 1R, 2B & 5] Plain concrete shall not be permitted for a structure assigned to Seismic Design Category (SDC) D, E and F.
+
+14.1.4 – Plain concrete in structures assigned to Seismic Design Category C, D, E or F.
+
+14.1.4.1 – Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:
+
+•Structural plain concrete basement, foundation or other walls below the base as defined in ASCE 7 are permitted in detached one- and two-family dwellings three stories or less in height constructed with stud-bearing walls. In dwellings assigned to Seismic Design Category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall be not less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 14.6.1.
+
+•Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.Exception: In detached one- and two-family dwellings three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.
+
+•Plain concrete footings supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. For footings that exceed 8 inches (203 mm) in thickness, a minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.Exceptions:1.In Seismic Design Categories A, B and C, detached one- and two-family dwellings three stories or less in height constructed with stud-bearing walls are permitted to have plain concrete footings without longitudinal reinforcement.2.For foundation systems consisting of a plain concrete footing and a plain concrete stemwall, a minimum of one bar shall be provided at the top of the stemwall and at the bottom of the footing.3.Where a slab on ground is cast monolithically with the footing, one No. 5 bar is permitted to be located at either the top of the slab or bottom of the footing.
+
+1.In Seismic Design Categories A, B and C, detached one- and two-family dwellings three stories or less in height constructed with stud-bearing walls are permitted to have plain concrete footings without longitudinal reinforcement.
+
+2.For foundation systems consisting of a plain concrete footing and a plain concrete stemwall, a minimum of one bar shall be provided at the top of the stemwall and at the bottom of the footing.
+
+3.Where a slab on ground is cast monolithically with the footing, one No. 5 bar is permitted to be located at either the top of the slab or bottom of the footing.
+•Structural plain concrete basement, foundation or other walls below the base as defined in ASCE 7 are permitted in detached one- and two-family dwellings three stories or less in height constructed with stud-bearing walls. In dwellings assigned to Seismic Design Category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall be not less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 14.6.1.
+
+•Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.
+
+Exception: In detached one- and two-family dwellings three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.
+
+•Plain concrete footings supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. For footings that exceed 8 inches (203 mm) in thickness, a minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.
+
+Exceptions:
+
+1.In Seismic Design Categories A, B and C, detached one- and two-family dwellings three stories or less in height constructed with stud-bearing walls are permitted to have plain concrete footings without longitudinal reinforcement.
+
+2.For foundation systems consisting of a plain concrete footing and a plain concrete stemwall, a minimum of one bar shall be provided at the top of the stemwall and at the bottom of the footing.
+
+3.Where a slab on ground is cast monolithically with the footing, one No. 5 bar is permitted to be located at either the top of the slab or bottom of the footing.
+
+1905.1.8 ACI 318, Section 17.10.
+
+Modify ACI 318 Sections 17.10.5.2, 17.10.5.3(d) and 17.10.6.2 to read as follows:
+
+• 17.10.5.2 – Where the tensile component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor tensile force associated with the same load combination, anchors and their attachments shall be designed in accordance with 17.10.5.3. The anchor design tensile strength shall be determined in accordance with 17.10.5.4.Exception: Anchors designed to resist wall out-of-plane forces with design strengths equal to or greater than the force determined in accordance with ASCE 7 Equation 12.11-1 or 12.14-10 shall be deemed to satisfy Section 17.10.5.3(d).
+
+• 17.10.5.3(d) – The anchor or group of anchors shall be designed for the maximum tension obtained from design load combinations that include E, with E increased by Ω0. The anchor design tensile strength shall be calculated from 17.10.5.4.
+
+• 17.10.6.2 – Where the shear component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor shear force associated with the same load combination, anchors and their attachments shall be designed in accordance with 17.10.6.3. The anchor design shear strength for resisting earthquake forces shall be determined in accordance with 17.7.Exceptions:1.For the calculation of the in-plane shear strength of anchor bolts attaching wood sill plates of bearing or nonbearing walls of light-frame wood structures to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:1.1.The allowable in-plane shear strength of the anchor is determined in accordance with ANSI/AWC NDS Table 12E for lateral design values parallel to grain.1.2.The maximum anchor nominal diameter is 5/8 inch (16 mm).1.3.Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).1.4.Anchor bolts are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the wood sill plate.1.5.Anchor bolts are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the wood sill plate.1.6.The sill plate is 2-inch (51 mm) or 3-inch (76 mm) nominal thickness.2.For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or nonbearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:2.1.The maximum anchor nominal diameter is 5/8 inch (16 mm).2.2.Anchors are embedded into concrete a minimum of 7 inches (178 mm).2.3.Anchors are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the track.2.4.Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.2.5.The track is 33 to 68 mil (0.84 mm to 1.73 mm) designation thickness.Allowable in-plane shear strength of exempt anchors, parallel to the edge of concrete, shall be permitted to be determined in accordance with AISI S100 Section J3.3.1.3.In light-frame construction bearing or non-bearing walls, shear strength of concrete anchors less than or equal to 1 inch [25 mm] in diameter attaching sill plate or track to foundation or foundation stem wall need not satisfy 17.10.6.3(a) through (c) when the design strength of the anchors is determined in accordance with 17.7.2.1(c).
+
+1.For the calculation of the in-plane shear strength of anchor bolts attaching wood sill plates of bearing or nonbearing walls of light-frame wood structures to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:1.1.The allowable in-plane shear strength of the anchor is determined in accordance with ANSI/AWC NDS Table 12E for lateral design values parallel to grain.1.2.The maximum anchor nominal diameter is 5/8 inch (16 mm).1.3.Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).1.4.Anchor bolts are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the wood sill plate.1.5.Anchor bolts are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the wood sill plate.1.6.The sill plate is 2-inch (51 mm) or 3-inch (76 mm) nominal thickness.
+
+1.1.The allowable in-plane shear strength of the anchor is determined in accordance with ANSI/AWC NDS Table 12E for lateral design values parallel to grain.
+
+1.2.The maximum anchor nominal diameter is 5/8 inch (16 mm).
+
+1.3.Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).
+
+1.4.Anchor bolts are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the wood sill plate.
+
+1.5.Anchor bolts are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the wood sill plate.
+
+1.6.The sill plate is 2-inch (51 mm) or 3-inch (76 mm) nominal thickness.
+
+2.For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or nonbearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:2.1.The maximum anchor nominal diameter is 5/8 inch (16 mm).2.2.Anchors are embedded into concrete a minimum of 7 inches (178 mm).2.3.Anchors are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the track.2.4.Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.2.5.The track is 33 to 68 mil (0.84 mm to 1.73 mm) designation thickness.Allowable in-plane shear strength of exempt anchors, parallel to the edge of concrete, shall be permitted to be determined in accordance with AISI S100 Section J3.3.1.
+
+2.1.The maximum anchor nominal diameter is 5/8 inch (16 mm).
+
+2.2.Anchors are embedded into concrete a minimum of 7 inches (178 mm).
+
+2.3.Anchors are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the track.
+
+2.4.Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.
+
+2.5.The track is 33 to 68 mil (0.84 mm to 1.73 mm) designation thickness.
+
+3.In light-frame construction bearing or non-bearing walls, shear strength of concrete anchors less than or equal to 1 inch [25 mm] in diameter attaching sill plate or track to foundation or foundation stem wall need not satisfy 17.10.6.3(a) through (c) when the design strength of the anchors is determined in accordance with 17.7.2.1(c).
+• 17.10.5.2 – Where the tensile component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor tensile force associated with the same load combination, anchors and their attachments shall be designed in accordance with 17.10.5.3. The anchor design tensile strength shall be determined in accordance with 17.10.5.4.
+
+Exception: Anchors designed to resist wall out-of-plane forces with design strengths equal to or greater than the force determined in accordance with ASCE 7 Equation 12.11-1 or 12.14-10 shall be deemed to satisfy Section 17.10.5.3(d).
+
+• 17.10.5.3(d) – The anchor or group of anchors shall be designed for the maximum tension obtained from design load combinations that include E, with E increased by Ω0. The anchor design tensile strength shall be calculated from 17.10.5.4.
+
+• 17.10.6.2 – Where the shear component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor shear force associated with the same load combination, anchors and their attachments shall be designed in accordance with 17.10.6.3. The anchor design shear strength for resisting earthquake forces shall be determined in accordance with 17.7.
+
+Exceptions:
+
+1.For the calculation of the in-plane shear strength of anchor bolts attaching wood sill plates of bearing or nonbearing walls of light-frame wood structures to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:
+
+1.1.The allowable in-plane shear strength of the anchor is determined in accordance with ANSI/AWC NDS Table 12E for lateral design values parallel to grain.
+
+1.2.The maximum anchor nominal diameter is 5/8 inch (16 mm).
+
+1.3.Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).
+
+1.4.Anchor bolts are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the wood sill plate.
+
+1.5.Anchor bolts are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the wood sill plate.
+
+1.6.The sill plate is 2-inch (51 mm) or 3-inch (76 mm) nominal thickness.
+
+2.For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or nonbearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with 17.7.2 and 17.7.3 need not be computed and 17.10.6.3 shall be deemed to be satisfied provided all of the following are met:
+
+2.1.The maximum anchor nominal diameter is 5/8 inch (16 mm).
+
+2.2.Anchors are embedded into concrete a minimum of 7 inches (178 mm).
+
+2.3.Anchors are located a minimum of 13/4 inches (45 mm) from the edge of the concrete parallel to the length of the track.
+
+2.4.Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.
+
+2.5.The track is 33 to 68 mil (0.84 mm to 1.73 mm) designation thickness.
+
+Allowable in-plane shear strength of exempt anchors, parallel to the edge of concrete, shall be permitted to be determined in accordance with AISI S100 Section J3.3.1.
+
+3.In light-frame construction bearing or non-bearing walls, shear strength of concrete anchors less than or equal to 1 inch [25 mm] in diameter attaching sill plate or track to foundation or foundation stem wall need not satisfy 17.10.6.3(a) through (c) when the design strength of the anchors is determined in accordance with 17.7.2.1(c).
+
+SECTION 1906 FOOTINGS FOR LIGHT-FRAME CONSTRUCTION
+
+[OSHPD 1R, 2 & 5] Not permitted by OSHPD.
+
+1906.1 Plain concrete footings.
+
+For Group R-3 occupancies and buildings of other occupancies less than two stories above grade plane of light-frame construction, the required thickness of plain concrete footings is permitted to be 6 inches (152 mm), provided that the footing does not extend more than 4 inches (102 mm) on either side of the supported wall.
+
+
+
+SECTION 1907 MINIMUM SLAB PROVISIONS
+
+1907.1 General.
+
+The thickness of concrete floor slabs supported directly on the ground shall be not less than 31/2 inches (89 mm). A 6-mil (0.006 inch; 0.15 mm) polyethylene vapor retarder with joints lapped not less than 6 inches (152 mm) shall be placed between the base course or subgrade and the concrete floor slab, or other approved equivalent methods or materials shall be used to retard vapor transmission through the floor slab.
+
+Exception: A vapor retarder is not required:
+
+1.For detached structures accessory to occupancies in Group R-3, such as garages, utility buildings or other unheated facilities.
+
+2.For unheated storage rooms having an area of less than 70 square feet (6.5 m2) and carports attached to occupancies in Group R-3.
+
+3.For buildings of other occupancies where migration of moisture through the slab from below will not be detrimental to the intended occupancy of the building.
+
+4.For driveways, walks, patios and other flatwork that will not be enclosed at a later date.
+
+5.Where approved based on local site conditions.
+
+1907.1.1 1907.1.1 [HCD 1]  Capillary break. [HCD 1]  Capillary break. [HCD 1]
+
+When a vapor retarder is required, a capillary break shall be installed in accordance with the California Green Building Standards Code (CALGreen), Chapter 4, Division 4.5.
+
+SECTION 1908 SHOTCRETE
+
+1908.1 General.
+
+Shotcrete shall be in accordance with the requirements of ACI 318 [OSHPD 1R, 2B & 5] and the provisions of ACI 506R. The evaluation of the shotcrete mockup panel to qualify bar clearance dimensions in accordance with ACI 318 Section 25.2.7 or contact lap splices in accordance with ACI 318 Section 25.5.1.7 shall be in accordance with the requirements of ACI 506.4R with a core quality category of Very Good given in ACI 506.6T.
+
+
+
+1908.2 Tests and inspections.
+
+[OSHPD 1R, 2B & 5] Preconstruction tests of one or more shotcrete mockup panels prepared in accordance with Section 1705.3.9.2 are required. In addition to testing requirements in ACI 318, special inspection and testing shall be in accordance with Section 1705.3.9.
+
+1908.3 Forms and ground wires for shotcrete.
+
+[OSHPD 1R, 2B & 5] Forms for shotcrete shall be substantial and rigid. Forms shall be built and placed so as to permit the escape of air and rebound.
+
+Adequate ground wires, which are to be used as screeds, shall be placed to establish the thickness, surface planes and form of the shotcrete work. All surfaces shall be rodded to these wires.
+
+SECTION 1909 ADDITIONAL REQUIREMENTS FOR COMMUNITY COLLEGES [DSA-SS/CC] [DSA-SS/CC]
+
+1909.1 General.
+
+1909.1.1 Construction documents.
+
+Openings larger than 12 inches (305 mm) in any dimension shall be detailed on the structural drawings.
+
+1909.2 Tests and materials.
+
+Where required, special inspections and tests shall be in accordance with Chapter 17A and this section.
+
+1909.2.1 Aggregates -
+
+Modify ACI 318 Section 26.4.1.2.1(a).(1) as follows:
+
+(1)Normal weight aggregate: Aggregate shall be nonreactive as determined by one of the methods in ASTM C33 Appendix XI Methods for Evaluating Potential for Deleterious Expansion Due to Alkali Reactivity of an Aggregate. Aggregates deemed to be deleterious or potentially deleterious may be used with the addition of a material that has been shown to prevent harmful expansion in accordance with Appendix XI of ASTM C33, when approved by the building official.
+
+1909.2.2 Steel fiber reinforcement -
+
+Not permitted.
+
+1909.2.3 Cementitious material.
+
+The concrete supplier shall furnish to the enforcement agency certification that the cement proposed for use on the project has been manufactured and tested in compliance with the requirements of ASTM C150 for portland cement and ASTM C595 or ASTM C1157 for blended hydraulic cement, whichever is applicable. When a mineral admixture or ground granulated blast-furnace slag is proposed for use, the concrete supplier shall furnish to the enforcement agency certification that they have been manufactured and tested in compliance with ASTM C618 or ASTM C989, whichever is applicable. The concrete producer shall provide copies of the cementitious material supplier's certificate of compliance that represents the materials used by date of shipment for concrete. Cementitious materials without certification of compliance shall not be used.
+
+1909.2.4 Tests of reinforcing bars.
+
+Samples shall be taken from bundles as delivered from the mill, with the bundles identified as to heat number and the accompanying mill certificate. One tensile test and one bend test shall be made from a sample from each 10 tons (9080 kg) or fraction thereof of each size of reinforcing steel.
+
+Where positive identification of the heat number cannot be made or where random samples are to be taken, one series of tests shall be made from each 21/2 tons (2270 kg) or fraction thereof of each size of reinforcing steel.
+
+Tests of reinforcing bars may be waived by the structural engineer with the approval of the Building Official for one-story buildings or non-building structures provided they are identified in the construction documents and certified mill test reports are provided to the inspector of record for each shipment of such reinforcement.
+
+1909.2.5 Tests for prestressing steel and anchorage.
+
+All wires or bars of each size from each mill heat and all strands from each manufactured reel to be shipped to the site shall be assigned an individual lot number and shall be tagged in such a manner that each lot can be accurately identified at the job site. Each lot of tendon and anchorage assemblies and bar couplers to be installed shall be likewise identified.
+
+The following samples of materials and tendons selected by the engineer or the designated testing laboratory from the prestressing steel at the plant or job site shall be furnished by the contractor and tested by an approved independent testing agency:
+
+1.For wire, strand or bars, 7-foot-long (2134 mm) samples shall be taken of the coil of wire or strand reel or rods. A minimum of one random sample per 5,000 pounds (2270 kg) of each heat or lot used on the job shall be selected.
+
+2.For prefabricated prestressing tendons other than bars, one completely fabricated tendon 10 feet (3048 mm) in length between grips with anchorage assembly at one end shall be furnished for each size and type of tendon and anchorage assembly.
+
+Variations of the bearing plate size need not be considered.
+
+The anchorages of unbonded tendons shall develop at least 95 percent of the minimum specified ultimate strength of the prestressing steel. The total elongation of the tendon under ultimate load shall not be less than 2 percent measured in a minimum gage length of 10 feet (3048 mm).
+
+Anchorages of bonded tendons shall develop at least 90 percent of the minimum specified strength of the prestressing steel tested in an unbonded state. All couplings shall develop at least 95 percent of the minimum specified strength of the prestressing steel and shall not reduce the elongation at rupture below the requirements of the tendon itself.
+Variations of the bearing plate size need not be considered.
+
+The anchorages of unbonded tendons shall develop at least 95 percent of the minimum specified ultimate strength of the prestressing steel. The total elongation of the tendon under ultimate load shall not be less than 2 percent measured in a minimum gage length of 10 feet (3048 mm).
+
+Anchorages of bonded tendons shall develop at least 90 percent of the minimum specified strength of the prestressing steel tested in an unbonded state. All couplings shall develop at least 95 percent of the minimum specified strength of the prestressing steel and shall not reduce the elongation at rupture below the requirements of the tendon itself.
+
+3.If the prestressing tendon is a bar, one 7-foot (2134 mm) length complete with one end anchorage shall be furnished and, in addition, if couplers are to be used with the bar, two 4-foot (1219 mm) lengths of bar fabricated to fit and equipped with one coupler shall be furnished.
+
+4.Mill tests of materials used for end anchorages shall be furnished. In addition, at least one Brinnell hardness test shall be made of each thickness of bearing plate.
+
+1909.2.6 Composite construction cores.
+
+Cores of the completed composite concrete construction shall be taken to demonstrate the shear strength along the contact surfaces. The cores shall be tested when the cast-in-place concrete is approximately 28 days old and shall be tested by a shear loading parallel to the joint between the precast concrete and the cast-in-place concrete. The minimum unit shear strength of the contact surface area of the core shall not be less than 100 psi (689 kPa).
+
+At least one core shall be taken from each building for each 5,000 square feet (465 m2) of area of composite concrete construction and not less than three cores shall be taken from each project. The architect or structural engineer in responsible charge of the project or his or her representative shall designate the location for sampling.
+
+1909.2.7 Tests for post-installed anchors in concrete.
+
+When post-installed anchors are used in lieu of cast-in-place bolts, the installation verification test loads frequency and acceptance criteria shall be in accordance with this section.
+
+1909.2.7.1 General.
+
+Test loads or torques and acceptance criteria shall be shown on the construction documents.
+
+If any anchor fails testing, all anchors of the same type shall be tested, which are installed by the same trade, not previously tested until twenty (20) consecutive anchors pass, then resume the initial test frequency.
+
+1909.2.7.2 Testing procedure.
+
+The test procedure shall be as permitted by an approved evaluation report using criteria adopted in this code. All post-installed anchors shall be tension tested.
+
+Exception: Torque-controlled post-installed anchors and screw type anchors shall be permitted to be tested using torque based on an approved evaluation report using criteria adopted in this code.
+
+Alternatively, the manufacturer’s recommendation for testing may be approved by the enforcement agency based on approved evaluation report using criteria adopted in this code.
+
+1909.2.7.3 Test frequency.
+
+When post-installed anchors are used for sill plate bolting applications, 10 percent of the anchors shall be tested.
+
+When post-installed anchors are used for other structural applications, all such anchors shall be tested.
+
+When post-installed anchors are used for nonstructural applications such as equipment anchorage, 50 percent or alternate bolts in a group, including at least one-half the anchors in each group, shall be tested.
+
+The testing of the post-installed anchors shall be done in the presence of the special inspector and a report of the test results shall be submitted to the enforcement agency.
+
+Exceptions:
+
+1.Undercut anchors that allow visual confirmation of full set shall not require testing.
+
+2.Where the design tension on anchors is less than 100 pounds and those anchors are clearly noted on the approved construction documents, only 10 percent of those anchors shall be tested.
+
+3.Where adhesive anchor systems are used to install reinforcing dowel bars in hardened concrete, only 25 percent of the dowels shall be tested if all the following conditions are met:
+
+a.The dowels are used exclusively to transmit shear forces across joints between existing and new concrete.
+
+b.The number of dowels in any one member equals or exceeds 12.
+
+c.The dowels are uniformly distributed across seismic force resisting members (such as shear walls, collectors and diaphragms).
+
+Anchors to be tested shall be selected at random by the special inspector/inspector of record (IOR).
+
+4.Testing of shear dowels across cold joints in slabs on grade, where the slab is not part of the lateral force-resisting system shall not be required.
+
+5.Testing is not required for power actuated fasteners used to attach tracks of interior nonshear wall partitions for shear only where there are at least three fasteners per segment of track.
+
+1909.2.7.4 Test loads.
+
+Required test loads shall be determined by one of the following methods:
+
+1.Twice the maximum allowable tension load or one and a quarter (11/4) times the maximum design strength of anchors as provided in an approved test report using criteria adopted in this code or determined in accordance with Chapter 17 of ACI 318.
+
+Tension test load need not exceed 80 percent of the nominal yield strength of the anchor element (= 0.8 Ase fya).
+Tension test load need not exceed 80 percent of the nominal yield strength of the anchor element (= 0.8 Ase fya).
+
+2.The manufacturer's recommended installation torque based on an approved test report using criteria adopted in this code.
+
+1909.2.7.5 Test acceptance criteria.
+
+Acceptance criteria for post-installed anchors shall be based on an approved test report using criteria adopted in this code. Field tests shall satisfy the following minimum requirements.
+
+1.Hydraulic ram method:
+
+Anchors tested with a hydraulic jack or spring loaded apparatus shall maintain the test load for a minimum of 15 seconds and shall exhibit no discernible movement during the tension test, e.g., as evidenced by loosening of the washer under the nut.
+
+The testing apparatus support locations shall not be within 1.5 times the anchor’s embedment depth to avoid restricting the concrete shear cone type failure mechanism from occurring.
+Anchors tested with a hydraulic jack or spring loaded apparatus shall maintain the test load for a minimum of 15 seconds and shall exhibit no discernible movement during the tension test, e.g., as evidenced by loosening of the washer under the nut.
+
+The testing apparatus support locations shall not be within 1.5 times the anchor’s embedment depth to avoid restricting the concrete shear cone type failure mechanism from occurring.
+
+Exception: When denoted accordingly on the approved construction documents, adhesive anchors complying with ACI 318 Equation 17.8.2a and for which concrete breakout does not control the design tensile strength may be tested with apparatus support locations closer than 1.5 times the anchor embedment depth.
+
+2.Torque wrench method:
+
+Torque-controlled post-installed anchors tested with a calibrated torque wrench shall attain the specified torque within 1/2 turn of the nut; or one-quarter (1/4) turn of the nut for a 3/8-inch sleeve anchor only.
+
+Screw-type anchors tested with a calibrated torque wrench shall attain the specified torque within one-quarter (1/4) turn of the screw after initial seating of the screw head.
+
+1909.2.8 Flat wall insulating concrete form (ICF) systems.
+
+ICF systems shall be considered alternative systems. Concrete constructed using ICF systems and attachments to ICF shall be designed for loads in accordance with this code and shall comply with manufacturer’s instructions and industry standards determined applicable by the enforcement agency. Calculations and drawings shall be submitted to the enforcement agency for review and approval prior to construction.
+
+1909.3 Modifications to ACI 318
+
+1909.3.1 ACI 318, Section 11.9.
+
+Modify ACI 318 by adding Section 11.9 as follows:
+
+11.9 - Foundation walls. Horizontal reinforcing of concrete foundation walls for wood-frame or light-steel buildings shall consist of the equivalent of not less than one No. 5 bar located at the top and bottom of the wall. Where such walls exceed 3 feet (914 mm) in height, intermediate horizontal reinforcing shall be provided at spacing not to exceed 2 feet (610 mm) on center. Minimum vertical reinforcing shall consist of No. 3 bars at 24 inches (610 mm) on center.
+
+Where concrete foundation walls or curbs extend above the floor line and support wood-frame or light-steel exterior, bearing or shear walls, they shall be doweled to the foundation wall below with a minimum of No. 3 bars at 24 inches (610 mm) on center. Where the height of the wall above the floor line exceeds 18 inches (457 mm), the wall above and below the floor line shall meet the requirements of ACI 318 Section 11.6 and 11.7.
+
+1909.3.2 ACI 318, Section 12.7.3.
+
+Add Section 12.7.3.4 to ACI 318 as follows:
+
+12.7.3.4 – At least two No. 5 bars in diaphragms having two layers of reinforcement in both directions and one No. 5 bar in diaphragms having a single layer of reinforcement in both directions shall be provided around openings larger than 12 inches in any dimension in addition to the minimum reinforcement required by Section 12.6.
+
+1909.3.3 ACI 318, Chapter 14.
+
+Plain concrete is not permitted.
+
+1909.3.4 ACI 318, Section 18.10.6.5.
+
+Modify ACI 318, Section 18.10.6.5 by adding the following:
+
+Where boundary members are not required by ACI 318 Section 18.10.6.2 or 18.10.6.3, minimum reinforcement parallel to the edges of all structural walls and the boundaries of all openings shall consist of twice the cross-sectional area of the minimum shear reinforcement required per lineal foot of wall. Horizontal extent of boundary element shall be per ACI 318 Section 18.10.6.4 (a), (b) and (c).
+
+1909.3.5 ACI 318, Section 18.12.6.
+
+Add Section 18.12.6.2 to ACI 318 as follows:
+
+Collector and boundary elements in topping slabs placed over precast floor and roof elements shall not be less than 3 inches (76 mm) or 6 db thick, where db is the diameter of the largest reinforcement in the topping slab.
+
+1909.3.6 ACI 318, Table 21.2.2.
+
+Replace Table 21.2.2 as follows:
+
+TABLE 21.2.2
+
+STRENGTH REDUCTION FACTOR φ FOR MOMENT, AXIAL FORCE, OR COMBINED MOMENT AND AXIAL FORCE
+
+NET TENSILE STRAIN εt	CLASSIFICATION	φ
+Type of transverse reinforcement
+Spirals conforming to 25.7.3	Other
+εt ≤ εty	Compression-controlled	0.75	(a)	0.65	(b)
+εty < εt < (εty + 0.003)	Transition1, 2		(c)		(d)
+εt ≥ (εty + 0.003)	Tension-controlled3	0.9	(e)	0.9	(f)1.For sections classified as transition, it shall be permitted to use φ corresponding to compression-controlled sections.
+
+2.εt* is the greater of net tensile strain calculated for Pn = 0.1Agf ′c and (εty + 0.003).
+
+3.For sections with factored axial compression force Pu ≥ 0.1Agf′c, φ shall be calculated using equation (c) or (d) for sections classified as transition, as applicable.
+
+1909.3.7ACI 318, Section 25.2.10. 1909.3.7 ACI 318, Section 25.2.10.
+
+Modify ACI 318 Section 25.2.10 as follows:
+
+25.2.10 - For ties and hoops in columns to be placed with shotcrete, minimum clear spacing shall be 3 in. Shotcrete shall not be applied to spirally tied columns.
+
+1909.3.8 ACI 318, Section 26.5.2.
+
+Modify ACI 318 Section 26.5.2.1 by replacing Items (l), (m) and (n) and adding item (q) as follows:
+
+(l) Shotcrete surfaces intended to receive subsequent shotcrete placement following an interruption of 30 minutes or more shall be roughened to a full amplitude of approximately 1/4 in. before the shotcrete has reached final set. The film of laitance which forms on the surface of the shotcrete shall be removed within approximately 2 hours after application by brushing with a stiff broom. If this film is not removed within 2 hours, it shall be removed by thorough wire brushing or a mechanical method acceptable to the enforcement agency.
+
+(m) Before placing additional material onto hardened shotcrete, laitance shall be removed, joints shall be cleaned and the surface shall be dampened. Construction joints over 8 hours old shall be thoroughly cleaned with air and water prior to receiving shotcrete.
+
+(n) In-place fresh concrete that exhibits sags, sloughs, segregation, honeycombing, sand pockets, or other obvious defects shall be removed and replaced. Shotcrete above sags and sloughs shall be removed and replaced while still plastic.
+
+(q) Surface preparation: Concrete or masonry to receive shotcrete shall have the entire surface thoroughly cleaned and roughened by a mechanical method acceptable to the enforcement agency, and just prior to receiving shotcrete, shall be thoroughly cleaned of all debris, dirt and dust. Concrete and masonry shall be brought to a saturated surface-dry (SSD) before shotcrete is deposited.
+
+1909.3.9 ACI 318, Section 26.12.2.1(a).
+
+Replace ACI 318 Section 26.12.2.1(a) by the following:
+
+26.12.2.1(a) - Samples for strength tests of each class of concrete placed each day shall be taken not less than once a day, or not less than once for each 50 cubic yards (38.2 m3) of concrete, or not less than once for each 2,000 square feet (186 m2) of surface area for slabs or walls. Additional samples for seven-day compressive strength tests shall be taken for each class of concrete at the beginning of the concrete work or whenever the mix or aggregate is changed.
+
+1909.4 Shotcrete.
+
+1909.4.1 General.
+
+Shotcrete shall also conform to the provisions of ACI 506.2 and ACI 506R. The specified compressive strength of shotcrete shall not be less than 4,000 psi (27.6 MPa). The use of a shotcrete mockup panel to qualify bar clearance dimensions in accordance with ACI 318 Section 25.2.7.1 or contact lap splices in accordance with ACI 318 Section 25.5.1.7 is subject to the approval of the building official. Tolerances for shotcrete construction shall be defined by the construction documents.
+
+1909.4.2 Tests and inspections.
+
+Preconstruction tests of one or more shotcrete mockup panels prepared in accordance with Section 1705A.3.9.2 are required. In addition to testing requirements in ACI 318, special inspection and testing shall be in accordance with Section 1705A.3.9.
+
+1909.4.3 Forms and ground wires for shotcrete.
+
+Forms for shotcrete shall be substantial and rigid. Forms shall be built and placed so as to permit the escape of air and rebound.
+
+Adequate ground wires, which are to be used as screeds, shall be placed to establish the thickness, surface planes and form of the shotcrete work. All surfaces shall be rodded to these wires.
+
+1909.5 Existing concrete structures.
+
+The structural use of existing concrete with a core strength less than 1,500 psi (10.3MPa) is not permitted in rehabilitation work.
+
+For existing concrete structures, sufficient cores shall be taken at representative locations throughout the structure, as designated by the architect or structural engineer, so that knowledge will be had of the in-place strength of the concrete. At least three cores shall be taken from each building for each 4,000 square feet (372 m2) of floor area, or fraction thereof. Cores shall be at least 4 inches (102 mm) in diameter. Cores as small as 2.75 inches (70 mm) in diameter may be allowed by the enforcement agency when reinforcement is closely spaced and the coarse aggregate does not exceed 3/4 inch (19 mm).
+
+SECTION 1910 ADDITIONAL REQUIREMENTS FOR SKILLED NURSING FACILITIES, INTERMEDIATE CARE FACILITIES, ACUTE PSYCHIATRIC AND NON-GAC BUILDINGS [OSHPD 1R, 2B & 5]
+
+1910.1 General.
+
+1910.1.1 Construction documents.
+
+Openings larger than 12 inches (305 mm) in any dimension shall be detailed on the structural drawings.
+
+1910.2 Tests and materials.
+
+Where required, special inspections and tests shall be in accordance with Chapter 17 and this section.
+
+1910.2.1 Cementitious material.
+
+The concrete supplier shall furnish to the enforcement agency certification that the cement proposed for use on the project has been manufactured and tested in compliance with the requirements of ASTM C150 for Portland cement and ASTM C595 or ASTM C1157 for blended hydraulic cement, whichever is applicable. When a mineral admixture or ground granulated blast-furnace slag is proposed for use, the concrete supplier shall furnish to the enforcement agency certification that they have been manufactured and tested in compliance with ASTM C618 or ASTM C989, whichever is applicable. The concrete producer shall provide copies of the cementitious material supplier’s certificate of compliance that represents the materials used by date of shipment for concrete. Cementitious materials without certification of compliance shall not be used.
+
+1910.2.2 Tests of reinforcing bars.
+
+Samples shall be taken from bundles as delivered from the mill, with the bundles identified as to heat number and the accompanying mill certificate. One tensile test and one bend test shall be made from a sample from each 10 tons (9080 kg) or fraction thereof of each size of reinforcing steel.
+
+Where positive identification of the heat number cannot be made or where random samples are to be taken, one series of tests shall be made from each 21/2 tons (2270 kg) or fraction thereof of each size of reinforcing steel.
+
+Tests of reinforcing bars may be waived by the structural engineer with the approval of the building official for one-story buildings or nonbuilding structures, provided that they are identified in the construction documents and certified mill test reports are provided to the inspector of record for each shipment of such reinforcement.
+
+1910.2.3 Tests for prestressing steel and anchorage.
+
+All wires or bars of each size from each mill heat and all strands from each manufactured reel to be shipped to the site shall be assigned an individual lot number and shall be tagged in such a manner that each lot can be accurately identified at the job site. Each lot of tendon and anchorage assemblies and bar couplers to be installed shall be likewise identified.
+
+The following samples of materials and tendons selected by the engineer or the designated testing laboratory from the prestressing steel at the plant or job site shall be furnished by the contractor and tested by an approved independent testing agency:
+
+1.For wire, strand or bars, 7-foot-long (2134 mm) samples shall be taken of the coil of wire or strand reel or rods. A minimum of one random sample per 5,000 pounds (2270 kg) of each heat or lot used on the job shall be selected.
+
+2.For prefabricated prestressing tendons other than bars, one completely fabricated tendon 10 feet (3048 mm) in length between grips with the anchorage assembly at one end shall be furnished for each size and type of tendon and anchorage assembly.
+
+Variations of the bearing plate size need not be considered.
+
+The anchorages of unbonded tendons shall develop at least 95 percent of the minimum specified ultimate strength of the prestressing steel. The total elongation of the tendon under ultimate load shall not be less than 2 percent measured in a minimum gage length of 10 feet (3048 mm).
+
+Anchorages of bonded tendons shall develop at least 90 percent of the minimum specified strength of the prestressing steel tested in an unbonded state. All couplings shall develop at least 95 percent of the minimum specified strength of the prestressing steel and shall not reduce the elongation at rupture below the requirements of the tendon itself.
+
+3.If the prestressing tendon is a bar, one 7-foot (2134 mm) length complete with one end anchorage shall be furnished and, in addition, if couplers are to be used with the bar, two 4-foot (1219 mm) lengths of bar fabricated to fit and equipped with one coupler shall be furnished.
+
+4.Mill tests of materials used for end anchorages shall be furnished. In addition, at least one Brinnell hardness test shall be made of each thickness of bearing plate.
+
+1910.2.4 Composite construction cores.
+
+Cores of the completed composite concrete construction shall be taken to demonstrate the shear strength along the contact surfaces. The cores shall be tested when the cast-in-place concrete is approximately 28 days old and shall be tested by a shear loading parallel to the joint between the precast concrete and the cast-in-place concrete. The minimum unit shear strength of the contact surface area of the core shall not be less than 100 psi (689 kPa).
+
+At least one core shall be taken from each building for each 5,000 square feet (465 m2) of area of composite concrete construction and not fewer than three cores shall be taken from each project. The architect or structural engineer in responsible charge of the project or his or her representative shall designate the location for sampling.
+
+1910.3 Modifications to ACI 318
+
+1910.3.1 ACI 318, Section 12.7.3.
+
+Add Section 12.7.3.4 to ACI 318 as follows:
+
+12.7.3.4 – At least two No. 5 bars in diaphragms having two layers of reinforcement in both directions and one No. 5 bar in diaphragms having a single layer of reinforcement in both directions shall be provided around openings larger than 12 inches in any dimension in addition to the minimum reinforcement required by Section 12.6.
+
+1910.3.2 ACI 318, Section 18.12.6.
+
+Add Section 18.12.6.2 to ACI 318 as follows:
+
+Collector and boundary elements in topping slabs placed over precast floor and roof elements shall not be less than 3 inches (76 mm) or 6 db thick, where db is the diameter of the largest reinforcement in the topping slab.
+
+1910.3.3 ACI 318, Table 19.2.1.1.
+
+Modify ACI 318 Table 19.2.1.1 as follows:
+
+For concrete designed and constructed in accordance with this chapter, f ′c,, shall not be less than 3,000 psi (20.7 MPa). Reinforced normal weight concrete with specified compressive strength higher than 8,000 psi (55 MPa) shall require prior approval of structural design method and acceptance criteria by the enforcement agency.
+
+1910.3.4 ACI 318, Table 21.2.2.
+
+Replace Table 21.2.2 as follows:
+
+TABLE 21.2.2
+
+STRENGTH REDUCTION FACTOR φ FOR MOMENT, AXIAL FORCE, OR COMBINED MOMENT AND AXIAL FORCE
+
+NET TENSILE STRAIN εt	CLASSIFICATION	φ
+Type of transverse reinforcement
+Spirals conforming to 25.7.3	Other
+εt ≤ εty	Compression-controlled	0.75	(a)	0.65	(b)
+εty < εt < (εty + 0.003)	Transition1, 2		(c)		(d)
+εt ≥ (εty + 0.003)	Tension-controlled 3	0.9	(e)	0.9	(f)1.For sections classified as transition, it shall be permitted to use φ corresponding to compression-controlled sections.
+
+2.εt* is the greater of net tensile strain calculated for Pn = 0.1Agf ′c and (εty + 0.003).
+
+3.For sections with factored axial compression force Pu ≥ 0.1Ag f′c, φ shall be calculated using equation (c) or (d) for sections classified as transition, as applicable.
+
+SECTION 1911 EXISTING CONCRETE STRUCTURES [OSHPD 1R, 2 & 5] [OSHPD 1R, 2 & 5]
+
+1911.1 Concrete Core Sampling.
+
+Where concrete cores are required to be taken for material property determination, cores shall be at least 4 inches (102 mm) in diameter. Cores as small as 2.75 inches (70 mm) in diameter may be allowed by the enforcement agency when reinforcement is closely spaced and the coarse aggregate does not exceed 3/4 inch (19 mm).
+
+1911.2 Crack repair by epoxy injection.
+
+Crack Repair of concrete and masonry member by epoxy injection shall conform to all requirements of ACI 503.7.
+
+1911.3 Concrete strengthening by externally bonded fiber reinforced polymer (FRP).
+
+Design and construction of externally bonded FRP systems for strengthening concrete structures shall be in accordance with ACI 440.2R.
+
+Exceptions:
+
+1.Near-Surface Mounted (NSM) FRP bars shall not be permitted.
+
+2.Strengthening of shear walls and diaphragms (including chords and collectors) shall be considered as an alternative system.
+
+Design capacities, reliability and serviceability of FRP materials shall be permitted to be established in accordance with ICC-ES AC 125. Minimum inspection requirements of FRP composite systems shall be in accordance with ICC-ES AC 178.
+

@@ -1,0 +1,84 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AT – SOLAR-READY PROVISIONS—DETACHED ONE- AND TWO-FAMILY DWELLINGS AND TOWNHOUSES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AT [RE] [RE] SOLAR-READY PROVISIONS—DETACHED ONE- AND TWO-FAMILY DWELLINGS AND TOWNHOUSES
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Harnessing the heat or radiation from the sun’s rays is a method to reduce the energy consumption of a building. Although Appendix AT does not require solar systems to be installed for a building, it does require the space(s) for installing such systems, providing pathways for connections and requiring adequate structural capacity of roof systems to support solar systems.
+
+Section numbers in parenthesis are those in Appendix RB of the residential provisions of the International Energy Conservation Code®.
+
+SECTION AT101 (RB101) SCOPE
+
+AT101.1 (RB101.1) General.
+
+These provisions shall be applicable for new construction where solar-ready provisions are required.
+
+SECTION AT102 (RB102) GENERAL DEFINITION
+
+AT102.1 (RB102.1) General.
+
+The following term shall, for the purpose of this appendix, have the meaning shown herein.
+
+SOLAR-READY ZONE. A section or sections of the roof or building overhang designated and reserved for the future installation of a solar photovoltaic or solar thermal system.
+
+SECTION AT103 (RB103) SOLAR-READY ZONE
+
+AT103.1 (RB103.2) General.
+
+New detached one- and two-family dwellings, and townhouses with not less than 600 square feet (55.74 m2) of roof area oriented between 110 degrees and 270 degrees of true north, shall comply with Sections AT103.2 through AT103.10.
+
+Exceptions:
+
+1.New residential buildings with a permanently installed on-site renewable energy system.
+
+2.A building where all areas of the roof that would otherwise meet the requirements of Section AT103 are in full or partial shade for more than 70 percent of daylight hours annually.
+
+AT103.2 (RB103.2) Construction document requirements for solar-ready zone.
+
+Construction documents shall indicate the solar-ready zone.
+
+AT103.3 (RB103.3) Solar-ready zone area.
+
+The total solar-ready zone area shall be not less than 300 square feet (27.87 m2) exclusive of mandatory access or setback areas as required by the California Fire Code. New townhouses three stories or less in height above grade plane and with a total floor area less than or equal to 2,000 square feet (185.8 m2) per dwelling shall have a solar-ready zone area of not less than 150 square feet (13.94 m2). The solar-ready zone shall be composed of areas not less than 5 feet (1524 mm) in width and not less than 80 square feet (7.44 m2) exclusive of access or set-back areas as required by the California Fire Code.
+
+AT103.4 (RB103.4) Obstructions.
+
+Solar-ready zones shall be free from obstructions, including but not limited to vents, chimneys, and roof-mounted equipment.
+
+AT103.5 (RB103.5) Shading.
+
+The solar-ready zone shall be set back from any existing or new, permanently affixed object on the building or site that is located south, east or west of the solar zone a distance not less than two times the object’s height above the nearest point on the roof surface. Such objects include, but are not limited to, taller portions of the building itself, parapets, chimneys, antennas, signage, rooftop equipment, trees and roof plantings.
+
+AT103.6 (RB103.6) Capped roof penetration sleeve.
+
+A capped roof penetration sleeve shall be provided adjacent to a solar-ready zone located on a roof slope of not greater than 1 unit vertical in 12 units horizontal (8-percent slope). The capped roof penetration sleeve shall be sized to accommodate the future photovoltaic system conduit, but shall have an inside diameter of not less than 11/4 inches (32 mm).
+
+AT103.7 (RB103.7) Roof load documentation.
+
+The structural design loads for roof dead load and roof live load shall be clearly indicated on the construction documents.
+
+AT103.8 (RB103.8) Interconnection pathway.
+
+Construction documents shall indicate pathways for routing of conduit or plumbing from the solar-ready zone to the electrical service panel or service hot water system.
+
+AT103.9 (RB103.9) Electrical service reserved space.
+
+The main electrical service panel shall have a reserved space to allow installation of a dual pole circuit breaker for future solar electric installation and shall be labeled “For Future Solar Electric.” The reserved space shall be positioned at the opposite (load) end from the input feeder location or main circuit location.
+
+AT103.10 (RB103.10) Construction documentation certificate.
+
+A permanent certificate, indicating the solar-ready zone and other requirements of this section, shall be posted near the electrical distribution panel, water heater or other conspicuous location by the builder or registered design professional.
+

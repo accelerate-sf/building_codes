@@ -1,0 +1,381 @@
+Informative Annex A Product Safety Standards
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article															
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below			X												
+Article/Section
+Annex A			X												
+Annex B			X												
+
+Code
+
+Code
+
+Code
+
+Article	Standard Number	Standard Title
+110	UL 310	Electrical Quick-Connect Terminals
+	UL 305	Panic Hardware
+	UL 486A-486B	Wire Connectors
+	UL 486C	Splicing Wire Connectors
+	UL 486D	Sealed Wire Connector Systems
+	UL 486E	Equipment Wiring Terminals for Use with Aluminum and/or Copper Conductors
+	UL 486F	Bare and Covered Ferrules
+	UL 486G	Sealed Twist-On Connecting Devices
+	UL 510	Polyvinyl Chloride, Polyethylene and Rubber Insulating Tape
+	UL Subject 546	Conductor Termination Compounds
+	UL 2459	Insulated Multi-Pole Splicing Wire Connectors
+210	UL 943	Ground-Fault Circuit-Interrupters
+	UL 1699	Arc-Fault Circuit-Interrupters
+230	UL 1053	Ground-Fault Sensing and Relaying Equipment
+	UL 2735	Electric Utility Meters
+240	UL 198M	Mine-Duty Fuses
+	UL 248-1	Low-Voltage Fuses — Part 1: General Requirements
+	UL 248-2	Low-Voltage Fuses — Part 2: Class C Fuses
+	UL 248-3	Low-Voltage Fuses — Part 3: Class CA and CB Fuses
+	UL 248-4	Low-Voltage Fuses — Part 4: Class CC Fuses
+	UL 248-5	Low-Voltage Fuses — Part 5: Class G Fuses
+	UL 248-6	Low-Voltage Fuses — Part 6: Class H Renewable Fuses
+	UL 248-7	Low-Voltage Fuses — Part 7: Class H Renewable Fuses
+	UL 248-8	Low-Voltage Fuses — Part 8: Class J Fuses
+	UL 248-9	Low-Voltage Fuses — Part 9: Class K Fuses
+	UL 248-10	Low-Voltage Fuses — Part 10: Class L Fuses
+	UL 248-11	Low-Voltage Fuses — Part 11: Plug Fuses
+	UL 248-12	Low-Voltage Fuses — Part 12: Class R Fuses
+	UL 248-13	Low-Voltage Fuses — Part 13: Semiconductor Fuses
+	UL 248-14	Low-Voltage Fuses — Part 14: Supplemental Fuses
+	UL 248-15	Low-Voltage Fuses — Part 15: Class T Fuses
+	UL 248-16	Low-Voltage Fuses — Part 16: Test Limiters
+	UL Subject 248-17	Low-Voltage Fuses — Part 17: Class CF Fuses
+	UL 489	Molded-Case Circuit Breakers, Molded-Case Switches, and Circuit-Breaker Enclosures
+250	UL 467	Grounding and Bonding Equipment
+280	IEEE C62.1	Surge Arresters — Gapped Silicon-Carbide Surge Arresters for AC Power Circuits
+	IEEE C62.11	Surge Arresters — Metal-Oxide Surge Arresters for AC Power Circuits
+285	UL 1449	Surge Protective Devices
+300	UL 263	Fire Tests of Building Construction and Materials
+	UL Subject 267	Wire Pulling Compounds
+	UL 514B	Conduit, Tubing, and Cable Fittings
+	UL 635	Insulated Bushings
+	UL 1479	Fire Tests of Through-Penetration Firestops
+	UL 1565	Positioning Devices
+	UL 1581	Reference Standard for Electrical Wires, Cables, and Flexible Cords
+	UL 2043	Fire Test for Heat and Visible Smoke Release for Discrete Products and Their Accessories Installed in Air-Handling Spaces
+	UL 2239	Hardware for the Support of Conduit, Tubing and Cable
+	UL Subject 2419	Electrically Conductive Corrosion Resistant Compounds
+	UL 60730-1	Automatic Electrical Controls — Part 1: General Requirements
+310	UL 44	Thermoset-Insulated Wires and Cables
+	UL 66	Fixture Wire
+	UL 83	Thermoplastic-Insulated Wires and Cables
+	UL 1063	Machine-Tool Wires and Cables
+312	UL 414	Meter Sockets
+314	UL 50	Enclosures for Electrical Equipment
+	UL 50E	Enclosures for Electrical Equipment, Environmental Considerations
+	UL 514A	Metallic Outlet Boxes
+	UL 514C	Nonmetallic Outlet Boxes, Flush-Device Boxes, and Covers
+	UL 514D	Cover Plates for Flush-Mounted Wiring Devices
+320	UL 4	Armored Cable
+328	UL 1072	Medium-Voltage Power Cables
+330	UL 1569	Metal-Clad Cables
+334	UL 719	Nonmetallic-Sheathed Cables
+	UL Subject 2256	Nonmetallic Sheathed Cable Interconnects
+336	UL 1277	Electrical Power and Control Tray Cables with Optional Optical-Fiber Members
+338	UL 854	Service-Entrance Cables
+340	UL 493	Thermoplastic-Insulated Underground Feeder and Branch-Circuit Cables
+342	UL 1242	Electrical Intermediate Metal Conduit — Steel
+344	UL 6	Electrical Rigid Metal Conduit — Steel
+	UL 6A	Electrical Rigid Metal Conduit - Aluminum, Red Brass and Stainless Steel
+348	UL 1	Flexible Metal Conduit
+350	UL 360	Liquid-Tight Flexible Steel Conduit
+352	UL 651	Schedule 40, 80, Type EB and A Rigid PVC Conduit and Fittings
+353	UL 651A	Schedule 40 and 80 High Density Polyethylene (HDPE) Conduit
+354	UL 1990	Nonmetallic Underground Conduit with Conductors
+355	UL 2420	Belowground Reinforced Thermosetting Resin Conduit (RTRC) and Fittings
+	UL 2515	Aboveground Reinforced Thermosetting Resin Conduit (RTRC) and Fittings
+	UL 2515A	Supplemental Requirements for Extra-Heavy Wall Reinforced Thermosetting Resin Conduit (RTRC) and Fittings
+356	UL 1660	Liquid-Tight Flexible Nonmetallic Conduit
+358	UL 797A	Electrical Metallic Tubing — Aluminum
+	UL 797	Electrical Metallic Tubing — Steel
+360	UL Subject 1652	Flexible Metallic Tubing
+362	UL 1653	Electrical Nonmetallic Tubing
+368	UL 1953	Power Distribution Blocks
+	UL Subject 509	Bus Drop Cable
+	UL 857	Busways
+374	UL 209	Cellular Metal Floor Raceways and Fittings
+376	UL 870	Wireways, Auxiliary Gutters, and Associated Fittings
+380	UL Subject 111	Multioutlet Assemblies
+384	UL 5B	Strut-Type Channel Raceways and Fittings
+386	UL 5	Surface Metal Raceways and Fittings
+388	UL 5A	Nonmetallic Surface Raceways and Fittings
+390	UL 884	Underfloor Raceways and Fittings
+392	UL 568	Nonmetallic Cable Tray Systems
+400	UL 62	Flexible Cords and Cables
+	UL 817	Cord Sets and Power-Supply Cords
+	UL Subject 1650	Portable Power Cable
+404	UL 20	General-Use Snap Switches
+	UL 98	Enclosed and Dead-Front Switches
+	UL Subject 98A	Open-Type Switches
+	UL 363	Knife Switches
+	UL 773	Plug-In Locking Type Photocontrols for Use with Area Lighting
+	UL 773A	Nonindustrial Photoelectric Switches for Lighting Control
+	UL 917	Clock-Operated Switches
+	UL 1429	Pullout Switches
+406	UL 498	Attachment Plugs and Receptacles
+	UL 1682	Plugs, Receptacles, and Cable Connectors, of the Pin and Sleeve Type
+408	UL 67	Panelboards
+	UL 891	Switchboards
+	UL 1558	Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear
+	UL 60947-1	Low-Voltage Switchgear and Controlgear — Part 1: General Rules
+	UL 60947-4-1	Low-Voltage Switchgear and Controlgear — Part 4-1: Contactors and Motor-Starters — Electromechanical Contactors and Motor-Starters
+	UL 60947-4-2	Voltage Switchgear and Controlgear — Part 4-2: Contactors and Motor-Starters — AC Semiconductor Motor Controllers and Starters
+	UL 60947-5-1	Low-Voltage Switchgear and Controlgear — Part 5-1: Control Circuit Devices and Switching Elements — Electromechanical Control Circuit Devices
+	UL 60947-5-2	Low-Voltage Switchgear and Controlgear — Part 5-2: Control Circuit Devices and Switching Elements — Proximity Switches
+	UL 60947-7-1	Low-Voltage Switchgear And Controlgear — Part 7-1: Ancillary Equipment — Terminal Blocks for Copper Conductors
+	UL 60947-7-2	Low-Voltage Switchgear and Controlgear — Part 7-2: Ancillary Equipment — Protective Conductor Terminal Blocks for Copper Conductors
+	UL 60947-7-3	Low-Voltage Switchgear and Controlgear — Part 7-3: Ancillary Equipment — Safety Requirements for Fuse Terminal Blocks
+409	UL 508	Industrial Control Equipment
+	UL 508A	Industrial Control Panels
+410	UL 65	Wired Cabinets
+	UL 153	Portable Electric Luminaires
+	UL 496	Lampholders
+	UL 542	Fluorescent Lamp Starters
+	UL 588	Seasonal and Holiday Decorative Products
+	UL 935	Fluorescent-Lamp Ballasts
+	UL 1029	High-Intensity-Discharge Lamp Ballasts
+	UL Subject 1029A	Ignitors and Related Auxiliaries for HID Lamp Ballasts
+	UL 1574	Track Lighting Systems
+	UL 1598	Luminaires
+	UL 1598B	Luminaire Reflector Kits for Installation on Previously Installed Fluorescent Luminaires, Supplemental Requirements
+	UL 1598C	Light-Emitting Diode (LED) Retrofit Luminaire Conversion Kits
+	UL 1993	Self-Ballasted Lamps and Lamp Adapters
+	UL 2388	Flexible Lighting Products
+	UL 8750	Light Emitting Diode (LED) Equipment for Use in Lighting Products
+	UL 8752	Organic Light Emitting Diode (OLED) Panels
+	UL 8753	Field-Replaceable Light Emitting Diode (LED) Light Engines
+	UL 8754	Holders, Bases and Connectors for Solid-State (LED) Light Engines and Arrays
+	UL Subject 8800	Horticultural Lighting Equipment
+411	UL 234	Low-Voltage Lighting Fixtures for Use in Recreational Vehicles
+	UL 1838	Low-Voltage Landscape Lighting Systems
+	UL 2108	Low-Voltage Lighting Systems
+422	UL 22	Amusement and Gaming Machines
+	UL 73	Motor-Operated Appliances
+	UL 122	Photographic Equipment
+	UL 141	Garment Finishing Appliances
+	UL 174	Household Electric Storage Tank Water Heaters
+	UL 197	Commercial Electric Cooking Appliances
+	UL 283	Air Fresheners and Deodorizers
+	UL 399	Drinking Water Coolers
+	UL 430	Waste Disposers
+	UL 474	Dehumidifiers
+	UL 507	Electric Fans
+	UL 574	Electric Oil Heaters
+	UL 621	Ice Cream Makers
+	UL 705	Power Ventilators
+	UL 710B	Recirculating Systems
+	UL 749	Household Dishwashers
+	UL 751	Vending Machines
+	UL 763	Motor-Operated Commercial Food Preparing Machines
+	UL 858	Household Electric Ranges
+	UL 875	Electric Dry-Bath Heaters
+	UL 921	Commercial Dishwashers
+	UL 923	Microwave Cooking Appliances
+	UL 962	Household and Commercial Furnishings
+	UL 962A	Furniture Power Distribution Units
+	UL 1017	Vacuum Cleaners, Blower Cleaners, and Household Floor Finishing Machines
+	UL 1026	Household Electric Cooking and Food Serving Appliances
+	UL 1278	Movable and Wall- or Ceiling-Hung Electric Room Heaters
+	UL 1453	Electric Booster and Commercial Storage Tank Water Heaters
+	UL 1727	Commercial Electric Personal Grooming Appliances
+	UL 1776	High-Pressure Cleaning Machines
+	UL 60335-2-40	Household and Similar Electrical Appliances, Part 2: Particular Requirements for Heating and Cooling
+	UL 60335-2-24	Household and Similar Electrical Appliances, Part 2: Particular Requirements for Refrigerating Appliances, Ice-Cream Appliances, and Ice-Makers
+424	UL 499	Electric Heating Appliances
+	UL 834	Heating, Water Supply, and Power Boilers — Electric
+	UL 873	Temperature-Indicating and -Regulating Equipment
+	UL 1042	Electric Baseboard Heating Equipment
+	UL 1673	Electric Space Heating Cables
+	UL 1693	Electric Radiant Heating Panels and Heating Panel Sets
+	UL 1995	Heating and Cooling Equipment
+	UL 1996	Electric Duct Heaters
+	UL 2021	Fixed and Location-Dedicated Electric Room Heaters
+426	UL Subject 1588	Roof and Gutter De-Icing Cable Units
+427	IEEE 515	Electrical Resistance Heat Tracing for Industrial Applications
+	UL 515	Electrical Resistance Heat Tracing for Commercial and Industrial Applications
+	UL Subject 2049	Residential Pipe Heating Cable
+430	UL 508C	Power Conversion Equipment
+	UL 845	Motor Control Centers
+	UL 1004-1	Rotating Electrical Machines — General Requirements
+	UL 1004-2	Impedance Protected Motors
+	UL 1004-3	Thermally Protected Motors
+	UL 2111	Overheating Protection for Motors
+	UL 1004-6	Servo and Stepper Motors
+	UL 1004-7	Electronically Protected Motors
+	UL 1004-8	Inverter Duty Motors
+	UL 1004-9	Medium Voltage and Form Wound Motors
+	UL 60034-1	Rotating Electrical Machines
+440	UL 250	Household Refrigerators and Freezers
+	UL 412	Refrigeration Unit Coolers
+	UL 416	Refrigerated Medical Equipment
+	UL 427	Refrigerating Units
+	UL 471	Commercial Refrigerators and Freezers
+	UL 484	Room Air Conditioners
+	UL 541	Refrigerated Vending Machines
+	UL 563	Ice Makers
+445	UL 1004-4	Electric Generators
+	UL 2200	Stationary Engine Generator Assemblies
+450	UL 506	Specialty Transformers
+	UL 5085-1	Low Voltage Transformers — Part 1: General Requirements
+	UL 5085-2	Low Voltage Transformers — Part 2: General Purpose Transformers
+	UL 1062	Unit Substations
+	UL 1561	Dry-Type General Purpose and Power Transformers
+	UL 1562	Transformers, Distribution, Dry-Type — Over 600 Volts
+460	UL 810	Capacitors
+	UL 810A	Electrochemical Capacitors
+480	UL 1642	Lithium Batteries
+	UL 1973	Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER) Applications
+	UL 1989	Standby Batteries
+	UL 2054	Household and Commercial Batteries
+490	UL 347	Medium-Voltage AC Contactors, Controllers, and Control Centers
+	UL Subject 347A	Medium Voltage Power Conversion Controllers
+	UL Subject 347B	Medium Voltage Motor Controllers, Up to 15kV
+	UL Subject 347C	Medium Voltage Solid State Resistive Load Controllers, Up to 15kV
+500	ANSI/ISA 12.12.01	Nonincendive Electrical Equipment for Use in Class I and II, Division 2 and Class III, Divisions 1 and 2 Hazardous (Classified) Locations
+	ANSI/ISA-12.27.01	Requirements for Process Sealing Between Electrical Systems and Potentially Flammable or Combustible Process Fluids
+	UL 698A	Industrial Control Panels Relating to Hazardous (Classified) Locations
+	UL 844	Luminaires for Use in Hazardous (Classified) Locations
+	UL 1203	Explosionproof and Dust-Ignition-Proof Electrical Equipment for Use in Hazardous (Classified) Locations
+	UL 2075	Gas and Vapor Detectors and Sensors
+	UL 2225	Cable and Cable Fittings for Use in Hazardous (Classified) Locations
+	UL 60079-29-1	Explosive Atmospheres — Part 29-1: Gas Detectors — Performance Requirements of Detectors for Flammable Gases
+501	UL 60079-15	Electrical Apparatus for Explosive Gas Atmospheres — Part 15: Type of Protection "n"
+	UL 60079-0	Explosive Gas Atmospheres — Part 0: Equipment — General Requirements
+	UL 60079-7	Explosive Gas Atmospheres — Part 7: Increased Safety "e"
+	UL 60079-1	Explosive Gas Atmospheres — Part 1: Type of Protection — Flameproof "d"
+	UL 60079-5	Explosive Gas Atmospheres — Part 5: Type of Protection — Powder Filling "q"
+	UL 60079-6	Explosive Gas Atmospheres — Part 6: Type of Protection — Oil Immersion "o"
+504	UL 913	Intrinsically Safe Apparatus and Associated Apparatus for Use in Class I, II, and III, Division 1, Hazardous (Classified) Locations
+505	UL 60079-11	Explosive Atmospheres — Part 11: Equipment Protection by Intrinsic Safety "i"
+	UL 60079-18	Electrical Apparatus for Use in Class I, Zone 1 Hazardous (Classified) Locations Type of Protection — Encapsulation "m"
+506	UL 61241-18	Electrical Apparatus for Use in Zone 20, Zone 21, and Zone 22 Hazardous (Classified) Locations — Protection by Encapsulation "mD"
+	UL 61241-1	Electrical Apparatus for Use in Zone 21 and Zone 22 Hazardous (Classified) Locations — Protection by Enclosure "tD"
+	UL 61241-0	Electrical Apparatus for Use in Zone 20, Zone 21, and Zone 22 Hazardous (Classified) Locations — General Requirements
+	UL 61241-11	Electrical Apparatus for Use in Zone 20, Zone 21, and Zone 22 Hazardous (Classified) Locations — Protection by Intrinsic Safety "iD"
+	UL 61241-2	Electrical Apparatus for Use in Zone 21 and Zone 22 Hazardous (Classified) Locations — Protection by Pressurization "pD"
+511	UL 201	Garage Equipment
+	UL 1564	Industrial Battery Chargers
+517	UL 1022	Line Isolation Monitors
+	UL 1047	Isolated Power Systems Equipment
+	UL 60601-1	Medical Electrical Equipment — Part 1: General Requirements for Safety
+520	UL Subject 334	Theater Lighting Distribution and Control Equipment
+	UL 1573	Stage and Studio Luminaires and Connector Strips
+	UL 1640	Portable Power-Distribution Equipment
+550	UL Subject 1462	Mobile Home Pipe Heating Cable
+551	UL 231	Power Outlets
+600	UL 48	Electric Signs
+	UL 814	Gas-Tube-Sign Cable
+	UL 879	Electric Sign Components
+	UL 879A	LED Sign and Sign Retrofit Kits
+	UL Subject 879B	Polymeric Enclosure Systems for the Splice Between Neon Tubing Electrode Leads and GTO Cable, and the GTO Cable Leading to the Splice
+	UL 2161	Neon Transformers and Power Supplies
+604	UL 183	Manufactured Wiring Systems
+605	UL 1286	Office Furnishings
+	UL 962	Household and Commercial Furnishings
+610	UL Subject 2273	Festoon Cable
+625	UL 2202	Electric Vehicle (EV) Charging System Equipment
+	UL 2231-1	Personnel Protection Systems for Electric Vehicle (EV) Supply Circuits; Part 1: General Requirements
+	UL 2231-2	Personnel Protection Systems for Electric Vehicle (EV) Supply Circuits; Part 2: Particular Requirements for Protection Devices for Use in Charging Systems
+	UL 2251	Plugs, Receptacles and Couplers for Electrical Vehicles
+	UL 2580	Batteries for Use in Electric Vehicles
+	UL 2594	Electric Vehicle Supply Equipment
+	UL Subject 9741	Bidirectional Electric Vehicle (EV) Charging System Equipment
+626	UL 1686	Pin and Sleeve Configurations
+630	UL 551	Transformer-Type Arc-Welding Machines
+640	UL 813	Commercial Audio Equipment
+	UL 1419	Professional Video and Audio Equipment
+	UL 1492	Audio-Video Products and Accessories
+	UL 1711	Amplifiers for Fire Protective Signaling Systems
+	UL 6500	Audio/Video and Musical Instrument Apparatus for Household, Commercial, and Similar General Use
+	UL 60065	Audio, Video and Similar Electronic Apparatus — Safety Requirements
+	UL 62368-1	Audio/Video, Information and Communication Technology Equipment — Part 1: Safety Requirements
+645	UL 1690	Data-Processing Cable
+	UL 1778	Uninterruptible Power Systems
+	UL 60950-1	Information Technology Equipment Safety — Part 1: General Requirements
+	UL 60950-21	Information Technology Equipment Safety — Part 21: Remote Power Feeding
+	UL 60950-22	Information Technology Equipment Safety — Part 22: Equipment to be Installed Outdoors
+	UL 60950-23	Information Technology Equipment Safety — Part 23: Large Data Storage Equipment
+646	UL Subject 2755	Modular Data Centers
+670	UL 61800-5-1	Adjustable Speed Electrical Power Drive Systems — Part 5-1: Safety Requirements — Electrical, Thermal and Energy
+680	UL 379	Power Units for Fountain, Swimming Pool, and Spa Luminaires
+	UL 676	Underwater Luminaires and Submersible Junction Boxes
+	UL 676A	Potting Compounds for Swimming Pool, Fountain, and Spa Equipment
+	UL 1081	Swimming Pool Pumps, Filters, and Chlorinators
+	UL 1241	Isolated Power Systems Equipment
+	UL 1261	Electric Water Heaters for Pools and Tubs
+	UL 1563	Electric Spas, Equipment Assemblies, and Associated Equipment
+	UL 1795	Hydromassage Bathtubs
+690	UL 98B	Enclosed and Dead-Front Switches for Use in Photovoltaic Systems
+	UL 489B	Molded-Case Circuit Breakers, Molded-Case Switches, and Circuit-Breaker Enclosures for Use with Photovoltaic (PV) Systems
+	UL Subject 5081	Manual Disconnect Switches Intended for Use in Photovoltaic Systems
+	UL Subject 1699B	Photovoltaic DC Arc-Fault Circuit Protection
+	UL 1703	Flat-Plate Photovoltaic Modules and Panels
+	UL 1741	Inverters, Converters, Controllers and Interconnection System Equipment for Use with Distributed Energy Resources
+	UL Subject 2579	Low-Voltage Fuses — Fuses for Photovoltaic Systems
+	UL Subject 3703	Solar Trackers
+	UL Subject 3730	Photovoltaic Junction Boxes
+	UL 4703	Photovoltaic Wire
+	UL 6703	Connectors for Use in Photovoltaic Systems
+	UL Subject 6703A	Multi-Pole Connectors for Use in Photovoltaic Systems
+	UL Subject 8703	Concentrator Photovoltaic Modules and Assemblies
+	UL Subject 9703	Distributed Wiring Harnesses
+	UL 62109-1	Power Converters for Use in Photovoltaic Power Systems — Part 1: General Requirements
+	UL 3003	Distributed Generation Cables
+	UL 61730-1	Photovoltaic (PV) Module Safety Qualification — Part 1: Requirements for Construction
+	UL 61730-2	Photovoltaic (PV) Module Safety Qualification — Part 2: Requirements for Testing
+	UL 3741	Photovoltaic Hazard Control
+694	UL Subject 489C	Molded-Case Circuit Breakers and Molded-Case Switches for Use with Wind Turbines
+	UL Subject 6140	Wind Turbine Generating Systems
+	UL 6141	Wind Turbines Permitting Entry of Personnel
+	UL 6142	Wind Turbine Generating Systems — Small
+695	UL 218	Fire Pump Controllers
+	UL 448	Centrifugal Stationary Pumps for Fire-Protection Service
+	UL 448B	Residential Fire Pumps Intended for One- and Two-Family Dwellings and Manufactured Homes
+	UL 448C	Stationary, Rotary-Type, Positive-Displacement Pumps for Fire Protection Service
+	UL 1004-5	Fire Pump Motors
+700	UL 924	Emergency Lighting and Power Equipment
+	UL 1008	Transfer Switch Equipment
+	UL 1008A	Medium-Voltage Transfer Switches
+	UL 2200	Stationary Engine Generator Assemblies
+706	UL 9540	Energy Storage Systems and Equipment
+725	UL 5C	Surface Raceways and Fittings for Use with Data, Signal and Control Circuits
+	UL 13	Power-Limited Circuit Cables
+	UL 1012	Power Units Other Than Class 2
+	UL 1310	Class 2 Power Units
+	UL 1666	Test for Flame Propagation Height of Electrical and Optical-Fiber Cables Installed Vertically in Shafts
+	UL 1685	Vertical-Tray Fire-Propagation and Smoke-Release Test for Electrical and Optical-Fiber Cables
+	UL 5085-3	Low Voltage Transformers — Part 3: Class 2 and Class 3 Transformers
+	UL Subject 9990	Information and Communication Technology (ICT) Power Cables
+727	UL 2250	Instrumentation Tray Cable
+728	UL Subject 1724	Fire Tests for Electrical Circuit Protective Systems
+	UL 2196	Tests for Fire-Resistive Cables
+750	UL 916	Energy Management Equipment
+760	UL 268	Smoke Detectors for Fire Alarm Signaling Systems
+	UL 268A	Smoke Detectors for Duct Application
+	UL 497B	Protectors for Data Communication and Fire Alarm Circuits
+	UL 1424	Cables for Power-Limited Fire-Alarm Circuits
+	UL 1425	Cables for Non—Power-Limited Fire-Alarm Circuits
+	UL 1480	Speakers for Fire Alarm and Signaling Systems, Including Accessories
+770	UL 1651	Optical Fiber Cable
+	UL 2024	Optical Fiber and Communication Cable Raceway
+800	UL 444	Communications Cables
+	UL 489A	Circuit Breakers for Use in Communication Equipment
+	UL 497	Protectors for Paired-Conductor Communications Circuits
+	UL 497A	Secondary Protectors for Communications Circuits
+	UL 497C	Protectors for Coaxial Communications Circuits
+	UL Subject 497E	Protectors for Antenna Lead-In Conductors
+	UL Subject 523	Telephone Service Drop Wire
+	UL 1863	Communication Circuit Accessories
+810	UL 150	Antenna Rotators
+	UL 452	Antenna-Discharge Units
+820	UL 1655	Community-Antenna Television Cables
+

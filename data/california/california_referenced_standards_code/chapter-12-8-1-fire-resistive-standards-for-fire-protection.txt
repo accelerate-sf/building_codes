@@ -1,0 +1,342 @@
+CHAPTER 12-8-1 FIRE-RESISTIVE STANDARDS FOR FIRE PROTECTION
+
+STANDARD 12-8-100ROOM FIRE TEST FOR WALL AND CEILING MATERIALS (See Chapter 35, California Building Code.)
+
+STATE FIRE MARSHAL
+
+Authority: Sections 13143, 13146.1, Health and Safety Code
+
+Reference: Sections 13108, 13143, 13146.1, Health and Safety Code
+
+SCOPE
+
+Sec. 12-8-101.
+
+(a)Basic. This standard is intended to evaluate, under a specified fire exposure condition, the contribution to room fire growth provided by wall ceiling and/or floor materials or assemblies. This standard is not intended to evaluate the fire endurance or flamespread of material or assemblies.
+
+Note: See State Fire Marshal (SFM) 7-1 and Uniform Building Code (UBC) Standard 8-1.
+
+This standard can be used to evaluate the effectiveness of thermal barriers in restricting the contribution of combustible materials in the wall and floor assemblies to fire growth in a padded safety cell. This standard shall be used in conjunction with ASTM E603-77, “Standard Guide for Room Fire Experiments,” which covers instrumentation, safety precautions and the general effect of various parameters.
+
+(b)Tests and listings by approved testing agency. Test data for wall and/or ceiling materials or assemblies investigated and tested in accordance with the Standard for Safety established by Underwriters Laboratories, Inc., UL 723C, “Investigation for the Classification of Wall and Ceiling Interior Finish Materials and Assemblies Using a Room Fire Test,” will be acceptable for evaluation against this standard, provided all instrumentation data required by this standard is incorporated in the test and report.
+
+(c)Test simulation. The test simulates a fire in the comer of an 8-foot by 12-foot (2438 mm by 3657 mm) compartment containing a single open doorway; this can be used to evaluate the relative performance of specific wall, ceiling and floor materials or assemblies when they are used together in the same relationship within an enclosure, in addition to simulating the manner in which they will be used.
+
+(d)Materials considered. The test may be used for evaluating wall, ceiling and flooring finish materials and assemblies, including panels, tiles, boards, sprayed or brushed coatings, etc.
+
+FIRE AND SMOKE MEASUREMENTS AND PHOTOGRAPHIC RECORD
+
+Sec. 12-8-102.
+
+(a)Significance. This fire test is applicable to a description of certain fire performance characteristics in appraising wall, ceiling and flooring materials, products or systems under specified fire exposure conditions in an enclosure. The test indicates the maximum extent of fire growth in an enclosure, the rate of heat release, and if they occur, the time to flashover and the time to flame extension beyond the doorway following flashover. Time to flashover is either the time when the radiant flux onto the floor reaches 20 kW/m2 or the average temperature of the upper air reaches 1100°F (593°C). A crumpled up single sheet of newspaper may be placed on the floor 3 feet (914 mm) out from the center of the front wall.
+
+The spontaneous ignition of this newspaper will provide a visual indication of flashover. It determines both the extent to which the wall and ceiling materials or assemblies may contribute to fire growth in a compartment and the potential for fire spread beyond the compartment under the particular conditions simulated. It does not measure the contribution of the furnishing materials.
+
+(b)Fire measurements. The potential for the spread of fire to other objects in the enclosure interior, remote from the ignition source, is evaluated by measurements of:
+
+1.The total heat flux incident at the center of the floor.
+
+2.A characteristic upper level gas temperature in the test compartment.
+
+(c)Fire spread potential. The potential for the spread of fire to objects outside the compartment of origin is evaluated by the measurement of the total rate of heat release of the fire.
+
+(d)Smoke measurements. Measurements of the rate of production of carbon monoxide and visible smoke are taken.
+
+(e)Photographic record. The overall performance of the test specimen is to be visually documented by full color photographic records. Videotaping of the complete fire test may be done as an alternate to the continuous photographic record. Such records may show when each area of the test specimen becomes involved in the fire.
+
+(f)Photographic Specification. Photographic equipment shall be used to continuously record the fire spread in the room and the fire projection from the door of the room. The location of the camera must avoid interference with the air inflow.
+
+Note: A window, cut 2-0 above the floor wall facing the gas burner, fitted with heat-resistant, impact-resistant glazing provides useful photographic access. Flood lights should not raise the ambient temperature in the room above that specified in Section 12-8-110. The interior wall surfaces of the test room, adjacent to the corner in which the burner is located, shall be clearly marked with a 12-inch (305 mm) grid. A clock shall appear in all photographic records, giving the time to the nearest second (or 0.01 minute) from the start of the test. This clock shall be accurately synchronized with all other measurements, or other provisions shall be made to correlate the photographic record with time. Color slides shall also be taken at 15-second intervals for the first 3 minutes of the test and at a minimum of 30-second intervals thereafter for the duration of the test.
+
+REPORT
+
+Sec. 12-8-103.
+
+The report shall include the following items:
+
+1.Material description. The name, thickness, density and size of the material shall be listed, along with other identifying characteristics or labels.
+
+2.Materials mounting and conditioning.
+
+3.Layout of specimens and attachments in test room.
+
+4.Relative humidity and temperature of the room and the test building prior to and during the test.
+
+5.The fuel gas flow to the ignition burner and its calculated rate of gross heat output.
+
+6.The total incident heat flux at the center of the floor shall be reported for each heat flux gage as a function of time starting 1 minute prior to the test.
+
+7.The temperature of gases in the room, the doorway, and in the exhaust duct shall be reported for each thermocouple as a function of time starting 1 minute prior to the test. The temperature recorded by the thermocouple in the duct will be used in the required calculation.
+
+8.The volumetric flow rate of the gas in the duct shall be calculated from Equation 12 in Appendix 12-8-1A and reported as a function of time starting 1 minute prior to the test.
+
+9.The oxygen concentration in the analyzer shall be reported as a function of time starting 1 minute prior to the test.
+
+10.The carbon dioxide concentration, if measured in the analyzer, shall be reported as a function of time starting 1 minute prior to the test.
+
+Note: Separate reporting of the volumetric flow rate, temperature, oxygen and carbon dioxide and/or carbon monoxide concentrations provide diagnostic information on the performance of the exhaust gas collection system and provide a check on the heat production calculations.
+
+11.The total rate of heat production shall be calculated from the measured oxygen and carbon dioxide and/or carbon monoxide concentrations, and the temperature and volumetric flow rate of the gas in the duct.
+
+12.The product of the volumetric flow rate of the gas in the duct and the carbon monoxide concentration at the specified location in the combustion hood system shall be reported as a function of time after the start of the test.
+
+13.The product of the volumetric flow rate of the gas in the duct at the duct gas temperature and the optical density per foot at the specified smoke meter location in the duct shall be reported as a function of time after the start of the test.
+
+Note: If this product is multiplied by 1.55 × 10-3, for English units, it gives the smoke units produced per second, where a smoke unit is defined as the quantity of smoke which, when distributed uniformly over a cubic meter, would have an optical density of unity over a path length of 1 meter. (This is the definition used in the Proposed ASTM Test for Heat and Visible Smoke Release Rates for Materials and Products.)
+
+14.A transcription of the visual, photographic, audio and written records of the fire test shall be provided. The records shall indicate the time of ignition of the wall and ceiling finishes, the approximate location of the flame front most distant from the ignition source, at intervals not exceeding 15 seconds during the fire test, the time of flashover, and the time at which flames extend outside the doorway. In addition, still photographs taken at intervals not exceeding 15 seconds for the first 3 minutes, beginning at the start of the test and at every 30 seconds for the remainder of the test shall be supplied. Photographs showing the extent of the damage of the materials after the test shall also be supplied. The camera settings, film speed and lighting used shall be described.
+
+15.A report on the pretest calibration conducted in Section 12-8-113.
+
+16.Report on the barometric pressure at time of test.
+
+17.A complete discussion of the criteria. This shall include all calculations and references to other data used to satisfy the criteria presented in Section 12-8-115.
+
+TEST SAMPLES
+
+Sec. 12-8-104.
+
+Samples of the test material, both in its original (untested) and post-tested conditions, shall be retained by the testing agency. All samples shall be retained by the testing agency for a minimum period of three years from the date of the test. All samples shall measure 4 inches by 4 inches (101 mm by 101 mm) by the sample thickness. Two samples of the material in its original pretest condition shall be retained. These samples shall be taken from the same material lot used for the test samples. Post-test samples from the test shall include one each, from the geometric center of each wall panel and the ceiling panel, and one each from the following locations:
+
+1.The top, mid-height and bottom of each wall along the vertical centerline of each wall panel.
+
+2.The quarter points of the ceiling, in those cases in which the test material was applied to the ceiling.
+
+All samples shall be clearly identified as to the material, test date and their location within the room.
+
+SUMMARY OF METHOD AND HEAT SOURCE
+
+Sec. 12-8-105.
+
+(a)Summary of method. The test involves an ignition source exposure of the wall, ceiling and/or floor lining materials or assemblies as they would be incorporated in actual safety cell installation.
+
+(b)Heat source. This method uses a gas burner to produce a diffusion flame in contact with the walls and ceiling in the corner of an 8-foot by 12-foot by 8-foot-high (2438 mm by 3657 mm by 2438 mm) compartment. The burner produces a prescribed gross rate of heat output as given in Table 12-8-1A and Figure 12-8-1.
+
+The contribution of the wall, ceiling and flooring materials or assemblies to fire growth is measured in terms of the time history of the incident heat flux at the center of the floor, the time history of the temperature of the gases in the upper part of the compartment, the time to flashover and the rate of heat release. The test is conducted with natural ventilation to the test compartment provided through a single doorway 30 inches by 80 inches (762 mm by 2032 mm) in width and height. The combustion products are collected in a hood feeding into a plenum connected to an exhaust duct in which measurements are made of the gas velocity, temperature and concentrations.
+
+IGNITION SOURCE AND LOCATION
+
+Sec. 12-8-106.
+
+(a)Ignition source. The ignition source for the test shall be a gas burner with a nominal 12 inches by 12 inches (305 mm by 305 mm) porous top surface of a refractory material.
+
+Note: A burner may be constructed with a 1-inch (25 mm) porous ceramic-fiber board over a 6-inch (152 mm) plenum; or alternatively a minimum 4-inch (101 mm) layer of Ottowa sand can be used to provide the horizontal surface through which the gas is supplied. The sand burner may be preferable for dripping materials. This type of burner is shown in Figure 12-8-7.
+
+(b)Burner location. The top surface of the burner through which the gas is supplied shall be located horizontally, 12 inches (305 mm) off the floor, and the burner enclosure shall be in contact with both walls in a corner of the room opposite from the door. The edge of the diffusion surface shall be within 1 inch (25 mm) of the wall.
+
+(c)Gas supply. The gas supply to the burner shall be propane and shall produce a heat source as outlined in Section 12-8-105 (b). The flow rate shall be metered throughout the test. The burner shall be so designed that it can be set at the flow rates required to produce the gross rates of heat release as specified in Section 12-8-105 (b).
+
+(d)Ignition. The burner may be ignited by a pilot burner or a remote controlled spark igniter.
+
+COMPARTMENT DIMENSIONS AND CONSTRUCTION
+
+Sec. 12-8-107.
+
+(a)Compartment geometry and construction. The interior dimensions of the floor of the fire room when the specimens are in place, shall measure 8 feet (2438 mm) ± 1 inch (25 mm) × 12 feet (3657 mm) ± 1 inch (25 mm). The finished ceiling shall be 8 feet (2438 mm) ± 0.5 inch (13 mm) above the floor. There shall be four walls at right angles defining the compartment.
+
+Note: The experimental choices for the sizes of compartment fire experiments are discussed in Section 5 of ASTM E603. The compartment size defined in this section has been chosen to make it convenient to utilize standard sized 4-foot by 8-foot (1219 mm by 2438 mm) building materials or panels.
+
+(b)Doorway. There shall be a 30-inch (762 mm) ± 0.25- inch (6 mm) × 80-inch (2032 mm) ± 0.25-inch (6 mm) doorway in the center of one of the 8-foot by 8-foot (2438 mm by 2438 mm) walls, and no other wall or ceiling openings that will allow ventilation.
+
+(c)Wall construction. The wall containing the door shall be of calcium silicate board of 46 pcf density and 0.5 inch (13 mm) nominal thickness. As an alternative to the calcium silicate board, 0.5-inch (13 mm) thick gypsum wallboard may be used. The door frame shall be constructed to remain unchanged during the test period to a tolerance of ± 1 percent in height and width.
+
+(d)Compartment construction. The test compartment may be a framed structure or a concrete block structure. If self-supporting panels are tested, a separate exterior frame or block compartment may not be required.
+
+(e)Floor materials. The floor of the test compartment shall be noncombustible as defined by ASTM E136.
+
+SPECIMEN MOUNTING AND TEST MATERIAL SIZE
+
+Sec. 12-8-108.
+
+(a)Specimen mounting. The specimens (e.g., the ceiling and wall materials whose condition is being tested) shall be mounted on a framing or support system comparable to that intended for their field use, using backing materials, insulation or air gaps, as appropriate to the intended application and representing a typical value of thermal resistance for the wall system.
+
+(b)Test material size. In the test, the ceiling material shall cover the entire ceiling if such an end use application is anticipated and the wall material shall cover three of the side walls, but not the wall containing the door. The wall and ceiling materials shall be mounted in the same wall-ceiling relationship in which they are intended for use, and it therefore may be necessary to actually construct a section of a prototype padded safety cell.
+
+FIRE COMPARTMENT ENVIRONMENT
+
+Sec. 12-8-109.
+
+The test building in which the fire compartment is located shall have vents for the discharge of combustion products and have provisions for fresh air intake, so that no oxygen deficient air shall be introduced into the fire compartment during the test. Prior to initiation of the test the ambient air at the mid-height entrance to the compartment shall have a velocity in any direction of less than 100 feet per minute. The building shall be of adequate size so that there shall be no smoke accumulation in the building below the level of the top of the fire compartment.
+
+AMBIENT CONDITIONS IN TEST BUILDING AND FIRE COMPARTMENT
+
+Sec. 12-8-110.
+
+(a)Ambient conditions in test building. The ambient temperature in the test building at any location outside the fire compartment shall be above 40°F (4°C), and the relative humidity shall be less than 75 percent for the duration of the test.
+
+(b)Ambient conditions in fire compartment. The ambient temperature in the fire compartment measured by one of the thermocouples specified in Section 12-8-112, Item 2., D., shall be within the range of 65°F to 75°F (18°C to 24°C) for at least 16 hours prior to the test.
+
+(c)Humidity. The ambient relative humidity in the fire compartment for 16 hours prior to the test shall be within the range of 50 ± 5 percent. This may require the use of a humidifier or dehumidifier.
+
+SPECIMEN CONDITIONING
+
+Sec. 12-8-111.
+
+The specimens shall be conditioned prior to mounting at a temperature of 70°F ± 5°F, and at a relative humidity of 50 ± 5 percent until they reach a rate of weight change of less than 0.1 percent per day.
+
+INSTRUMENTATION
+
+Sec. 12-8-112.
+
+The following are the minimum requirements for instrumentation for this test:
+
+Note: Added instrumentation may be desirable for further information.
+
+1.Total heat flux gages.
+
+A.Location. Two gages shall be mounted within 5 inches (127 mm) of each other and within a distance of 2 inches (51 mm) above the floor surface upward in the geometric center of the floor.
+
+Note: See Figure 12-8-2.
+
+One additional gage shall be mounted in the wall adjacent to the ignition burner during calibration tests only.
+
+Note: See Section 12-8-113, Item 2.
+
+It shall be 6 feet (1829 mm) above the floor, and 6 inches (152 mm) from the corner where the burner is located, along the wall opposite the doorway. The front surface of the calibration gage shall be flush with the wall surface, within 0.04 inch (1 mm).
+
+B.Specification. The gages shall be of the Gardon type, with a flat black surface and a 180° view angle, and shall be maintained at a constant temperature, within ± 1.8°F above the dew point by water supplied at a temperature of 120°F to 150°F (49°C to 65°C). This will normally require a flow rate of at least 0.1 gpm. The full-scale output range shall be 5 Btu/ft.2/sec. for the floor gage and 10 Btu/ft.2/sec. for the wall gage.
+
+Note: A suitable Gardon-type heat flux gage, manufactured by the Medtherm Corporation in Huntsville, Alabama, is listed under model 64-5-18 for the 5 Btu/ft.2/sec. range and under model 64-10-18 for the 10 Btu/ft.2/sec. range. See R. Gardon, “An Instrument for the Direct Measurement of Intense Thermal Radiation,” Review of Scientific Instruments, Vol. 24, No. 5, May 1953, pp. 36-70, for further information.
+
+2.Gas temperature thermocouples.
+
+A.Specification. Twenty-mil-diameter bare chromelalumel thermocouple wire within 0.5 inch (13 mm) of the bead should be run along expected isotherms to minimize conduction errors. The insulation between the chromel and alumel wires must be stable to at least 2000°F (1093°C) or the wires must be separated.
+
+Note: Metal clad ceramic powder will work satisfactorily. The commonly used silicone-impregnated glass insulation will break down above 1500°F (815°C).
+
+B.Location for doorway. A thermocouple shall be located in the interior plane of the door opening on the door centerline, 1 inch (25 mm) down from the top.
+
+Note: See Figure 12-8-3.
+
+C.Locations for room. Thermocouples shall be located 4 inches (101 mm) down from the center of the ceiling and from the center of each of the four ceiling quadrants, and one shall be directly over the center of the ignition burner, 4 inches (101 mm) below the ceiling. The thermocouples shall be mounted on supports, with their junctions at least 4 inches (101 mm) away from a solid surface. There shall be no attachments to the test specimens.
+
+Note: See Figure 12-8-3.
+
+D.Location in canopy hood and duct systems. One pair of thermocouples shall be placed 11 feet (3353 mm) downstream to the entrance to the horizontal duct. The pair of thermocouples shall straddle the center of the duct and be separated by 2 inches (51 mm) from each other.
+
+Note: See Figure 12-8-4.
+
+3.Canopy hood and exhaust duct location and design. A hood shall be installed immediately adjacent to the door of the fire room. The bottom of the hood shall be level with the top surface of the room. The face dimensions of the hood shall be minimum 8 feet by 8 feet (2438 mm by 2438 mm) and the depth shall be 3.5 feet (1067 mm). The hood shall feed into a plenum having a 3-foot by 3-foot (914 mm by 914 mm) cross section.
+
+Note: See Figure 12-8-4.
+
+The plenum shall have a minimum height of 3 feet (914 mm). The height can be increased up to a maximum of 6 feet (1829 mm) to satisfy building constraints. The exhaust duct connected to the plenum shall be 16 inches (406 mm) in diameter, horizontal, and shall have a circular aperture of 12 inches (305 mm) at its entrance.
+
+The hood shall have sufficient draft to collect all the combustion products leaving the room. This draft should be capable of moving up to 5,000 standard cubic feet per minute (scfm) during the test. Provisions shall be made to vary the draft so that it can operate at either 1,000 or 5,000 scfm. Mixing vanes may also be required in the duct if concentration gradients are found to exist.
+
+An alternate exhaust system design may be used if it has been shown to produce equivalent results. Equivalency may be shown by meeting the requirements of Section 12-8-113, Item 5.
+
+4.Duct gas velocity specification. A bidirectional probe or equivalent measuring system shall be used to measure gas velocity in the duct.
+
+Note: See B. J. McCaffrey and G. Heskjestad, Combustion and Flame, 26, 125-127 (1976).
+
+The probe shown in Figure 12-8-6 consists of a short stainless steel cylinder 1.75-inch (44 mm) long and 0.975-inch (25 mm) inside diameter with a solid diaphragm in the center. The pressure taps on either side of the diaphragm support the probe. The axis of the probe shall be along the centerline of the duct 11 feet (3353 mm) downstream from the entrance. The taps shall be connected to a pressure transducer which shall be able to resolve pressure differences of 0.0001-inch (0.002 mm) of water.
+
+Notes:
+
+1.Capacitance-type transducers have been found to be the most stable for this application.
+
+2.The bidirectional probe is specified rather than the pilot-static tube in order to avoid problems of clogging with soot.
+
+5.Duct oxygen concentration specification. A stainless steel gas sampling tube shall be located 13 feet (3962 mm) downstream from the entrance to the duct, to obtain a continuously flowing sample for determining the oxygen concentration of the exhaust gas as a function of time. A suitable filter and cold trap shall be placed in the line to remove particulates and water. The oxygen analyzer shall be of the paramagnetic or polarographic type and shall be capable of measuring the reduction in oxygen concentration over the range of 0.21 down to 0.15 with an accuracy of ± 2 percent in this concentration range. The signal from the oxygen analyzer must be within 5 percent of its final value in 30 seconds after introducing a step change in composition of the gas stream flowing past the inlet to the sampling tube.
+
+6.Duct carbon dioxide concentration specification. The gas sampling tube defined in Section 12-8-112, Item 5, or an alternate tube in the same location, shall provide a continuous sample for the measurement of the carbon dioxide concentration with an analyzer which has a range of 0 to 20 percent and a maximum error of 2 percent of full-scale. The total system response time between the sampling inlet and the meter shall be no greater than 30 seconds.
+
+7.Duct carbon monoxide concentration specification. The gas sampling tube defined in Section 12-8-112, Item 5, or an alternate tube in the same location, shall provide a continuous sample for the measurement of the carbon monoxide concentration with an analyzer which has a range of 0 to 10 percent and a maximum error of 2 percent of full-scale.
+
+8.Optical density of smoke in duct specification (supplementary measurement). A meter shall be installed to measure the optical density of the exhaust gases in a vertical path across the width of a horizontal duct, 1 foot (105 mm) downstream of the duct velocity probe. A horizontal path should be used with a vertical duct.
+
+A suitable design for the meter is as follows:
+
+Use as a light source a number 1810 lamp which is rated at 6.3 volts, 0.40 amps, and 1.5 candela and is operated at 5 volts d.c. The lamp is mounted at the focal point of a + 20 diopter and 50 mm diameter double convex collimating lens. At the other side of the duct the collimated beam is intercepted by a + 10 diopter 50 mm diameter plane convex lens and concentrated onto the cathode of a 1P39 phototube. A Corning CS3-132 type 3304 filter (available from the Swift Glass Company, Box 890, Elmira Heights, NY 14903) is used in front of the phototube to correct its spectral response to the standard photopic curve of the human eye.
+
+The lens, filter and phototube are mounted inside of a light-tight housing which is blackened inside to minimize internal reflections. The phototube is connected to a linear operational power amplifier with an adjustable gain of 106 which in turn is connected to a commercially available log ratio amplifier to produce an output voltage proportional to the optical density. A smoke meter meeting the above requirements is described in a report by R. W. Bukowski, “Smoke Measurements in Large- and Small-scale Fire Testing,” NBSIR 78-1502, October 1978. Alternate systems can be used, but the color temperature of the light source must match that of the 1810 lamp under the specified operating conditions, and the light receiver, including the photo detector, must match the standard photopic curve of the eye.
+
+The optical density shall be continuously recorded over the duration of the test. After completion of the test, the optical density reading must be less than 0.02 (transmission higher than 95 percent).
+
+CALIBRATION AND DOCUMENTATION OF IGNITION SOURCE AND TEST EQUIPMENT
+
+Sec. 12-8-113.
+
+A calibration test shall be performed prior to and within 30 days of any fire test. The calibration test, to last for 15 minutes, shall use the standard ignition source with inert wall and ceiling materials (calcium silicate board of 46 pcf density and 0.5-inch (13 mm) thickness. The following quantities shall be reported:
+
+1.Once the burner is activated, the output of all instruments normally used in the test is to be measured and data recorded as a function of time.
+
+2.The time history of the total heat flux at the wall location.
+
+3.The maximum extension of the burner flame as recorded by still color photographs of 0.1 second exposure time taken at a minimum of 30-second intervals, or more often if it is changing rapidly. These shall be taken with a camera operating in the “operative mode” with the camera set to the standard ASA ratings of the film.
+
+4.The temperature and velocity profiles across the duct cross-section at the location of the bidirectional probe if one is used. These profiles shall be used to determine the factor “k” in Equation 12, Appendix 12-8-1A.
+
+5.The total rate of heat production is determined both by the oxygen consumption calculation and by the metered gas input. These must agree within 5 percent.
+
+Note: The net heat of combustion is 2,283 Btu/ft3 for propane at 68°F (20°C) and 14.7 psi. This value should be used in this calculation.
+
+TEST PROCEDURE
+
+Sec. 12-8-114.
+
+The following paragraphs describe the steps in the test procedure:
+
+1.Establish an initial volumetric flow rate of 1,000 cfm through the duct if a forced ventilation system is used. If a forced ventilation system is used, increase the volume flow rate through the duct to 5,000 cfm when the oxygen content falls below18 percent.
+
+2.Turn on all sampling and recording devices and establish steady state baseline readings for at least 1 minute.
+
+3.Ignite the gas burner and start the clock simultaneously. Increase gas flow rate in steps as indicated in Section 12-8-106 (c).
+
+4.Take 35 mm color slides at 15-second intervals during the first 3 minutes and at 30-second intervals thereafter to photographically document the growth of the fire.
+
+5.Provide a continuous voice or written record of the fire, which will give times of all significant events such as flame attachment to the wall, flames out of the doorway, flashover, etc.
+
+6.The ignition burner shall be shut off at 15 minutes after initiation of the test and the test terminated at that time unless safety considerations dictate an earlier termination.
+
+7.Photograph and verbally describe the damage after the test.
+
+FLASHOVER AND SMOKE
+
+Sec. 12-8-115.
+
+(a)Flashover. The criterion for acceptable performance shall be that the compartment never reaches flashover at any time during the 15-minute period of ignition source burner operation. Flashover shall be considered to have occurred if one or more of the following conditions occur during the test:
+
+1.The average ceiling gas temperature, as determined by averaging the temperature at the center and quarter point thermocouples, reaches or exceeds 1112°F (600°C).
+
+2.The total heat flux at the floor, as determined by either of the total heat flux meters mounted in the geometric center of the floor, reaches or exceeds a value of 1.761 Btu/ft.2/sec.
+
+3.Visible flaming extends from the doorway of the test compartment.
+
+(b)Smoke. Materials meeting the acceptance criteria of this standard shall have a smoke density rating no greater than 75 when tested in the thickness intended for use by UBC Standard 26-5, or when tested in accordance with UBC Standard 8-1.
+
+MARKINGS
+
+Sec. 12-8-116.
+
+All materials shall be provided with a manufacturer’s label or other permanent marking clearly identifying the manufacturer label or other permanent marking clearly identifying the manufacturer, the product and model numbers (or brand name). Materials approved and listed by the State Fire Marshal shall be marked as required by Section 1.58, Title 19, C.A.C.
+
+TABLE 12-8-1A
+
+IGNITION SOURCE RATE OF HEAT RELEASE PROGRAM FOR TESTS OF SAFETY CELL PADDING MATERIALS
+
+ELAPSED TEST TIME (Min)	BURNER GROSS RATE OF HEAT RELEASE (KW)
+0	44
+1	88
+2	132
+3	132
+4	88
+5-15	44FIGURE 12-8-1—TIME—MINUTES
+
+FIGURE 12-8-2—LOCATION OF HEAT FLUX METERS
+
+FIGURE 12-8-3—ROOM THERMOCOUPLE LOCATIONS
+
+Note: Two 0.20 mil. Type K thermocouples at each location.
+
+FIGURE 12-8-4—SECTION VIEW OF ROOM TEST APPARATUS
+
+FIGURE 12-8-5—PLAN VIEW OF CANOPY HOOD
+
+FIGURE 12-8-6—BIDIRECTIONAL PROBE
+
+FIGURE 12-8-7—GAS BURNER
+
+FIGURE 12-8-8—BURNER GAS FLOW CONTROL AND MEASUREMENT
+

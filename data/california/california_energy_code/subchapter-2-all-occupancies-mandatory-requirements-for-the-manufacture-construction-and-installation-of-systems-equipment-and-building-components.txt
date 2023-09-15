@@ -1,0 +1,1423 @@
+SUBCHAPTER 2 ALL OCCUPANCIES—MANDATORY REQUIREMENTS FOR THE MANUFACTURE, CONSTRUCTION AND INSTALLATION OF SYSTEMS, EQUIPMENT AND BUILDING COMPONENTS
+
+SECTION 110.0 SYSTEMS AND EQUIPMENT—GENERAL
+
+Sections 110.1 through 110.12 specify requirements for manufacturing, construction and installation of certain systems, equipment, appliances and building components that are installed in buildings within the scope of Section 100.0(a).
+
+NOTE: The requirements of Sections 110.0 through 110.12 apply to newly constructed buildings. Sections 141.0 and 150.2 specify which requirements of Sections 110.1 through 110.12 also apply to additions and alterations to existing buildings.
+
+(a) General Requirements. Systems, equipment, appliances and building components shall only be installed in a building within the scope of Section 100.0(a) regulated by Part 6 only if:
+
+1. The manufacturer has certified that the system, equipment, appliances or building component complies with the applicable manufacturing provisions of Sections 110.1 through 110.12; and
+
+2. The system, equipment, appliance or building component complies with all applicable installation provisions of Sections 110.1 through 110.12.
+
+(b) Certification Requirements for Manufactured Systems, Equipment, Appliances and Building Components.
+
+1. Appliances that are within the scope of Section 1601 of the Appliance Efficiency Regulations shall only be installed if they have been certified to the Energy Commission by the manufacturer, pursuant to the provisions of Title 20 California Code of Regulations, Section 1606; or
+
+2. Systems, equipment, appliances and building components that are required by Part 6 or the Reference Appendices to be certified to the Energy Commission, which are not appliances that are within the scope of Section 1601 of the Appliance Efficiency Regulations, shall only be installed if they are certified by the manufacturer in a declaration, executed under penalty of perjury under the laws of the State of California, that:
+
+A. all the information provided pursuant to the certification is true, complete, accurate and in compliance with all applicable requirements of Part 6; and
+
+B. the equipment, product, or device was tested using the test procedure specified in Part 6 if applicable
+
+3. The certification status of any system, equipment, appliance or building component shall be confirmed only by reference to:
+
+A. A directory published or approved by the Commission; or
+
+B. A copy of the application for certification from the manufacturer and the letter of acceptance from the Commission staff; or
+
+C. Written confirmation from the publisher of a Commission-approved directory that a device has been certified; or
+
+D. A Commission-approved label on the device.
+
+NOTE: Part 6 does not require a builder, designer, owner, operator, or enforcing agency to test any certified device to determine its compliance with minimum specifications or efficiencies adopted by the Commission.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.1 MANDATORY REQUIREMENTS FOR APPLIANCES
+
+(a) Any appliance regulated by the Appliance Efficiency Regulations, Title 20 California Code of Regulations, Section 1601 et seq., may be installed only if the appliance fully complies with Section 1608(a) of those regulations.
+
+(b) Except for those circumstances described in Section 110.1(c), conformance with efficiency levels required to comply with Part 6 mandatory, prescriptive and performance standards shall be verified utilizing data from either:
+
+1. The Energy Commission’s database of certified appliances maintained pursuant to Title 20 California Code of Regulations Section 1606, and which is available at: www.energy.ca.gov/appliances/database/; or
+
+2. An equivalent directory published by a federal agency; or
+
+3. An approved trade association directory as defined in Title 20 California Code of Regulations Section 1606(h).
+
+(c) Conformance with efficiency levels required to comply with Part 6 mandatory, prescriptive and performance standards shall be demonstrated either by default to the mandatory efficiency levels specified in Part 6 or by following procedures approved by the Commission pursuant to Section 10-109 of Title 24, Part 1, when:
+
+1. Data to verify conformance with efficiency levels required to comply with Part 6 mandatory, prescriptive and performance standards is not available pursuant to subdivision (b); or
+
+2. Field verification and diagnostic testing is required for compliance with Part 6 and the Energy Commission has not approved a field verification and diagnostic test protocol that is applicable to the appliance; or
+
+3. The appliance meets the requirements of Section 110.1(a) but has been site-modified in a way that affects its performance; or
+
+4. The U.S. Department of Energy has approved a waiver from federal test procedures, pursuant to 10 CFR Section 430.27 or Section 431.401 and that waiver fails to specify how the efficiency of the system shall be determined.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.2 MANDATORY REQUIREMENTS FOR SPACE-CONDITIONING EQUIPMENT
+
+Certification by manufacturers. Any space-conditioning equipment listed in this section may be installed only if the manufacturer has certified to the Commission that the equipment complies with all the applicable requirements of this section.
+
+(a)  Efficiency. Equipment shall meet the applicable efficiency requirements in Tables 110.2-A through 110.2-N, subject to the following:
+
+1. If more than one efficiency standard is listed for any equipment in Tables 110.2-A through 110.2-N, the equipment shall meet all the applicable standards that are listed; and
+
+2. If more than one test method is listed in Tables 110.2-A through 110.2-N, the equipment shall comply with the applicable efficiency standard when tested with each listed test method; and
+
+3. Where equipment serves more than one function, it shall comply with the efficiency standards applicable to each function; and
+
+4. Where a requirement is for equipment rated at its “maximum rated capacity” or “minimum rated capacity,” the capacity shall be as provided for and allowed by the controls, during steady-state operation.
+
+Exception 1 to Section 110.2(a): Water-cooled centrifugal water-chilling packages that are not designed for operation at ANSI/AHRI Standard 550/590 test conditions of 44°F leaving chilled water temperature and 85°F entering condenser water temperature with 3 gallons per minute per ton condenser water flow shall have a maximum full load kW/ton and NPLV ratings adjusted using the following equation:
+
+Adjusted maximum full-load kW/ton rating = (full-load kW/ton from Table 110.2-D)/Kadj
+
+Adjusted maximum NPLV rating = (IPLV from Table 110.2-D)/Kadj
+
+Where:
+
+Kadj = (A) × (B)
+
+A = 0.00000014592 × (LIFT)4– 0.0000346496 × (LIFT)3+ 0.00314196 × (LIFT)2 – 0.147199 × (LIFT) + 3.9302
+
+LIFT = LvgCond – LvgEvap (°F)
+
+LvgCond = Full-load leaving condenser fluid temperature (°F)
+
+LvgEvap = Full-load leaving evaporator fluid temperature (°F)
+
+B = (0.0015 × LvgEvap) + 0.934
+
+The adjusted full-load and NPLV values are only applicable for centrifugal chillers meeting all of the following full-load design ranges:
+
+• Minimum Leaving Evaporator Fluid Temperature: 36°F
+
+• Maximum Leaving Condenser Fluid Temperature: 115°F
+
+• LIFT ≥ 20°F and ≤ 80°F
+• Minimum Leaving Evaporator Fluid Temperature: 36°F
+
+• Maximum Leaving Condenser Fluid Temperature: 115°F
+
+• LIFT ≥ 20°F and ≤ 80°F
+
+Centrifugal chillers designed to operate outside of these ranges are not covered by this exception.
+
+Exception 2 to Section 110.2(a): Positive displacement (air-cooled and water-cooled) chillers with a leaving evaporator fluid temperature higher than 32°F shall show compliance with Table 110.2-D when tested or certified with water at standard rating conditions, per the referenced test procedure.
+
+Exception 3 to Section 110.2(a): Equipment primarily serving refrigerated warehouses or commercial refrigeration.
+
+(b) Controls for heat pumps with supplementary electric resistance heaters. Heat pumps with supplementary electric resistance heaters shall have controls:
+
+1. That prevent supplementary heater operation when the heating load can be met by the heat pump alone; and
+
+2. In which the cut-on temperature for compression heating is higher than the cut-on temperature for supplementary heating, and the cut-off temperature for compression heating is higher than the cut-off temperature for supplementary heating.
+
+Exception 1 to Section 110.2(b): The controls may allow supplementary heater operation during:
+
+A. Defrost; and
+
+B. Transient periods such as start-ups and following room thermostat setpoint advance, if the controls provide preferential rate control, intelligent recovery, staging, ramping or another control mechanism designed to preclude the unnecessary operation of supplementary heating.
+
+Exception 2 to Section 110.2(b): Room air-conditioner heat pumps.
+
+(c) Thermostats. All heating or cooling systems not controlled by a central energy management control system (EMCS) shall have a setback thermostat.
+
+1. Setback capabilities. All thermostats shall have a clock mechanism that allows the building occupant to program the temperature setpoints for at least four periods within 24 hours. Thermostats for heat pumps shall meet the requirements of Section 110.2(b).
+
+Exception to Section 110.2(c): Gravity gas wall heaters, gravity floor heaters, gravity room heaters, noncentral electric heaters, fireplaces or decorative gas appliances, wood stoves, room air conditioners and room air-conditioner heat pumps.
+
+(d) Gas-fired and oil-fired furnace standby loss controls. Gas-fired and oil-fired forced-air furnaces with input ratings ≥ 225,000 Btu/hr shall also have an intermittent ignition or interrupted device (IID), and have either power venting or a flue damper. A vent damper is an acceptable alternative to a flue damper for furnaces where combustion air is drawn from the conditioned space. All furnaces with input ratings ≥ 225,000 Btu/hr, including electric furnaces, that are not located within the conditioned space shall have jacket losses not exceeding 0.75 percent of the input rating.
+
+(e)Open and closed-circuit cooling towers. All open and closed cooling tower installations shall comply with the following:
+
+1. Be equipped with conductivity or flow-based controls that maximize cycles of concentration based on local water quality conditions. Controls shall automate system bleed and chemical feed based on conductivity, or in proportion to metered makeup volume, metered bleed volume, recirculating pump run time, or bleed time. Conductivity controllers shall be installed in accordance with manufacturer’s specifications in order to maximize accuracy.
+
+2. Documentation of maximum achievable cycles of concentration. Building owners shall document the maximum cycles of concentration based on local water supply as reported annually by the local water supplier, and using the calculator approved by the Energy Commission. The calculator is intended to determine maximum cycles based on a Langelier Saturation Index (LSI) of 2.5 or less. Building owner shall document maximum cycles of concentration on the mechanical compliance form which shall be reviewed and signed by the Professional Engineer (P.E.) of Record.
+
+3. Be equipped with a flow meter with an analog output for flow either hardwired or available through a gateway on the makeup water line.
+
+4. Be equipped with an overflow alarm to prevent overflow of the sump in case of makeup water valve failure. Overflow alarm shall send an audible signal or provide an alert via the energy management control system to the tower operator in case of sump overflow.
+
+5. Be equipped with efficient drift eliminators that achieve drift reduction to 0.002 percent of the circulated water volume for counter-flow towers and 0.005 percent for cross-flow towers.
+
+Exception to Section 110.2(e): Open and closed-circuit cooling towers with rated capacity < 150 tons.
+
+(f) Low leakage air-handling units. To qualify as a low leakage air-handling unit for use for meeting the requirements for applicable low leakage air-handling unit compliance credit(s) available in the performance standards set forth in Sections 150.1(b) and 140.1, the manufacturer shall certify to the Energy Commission that the air-handling unit meets the specifications in Reference Joint Appendix JA9.
+
+TABLE 110.2-A
+
+AIR CONDITIONERS AND CONDENSING UNITS – MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	EFFICIENCYa	TEST PROCEDUREb
+Air conditioners, air cooled both split system and single package	≥ 65,000 Btu/h and  < 135,000 Btu/h	11.2 EERa
+14.8 IEERa
+	ANSI/AHRI 340/360
+≥ 135,000 Btu/h and  < 240,000 Btu/h	11.0 EERa
+14.2 IEERa	ANSI/AHRI 340/360
+≥ 240,000 Btu/h and < 760,000 Btu/h	10.0 EERa
+13.2 IEERa
+≥ 760,000 Btu/h	9.7 EERa
+12.5 IEERa
+Air conditioners,water cooled	≥ 65,000 Btu/h and < 135,000 Btu/h	12.1 EERa 13.9 IEERa	ANSI/AHRI 340/360
+≥ 135,000 Btu/h and < 240,000 Btu/h	12.5 EERa 13.9 IEERa	ANSI/AHRI 340/360
+≥ 240,000 Btu/h and < 760,000 Btu/h	12.4 EERa 13.6 IEERa	ANSI/AHRI 340/360
+≥ 760,000 Btu/h	12.2 EERa 13.5 IEERa	ANSI/AHRI 340/360
+Air conditioners, evaporatively cooled	≥ 65,000 Btu/h and < 135,000 Btu/h	12.1 EERa 12.3 IEERa	ANSI/AHRI 340/360
+≥ 135,000 Btu/h and < 240,000 Btu/h	12.0 EERa 12.2 IEERa	ANSI/AHRI 340/360
+≥ 240,000 Btu/h and < 760,000 Btu/h	11.9 EERa 12.1 IEERa	ANSI/AHRI 340/360
+≥ 760,000 Btu/h	11.7 EERa 11.9 IEERa	ANSI/AHRI 340/360
+Condensing units,
+		air cooled	≥ 
+		135,000 Btu/h	10.5 EER 11.8 IEER	ANSI/AHRI 365
+Condensing units, water 
+		cooled	≥ 
+		135,000 Btu/h	13.5 EER 14.0 IEER
+Condensing units, evapora
+		tively cooled	≥ 
+		135,000 Btu/h	13.5 EER 14.0 IEERa.Deduct 0.2 from the required EERs and IEERs for units with a heating section other than electric resistance heat.
+
+b.Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-B
+
+HEAT PUMPS, MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	SUBCATEGORY OR RATING CONDITION	EFFICIENCYa	TEST PROCEDUREb
+Air cooled (cooling mode), both split system and single package	≥ 65,000 Btu/h and < 135,000 Btu/h		11.0 EER 14.1 IEER	AHRI 340/360
+≥ 135,000 Btu/h and < 240,000 Btu/h		10.6 EER 13.5 IEER
+≥ 240,000 Btu/h		9.5 EER
+		12.5 IEER
+Water source
+		(cooling mode)	≥ 65,000 Btu/h and < 135,000 Btu/h	86ºF entering water	13.0 EER	ISO-13256-1
+Groundwater source
+		(cooling mode)	< 135,000 Btu/h	59ºF entering water	18.0 EER	ISO-13256-1
+Ground source (cooling mode)	< 135,000 Btu/h	77ºF entering water	14.1 EER	ISO-13256-1
+Water source water-to-water (cooling mode)	< 135,000 Btu/h	86ºF entering water	10.6 EER	ISO-13256-2
+Groundwater source water-to-water (cooling mode)	< 135,000 Btu/h	59ºF entering water	16.3 EER	ISO-13256-2
+Ground source brine-to-water (cooling mode)	< 135,000 Btu/h	77ºF entering water	12.1 EER	ISO-13256-2
+Air cooled (heating mode) Split system and single package	≥ 65,000 Btu/h and < 135,000 Btu/h (cooling capacity)	47°F db/43°F wb outdoor air	3.4 COP	AHRI 340/360
+17°F db/15°F wb outdoor air	2.25 COP
+≥ 135,000 Btu/h and < 240,000 Btu/h (cooling capacity)	47°F db/43°F wb outdoor air	3.3 COP
+≥ 240,000 Btu/h and < 760,000 Btu/h	3.2 COP
+≥ 135,000 Btu/h (cooling capacity)	17°F db/15°F wb outdoor air	2.05 COP
+Water source
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	68ºF entering water	4.3 COP	ISO-13256-1
+≥ 135,000 Btu/h and < 240,000 Btu/h	68ºF entering water	2.90 COP	ISO-13256-1
+Groundwater source
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	50ºF entering water	3.7 COP	ISO-13256-1
+Ground source
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	32ºF entering water	3.2 COP	ISO-13256-1
+Water source water-to-water
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	68ºF entering water	3.7 COP	ISO-13256-2
+Groundwater source
+		water-to-water
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	50ºF entering water	3.1 COP	ISO-13256-2
+Ground source
+		brine-to-water
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	32ºF entering water	2.5 COP	ISO-13256-2a.Deduct 0.2 from the required EERs and IEERs for units with a heating section other than electric resistance heat.
+
+b.Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-C
+
+AIR-COOLED GAS-ENGINE HEAT PUMPS
+
+EQUIPMENT TYPE	SIZE CATEGORY	SUBCATEGORY OR RATING CONDITION	EFFICIENCY	TEST PROCEDUREa
+Air-cooled gas-engine heat pump (cooling mode)	All capacities	95°F db outdoor air	0.60 COP	ANSI Z21.40.4A
+Air-cooled gas-engine heat pump (heating mode)	All capacities	47°F db/43°F wb outdoor air	0.72 COP	ANSI Z21.40.4Aa. Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-D
+
+WATER CHILLING PACKAGES—MINIMUM EFFICIENCY REQUIREMENTSa, b
+
+EQUIPMENT TYPE	SIZE CATEGORY	PATH A EFFICIENCYa, b	PATH B EFFICIENCYa, b	TEST PROCEDUREc
+Air cooled, with condenser electrically operated	< 150 tons	≥ 10.100 EER ≥ 13.700 IPLV	≥ 9.700 EER ≥ 15.800 IPLV	AHRI 550/590
+≥ 
+		150 tons	≥ 
+		10.100 EER
+		≥ 14.000 
+		IPLV	≥ 
+		9.700 EER
+		≥ 16.100 
+		IPLV
+Air cooled, without condenser electrically operated	All capacities	Air-cooled chillers without condensers must be rated with matching condensers and comply with the air-cooled chiller efficiency requirements.	AHRI 550/590
+Water cooled, electrically
+		operated reciprocating	All capacities	Reciprocating units must comply with the water-cooled positive displacement efficiency requirements.	AHRI 550/590
+Water cooled, electrically operated, positive displacement	< 75 tons	≤ 0.750 kW/ton ≤ 0.600 IPLV	≤ 0.780 kW/ton ≤ 0.500 IPLV	AHRI 550/590
+≥ 75 tons and < 150 tons	≤ 0.720 kW/ton ≤ 0.560 IPLV	≤ 0.750 kW/ton ≤ 0.490 IPLV
+≥ 150 tons and < 300 tons	≤ 0.660 kW/ton ≤ 0.540 IPLV	≤ 0.680 kW/ton ≤ 0.440 IPLV
+≥ 300 tons and < 300 tons	≤ 0.610 kW/ton ≤ 0.520 IPLV	≤ 0.625 kW/ton ≤ 0.410 IPLV
+≥ 
+		600 tons	≤ 0.560 kW/ton ≤ 0.500 IPLV	≤ 0.585 kW/ton ≤ 0.380 IPLV
+Water cooled, electrically operated, centrifugal	> 150 ton	≤ 0.610 kW/ton ≤ 0.550 IPLV	≤ 0.695 kW/ton ≤ 0.440 IPLV
+≥ 150 tons and < 300 tons	≤ 0.610 kW/ton ≤ 0.550 IPLV	≤ 0.635 kW/ton ≤ 0.400 IPLV
+≥ 300 tons and < 400 tons	≤ 0.560 kW/ton ≤ 0.520 IPLV	≤ 0.595 kW/ton ≤ 0.390 IPLV
+≥ 400 tons and < 600 tons	≤ 0.560 kW/ton ≤ 0.500 IPLV	≤ 0.585 kW/ton ≤ 0.380 IPLV
+≥ 600 tons	≤ 0.560 kW/ton ≤ 0.500 IPLV	≤ 0.585 kW/ton ≤ 0.380 IPLV
+Air cooled absorption single 
+		effect	All capacities	≥ 0.600 COP	N.A.d	AHRI 560
+Water cooled absorption single 
+		effect	All capacities	≥ 0.700 COP	N.A.d
+Absorption double effect, indirect-fired	All capacities	≥ 1.000 COP ≥ 1.050 IPLV	N.A.d
+Absorption double effect, direct-fired	All capacities	≥ 1.000 COP ≥ 1.000 IPLV 	N.A.d
+Water cooled gas engine driven chiller	All capacities	≥ 1.2 COP ≥ 2.0 IPLV	N.A.d	ANSI Z21.40.4a. No requirements for:
+
+• Centrifugal chillers with design leaving evaporator temperature < 36°F; or
+
+• Positive displacement chillers with design leaving fluid temperature ≤ 32°F; or
+
+• Absorption chillers with design leaving fluid temperature < 40°F.
+• Centrifugal chillers with design leaving evaporator temperature < 36°F; or
+
+• Positive displacement chillers with design leaving fluid temperature ≤ 32°F; or
+
+• Absorption chillers with design leaving fluid temperature < 40°F.
+
+b. Must meet the minimum requirements of Path A or Path B. However, both the full load (COP) and IPLV must be met to fulfill the requirements of the applicable path.
+
+c. See Section 100.1 for definitions.
+
+d. N.A. means not applicable.
+
+TABLE 110.2-E
+
+PACKAGED TERMINAL AIR CONDITIONERS AND PACKAGED TERMINAL HEAT PUMPS— MINIMUM EFFICIENCY REQUIREMENTS
+
+	EQUIPMENT TYPE	SIZE CATEGORY (Input)	SUBCATEGORY OR RATING CONDITION	EFFICIENCY	TEST PROCEDUREc
+	PTAC (cooling mode) Newly constructed or newly conditioned buildings or additions	All capacities	95°F db outdoor air	14.0 - (0.300 × Cap/1000)a EER	ANSI/AHRI/CSA 310/380
+	PTAC (cooling mode) Replacementsb	All capacities	95°F db outdoor air	10.9 - (0.213 × Cap/1000)a EER
+	PTHP (cooling mode) Newly constructed or newly conditioned buildings or additions	All capacities	95°F db outdoor air	14.0 - (0.300 × Cap/1000)a EER
+	PTHP (cooling mode) Replacementsb	All capacities	95°F db outdoor air	10.8 - (0.213 × Cap/1000)a EER
+	PTHP (heating mode) Newly constructed or newly conditioned buildings or additions	All capacities	—	3.7 - (0.052 × Cap/1000)a COP
+	PTHP (heating mode) Replacementsb	All capacities	—	2.9 - (0.026 × Cap/1000)a COP
+>	SPVAC (cooling mode)	< 65,000 Btu/h	95°F db/75°F wb outdoor air	11.0 EER	ANSI/AHRI 390
+≥ 65,000 Btu/h and < 135,000 Btu/h	95°F db/75°F wb outdoor air	10.0 EER
+≥ 135,000 Btu/h and < 240,000 Btu/h	95°F db/75°F wb outdoor air	10.0 EER
+>	SPVHP (cooling mode)	< 65,000 Btu/h	95°F db/75°F wb outdoor air	11.0 EER
+≥ 65,000 Btu/h and < 135,000 Btu/h	95°F db/75°F wb outdoor air	10.0 EER
+≥ 135,000 Btu/h and < 240,000 Btu/h	95°F db/75°F wb outdoor air	10.0 EER
+>	SPVHP (heating mode)	< 65,000 Btu/h	47°F db/43°F wb outdoor air	3.3 COP
+≥ 65,000 Btu/h and < 135,000 Btu/h	47°F db/43°F wb outdoor air	3.0 COP
+≥ 135,000 Btu/h and < 240,000 Btu/h	47°F db/43°F wb outdoor air	3.0 COPa. Cap means the rated cooling capacity of the product in Btu/h. If the unit’s capacity is less than 7,000 Btu/h, use 7,000 Btu/h in the calculation. If the unit’s capacity is greater than 15,000 Btu/h, use 15,000 Btu/h in the calculation.
+
+b. Replacement units must be factory labeled as follows: “MANUFACTURED FOR REPLACEMENT APPLICATIONS ONLY; NOT TO BE INSTALLED IN NEWLY CONSTRUCTED BUILDINGS.” Replacement efficiencies apply only to units with existing sleeves less than 16 inches high or less than 42 inch wide and having a cross-sectional area less than 670 square inches.
+
+c. Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-F
+
+PERFORMANCE REQUIREMENTS FOR HEAT REJECTION EQUIPMENT
+
+	EQUIPMENT TYPE	TOTAL SYSTEM HEAT
+		REJECTION CAPACITY AT
+		RATED CONDITIONS	SUBCATEGORY OR
+		RATING CONDITION	PERFORMANCE
+		REQUIREDa, b, c, d	TEST PROCEDUREe
+	Propeller or axial fan open-circuit cooling towers	All	95°F entering water 85°F leaving water 75°F entering air wb	≥ 42.1 gpm/hp	CTI ATC-105 and CTI STD-201 RS
+	Centrifugal fan open-circuit cooling towers	All	95°F entering water 85°F leaving water 75°F entering air wb	≥ 20.0 gpm/hp
+	Propeller or axial fan closed circuit cooling towers	All	102°F entering water 90°F leaving water 75°F entering air wb	≥ 16.1 gpm/hp	CTI ATC-105Sand
+		CTI STD-201 RS
+	Centrifugal fan closed-circuit cooling towers	All	102°F entering water 90°F leaving water 75°F entering air wb	≥ 7.0 gpm/hp
+	Propeller or axial fan evaporative condensers	All	R-448A test fluid 165°F entering gas temp 105°F condensing temp 75°F entering air wb	≥ 157,000 Btu/h · hp	CTI ATC-106
+	All	Ammonia test fluid 140°F entering gas temp 96.3°F condensing temp 75°F entering air wb	≥ 134,000 Btu/h · hp
+	Centrifugal fan evaporative condensers	All	R-448A test fluid 165°F entering gas temp 105°F condensing temp 75°F entering air wb	≥ 135,000 Btu/h · hp
+>	All	Ammonia test fluid 140°F entering gas temp 96.3°F condensing temp 75°F entering air wb	≥ 110,000 Btu/h · hp
+>	Air cooled condensers	All	125°F condensing temperature 190°F entering gas temperature 15°F subcooling 95°F entering dry-bulb	≥ 176,000 Btu/h·hp	AHRI 460
+	Propeller or axial fan dry coolers (air-cooled fluid coolers)	All	115°F entering water 105°F leaving water 95°F entering air db	≥ 
+		4.5 gpm/hp	CTI ATC-105DSa.For purposes of this table, open-circuit cooling tower performance is defined as the water flow rating of the tower at the given rated conditions divided by the fan motor nameplate power.
+
+b.For purposes of this table, closed-circuit cooling tower performance is defined as the process water flow rating of the tower at the given rated conditions divided by the sum of the fan motor nameplate rated power and the integral spray pump motor nameplate power.
+
+c.For purposes of this table, dry cooler performance is defined as the process water flow rating of the unit at the given thermal rating condition divided by the total fan motor nameplate power of the unit and air-cooled condenser performance is defined as the heat rejected from the refrigerant divided by the fan motor nameplate power of the unit.
+
+d.Open cooling towers shall be tested using the test procedures in CTI ATC-105. Performance of factory-assembled open cooling towers shall be either certified as base models as specified in CTI STD-201 or verified by testing in the field by a CTI approved testing agency. Open factory assembled cooling towers with custom options added to a CTI certified base model for the purpose of safe maintenance or to reduce environmental or noise impact shall be rated at 90 percent of the CTI certified performance of the associated base model or at the manufacturer’s stated performance, whichever is less. Base models of open factory-assembled cooling towers are open cooling towers configured in exact accordance with the Data of Record submitted to CTI as specified by CTI STD-201. There are no certification requirements for field-erected cooling towers.
+
+e.Applicable test procedure and reference year are provided under the definitions. For refrigerated warehouses or commercial refrigeration applications, condensers shall comply with requirements specified by Section 120.6(a) or Section 120.6(b).
+
+TABLE 110.2-G
+
+ELECTRICALLY OPERATED VARIABLE REFRIGERANT FLOW (VRF) AIR CONDITIONERS MINIMUM EFFICIENCY REQUIREMENTS
+
+	EQUIPMENT TYPE	SIZE CATEGORY	HEATING
+		SECTION TYPE	SUBCATEGORY OR
+		RATING CONDITION	MINIMUM
+		EFFICIENCY	TEST
+		PROCEDUREa
+	VRF Air conditioners, Air cooled	< 65,000 Btu/h	All	VRF multisplit system	13.0 SEER	AHRI 1230
+	≥ 65,000 Btu/h and < 135,000 Btu/h	Electric resistance (or none)	VRF multisplit system	11.2 EER 15.5 IEERb
+>	≥ 135,000 Btu/h and
+		< 240,000 Btu/h	Electric resistance (or none)	VRF multisplit system	11.0 EER 14.9 IEERb
+	≥ 
+		240,000 Btu/h	Electric resistance (or none)	VRF multisplit system	10.0 EER 13.9 IEERba.Applicable test procedure and reference year are provided under the definitions.
+
+b.IEERs are only applicable to equipment with capacity control as specified in ANSI/AHRI 1230 test procedures.
+
+TABLE 110.2-H
+
+ELECTRICALLY OPERATED VARIABLE REFRIGERANT FLOW AIR-TO-AIR AND APPLIED HEAT PUMPS—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	HEATING SECTION TYPE	SUBCATEGORY OR RATING CONDITION	MINIMUM EFFICIENCY	TEST PROCEDUREa, b
+VRF Air cooled (cooling mode)	< 65,000 Btu/h	All	VRF multisplit system	13.0 SEER	AHRI 1230
+≥ 65,000 Btu/h and < 135,000 Btu/h	Electric resistance (or none)	VRF multisplit systema	11.0 EER 14.6 IEERc
+≥ 135,000 Btu/h and < 240,000 Btu/h	Electric resistance (or none)	VRF multisplit systema	10.6 EER 13.9 IEER c
+≥ 
+		240,000 Btu/h	Electric resistance
+		(or none)	VRF multisplit systema	9.5 EER 12.7 IEER c
+VRF Water source  (cooling mode)	< 65,000 Btu/h	All	VRF multisplit systema 86ºF entering water	12.0 EER 16.0 IEERc	AHRI 1230
+≥ 65,000 Btu/h and < 135,000 Btu/h	All	VRF multisplit systema86ºF entering water	12.0 EER 16.0 IEERc
+≥ 135,000 Btu/h and < 240,000 Btu/h	All	VRF multisplit systema 86ºF entering water	 10.0 EER 14.0 IEERc
+≥ 
+		240,000 Btu/h	All	VRF multisplit systema
+86ºF entering water	10.0 EER
+		12.0 IEER
+VRF Groundwater source (cooling mode)	< 135,000 Btu/h	All	VRF multisplit systema 59ºF entering water	16.2 EER	AHRI 1230
+≥ 135,000 Btu/h	All	VRF multisplit systema
+59ºF entering water	13.8 EER
+VRF Ground source
+		(cooling mode)	< 135,000 Btu/h	All	VRF multisplit systema
+77ºF entering water	13.4 EER	AHRI 1230
+≥ 
+		135,000 Btu/h	All	VRF multisplit systema
+77ºF entering water	11.0 EER
+VRF Air cooled
+		(heating mode)	< 65,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system	7.7 HSPF	AHRI 1230
+≥ 65,000 Btu/h and < 135,000 Btu/h (cooling capacity)	—	VRF multisplit system
+		47ºF db/43ºF wb outdoor air	3.3 COP
+—	VRF multisplit system
+		17ºF db/15ºF wb outdoor air	2.25 COP
+≥ 135,000 Btu/h (cooling capacity)	—	VRF multisplit system
+		47ºF db/43ºF wb outdoor air	3.2 COP
+—	VRF multisplit system
+		17ºF db/15ºF wb outdoor air	2.05 COP
+VRF Water source
+		(heating mode)	< 65,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system
+		68ºF entering water	4.3 COP	AHRI 1230
+≥ 65,000 Btu/h and < 135,000 Btu/h (cooling capacity)	—	VRF multisplit system
+		68ºF entering water	4.3 COP
+≥ 135,000 Btu/h and < 240,000 Btu/h (cooling capacity)	—	VRF multisplit system
+		68ºF entering water	4.0 COP
+≥ 240,000 Btu/h (cooling capacity)	—	VRF multisplit system
+		68ºF entering water	3.9 COP
+VRF Groundwater
+		source
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system
+		50ºF entering water	3.6 COP	AHRI 1230
+≥ 
+		135,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system
+		50ºF entering water	3.3 COP
+VRF Ground source
+		(heating mode)	< 135,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system
+		32ºF entering water	3.1 COP	AHRI 1230
+≥ 
+		135,000 Btu/h
+		(cooling capacity)	—	VRF multisplit system
+		32ºF entering water	2.8 COPa.Deduct 0.2 from the required EERs and IEERs for variable refrigerant flow (VRF) multisplit system units with a heating recovery section.
+
+b.Applicable test procedure and reference year are provided under the definitions.
+
+c.IEERs are only applicable to equipment with capacity control as specified in ANSI/AHRI 1230 test procedures.
+
+TABLE 110.2-I
+
+WARM-AIR FURNACES AND COMBINATION WARM-AIR FURNACES/AIR-CONDITIONING UNITS, WARM-AIR DUCT FURNACES AND UNIT HEATERSc, f
+
+EQUIPMENT TYPE	SIZE CATEGORY (Input)	SUBCATEGORY OR RATING CONDITIONb	MINIMUM EFFICIENCYd, e	TEST PROCEDUREa
+Warm-Air furnace, gas-fired	≥ 
+		225,000 Btu/h	Maximum capacity	81% 
+		Et	Section 2.39, Thermal 
+		Efficiency, ANSI Z21.47
+Warm-Air furnace, oil-fired 	≥ 
+		225,000 Btu/h	Maximum capacity	82% 
+		Et	Section 42, Combustion, UL 727
+Warm-Air duct furnaces, 
+		gas-fired	All capacities	Maximum capacity	80% 
+		Ec	Section 2.10, Efficiency, ANSI Z83.8
+Warm-Air unit heaters, 
+		gas-fired	All capacities	Maximum capacity	80% 
+		Ec	Section 2.10, Efficiency, ANSI Z83.8
+Warm-Air unit heaters, 
+		oil-fired	All capacities	Maximum capacity	80% 
+		Ec	Section 40, Combustion, UL 731a.Applicable test procedure and reference year are provided under the definitions.
+
+b.Compliance of multiple firing rate units shall be at maximum firing rate.
+
+c.Combustion units not covered by the U.S. Department of Energy Code of Federal Regulations 10 CFR 430 (3-phase power or cooling capacity greater than or equal to 19 kW) may comply with either rating.
+
+d.Et = thermal efficiency. Units must also include an interrupted or intermittent ignition device (IID), have jacket losses not exceeding 0.75% of the input rating, and have either power venting or a flue damper. A vent damper is an acceptable alternative to a flue damper for those furnaces where combustion air is drawn from the conditioned space.
+
+e.Ec = combustion efficiency (100% less flue losses). See test procedure for detailed discussion.
+
+f.As of August 8, 2008, according to the Energy Policy Act of 2005, units must also include an interrupted or intermittent ignition device (IID) and have either power venting or an automatic flue damper.
+
+TABLE 110.2-J
+
+GAS- AND OIL-FIRED BOILERS, MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SUBCATEGORY	SIZE CATEGORY (Input)	MINIMUM EFFICIENCYb, c	 TEST PROCEDUREa
+Before 1/10/2023	On or After 1/10/2023f
+Boiler, hot water	Gas-Fired	< 300,000 Btu/h	82% AFUE	82% AFUE	DOE 10 CFR Part 430
+≥ 300,000 Btu/h and ≤ 2,500,000 Btu/hd	80% 
+		Et	80% 
+		Et	DOE 10 CFR Part 431
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/he	82% 
+		Ec	85% 
+		Ec
+> 10,000,000 Btu/h	82% 
+		Ec	82% 
+		Ec
+Oil-Firede	< 300,000 Btu/h	84% AFUE	84% AFUE	DOE 10 CFR Part 430
+≥ 300,000 Btu/h and  ≤ 2,500,000 Btu/hd	82% 
+		Et	87% 
+		Et	DOE 10 CFR Part 431
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/he	84% 
+		Ec	88% 
+		Ec
+> 10,000,000 Btu/h	84% 
+		Ec	84% 
+		Ec
+Boiler, steam	Gas-Fired	< 300,000 Btu/h	80% AFUE	80% AFUE	DOE 10 CFR Part 430
+≥ 
+		300,000 Btu/h and ≤ 2,500,000 Btu/h		81% 
+		Et	DOE 10 CFR Part 431
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/h		82% 
+		Et
+> 10,000,000 Btu/h		79% 
+		Et
+Gas-Fired all, except natural draftf	≥ 300,000 Btu/h and ≤ 2,500,000 Btu/hd	79% 
+		Et	81% 
+		Et
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/he	79% 
+		Et	82% 
+		Et
+> 10,000,000 Btu/h	79% 
+		Et	79% 
+		Et
+Gas-Fired,
+		natural draftf	≥ 300,000 Btu/h and ≤ 2,500,000 Btu/hd	77% 
+		Et	81% 
+		Et
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/he	77% 
+		Et	82% 
+		Et
+> 10,000,000 Btu/h	77% 
+		Et	79% 
+		Et
+Oil-Firede	< 300,000 Btu/h	82% AFUE	82% AFUE
+≥ 300,000 Btu/h and ≤ 2,500,000 Btu/hd	81% 
+		Et	84% 
+		Et
+> 2,500,000 Btu/h and ≤ 10,000,000 Btu/he	81% 
+		Et	85% 
+		Et
+> 10,000,000 Btu/h	81% 
+		Et	81% 
+		Eta.Applicable test procedure and reference year are provided under the definitions.
+
+b.Ec = combustion efficiency (100% less flue losses). See test procedure for detailed information.
+
+c.Et = thermal efficiency. See test procedure for detailed information.
+
+d.Maximum capacity—maximum rating per the certified unit capacity.
+
+e.Included oil-fired (residual).
+
+f.Federal efficiency standards do not distinguish between natural draft gas-fired steam boilers and other gas-fired steam boilers on or after January 10, 2023.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 110.2-K
+
+DX-DOAS UNITS, SINGLE-PACKAGE AND REMOTE CONDENSER—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT
+		TYPE	ENERGY RECOVERY	 SUBCATEGORY OR RATING CONDITION	 MINIMUM EFFICIENCY	TEST PROCEDUREa
+Air cooled
+		(dehumidification mode)	Without energy recovery 
+				4.0 ISMRE	AHRI 920
+Air source heat pumps (dehumidification mode)	Without energy recovery 
+				4.0 ISMRE	AHRI 920
+Water cooled (dehumidification mode)	Without energy recovery 
+			Cooling tower condenser water
+			4.9 ISMRE	AHRI 920
+Without energy recovery 
+			Chilled water	6.0 ISMRE	AHRI 920
+Water source heat pump (dehumidification mode)	Without energy recovery 
+			Ground source, closed loop
+			4.8 ISMRE	AHRI 920
+Without energy recovery 
+			Ground-water source 
+			5.0 ISMRE	AHRI 920
+Without energy recovery 
+			Water source	4.0 ISMRE	AHRI 920
+Air source heat pumps (heating mode)	Without energy recovery 
+				2.7 ISCOP	AHRI 920
+Water source heat pump (heating mode)	Without energy recovery 
+			Ground source, closed loop
+			2.0 ISCOP	AHRI 920
+Without energy recovery 
+			Ground-water source 
+			3.2 ISCOP	AHRI 920
+Without energy recovery 
+			Water source	3.5 ISCOP	AHRI 920
+Air cooled
+		(dehumidification mode)	With energy recovery 
+				5.2 ISMRE	AHRI 920
+Air source heat pumps (dehumidification mode)	With energy recovery 
+				5.2 ISMRE	AHRI 920
+Water cooled (dehumidification mode)	With energy recovery 
+			Cooling tower condenser water
+			5.3 ISMRE	AHRI 920
+Water cooled
+		(dehumidification mode)	With energy recovery 
+			Chilled water	6.6 ISMRE	AHRI 920
+Water source heat pump (dehumidification mode)	With energy recovery 
+			Ground source, closed loop
+			5.2 ISMRE	AHRI 920
+With energy recovery 
+			Ground-water source 
+			5.8 ISMRE	AHRI 920
+With energy recovery 
+			Water source	4.8 ISMRE	AHRI 920
+Air source heat pumps
+		(heating mode)	With energy recovery 
+				3.3 ISCOP	AHRI 920
+Water source heat pump (heating mode)	With energy recovery 
+			Ground source, closed loop
+			3.8 ISCOP	AHRI 920
+With energy recovery 
+			Ground-water source 
+			4.0 ISCOP	AHRI 920
+With energy recovery 
+			Water source	4.8 ISCOP	AHRI 920a.Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-L
+
+FLOOR-MOUNTED AIR CONDITIONERS AND CONDENSING UNITS SERVING COMPUTER ROOMS—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	STANDARD MODEL	NET SENSIBLE
+		COOLING CAPACITY	MINIMUM NET
+		SENSIBLE COP	RATING CONDITIONS RETURN AIR (dry bulb/dew point)	TEST PROCEDUREa
+Air cooled	Downflow	< 80,000 Btu/h	2.70	85°F/52°F (Class 2)	AHRI 1360
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.58
+≥ 295,000 Btu/h	2.36
+Upflow—ducted	< 80,000 Btu/h	2.67
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.55
+≥ 295,000 Btu/h	2.33
+Upflow—nonducted	< 65,000 Btu/h	2.16	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.04
+≥ 240,000 Btu/h	1.89
+Horizontal	< 65,000 Btu/h	2.65	95°F/52°F (Class 3)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.55
+≥ 240,000 Btu/h	2.47
+Air cooled with fluid economizer	Downflow	< 80,000 Btu/h	2.70	85°F/52°F (Class 2)	AHRI 1360
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.58
+≥ 295,000 Btu/h	2.36
+Upflow—ducted	< 80,000 Btu/h	2.67
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.55
+≥ 295,000 Btu/h	2.33
+Upflow—nonducted	< 65,000 Btu/h	2.09	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	1.99
+≥ 240,000 Btu/h	1.81
+Horizontal	< 65,000 Btu/h	2.65	95°F/52°F (Class 3)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.55
+≥ 240,000 Btu/h	2.47
+Water cooled	Downflow	< 80,000 Btu/h	2.82	85°F/52°F (Class 2)	AHRI 1360
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.73
+≥ 295,000 Btu/h	2.67
+Upflow—ducted	< 80,000 Btu/h	2.79
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.70
+≥ 295,000 Btu/h	2.64
+Upflow—nonducted	< 65,000 Btu/h	2.43	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.32
+≥ 240,000 Btu/h	2.20
+Horizontal	< 65,000 Btu/h	2.79	95°F/52°F (Class 3)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.68
+≥ 240,000 Btu/h	2.60
+Water cooled with fluid economizer	Downflow	< 80,000 Btu/h	2.77	85°F/52°F (Class 2)	AHRI 1360
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.68
+≥ 295,000 Btu/h	2.61
+Upflow—ducted	< 80,000 Btu/h	2.74
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.65
+≥ 295,000 Btu/h	2.58
+Upflow—nonducted	< 65,000 Btu/h	2.35	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.24
+≥ 240,000 Btu/h	2.12
+Horizontal	< 65,000 Btu/h	2.71	95°F/52°F (Class 3)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.60
+≥ 240,000 Btu/h	2.54
+Glycol cooled	Downflow	< 80,000 Btu/h	2.56	85°F/52°F (Class 2)	AHRI 1360
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.24
+≥ 295,000 Btu/h	2.21
+Upflow—ducted	< 80,000 Btu/h	2.53
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.21
+≥ 295,000 Btu/h	2.18
+Upflow—nonducted	< 65,000 Btu/h	2.08	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	1.90
+≥ 240,000 Btu/h	1.81
+Glycol cooled with fluid economizer	Horizontal	< 65,000 Btu/h	2.48	95°F/52°F (Class 3)	AHRI 1360
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.18
+≥ 240,000 Btu/h	2.18
+Downflow	< 80,000 Btu/h	2.51	85°F/52°F (Class 2)
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.19
+≥ 295,000 Btu/h	2.15
+Upflow—ducted	< 80,000 Btu/h	2.48
+≥ 80,000 Btu/h and < 295,000 Btu/h	2.16
+≥ 295,000 Btu/h	2.12
+Upflow—nonducted	< 65,000 Btu/h	2.00	75°F/52°F (Class 1)
+≥ 65,000 Btu/h and < 240,000 Btu/h	1.82
+≥ 240,000 Btu/h	1.73
+Horizontal	< 65,000 Btu/h	2.44	95°F/52°F (Class 3)
+≥ 65,000 Btu/h and < 240,000 Btu/h	2.10
+≥ 240,000 Btu/h	2.10For SI: 1 British thermal unit per hour = 0.2931 W, °C = [(°F) – 32]/1.8, COP = (Btu/h × hp)/(2,550.7).
+
+a.Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-M
+
+CEILING-MOUNTED AIR CONDITIONERS AND CONDENSING UNITS SERVING COMPUTER ROOMS—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	STANDARD MODEL	NET SENSIBLE
+		COOLING CAPACITY	MINIMUM NET
+		SENSIBLE COP	RATING CONDITIONS
+		RETURN AIR
+		(dry bulb/dew point)	TEST PROCEDUREa
+Air cooled with free air discharge condenser	Ducted	< 29,000 Btu/h	2.05	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.02
+≥ 65,000 Btu/h	1.92
+Nonducted	< 29,000 Btu/h	2.08
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.05
+≥ 65,000 Btu/h	1.94
+Air cooled with free air discharge condenser with fluid economizer	Ducted	< 29,000 Btu/h	2.01	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.97
+≥ 65,000 Btu/h	1.87
+Nonducted	< 29,000 Btu/h	2.04
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.00
+≥ 65,000 Btu/h	1.89
+Air cooled with ducted condenser	Ducted	< 29,000 Btu/h	1.86	75°F/52°F (Class 1)	AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.83
+≥ 65,000 Btu/h	1.73
+Nonducted	< 29,000 Btu/h	1.89
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.86
+≥ 65,000 Btu/h	1.75
+Air cooled with fluid economizer and ducted condenser	Ducted	< 29,000 Btu/h	1.82	75°F/52°F (Class 1)	AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.78
+≥ 65,000 Btu/h	1.68
+Nonducted	< 29,000 Btu/h	1.85
+≥ 29,000 Btu/h and
+		< 65,000 Btu/h	1.81
+≥ 65,000 Btu/h	1.70
+Water cooled	Ducted	< 29,000 Btu/h	2.38	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.38
+≥ 65,000 Btu/h	2.18
+Nonducted	< 29,000 Btu/h	2.41
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.31
+≥ 65,000 Btu/h	2.20
+Water cooled with fluid economizer	Ducted	< 29,000 Btu/h	2.33	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.23
+≥ 65,000 Btu/h	2.13
+Nonducted	< 29,000 Btu/h	2.36
+≥ 29,000 Btu/h and < 65,000 Btu/h	2.26
+≥ 65,000 Btu/h	2.16
+Glycol cooled	Ducted	< 29,000 Btu/h	1.97	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.93
+≥ 65,000 Btu/h	1.78
+Nonducted	< 29,000 Btu/h	2.00
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.98
+≥ 65,000 Btu/h	1.81
+Glycol cooled with fluid economizer	Ducted	< 29,000 Btu/h	1.92	75°F/52°F (Class 1) 
+			AHRI 1360
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.88
+≥ 65,000 Btu/h	1.73
+Nonducted	< 29,000 Btu/h	1.95
+≥ 29,000 Btu/h and < 65,000 Btu/h	1.93
+≥ 65,000 Btu/h	1.76For SI: 1 British thermal unit per hour = 0.2931 W, °C = [(°F) – 32]/1.8, COP = (Btu/h × hp)/(2,550.7).
+
+a.Applicable test procedure and reference year are provided under the definitions.
+
+TABLE 110.2-N
+
+HEAT-PUMP AND HEAT RECOVERY CHILLER PACKAGES—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY, tons	COOLING-ONLY OPERATION COOLING EFFICIENCYa FULL LOAD EFFICIENCY (EER OR kW/ton) IPLV (EER OR kW/ton)	HEATING OPERATION
+HEATING SOURCE CONDITIONSd, e	HEAT-PUMP HEATING FULL-LOAD EFFICIENCY (COPH)b	HEAT RECOVERY CHILLER FULL-LOAD EFFICIENCY (COPHR)b, c SIMULTANEOUS COOLING AND HEATING FULL-LOAD EFFICIENCY (COPSHC)b	Test Procedure
+Leaving Heating Water Temperature	Leaving Heating Water Temperature
+Low	Medium	High	Boost	Low	Medium	High	Boost
+Path A	Path B	105°F	120°F	140°F	140°F	105°F	120°F	140°F	140°F
+Air source	All sizes	≥ 9.595 EER ≥ 13.02 IPLV	≥ 9.215 EER ≥ 15.01 IPLV	47 db 43 wbe	≥ 3.290	≥ 2.770	≥ 2.310	NA	NA	NA	NA	NA	AHRI 550/590
+≥ 9.595 EER ≥ 13.30 IPLV	≥ 9.215 EER ≥ 15.30 IPLV	17 db 15 wbe	≥ 2.230	≥ 1.950	≥ 1.630	NA	NA	NA	NA	NA
+Water-source electrically operated positive displacement	< 75	≤ 0.7885 kW/ton ≤ 0.6316 IPLV	≤ 0.7875 kW/ton ≤ 0.5145 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA	AHRI 550/590
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 75 and < 150	≤ 0.7579 kW/ton ≤ 0.5895 IPLV	≤ 0.7140 kW/ton ≤ 0.4620 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 150 and < 300	≤ 0.6947 kW/ton ≤ 0.5684 IPLV	≤ 0.7140 kW/ton ≤ 0.4620 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 300 and < 600	≤ 0.6421 kW/ton ≤ 0.5474 IPLV	≤ 0.6563 kW/ton ≤ 0.4305 IPLV	54/44f	≥ 4.930	≥ 3.960	≥ 2.970	NA	≥ 8.900	≥ 6.980	≥ 5.000	NA
+75/65f	NA	NA	NA	≥ 3.900	NA	NA	NA	≥ 6.850
+≥ 600	≤ 0.5895 kW/ton ≤ 0.5263 IPLV	≤ 0.6143 kW/ton ≤ 0.3990 IPLV	54/44f	≥ 4.930	≥ 3.960	≥ 2.970	NA	≥ 8.900	≥ 6.980	≥ 5.000	NA
+75/65f	NA	NA	NA	≥ 3.900	NA	NA	NA	≥ 6.850
+Water-source electrically operated centrifugal	< 75	≤ 0.6421 kW/ton ≤ 0.5789 IPLV	≤ 0.7316 kW/ton ≤ 0.4632 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA	AHRI 550/590
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 75 and < 150	≤ 0.5895 kW/ton ≤ 0.5474 IPLV	≤ 0.6684 kW/ton ≤ 0.4211 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 150 and < 300	≤ 0.5895 kW/ton ≤ 0.5263 IPLV	≤ 0.6263 kW/ton ≤ 0.4105 IPLV	54/44f	≥ 4.640	≥ 3.680	≥ 2.680	NA	≥ 8.330	≥ 6.410	≥ 4.420	NA
+75/65f	NA	NA	NA	≥ 3.550	NA	NA	NA	≥ 6.150
+≥ 300 and < 600	≤ 0.5895 kW/ton ≤ 0.5263 IPLV	≤ 0.6158 kW/ton ≤ 0.4000 IPLV	54/44f	≥ 4.930	≥ 3.960	≥ 2.970	NA	≥ 8.900	≥ 6.980	≥ 5.000	NA
+75/65f	NA	NA	NA	≥ 3.900	NA	NA	NA	≥ 6.850
+≥ 600	≤ 0.5895 kW/ton ≤ 0.5263 IPLV	≤ 0.6158 kW/ton ≤ 0.4000 IPLV	54/44f	≥ 4.930	≥ 3.960	≥ 2.970	NA	≥ 8.900	≥ 6.980	≥ 5.000	NA
+75/65f	NA	NA	NA	≥ 3.900	NA	NA	NA	≥ 6.850a.Cooling-only rating conditions are standard rating conditions defined in AHRI 550/590, Table 1.
+
+b.Heating full-load rating conditions are at rating conditions defined in AHRI 550/590, Table 1.
+
+c.For water-cooled heat recovery chillers that have capabilities for heat rejection to a heat recovery condenser and a tower condenser, the COP applies to operation at full load with 100 percent heat recovery (no tower rejection). Units that only have capabilities for partial heat recovery shall meet the requirements of Table 110.2-D.
+
+d.Outdoor air entering dry-bulb (db) temperature and wet-bulb (wb) temperature.
+
+e. Source-water entering and leaving water temperature.
+
+SECTION 110.3 MANDATORY REQUIREMENTS FOR SERVICE
+WATER-HEATING SYSTEMS AND EQUIPMENT
+
+(a) Certification by manufacturers. Any service waterheating system or equipment may be installed only if the manufacturer has certified that the system or equipment complies with all of the requirements of this subsection for that system or equipment.
+
+1. Temperature controls for service water-heating systems. Service water-heating systems shall be equipped with automatic temperature controls capable of adjustment from the lowest to the highest acceptable temperature settings for the intended use as listed in Table 3, Chapter 50 of the ASHRAE Handbook, HVAC Applications Volume or Table 613.1 of the California Plumbing Code for healthcare facilities.
+
+Exception to Section 110.3(a)1: Residential occupancies.
+
+(b) Efficiency. Equipment shall meet the applicable requirements of the Appliance Efficiency Regulations as required by Section 110.1, subject to the following:
+
+1. If more than one standard is listed in the Appliance Efficiency Regulations, the equipment shall meet all the standards listed; and
+
+2. If more than one test method is listed in the Appliance Efficiency Regulations, the equipment shall comply with the applicable standard when tested with each test method; and
+
+3. Where equipment can serve more than one function, such as both heating and cooling, or both space heating and water heating, it shall comply with all the requirements applicable to each function; and
+
+4. Where a requirement is for equipment rated at its “maximum rated capacity” or “minimum rated capacity,” the capacity shall be as provided for and allowed by the controls, during steady-state operation.
+
+(c) Installation. Any service water-heating system or equipment may be installed only if the system or equipment complies with all of the applicable requirements of this subsection for the system or equipment.
+
+1. Outlet temperature controls. On systems that have a total capacity greater than 167,000 Btu/hr, outlets that require higher than service water temperatures as listed in the ASHRAE Handbook, Applications Volume, shall have separate remote heaters, heat exchangers or boosters to supply the outlet with the higher temperature.
+
+Exception to Section 110.3(c)1: Systems covered by California Plumbing Code Section 613.0 shall instead follow the requirements of that section.
+
+2. Controls for hot water distribution systems. Service hot water systems with circulating pumps or with electrical heat trace systems shall be capable of automatically turning off the system.
+
+Exception to Section 110.3(c)2: Systems serving healthcare facilities.
+
+3.Insulation. Unfired service water heater storage tanks and backup tanks for solar water-heating systems shall have:
+
+A. External insulation with an installed R-value of at least R-3.5; or
+
+B. Internal and external insulation with a combined R-value of at least R-16; or
+
+C. The heat loss of the tank surface based on an 80°F water-air temperature difference shall be less than 6.5 Btu per hour per square foot.
+
+4.Water heating recirculation loops serving multiple dwelling units, high-rise residential, hotel/motel, and nonresidential occupancies. A water heating recirculation loop is a type of hot water distribution system that reduces the time needed to deliver hot water to fixtures that are distant from the water heater, boiler or other water heating equipment. The recirculation loop is comprised of a supply portion, connected to branches that serve multiple dwelling units, guest rooms, or fixtures and a return portion that completes the loop back to the water heating equipment. A water heating recirculation loop shall meet the following requirements:
+
+A. Air release valve or vertical pump installation. An automatic air release valve shall be installed on the recirculation loop piping on the inlet side of the recirculation pump and no more than 4 feet from the pump. This valve shall be mounted on top of a vertical riser at least 12 inches in length and shall be accessible for replacement and repair. Alternatively, the pump shall be installed on a vertical section of the return line.
+
+B. Recirculation loop backflow prevention. A check valve or similar device shall be located between the recirculation pump and the water heating equipment to prevent water from flowing backwards though the recirculation loop.
+
+C. Equipment for pump priming. A hose bibb shall be installed between the pump and the water heating equipment. An isolation valve shall be installed between the hose bibb and the water heating equipment. This hose bibb is used for bleeding air out of the pump after pump replacement.
+
+D. Pump isolation valves. Isolation valves shall be installed on both sides of the pump. These valves may be part of the flange that attaches the pump to the pipe. One of the isolation valves may be the same isolation valve as in Item C.
+
+E. Cold water supply and recirculation loop connection to hot water storage tank. Storage water heaters and boilers shall be plumbed in accordance with the manufacturer’s specifications The cold water piping and the recirculation loop piping shall not be connected to the hot water storage tank drain port.
+
+F. Cold water supply backflow prevention. A check valve shall be installed on the cold water supply line between the hot water system and the next closest tee on the cold water supply line. The system shall comply with the expansion tank requirements as described in the California Plumbing Code Section 608.3.
+
+5. Service water heaters in state buildings. Any newly constructed building constructed by the State shall derive its service water heating from a system that provides at least 60 percent of the energy needed for service water heating from site solar energy or recovered energy, per the statutory requirement of California Public Resources Code Section 25498.
+
+Exception to Section 110.3(c)5: Buildings for which the state architect determines that service water heating from site solar energy or recovered energy is economically or physically infeasible.
+
+6. Isolation valves. Instantaneous water heaters with an input rating greater than 6.8 kBTU/hr (2 kW) shall have isolation valves on both the cold water supply and the hot water pipe leaving the water heater, and hose bibbs or other fittings on each valve for flushing the water heater when the valves are closed.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.4 MANDATORY REQUIREMENTS FOR POOL AND SPA SYSTEMS AND EQUIPMENT
+
+(a) Certification by manufacturers. Any pool or spa heating system or equipment may be installed only if the manufacturer has certified that the system or equipment has all of the following:
+
+1.Efficiency. For equipment subject to State or federal appliance efficiency standards, listings in the Commission’s directory of certified equipment showing compliance with applicable standards; and
+
+2. On-off switch. A readily accessible on-off switch, mounted on the outside of the heater that allows shutting off the heater without adjusting the thermostat setting; and
+
+3. Instructions. A permanent, easily readable and weatherproof plate or card that gives instruction for the energy efficient operation of the pool or spa heater and for the proper care of pool or spa water when a cover is used; and
+
+4. Electric resistance heating. No electric resistance heating.
+
+Exception 1 to Section 110.4(a)4: Listed package units with fully insulated enclosures, and with tight-fitting covers that are insulated to at least R-6.
+
+Exception 2 to Section 110.4(a)4: Pools or spas deriving at least 60 percent of the annual heating energy from site solar energy or recovered energy.
+
+(b) Installation. Any pool or spa system or equipment shall be installed with all of the following:
+
+1. Piping. At least 36 inches of pipe shall be installed between the filter and the heater or dedicated suction and return lines, or built-in or built-up connections shall be installed to allow for the future addition of solar heating equipment;
+
+2. Covers. A cover for outdoor pools or outdoor spas that have a heat pump or gas heater; and
+
+3. Directional inlets and time switches for pools. If the system or equipment is for a pool:
+
+i. The pool shall have directional inlets that adequately mix the pool water; and
+
+ii. A time switch or similar control mechanism shall be installed as part of a pool water circulation control system that will allow all pumps to be set or programmed to run only during off-peak electric demand period, and for the minimum time necessary to maintain the water in the condition required by applicable public health standards.
+
+SECTION 110.5 NATURAL GAS CENTRAL FURNACES, COOKING EQUIPMENT, POOL AND SPA HEATERS,AND FIREPLACES: PILOT LIGHTS PROHIBITED
+
+Any natural gas system or equipment listed below may be installed only if it does not have a continuously burning pilot light:
+
+(a) Fan-type central furnaces.
+
+(b) Household cooking appliances.
+
+Exception to Section 110.5(b): Household cooking appliances without an electrical supply voltage connection and in which each pilot consumes less than 150 Btu/hr.
+
+(c) Pool heaters.
+
+(d) Spa heaters.
+
+(e) Indoor and outdoor fireplaces.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.6 MANDATORY REQUIREMENTS FOR FENESTRATION PRODUCTS AND EXTERIOR DOORS
+
+(a) Certification of fenestration products and exterior doors other than field-fabricated. Any fenestration product and exterior door, other than field-fabricated fenestration products and field-fabricated exterior doors, may be installed only if the manufacturer has certified to the Commission, or if an independent certifying organization approved by the Commission has certified, that the product complies with all of the applicable requirements of this subsection.
+
+1. Air leakage. Manufactured fenestration products and exterior doors shall have air infiltration rates not exceeding 0.3 cfm/ft2 of window area, 0.3 cfm/ft2 of door area for residential doors, 0.3 cfm/ft2 of door area for nonresidential single doors (swinging and sliding), and 1.0 cfm/ft2 for nonresidential double doors (swinging), when tested according to NFRC-400 or ASTM E283 at a pressure differential of 75 pascals (or 1.57 pounds/ft2), incorporated herein by reference.
+
+NOTES TO SECTION 110.6(a)1:
+
+Pet doors must meet 0.3 cfm/ft2 when tested according to ASTM E283 at 75 pascals (or 1.57 pounds per square foot).
+
+AAMA/WDMA/CSA 101/I.S.2/A440-2011 specification is equivalent to ASTM E283 at a pressure differential of 75 pascals (or 1.57 pounds per square foot) and satisfies the air leakage certification requirements of this section.
+NOTES TO SECTION 110.6(a)1:
+
+Pet doors must meet 0.3 cfm/ft2 when tested according to ASTM E283 at 75 pascals (or 1.57 pounds per square foot).
+
+AAMA/WDMA/CSA 101/I.S.2/A440-2011 specification is equivalent to ASTM E283 at a pressure differential of 75 pascals (or 1.57 pounds per square foot) and satisfies the air leakage certification requirements of this section.
+
+Exception to Section 110.6(a)1: Field-fabricated fenestration and field-fabricated exterior doors.
+
+2.U-factor. The fenestration product and exterior door’s U-factor shall be rated in accordance with NFRC 100, or use the applicable default U-factor set forth in Table 110.6-A.
+
+Exception 1 to Section 110.6(a)2: If the fenestration product is a skylight in a building covered by the nonresidential standards with less than 200 square feet of skylight area, the default U-factor may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+Exception 2 to Section 110.6(a)2: If the fenestration product is an alteration consisting of any area replacement of glass in a skylight product in a building covered by the nonresidential standards, the default U-factor may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+3. Solar heat gain coefficient SHGC. The fenestration product’s SHGC shall be rated in accordance with NFRC 200, or use the applicable default SHGC set forth in Table 110.6-B.
+
+Exception 1 to Section 110.6(a)3: If the fenestration product is a skylight in a building covered by the nonresidential standards with less than 200 square feet of skylight area, the default SHGC may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+Exception 2 to Section 110.6(a)3: If the fenestration product is an alteration consisting of any area replacement of glass in a skylight product in a building covered by the nonresidential standards, the default SHGC may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+4. Visible transmittance (VT). The fenestration product’s VT shall be rated in accordance with NFRC 200 or ASTM E972. For tubular daylighting devices VT shall be rated using NFRC 203.
+
+Exception 1 to Section 110.6(a)4: If the fenestration product is a skylight in a building covered by the nonresidential standards with less than 200 square feet of skylight area, the default VT may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+Exception 2 to Section 110.6(a)4: If the fenestration product is an alteration consisting of any area; replacement of glass in a skylight product in a building covered by the nonresidential standards, the default VT may be calculated as set forth in Reference Nonresidential Appendix NA6.
+
+5. Labeling. Fenestration products and exterior doors shall:
+
+A. Have a temporary label for manufactured fenestration products and exterior doors or a label certificate when the component modeling approach (CMA) is used and for site-built fenestration meeting the requirements of Section 10-111(a)1. The temporary label shall not be removed before inspection by the enforcement agency; and
+
+B. Have a permanent label or label certificate when the component modeling approach (CMA) is used and for site-built fenestration meeting the requirements of Section 10-111(a)2 if the product is rated using NFRC procedures.
+
+6. Fenestration acceptance requirements. Before an occupancy permit is granted site-built fenestration products in other than single-family buildings shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified in the Reference Nonresidential Appendix NA7 to ensure that site-built fenestration meets Standards requirements, including a matching label certificate for product(s) installed and be readily accessible at the project location. A certificate of acceptance certifying that the fenestration product meets the acceptance requirements shall be completed, signed and submitted to the enforcement agency.
+
+Exception to Section 110.6(a): Fenestration products removed and reinstalled as part of a building alteration or addition.
+
+(b) Installation of field-fabricated fenestration and exterior doors. Field-fabricated fenestration and field-fabricated exterior doors may be installed only if the compliance documentation has demonstrated compliance for the installation using U-factors from Table 110.6-A and SHGC values from Table 110.6-B. Field-fabricated fenestration and field-fabricated exterior doors shall be caulked between the fenestration products or exterior door and the building, and shall be weatherstripped.
+
+Exception to Section 110.6(b): Unframed glass doors and fire doors need not be weatherstripped or caulked.
+
+TABLE 110.6-A
+
+DEFAULT FENESTRATION PRODUCT U-FACTORS
+
+FRAME1,2	PRODUCT TYPE	SINGLE PANE3, 4
+U-FACTOR	DOUBLE PANE1, 3, 4 U-FACTOR	GLASS BLOCK2, 3 U-FACTOR
+Metal	Operable	1.28	0.79	0.87
+Fixed	1.19	0.71	0.72
+Greenhouse/garden window	2.26	1.40	NA
+Glazed doors	1.25	0.77	NA
+Skylight	1.98	1.3	NA
+Metal, thermal break	Operable	NA	0.66	NA
+Fixed	NA	0.55	NA
+Greenhouse/garden window	NA	1.12	NA
+Glazed doors	NA	0.59	NA
+Skylight	NA	1.11	NA
+Nonmetal	Operable	0.99	0.58	0.60
+Fixed	1.04	0.55	0.57
+Greenhouse/garden window	0.99	0.53	NA
+Glazed doors	1.94	1.06	NA
+Skylight	1.47	0.84	NA1. For all dual-glazed fenestration products, adjust the listed U-factors as follows:
+
+a. Add 0.05 for products with dividers between panes if spacer is less than 7/16 inch wide.
+
+b. Add 0.05 to any product with true divided lite (dividers through the panes).
+
+2. Translucent or transparent panels shall use glass block values when not rated by NFRC 100.
+
+3. Visible Transmittance (VT) shall be calculated by using Reference Nonresidential Appendix NA6.
+
+4. Windows with window film applied that is not rated by NFRC 100 shall use the default values from this table.
+
+TABLE 110.6-B
+
+DEFAULT SOLAR HEAT GAIN COEFFICIENT (SHGC)
+
+FRAME TYPE	PRODUCT	GLAZING	FENESTRATION PRODUCT SHGC
+Single Pane2, 3SHGC	Double Pane2, 3SHGC	Glass Block1, 2SHGC
+Metal	Operable	Clear	0.80	0.70	0.70
+Fixed	Clear	0.83	0.73	0.73
+Operable	Tinted	0.67	0.59	NA
+Fixed	Tinted	0.68	0.60	NA
+Metal, thermal break	Operable	Clear	NA	0.63	NA
+Fixed	Clear	NA	0.69	NA
+Operable	Tinted	NA	0.53	NA
+Fixed	Tinted	NA	0.57	NA
+Nonmetal	Operable	Clear	0.74	0.65	0.70
+Fixed	Clear	0.76	0.67	0.67
+Operable	Tinted	0.60	0.53	NA
+Fixed	Tinted	0.63	0.55	NA1. Translucent or transparent panels shall use glass block values when not rated by NFRC 200.
+
+2. Visible Transmittance (VT) shall be calculated by using Reference Nonresidential Appendix NA6.
+
+3. Windows with window film applied that is not rated by NFRC 200 shall use the default values from this table.
+
+SECTION 110.7 MANDATORY REQUIREMENTS TO LIMIT AIR LEAKAGE
+
+All joints, penetrations and other openings in the building envelope that are potential sources of air leakage shall be caulked, gasketed, weather-stripped or otherwise sealed to limit infiltration and exfiltration.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.8 MANDATORY REQUIREMENTS FOR INSULATION, ROOFING PRODUCTS AND RADIANT BARRIERS
+
+(a) Insulation certification by manufacturers. All insulation shall be certified by Department of Consumer Affairs, Bureau of Household Goods and Services that the insulation conductive thermal performance is approved pursuant to the California Code of Regulations, Title 24, Part 12, Chapters 12 – 13, Article 3, “Standards for Insulating Material.”
+
+(b) Installation of urea formaldehyde foam insulation. Urea formaldehyde foam insulation may be applied or installed only if:
+
+1. It is installed in exterior side walls; and
+
+2. A 4-mil-thick plastic polyethylene vapor retarder or equivalent plastic sheathing vapor retarder is installed between the urea formaldehyde foam insulation and the interior space in all applications.
+
+(c) Flamespread rating of insulation. All insulating material shall be installed in compliance with the flamespread rating and smoke density requirements of the CBC.
+
+(d) Installation of insulation in existing buildings. Insulation installed in an existing attic, or on an existing duct or water heater, shall comply with the applicable requirements of Subsections 1, 2 and 3 below. If a contractor installs the insulation, the contractor shall certify to the customer, in writing, that the insulation meets the applicable requirements of Subsections 1, 2 and 3 below.
+
+1. Attics. If insulation is installed in the existing attic of a low-rise residential building, the R-value of the total amount of insulation (after addition of insulation to the amount, if any, already in the attic) shall meet the requirements of Section 150.0(a) for single-family buildings and Section 180.2(a)1 for multifamily buildings three habitable stories or fewer.
+
+Exception to Section 110.8(d)1: Where the accessible space in the attic is not large enough to accommodate the required R-value, the entire accessible space shall be filled with insulation, provided such installation does not violate Section 1202.2 of Title 24, Part 2 or Section 806 of Title 24, Part 2.5.
+
+2. Water heaters. If external insulation is installed on an existing unfired water storage tank or on an existing back-up tank for a solar water-heating system, it shall have an R-value of at least R-3.5, or the heat loss of the tank surface based on an 80°F water-air temperature difference shall be less than 6.5 Btu per hour per square foot.
+
+3. Ducts. If insulation is installed on an existing space-conditioning duct, it shall comply with Section 605.0 of the CMC.
+
+(e) Reserved.
+
+(f) Reserved.
+
+(g) Insulation requirements for heated slab floors. Heated slab floors shall be insulated according to the requirements in Table 110.8-A.
+
+1. Insulation materials in ground contact must:
+
+A. Comply with the certification requirements of Section 110.8(a); and
+
+B. Have a water absorption rate for the insulation material alone without facings that is no greater than 0.3 percent when tested in accordance with Test Method A – 24 Hour-Immersion of ASTM C272.
+
+C. Water vapor permeance no greater than 2.0 perm/inch when tested in accordance with ASTM E96.
+
+2. Insulation installation must:
+
+A. Be covered with a solid guard that protects against damage from ultraviolet radiation, moisture, landscaping operation, equipment maintenance and wind; and
+
+B. Include a rigid plate, which penetrates the slab and blocks the insulation from acting as a conduit for insects from the ground to the structure above the foundation.
+
+(h) Wet insulation systems. When insulation is installed on roofs above the roofing membrane or layer used to seal the roof from water penetration, the effective R-value of the insulation shall be as specified in Reference Joint Appendix JA4.
+
+(i) Roofing products solar reflectance and thermal emittance.
+
+1. In order to meet the requirements of Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1I or 150.2(b)2, a roofing product’s thermal emittance and an aged solar reflectance shall be certified and labeled according to the requirements of Section 10-113.
+
+Exception 1 to Section 110.8(i)1: Roofing products that are not certified according to Section 10-113 shall assume the following default aged solar reflectance/thermal emittance values:
+
+A. For asphalt shingles: 0.08/0.75
+
+B. For all other roofing products: 0.10/0.75
+
+2. If CRRC testing for an aged solar-reflectance is not available for any roofing products, the aged value shall be derived from the CRRC initial value using the equation ρaged = [0.2 + β[ρinitial - 0.2], where ρinitial = the initial solar reflectance and soiling resistance β is listed by product type in Table 110.8-B.
+
+3. Solar Reflectance Index (SRI), calculated as specified by ASTM E1980-01, may be used as an alternative to thermal emittance and an aged solar reflectance when complying with the requirements of Sections 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1I or 150.2(b)2. SRI calculations shall be based on moderate wind velocity of 2–6 meters per second. The SRI shall be calculated based on the aged solar reflectance value of the roofing products.
+
+4. Liquid applied roof coatings applied to low-sloped roofs in the field as the top surface of a roof covering shall:
+
+A. Be applied across the entire roof surface to meet the dry mil thickness or coverage recommended by the coating manufacturer, taking into consideration the substrate on which the coating is applied; and
+
+B. Meet the minimum performance requirements listed in Table 110.8-C or the minimum performance requirements of ASTM C836, D3468, D6083 or D6694, whichever are appropriate to the coating material.
+
+Exception 1 to Section 110.8(i)4B: Aluminum-pigmented asphalt roof coatings shall meet the requirements of ASTM D2824 and be installed as specified by ASTM D3805.
+
+Exception 2 to Section 110.8(i)4B: Cement-based roof coatings shall contain a minimum of 20 percent cement and shall meet the requirements of ASTM C1583, ASTM D822 and ASTM D5870.
+
+(j) Radiant barrier. A radiant barrier shall have an emittance of 0.05 or less, tested in accordance with ASTM C1371 or ASTM E408, and shall be certified to the Department of Consumer Affairs as required by Title 24, Part 12, Chapter 12-13, Standards for Insulating Material.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 110.8-A
+
+SLAB INSULATION REQUIREMENTS FOR HEATED SLAB-ON-GRADE
+
+INSULATION LOCATION	INSULATION ORIENTATION	INSTALLATION REQUIREMENTS	CLIMATE ZONE	INSULATION R-VALUE
+Outside edge of heated slab, either inside or outside the foundation wall	Vertical	From the level of the top of the slab, down 16 inches or to the frost line, whichever is greater. Insulation may stop at the top of the footing where this is less than the required depth. For below grade slabs, verti-cal insulation shall be extended from the top of the foundation wall to the bottom of the foundation (or the top of the footing) or to the frost line, whichever is greater.	1–15	5
+16	10
+Between heated slab and outside foundation wall	Vertical and horizontal	Vertical insulation from top of slab at inside edge of outside wall down to the top of the horizontal insulation. Horizontal insulation from the outside edge of the vertical insulation extending 4 feet toward the center of the slab in a direction normal to the outside of the building in plan view.	1–15	5
+16	10 vertical and 7 horizontalTABLE 110.8-B
+
+VALUES OF SOILING RESISTANCE β BY PRODUCT TYPE
+
+PRODUCT TYPE	CRRC PRODUCT CATEGORY	β
+Field-Applied coating	Field-Applied coating	0.65
+Other	Not a field-applied coating	0.70TABLE 110.8-C
+
+MINIMUM PERFORMANCE REQUIREMENTS FOR LIQUID APPLIED ROOF COATINGS
+
+PHYSICAL PROPERTY	ASTM TEST PROCEDURE	REQUIREMENT
+Initial percent elongation (break)	D2370	Minimum 200% @ 73°F (23°C)
+Initial percent elongation (break) or initial flexibility	D2370D522, Test B	Minimum 60% @ 0°F (-18°C)Minimum pass 1″ mandrel @ 0°F (-18°C)
+Initial tensile strength (maximum stress)	D2370	Minimum 100 psi (1.38 MPa) @ 73°F (23°C)
+Initial tensile strength (maximum stress) or initial flexibility	D2370D522, Test B	Minimum 200 psi (2.76 MPa) @ 0°F (-18°C)Minimum pass 1″ mandrel @ 0°F (-18°C)
+Final percent elongation (break) after accelerated weathering 1000 h	D2370	Minimum 100% @ 73°F (23°C)
+Final percent elongation (break) after accelerated weathering 100 horFlexibility after accelerated weathering 100 h	D2370D522, Test B	Minimum 40% @ 0°F (-18°C)Minimum pass 1″ mandrel @ 0°F (-18°C)
+Permeance	D1653	Maximum 50 perms
+Accelerated weathering 1000 h	D4798	No cracking or checking11. Any cracking or checking visible to the eye fails the test procedure.
+
+SECTION 110.9 MANDATORY REQUIREMENTS FOR LIGHTING CONTROLS
+
+(a) All lighting control devices and systems and all light sources subject to the requirements of Section 110.9 shall meet the following requirements:
+
+1. Shall be installed only if the lighting control or light source complies with all of the applicable requirements of Section 110.9.
+
+2. Lighting controls may be individual devices or systems consisting of two or more components.
+
+(b) All lighting controls. Lighting controls listed in Section 110.9(b) shall comply with the requirements listed below; and all components of the system considered together as installed shall meet all applicable requirements for the application for which they are installed as required in Sections 130.0 through 130.5, Sections 140.6 through 140.8, Section 141.0, and Section 150.0(k).
+
+1. Time-switch lighting controls. All controls that provide time-switch functionality, including all automatic and astronomical time-switch controls, shall have program backup capabilities that prevent the loss of the device’s schedule for at least 7 days, and the device’s date and time for at least 72 hours if power is interrupted. In addition:
+
+A. Time-switch controls installed in nonresidential buildings shall:
+
+i. For each connected load, be capable of providing manual override to each connected load and of resuming normally scheduled operation after a manual override is initiated within 2 hours; and
+
+ii. Provide an automatic holiday shutoff feature that turns off all connected loads for at least 24 hours and then resumes normally scheduled operation.
+
+B. Astronomical time-switch controls shall:
+
+i. Have sunrise and sunset prediction accuracy within plus-or-minus 15 minutes and time-keeping accuracy within 5 minutes per year;
+
+ii. Be capable of displaying date, current time, sunrise time, sunset time, and switching times for each step during programming;
+
+iii. Be capable of automatically adjusting for daylight savings time; and
+
+iv. Have the ability to independently offset the on and off for each channel by at least 90 minutes before and after sunrise or sunset.
+
+C. Multilevel time-switch controls shall include at least two separately programmable steps per zone.
+
+D.Time-switch controls installed outdoors shall have setback functions that allow the lighting on each controlled channel to be switched or dimmed to lower levels. The set back functions shall be capable of being programmed by the user for at least one specific time of day.
+
+2. Daylighting controls. Controls that provide automatic daylighting functionality shall:
+
+A. Automatically return to its most recent time delay settings within 60 minutes of the last received input when left in calibration mode;
+
+B. Have a set point control that easily distinguishes settings to within 10 percent of full-scale adjustment;
+
+C. Provide a linear response within 5 percent accuracy over the range of illuminance measured by the light sensor; and
+
+D. Be capable of being calibrated in a manner that the person initiating the calibration is remote from the sensor during calibration to avoid influencing calibration accuracy, for example by having a light sensor that is physically separated from where the calibration adjustments are made.
+
+3. Dimmers. Controls that provide dimming functionality shall:
+
+A. Be capable of reducing lighting power consumption by a minimum of 65 percent when at its lowest setting;
+
+B. Provide reduced flicker operation, meaning that directly controlled light sources shall be provided electrical power such that the light output has an amplitude modulation of less than 30 percent for frequencies less than 200 Hz without causing premature lamp failure;
+
+C. Provide an off setting that produces a zero lumen output; and
+
+D. For wall box dimmers and associated switches designed for use in three way circuits, be capable of turning lights off, and on to the level set by the dimmer if the lights are off.
+
+4. Occupant sensing controls. Occupant sensing controls include occupant sensors, motion sensors, and vacancy sensors, including those with a partial-ON or partial-OFF function. Occupant sensing controls shall:
+
+A. Be capable of automatically turning the controlled lights in the area either off or down no more than 20 minutes after the area has been vacated;
+
+B. For manual-on controls, have a grace period of no less than 15 seconds and no more than 30 seconds to turn on lighting automatically after the sensor has timed out; and
+
+C. Provide a visible status signal that indicates that the device is operating properly, or that it has failed or malfunctioned. The visible status signal may have an override that turns off the signal.
+
+Exception to Section 110.9(b)4: Occupant sensing control systems may consist of a combination of single or multilevel occupant, motion or vacancy sensor controls, provided that components installed to comply with manual-on requirements shall not be capable of conversion by occupants from manual-on to automatic-on functionality.
+
+5. Reserved.
+
+6. Sensors used to detect occupants. Sensors that are used by occupant sensing controls to detect occupants shall meet all of the following requirements:
+
+A. Sensors shall not incorporate switches or mechanical devices that allow the sensor to be disabled without changing the settings of the control.
+
+B. Sensors that utilize ultrasonic radiation for detection of occupants shall:
+
+i. comply with 21 C.F.R. part 1002.12;
+
+ii. not emit audible sound; and
+
+iii. not emit ultrasound in excess of the decibel levels shown in Table 110.9-A measured no more than 5 feet from the source, on axis.
+
+C. Sensors that utilize microwave radiation for detection of occupants shall:
+
+i. comply with 47 C.F.R. parts 2 and 15; and
+
+ii. not emit radiation in excess of 1 milliwatt per square centimeter measured at no more than 5 centimeters from the emission surface of the device.
+
+7.  Indicator lights. Indicator lights integral to lighting controls shall consume no more than 1 watt of power per indicator light.
+
+(c) Track lighting integral current limiter. An integral current limiter for line-voltage track lighting shall be recognized for compliance with Part 6 only if it meets all of the following requirements:
+
+1. Shall have the identical volt-ampere (VA) rating of the current limiter as installed and rated for compliance with Part 6 clearly marked as follows:
+
+A. So that it is visible for the enforcement agency’s field inspection without opening coverplates, fixtures or panels; and
+
+B. Permanently marked on the circuit breaker; and
+
+C. On a factory-printed label that is permanently affixed to a nonremovable base-plate inside the wiring compartment.
+
+2. Shall have a conspicuous factory installed label permanently affixed to the inside of the wiring compartment warning against removing, tampering with, rewiring or bypassing the device; and
+
+3. Each electrical panel from which track lighting integral current limiters are energized shall have a factory printed label permanently affixed and prominently located, stating the following: “NOTICE: Current limiting devices installed in track lighting integral current limiters connected to this panel shall only be replaced with the same or lower amperage. Adding track or replacement of existing current limiters with higher continuous ampere rating will void the track lighting integral current limiter certification, and will require resubmittal of compliance documentation to the enforcement agency responsible for compliance with the California Title 24, Part 6 Building Energy Efficiency Standards.”
+
+(d) Track lighting supplementary overcurrent protection panel. A Track Lighting Supplementary Overcurrent Protection Panel shall be used only for line-voltage track lighting and shall be recognized for compliance with Part 6 only if it meets all of the following requirements:
+
+1. Shall be listed as defined in Section 100.1; and
+
+2. Shall have a permanently installed label that is prominently located stating the following: “NOTICE: This Panel for Track Lighting Energy Code Compliance Only.” The overcurrent protection devices in this panel shall only be replaced with the same or lower amperage. No other overcurrent protective device shall be added to this panel. Adding to, or replacement of, existing overcurrent protective device(s) with higher continuous ampere rating will void the panel listing and require resubmittal of compliance documentation to the enforcement agency responsible for compliance with the California Title 24, Part 6 Building Energy Efficiency Standards.
+
+TABLE 110.9-A
+
+ULTRASOUND MAXIMUM DECIBEL VALUES
+
+MID-FREQUENCY OF SOUNDPRESSURE THIRD-OCTAVE BAND(IN kHz)	MAXIMUM DB LEVEL WITHINTHIRD-OCTAVE BAND (IN dBREFERENCE 20 MICROPASCALS)
+Less than 20	80
+20 or more to less than 25	105
+25 or more to less than 31.5	110
+31.5 or more	115Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 52943, Public Resources Code.
+
+SECTION 110.10 MANDATORY REQUIREMENTS FOR SOLAR READINESS
+
+(a) Covered occupancies.
+
+1. Single-family residences. Single-family residences located in subdivisions with ten or more single-family residences and where the application for a tentative subdivision map for the residences has been deemed complete or approved by the enforcement agency, which do not have a photovoltaic system installed, shall comply with the requirements of Sections 110.10(b) through 110.10(e)
+
+2. Low-rise multifamily buildings. Low-rise multifamily buildings that do not have a photovoltaic system installed shall comply with the requirements of Sections 110.10(b) through 110.10(d).
+
+3. Hotel/motel occupancies and high-rise multifamily buildings. Hotel/motel occupancies and high-rise multifamily buildings with ten habitable stories or fewer, that do not have a photovoltaic system installed, shall comply with the requirements of Sections 110.10(b) through 110.10(d).
+
+4.  Nonresidential buildings. Nonresidential buildings with three habitable stories or fewer, other than I-2 and I-2.1 buildings, that do not have a photovoltaic system installed, shall comply with the requirements of  Sections 110.10(b) through 110.10(d).
+
+(b) Solar zone.
+
+1.Minimum solar zone area. The solar zone shall have a minimum total area as described below. The solar zone shall comply with access, pathway, smoke ventilation and spacing requirements as specified in Title 24, Part 9 or other Parts of Title 24 or in any requirements adopted by a local jurisdiction. The solar zone total area shall be comprised of areas that have no dimension less than five feet and are no less than 80 square feet each for buildings with roof areas less than or equal to 10,000 square feet or no less than 160 square feet each for buildings with roof areas greater than 10,000 square feet.
+
+A. Single-family residences. The solar zone shall be located on the roof or overhang of the building and have a total area no less than 250 square feet.
+
+Exception 1 to Section 110.10(b)1A: Single-family residences with a permanently installed domestic solar water-heating system meeting the installation criteria specified in the Reference Residential Appendix RA4 and with a minimum solar savings fraction of 0.50.
+
+Exception 2 to Section 110.10(b)1A: Single-family residences with three habitable stories or more and with a total floor area less than or equal to 2000 square feet and having a solar zone total area no less than 150 square feet.
+
+Exception 3 to Section 110.10(b)1A: Single-family residences located in the Wildland-Urban Interface Fire Area as defined in Title 24, Part 2 and having a whole house fan and having a solar zone total area no less than 150 square feet.
+
+Exception 4 to Section 110.10(b)1A: Buildings with a designated solar zone area that is no less than 50 percent of the potential solar zone area. The potential solar zone area is the total area of any low-sloped roofs where the annual solar access is 70 percent or greater and any steep-sloped roofs oriented between 90 degrees and 300 degrees of true north where the annual solar access is 70 percent or greater. Solar access is the ratio of solar insolation including shade to the solar insolation without shade. Shading from obstructions located on the roof or any other part of the building shall not be included in the determination of annual solar access.
+
+Exception 5 to Section 110.10(b)1A: Single-family residences having a solar zone total area no less than 150 square feet and where all thermostats are demand responsive controls and comply with Section 110.12(a), and are capable of receiving and responding to Demand Response Signals prior to granting of an occupancy permit by the enforcing agency.
+
+Exception 6 to Section 110.10(b)1A: Single-family residences meeting the following conditions:
+
+A. All thermostats are demand responsive controls that comply with Section 110.12(a), and are capable of receiving and responding to Demand Response Signals prior to granting of an occupancy permit by the enforcing agency.
+
+B. Comply with one of the following measures:
+
+i. Install a dishwasher that meets or exceeds the ENERGY STAR® Program requirements with a refrigerator that meets or exceeds the ENERGY STAR Program requirements, a whole house fan driven by an electronically commutated motor, or an SAE J1772 Level 2 Electric Vehicle Supply Equipment (EVSE or EV charger) with a minimum of 40 amperes; or
+
+ii. Install a home automation system capable of, at a minimum, controlling the appliances and lighting of the dwelling and responding to demand response signals; or
+
+iii. Install alternative plumbing piping to permit the discharge from the clothes washer and all showers and bathtubs to be used for an irrigation system in compliance with the California Plumbing Code and any applicable local ordinances; or
+
+iv. Install a rainwater catchment system designed to comply with the California Plumbing Code and any applicable local ordinances, and that uses rainwater flowing from at least 65 percent of the available roof area.
+
+B.Multifamily buildings, hotel/motel occupancies and nonresidential buildings. The solar zone shall be located on the roof or overhang of the building or on the roof or overhang of another structure located within 250 feet of the building or on covered parking installed with the building project, and shall have a total area no less than 15 percent of the total roof area of the building excluding any skylight area. The solar zone requirement is applicable to the entire building, including mixed occupancy.
+
+Exception 1 to Section 110.10(b)1B: High-rise multifamily buildings, hotel/motel occupancies, and nonresidential buildings with a permanently installed solar electric system having a nameplate DC power rating, measured under Standard Test Conditions, of no less than one watt per square foot of roof area.
+
+Exception 2 to Section 110.10(b)1B: High-rise multifamily buildings, hotel/motel occupancies with a permanently installed domestic solar water-heating system complying with Section 150.1(c)8Biii.
+
+Exception 3 to Section 110.10(b)1B: Buildings with a designated solar zone area that is no less than 50 percent of the potential solar zone area. The potential solar zone area is the total area of any low-sloped roofs where the annual solar access is 70 percent or greater and any steep-sloped roofs oriented between 90 degrees and 300 degrees of true north where the annual solar access is 70 percent or greater. Solar access is the ratio of solar insolation including shade to the solar insolation without shade. Shading from obstructions located on the roof or any other part of the building shall not be included in the determination of annual solar access.
+
+Exception 4 to Section 110.10(b)1B: Low-rise and high-rise multifamily buildings with all thermostats in each dwelling unit are demand response controls that comply with Section 110.12(a), and are capable of receiving and responding to Demand Response Signals prior to granting of an occupancy permit by the enforcing agency. In addition, either A or B below:
+
+A. In each dwelling unit, comply with one of the following measures:
+
+i. Install a dishwasher that meets or exceeds the ENERGY STAR Program requirements with either a refrigerator that meets or exceeds the ENERGY STAR Program requirements or a whole house fan driven by an electronically commutated motor; or
+
+ii. Install a home automation system that complies with Section 110.12(a) and is capable of, at a minimum, controlling the appliances and lighting of the dwelling and responding to demand response signals; or
+
+iii. Install alternative plumbing piping to permit the discharge from the clothes washer and all showers and bathtubs to be used for an irrigation system in compliance with the California Plumbing Code and any applicable local ordinances; or
+
+iv. Install a rainwater catchment system designed to comply with the California Plumbing Code and any applicable local ordinances, and that uses rainwater flowing from at least 65 percent of the available roof area.
+
+B. Meet the Title 24, Part 11, Section A4.106.8.2 requirements for electric vehicle charging spaces.
+
+Exception 5 to Section 110.10(b)1B: Buildings where the roof is designed and approved to be used for vehicular traffic or parking or for a heliport.
+
+2.Azimuth range. All sections of the solar zone located on steep-sloped roofs shall have an azimuth range between 90 degrees and 300 degrees of true north.
+
+3. Shading.
+
+A. No obstructions, including but not limited to, vents, chimneys, architectural features and roof mounted equipment, shall be located in the solar zone.
+
+B. Any obstruction, located on the roof or any other part of the building that projects above a solar zone shall be located at least twice the distance, measured in the horizontal plane, of the height difference between the highest point of the obstruction and the horizontal projection of the nearest point of the solar zone, measured in the vertical plane.
+
+Exception to Section 110.10(b)3: Any roof obstruction, located on the roof or any other part of the building, that is oriented north of all points on the solar zone.
+
+4. Structural design loads on construction documents. For areas of the roof designated as solar zone, the structural design loads for roof dead load and roof live load shall be clearly indicated on the construction documents.
+
+Note: Section 110.10(b)4 does not require the inclusion of any collateral loads for future solar energy systems.
+Note: Section 110.10(b)4 does not require the inclusion of any collateral loads for future solar energy systems.
+
+(c) Interconnection pathways.
+
+1. The construction documents shall indicate a location reserved for inverters and metering equipment and a pathway reserved for routing of conduit from the solar zone to the point of interconnection with the electrical service.
+
+2. For single-family residences and central water-heating systems, the construction documents shall indicate a pathway for routing of plumbing from the solar zone to the water-heating system.
+
+(d) Documentation. A copy of the construction documents or a comparable document indicating the information from Sections 110.10(b) through 110.10(c) shall be provided to the occupant.
+
+(e) Main electrical service panel.
+
+1. The main electrical service panel shall have a minimum busbar rating of 200 amps.
+
+2. The main electrical service panel shall have a reserved space to allow for the installation of a double pole circuit breaker for a future solar electric installation. The reserved space shall be permanently marked as “For Future Solar Electric”.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402, 25402.1, and 25605, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, 25605, and 25943, Public Resources Code.
+
+SECTION 110.11 MANDATORY REQUIREMENTS FOR ELECTRICAL POWER DISTRIBUTION SYSTEM
+
+Certification by Manufacturers. Any electrical power distribution system equipment listed in this section may be installed only if the manufacture has certified to the Commission that the equipment complies with all the applicable requirements of this section.
+
+(a) Low-voltage dry-type distribution transformer shall be certified by the Manufacturer as required by the Title 20 Appliance Efficiency Regulations.
+
+EXCEPTION to Section 110.11(a):
+
+1. autotransformer;
+
+2. drive (isolation) transformer;
+
+3. grounding transformer;
+
+4. machine-tool (control) transformer;
+
+5. nonventilated transformer;
+
+6. rectifier transformer;
+
+7. regulating transformer;
+
+8. sealed transformer;
+
+9. special-impedance transformer;
+
+10. testing transformer;
+
+11. transformer with tap range of 20 percent or more;
+
+12. uninterruptible power supply transformer; or
+
+13. welding transformer.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 110.12 MANDATORY REQUIREMENTS FOR DEMAND MANAGEMENT
+
+Buildings, other than healthcare facilities, that install or are required to install demand responsive controls shall comply with the applicable demand responsive control requirements of Sections 110.12(a) through 110.12(e).
+
+(a) Demand responsive controls.
+
+1. All demand responsive controls shall be either:
+
+A. A certified OpenADR 2.0a or OpenADR 2.0b Virtual End Node (VEN), as specified under Clause 11, Conformance, in the applicable OpenADR 2.0 Specification; or
+
+B. Certified by the manufacturer as being capable of responding to a demand response signal from a certified OpenADR 2.0b Virtual End Node by automatically implementing the control functions requested by the Virtual End Node for the equipment it controls.
+
+2. All demand responsive controls shall be capable of communicating with the VEN using a wired or wireless bidirectional communication pathway.
+
+3. Reserved.
+
+4. When communications are disabled or unavailable, all demand responsive controls shall continue to perform all other control functions provided by the control.
+
+5. Demand responsive control thermostats shall comply with Reference Joint Appendix 5 (JA5), Technical Specifications for Occupant Controlled Smart Thermostats.
+
+(b) Demand Responsive Zonal HVAC Controls. Nonresidential HVAC systems with DDC to the Zone level shall be programmed to allow centralized demand shed for noncritical zones as follows:
+
+1. The controls shall have a capability to remotely increase the operating cooling temperature set points by 4 degrees or more in all noncritical zones on signal from a centralized contact or software point within an Energy Management Control System (EMCS).
+
+2. The controls shall have a capability to remotely decrease the operating heating temperature set points by 4 degrees or more in all noncritical zones on signal from a centralized contact or software point within an EMCS.
+
+3. The controls shall have capabilities to remotely reset the temperatures in all noncritical zones to original operating levels on signal from a centralized contact or software point within an EMCS.
+
+4. The controls shall be programmed to provide an adjustable rate of change for the temperature increase, decrease, and reset.
+
+5. The controls shall have the following features:
+
+A. Disabled. Disabled by authorized facility operators; and
+
+B. Manual control. Manual control by authorized facility operators to allow adjustment of heating and cooling set points globally from a single point in the EMCS; and
+
+C. Automatic Demand Shed Control. Upon receipt of a demand response signal, the space-conditioning systems shall conduct a centralized demand shed, as specified in Sections 110.12(b)1 and 110.12(b)2, for noncritical zones during the demand response period.
+
+(c) Demand Responsive Lighting Controls.  Buildings with nonresidential lighting systems having a total installed lighting power of 4,000 watts or greater that are subject to the requirements of Section 130.1(b) shall install controls that are capable of automatically reducing lighting power in response to a Demand Response Signal.
+
+1. For compliance testing, the lighting controls shall demonstrate a 15-percent or greater reduction in lighting power as described in NA7.6.3. The controls may provide additional demand responsive functions or abilities.
+
+2. For buildings where demand response controls are required, demand responsive controls shall control the general lighting that is subject to the requirements of Section 130.1(b) and may control additional lighting.
+
+3. General lighting shall be reduced in a manner consistent with the uniform level of illumination requirements in Table 130.1-A.
+
+Exception to Section 110.12(c): Spaces where a health or life safety statute, ordinance, or regulation does not permit the general lighting to be reduced are not required to install demand responsive controls and do not count toward the 4,000-watt threshold.
+
+(d) Demand Responsive Electronic Message Center Control.  Controls for electronic message centers greater than 15 kW shall be capable of reducing the lighting power by a minimum of 30 percent when receiving a demand response signal.
+
+Exception to Section 110.12(d): Electronic message centers that are not permitted by a health or life safety statute, ordinance, or regulation to be reduced.
+
+(e) Demand Responsive Controlled Receptacles.  Controlled receptacles in buildings shall be capable of automatically turning off all loads connected to the receptacle in response to a demand response signal.
+
+Exception 1 to Section 110.12(e): Buildings not required to have demand responsive lighting controls.
+
+Exception 2 to Section 110.12(e):  Spaces where a health or life safety statute, ordinance or regulation does not permit the receptacles to be automatically controlled.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+

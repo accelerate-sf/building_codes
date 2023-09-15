@@ -1,0 +1,23 @@
+
+
+Before applying the requirements of the IEBC, it is beneficial to understand its arrangement and format. The IEBC, like other codes published by ICC, is arranged and organized to follow logical steps that generally occur during a plan review or inspection.
+
+The following table shows how the IEBC is divided. The ensuing chapter-by-chapter synopsis details the scope and intent of the provisions of the IEBC.
+
+CHAPTER TOPIC
+
+Chapter	Subjects
+1–2	Administrative Requirements and Definitions
+3	Provisions for all Compliance Methods
+4	Repairs
+5	Prescriptive Compliance Method for Existing Buildings
+6–12	Work Area Compliance Method for Existing Buildings
+13	Performance Compliance Method for Existing Buildings
+14	Relocated Buildings
+15	Construction Safeguards
+16	Referenced Standards
+Appendix A	Guidelines for Seismic Retrofit of Existing Buildings
+Appendix B	Supplementary Accessibility Requirements for Existing Buildings
+Appendix C	Guidelines for Wind Retrofit of Existing Buildings
+Appendix D	Board of Appeals
+Resource A	Guidelines on Fire Ratings of Archaic Materials and Assemblies

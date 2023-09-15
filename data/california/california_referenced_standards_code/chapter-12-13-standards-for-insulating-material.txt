@@ -1,0 +1,626 @@
+CHAPTER 12-13 STANDARDS FOR INSULATING MATERIAL
+
+(See Part 6, Title 24, CCR)
+
+DEPARTMENT OF CONSUMER AFFAIRS Bureau of Home Furnishings and Thermal Insulation
+
+Article 3. Standards for Insulating Material
+
+APPLICATION AND SCOPE
+
+Sec. 12-13-1551.
+
+(a)This article establishes standards governing the quality of insulation sold within the state after September 22, 1981, including those properties which affect the safety and thermal performance of insulation during application and in the use intended.
+
+(b)The provisions of this article shall apply only to the following types of insulating material:
+
+1.Aluminum foil (reflective foil);
+
+2.Cellular glass (board form);
+
+3.Cellulose fiber (loose fill and spray applied);
+
+4.Mineral aggregate (board form);
+
+5.Mineral fiber (blankets, board form, loose fill);
+
+6.Perlite (loose fill);
+
+7.Polystyrene (board form, molded and extruded);
+
+8.Polyurethane (board form and field applied);
+
+9.Polyisocyanurate (board form and field applied);
+
+10.Urea formaldehyde foam (field applied);
+
+11.Vermiculite (loose fill).
+
+(c)The provisions of this article shall apply to the sale of insulating material within the state. The provisions of this article shall not apply to insulating material manufactured in California, but sold outside the state, nor to insulating material manufactured outside California and sold wholesale in California for final retail sale outside the state. For the purpose of this article, the sale of a building or an appliance which contains installed insulating material is not considered the sale of the insulating material.
+
+(d)Any type of insulating material not listed in subsection (b) may be sold within California notwithstanding any other provision of this article.
+
+Authority: Sections 25920 and 25922, Public Resources Code.
+
+Reference: Sections 25910, 25920, 25921 and 25922, Public Resources Code.
+
+HISTORY:
+
+1.Repealer of Article 3 (Sections 1551-1561) filed 8-11-78; effective thirtieth day thereafter (Register 78, No. 32). For prior history, see Registers 76, No. 16; 78, Nos. 2 and 26.
+
+2.New Article 3 (Sections 1551-1565) filed 1-16-79; effective thirtieth day thereafter (Register 79, No. 3).
+
+3.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+DEFINITIONS
+
+Sec. 12-13-1552.
+
+For purposes of this article, the following definitions shall apply:
+
+(a)“Approved laboratory” means any testing facility including a facility owned or operated by a manufacturer which has been approved pursuant to Section 1554 of this article.
+
+(b)“ANSI” means the American National Standards Institute.
+
+(c)“ASTM” means ASTM International.
+
+(d)“Building materials” means materials used in walls, ceilings, roofs and floors of buildings.
+
+(e)“Exposed application” means any interior application of the product in which it is not used in a construction assembly imposing a material which meets the requirements of Chapter 8 of the California Building Code in substantial contact with the facing or membrane surface.
+
+(f)“Installed design density” means the proven density for loose fill insulation other than cellulose which has been determined by the manufacturer to constitute the density whereby settlement of no more than 2 percent shall occur over the first three years, or no more than 4 percent over the first 15 years of installation.
+
+(g)“Insulating material” or “insulation” means any material listed in Section 1551 (b) of this article and placed within or contiguous to a wall, ceiling, roof or floor of a room or building, or contiguous to the surface of any appliance or its intake or outtake mechanism, for the purpose of reducing heat transfer or reducing adverse temperature fluctuations of the building room or appliance.
+
+(h)“Manufacturer” means any person who either:
+
+1.Produces insulating material in the final composition either for use in the form sold or to be further dimensionally modified; or
+
+2.In the case of polyurethane, polyisocyanurate and urea formaldehyde foam formed at the installation site, produces the primary components of the material.
+
+“Manufacturer” shall not include any building contractor or any other person whose sole activity is to install insulation at the installation site.
+
+(i)“Quality assurance program.” (Reserved)
+
+(j)“Recommended wall density” means the density used for pressure fill retrofit wall applications to prevent settling.
+
+(k)“Representative sample” means a sample of insulating material with the same characteristics (other than thickness) and using the same facing imposed on the insulating material manufactured for final use.
+
+(l)“Representative thickness” means a thickness of insulating material at which the change in thermal performance per inch will vary no more than plus or minus 2 percent with increases in thickness.
+
+(m)“TAPPI” means Technical Association of Pulp and Paper Industry.
+
+(n)“Thermal performance” means the tested thermal conductivity, thermal conductance or thermal resistance (R-value), as appropriate, of an insulating material.
+
+(o)“Urea formaldehyde foam” means a cellular plastic insulation material generated in a continuous stream by mixing the components which are a urea formaldehyde resin, air and a foaming agent.
+
+Authority: Sections 25920 and 25922, Public Resources Code.
+
+Reference: Sections 25915 (a), 25920, 25921 and 25922, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+QUALITY STANDARDS
+
+Sec. 12-13-1553.
+
+The manufacturer shall cause the testing of samples of insulating material for conformity with the quality standards described in this section.
+
+(a)General testing provisions. In testing any material pursuant to this section, the following general procedures shall be used.
+
+1.All tests with the exception of the ANSI/ASTM E84-79 test shall be conducted using representative samples at the representative thickness of the insulation, except that when the final use of an insulating material entails a thickness less than the representative thickness, then the insulating material will be tested at the lesser thickness.
+
+2.Where uniformity of product ensures consistency of test results across a product grouping, test results for one may be used for certification of other products within that product group. The manufacturer shall provide sufficient documentation to establish a valid basis for applying a particular test result to other products within the group.
+
+The Executive Director shall determine whether a valid basis exists for grouping products for testing pursuant to this subsection. If it is determined that a valid basis does not exist, individual tests shall be required. A manufacturer may appeal the Executive Director’s determination to the full Commission.
+
+3.Thermal performance of building insulations shall be stated in R value. Other insulations shall use thermal conductivity, conductance or R value as appropriate.
+
+4.All thermal performance tests shall be conducted on materials which have been conditioned at 73.4° ± 3.6°F and a relative humidity of 50 ± 5 percent for 24 hours immediately preceding the tests. The average testing temperature shall be 75° ± 2°F with at least a 40°F (4°C) temperature difference.
+
+5.Aluminum foil insulation shall be tested according to ANSI/ASTM C236-66 to determine the thermal performance in horizontal, upward and downward directions. The tested thermal performance in the heat-flow direction or directions of the intended application shall be labeled on the material. The manufacturer shall test once in each direction of intended application, except that for products labeled with only one heat-flow direction, the manufacturer shall test two samples in that direction.
+
+6.Insulation (other than aluminum foil insulation materials) for which additional value is claimed for facings and air spaces shall be tested for thermal performance as a material without the air space pursuant to this article. The manufacturer may elect to report additional thermal performance values of a given construction tested according to ANSI/ASTM C236-66 for that construction as long as full details of that construction are also disclosed in the certification statement and pursuant to Section 1557 (c) of this article. If a manufacturer elects to report a thermal performance value for a material plus an air space (as supplemental information to the required material thermal performance), but not necessarily for a full construction, the manufacturer must also disclose the conditions of the test and the limitations to the attainment of that result.
+
+7.Except as provided in Items 5 and 6, the thermal performance test results certified under Section 1555 of this article shall be the average of the values obtained from at least three tests.
+
+8.The average measured thermal performance of the tests required by Items 5, 6 and 7 shall not be more than 5 percent below the value specified on the product. In addition, all insulation material sold within the state after September 22, 1981, shall have a measured thermal performance not more than 10 percent below the value specified on the product.
+
+9.All numbered test descriptions shall be contained in the document “Test Descriptions for Insulating Material” dated February 27, 1981.
+
+10.Facings on representative samples may be removed or modified by slitting for the ANSI/ASTM C177-76 and ANSI/ASTM C518-76 tests.
+
+11.All thermal performance testing equipment used for testing insulating materials shall be calibrated with samples referenced to the United States National Bureau of Standards.
+
+12.Manufacturers of loose fill insulations for which no settled density test is required by this section shall be required to include the installed design density in the identifying information described in Section 1557. The manufacturer shall provide sufficient documentation to establish a valid basis for the determination of installed design density.
+
+The Executive Director shall determine whether a valid basis exists for the installed design density claimed by the manufacturer. If it is determined that a valid basis does not exist, the director may assign an appropriate installed design density or may require an appropriate test to determine the installed design density. The manufacturer may appeal the Executive Director’s determination to the full Commission.
+
+13.Within 180 days after the availability of appropriate representative thickness calibration samples from the National Bureau of Standards, all insulating materials thicker than 1 inch (25 mm), which have not previously been tested at the representative thickness of a representative sample, shall be tested at representative thickness and recertified. Test results and a revised certification statement will be submitted to the Executive Director. The Executive Director shall determine if and when an appropriate representative thickness calibration sample is available from the National Bureau of Standards and shall publish a list of available representative thickness calibration samples. The manufacturer may appeal the Executive Director’s determination to the full Commission.
+
+14.All products which may be used for pressure fill retrofit wall application shall be separately tested for thermal performance using a sample prepared at the manufacturer’s recommended wall density for such applications.
+
+15.All water heater insulation kits and nonpreformed pipe insulation shall be tested for thermal performance at the installed compressed thickness of a typical application. Installed compressed thickness shall be determined according to Test Description Number 6. All nonpreformed duct insulation shall be labeled, in accordance with Section 1557(c), with an installed R-value equal to the R-value of the uncompressed insulation times 0.75.
+
+(b)Aluminum foil.
+
+1.Composition. The insulation shall have uniform flat surfaces and shall not be crumpled, torn or punctured. Aluminum foil shall contain not less than 99 percent aluminum. Kraft paper and flangeboard shall meet the requirements of ANSI/TAPPI T400 0S75. Flangeboard used for more than two insulation layers shall be of 28 point grade minimum, if single sheet flangeboard is used or 14 point grade minimum if double sheet flangeboard is used.
+
+Adhesive used in bonding shall be waterproof and shall show no sign of bleeding when tested in accordance with the following test procedure. Bleeding at cut edges may be disregarded.
+
+Specimens for tests shall consist of pieces of insulation cut to approximately 3 by 6 inches (76 mm by 152 mm), suspended in a vertical position and heated to a temperature of 180°F ± 5°F for at least 5 hours. At the end of heating period, examine the reflective surfaces to determine whether the adhesive has bled or extruded through the surface, or delamination has occurred.
+
+2.Thermal performance. Thermal performance shall be determined according to ANSI/ASTM C236-66. The test panel shall consist of a panel utilizing a wooden frame of 2 by 6 inches (51 mm by 152 mm) construction covered with 3/4-inch (19 mm) plywood on both sides. The resultant thermal performance shall be based on the insulation only.
+
+3.Size. Layers of insulation composed of unsupported foil that is exposed shall have a minimum thickness of 0.0004 inch (0.01 mm). Unsupported foil that is sandwiched in a multilayer sheet shall have a minimum thickness of 0.00035 inch (0.009 mm). Foil bonded to kraft paper shall have a minimum thickness of 0.00025 inch (0.006 mm). Minimum space between layers of a multilayer sheet shall conform with the United States General Services Administration insulation standard HH-I-1252B dated August 18, 1976.
+
+4.Resistance to combustion. Surface-burning characteristics shall be determined according to the ANSI/ASTM E84-79, and shall not exceed the following values:
+
+Flame spread	25
+Smoke developed	505.Pliability. Foil shall be folded and the folded edge smoothed using a light finger pressure. The finished insulation shall not crack when folded to 180° bend at a temperature of 70° ± 2°F and a relative humidity of 50 ± 5 percent.
+
+(c)Cellular glass in board form.
+
+1.Composition. The material shall consist of a glass composition which has been foamed or cellulated under molten conditions, annealed and set to form a rigid material with hermetically sealed cells.
+
+2.Thermal performance. Determination of the thermal performance shall be based on a representative sample and shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Resistance to combustion. Surface-burning characteristics shall be determined according to ANSI/ASTM E84-79, and shall not exceed the following values:
+
+Flame spread	25
+Smoke developed	50(d)Cellulose fiber in loose fill form.
+
+1.Composition. The basic material shall consist of virgin or recycled wood-based cellulosic fiber and may be made from related paper or paperboard stock, excluding contaminated materials and extraneous foreign materials such as metals and glass which may reasonably be expected to be retained in the finished product. Suitable chemicals may be introduced to improve flame resistance, processing and handling characteristics. The particles shall not be so fine as to create a dust hazard, and the added chemicals shall not create a health hazard. The materials used must be capable of proper adhesion to the additive chemicals.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Density. The density shall be determined according to the United States General Services Administration insulation standard HH-I-515D dated June 15, 1978, or as amended October 11, 1979, at the manufacturer’s option. Cellulose insulation made from newsprint may use a 13 percent settling percentage along with the drop box procedure in place of the humidity cycling procedure described in HH-I-515D dated June 15, 1978. All other tests for loose fill cellulose fiber insulation prescribed by this section shall be conducted at the settled density as determined herein.
+
+4.Resistance to combustion. Flammability characteristics shall comply with the standard for flammability and smoldering combustion in 44 Fed. Reg. pages 39966-39973.
+
+5.Resistance to fungi. Resistance to fungi shall be determined according to Method 508 of the March 10, 1975, edition of the Military Standard for Environmental Test Methods known as MIL-STD-810C, except the spore suspensions shall be prepared using distilled water. The core of gypsum wall board shall be used as the control. After the test exposure, the test samples shall show no more fungal growth than the control material when examined at 40 times magnification.
+
+6.Corrosiveness. The product shall comply with the standard for corrosiveness set forth in 44 Fed. Reg. pages 39966-39973.
+
+7.Odor emission. Odor emission shall be determined according to Test Description Number 3. A detectable odor of objectionable nature observed by two or more of the panel members shall be cause for rejection.
+
+8.Identification. Each insulation container shall be marked with the type (pouring or pneumatic), net weight and the manufacturer’s recommendations for installation including minimum thickness, maximum coverage and settled density to provide the levels of thermal performance shown. Manufacturer’s installation recommendations shall include precautions according to the California Electrical Code Section 410-66.
+
+Insulation which may be used for pressure fill retrofit wall application shall be marked with the recommended wall density to prevent settling and separately marked with the tested thermal performance for such applications.
+
+(e)Cellulose fiber spray applied.
+
+1.Composition. The basic material shall consist of virgin or recycled wood-based cellulosic fiber and may be made from related paper or paperboard stock, excluding contaminated materials and extraneous foreign materials such as metals and glass which may reasonably be expected to be retained in the finished product. Suitable chemicals may be introduced to improve flame resistance, processing, adhesive and cohesive qualities, and handling characteristics. The added chemicals shall not create a health hazard.
+
+The basic material shall be processed into a form suitable for installation by pneumatic conveying equipment and simultaneous mixing with water and/or adhesive at the spray nozzle.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Resistance to combustion. Flammability characteristics shall comply with the standard for flammability and smoldering combustion in 44 Fed. Reg. pages 39966-39973.
+
+4.Corrosiveness. The product shall comply with the standard for corrosiveness set forth in 44 Fed. Reg. pages 39966-39973.
+
+5.Bond strength. The bond strength shall be determined by Test Description Number 3 and the bond shall support a force five times the weight of the sample for 1 minute.
+
+6.Bond deflection. The bond deflection shall be determined by Test Description Number 4 and shall be greater than 1/60th of the length of the sample.
+
+7.Air erosion. The air erosion shall be determined by Test Description Number 5 and shall withstand an air velocity of 800 ft/min.
+
+8.Odor emission. Odor emissions shall be determined by Test Description Number 1. A detectable odor of objectionable nature observed by two or more panel members shall be cause for rejection.
+
+9.Fungi resistance. Resistance to fungi shall be determined according to Method 508 of the March 10, 1975, edition of the Military Standard for Environmental Test Methods known as MIL-STD-810C, except the spore suspensions shall be prepared using distilled water, and observations shall be made at 7-day intervals during the 28-day cycle to determine the minimum length of time required for fungal growth to appear. Viability of the spore organisms shall be determined by injecting or inoculating a separate bottle of culture medium with the spore preparation for each organism and observing for growth and individual viability. The back side of 1/2-inch (13 mm) standard commercial grade gypsum wall board grayback paper surface shall be used as the control. After the test exposure, the test samples shall be examined at 40 times magnification for evidence of fungal growth. The material shall show no more fungal growth than the control material.
+
+10.Test procedures described in Items 5, 6 and 7 are not required of products which are installed in such a manner that physical restrictions imposed by the construction elements preclude any possibility of subsequent delamination, erosion or dusting and the product is identified only for such installations.
+
+(f)Mineral aggregate in board form.
+
+1.Composition. The basic material shall be mineral in nature, crushed, dried and graded to the proper particle size and expanded by the application of heat to form a spherical, cellular type of aggregate. It shall be composed of spherical cellular beads of expanded aggregate and fibers formed into rigid, flat, rectangular units and shall have an integral water proofing treatment. It shall be clean, dry and free of extraneous material. Fibers shall be evenly distributed and insulation and facings shall be sufficiently coherent to be unaffected by handling and installation.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Resistance to combustion. Surface-burning characteristics of materials with facings and membranes intended for exposed applications shall be determined according to ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread.	25
+Smoke developed	450Facings and membranes of materials intended for exposed applications shall be exposed to the flame during the ANSI/ASTM E84-79 test.
+
+Insulation boards exclusive of facings and membranes shall not exceed the following values:
+
+Flame spread	25
+Smoke developed	50(g)Mineral fiber in blanket form.
+
+1.Composition. The basic material shall be fibers made from mineral substances such as rock, slag or glass processes from a molten state into fibrous form.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Size. The thickness shall be determined according to ANSI/ASTM C167-64.
+
+4.Resistance to combustion. Surface-burning characteristics of materials with facings and membranes intended for exposed applications shall be determined according to ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread	25
+Smoke developed.	450Facings and membranes of materials intended for exposed applications shall be exposed to the flame during the ANSI/ASTM E84-79 test.
+
+Insulation blankets not intended for exposed applications shall comply with the United States General Services Administration insulation standard HH-I-521F dated September 4, 1980, for flammability and smoldering combustion testing.
+
+5.Corrosiveness. Corrosiveness shall be determined according to Test Description Number 2. The steel test plate in contact with the insulation shall show no greater corrosion than a steel plate in contact with sterile cotton.
+
+6.Resistance to fungi. Resistance to fungi shall be determined according to Method 508 of the March 10, 1975, edition of the Military Standard for Environmental Test Methods known as MIL-STD-810C except the spore suspensions shall be prepared using distilled water. The core of gypsum wall board shall be used as the control. After the test exposure, the test samples shall show no more fungal growth than the control material when examined at 40 times magnification.
+
+7.Odor emission. Odor emission shall be determined according to Test Description Number 1. A detectable odor of objectionable nature observed by two or more of the panel members shall be cause for rejection.
+
+(h)Mineral fiber in board form.
+
+1.Composition. The basic material shall be made from mineral substances such as rock, slag or glass processed from a molten state into a fibrous form. Insulation shall be composed of mineral fibers with water resistant binder added and formed into flat, rectangular units. Insulation boards shall be uniform in quality, free from defects, such as broken edges, splits or loose materials which would impair its intended use.
+
+Roof insulation boards shall have either integral waterproofing treatment or a waterproof coating on one surface. The coating shall be flush with the edges of the sides and may be flush with or extend over both ends.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Resistance to combustion. Surface-burning characteristics of materials with facings and membranes intended for exposed applications shall be determined according to ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread	25
+Smoke developed.	450Facings and membranes of materials intended for exposed applications shall be exposed to the flame during the ANSI/ASTM E84-79 test.
+
+Insulation boards exclusive of facings and membranes shall not exceed the following values:
+
+Flame spread	25
+Smoke developed	50(i)Mineral fiber in loose fill form.
+
+1.Composition. Mineral fiber insulation shall be made from mineral substances such as rock, slag or glass processed from a molten state into fibrous form. The insulation shall be mechanically processed to produce a mineral fiber suitable for pneumatic or poured application.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Density. The density shall be determined according to installed design density. All tests shall be conducted at the installed design density.
+
+4.Resistance to combustion. Loose fill insulation shall comply with the United States General Services Administration insulation standard HH-I-1030B dated August 12, 1980, for flammability and smoldering combustion testing.
+
+5.Corrosiveness. Corrosiveness shall be determined according to Test Description Number 2. The steel plate in contact with the insulation shall show no greater corrosion than a steel plate in contact with sterile cotton.
+
+6.Resistance to fungi. Resistance to fungi shall be determined according to Method 508 of the March 10, 1975, edition of the Military Standard for Environmental Test Methods known as MIL-STD-810C, except the spore suspensions shall be prepared using distilled water. The core of gypsum wall board shall be used as the control. After the test exposure, the test samples shall show no more fungal growth than the control material when examined at 40 times magnification.
+
+7.Odor emission. Odor emission shall be determined according to Test Description Number 1. A detectable odor of objectionable nature observed by two or more of the panel members shall be cause for rejection.
+
+8.Identification. Each insulation container shall be marked with the type (pouring or pneumatic), the net weight and the manufacturer’s recommendations for installation including minimum thickness, maximum coverage and installed design density to provide the levels of thermal performance shown. Manufacturer’s installation recommendations shall include precautions according to the California Electrical Code Section 410-66.
+
+Products which may be used for pressure fill retrofit wall application shall be marked with the recommended wall density to prevent settling and separately marked with the tested thermal performance for such applications.
+
+(j)Perlite in loose fill form.
+
+1.Composition. Expanded perlite loose fill insulation shall be produced by the expanding of natural perlite or by heating.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option.
+
+3.Density. Density shall be determined according to installed design density. All tests except the ANSI/ASTM E84-79 test shall be conducted at the installed design density.
+
+4.Resistance to combustion. Resistance to combustion shall be determined by the use of the Attic Floor Radiant Panel Test, as described in the United States General Services Administration insulation standard HH-I-515D Section 3.1.9 as amended October 11, 1979.
+
+5.Identification. Each insulation container shall be marked with the type (pouring or pneumatic), the net weight and the manufacturer’s recommendations for installation including minimum thickness, maximum coverage and installed design density to provide the levels of thermal performance shown. Manufacturer’s installation recommendations shall include precautions according to the 1993 National Electrical Code Section 410-66.
+
+Products which may be used for pressure fill retrofit wall application shall be marked with the recommended wall density to prevent settling and separately marked with the tested thermal performance for such applications.
+
+(k)Polystyrene in board form.
+
+1.Composition. Insulation board shall be formed by the expansion of polystyrene resin beads or granules in a mold or the insulation board shall be formed by the expansion of polystyrene base resin in an extrusion process. The insulation shall be uniformly fused, homogeneous and essentially unicellular. Insulation board shall be uniform in physical properties and reasonably free of voids or accumulations of unexpanded material, foreign inclusions, broken corners and broken edges.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option. All foam insulation materials using materials other than air or pentane as an expanding agent shall either separately condition samples at 73.4° ± 3.6°F and a relative humidity of 50 ± 5 percent, and at 140°F dry heat and test at 30-, 60- and 90-day intervals or shall test samples certified by an approved testing laboratory to have been aged while exposed to free air in a well ventilated room for at least two years at 70° ± 10°F, provided, however, that until 21/2 years after the adoption of these quality standards by the Commission, test samples may be aged for six months for certification of the material.
+
+Notwithstanding any other provision of this article, this thermal performance standard shall not take effect until 250 days after adoption. If the certification statement submitted pursuant to Section 1555 of this article does not include test results for thermal performance, the manufacturer shall submit a new certification statement which includes such test results prior to 250 days after adoption. If the latest certification statement is based on the six-month aging test, a new statement, based upon the two-year aging test or the accelerated aging test shall be submitted by 21/2 years after the adoption date.
+
+3.A. Resistance to combustion. The material shall be tested to meet the requirements of Sections 2603.2 and 2603.3 of the California Building Code, with the additional provision that the surface-burning characteristics shall be determined according to ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread	75
+Smoke developed	450Exception: Polystyrene foam insulation boards with a maximum thickness of 2 inches (51 mm) when installed below a minimum 3.5-inch-thick (89 mm) concrete slab on grade.
+
+B.This subsection shall not apply to any product recognized by the International Conference of Building Officials, as of the date of adoption of these regulations, as complying with Sections 2602.1-2602.6 of the 1994 Uniform Building Code based solely upon diversified testing. The manufacturer of any product which is recognized by the International Conference of Building Officials, subsequent to the date of approval of these regulations, as complying with Sections 2602.1-2602.6 of the 1994 Uniform Building Code based solely upon diversified testing, may petition the Commission for an exemption of that product from the provisions of this subsection.
+
+4.Dimensional stability. All foamed polystyrene insulation materials which are factory formed shall be tested for dimensional stability in accordance with Procedures E and G of ASTM D2126-75 with the following exceptions: (a) sample size shall be 12 inches by 12 inches (305 mm by 305 mm)  ± 1 inch (25 mm), and (b) samples shall be tested as manufactured with or without facers.
+
+The average percent change in length or width shall not exceed ± 2 percent in 24 hours or ± 4 percent in 7 days. The average percent change in thickness shall not exceed ± 10 percent in 7 days. Samples shall be regarded as failing if: (1) delamination area of “faced” samples exceeds 25 percent or (2) warping or cupping exceeds 1/4 inch (6 mm) when checked by a straight edge across raised diagonal corners.
+
+(l)Polyurethane and polyisocyanurate in board form and field applied.
+
+1.Composition. The manufacture of the insulation shall be based mainly on the reaction of an organic polyisocyanate with a polyol resin.
+
+Board shall be of uniform texture, reasonably free from accumulation of unexpanded material and foreign inclusions, and reasonably free of broken edges and corners. It shall be reasonably free from holes, voids, depressions and objectionable odor. Laminated composite boards shall be included in this quality standard. The faces of laminated boards shall adhere firmly throughout to the foam, and shall show no excessive amounts of slits, voids or depressions.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C518-76 at the manufacturer’s option. All foam insulation materials using materials other than air or pentane as an expanding agent shall either separately condition samples at 73.4° ± 3.6°F and a relative humidity of 50 ± 5 percent, and at 140°F (60°C) dry heat and test at 30-, 60- and 90-day intervals or shall test samples certified by an approved testing laboratory to have been aged while exposed to free air in a well ventilated room for at least two years at 70° ± 10°F, provided, however, that until 21/2 years after the adoption of these quality standards by the Commission, test samples may be aged for six months for certification of the material.
+
+Notwithstanding any other provision of this article, this thermal performance standard shall not take effect until 250 days after adoption. If the certification statement submitted pursuant to Section 1555 of these regulations does not include test results for thermal performance, the manufacturer shall submit a new certification statement which includes such test results prior to 250 days after adoption. If the latest certification statement is based on the six-month aging test, a new statement, based upon the two-year aging test or the accelerated aging test shall be submitted by 21/2 years after the adoption date.
+
+3.Dimensional stability. All foamed polyurethane and polyisocyanurate insulation materials which are factory formed shall be tested for dimensional stability in accordance with Procedures E and G of ASTM D2126-75 with the following exceptions: (a) sample size shall be 12 inches by 12 inches (305 mm by 305 mm) ± 1 inch (25 mm) and (b) samples shall be tested as manufactured with or without facers.
+
+The average percent change in length or width shall not exceed ± 2 percent in 24 hours or ± 4 percent in 7 days. The average percent change in thickness shall not exceed ± 10 percent in 7 days. Samples shall be regarded as failing if: (1) delamination area of “faced” samples exceeds 25 percent or (2) warping or cupping exceeds 1/4 inch (6 mm) when checked by a straight edge across raised diagonal corners.
+
+4.Resistance to combustion.
+
+A.The material shall be tested to meet the requirements of Sections 2602.1-2602.6 of the 1994 Uniform Building Code, with the additional provision that the surface-burning characteristics shall be determined according to ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread	75
+Smoke developed	450B.This subsection shall not apply to any product recognized by the International Conference of Building Officials, as of the date of adoption of this article, as complying with Sections 2602.1-2602.6 of the 1994 Uniform Building Code based solely upon diversified testing. The manufacturer of any product which is recognized by the International Conference of Building Officials, subsequent to the date of approval of these regulations, as complying with Sections 2602.1-2602.6 of the 1994 Uniform Building Code based solely upon diversified testing, may petition the Commission for an exemption of that product from the provisions of this subsection.
+
+5.Identification. Foam containers shall state the conditions of proper storage.
+
+(m)Urea formaldehyde foam field applied.
+
+1.Limitation on sale. Urea formaldehyde foam is unsafe for use as insulation. Sale within the State of California of urea formaldehyde foam insulation is prohibited.
+
+2.Exemption. Notwithstanding any other provision of this article, a manufacturer of the primary components of urea formaldehyde foam insulation may apply for certification as provided in Section 1555 of this article. Such certification statement shall indicate compliance with the following standards:
+
+A.Composition. The material shall consist of cellular plastic generated in a continuous stream by mixing the components which are a urea formaldehyde resin, air and a foaming agent. The material shall be suitable for filling closed cavities through small holes and suitable also for filling open cavities by trowelling during foaming prior to enclosure.
+
+B.Thermal performance. The effective thermal performance, incorporating a derating value, shall be determined according to the method described in 42 Fed. Reg. pages 55143-55148.
+
+C.Resistance to combustion. Surface-burning characteristics shall be determined according to the ANSI/ASTM E84-79 and shall not exceed the following values:
+
+Flame spread	25
+Smoke developed	450Test specimens shall be aged for 45 days at 70°F ± 5°F and 35 to 40 percent relative humidity before testing.
+
+D.Free formaldehyde content of dry foam. The free formaldehyde content of the dry foam shall be less than 0.01 percent formaldehyde by weight when tested as specified in paragraph (f) (8), published in 45 Fed. Reg. page 63801, except that the specimens to be tested shall also be aged for 56 days at 24 ± 5°C (75 ± 10°F) and 50 ± 10 percent relative humidity in an uncovered beaker.
+
+E.Corrosiveness. The material shall be tested and shall meet the criteria for corrosiveness as specified in 45 Fed. Reg. pages 63786-63810.
+
+F.Density. The material shall be tested and shall meet the criteria for density as specified in 45 Fed. Reg. pages 63786-63810.
+
+G.Shrinkage. The material shall be tested and meet the criteria for shrinkage as specified in 45 Fed. Reg. pages 63786-63810, except that the material shall not shrink more than 2.0 percent in any direction.
+
+H.Volume resistivity. The material shall be tested and meet the criteria for volume resistivity as specified in 45 Fed. Reg. pages 63786-63810.
+
+I.Identification. Resin and foaming agent containers shall be marked with conditions of proper storage and the derated R-value and shrinkage of the prepared foam as certified by the manufacturer.
+
+J.Safety information. Installers of urea formaldehyde foam insulation shall present the following safety notice to the purchasers of the foam prior to the signing of the contract for installation. The notice shall be printed in a minimum of 8-point type size. One copy of the notice signed by the purchaser shall be immediately given to the purchaser, one copy shall be retained by the installer and one copy shall be mailed by the installer to the Executive Director of the Energy Commission within 48 hours after installation of the insulation is completed.
+
+Manufacturers shall make all sales of urea foam insulation components expressly subject to the application restrictions listed in the notice described below.
+
+UREA FORMALDEHYDE FOAM INSULATION SAFETY NOTICE
+
+The Federal Panel on Formaldehyde has concluded that formaldehyde should be presumed to pose a carcinogenic (cancer) risk for humans. Formaldehyde gas may also cause eye, nose, and throat irritation, coughing, shortness of breath, skin irritation, nausea, headaches and dizziness. People with respiratory problems or allergies may suffer more serious reactions, especially people allergic to formaldehyde. Women who are pregnant or planning to become pregnant should not be exposed to this product.
+
+The symptoms may appear immediately or not until months after installation.
+
+This product may release formaldehyde gas into your home or building over a long period of time. In some instances the formaldehyde gas cannot be controlled by ventilation or other means.
+
+Application of this product is restricted to exterior side-walls in both residential and commercial/industrial buildings. A 4-mil thickness plastic polyethylene vapor barrier, or equivalent plastic sheeting vapor barrier, shall be installed between the urea formaldehyde foam insulation and the interior space of the home or building in all applications.
+
+If you have health concerns, call your doctor. Also, call the installer or manufacturer of the material.
+
+3.Severability of provisions. If any provision of Section 1553 (m) (1) or (2), or the application thereof to any person or circumstances, is held invalid, the remaining provisions, or the application of such provisions to other persons or circumstances, shall not be affected thereby.
+
+(n)Vermiculite in loose fill form.
+
+1.Composition. Vermiculite loose fill insulation shall be produced by the expanding or exfoliating of natural vermiculate or by grading and heating.
+
+2.Thermal performance. Determination of the thermal performance shall be in accordance with ANSI/ASTM C177-76, ANSI/ASTM C236-66 or ANSI/ASTM C615-76 at the manufacturer’s option.
+
+3.Density. Density shall be determined according to installed design density. All tests except the ANSI/ASTM E84-79 test shall be conducted at the installed design density.
+
+4.Resistance to combustion. Resistance to combustion shall be determined by the use of the Attic Floor Radiant Panel Test, as described in the United States General Services Administration insulation standard HH-I-515D as amended October 11, 1979.
+
+5.Identification. Containers of vermiculite shall be marked with the type (pouring or pneumatic), the net weight and the manufacturer’s recommendations for installation including minimum thickness, maximum coverage and installed design density to provide the levels of thermal performance shown. Manufacturer’s installation recommendations shall include precautions according to the California Electric Code Section 410-66.
+
+Products which may be used for pressure fill retrofit wall application shall be marked with the recommended wall density to prevent settling and separately marked with the tested thermal performance for such applications.
+
+Authority: Sections 25402(a) and 25920, Public Resources Code.
+
+Reference: Sections 25920-25922, Public Resources Code.
+
+HISTORY:
+
+1.Amendment of subsection (a) (9) filed 4-2-79; effective thirtieth day thereafter (Register 79, No. 14).
+
+2.Editorial correction of subsection designations with subsection (l) (4) (Register 79, No. 17).
+
+3.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+4.New subsection (m) (2) (J) filed 9-11-81; effective thirtieth day thereafter (Register 81, No. 37).
+
+5.Editorial correction of subsection (k) (3) (B) filed 1-13-82 (Register 82, No. 3).
+
+6.Amendment of subsections (a) (5) and (a) (8) filed 5-5-82; effective thirtieth day thereafter (Register 82, No. 19).
+
+7.Editorial correction of subsection (m) printing error (Register 82, No. 44).
+
+APPROVAL OF TESTING LABORATORIES
+
+Sec. 12-13-1554.
+
+(a)Except as provided in subsection (b), laboratories shall be approved using the procedures described in the Criteria for the Approval of Testing Laboratories, dated October 27, 1978. The Executive Director shall approve any laboratory that meets the standards described in the Criteria for the Approval of Testing Laboratories, dated October 27, 1978. A testing laboratory shall have the right to appeal to the full Commission any denial of approval by the Executive Director.
+
+(b)Up to and including September 30, 1982, laboratories shall be approved either upon accreditation by the United States Department of Commerce National Voluntary Laboratory Accreditation Program or as stated in the preceding paragraph, at the manufacturer’s option. After September 30, 1982, laboratories shall only be approved upon accreditation by the United States Department of Commerce National Voluntary Laboratory Accreditation Program.
+
+Authority: Section 25218(e), Public Resources Code.
+
+Reference: Sections 25915(a) and 25921, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81, designated effective 9-22-81 (Register 81, No. 33).
+
+CERTIFICATION
+
+Sec. 12-13-1555.
+
+(a)No insulating material shall be sold or installed in California on or after September 22, 1981, unless the manufacturer has certified that the material complies with the provisions of this article.
+
+(b)The manufacturer shall submit a certification statement to the Executive Director for each type of insulating material. Such statement shall contain the following information:
+
+1.Name of the manufacturer.
+
+2.A description of the type of insulating material being certified in sufficient detail to permit its identification. The description may include information sheets, brochures, a sample label for the product or similar information.
+
+3.Test results from an approved laboratory.
+
+4.A description of the basis for ensuring that all the insulating material of the type being certified complies with the requirements of this article. Such description shall include, but not be limited to a description of the frequency of testing of the material, the quality assurance program, and any thirdparty inspections or testing used by the manufacturer.
+
+5.A declaration that the insulating material complies with the requirements of this article.
+
+6.The wording of the certification seal, if such seal consists of a statement pursuant to Section 1557 (b) (2) of this article.
+
+(c)Every certification statement shall be dated and signed by the manufacturer attesting to its truth and accuracy. Where the manufacturer is either a corporation or a business association, the certification statement shall be dated, signed and attested to by a responsible official thereof.
+
+(d)Within 45 days after receipt of a certification statement, the Executive Director shall forward, to the manufacturer, an acknowledgment that the statement has been received and that it is complete and accurate on its face.
+
+(e)Certification of the insulation material shall be deemed to occur upon forwarding of the acknowledgement by the Executive Director. If acknowledgment is not forwarded in a timely manner, certification shall be deemed to occur on the 45th day after receipt of the certification statement.
+
+(f)The statement of test results required in the certification may be based upon tests conducted prior to the adoptive date of this article if: (1) the same test was conducted within two years of the date of adoption, (2) the laboratory at which the tests were conducted has been approved for those tests as of the date of the certification statement, and (3) the laboratory certifies that the test and product are the same as the test and product referred to in the statement of test results.
+
+Authority: Section 25218(e), Public Resources Code.
+
+Reference: Sections 25921 and 25921.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment of subsections (a), (b) (4), (b) (6) and (f) filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+QUALITY ASSURANCE (Reserved)
+
+Sec. 12-13-1556.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Section 25921.1, Public Resources Code.
+
+HISTORY:
+
+1.Repealer filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+IDENTIFICATION
+
+Sec. 12-13-1557.
+
+(a)Except as specified in subsection (b), Item 3, of this section, no insulation shall be sold in California on or after September 22, 1981, unless the insulating material, container, bundle or similar packaging material bears a visible Commission approved statement certifying that a representative sample of the insulation material has been tested and approved by an approved laboratory and complies with the requirements of this article.
+
+(b)The Commission-approved statement shall consist of either:
+
+1.A design or statement approved by the Executive Director, or
+
+2.An identification of the manufacturer and any statement that the material meets the quality standards of the State of California.
+
+3.A statement that the material meets the quality standards of the State of California included in the bill of lading shall meet the requirements of this section only if the product is being shipped in bulk, or the container or product is not otherwise labeled by the manufacturer and the product is being sold to its ultimate user.
+
+(c)Any representation of thermal performance which appear on any label, literature, advertising or any other writing intended for the public shall be consistent with the certification testing results and derating required by this article.
+
+(d)Any insulation with facings and membranes for which the flame spread exceeds 25 when tested with facings and membranes exposed to the flame during the ANSI/ASTM E84-79 test must be clearly labeled with a statement that the product may be highly combustible if used in an exposed application. This subsection shall not apply to any product meeting the requirements of Sections 2602.1-2602.6 of the 1994 Uniform Building Code.
+
+Authority: Section 25218(e), Public Resources Code.
+
+Reference: Section 25921, Public Resources Code.
+
+HISTORY:
+
+1.Amendment of subsections (a) and (c) filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+INSPECTIONS
+
+Sec. 12-13-1558.
+
+After September 22, 1981, the Commission may, upon the consent of the owner or lessee, or upon securing a search warrant, have access, during normal working hours, to the premises of manufacturers, distributors and retailers of insulating material sold for installation within the state for the purpose of determining compliance with the standards promulgated pursuant to Chapter 10.5 of the California Public Resources Code. Such access shall be for the purposes of obtaining representative samples of subject insulation and inspecting records and documents pertaining to tests by approved testing labs.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Section 25926, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+PERFORMANCE TESTS
+
+Sec. 12-13-1559.
+
+The Commission may conduct, or may contract with others to conduct, independent performance tests of representative samples of insulation sold in the state to determine compliance with standards adopted pursuant to Chapter 10.5 of the California Public Resources Code. Such tests shall form the basis for instituting enforcement proceedings.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Section 25926, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+COSTS OF INSPECTION AND TESTING (Reserved)
+
+Sec. 12-13-1560.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Section 25926, Public Resources Code.
+
+HISTORY:
+
+1.Repealer filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+ENFORCEMENT (Reserved)
+
+Sec. 12-13-1561.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Section 25931, Public Resources Code.
+
+HISTORY:
+
+1.Repealer filed 6-26-79; effective thirtieth day thereafter (Register 79, No. 26).
+
+RELEASE OF INFORMATION
+
+Sec. 12-13-1562.
+
+Persons submitting information to the Commission who wish information to be kept confidential shall comply with the provisions of Sections 2501-2511 of the Public Resources Code.
+
+Authority: Section 25218(e), Public Resources Code.
+
+Reference: Sections 25223 and 25921.1, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+LIABILITY
+
+Sec. 12-13-1563.
+
+Nothing in this article shall be construed as imposing responsibility on manufacturers for misuse of properly labeled insulation.
+
+Authority: Section 25218(e), Public Resources Code.
+
+Reference: Sections 25926 and 25931, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+INSULATING EXISTING BUILDINGS
+
+Sec. 12-13-1564.
+
+(a) On or after March 25, 1982, if insulating material is installed in an existing building, in any of the applications specified in California Code of Regulations, Title 24, Part 6, Section 118, the installing contractor shall certify that the amount of insulation installed meets or exceeds the requirements of Part 6, Section 118 for that application. Such certification shall be made on completion of the installation by posting in a conspicuous location a certificate signed under penalty of perjury. The certificate shall state the manufacturer’s name and material identification, the thermal resistance (R-value) of the newly installed insulation, the estimated R-value of the original insulation, the total R-value, and (in application of loose fill insulation) the minimum contractor installed weight per square foot. This installed weight per square foot shall conform with the manufacturer’s installed design density per square foot at the manufacturer’s labeled R-value.
+
+(b)Water heater insulation kits. No water heater insulation kit shall be sold, on or after March 25, 1982, unless it has a thermal resistance of at least R-6 and is so identified.
+
+Each water heater insulation kit sold shall include instructions which are equivalent to the Department of Energy standard practice for the installation of insulation on gas-fired, oil-fired and electric resistance water heaters, 44 Fed. Reg. pages 64703-64705.
+
+Authority: Section 25922, Public Resources Code.
+
+Reference: Section 25922, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+
+2.Editorial correction of subsection (a) filed 1-13-82 (Register 82, No. 2).
+
+INTERPRETATION
+
+Sec. 12-13-1565.
+
+The General Counsel of the Commission shall make a determination as to the application or interpretation of any provision of this article to any person requesting such a determination. Any such request shall be submitted in writing to the Commission. The Commission shall make written replies to such inquiries and shall widely publish interpretations that have broad application or interest.
+
+Authority: Section 25218 (e), Public Resources Code.
+
+Reference: Sections 25920 and 25922, Public Resources Code.
+
+HISTORY:
+
+1.Amendment filed 8-10-81; designated effective 9-22-81 (Register 81, No. 33).
+

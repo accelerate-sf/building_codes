@@ -1,0 +1,290 @@
+ARRANGEMENT AND FORMAT OF THE 2021 IBC
+
+Before applying the requirements of the IBC, it is beneficial to understand its arrangement and format. The IBC, like other codes published by ICC, is arranged and organized to follow sequential steps that generally occur during a plan review or inspection.
+
+The following table shows how the IBC is divided. The three tables following that show IBC requirements that are correlated with other I-Codes. Lastly, the ensuing chapter-by-chapter synopsis details the scope and intent of the provisions of the IBC.
+
+CHAPTER TOPICS
+
+Chapters	Subjects
+1–2	Administration and definitions
+3	Use and occupancy classifications
+4, 31	Special requirements for specific occupancies or elements
+5–6	Height and area limitations based on type of construction
+7–9	Fire resistance and protection requirements
+10	Requirements for evacuation
+11	Specific requirements to allow use and access to a building for persons with disabilities
+12–13, 27–30	Building systems, such as lighting, HVAC, plumbing fixtures, elevators
+14–26	Structural components—performance and stability
+32	Encroachment outside of property lines
+33	Safeguards during construction
+35	Referenced standards
+Appendices A–O	AppendicesIFC Correlated Topics
+The IBC requirements for hazardous materials, fire-resistance-rated construction, interior finish, fire protection systems, means of egress, emergency and standby power, and temporary structures are directly correlated with the requirements of the IFC. The following table shows chapters/sections of IBC that are correlated with the IFC:
+
+IBC/IFC CORRELATED TOPICS
+
+IBC Chapter/Section	IFC Chapter/Section	Subject
+Sections 307, 414, 415	Chapters 50–67	Hazardous materials and Group H requirements
+Chapter 7	Chapter 7	Fire-resistance-rated construction (fire and smoke protection features in the IFC)
+Chapter 8	Chapter 8	Interior finish, decorative materials and furnishings
+Chapter 9	Chapter 9	Fire protection systems
+Chapter 10	Chapter 10	Means of egress
+Chapter 27	Section 604	Standby and emergency power
+Section 3103	Chapter 31	Temporary structuresIMC Correlated Topics
+The IBC requirements for smoke control systems, and smoke and fire dampers are directly correlated to the requirements of the IMC. IBC Chapter 28 is a reference to the IMC and the IFGC for chimneys, fireplaces and barbecues, and all aspects of mechanical systems. The following table
+shows chapters/sections of the IBC that are correlated with the IMC:
+
+IBC/IMC CORRELATED TOPICS
+
+IBC Chapter/Section	IMC Chapter/Section	Subject
+Section 717	Section 607	Smoke and fire dampers
+Section 909	Section 513	Smoke controlIPC Correlated Topics
+The IBC requirements for plumbing fixtures and toilet rooms are directly correlated to the requirements of the IPC. The following table shows chapters/sections  of the IBC that are correlated with the IPC:
+
+IBC/IPC CORRELATED TOPICS
+
+IBC Chapter/Section	IPC Chapter/Section	Subject
+Chapter 29	Chapters 3 & 4	Plumbing fixtures and facilitiesChapter 1 Scope and Administration
+
+Chapter 1 establishes the limits of applicability of the code and describes how the code is to be applied and enforced. Chapter 1 is in two parts, Part 1—Scope and Application (Sections 101-102) and Part 2—Administration and Enforcement (Sections 103-116). Section 101 identifies which buildings and structures come under its purview and references other I-Codes as applicable. Standards and codes are scoped to the extent referenced (see Section 102.4).
+
+The building code is intended to be adopted as a legally enforceable document and it cannot be effective without adequate provisions for its administration and enforcement. The provisions of Chapter 1 establish the authority and duties of the building official appointed by the authority having jurisdiction and also establish the rights and privileges of the design professional, contractor and property owner.
+
+Chapter 2 Definitions
+
+All terms that are defined in the code are listed alphabetically in Chapter 2. While a defined term may be used in one chapter or another, the meaning provided in Chapter 2 is applicable throughout the code.
+
+Where understanding a term’s definition is especially key to or necessary for understanding a particular code provision, the term is shown in italics. This is true only for those terms that have a meaning that is unique to the code. In other words, the generally understood meaning of a term or phrase might not be sufficient or consistent with the meaning prescribed by the code; therefore, it is essential that the code-defined meaning be known.
+
+Guidance regarding tense, gender and plurality of defined terms as well as guidance regarding
+terms not defined in this code is provided.
+
+Chapter 3 Occupancy Classification and Use
+
+Chapter 3 provides for the classification of buildings, structures and parts thereof based on the purpose or purposes for which they are used. Section 302 identifies the groups into which all buildings, structures and parts thereof must be classified. Sections 303 through 312 identify the occupancy characteristics of each group classification. In some sections, specific group classifications having requirements in common are collectively organized such that one term applies to all. For example, Groups A-1, A-2, A-3, A-4 and A-5 are individual groups for assembly-type buildings. The general term “Group A,” however, includes each of these individual groups. Other groups include Business (B), Educational (E), Factory (F-1, F-2), High Hazard (H-1, H-2, H-3, H-4, H-5), Institutional (I-1, I-2, I-3, I-4), Mercantile (M), Residential (R-1, R-2, R-3, R-4), Storage (S-1, S-2) and Utility (U). In some occupancies, the smaller number means a higher hazard, but that is not always the case.
+
+Defining the use of the buildings is very important as it sets the tone for the remaining chapters of the code. Occupancy works with the height, area and construction type requirements in Chapters 5 and 6, as well as the special provisions in Chapter 4, to determine “equivalent risk,” or providing a reasonable level of protection or life safety for building occupants. The determination of equivalent risk involves three interdependent considerations: (1) the level of fire hazard associated with the specific occupancy of the facility; (2) the reduction of fire hazard by limiting the floor area and the height of the building based on the fuel load (combustible contents and burnable building components); and (3) the level of overall fire resistance provided by the type of construction used for the building. The greater the potential fire hazards indicated as a function of the group, the lesser the height and area allowances for a particular construction type.
+
+Occupancy classification also plays a key part in organizing and prescribing the appropriate protection measures. As such, threshold requirements for fire protection and means of egress systems are based on occupancy classification (see Chapters 9 and 10). Other sections of the code also contain requirements respective to the classification of building groups. For example, Section 706 specifies requirements for fire wall fire-resistance ratings that are tied to the occupancy classification of a building and Section 803.11 contains interior finish requirements that are dependent upon the occupancy classification. The use of the space, rather than the occupancy of the building, is utilized for determining occupant loading (Section 1004) and live loading (Section 1607).
+
+Over the useful life of a building, the activities in the building will evolve and change. Where the provisions of the code address uses differently, moving from one activity to another or from one level of activity to another is, by definition, a change of occupancy. The new occupancy must be in compliance with the applicable provisions.
+
+Chapter 4 Special Detailed Requirements Based on Occupancy and Use
+
+Chapter 4 contains the requirements for protecting special uses and occupancies, which are supplemental to the remainder of the code. Chapter 4 contains provisions that may alter requirements found elsewhere in the code; however, the general requirements of the code still apply unless modified within the chapter. For example, the height and area limitations established in Chapter 5 apply to all special occupancies unless Chapter 4 contains height and area limitations. In this case, the limitations in Chapter 4 supersede those in other sections. An example of this is the height and area limitations for open parking garages given in Section 406.5.4, which supersede the limitations given in Sections 504 and 506.
+
+In some instances, it may not be necessary to apply the provisions of Chapter 4. For example, if a covered mall building complies with the provisions of the code for Group M, Section 402 does not apply; however, other sections that address a use, process or operation must be applied to that specific occupancy, such as stages and platforms, special amusement buildings and hazardous materials (Sections 410, 411 and 414).
+
+The chapter includes requirements for buildings and conditions that apply to one or more groups, such as high-rise buildings, underground buildings or atriums. Special uses may also imply specific occupancies and operations, such as for Group H, hazardous materials, application of flammable finishes, drying rooms, organic coatings and combustible storage or hydrogen fuel gas rooms, all of which are coordinated with the IFC. Unique consideration is taken for special use areas, such as covered mall buildings, motor-vehicle-related occupancies, special amusement buildings and aircraft-related occupancies. Special facilities within other occupancies are considered, such as stages and platforms, motion picture projection rooms, children’s play structures and storm shelters. Finally, in order that the overall package of protection features can be easily understood, unique considerations for specific occupancies are addressed: Groups I-1, I-2, I-3, R-1, R-2, R-3 and R-4; and ambulatory care facilities and live/work units.
+
+Chapter 5 General Building Heights and Areas
+
+Chapter 5 contains the provisions that regulate the minimum type of construction for area limits and height limits based on the occupancy of the building. Height and area increases (including allowances for basements, mezzanines and equipment platforms) are permitted based on open frontage for fire department access, separation and the type of sprinkler protection provided (Sections 503-506, 510). These thresholds are reduced for buildings over three stories in height in accordance with Sections 506.2.1 and 506.2.2. Provisions include the protection and/or separation of incidental uses (Table 509.1), accessory occupancies (Section 508.2) and mixed uses in the same building (Sections 506.2.2, 508.3, 508.4 and 510). Unlimited area buildings are permitted in certain occupancies when they meet special provisions (Section 507). Live/work units are provided for in Section 508.5.
+
+Tables 504.3, 504.4 and 506.2 are the keystones in setting thresholds for building size based on the building’s use and the materials with which it is constructed. If one then looks at Tables 504.3, 504.4 and 506.2, the relationship among group classification, allowable heights and areas and types of construction becomes apparent. Respective to each group classification, the greater the fire-resistance rating of structural elements, as represented by the type of construction, the greater the floor area and height allowances. The greater the potential fire hazards indicated as a function of the group, the lesser the height and area allowances for a particular construction type. Starting in the 2015 edition, the table that once contained both height and area has been separated and these three new tables address the topics individually. In addition, the tables list criteria for buildings with and without automatic sprinkler systems.
+
+Chapter 6 Types of Construction
+
+The interdependence of these fire safety considerations can be seen by first looking at Tables 601 and 705.5, which show the fire-resistance ratings of the principal structural elements comprising a building in relation to the five classifications for types of construction. Type I construction is the classification that generally requires the highest fire-resistance ratings for structural elements, whereas Type V construction, which is designated as a combustible type of construction, generally requires the least amount of fire-resistance-rated structural elements. The greater the potential fire hazards indicated as a function of the group, the lesser the height and area allowances for a particular construction type. Section 603 includes a list of combustible elements that can be part of a noncombustible building (Types I and II construction).
+
+Chapter 7 Fire and Smoke Protection Features
+
+The provisions of Chapter 7 present the fundamental concepts of fire performance that all buildings are expected to achieve in some form. This chapter identifies the acceptable materials, techniques and methods by which proposed construction can be designed and evaluated against to determine a building’s ability to limit the impact of fire. The fire-resistance-rated construction requirements within Chapter 7 provide passive resistance to the spread and effects of fire. Types of separations addressed include fire walls, fire barriers, fire partitions, horizontal assemblies, smoke barriers and smoke partitions. A fire produces heat that can weaken structural components and smoke products that cause property damage and place occupants at risk. The requirements of Chapter 7 work in unison with height and area requirements (Chapter 5), active fire detection and suppression systems (Chapter 9) and occupant egress requirements (Chapter 10) to contain a fire should it occur while helping ensure occupants are able to safely exit.
+
+Chapter 7A Materials and Construction Methods for Exterior Wildfire Exposure
+
+The purpose of this chapter is to establish minimum standards for the protection of life and property by increasing the ability of a building located in any Fire Hazard Severity Zone within State Responsibility Areas or any Wildland-Urban Interface (WUI) Fire Area to resist the intrusion of flames or burning embers projected by a vegetation fire and contributes to a systematic reduction in conflagration losses.
+
+Chapter 8 Interior Finishes
+
+This chapter contains the performance requirements for controlling fire growth within buildings by restricting interior finish and decorative materials. Past fire experience has shown that interior finish and decorative materials are key elements in the development and spread of fire. The provisions of Chapter 8 require materials used as interior finishes and decorations to meet certain flame-spread index or flame-propagation criteria based on the relative fire hazard associated with the occupancy. As smoke is also a hazard associated with fire, this chapter contains limits on the smoke development characteristics of interior finishes. The performance of the material is evaluated based on test standards.
+
+Chapter 9 Fire Protection and Life Safety Systems
+
+Chapter 9 prescribes the minimum requirements for active systems of fire protection equipment to perform the following functions: detect a fire; alert the occupants or fire department of a fire emergency; and control smoke and control or extinguish the fire. Generally, the requirements are based on the occupancy, the height and the area of the building, because these are the factors that most affect fire-fighting capabilities and the relative hazard of a specific building or portion thereof. This chapter parallels and is substantially duplicated in Chapter 9 of the IFC; however, the IFC Chapter 9 also contains periodic testing criteria that are not contained in the IBC. In addition, the special fire protection system requirements based on use and occupancy found in IBC Chapter 4 are duplicated in IFC Chapter 9 as a user convenience.
+
+Chapter 10 Means of Egress
+
+The general criteria set forth in Chapter 10 regulating the design of the means of egress are established as the primary method for protection of people in buildings by allowing timely relocation or evacuation of building occupants. Both prescriptive and performance language is utilized in this chapter to provide for a basic approach in the determination of a safe exiting system for all occupancies. It addresses all portions of the egress system (i.e., exit access, exits and exit discharge) and includes design requirements as well as provisions regulating individual components. The requirements detail the size, arrangement, number and protection of means of egress components. Functional and operational characteristics also are specified for the components that will permit their safe use without special knowledge or effort. The means of egress protection requirements work in coordination with other sections of the code, such as protection of vertical openings (see Chapter 7), interior finish (see Chapter 8), fire suppression and detection systems (see Chapter 9) and numerous others, all having an impact on life safety. Chapter 10 of the IBC is duplicated in Chapter 10 of the IFC; however, the IFC contains one additional section on the means of egress system in existing buildings.
+
+Chapter 11A - Housing Accessibility and/or Chapter 11B - Accessibility to Public Buildings, Public Accommodations, Commercial Buildings and Public Housing
+
+Verify compliance with accessibility provisions. In order to be considered as accessible, buildings and their individual elements must comply with the applicable scoping and technical provisions of Chapter 11A and/or Chapter 11B.
+
+Chapter 12 Interior Environment
+
+Chapter 12 provides minimum standards for the interior environment of a building. The standards address the minimum sizes of spaces, minimum temperature levels, and minimum light and ventilation levels. The collection of requirements addresses limiting sound transmission through walls, ventilation of attic spaces and under floor spaces (crawl spaces). Finally, the chapter provides minimum standards for toilet and bathroom construction, including privacy shielding and standards for walls, partitions and floors to resist water intrusion and damage.
+
+Chapter 13 Energy Efficiency
+
+Refer to California Energy Code, Title 24, Part 6.
+
+Chapter 14 Exterior Walls
+
+This chapter addresses requirements for exterior walls of buildings. Minimum standards for wall covering materials, installation of wall coverings and the ability of the wall to provide weather protection are provided. This chapter also requires exterior walls that are close to lot lines, or that are bearing walls for certain types of construction, to comply with the minimum fire-resistance ratings specified in Chapters 6 and 7. The installation of each type of wall covering, be it wood, masonry, vinyl, metal composite material or an exterior insulation and finish system, is critical to its long-term performance in protecting the interior of the building from the elements and the spread of fire. Limitations on the use of combustible materials on exterior building elements such as balconies, eaves, decks and architectural trim are also addressed in this chapter.
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+Chapter 15 provides standards for both roof assemblies and structures that sit on top of the roofs of buildings. The criteria address roof construction and covering, including the weather-protective barrier at the roof and, in most circumstances, a fire-resistant barrier. The chapter is prescriptive in nature and is based on decades of experience with various traditional materials, but it also addresses newer products such as photovoltaic shingles. These prescriptive rules are very important for satisfying performance of one type of roof covering or another. Section 1511 addresses rooftop structures, including penthouses, tanks, towers and spires. Rooftop penthouses larger than prescribed in this chapter must be treated as a story under Chapter 5.
+
+Chapter 16 Structural Design
+
+Chapter 16 prescribes minimum structural loading requirements for use in the design and construction of buildings and structural components. It includes minimum design loads, assignment of risk categories and permitted design methodologies. Standards are provided for minimum design loads (live, dead, snow, wind, rain, flood, ice and earthquake as well as the required load combinations). The application of these loads and adherence to the serviceability criteria will enhance the protection of life and property. The chapter references and relies on many nationally recognized design standards. A key standard is the American Society of Civil Engineers’ Minimum Design Loads for Buildings and Other Structures (ASCE 7). Structural design must address the conditions of the site and location. Therefore, maps are provided of rainfall, seismic, snow and wind criteria in different regions.
+
+Chapter 17 Special Inspections and Tests
+
+Chapter 17 provides a variety of procedures and criteria for testing materials and assemblies, labeling materials and assemblies and special inspection of structural assemblies. This chapter expands on the inspections of Chapter 1 by requiring special inspection where indicated and, in some cases, structural observation. It also spells out additional responsibilities for the owner, contractor, design professionals and special inspectors. Proper assembly of structural components, proper quality of materials used and proper application of materials are essential to ensuring that a building, once constructed, complies with the structural and fire-resistance minimums of the code and the approved design. To determine this compliance often requires continuous or frequent inspection and testing. Chapter 17 establishes standards for special inspection, testing and reporting of the work to the building official.
+
+Chapter 18 Soils and Foundations
+
+Chapter 18 provides criteria for geotechnical and structural considerations in the selection, design and installation of foundation systems to support the loads from the structure above. This chapter includes requirements for soils investigation and site preparation for receiving a foundation, including the allowed load-bearing values for soils and for protecting the foundation from water intrusion. Section 1808 addresses the basic requirements for all foundation types. Later sections address foundation requirements that are specific to shallow foundations and deep foundations. Due care must be exercised in the planning and design of foundation systems based on obtaining sufficient soils information, the use of accepted engineering procedures, experience and good technical judgment.
+
+Chapter 19 Concrete
+
+This chapter provides minimum accepted practices for the design and construction of buildings and structural components using concrete—both plain and reinforced. Chapter 19 relies primarily on the reference to American Concrete Institute (ACI) 318, Building Code Requirements for Structural Concrete. This chapter also includes references to additional standards. Structural concrete must be designed and constructed to comply with this code and all listed standards. There are specific sections of the chapter addressing concrete slabs, anchorage to concrete and shotcrete. Because of the variable properties of material and numerous design and construction options available in the uses of concrete, due care and control throughout the construction process is necessary.
+
+Chapter 20 Aluminum
+
+Chapter 20 contains standards for the use of aluminum in building construction. Only the structural applications of aluminum are addressed. This chapter does not address the use of aluminum in specialty products such as storefront or window framing or architectural hardware. The use of aluminum in heating, ventilating or air-conditioning systems is addressed in the IMC. This chapter references national standards from the Aluminum Association for use of aluminum in building construction, AA ASM 35, Aluminum Sheet Metal Work in Building Construction, and AA ADM, Aluminum Design Manual. By utilizing the standards set forth, a proper application of this material can be obtained.
+
+Chapter 21 Masonry
+
+This chapter provides comprehensive and practical requirements for masonry construction. The provisions of Chapter 21 require minimum accepted practices and the use of standards for the design and construction of masonry structures. The provisions address: material specifications and test methods; types of wall construction; criteria for engineered and empirical designs; and required details of construction, including the execution of construction. Masonry design methodologies including allowable stress design, strength design and empirical design are covered by provisions of this chapter. Also addressed are masonry fireplaces and chimneys, masonry heaters and glass unit masonry. Fire-resistant construction using masonry is also required to comply with Chapter 7. Masonry foundations are also subject to the requirements of Chapter 18.
+
+Chapter 22 Steel
+
+Chapter 22 provides the requirements necessary for the design and construction of structural steel (including composite construction), cold-formed steel, steel joists, steel cable structures and steel storage racks. This chapter specifies appropriate design and construction standards for these types of structures. It also provides a road map of the applicable technical requirements for steel structures. Because steel is a noncombustible building material, it is commonly associated with Types I and II construction; however, it is permitted to be used in all types of construction. Chapter 22 requires that the design and use of steel materials be in accordance with the specifications and standards of the American Institute of Steel Construction, the American Iron and Steel Institute, the Steel Joist Institute and the American Society of Civil Engineers.
+
+Chapter 23  Wood
+
+This chapter provides minimum requirements for the design of buildings and structures that use wood and wood-based products. The chapter is organized around three design methodologies: allowable stress design (ASD), load and resistance factor design (LRFD) and conventional light-frame construction. Included in this chapter are references to design and manufacturing standards for various wood and wood-based products; general construction requirements; design criteria for lateral force-resisting systems and specific requirements for the application of the three design methods. In general, only Type III, IV or V buildings may be constructed of wood.
+
+Chapter 24 Glass and Glazing
+
+This chapter establishes regulations for glass and glazing that, when installed in buildings and structures, are subjected to wind, snow and dead loads. Engineering and design requirements are included in the chapter. Additional structural requirements are found in Chapter 16. Another concern of this chapter is glass and glazing used in areas where it is likely to be impacted by the occupants. Section 2406 identifies hazardous locations where glazing installed must either be safety glazing or blocked to prevent human impact. Safety glazing must meet stringent standards and be appropriately marked or identified. Additional requirements are provided for glass and glazing in guards, handrails, elevator hoistways and elevator cars, as well as in athletic facilities.
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+Chapter 25 contains the provisions and referenced standards that regulate the design, construction and quality of gypsum board, gypsum panel products and plaster. It also addresses reinforced gypsum concrete. These represent the most common interior and exterior finish materials in the building industry. This chapter primarily addresses quality-control-related issues with regard to material specifications and installation requirements. Most products are manufactured under the control of industry standards. The building official or inspector primarily needs to verify that the appropriate product is used and properly installed for the intended use and location. While often simply used as wall and ceiling coverings, proper design and application are necessary to provide weather resistance and required fire protection for both structural and nonstructural building components.
+
+Chapter 26 Plastic
+
+The use of plastics in building construction and components is addressed in Chapter 26. This chapter provides standards addressing foam plastic insulation, foam plastics used as interior finish and trim, and other plastic veneers used on the inside or outside of a building. Plastic siding is regulated by Chapter 14. Sections 2606 through 2611 address the use of light-transmitting plastics in various configurations such as walls, roof panels, skylights, signs and as glazing. Requirements for the use of fiber-reinforced polymers, fiberglass-reinforced polymers and reflective plastic core insulation are also contained in this chapter. Additionally, requirements specific to the use of wood-plastic composites and plastic lumber are contained in this chapter. Some plastics exhibit rapid flame spread and heavy smoke density characteristics when exposed to fire. Exposure to the heat generated by a fire can cause some plastics to deform, which can affect their performance. The requirements and limitations of this chapter are necessary to control the use of plastic and foam plastic products such that they do not compromise the safety of building occupants.
+
+Chapter 27 Electrical
+
+Since electrical systems and components are an integral part of almost all structures, it is necessary for the code to address the installation of such systems. For this purpose, Chapter 27 references the National Electrical Code (NEC). In addition, Section 2702 addresses emergency and standby power requirements. Such systems must comply with the IFC and referenced standards. This section also provides references to the various code sections requiring emergency and standby power, such as high-rise buildings and buildings containing hazardous materials.
+
+Chapter 28 Mechanical Systems
+
+Nearly all buildings will include mechanical systems. This chapter provides references to the IMC and the IFGC for the design and installation of mechanical systems. In addition, Chapter 21 of this code is referenced for masonry chimneys, fireplaces and barbecues.
+
+Chapter 29 Plumbing Systems
+
+Chapter 29 regulates the minimum number of plumbing fixtures that must be provided for every type of building. This chapter also regulates the location of the required fixtures in various types of buildings. This section requires separate facilities for males and females except for certain types of small occupancies. The regulations in this chapter come directly from Chapters 3 and 4 of the IPC.
+
+Chapter 30 Elevators and Conveying Systems
+
+Chapter 30 provides standards for the installation of elevators into buildings. Referenced standards provide the requirements for the elevator system and mechanisms. Detailed standards are provided in the chapter for hoistway enclosures, machine rooms and requirements for sizing of elevators. Beginning in the 2015 edition of this code, the elevator lobby requirements were moved from Chapter 7 to Chapter 30 to pull all the elevator-related construction requirements together. New provisions were added in the 2009 edition for fire service access elevators required in high-rise buildings and for the optional choice of occupant evacuation elevators (see Section 403).
+
+Chapter 31 Special Construction
+
+Chapter 31 contains a collection of regulations for a variety of unique structures and architectural features. Pedestrian walkways and tunnels connecting two buildings are addressed in Section 3104. Membrane and air-supported structures are addressed by Section 3102. Safeguards for swimming pool safety are addressed by way of reference to the ISPSC in Section 3109. Standards for temporary structures, including permit requirements, are provided in Section 3103. Structures as varied as awnings, marquees, signs, telecommunication and broadcast towers and automatic vehicular gates are also addressed (see Sections 3105 through 3108 and 3110).
+
+Chapter 31A Systems for Window Cleaning or Exterior Building Maintenance
+
+Chapter 31B Public Pools
+
+Chapter 31C Radiation
+
+Chapter 31D Food Establishments
+
+Chapter 31E Reserved
+
+Chapter 31F Marine Oil Terminals
+
+Chapter 32 Encroachments into the Public Right-of-way
+
+Buildings and structures from time to time are designed to extend over a property line and into the public right-of-way. Local regulations outside of the building code usually set limits to such encroachments, and such regulations take precedence over the provisions of this chapter. Standards are provided for encroachments below grade for structural support, vaults and areaways. Encroachments above grade are divided into below 8 feet, 8 feet to 15 feet, and above 15 feet, because of headroom and vehicular height issues. This includes steps, columns, awnings, canopies, marquees, signs, windows and balconies. Similar architectural features above grade are also addressed. Pedestrian walkways must also comply with Chapter 31.
+
+Chapter 33 Safeguards During Construction
+
+Chapter 33 provides safety requirements during construction and demolition of buildings and structures. These requirements are intended to protect the public from injury and adjoining property from damage. In addition the chapter provides for the progressive installation and operation of exit stairways and standpipe systems during construction.
+
+Chapter 34 Reserved
+
+During the 2015 code change cycle the membership voted to delete Chapter 34, Existing Structures, from this code and reference the IEBC. The provisions that were in Chapter 34 appear in the IEBC. Former Sections 3402 through 3411 appear as IEBC Chapter 4 and Section 3412 as Chapter 14.
+
+Chapter 35 Referenced Standards
+
+The code contains numerous references to standards that are used to regulate materials and methods of construction. Chapter 35 contains a comprehensive list of all standards that are referenced in the code, including the appendices. The standards are part of the code to the extent of the reference to the standard (see Section 102.4). Compliance with the referenced standard is necessary for compliance with this code. By providing specifically adopted standards, the construction and installation requirements necessary for compliance with the code can be readily determined. The basis for code compliance is, therefore, established and available on an equal basis to the building official, contractor, designer and owner.
+
+Chapter 35 is organized in a manner that makes it easy to locate specific standards. It lists all of the referenced standards, alphabetically, by acronym of the promulgating agency of the standard. Each agency’s standards are then listed in either alphabetical or numeric order based upon the standard identification. The list also contains the title of the standard; the edition (date) of the standard referenced; any addenda included as part of the ICC adoption; and the section or sections of this code that reference the standard.
+
+Appendices
+
+Appendices are provided in the IBC to offer optional or supplemental criteria to the provisions in the main chapters of the code. Appendices provide additional information for administration of the Department of Building Safety as well as standards not typically administered by all building departments. Appendices have the same force and effect as the first 35 chapters of the IBC only when explicitly adopted by the jurisdiction.
+
+Appendix A Employee Qualifications
+
+Effective administration and enforcement of the family of International Codes depends on the training and expertise of the personnel employed by the jurisdiction and their knowledge of the codes. Section 103 of the code establishes the Department of Building Safety and calls for the appointment of a building official and deputies such as plans examiners and inspectors. Appendix A provides standards for experience, training and certification for the building official and the other staff mentioned in Chapter 1.
+
+Appendix B Board of Appeals
+
+Section 113 requires the establishment of a board of appeals to hear appeals regarding determinations made by the building official. Appendix B provides qualification standards for members of the board as well as operational procedures of such board.
+
+Appendix C Group U—Agricultural Buildings
+
+Appendix C provides a more liberal set of standards for the construction of agricultural buildings, rather than strictly following the utility building provision, reflective of their specific usage and limited occupant load. The provisions of this appendix, when adopted, allow reasonable heights and areas commensurate with the risk of agricultural buildings.
+
+Appendix D Fire Districts
+
+Fire districts have been a tool used to limit conflagration hazards in areas of a city with intense and concentrated development. More frequently used under the model codes that preceded the IBC, this appendix is provided to allow jurisdictions to continue the designation and use of fire districts. Fire district standards restrict certain occupancies within the district, as well as setting higher minimum construction standards.
+
+Appendix E Reserved
+
+Appendix F Rodentproofing
+
+The provisions of this appendix are minimum mechanical methods to prevent the entry of rodents into a building. These standards, when used in conjunction with cleanliness and maintenance programs, can significantly reduce the potential of rodents invading a building.
+
+Appendix G Flood-resistant Construction
+
+Appendix G is intended to fulfill the flood-plain management and administrative requirements of the National Flood Insurance Program (NFIP) that are not included in the code. Communities that adopt the IBC and Appendix G will meet the minimum requirements of NFIP as set forth in Title 44 of the Code of Federal Regulations.
+
+Appendix H Signs
+
+Appendix H gathers in one place the various code standards that regulate the construction and protection of outdoor signs. Whenever possible, this appendix provides standards in performance language, thus allowing the widest possible application.
+
+Appendix I Patio Covers
+
+Appendix I provides standards applicable to the construction and use of patio covers. It is limited in application to patio covers accessory to dwelling units. Covers of patios and other outdoor areas associated with restaurants, mercantile buildings, offices, nursing homes or other nondwelling occupancies would be subject to standards in the main code and not this appendix.
+
+Appendix J Grading
+
+Appendix J provides standards for the grading of properties. This appendix also provides standards for administration and enforcement of a grading program including permit and inspection requirements. Appendix J was originally developed in the 1960s and used for many years in jurisdictions throughout the western United States. It is intended to provide consistent and uniform code requirements anywhere grading is considered an issue.
+
+Appendix K Group R-3 and Group R-3.1 Occupancies Protected by the Facilities of the Central Valley Flood Protection Plan
+
+Appendix K provides provisions applicable to new construction, changes of use and to substantial improvement and restoration of substantial damage as defined in Section 1612 of Group R-3 and R-3.1 located in areas protected by the facilities of the Central Valley Flood Protection Plan.
+
+Appendix L Earthquake Recording Instrumentation
+
+The purpose of this appendix is to foster the collection of ground motion data, particularly from strong-motion earthquakes. When this ground motion data is synthesized, it may be useful in developing future improvements to the earthquake provisions of the IBC.
+
+Appendix M Tsunami-Generated Flood Hazards
+
+Addressing a tsunami risk for all types of construction in a tsunami hazard zone through building code requirements would typically not be cost effective, making tsunami-resistant construction impractical at an individual building level. However, this appendix does allow the adoption and enforcement of requirements for tsunami hazard zones that regulate the presence of high-risk or high-hazard structures.
+
+Appendix N Replicable Buildings
+
+Many jurisdictions have recognized the need for some form of expedited review process for replicable buildings. By codifying the approach contained in the ICC G1-2010 Guideline for Replicable Buildings, this appendix provides jurisdictions with a means of incorporating replicable building requirements into their building code adoption process. The intent is to streamline the plan review process at the local level by removing redundant reviews.
+
+Appendix O Performance-based Application
+
+Appendix O provides an optional design, review and approval framework for use by the building official. It simply extracts the relevant administrative provisions from the ICCPC into a more concise, usable appendix format for a jurisdiction confronted with such a need. Typical uses would include cases of alternate methods in Chapter 1 and select areas of the code that require a rational analysis, such as Section 909.
+
+Appendix P Emergency Housing
+
+This appendix shall be applicable to emergency housing and emergency housing facilities. Emergency sleeping cabins, emergency transportable housing units, membrane structures and tents constructed and assembled in accordance with this appendix shall be occupied only during declaration of state of emergency, local emergency or shelter crises. Buildings and structures constructed in accordance with the California Building Code, used as emergency housing, shall be permitted to be permanently occupied.
+

@@ -1,0 +1,87 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AW – 3D-PRINTED BUILDING CONSTRUCTION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AW 3D-PRINTED BUILDING CONSTRUCTION
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+SECTION AW101 GENERAL
+
+AW101.1 Scope.
+
+Buildings, structures and building elements fabricated in whole or in part using 3D-printed construction techniques shall be designed, constructed and inspected in accordance with the provisions contained in this appendix and other applicable requirements in this code.
+
+AW101.2 Definitions.
+
+The words and terms in Section AW102 shall, for the purposes of this appendix, have the meanings shown herein. Refer to Chapter 2 of this code for general definitions.
+
+SECTION AW102 DEFINITIONS
+
+3D-PRINTED BUILDING CONSTRUCTION. A process for fabricating buildings, structures and building elements from 3D model data using automated equipment that deposits construction material in a layer-upon-layer fashion.
+
+ADDITIVE MANUFACTURING MATERIALS. Materials used by the 3D printer to produce the building structure or system components of the building.
+
+FABRICATION PROCESS. Preparation of the job site and construction material, the deposition, curing, finishing, insertion of components and other methods used to construct building elements such as walls, partitions, roof assemblies and structural components, and the means used to connect assemblies together.
+
+PRODUCTION EQUIPMENT. The equipment, including the 3D printer, its settings, nozzles and other accessories used in the fabrication process.
+
+SYSTEM COMPONENTS. Devices, equipment and appliances that are installed in the building elements as part of the wiring, plumbing, HVAC and other systems. These include, but are not limited to, electrical outlet boxes, conduit, wiring, piping, tubing and HVAC ducts, each of which is covered by a product standard or installation code requirement.
+
+SECTION AW103 BUILDING DESIGN
+
+AW103.1 Design organization.
+
+3D-printed buildings, structures and building elements shall be designed by an organization certified in accordance with UL 3401 by an approved agency and approved by the building official in accordance with this section.
+
+AW103.2 Design approval.
+
+The structural design, construction documents and UL 3401 report of findings shall be submitted for review and approval in accordance with Section 104.11.
+
+SECTION AW104 BUILDING CONSTRUCTION
+
+AW104.1 Construction.
+
+3D-printed buildings, structures and building elements shall be constructed in accordance with this section.
+
+AW104.2 Construction method.
+
+The building construction method, consisting of the manufacturer’s production equipment and fabrication process, shall be in accordance with the UL 3401 report of findings. The unique identifier of the construction method used shall match the identifier in the UL 3401 report of findings.
+
+AW104.3 Additive manufacturing materials.
+
+Only the listed additive manufacturing materials identified in the UL 3401 report of findings shall be used to fabricate the building structure or system components. Containers of the additive manufacturing materials shall be labeled.
+
+AW104.4 Depositing of manufacturing materials.
+
+Manufacturing materials shall only be deposited where ambient temperature and environmental conditions at the job site are within limits specified in the UL 3401 report of findings. The maximum number of layers permitted, specified curing time and any surface preparation or finishing shall be performed as specified in the UL 3401 report of findings.
+
+SECTION AW105 SPECIAL INSPECTIONS
+
+AW105.1 Initial inspection.
+
+An initial inspection of the production equipment, including 3D printer, and the fabrication process shall be performed after the production equipment is located on site and before building fabrication has begun. The inspection shall be conducted by representatives of the approved agency that evaluated the fabrication process for compliance with UL 3401. The inspection shall verify that the fabrication process, including production equipment, 3D-printing parameters and additive manufacturing materials, are in accordance with the UL 3401 report of findings and the proprietary information in the UL 3401 detailed report of findings.
+
+Exception: Where approved by the building official, inspections of the production equipment, including 3D printer, and the fabrication process used in a single housing tract shall be conducted on the first building to be constructed, and on a selected number of subsequent buildings, where the same equipment, equipment operators and fabrication process are used on all buildings. The number of inspections to be performed shall be determined by the building official.
+
+SECTION AW106 REFERENCED STANDARDS
+
+AW106.1 General.
+
+See Table AW106.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, the standard title and the section or sections of this appendix that reference the standard.
+
+TABLE AW106.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+UL 3401—19	Outline of Investigation for 3D Printed Building Construction	AW103.2, AW104.2, AW104.3, AW104.4, AW105.1
+

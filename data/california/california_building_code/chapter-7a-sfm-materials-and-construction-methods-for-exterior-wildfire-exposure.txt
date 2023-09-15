@@ -1,0 +1,749 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE CHAPTER 7A – MATERIALS AND CONSTRUCTION METHODS FOR EXTERIOR WILDFIRE EXPOSURE
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter			X																				
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							CHAPTER 7A [SFM] [SFM] MATERIALS AND CONSTRUCTION METHODS FOR EXTERIOR WILDFIRE EXPOSURE MATERIALS AND CONSTRUCTION METHODS FOR EXTERIOR WILDFIRE EXPOSURE
+
+SECTION 701A SCOPE, PURPOSE AND APPLICATION
+
+701A.1 Scope
+
+This chapter applies to building materials, systems and/or assemblies used in the exterior design and construction of new buildings located within a Wildland-Urban Interface (WUI) Fire Area as defined in Section 702A.
+
+701A.2 Purpose
+
+The purpose of this chapter is to establish minimum standards for the protection of life and property by increasing the ability of a building located in any Fire Hazard Severity Zone within State Responsibility Areas or any Wildland-Urban Interface (WUI) Fire Area to resist the intrusion of flames or burning embers projected by a vegetation fire and contributes to a systematic reduction in conflagration losses.
+
+701A.3 Application
+
+New buildings located in any Fire Hazard Severity Zone or any Wildland-Urban Interface (WUI) Fire Area designated by the enforcing agency constructed after the application date shall comply with the provisions of this chapter. This shall include all new buildings with residential, commercial, educational, institutional or similar occupancy type use, which shall be referred to in this chapter as “applicable building(s)” (see definition in Section 702A), as well as new buildings and structures accessory to those applicable buildings (see Exceptions 1 and 4).
+
+Exceptions:
+
+1.Group U occupancy accessory buildings of any size located at least 50 feet (15 240 mm) from an applicable building on the same lot.
+
+2. Group U occupancy agricultural buildings, as defined in Section 202 of this code of any size located at least 50 feet (15 240 mm) from an applicable building.
+
+3. Group C occupancy special buildings conforming to the limitations specified in Section 450.4.1.
+
+4. New accessory buildings and miscellaneous structures specified in Section 710A shall comply only with the requirements of that section.
+
+5. Additions to and remodels of buildings originally constructed prior to July 1, 2008.
+
+701A.3.1 Application date and where required
+
+New buildings for which an application for a building permit is submitted on or after July 1, 2008 located in any Fire Hazard Severity Zone or Wildland Interface Fire Area shall comply with all sections of this chapter, including all of the following areas:
+
+1.All unincorporated lands designated by the State Board of Forestry and Fire Protection as State Responsibility Area (SRA) including:
+
+1.1.Moderate Fire Hazard Severity Zones.
+
+1.2.High Fire Hazard Severity Zones.
+
+1.3.Very-High Fire Hazard Severity Zones.
+
+2.Land designated as Very-High Fire Hazard Severity Zone by cities and other local agencies.
+
+3.Land designated as Wildland Interface Fire Area by cities and other local agencies.
+
+Exceptions:
+
+1.New buildings located in any Fire Hazard Severity Zone within State Responsibility Areas, for which an application for a building permit is submitted on or after January 1, 2008, shall comply with all sections of this chapter.
+
+2.New buildings located in any Fire Hazard Severity Zone within State Responsibility Areas or any Wildland Interface Fire Area designated by cities and other local agencies for which an application for a building permit is submitted on or after December 1, 2005 but prior to July 1, 2008, shall only comply with the following sections of this chapter:
+
+2.1.Section 705A – Roofing.
+
+2.2.Section 706A – Attic Ventilation.
+
+
+
+701A.4 Inspection and certification
+
+Building permit applications and final completion approvals for buildings within the scope and application of this chapter shall comply with the following:
+
+1.Building permit issuance. The local building official shall, prior to construction, provide the owner or applicant a certification that the building as proposed to be built complies with all applicable state and local building standards, including those for materials and construction methods for wildfire exposure as described in this chapter. Issuance of a building permit by the local building official for the proposed building shall be considered as complying with this section.
+
+2.Building permit final. The local building official shall, upon completion of construction, provide the owner or applicant with a copy of the final inspection report that demonstrates the building was constructed in compliance with all applicable state and local building standards, including those for materials and construction methods for wildfire exposure as described in this chapter. Issuance of a certificate of occupancy by the local building official for the proposed building shall be considered as complying with this section.
+
+701A.5 Vegetation management compliance
+
+Prior to building permit final approval, the property shall be in compliance with the vegetation management requirements prescribed in California Fire Code Section 4906, including California Public Resources Code 4291 or California Government Code Section 51182. Acceptable methods of compliance inspection and documentation shall be determined by the enforcing agency and shall be permitted to include any of the following:
+
+1.Local, state or federal fire authority or designee authorized to enforce vegetation management requirements.
+
+2.Enforcing agency.
+
+3.Third party inspection and certification authorized to enforce vegetation management requirements.
+
+4.Property owner certification authorized by the enforcing agency.
+
+SECTION 702A DEFINITIONS
+
+For the purposes of this chapter, certain terms are defined below:
+
+APPLICABLE BUILDING. A building that has residential, commercial, educational, institutional or similar occupancy type use.
+
+DIRECTOR.Director of the California Department of Forestry  and Fire Protection (CAL FIRE).
+
+EXTERIOR WALL ASSEMBLY. A system or assembly of exterior wall components, including exterior wall covering materials, that provides protection of the building structural members, including framing and sheathing materials, and conditioned interior space, from the detrimental effects of the exterior environment.
+
+EXTERIOR WALL COVERING. A material or assembly of materials applied on the exterior side of exterior walls for the purpose of providing a weather-resisting barrier, insulation or for aesthetics, including but not limited to veneers, siding, exterior insulation and finish systems, architectural trim, and embellishments such as cornices, soffits, fascias, gutters and leaders.
+
+FIRE HAZARD SEVERITY ZONES. Geographical areas designated pursuant to California Public Resources Codes Sections 4201 through 4204 and classified as Very High, High or Moderate in State Responsibility Areas or as Local Responsibility Areas in Very High Fire Hazard Severity Zones designated pursuant to California Government Code, Sections 51175 through 51189. See California Fire Code Chapter 49.
+
+The California Code of Regulations, Title 14, Section 1280, entitles the maps of these geographical areas as “Maps of the Fire Hazard Severity Zones in the State Responsibility Area of California.”
+
+FIRE PROTECTION PLAN. A document prepared for a specific project or development proposed for a Wildland-Urban Interface (WUI) Fire Area. It describes ways to minimize and mitigate potential for loss from wildfire exposure.
+
+The Fire Protection Plan shall be in accordance with this chapter and the California Fire Code, Chapter 49.
+
+FIRE-RESISTANT VEGETATION. Plants, shrubs, trees and other vegetation that exhibit properties, such as high moisture content, little accumulation of dead vegetation, and low sap or resin content, that make them less likely to ignite or contribute heat or spread flame in a fire than native vegetation typically found in the region.
+
+Note: The following sources contain examples of types of vegetation that can be considered as fire-resistant vegetation. (Fire-resistant Plants for Home Landscapes, A Pacific Northwest Extension publication; Home Landscaping for Fire, University of California Division of Agriculture and Natural Resources; Sunset Western Garden Book)
+
+IGNITION-RESISTANT MATERIAL. A type of building material that complies with the requirements in Section 704A.2.
+
+
+
+LOCAL RESPONSIBILITY AREA (LRA). Areas of the state in which the financial responsibility of preventing and suppressing fires is the primary responsibility of a city, county, city and county, or district.
+
+LOG WALL CONSTRUCTION.  A type of construction in which exterior walls are constructed of solid wood members and where the smallest horizontal dimension of each solid wood member is at least 6 inches (152 mm).
+
+RAFTER TAIL. The portion of roof rafter framing in a sloping roof assembly that projects beyond and overhangs an exterior wall.
+
+ROOF EAVE. The lower portion of a sloping roof assembly that projects beyond and overhangs an exterior wall at the lower end of the rafter tails. Roof eaves may be either “open” or “enclosed.” Open roof eaves have exposed rafter tails and an unenclosed space on the underside of the roof deck. Enclosed roof eaves have a boxed-in roof eave soffit with a horizontal underside or sloping rafter tails with an exterior covering applied to the underside of the rafter tails.
+
+ROOF EAVE SOFFIT. An enclosed boxed-in soffit under a roof eave with exterior covering material applied to the soffit framing creating a horizontal surface on the exposed underside.
+
+STATE RESPONSIBILITY AREA (SRA). Lands that are classified by the Board of Forestry pursuant to Public Resources Code Section 4125 where the financial responsibility of preventing and suppressing forest fires is primarily the responsibility of the state.
+
+WILDFIRE. Any uncontrolled fire spreading through vegetative fuels that threatens to destroy life, property or resources as defined in Public Resources Code Sections 4103 and 4104.
+
+WILDFIRE EXPOSURE. One or a combination of radiant heat, convective heat, direct flame contact and burning embers being projected by vegetation fire to a structure and its immediate environment.
+
+WILDLAND-URBAN INTERFACE (WUI). A geographical area identified by the state as a “Fire Hazard Severity Zone” in accordance with the Public Resources Code Sections 4201 through 4204 and Government Code Sections 51175 through 51189, or other areas designated by the enforcing agency to be at a significant risk from wildfires.
+
+SECTION 703A STANDARDS OF QUALITY
+
+703A.1 General
+
+Building material, systems, assemblies and methods of construction used in this chapter shall be in accordance with Section 703A.
+
+703A.2 Qualification by testing
+
+Material and material assemblies tested in accordance with the requirements of Section 703A shall be accepted for use when the results and conditions of those tests are met. Product evaluation testing of material and material assemblies shall be approved or listed by the State Fire Marshal, or identified in a current report issued by an approved agency.
+
+703A.3 Approved agency
+
+Product evaluation testing shall be performed by an approved agency as defined in Section 1702. The scope of accreditation for the approved agency shall include building product compliance with this code.
+
+703A.4 Labeling
+
+Material and material assemblies tested in accordance with the requirements of Section 703A shall bear an identification label showing the fire test results. That identification label shall be issued by a testing and/or inspecting agency approved by the State Fire Marshal.
+
+1. Identification mark of the approved testing and/or inspecting agency.
+
+2. Contact and identification information of the manufacturer.
+
+3. Model number or identification of the product or material.
+
+4. Pre-test weathering specified in this chapter.
+
+5. Compliance standard as described under Section 703A.7.
+
+703A.5 Weathering and surface treatment protection
+
+703A.5.1 General
+
+Material and material assemblies tested in accordance with the requirements of Section 703A shall maintain their fire test performance under conditions of use, when installed in accordance with the manufacturers instructions.
+
+703A.5.2 Weathering
+
+Fire-retardant-treated wood and fire-retardant-treated wood shingles and shakes shall meet the fire test performance requirements of this chapter after being subjected to the weathering conditions contained in the following standards, as applicable to the materials and the conditions of use.
+
+703A.5.2.1 Fire-retardant-treated wood
+
+Fire-retardant-treated wood shall be tested in accordance with ASTM D2898 (Method A) and the requirements of Section 2303.2.
+
+703A.5.2.2 Fire-retardant-treated wood shingles and shakes
+
+Fire-retardant-treated wood shingles and shakes shall be approved and listed by the State Fire Marshal in accordance with Section 208(c), Title 19 California Code of Regulations.
+
+703A.5.3 Surface treatment protection
+
+The use of paints, coatings, stains or other surface treatments are not an approved method of protection as required in this chapter.
+
+703A.6 Alternates for materials, design, tests and methods of construction
+
+The enforcing agency is permitted to modify the provisions of this chapter for site-specific conditions in accordance with Section 1.11.2.4. When required by the enforcing agency for the purposes of granting modifications, a fire protection plan shall be submitted in accordance with the California Fire Code, Chapter 49.
+
+703A.7 Standards of quality
+
+The State Fire Marshal standards for exterior wildfire exposure protection listed below and as referenced in this chapter are located in the California Referenced Standards Code, Part 12 and Chapter 35 of this code.
+
+SFM Standard 12-7A-1, Exterior Wall Siding and Sheathing. A fire resistance test standard consisting of a 150 kW intensity direct flame exposure for a 10-minute duration.
+
+SFM Standard 12-7A-2, Exterior Windows. A fire resistance test standard consisting of a 150 kW intensity direct flame exposure for an 8-minute duration.
+
+SFM Standard 12-7A-3, Horizontal Projection Underside A fire resistance test standard consisting of a 300 kW intensity direct flame exposure for a 10-minute duration.
+
+SFM Standard 12-7A-4, Decking. A two-part test consisting of a heat release rate (Part A) deck assembly combustion test with an under deck exposure of 80 kW intensity direct flame for a 3-minute duration, and a (Part B) sustained deck assembly combustion test consisting of a deck upper surface burning ember exposure with a 12 mph wind for 40 minutes using a 2.2lb (1kg) burning “Class A” size 12" x 12" x 2.25" (300 mm x 300 mm x 57 mm) roof test brand.
+
+SFM Standard 12-7A-4A, Decking Alternate Method A. A heat release rate deck assembly combustion test with an under deck exposure of 80 kW intensity direct flame for a 3-minute duration.
+
+ASTM D2898 Standard Practice for Accelerated Weathering of Fire-Retardant-Treated Wood for Fire Testing.
+
+ASTM D3909/D3909M Standard Specification for Asphalt Roll Roofing (Glass Felt) Surfaced with Mineral Granules.
+
+ASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials.
+
+ASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials.
+
+ASTM E2632/E2632M Standard Test Method for Evaluating the Under-Deck Fire Test Response of Deck Materials.
+
+ASTM E2707 Standard Test Method for Determining Fire Penetration of Exterior Wall Assemblies Using a Direct Flame Impingement Exposure.
+
+ASTM E2726/E2726M Standard Test Method for Evaluating the Fire Test Response of Deck Structures to Burning Brands.
+
+ASTM E2768 Standard Test Method for Extended Duration Surface Burning Characteristics of Building Materials (30-minute Tunnel Test).
+
+ASTM E2886/E2886M Standard Test Method for Evaluating the Ability of Exterior Vents to Resist the Entry of Embers and Direct Flame Impingement.
+
+ASTM E2957 Standard Test Method for Resistance to Wildfire Penetration of Eaves, Soffits and Other Projections.
+
+NFPA 257 Standard on Fire Test for Window and Glass Block Assemblies.
+
+UL 263 Standard for Fire Tests of Building Construction and Materials.
+
+UL 723 Standard for Test for Surface Burning Characteristics of Building Materials.
+SFM Standard 12-7A-1, Exterior Wall Siding and Sheathing. A fire resistance test standard consisting of a 150 kW intensity direct flame exposure for a 10-minute duration.
+
+SFM Standard 12-7A-2, Exterior Windows. A fire resistance test standard consisting of a 150 kW intensity direct flame exposure for an 8-minute duration.
+
+SFM Standard 12-7A-3, Horizontal Projection Underside A fire resistance test standard consisting of a 300 kW intensity direct flame exposure for a 10-minute duration.
+
+SFM Standard 12-7A-4, Decking. A two-part test consisting of a heat release rate (Part A) deck assembly combustion test with an under deck exposure of 80 kW intensity direct flame for a 3-minute duration, and a (Part B) sustained deck assembly combustion test consisting of a deck upper surface burning ember exposure with a 12 mph wind for 40 minutes using a 2.2lb (1kg) burning “Class A” size 12" x 12" x 2.25" (300 mm x 300 mm x 57 mm) roof test brand.
+
+SFM Standard 12-7A-4A, Decking Alternate Method A. A heat release rate deck assembly combustion test with an under deck exposure of 80 kW intensity direct flame for a 3-minute duration.
+
+
+
+ASTM D2898 Standard Practice for Accelerated Weathering of Fire-Retardant-Treated Wood for Fire Testing.
+
+ASTM D3909/D3909M Standard Specification for Asphalt Roll Roofing (Glass Felt) Surfaced with Mineral Granules.
+
+ASTM E84 Standard Test Method for Surface Burning Characteristics of Building Materials.
+
+ASTM E119 Standard Test Methods for Fire Tests of Building Construction and Materials.
+
+ASTM E2632/E2632M Standard Test Method for Evaluating the Under-Deck Fire Test Response of Deck Materials.
+
+ASTM E2707 Standard Test Method for Determining Fire Penetration of Exterior Wall Assemblies Using a Direct Flame Impingement Exposure.
+
+ASTM E2726/E2726M Standard Test Method for Evaluating the Fire Test Response of Deck Structures to Burning Brands.
+
+ASTM E2768 Standard Test Method for Extended Duration Surface Burning Characteristics of Building Materials (30-minute Tunnel Test).
+
+ASTM E2886/E2886M Standard Test Method for Evaluating the Ability of Exterior Vents to Resist the Entry of Embers and Direct Flame Impingement.
+
+ASTM E2957 Standard Test Method for Resistance to Wildfire Penetration of Eaves, Soffits and Other Projections.
+
+NFPA 257 Standard on Fire Test for Window and Glass Block Assemblies.
+
+UL 263 Standard for Fire Tests of Building Construction and Materials.
+
+UL 723 Standard for Test for Surface Burning Characteristics of Building Materials.
+
+SECTION 704A IGNITION-RESISTANT CONSTRUCTION
+
+704A.1 704A.1 General General
+
+The materials prescribed herein for ignition resistance shall conform to the requirements of this chapter.
+
+704A.2 Ignition-resistant materials.
+
+Ignition-resistant materials shall comply with one of the following:
+
+1.The requirements in Section 704A.3, or
+
+2.One of the alternative methods in Section 704A.4.
+
+
+
+704A.3 704A.3 Conditions of acceptance for ignition-resistant materials. Conditions of acceptance for ignition-resistant materials.
+
+The material shall comply with the conditions of acceptance in Items 1 and 2 below or with the conditions of acceptance of ASTM E2768.
+
+1.The material shall exhibit a listed flame spread index not exceeding 25 when tested in accordance with ASTM E84 or UL 723.
+
+2.Additionally, the ASTM E84 or UL 723 test shall be continued for an additional 20-minute period, and the material shall exhibit a flame front that does not progress more than 101/2 feet (3200 mm) beyond the centerline of the burner at any time during the test period.
+
+
+
+704A.3.1 704A.3.1 704A.3.1 Fire testing of wood structural panels. Fire testing of wood structural panels.
+
+Wood structural panels shall be tested with a ripped or cut longitudinal gap of 1/8 inch (3.2 mm).
+
+704A.4 Alternative methods for determining ignition-resistant material
+
+Any one of the following shall be accepted as meeting the definition of ignition-resistant material:
+
+1.Noncombustible material. Material that complies with the definition for noncombustible materials in Section 202.
+
+2.Fire-retardant-treated wood. Fire-retardant-treated wood identified for exterior use that complies with the requirements of Section 2303.2.
+
+3.Fire-retardant-treated wood shingles and shakes. Fire-retardant-treated wood shingles and shakes, as defined in Section 1505.6 and listed by State Fire Marshal for use as “Class B” roof covering, shall be accepted as an ignition-resistant wall covering material when installed over solid sheathing.
+
+SECTION 705A ROOFING
+
+705A.1 705A.1 General General
+
+Roofs shall comply with the requirements of Chapter 7A and Chapter 15. Roofs shall have a roofing assembly installed in accordance with its listing and the manufacturer’s installation instructions. Roof assemblies in the Fire Hazard Severity Zones shall be Class A rating when tested in accordance with ASTM E108 or UL790.
+
+705A.2 705A.2 Roof coverings. Roof coverings.
+
+Where the roofing profile has an airspace under the roof covering, installed over a combustible deck, a 72 lb. (32.7 kg) cap sheet complying with ASTM D3909 Standard Specification for “Asphalt Rolled Roofing (Glass Felt) Surfaced with Mineral Granules,” shall be installed over the roof deck. Bird stops shall be used at the eaves when the profile fits, to prevent debris at the eave. Hip and ridge caps shall be mudded in to prevent intrusion of fire or embers.
+
+Exception: Cap sheet is not required when no less than 1” of mineral wool board or other noncombustible material is located between the roofing material and wood framing or deck.
+
+Alternately, a Class A fire rated roof underlayment, tested in accordance with ASTM E108, shall be permitted to be used. If the sheathing consists of exterior fire-retardanttreated wood, the underlayment shall not be required to comply with a Class A classification. Bird stops shall be used at the eaves when the profile fits, to prevent debris at the eave. Hip and ridge caps shall be mudded in to prevent intrusion of fire or embers.
+
+705A.3 705A.3 Roof valleys
+
+Where valley flashing is installed, the flashing shall be not less than 0.019-inch (0.48 mm) No. 26 gage galvanized sheet corrosion-resistant metal installed over not less than one layer of minimum 72 pound (32.4 kg) mineral-surfaced nonperforated cap sheet complying with ASTM D3909, at least 36-inch-wide (914 mm) running the full length of the valley.
+
+705A.4 705A.4 Roof gutters
+
+Roof gutters shall be provided with the means to prevent the accumulation of leaves and debris in the gutter.
+
+SECTION 706A VENTS
+
+706A.1 General.
+
+Where provided, ventilation openings for enclosed attics, gable ends, ridge ends, under eaves and cornices, enclosed eave soffit spaces, enclosed rafter spaces formed where ceilings are applied directly to the underside of roof rafters, underfloor ventilation, foundations and crawl spaces, or any other opening intended to permit ventilation, either in a horizontal or vertical plane, shall be in accordance with Section 1202 and Sections 706A.1 through 706A.2 to resist building ignition from the intrusion of burning embers and flame through the ventilation openings.
+
+706A.2 706A.2 Requirements. Requirements.
+
+Ventilation openings shall be fully covered with Wildfire Flame and Ember Resistant vents approved and listed by the California State Fire Marshal, or WUI vents tested to ASTM E2886 and listed, by complying with all of the following requirements:
+
+1.There shall be no flaming ignition of the cotton material during the Ember Intrusion Test.
+
+2.There shall be no flaming ignition during the Integrity Test portion of the Flame Intrusion Test.
+
+3.The maximum temperature of the unexposed side of the vent shall not exceed 662°F (350°C).
+
+706A.2.1 Off ridge and ridge vents.
+
+Vents that are installed on a sloped roof, such as dormer vents, shall comply with all of the following:
+
+1.Vents shall be covered with a mesh where the dimensions of the mesh therein shall be a minimum of 1/16-inch (1.6 mm) and shall not exceed 1/8-inch (3.2 mm) in diameter.
+
+2.The mesh material shall be noncombustible.
+
+3.The mesh material shall be corrosion resistant.
+
+SECTION 707A EXTERIOR COVERING
+
+707A.1 Scope
+
+The provisions of this section shall govern the materials and construction methods used to resist building ignition and/or safeguard against the intrusion of flames resulting from small ember and short-term direct flame contact exposure.
+
+707A.2 General
+
+The following exterior covering materials and/or assemblies shall comply with this section:
+
+1.Exterior wall coverings.
+
+2.Exterior wall assemblies.
+
+3.Exterior exposed underside of roof eave overhangs.
+
+4.Exterior exposed underside of roof eave soffits.
+
+5.Exposed underside of exterior porch ceilings.
+
+6.Exterior exposed underside of floor projections.
+
+7.Exterior underfloor areas.
+
+Exceptions to Section 707A.2:
+
+1.Exterior wall architectural trim, embellishments, fascias and gutters.
+
+2.Roof or wall top cornice projections and similar assemblies.
+
+3.Deck walking surfaces shall comply with Section 709A.4 only.
+
+707A.3 Exterior wall coverings.
+
+The exterior wall covering shall comply with one or more of the following requirements, except as permitted for exterior wall assemblies complying with Section 707A.4:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardant-treated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+707A.3.1 Extent of exterior wall covering.
+
+Exterior wall coverings shall extend from the top of the foundation to the roof, and terminate at 2 inch (50.8 mm) nominal solid wood blocking between rafters at all roof overhangs, or in the case of enclosed eaves, terminate at the enclosure.
+
+707A.4 Exterior wall assemblies.
+
+Exterior wall assemblies of buildings or structures shall be constructed using one or more of the following methods, unless they are covered by an exterior wall covering complying with Section 707A.3:
+
+1.Assembly of sawn lumber or glue-laminated wood with the smallest minimum nominal dimension of 4 inches (102 mm). Sawn or glue-laminated planks splined, tongue-and-groove, or set close together and well spiked.
+
+2.Log wall construction assembly.
+
+3.Assembly that has been tested in accordance with the test procedures for a 10-minute direct flame contact exposure test set forth in ASTM E2707 with the conditions of acceptance shown in Section 707A.4.1.
+
+4.Assembly that meets the performance criteria in accordance with the test procedures for a 10-minute direct flame contact exposure test set forth in SFM Standard 12-7A-1.
+
+5.Assembly suitable for exterior fire exposure with a 1-hour fire-resistance rating, rated from the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+6.Assembly suitable for exterior fire exposure containing one layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind the exterior wall covering or cladding on the exterior side of the framing.
+
+7.Assembly suitable for exterior fire exposure containing any of the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual as complying with a 1-hour fire-resistance rating, as tested in accordance with ASTM E119 or UL 263.
+
+707A.4.1 707A.4.1 Conditions of acceptance when tested in accordance with ASTM E2707. Conditions of acceptance when tested in accordance with ASTM E2707.
+
+The ASTM E2707 test shall be conducted on a minimum of three test specimens, and the conditions of acceptance in Items 1 and 2 below shall be met. If any one of the three tests do not meet the conditions of acceptance, three additional tests shall be run. All the additional tests shall meet the conditions of acceptance.
+
+1.Absence of flame penetration through the wall assembly at any time.
+
+2.Absence of evidence of glowing combustion on the interior surface of the assembly at the end of the 70- minute test.
+
+707A.5 Open roof eaves
+
+The exposed roof deck on the underside of unenclosed roof eaves shall consist of one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardant-treated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind an exterior covering on the underside of the roof deck.
+
+6.The exterior portion of a 1-hour fire-resistance-rated exterior assembly, as tested in accordance with ASTM E119 or UL 263, applied to the underside of the roof deck designed for exterior fire exposure, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+Exception to Section 707A.5: The following materials do not require protection:
+
+Fascia and other architectural trim boards.
+
+707A.6 Enclosed roof eaves and roof eave soffits.
+
+The exposed underside of enclosed roof eaves having either a boxed-in roof eave soffit with a horizontal underside, or sloping rafter tails with an exterior covering applied to the underside of the rafter tails, shall be protected by one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardanttreated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-
+rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind the exterior covering or cladding on the underside of the rafter tails or soffit.
+
+6.The exterior portion of a 1-hour fire-resistive exterior assembly applied to the underside of the rafter tails or soffit, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+7.Boxed-in roof eave soffit assemblies with a horizontal underside that meet the performance criteria in Section 707A.11 when tested in accordance with the test procedures set forth in ASTM E2957.
+
+8.Boxed-in roof eave soffit assemblies with a horizontal underside that meet the performance criteria in accordance with the test procedures set forth in SFM Standard 12-7A-3.
+
+Exception to Section 707A.6: The following materials do not require protection:
+
+Fascia and other architectural trim boards.
+
+707A.7 Exterior porch ceilings
+
+The exposed underside of exterior porch ceilings shall be protected by one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardanttreated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind the exterior covering or cladding on the underside of the rafter tails or soffit.
+
+6.The exterior portion of a 1-hour fire-resistance-rated exterior assembly, as tested in accordance with ASTM E119, applied to the underside of the ceiling assembly, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+7.Porch ceiling assemblies with a horizontal underside that meet the performance criteria in Section 707A.11 when tested in accordance with the test procedures set forth in ASTM E2957.
+
+8.Porch ceiling assemblies with a horizontal underside that meet the performance criteria in accordance with the test procedures set forth in SFM Standard 12-7A-3.
+
+Exception to Section 707A.7: Architectural trim boards do not require protection.
+
+707A.8 Floor projections
+
+The exposed underside of a cantilevered floor projection where a floor assembly extends over an exterior wall shall be protected by one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardant-treated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind the exterior covering on the underside of the ceiling.
+
+6.The exterior portion of a 1-hour fire-resistance-rated exterior assembly, as tested in accordance with ASTM E119, applied to the underside of the ceiling assembly, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+7.The underside of a floor projection assembly that meets the performance criteria in Section 707A.10 when tested in accordance with the test procedures set forth in ASTM E2957.
+
+8.The underside of a floor projection assembly that meets the performance criteria in accordance with the test procedures set forth in SFM Standard 12-7A-3.
+
+Exception to Section 707A.8: Architectural trim boards do not require protection.
+
+707A.9 Underfloor protection.
+
+The underfloor area of elevated or overhanging buildings shall be enclosed to grade in accordance with the requirements of this chapter or the underside of the exposed underfloor shall be protected by one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardant-treated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind an exterior covering on the underside of the floor projection.
+
+6.The exterior portion of a 1-hour fire-resistance-rated exterior assembly, as tested in accordance with ASTM E119 or UL 263, applied to the underside of the floor, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+7.The underside of a floor assembly that meets the performance criteria in Section 707A.11 when tested in accordance with the test procedures set forth in ASTM E2957.
+
+8.The underside of a floor assembly that meets the performance criteria in accordance with the test procedures set forth in SFM Standard 12-7A-3.
+
+Exception to Section 707A.9: Structural columns and beams do not require protection when constructed with sawn lumber or glue-laminated wood with the smallest minimum nominal dimension of 4 inches (102 mm). Sawn or glue-laminated planks shall be splined, tongue-and-groove, or set close together and well spiked.
+
+707A.10 Underside of appendages.
+
+When required by the enforcing agency, the underside of overhanging appendages shall be enclosed to grade in accordance with the requirements of this chapter, or the underside of the exposed under-floor shall be protected by one or more of the following:
+
+1.Noncombustible material.
+
+2.Ignition-resistant material. The ignition-resistant material shall be labeled for exterior use and shall meet the requirements of Section 704A.2.
+
+3.Fire-retardant-treated wood. The fire-retardant-treated wood shall be labeled for exterior use and shall meet the requirements of Section 2303.2.
+
+4.Materials approved for not less than 1-hour fire-resistance-rated construction on the exterior side, as tested in accordance with ASTM E119 or UL 263.
+
+5.One layer of 5/8-inch (15.9 mm) Type X gypsum sheathing applied behind the exterior covering on the underside of the appendage projection.
+
+6.The exterior portion of a 1-hour fire-resistance-rated exterior assembly, as tested in accordance with ASTM E119 or UL 263, applied to the underside of the appendage, including assemblies using the gypsum panel and sheathing products listed in the Gypsum Association Fire Resistance Design Manual.
+
+7.The underside of an appendage assembly that meets the performance criteria in Section 707A.11 when tested in accordance with the test procedures set forth in ASTM E2957.
+
+8.The underside of an appendage assembly that meets the performance criteria in accordance with the test procedures set forth in SFM Standard 12-7A-3.
+
+Exception to Section 707A.10: Structural columns and beams do not require protection when constructed with sawn lumber or glue laminated wood with the smallest minimum nominal dimension of 4 inches (102 mm). Sawn or glue-laminated planks shall be splined, tongue-and-groove, or set close together and well spiked.
+
+707A.11 Conditions of acceptance when tested in accordance with ASTM E2957.
+
+The test shall be conducted on a minimum of three test specimens and the conditions of acceptance in Items 1 through 3 below shall be met. If any one of the three tests does not meet the conditions of acceptance, three additional tests shall be run. All of the additional tests shall meet the conditions of acceptance.
+
+1.Absence of flame penetration of the eaves or horizontal projection assembly at any time.
+
+2.Absence of structural failure of the eaves or horizontal projection subassembly at any time.
+
+3.Absence of sustained combustion of any kind at the conclusion of the 40-minute test.
+
+SECTION 708A EXTERIOR WINDOWS, SKYLIGHTS AND DOORS
+
+708A.1 General
+
+708A.2 Exterior glazing
+
+The following exterior glazing materials and/or assemblies shall comply with this section:
+
+1.Exterior windows.
+
+2.Exterior glazed doors.
+
+3.Glazed openings within exterior doors.
+
+4.Glazed openings within exterior garage doors.
+
+5.Exterior structural glass veneer.
+
+6.Skylights.
+
+7.Vents.
+
+708A.2.1 Exterior windows, skylights and exterior glazed door assembly requirements
+
+Exterior windows, skylights and exterior glazed door assemblies shall comply with one of the following requirements:
+
+1.Be constructed of multipane glazing with a minimum of one tempered pane meeting the requirements of Section 2406 Safety Glazing, or
+
+2.Be constructed of glass block units, or
+
+3.Have a fire-resistance rating of not less than 20 minutes when tested according to NFPA 257, or
+
+4.Be tested to meet the performance requirements of SFM Standard 12-7A-2.
+
+708A.2.2 Operable skylights
+
+Operable skylights shall be protected by a non-combustible mesh screen where the dimensions of the openings in the screen shall not exceed 1/8-inch (3.2 mm).
+
+708A.2.3 Structural glass veneer
+
+The wall assembly behind structural glass veneer shall comply with Section 707A.3.
+
+708A.3 Exterior doors
+
+Exterior doors shall comply with one of the following:
+
+1.The exterior surface or cladding shall be of noncombustible material.
+
+2.The exterior surface or cladding shall be of ignitionresistant material.
+
+3.The exterior door shall be constructed of solid core wood that complies with the following requirements:
+
+3.1.Stiles and rails shall not be less than 13/8 inches thick.
+
+3.2.Panels shall not be less than 11/4 inches thick, except for the exterior perimeter of the panel that shall be permitted to taper to a tongue not less than 3/8 inch thick.
+
+4.The exterior door assembly shall have a fire-resistance rating of not less than 20 minutes when tested according to NFPA 252.
+
+5.The exterior surface or cladding shall be tested to meet the performance requirements of Section 707A.3.1 when tested in accordance with ASTM E2707.
+
+6.The exterior surface or cladding shall be tested to meet the performance requirements of SFM Standard 12-7A-1.
+
+708A.3.1 Exterior door glazing
+
+Glazing in exterior doors shall comply with Section 708A.2.1.
+
+708A.4 Garage door perimeter gap.
+
+Exterior garage doors shall resist the intrusion of embers from entering by preventing gaps between doors and door openings, at the bottom, sides and tops of doors, from exceeding 1/8 inch (3.2 mm). Gaps between doors and door openings shall be controlled by one of the following methods:
+
+1.Weather-stripping products made of materials that: (a) have been tested for tensile strength in accordance with ASTM D638 (Standard Test Method for Tensile Properties of Plastics) after exposure to ASTM G155 (Standard Practice for Operating Xenon Arc Light Apparatus for Exposure of Non-Metallic Materials) for a period of 2,000 hours, where the maximum allowable difference in tensile strength values between exposed and non-exposed samples does not exceed 10%; and (b) exhibit a V-2 or better flammability rating when tested to UL 94, Standard for Tests for Flammability of Plastic Materials for Parts in Devices and Appliances.
+
+2.Door overlaps onto jambs and headers.
+
+3.Garage door jambs and headers covered with metal flashing.
+
+SECTION 709A DECKING
+
+709A.1 709A.1 General. General.
+
+The walking surface material of decks, porches, balconies and stairs shall comply with the requirements of this section.
+
+709A.1.1 709A.1.1 Flashing. Flashing.
+
+A minimum of a 6-inch (150 mm) metal flashing, applied vertically on the exterior of the wall, shall be installed at all deck-to-wall intersections.
+
+709A.2 Where required
+
+The walking surface material of decks, porches, balconies and stairs shall comply with the requirements of this section when any portion of such surface is within 10 feet (3048 mm) of the building.
+
+709A.3 Decking Surfaces
+
+The walking surface material of decks, porches, balconies and stairs shall be constructed with one of the following materials:
+
+1.Material that complies with the performance requirements of Section 709A.4 when tested in accordance with both ASTM E2632 and ASTM E2726.
+
+2.Ignition-resistant material that complies with the performance requirements of Section 704A.3.
+
+3.Material that complies with the performance requirements of both SFM Standard 12-7A-4 and Section 704A.3.
+
+4.Exterior fire-retardant-treated wood.
+
+5.Noncombustible material.
+
+6.Any material that complies with the performance requirements of SFM Standard 12-7A-4A when attached exterior wall covering is also composed of noncombustible or ignition-resistant material.
+
+Exception: Wall material shall be permitted to be of any material that otherwise complies with this chapter when the decking surface material complies with the performance requirements ASTM E84 with a Class B flame spread index.
+
+7.Any material that complies with the performance requirements of Section 709A.5 when tested in accordance with ASTM E2632 and when attached exterior wall covering is also composed of only noncombustible or ignition-resistant materials.
+
+Exception: Wall material shall be permitted to be of any material that otherwise complies with this chapter when the decking surface material complies with the performance requirements ASTM E84 with a Class B flame spread index.
+
+709A.4 Requirements for type of material in Section 709A.3, Item 1. Requirements for type of material in Section 709A.3, Item 1.
+
+The material shall be tested in accordance with both ASTM E2632 and ASTM E2726 and shall comply with the conditions of acceptance in Sections 709A.4.1 and 709A4.2. The material shall also be tested in accordance with ASTM E84 or UL 723 and comply with the performance requirements of Section 704A.3.
+
+709A.4.1 Conditions of acceptance for ASTM E2632
+
+The ASTM E2632 test shall be conducted on a minimum of three test specimens and the conditions of acceptance in Items 1 through 3 below shall be met. If any one of the three tests does not meet the conditions of acceptance, three additional tests shall be run. All of the additional tests shall meet the conditions of acceptance.
+
+1.Peak heat release rate of less than or equal to 25 kW/ft2 (269 kW/m2).
+
+2.Absence of sustained flaming or glowing combustion of any kind at the conclusion of the 40-min observation period.
+
+3.Absence of falling particles that are still burning when reaching the burner or floor.
+
+709A.4.2 Conditions of acceptance for ASTM E2726
+
+The ASTM E2726 test shall be conducted, using a “Class A” size roof test brand, on a minimum of three test specimens and the conditions of acceptance in Items 1 and 2 below shall be met. If any one of the three tests does not meet the conditions of acceptance, three additional tests shall be run. All of the additional tests shall meet the conditions of acceptance.
+
+1.Absence of sustained flaming or glowing combustion of any kind at the conclusion of the 40-min observation period.
+
+2.Absence of falling particles that are still burning when reaching the burner or floor.
+
+709A.5 Requirements for type of material in Section 709A.3, Item 7
+
+The material shall be tested in accordance with ASTM E2632 and shall comply with the following condition of acceptance. The ASTM E2632 test shall be conducted on a minimum of three test specimens and the peak heat release rate shall be less than or equal to 25 kW/ft2 (269 kW/ m2). If any one of the three tests does not meet the conditions of acceptance, three additional tests shall be run. All the additional tests shall meet the condition of acceptance.
+
+SECTION 710A ACCESSORY BUILDINGS AND MISCELLANEOUS STRUCTURES
+
+710A.1 General.
+
+Group U occupancy accessory buildings and miscellaneous structures that have the potential to pose a significant exterior fire exposure hazard during wildfires shall be constructed to conform to the ignition-resistance requirements of this section.
+
+710A.2 Applicability.
+
+Unless otherwise addressed by the exceptions of Section 701A.3, the provisions of this section shall apply to buildings accessory to an applicable building on the same lot. This section shall also apply to attached and detached miscellaneous structures that require a building permit, including but not limited to trellises, arbors, patio covers, gazebos and similar structures.
+
+Exceptions:
+
+1.Decks shall comply with the requirements of Section 709A.
+
+2.Awnings and canopies shall comply with the requirements of Section 3105.
+
+3.Exterior wall architectural trim, embellishments and fascia.
+
+710A.3 Where required. Where required.
+
+Miscellaneous structures that require a permit, and accessory buildings of any size, when separated from an applicable building on the same lot by a distance of less than 3 feet (914 mm), shall comply with Section 710A.3.1. Accessory buildings that are greater than 120 square feet (11.15 m2), when separated from an applicable building on the same lot by a distance of 3 feet (914 mm) or more but less than 50 feet (15 240 mm) shall comply with Section 710A.3.2.
+
+When required by the enforcing agency, miscellaneous structures that require a permit, and accessory buildings that are 120 square feet (11.15 m2) or less, when separated from an applicable building on the same lot by a distance of 3 feet (914 mm) or more but less than 50 feet (15 240 mm), shall comply with either Section 710A.3.4 or Section 710A.3.3, respectively.
+
+No requirements shall apply to accessory buildings or miscellaneous structures when located 50 feet (15 240 mm) or more from an applicable building on the same lot.
+
+710A.3.1 Structures and accessory buildings within 3 feet (914 mm). Structures and accessory buildings within 3 feet (914 mm).
+
+Miscellaneous structures that require a permit, and accessory buildings, attached to or separated from an applicable building on the same lot by a distance of less than 3 feet (914 mm), shall be constructed of noncombustible materials or of ignition-resistant materials as described in Section 704A.2.
+
+710A.3.2 Accessory buildings greater than 120 square feet (11.15 m2), located 3 feet (914 mm) or more but less than 50 feet (15 240 mm).
+
+Accessory buildings that are greater than 120 square feet (11.15 m2) in size and separated from an applicable building on the same lot by a distance of 3 feet (914 mm) or more but less than 50 feet (15 240 mm) shall be constructed of noncombustible materials or of ignition-resistant materials as described in Section 704A.2.
+
+710A.3.3 Accessory buildings 120 square feet (11.15 m2) or less, located 3 feet (914 mm) or more but less than 50 feet (15 240 mm).
+
+When required by the enforcing agency, accessory buildings 120 square feet (11.15 m2) or less and separated from an applicable building on the same lot by a distance of 3 feet (914 mm) or more but less than 50 feet (15 240 mm) shall be constructed of noncombustible materials or of ignition-resistant materials as described in Section 704A.2.
+
+710A.3.4 Miscellaneous structures located 3 feet (914 mm) or more but less than 50 feet (15 240 mm). Miscellaneous structures located 3 feet (914 mm) or more but less than 50 feet (15 240 mm).
+
+When required by the enforcing agency, miscellaneous structures that require a permit and are separated from an applicable building on the same lot by a distance of 3 feet (914 mm) or more but less than 50 feet (15 240 mm) shall be constructed of noncombustible materials or of ignition-resistant materials as described in Section 704A.2.
+
+710A.4 Roof construction.
+
+Roofs of accessory buildings required to be constructed entirely of noncombustible materials or of ignition-resistant materials shall comply with the requirements of Chapter 7A and Chapter 15. Roofs shall have a roofing assembly installed in accordance with its listing and the manufacturer’s installation instructions. Roof assemblies in Fire Hazard Severity Zones shall comply with a Class A rating when tested in accordance with ASTM E108 or UL 790.
+

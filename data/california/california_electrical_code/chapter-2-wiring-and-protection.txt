@@ -1,0 +1,1680 @@
+Chapter 2 Wiring and Protection
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X			X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)			X												
+Adopt only those sections that are listed below															X
+Article/Section
+210.12(A)			X												
+210.50(D), (E)															X
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X		X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)									X						
+Adopt only those sections that are listed below															
+Article/Section
+Table 220.42									X						
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X				X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Article 200 Use and Identification of Grounded Conductors
+200.1 Scope
+200.2 General
+(A) Insulation
+(B) Continuity
+200.3 Connection to Grounded System
+200.4 Neutral Conductors
+(A) Installation
+(B) Multiple Circuits
+200.6 Means of Identifying Grounded Conductors
+(A) Sizes 6 AWG or Smaller
+(B) Sizes 4 AWG or Larger
+(C) Flexible Cords
+(D) Grounded Conductors of Different Systems
+(E) Grounded Conductors of Multiconductor Cables
+200.7 Use of Insulation of a White or Gray Color or With Three Continuous White or Gray Stripes
+(A) General
+(B) Circuits of Less Than 50 Volts
+(C) Circuits of 50 Volts or More
+200.9 Means of Identification of Terminals
+200.10 Identification of Terminals
+(A) Device Terminals
+(B) Receptacles, Plugs, and Connectors
+(C) Screw Shells
+(D) Screw Shell Devices With Leads
+(E) Appliances
+200.11 Polarity of Connections
+Article 210 Branch Circuits
+Part I General Provisions
+210.1 Scope
+210.3 Other Articles for Specific-Purpose Branch Circuits
+Equipment	Article	Section
+Air-conditioning and refrigerating equipment		440.6, 440.31, 440.32
+Busways		368.17
+Central heating equipment other than fixed electric space-heating equipment		422.12
+Fixed electric heating equipment for pipelines and vessels		427.4
+Fixed electric space-heating equipment		424.3
+Fixed outdoor electrical deicing and snow-melting equipment		426.4
+Infrared lamp industrial heating equipment		422.48, 424.3
+Motors, motor circuits, and controllers	430	
+Switchboards and panelboards		408.52
+
+210.4 Multiwire Branch Circuits
+(A) General
+(B) Disconnecting Means
+(C) Line-to-Neutral Loads
+(D) Grouping
+210.5 Identification for Branch Circuits
+(A) Grounded Conductor
+(B) Equipment Grounding Conductor
+(C) Identification of Ungrounded Conductors
+(1) Branch Circuits Supplied From More Than One Nominal Voltage System
+(2) Branch Circuits Supplied From Direct-Current Systems
+210.6 Branch-Circuit Voltage Limitations
+(A) Occupancy Limitation
+(B) 120 Volts Between Conductors
+(C) 277 Volts to Ground
+(D) 600 Volts Between Conductors
+(E) Over 600 Volts Between Conductors
+210.7 Multiple Branch Circuits
+210.8 Ground-Fault Circuit-Interrupter Protection for Personnel
+(A) Dwelling Units
+(B) Other Than Dwelling Units
+(C) Crawl Space Lighting Outlets
+(D) Specific Appliances
+(E) Equipment Requiring Servicing
+(F) Outdoor Outlets
+Power conversion equipment
+
+Exception: Ground-fault circuit-interrupter protection shall not be required on lighting outlets other than those covered in 210.8(C).
+
+210.9 Circuits Derived From Autotransformers
+210.10 Ungrounded Conductors Tapped From Grounded Systems
+210.11 Branch Circuits Required
+(A) Number of Branch Circuits
+(B) Load Evenly Proportioned Among Branch Circuits
+(C) Dwelling Units
+(1) Small-Appliance Branch Circuits
+(2) Laundry Branch Circuits
+(3) Bathroom Branch Circuits
+(4) Garage Branch Circuits
+210.12 Arc-Fault Circuit-Interrupter Protection
+(A) Dwelling Units
+NFPA 72-2016,
+
+(B) Dormitory Units
+(C) Guest Rooms, Guest Suites, and Patient Sleeping Rooms in Nursing Homes and Limited-Care Facilities
+(D) Branch Circuit Extensions or Modifications — Dwelling Units, Dormitory Units, and Guest Rooms and Guest Suites
+210.13 Ground-Fault Protection of Equipment
+210.15 Reconditioned Equipment
+210.17 Guest Rooms and Guest Suites
+Part II Branch-Circuit Ratings
+210.18 Rating
+210.19 Conductors — Minimum Ampacity and Size
+(A) Branch Circuits Not More Than 600 Volts
+(1) General
+(2) Branch Circuits With More Than One Receptacle
+(3) Household Ranges and Cooking Appliances
+(4) Other Loads
+(B) Branch Circuits Over 600 Volts
+(1) General
+(2) Supervised Installations
+210.20 Overcurrent Protection
+(A) Continuous and Noncontinuous Loads
+(B) Conductor Protection
+(C) Equipment
+(D) Outlet Devices
+210.21 Outlet Devices
+(A) Lampholders
+(B) Receptacles
+(1) Single Receptacle on an Individual Branch Circuit
+(2) Total Cord-and-Plug-Connected Load
+Circuit Rating (Amperes)	Receptacle Rating (Amperes)	Maximum Load (Amperes)
+15 or 20	15	12
+20	20	16
+30	30	24
+
+(3) Receptacle Ratings
+Circuit Rating (Amperes)	Receptacle Rating (Amperes)
+15	Not over 15
+20	15 or 20
+30	30
+40	40 or 50
+50	50
+
+(4) Range Receptacle Rating
+210.22 Permissible Loads, Individual Branch Circuits
+210.23 Permissible Loads, Multiple-Outlet Branch Circuits
+(A) 15- And 20-Ampere Branch Circuits
+(1) Cord-and-Plug-Connected Equipment Not Fastened in Place
+(2) Utilization Equipment Fastened in Place
+(B) 30-Ampere Branch Circuits
+(C) 40- And 50-Ampere Branch Circuits
+(D) Branch Circuits Larger Than 50 Amperes
+210.24 Branch-Circuit Requirements — Summary
+Circuit Rating	15 A	20 A	30 A	40 A	50 A
+Conductors (min. size):					
+Circuit wires1	14	12	10	8	6
+Taps	14	14	14	12	12
+Fixture wires and cords — see 240.5					
+Overcurrent Protection	15 A	20 A	30 A	40 A	50 A
+Outlet devices:					
+Lampholders permitted	Any type	Any type	Heavy duty	Heavy duty	Heavy duty
+Receptacle rating2	15 max. A	15 or 20 A	30 A	40 or 50 A	50 A
+Maximum Load	15 A	20 A	30 A	40 A	50 A
+Permissible load	See 210.23(A)	See 210.23(A)	See 210.23(B)	See 210.23(C)	See 210.23(C)
+1These gauges are for copper conductors.
+2For receptacle rating of cord-connected electric-discharge luminaires, see 410.62(C).
+
+210.25 Branch Circuits in Buildings With More Than One Occupancy
+(A) Dwelling Unit Branch Circuits
+(B) Common Area Branch Circuits
+Part III Required Outlets
+210.50 Receptacle Outlets
+(A) Cord Pendants
+(B) Cord Connections
+(C) Appliance Receptacle Outlets
+(D) [DPH] Commissary Service Outlet
+[DPH] Commissary Service Outlet
+
+A commissary which
+services food preparation units shall provide one outlet for each
+vehicle requiring electrical power for mechanical refrigeration.
+
+(E) [DPH W/ Exceptions] Installation Height
+[DPH W/ Exceptions] Installation Height
+
+The center of
+15-, 20-, and 30-ampere receptacle outlets required by sections 210-52(A), (B), and (C) shall be installed not less than 12
+inches above the floor or working platform. 
+
+
+Exception No. 1: Receptacle outlets installed as part of permanently installed baseboard heaters are exempt. 
+
+Exception No. 2: Required receptacle outlets shall be permitted
+in floors when adjacent to sliding panels or walls. 
+
+
+Exception No. 3: Baseboard electrical outlets used in relocatable
+partitions, window walls or other electrical convenience floor
+outlets are not subject to the minimum height requirements.
+
+210.52 Dwelling Unit Receptacle Outlets
+(A) General Provisions
+(1) Spacing
+(2) Wall Space
+(3) Floor Receptacles
+(4) Countertop and Similar Work Surface Receptacle Outlets
+(B) Small Appliances
+(1) Receptacle Outlets Served
+(2) No Other Outlets
+(3) Kitchen Receptacle Requirements
+(C) Countertops and Work Surfaces
+(1) Wall Spaces
+(2) Island and Peninsular Countertops and Work Surfaces
+(3) Receptacle Outlet Location
+(D) Bathrooms
+(E) Outdoor Outlets
+(1) One-Family and Two-Family Dwellings
+(2) Multifamily Dwellings
+(3) Balconies, Decks, and Porches
+(F) Laundry Areas
+(G) Basements, Garages, and Accessory Buildings
+(1) Garages
+(2) Accessory Buildings
+(3) Basements
+(H) Hallways
+(I) Foyers
+210.60 Guest Rooms, Guest Suites, Dormitory Units, and Similar Occupancies
+(A) General
+(B) Receptacle Placement
+210.62 Show Windows
+210.63 Equipment Requiring Servicing
+(A) Heating, Air-Conditioning, and Refrigeration Equipment
+(B) Other Electrical Equipment
+(1) Indoor Service Equipment
+(2) Indoor Equipment Requiring Dedicated Equipment Spaces
+210.65 Meeting Rooms
+(A) General
+(B) Receptacle Outlets Required
+(1) Receptacle Outlets in Fixed Walls
+(2) Floor Outlets
+210.70 Lighting Outlets Required
+(A) Dwelling Units
+(1) Habitable Rooms
+(2) Additional Locations
+(B) Guest Rooms or Guest Suites
+(C) All Occupancies
+Article 215 Feeders
+215.1 Scope
+215.2 Minimum Rating and Size
+(A) Feeders Not More Than 1000 Volts
+(1) General
+(2) Grounded Conductor
+(3) Ampacity Relative to Service Conductors
+(B) Feeders Over 1000 Volts
+(1) Feeders Supplying Transformers
+(2) Feeders Supplying Transformers and Utilization Equipment
+(3) Supervised Installations
+215.3 Overcurrent Protection
+215.4 Feeders With Common Neutral Conductor
+(A) Feeders With Common Neutral
+(B) In Metal Raceway or Enclosure
+215.5 Diagrams of Feeders
+215.6 Feeder Equipment Grounding Conductor
+215.7 Ungrounded Conductors Tapped From Grounded Systems
+215.9 Ground-Fault Circuit-Interrupter Protection for Personnel
+215.10 Ground-Fault Protection of Equipment
+215.11 Circuits Derived From Autotransformers
+215.12 Identification for Feeders
+(A) Grounded Conductor
+(B) Equipment Grounding Conductor
+(C) Identification of Ungrounded Conductors
+(1) Feeders Supplied From More Than One Nominal Voltage System
+(2) Feeders Supplied From Direct-Current Systems
+Article 220 Branch-Circuit, Feeder, and Service Load Calculations
+Part I General
+220.1 Scope
+220.3 Other Articles for Specific-Purpose Calculations
+Calculation	Article	Section (or Part)
+Air-conditioning and refrigerating equipment, branch-circuit conductor sizing	440	Part IV
+Fixed electric heating equipment for pipelines and vessels, branch-circuit sizing	427	427.4
+Fixed electric space-heating equipment, branch-circuit sizing	424	424.3
+Fixed outdoor electric deicing and snow-melting equipment, branch-circuit sizing	426	426.4
+Motors, feeder demand factor	430	430.26
+Motors, multimotor and combination-load equipment	430	430.25
+Motors, several motors or a motor(s) and other load(s)	430	430.24
+Over 600-volt branch-circuit calculations	210	210.19(B)
+Over 600-volt feeder calculations	215	215.2(B)
+Phase converters, conductors	455	455.6
+Storage-type water heaters	422	422.11(E)
+
+220.5 Calculations
+(A) Voltages
+(B) Fractions of an Ampere
+Part II Branch-Circuit Load Calculations
+220.10 General
+220.11 Floor Area
+220.12 Lighting Load for Non-Dwelling Occupancies
+	Unit Load
+Type of Occupancy	Volt-amperes/m2	Volt-amperes/ft2
+Automotive facility	16	1.5
+Convention center	15	1.4
+Courthouse	15	1.4
+Dormitory	16	1.5
+Exercise center	15	1.4
+Fire station	14	1.3
+Gymnasiuma	18	1.7
+Health care clinic	17	1.6
+Hospital	17	1.6
+Hotels and motels, including apartment houses without provisions for cooking by tenantsb	18	1.7
+Library	16	1.5
+Manufacturing facilityc	24	2.2
+Motion picture theater	17	1.6
+Museum	17	1.6
+Officed	14	1.3
+Parking garagee	3	0.3
+Penitentiary	13	1.2
+Performing arts theater	16	1.5
+Police station	14	1.3
+Post office	17	1.6
+Religious facility	24	2.2
+Restaurantf	16	1.5
+Retailg, h	20	1.9
+School/university	33	3
+Sports arena	33	3
+Town hall	15	1.4
+Transportation	13	1.2
+Warehouse	13	1.2
+Workshop	18	1.7
+Note: The 125 percent multiplier for a continuous load as specified in 210.20(A) is included when using the unit loads in this table for calculating the minimum lighting load for a specified occupancy.
+aArmories and auditoriums are considered gymnasium-type occupancies.
+bLodge rooms are similar to hotels and motels.
+cIndustrial commercial loft buildings are considered manufacturing-type occupancies.
+dBanks are office-type occupancies.
+eGarages — commercial (storage) are considered parking garage occupancies.
+fClubs are considered restaurant occupancies.
+gBarber shops and beauty parlors are considered retail occupancies.
+hStores are considered retail occupancies.
+
+(A) General
+(B) Energy Code
+220.14 Other Loads — All Occupancies
+(A) Specific Appliances or Loads
+(B) Electric Dryers and Electric Cooking Appliances in Dwellings and Household Cooking Appliances Used in Instructional Programs
+(C) Motor Outlets
+(D) Luminaires
+(E) Heavy-Duty Lampholders
+(F) Sign and Outline Lighting
+(G) Show Windows
+(H) Fixed Multioutlet Assemblies
+(I) Receptacle Outlets
+(J) Dwelling Units
+(K) Office Buildings
+(L) Other Outlets
+(M) Hotel and Motel Occupancies
+220.16 Loads for Additions to Existing Installations
+(A) Dwelling Units
+(B) Other Than Dwelling Units
+220.18 Maximum Loads
+(A) Motor-Operated and Combination Loads
+(B) Inductive and LED Lighting Loads
+(C) Range Loads
+Part III Feeder and Service Load Calculations
+220.40 General
+220.42 General Lighting
+Type of Occupancy	Portion of Lighting Load to Which Demand Factor Applies(Volt-Amperes)	Demand Factor(%)
+Dwelling units	First 3000 at	100
+From 3001 to 120,000 at	35
+Remainder over 120,000 at	25
+Hotels and motels,including apartment houses without provision for cooking by tenants*	First 20,000 or less at	60
+From 20,001 to 100,000 at	50
+Remainder over 100,000 at	35
+Warehouses(storage)	First 12,500 or less at	100
+Remainder over 12,500 at	50
+All others	Total volt-amperes	100
+*The demand factors of this table shall not apply to the calculated load of feeders or services supplying areas in hotels and motels where the entire lighting is likely to be used at one time, as in ballrooms or dining rooms.
+
+220.43 Show-Window and Track Lighting
+(A) Show Windows
+(B) Track Lighting
+220.44 Receptacle Loads — Other Than Dwelling Units
+Portion of Receptacle Load to Which Demand Factor Applies(Volt-Amperes)	Demand Factor (%)
+First 10 kVA or less at	100
+Remainder over 10 kVA at	50
+
+220.50 Motors
+220.51 Fixed Electric Space Heating
+220.52 Small-Appliance and Laundry Loads — Dwelling Unit
+(A) Small-Appliance Circuit Load
+(B) Laundry Circuit Load
+220.53 Appliance Load — Dwelling Unit(s)
+220.54 Electric Clothes Dryers — Dwelling Unit(s)
+Number of Dryers	Demand Factor (%)
+1—4	100
+5	85
+6	75
+7	65
+8	60
+9	55
+10	50
+11	47
+12—23	47% minus 1% for each dryer exceeding 11
+24—42	35% minus 0.5% for each dryer exceeding 23
+43 and over	25%
+
+220.55 Electric Cooking Appliances in Dwelling Units and Household Cooking Appliances Used in Instructional Programs
+Number of Appliances	Demand Factor (%) (See Notes)	Column CMaximum Demand (kW)(See Notes)(Not over 12 kW Rating)
+Column A(Less than 31/2 kW Rating)	Column B(31/2 kW through 83/4 kW Rating)
+1	80	80	8
+2	75	65	11
+3	70	55	14
+4	66	50	17
+5	62	45	20
+6	59	43	21
+7	56	40	22
+8	53	36	23
+9	51	35	24
+10	49	34	25
+11	47	32	26
+12	45	32	27
+13	43	32	28
+14	41	32	29
+15	40	32	30
+16	39	28	31
+17	38	28	32
+18	37	28	33
+19	36	28	34
+20	35	28	35
+21	34	26	36
+22	33	26	37
+23	32	26	38
+24	31	26	39
+25	30	26	40
+26—30	30	24	15 kW + 1 kW for each range
+31—40	30	22
+41—50	30	20	25 kW + 3/4 kW for each range
+51—60	30	18
+61 and over	30	16
+Notes:1. Over 12 kW through 27 kW ranges all of same rating. For ranges individually rated more than 12 kW but not more than 27 kW, the maximum demand in Column C shall be increased 5 percent for each additional kilowatt of rating or major fraction thereof by which the rating of individual ranges exceeds 12 kW.
+2. Over 83/4 kW through 27 kW ranges of unequal ratings. For ranges individually rated more than 83/4 kW and of different ratings, but none exceeding 27 kW, an average value of rating shall be calculated by adding together the ratings of all ranges to obtain the total connected load (using 12 kW for any range rated less than 12 kW) and dividing by the total number of ranges. Then the maximum demand in Column C shall be increased 5 percent for each kilowatt or major fraction thereof by which this average value exceeds 12 kW.
+3. Over 13/4 kW through 83/4 kW. In lieu of the method provided in Column C, it shall be permissible to add the nameplate ratings of all household cooking appliances rated more than 13/4 kW but not more than 83/4 kW and multiply the sum by the demand factors specified in Column A or Column B for the given number of appliances. Where the rating of cooking appliances falls under both Column A and Column B, the demand factors for each column shall be applied to the appliances for that column, and the results added together.
+4. Branch-Circuit Load. It shall be permissible to calculate the branch-circuit load for one range in accordance with Table 220.55. The branch-circuit load for one wall-mounted oven or one counter-mounted cooking unit shall be the nameplate rating of the appliance. The branch-circuit load for a counter-mounted cooking unit and not more than two wall-mounted ovens, all supplied from a single branch circuit and located in the same room, shall be calculated by adding the nameplate rating of the individual appliances and treating this total as equivalent to one range.
+5. This table shall also apply to household cooking appliances rated over 13/4 kW and used in instructional programs.
+
+220.56 Kitchen Equipment — Other Than Dwelling Unit(s)
+Number of Units of Equipment	Demand Factor (%)
+1	100
+2	100
+3	90
+4	80
+5	70
+6 and over	65
+
+220.60 Noncoincident Loads
+220.61 Feeder or Service Neutral Load
+(A) Basic Calculation
+(B) Permitted Reductions
+(C) Prohibited Reductions
+Part IV Optional Feeder and Service Load Calculations
+220.80 General
+220.82 Dwelling Unit
+(A) Feeder and Service Load
+(B) General Loads
+(C) Heating and Air-Conditioning Load
+220.83 Existing Dwelling Unit
+(A) Where Additional Air-Conditioning Equipment or Electric Space-Heating Equipment Is Not to Be Installed
+Load (kVA)	Percent of Load
+First 8 kVA of load at	100
+Remainder of load at	40
+
+(B) Where Additional Air-Conditioning Equipment or Electric Space-Heating Equipment Is to Be Installed
+Load	Percent of Load
+Air-conditioning equipment	100
+Central electric space heating	100
+Less than four separately controlled space-heating units	100
+First 8 kVA of all other loads	100
+Remainder of all other loads	40
+
+220.84 Multifamily Dwelling
+Number of Dwelling Units	Demand Factor (%)
+3—5	45
+6—7	44
+8—10	43
+11	42
+12—13	41
+14—15	40
+16—17	39
+18—20	38
+21	37
+22—23	36
+24—25	35
+26—27	34
+28—30	33
+31	32
+32—33	31
+34—36	30
+37—38	29
+39—42	28
+43—45	27
+46—50	26
+51—55	25
+56—61	24
+62 and over	23
+
+(A) Feeder or Service Load
+(B) House Loads
+(C) Calculated Loads
+220.85 Two Dwelling Units
+220.86 Schools
+Connected Load	Demand Factor (Percent)
+First 33 VA/m2 Plus,	(3 VA/ft2) at	100
+Over 33 through 220 VA/m2 Plus,	(3 through 20 VA/ft2) at	75
+Remainder over 220 VA/m2	(20 VA/ft2) at	25
+
+220.87 Determining Existing Loads
+220.88 New Restaurants
+Total Connected Load (kVA)	All Electric RestaurantCalculated Loads (kVA)	Not All Electric RestaurantCalculated Loads (kVA)
+0—200	80%	100%
+201—325	10% (amount over 200) + 160.0	50% (amount over 200) + 200.0
+326—800	50% (amount over 325) + 172.5	45% (amount over 325) + 262.5
+Over 800	50% (amount over 800) + 410.0	20% (amount over 800) + 476.3
+Note: Add all electrical loads, including both heating and cooling loads, to calculate the total connected load. Select the one demand factor that applies from the table, then multiply the total connected load by this single demand factor.
+
+Part V Farm Load Calculations
+220.100 General
+220.102 Farm Loads — Buildings and Other Loads
+Ampere Load at 240 Volts Maximum	Demand Factor (%)
+The greater of the following:	
+All loads that are expected to operatesimultaneously, or	100
+125 percent of the full load currentof the largest motor, or	
+First 60 amperes of the load	
+Next 60 amperes of all other loads	50
+Remainder of other loads	25
+
+(A) Dwelling Unit
+(B) Other Than Dwelling Unit
+220.103 Farm Loads — Total
+Individual Loads Calculated inAccordance with Table 220.102	Demand Factor(%)
+Largest load	100
+Second largest load	75
+Third largest load	65
+Remaining loads	50
+Note: To this total load, add the load of the farm dwelling unit calculated in accordance with Part III or IV of this article. Where the dwelling has electric heat and the farm has electric grain-drying systems, Part IV of this article shall not be used to calculate the dwelling load.
+
+Article 225 Outside Branch Circuits and Feeders
+225.1 Scope
+225.3 Other Articles
+Equipment/Conductors	Article
+Branch circuits	210
+Class 1, Class 2, and Class 3 remote-control, signaling, and power-limited circuits	725
+Communications circuits	805
+Community antenna television and radio distribution systems	820
+Conductors for general wiring	310
+Electrically driven or controlled irrigation machines	675
+Electric signs and outline lighting	600
+Feeders	215
+Fire alarm systems	760
+Fixed outdoor electric deicing and snow-melting equipment	426
+Floating buildings	553
+Grounding and bonding	250
+Hazardous (classified) locations	500
+Hazardous (classified) locations — specific	510
+Marinas and boatyards	555
+Medium-voltage conductors and cable	311
+Messenger-supported wiring	396
+Mobile homes, manufactured homes, and mobile home parks	550
+Open wiring on insulators	398
+Over 1000 volts, general	490
+Overcurrent protection	240
+Radio and television equipment	810
+Services	230
+Solar photovoltaic systems	690
+Swimming pools, fountains, and similar installations	680
+Use and identification of grounded conductors	200
+
+Part I General
+225.4 Conductor Covering
+225.5 Size of Conductors 1000 Volts, Nominal, or Less
+225.6 Conductor Size and Support
+(A) Overhead Spans
+(B) Festoon Lighting
+225.7 Lighting Equipment Installed Outdoors
+(A) General
+(B) Common Neutral
+(C) 277 Volts to Ground
+(D) 1000 Volts Between Conductors
+225.10 Wiring on Buildings (or Other Structures)
+225.11 Feeder and Branch-Circuit Conductors Entering, Exiting, or Attached to Buildings or Structures
+225.12 Open-Conductor Supports
+225.14 Open-Conductor Spacings
+(A) 1000 Volts, Nominal, or Less
+(B) Over 1000 Volts, Nominal
+(C) Separation From Other Circuits
+(D) Conductors on Poles
+225.15 Supports Over Buildings
+225.16 Attachment to Buildings
+(A) Point of Attachment
+(B) Means of Attachment
+225.17 Masts as Supports
+(A) Strength
+(B) Attachment
+225.18 Clearance for Overhead Conductors and Cables
+225.19 Clearances From Buildings for Conductors of Not Over 1000 Volts, Nominal
+(A) Above Roofs
+(B) From Nonbuilding or Nonbridge Structures
+(C) Horizontal Clearances
+(D) Final Spans
+(1) Clearance From Windows
+(2) Vertical Clearance
+(3) Building Openings
+(E) Zone for Fire Ladders
+225.20 Protection Against Physical Damage
+225.21 Multiconductor Cables on Exterior Surfaces of Buildings (or Other Structures)
+225.22 Raceways on Exterior Surfaces of Buildings or Other Structures
+225.24 Outdoor Lampholders
+225.25 Location of Outdoor Lamps
+225.26 Vegetation as Support
+225.27 Raceway Seal
+Part II Buildings or Other Structures Supplied by a Feeder(s) or Branch Circuit(s)
+225.30 Number of Supplies
+(A) Special Conditions
+(B) Common Supply Equipment
+(C) Special Occupancies
+(D) Capacity Requirements
+(E) Different Characteristics
+(F) Documented Switching Procedures
+225.31 Disconnecting Means
+225.32 Location
+225.33 Maximum Number of Disconnects
+(A) General
+(B) Single-Pole Units
+225.34 Grouping of Disconnects
+(A) General
+(B) Additional Disconnecting Means
+225.35 Access to Occupants
+225.36 Type of Disconnecting Means
+225.37 Identification
+225.38 Disconnect Construction
+(A) Manually or Power Operable
+(B) Simultaneous Opening of Poles
+(C) Disconnection of Grounded Conductor
+(D) Indicating
+225.39 Rating of Disconnect
+(A) One-Circuit Installation
+(B) Two-Circuit Installations
+(C) One-Family Dwelling
+(D) All Others
+225.40 Access to Overcurrent Protective Devices
+Part III Over 1000 Volts
+225.50 Sizing of Conductors
+225.51 Isolating Switches
+225.52 Disconnecting Means
+(A) Location
+(B) Type
+(C) Locking
+(D) Indicating
+(E) Uniform Position
+(F) Identification
+225.56 Inspections and Tests
+(A) Pre-Energization and Operating Tests
+(1) Instrument Transformers
+(2) Protective Relays
+(3) Switching Circuits
+(4) Control and Signal Circuits
+(5) Metering Circuits
+(6) Acceptance Tests
+(7) Relays and Metering Utilizing Phase Differences
+(B) Test Report
+225.60 Clearances Over Roadways, Walkways, Rail, Water, and Open Land
+Location	Clearance
+m	ft
+Open land subject to vehicles, cultivation, or grazing	5.6	18.5
+Roadways, driveways, parking lots, and alleys	5.6	18.5
+Walkways	4.1	13.5
+Rails	8.1	26.5
+Spaces and ways for pedestrians and restricted traffic	4.4	14.5
+Water areas not suitable for boating	5.2	17.0
+
+(A) 22 kV, Nominal, to Ground or Less
+(B) Over 22 kV Nominal to Ground
+(C) Special Cases
+225.61 Clearances Over Buildings and Other Structures
+Clearance from Conductors or Live Parts from:	Horizontal	Vertical
+m	ft	m	ft
+Building walls, projections, and windows	2.3	7.5	—	—
+Balconies, catwalks, and similar areas accessible to people	2.3	7.5	4.1	13.5
+Over or under roofs or projections not readily accessible to people	—	—	3.8	12.5
+Over roofs accessible to vehicles but not trucks	—	—	4.1	13.5
+Over roofs accessible to trucks	—	—	5.6	18.5
+Other structures	2.3	7.5	—	—
+
+(A) 22 kV Nominal to Ground or Less
+(B) Over 22 kV Nominal to Ground
+Article 230 Services
+230.1 Scope
+
+General	Part I
+Overhead Service Conductors	Part II
+Underground Service Conductors	Part III
+Service-Entrance Conductors	Part IV
+Service Equipment—General	Part V
+Service Equipment—Disconnecting Means	Part VI
+Service Equipment—Overcurrent Protection	Part VII
+Services Exceeding 1000 Volts, Nominal	Part VIII
+
+Part I General
+230.2 Number of Services
+(A) Special Conditions
+(B) Special Occupancies
+(C) Capacity Requirements
+(D) Different Characteristics
+(E) Identification
+230.3 One Building or Other Structure Not to Be Supplied Through Another
+230.6 Conductors Considered Outside the Building
+230.7 Other Conductors in Raceway or Cable
+230.8 Raceway Seal
+230.9 Clearances on Buildings
+(A) Clearances
+(B) Vertical Clearance
+(C) Building Openings
+230.10 Vegetation as Support
+Part II Overhead Service Conductors
+230.22 Insulation or Covering
+230.23 Size and Ampacity
+(A) General
+(B) Minimum Size
+(C) Grounded Conductors
+230.24 Clearances
+(A) Above Roofs
+(B) Vertical Clearance for Overhead Service Conductors
+(C) Clearance From Building Openings
+(D) Clearance From Swimming Pools
+(E) Clearance From Communication Wires and Cables
+230.26 Point of Attachment
+230.27 Means of Attachment
+230.28 Service Masts as Supports
+(A) Strength
+(B) Attachment
+230.29 Supports Over Buildings
+Part III Underground Service Conductors
+230.30 Installation
+(A) Insulation
+(B) Wiring Methods
+230.31 Size and Ampacity
+(A) General
+(B) Minimum Size
+(C) Grounded Conductors
+230.32 Protection Against Damage
+230.33 Spliced Conductors
+Part IV Service-Entrance Conductors
+230.40 Number of Service-Entrance Conductor Sets
+230.41 Insulation of Service-Entrance Conductors
+230.42 Minimum Size and Ampacity
+(A) General
+(B) Specific Installations
+(C) Grounded Conductors
+230.43 Wiring Methods for 1000 Volts, Nominal, or Less
+230.44 Cable Trays
+230.46 Spliced and Tapped Conductors
+230.50 Protection Against Physical Damage
+(A) Underground Service-Entrance Conductors
+(B) All Other Service-Entrance Conductors
+(1) Service-Entrance Cables
+(2) Other Than Service-Entrance Cables
+230.51 Mounting Supports
+(A) Service-Entrance Cables
+(B) Other Cables
+(C) Individual Open Conductors
+Maximum Volts	Maximum Distance Between Supports		Minimum Clearance
+	Between Conductors		From Surface
+m	ft		mm	in.		mm	in.
+1000	2.7	9		150	6		50	2
+1000	4.5	15		300	12		50	2
+300	1.4	41/2		75	3		50	2
+1000*	1.4*	41/2*		65*	21/2*		25*	1*
+*Where not exposed to weather.
+
+230.52 Individual Conductors Entering Buildings or Other Structures
+230.53 Raceways to Drain
+230.54 Overhead Service Locations
+(A) Service Head
+(B) Service-Entrance Cables Equipped With Service Head or Gooseneck
+(C) Service Heads and Goosenecks Above Service-Drop or Overhead Service Attachment
+(D) Secured
+(E) Separately Bushed Openings
+(F) Drip Loops
+(G) Arranged That Water Will Not Enter Service Raceway or Equipment
+230.56 Service Conductor With the Higher Voltage to Ground
+Part V Service Equipment — General
+230.62 Service Equipment — Enclosed or Guarded
+(A) Enclosed
+(B) Guarded
+(C) Barriers
+230.66 Marking
+(A) General
+(B) Meter Sockets
+230.67 Surge Protection
+(A) Surge-Protective Device
+(B) Location
+(C) Type
+(D) Replacement
+Part VI Service Equipment — Disconnecting Means
+230.70 General
+(A) Location
+(1) Readily Accessible Location
+(2) Bathrooms
+(3) Remote Control
+(B) Marking
+(C) Suitable for Use
+230.71 Maximum Number of Disconnects
+(A) General
+(B) Two to Six Service Disconnecting Means
+230.72 Grouping of Disconnects
+(A) General
+(B) Additional Service Disconnecting Means
+(C) Access to Occupants
+230.74 Simultaneous Opening of Poles
+230.75 Disconnection of Grounded Conductor
+230.76 Manually or Power Operable
+230.77 Indicating
+230.79 Rating of Service Disconnecting Means
+(A) One-Circuit Installations
+(B) Two-Circuit Installations
+(C) One-Family Dwellings
+(D) All Others
+230.80 Combined Rating of Disconnects
+230.81 Connection to Terminals
+230.82 Equipment Connected to the Supply Side of Service Disconnect
+230.85 Emergency Disconnects
+Part VII Service Equipment — Overcurrent Protection
+230.90 Where Required
+(A) Ungrounded Conductor
+(B) Not in Grounded Conductor
+230.91 Location
+230.92 Locked Service Overcurrent Devices
+230.93 Protection of Specific Circuits
+230.94 Relative Location of Overcurrent Device and Other Service Equipment
+230.95 Ground-Fault Protection of Equipment
+(A) Setting
+(B) Fuses
+(C) Performance Testing
+Part VIII Services Exceeding 1000 Volts, Nominal
+230.200 General
+230.202 Service-Entrance Conductors
+(A) Conductor Size
+(B) Wiring Methods
+230.204 Isolating Switches
+(A) Where Required
+(B) Fuses as Isolating Switch
+(C) Accessible to Qualified Persons Only
+(D) Connection to Ground
+230.205 Disconnecting Means
+(A) Location
+(B) Type
+(C) Remote Control
+230.206 Overcurrent Devices as Disconnecting Means
+230.208 Protection Requirements
+(A) Equipment Type
+(B) Enclosed Overcurrent Devices
+230.209 Surge Arresters
+230.210 Service Equipment — General Provisions
+230.211 Switchgear
+230.212 Over 35,000 Volts
+Article 240 Overcurrent Protection
+Part I General
+240.1 Scope
+240.2 Definitions
+240.3 Other Articles
+Equipment	Article
+Air-conditioning and refrigerating equipment	440
+Appliances	422
+Assembly occupancies	518
+Audio signal processing, amplification, and reproduction equipment	640
+Branch circuits	210
+Busways	368
+Capacitors	460
+Class 1, Class 2, and Class 3 remote-control, signaling, and power-limited circuits	725
+Cranes and hoists	610
+Electric signs and outline lighting	600
+Electric welders	630
+Electrolytic cells	668
+Elevators, dumbwaiters, escalators, moving walks, wheelchair lifts, and stairway chairlifts	620
+Emergency systems	700
+Fire alarm systems	760
+Fire pumps	695
+Fixed electric heating equipment for pipelines and vessels	427
+Fixed electric space-heating equipment	424
+Fixed outdoor electric deicing and snow-melting equipment	426
+Generators	445
+Health care facilities	517
+Induction and dielectric heating equipment	665
+Industrial machinery	670
+Luminaires, lampholders, and lamps	410
+Motion picture and television studios and similar locations	530
+Motors, motor circuits, and controllers	430
+Phase converters	455
+Pipe organs	650
+Receptacles	406
+Services	230
+Solar photovoltaic systems	690
+Switchboards and panelboards	408
+Theaters, audience areas of motion picture and television studios, and similar locations	520
+Transformers and transformer vaults	450
+X-ray equipment	660
+
+240.4 Protection of Conductors
+(A) Power Loss Hazard
+(B) Overcurrent Devices Rated 800 Amperes or Less
+(C) Overcurrent Devices Rated Over 800 Amperes
+(D) Small Conductors
+(1) 18 AWG Copper
+(2) 16 AWG Copper
+(3) 14 AWG Copper
+(4) 12 AWG Aluminum and Copper-Clad Aluminum
+(5) 12 AWG Copper
+(6) 10 AWG Aluminum and Copper-Clad Aluminum
+(7) 10 AWG Copper
+(E) Tap Conductors
+(F) Transformer Secondary Conductors
+(G) Overcurrent Protection for Specific Conductor Applications
+Conductor	Article	Section
+Air-conditioning and refrigeration equipment circuit conductors	440, Parts III, VI	
+Capacitor circuit conductors	460	460.8(B) and 460.25
+Control and instrumentation circuit conductors (Type ITC)	727	727.9
+Electric welder circuit conductors	630	630.12 and 630.32
+Fire alarm system circuit conductors	760	760.43, 760.45, 760.121, and Chapter 9, Tables 12(A) and 12(B)
+Motor-operated appliance circuit conductors	422, Part II	
+Motor and motor-control circuit conductors	430, Parts II, III, IV, V, VI, VII	
+Phase converter supply conductors	455	455.7
+Remote-control, signaling, and power-limited circuit conductors	725	725.43, 725.45, 725.121, and Chapter 9, Tables 11(A) and 11(B)
+Secondary tie conductors	450	450.6
+
+240.5 Protection of Flexible Cords, Flexible Cables, and Fixture Wires
+(A) Ampacities
+(B) Branch-Circuit Overcurrent Device
+(1) Supply Cord of Listed Appliance or Luminaire
+(2) Fixture Wire
+(3) Extension Cord Sets
+(4) Field Assembled Extension Cord Sets
+240.6 Standard Ampere Ratings
+(A) Fuses and Fixed-Trip Circuit Breakers
+Standard Ampere Ratings
+15	20	25	30	35
+40	45	50	60	70
+80	90	100	110	125
+150	175	200	225	250
+300	350	400	450	500
+600	700	800	1000	1200
+1600	2000	2500	3000	4000
+5000	6000	—	—	—
+
+(B) Adjustable-Trip Circuit Breakers
+(C) Restricted Access Adjustable-Trip Circuit Breakers
+240.8 Fuses or Circuit Breakers in Parallel
+240.9 Thermal Devices
+240.10 Supplementary Overcurrent Protection
+240.12 Electrical System Coordination
+240.13 Ground-Fault Protection of Equipment
+240.15 Ungrounded Conductors
+(A) Overcurrent Device Required
+(B) Circuit Breaker as Overcurrent Device
+(1) Multiwire Branch Circuits
+(2) Grounded Single-Phase Alternating-Current Circuits
+(3) 3-Phase and 2-Phase Systems
+(4) 3-Wire Direct-Current Circuits
+Part II Location
+240.21 Location in Circuit
+(A) Branch-Circuit Conductors
+(B) Feeder Taps
+(1) Taps Not Over 3 m (10 ft) Long
+(2) Taps Not Over 7.5 m (25 ft) Long
+(3) Taps Supplying a Transformer [Primary Plus Secondary Not Over 7.5 m (25 ft) Long]
+(4) Taps Over 7.5 m (25 ft) Long
+(5) Outside Taps of Unlimited Length
+(C) Transformer Secondary Conductors
+(1) Protection by Primary Overcurrent Device
+(2) Transformer Secondary Conductors Not Over 3 m (10 ft) Long
+(3) Industrial Installation Secondary Conductors Not Over 7.5 m (25 ft) Long
+(4) Outside Secondary Conductors
+(5) Secondary Conductors From a Feeder Tapped Transformer
+(6) Secondary Conductors Not Over 7.5 m (25 ft) Long
+(D) Service Conductors
+(E) Busway Taps
+(F) Motor Circuit Taps
+(G) Conductors From Generator Terminals
+(H) Battery Conductors
+240.22 Grounded Conductor
+240.24 Location in or on Premises
+(A) Accessibility
+(B) Occupancy
+(1) Service and Feeder Overcurrent Devices
+(2) Branch-Circuit Overcurrent Devices
+(C) Not Exposed to Physical Damage
+(D) Not in Vicinity of Easily Ignitible Material
+(E) Not Located in Bathrooms
+(F) Not Located Over Steps
+Part III Enclosures
+240.30 General
+(A) Protection From Physical Damage
+(B) Operating Handle
+240.32 Damp or Wet Locations
+240.33 Vertical Position
+Part IV Disconnecting and Guarding
+240.40 Disconnecting Means for Fuses
+240.41 Arcing or Suddenly Moving Parts
+(A) Location
+(B) Suddenly Moving Parts
+Part V Plug Fuses, Fuseholders, and Adapters
+240.50 General
+(A) Maximum Voltage
+(B) Marking
+(C) Hexagonal Configuration
+(D) No Energized Parts
+(E) Screw Shell
+240.51 Edison-Base Fuses
+(A) Classification
+(B) Replacement Only
+240.52 Edison-Base Fuseholders
+240.53 Type S Fuses
+(A) Classification
+(B) Noninterchangeable
+240.54 Type S Fuses, Adapters, and Fuseholders
+(A) To Fit Edison-Base Fuseholders
+(B) To Fit Type S Fuses Only
+(C) Nonremovable
+(D) Nontamperable
+(E) Interchangeability
+Part VI Cartridge Fuses and Fuseholders
+240.60 General
+(A) Maximum Voltage — 300-Volt Type
+(B) Noninterchangeable — 0-6000-Ampere Cartridge Fuseholders
+(C) Marking
+(D) Renewable Fuses
+240.61 Classification
+240.62 Reconditioned Equipment
+240.67 Arc Energy Reduction
+(A) Documentation
+(B) Method to Reduce Clearing Time
+(C) Performance Testing
+Part VII Circuit Breakers
+240.80 Method of Operation
+240.81 Indicating
+240.82 Nontamperable
+240.83 Marking
+(A) Durable and Visible
+(B) Location
+(C) Interrupting Rating
+(D) Used as Switches
+(E) Voltage Marking
+240.85 Applications
+240.86 Series Ratings
+(A) Selected Under Engineering Supervision in Existing Installations
+(B) Tested Combinations
+(C) Motor Contribution
+240.87 Arc Energy Reduction
+(A) Documentation
+(B) Method to Reduce Clearing Time
+(C) Performance Testing
+240.88 Reconditioned Equipment
+(A) Circuit Breakers
+(B) Components
+Part VIII Supervised Industrial Installations
+240.90 General
+240.91 Protection of Conductors
+(A) General
+(B) Devices Rated Over 800 Amperes
+240.92 Location in Circuit
+(A) Feeder and Branch-Circuit Conductors
+(B) Feeder Taps
+Tap conductors are considered to be protected under short-circuit conditions when their short-circuit temperature limit is not exceeded. Conductor heating under short-circuit conditions is determined by (1) or (2):
+(1) Short-Circuit Formula for Copper Conductors
+(I2/A2)t = 0.0297 log10 [(T2 + 234)/(T1 + 234)]
+(2) Short-Circuit Formula for Aluminum Conductors
+(I2/A2)t = 0.0125 log10 [(T2 + 228)/(T1 + 228)]
+where:
+I = short-circuit current in amperes
+A = conductor area in circular mils
+t = time of short circuit in seconds (for times less than or equal to 10 seconds)
+T1 = initial conductor temperature in degrees Celsius
+T2 = final conductor temperature in degrees Celsius
+Copper conductor with paper, rubber, varnished cloth insulation, T2 = 200
+Copper conductor with thermoplastic insulation, T2 = 150
+Copper conductor with cross-linked polyethylene insulation, T2 = 250
+Copper conductor with ethylene propylene rubber insulation, T2 = 250
+Aluminum conductor with paper, rubber, varnished cloth insulation, T2 = 200
+Aluminum conductor with thermoplastic insulation, T2 = 150
+Aluminum conductor with cross-linked polyethylene insulation, T2 = 250
+Aluminum conductor with ethylene propylene rubber insulation, T2 = 250
+
+(C) Transformer Secondary Conductors of Separately Derived Systems
+(1) Short-Circuit and Ground-Fault Protection
+(2) Overload Protection
+(3) Physical Protection
+(D) Outside Feeder Taps
+(E) Protection by Primary Overcurrent Device
+Part IX Overcurrent Protection Over 1000 Volts, Nominal
+240.100 Feeders and Branch Circuits
+(A) Location and Type of Protection
+(1) Overcurrent Relays and Current Transformers
+(2) Fuses
+(B) Protective Devices
+(C) Conductor Protection
+240.101 Additional Requirements for Feeders
+(A) Rating or Setting of Overcurrent Protective Devices
+(B) Feeder Taps
+240.102 Reconditioned Equipment
+Article 242 Overvoltage Protection
+Part I General
+242.1 Scope
+242.3 Other Articles
+Equipment	Article
+Class I locations	501
+Class II locations	502
+Community antenna television and radio distribution systems	820
+Critical operations power systems	708
+Elevators, dumbwaiters, escalators, moving walks, platform lifts, and stairway chairlifts	620
+Emergency systems	700
+Equipment over 1000 volts, nominal	490
+Fire pumps	695
+Industrial machinery	670
+Information technology equipment	645
+Modular data centers	646
+Outdoor overhead conductors over 1000 volts	399
+Radio and television equipment	810
+Receptacles, cord connectors, and attachment plugs (caps)	406
+Wind electric systems	694
+
+Part II Surge-Protective Devices (SPDs), 1000 Volts or Less
+242.6 Uses Not Permitted
+242.8 Listing
+242.10 Short-Circuit Current Rating
+242.12 Type 1 SPDs
+(A) Installation
+(B) At the Service
+242.14 Type 2 SPDs
+(A) Service-Supplied Building or Structure
+(B) Feeder-Supplied Building or Structure
+(C) Separately Derived System
+242.16 Type 3 SPDs
+242.18 Type 4 and Other Component Type SPDs
+242.20 Number Required
+242.22 Location
+242.24 Routing of Connections
+242.26 Connection
+242.28 Conductor Size
+242.30 Connection Between Conductors
+242.32 Grounding Electrode Conductor Connections and Enclosures
+Part III Surge Arresters, Over 1000 Volts
+242.40 Uses Not Permitted
+242.42 Surge Arrester Selection
+(A) Rating
+(1) Solidly Grounded Systems
+(2) Impedance or Ungrounded System
+(B) Silicon Carbide Types
+242.44 Number Required
+242.46 Location
+242.48 Routing of Surge Arrester Equipment Grounding Conductors
+242.50 Connection
+242.52 Surge-Arrester Conductors
+242.54 Interconnections
+(A) Metal Interconnections
+(1) Additional Grounding Connection
+(2) Multigrounded Neutral System Connection
+(B) Through Spark Gap or Device
+(1) Ungrounded or Unigrounded Primary System
+(2) Multigrounded Neutral Primary System
+(C) By Special Permission
+242.56 Grounding Electrode Conductor Connections and Enclosures
+Article 250 Grounding and Bonding
+Part I General
+250.1 Scope
+250.3 Application of Other Articles
+Conductor/Equipment	Article	Section
+Agricultural buildings		547.9 and 547.10
+Audio signal processing, amplification, and reproduction equipment		640.7
+Branch circuits		210.5, 210.6, 406.3
+Cablebus		370.60
+Cable trays	392	392.60
+Capacitors		460.10, 460.27
+Circuits and equipment operating at less than 50 volts	720	
+Communications circuits	800	
+Community antenna television and radio distribution systems		820.93, 820.100, 820.103, 800.106, 800.100
+Conductors for general wiring	310	
+Medium voltage conductors and cables	311	
+Cranes and hoists	610	
+Electrically driven or controlled irrigation machines		675.11(C), 675.12, 675.13, 675.14, 675.15
+Electric signs and outline lighting	600	
+Electrolytic cells	668	
+Elevators, dumbwaiters, escalators, moving walks, wheelchair lifts, and stairway chairlifts	620	
+Fixed electric heating equipment for pipelines and vessels		427.29, 427.48
+Fixed outdoor electric deicing and snow-melting equipment		426.27
+Flexible cords and cables		400.22, 400.23
+Floating buildings		555.54, 555.55, 555.56
+Grounding-type receptacles, adapters, cord connectors, and attachment plugs		406.10
+Hazardous (classified) locations	500—517	
+Health care facilities	517	
+Induction and dielectric heating equipment	665	
+Industrial machinery	670	
+Information technology equipment		645.14, 645.15
+Intrinsically safe systems		504.50
+Luminaires and lighting equipment		410.40, 410.42, 410.46, 410.155(B)
+Luminaires, lampholders, and lamps	410	
+Marinas and boatyards		555.37, 555.38
+Mobile homes and mobile home park	550	
+Motion picture and television studios and similar locations		530.20, 530.64(B)
+Motors, motor circuits, and controllers	430	
+Natural and artificially made bodies of water	682	682.30, 682.31, 682.32, 682.33
+Network powered broadband communications circuits		800.100, 800.106, 830.93
+Optical fiber cables		770.100
+Outlet, device, pull, and junction boxes; conduit bodies; and fittings		314.4, 314.25
+Over 600 volts, nominal, underground wiring methods		300.50(C)
+Panelboards		408.40
+Pipe organs	650	
+Radio and television equipment	810	
+Receptacles and cord connectors		406.3
+Recreational vehicles and recreational vehicle parks	551	
+Services	230	
+Solar photovoltaic systems		690.41, 690.42, 690.43, 690.45, 690.47
+Swimming pools, fountains, and similar installations	680	
+Switchboards and panelboards		408.18(C)
+Switches		404.12
+Theaters, audience areas of motion picture and television studios, and similar locations		520.81
+Transformers and transformer vaults		450.10
+Use and identification of grounded conductors	200	
+X-ray equipment	660	517.78
+
+250.4 General Requirements for Grounding and Bonding
+(A) Grounded Systems
+(1) Electrical System Grounding
+(2) Grounding of Electrical Equipment
+(3) Bonding of Electrical Equipment
+(4) Bonding of Electrically Conductive Materials and Other Equipment
+(5) Effective Ground-Fault Current Path
+(B) Ungrounded Systems
+(1) Grounding Electrical Equipment
+(2) Bonding of Electrical Equipment
+(3) Bonding of Electrically Conductive Materials and Other Equipment
+(4) Path for Fault Current
+250.6 Objectionable Current
+(A) Arrangement to Prevent Objectionable Current
+(B) Alterations to Stop Objectionable Current
+(C) Temporary Currents Not Classified as Objectionable Currents
+(D) Limitations to Permissible Alterations
+(E) Isolation of Objectionable Direct-Current Ground Currents
+250.8 Connection of Grounding and Bonding Equipment
+(A) Permitted Methods
+(B) Methods Not Permitted
+250.10 Protection of Ground Clamps and Fittings
+250.12 Clean Surfaces
+Part II System Grounding
+250.20 Alternating-Current Systems to Be Grounded
+(A) Alternating-Current Systems of Less Than 50 Volts
+(B) Alternating-Current Systems of 50 Volts to 1000 Volts
+(C) Alternating-Current Systems of Over 1000 Volts
+(D) Impedance Grounded Neutral Systems
+250.21 Alternating-Current Systems of 50 Volts to 1000 Volts Not Required to Be Grounded
+(A) General
+(B) Ground Detectors
+(C) Marking
+250.22 Circuits Not to Be Grounded
+250.24 Grounding of Service-Supplied Alternating-Current Systems
+(A) System Grounding Connections
+(1) General
+(2) Outdoor Transformer
+(3) Dual-Fed Services
+(4) Main Bonding Jumper as Wire or Busbar
+(5) Load-Side Grounding Connections
+(B) Main Bonding Jumper
+(C) Grounded Conductor Brought to Service Equipment
+(1) Sizing for a Single Raceway or Cable
+(2) Parallel Conductors in Two or More Raceways or Cables
+(3) Delta-Connected Service
+(4) High Impedance
+(D) Grounding Electrode Conductor
+(E) Ungrounded System Grounding Connections
+250.25 Grounding Systems Permitted to Be Connected on the Supply Side of the Disconnect
+(A) Grounded System
+(B) Ungrounded Systems
+250.26 Conductor to Be Grounded — Alternating-Current Systems
+250.28 Main Bonding Jumper and System Bonding Jumper
+(A) Material
+(B) Construction
+(C) Attachment
+(D) Size
+(1) General
+(2) Main Bonding Jumper for Service With More Than One Enclosure
+(3) Separately Derived System With More Than One Enclosure
+250.30 Grounding Separately Derived Alternating-Current Systems
+(A) Grounded Systems
+(1) System Bonding Jumper
+(2) Supply-Side Bonding Jumper
+(3) Grounded Conductor
+(4) Grounding Electrode
+(5) Grounding Electrode Conductor, Single Separately Derived System
+(6) Grounding Electrode Conductor, Multiple Separately Derived Systems
+(7) Installation
+(8) Bonding
+(B) Ungrounded Systems
+(1) Grounding Electrode Conductor
+(2) Grounding Electrode
+(3) Bonding Path and Conductor
+(C) Outdoor Source
+250.32 Buildings or Structures Supplied by a Feeder(s) or Branch Circuit(s)
+(A) Grounding Electrode
+(B) Grounded Systems
+(1) Supplied by a Feeder or Branch Circuit
+(2) Supplied by Separately Derived System
+(C) Ungrounded Systems
+(1) Supplied by a Feeder or Branch Circuit
+(2) Supplied by a Separately Derived System
+(D) Disconnecting Means Located in Separate Building or Structure on the Same Premises
+(E) Grounding Electrode Conductor
+250.34 Portable, Vehicle-Mounted, and Trailer-Mounted Generators
+(A) Portable Generators
+(B) Vehicle-Mounted and Trailer-Mounted Generators
+(C) Grounded Conductor Bonding
+250.35 Permanently Installed Generators
+(A) Separately Derived System
+(B) Nonseparately Derived System
+250.36 High-Impedance Grounded Neutral Systems
+(A) Location
+(B) Conductor Insulation and Ampacity
+(C) System Grounding Connection
+(D) Conductor Routing
+(E) Equipment Bonding Jumper
+(F) Grounding Electrode Conductor Connection Location
+(G) Equipment Bonding Jumper Size
+Part III Grounding Electrode System and Grounding Electrode Conductor
+250.50 Grounding Electrode System
+250.52 Grounding Electrodes
+(A) Electrodes Permitted for Grounding
+(1) Metal Underground Water Pipe
+(2) Metal In-Ground Support Structure(s)
+(3) Concrete-Encased Electrode
+(4) Ground Ring
+(5) Rod and Pipe Electrodes
+(6) Other Listed Electrodes
+(7) Plate Electrodes
+(8) Other Local Metal Underground Systems or Structures
+(B) Not Permitted for Use as Grounding Electrodes
+250.53 Grounding Electrode System Installation
+(A) Rod, Pipe, and Plate Electrodes
+(1) Below Permanent Moisture Level
+(2) Supplemental Electrode Required
+(3) Supplemental Electrode
+(4) Rod and Pipe Electrodes
+(5) Plate Electrode
+(B) Electrode Spacing
+(C) Bonding Jumper
+(D) Metal Underground Water Pipe
+(1) Continuity
+(2) Supplemental Electrode Required
+(E) Supplemental Electrode Bonding Connection Size
+(F) Ground Ring
+250.54 Auxiliary Grounding Electrodes
+250.58 Common Grounding Electrode
+250.60 Use of Strike Termination Devices
+250.62 Grounding Electrode Conductor Material
+250.64 Grounding Electrode Conductor Installation
+(A) Aluminum or Copper-Clad Aluminum Conductors
+(B) Securing and Protection Against Physical Damage
+(1) Not Exposed to Physical Damage
+(2) Exposed to Physical Damage
+(3) Smaller Than 6 AWG
+(4) In Contact With the Earth
+(C) Continuous
+(D) Building or Structure With Multiple Disconnecting Means in Separate Enclosures
+(1) Common Grounding Electrode Conductor and Taps
+(2) Individual Grounding Electrode Conductors
+(3) Common Location
+(E) Raceways and Enclosures for Grounding Electrode Conductors
+(1) General
+(2) Methods
+(3) Size
+(4) Wiring Methods
+(F) Installation to Electrode(s)
+250.66 Size of Alternating-Current Grounding Electrode Conductor
+Size of Largest Ungrounded Conductor or Equivalent Area for Parallel Conductors(AWG/kcmil)		Size of Grounding Electrode Conductor(AWG/kcmil)
+Copper	Aluminum orCopper-Clad Aluminum		Copper	Aluminum orCopper-Clad Aluminum
+2 or smaller	1/0 or smaller		8	6
+1 or 1/0	2/0 or 3/0		6	4
+2/0 or 3/0	4/0 or 250		4	2
+Over 3/0 through 350	Over 250 through 500		2	1/0
+Over 350 through 600	Over 500 through 900		1/0	3/0
+Over 600 through 1100	Over 900 through 1750		2/0	4/0
+Over 1100	Over 1750		3/0	250
+Notes:1. If multiple sets of service-entrance conductors connect directly to a service drop, set of overhead service conductors, set of underground service conductors, or service lateral, the equivalent size of the largest service-entrance conductor shall be determined by the largest sum of the areas of the corresponding conductors of each set.
+2. Where there are no service-entrance conductors, the grounding electrode conductor size shall be determined by the equivalent size of the largest service-entrance conductor required for the load to be served.
+3. See installation restrictions in 250.64.
+
+(A) Connections to a Rod, Pipe, or Plate Electrode(s)
+(B) Connections to Concrete-Encased Electrodes
+(C) Connections to Ground Rings
+250.68 Grounding Electrode Conductor and Bonding Jumper Connection to Grounding Electrodes
+(A) Accessibility
+(B) Effective Grounding Path
+(C) Grounding Electrode Conductor Connections
+250.70 Methods of Grounding and Bonding Conductor Connection to Electrodes
+Part IV Enclosure, Raceway, and Service Cable Connections
+250.80 Service Raceways and Enclosures
+250.84 Underground Service Cable or Raceway
+(A) Underground Service Cable
+(B) Underground Service Raceway Containing Cable
+250.86 Other Conductor Enclosures and Raceways
+Part V Bonding
+250.90 General
+250.92 Services
+(A) Bonding of Equipment for Services
+(B) Method of Bonding at the Service
+250.94 Bonding for Communication Systems
+(A) The Intersystem Bonding Termination Device
+(B) Other Means
+250.96 Bonding Other Enclosures
+(A) General
+(B) Isolated Grounding Circuits
+250.97 Bonding for Over 250 Volts
+250.98 Bonding Loosely Jointed Metal Raceways
+250.100 Bonding in Hazardous (Classified) Locations
+250.102 Grounded Conductor, Bonding Conductors, and Jumpers
+(A) Material
+(B) Attachment
+(C) Size — Supply-Side Bonding Jumper
+(1) Size for Supply Conductors in a Single Raceway or Cable
+Size of Largest Ungrounded Conductor or Equivalent Area for Parallel Conductors(AWG/kcmil)		Size of Grounded Conductor or Bonding Jumper*(AWG/kcmil)
+Copper	Aluminum or Copper-Clad Aluminum		Copper	Aluminum or Copper-Clad Aluminum
+2 or smaller	1/0 or smaller		8	6
+1 or 1/0	2/0 or 3/0		6	4
+2/0 or 3/0	4/0 or 250		4	2
+Over 3/0 through 350	Over 250 through 500		2	1/0
+Over 350 through 600	Over 500 through 900		1/0	3/0
+Over 600 through 1100	Over 900 through 1750		2/0	4/0
+Over 1100	Over 1750		See Notes 1 and 2.
+Notes:1. If the ungrounded supply conductors are larger than 1100 kcmil copper or 1750 kcmil aluminum, the grounded conductor or bonding jumper shall have an area not less than 121/2 percent of the area of the largest ungrounded supply conductor or equivalent area for parallel supply conductors. The grounded conductor or bonding jumper shall not be required to be larger than the largest ungrounded conductor or set of ungrounded conductors.
+2. If the ungrounded supply conductors are larger than 1100 kcmil copper or 1750 kcmil aluminum and if the ungrounded supply conductors and the bonding jumper are of different materials (copper, aluminum, or copper-clad aluminum), the minimum size of the grounded conductor or bonding jumper shall be based on the assumed use of ungrounded supply conductors of the same material as the grounded conductor or bonding jumper and will have an ampacity equivalent to that of the installed ungrounded supply conductors.
+3. If multiple sets of service-entrance conductors are used as permitted in 230.40, Exception No. 2, or if multiple sets of ungrounded supply conductors are installed for a separately derived system, the equivalent size of the largest ungrounded supply conductor(s) shall be determined by the largest sum of the areas of the corresponding conductors of each set.
+4. If there are no service-entrance conductors, the supply conductor size shall be determined by the equivalent size of the largest service-entrance conductor required for the load to be served.
+*For the purposes of applying this table and its notes, the term bonding jumper refers to main bonding jumpers, system bonding jumpers, and supply-side bonding jumpers.
+
+(2) Size for Parallel Conductor Installations in Two or More Raceways or Cables
+(D) Size — Equipment Bonding Jumper on Load Side of an Overcurrent Device
+(E) Installation
+(1) Inside a Raceway or an Enclosure
+(2) Outside a Raceway or an Enclosure
+(3) Protection
+250.104 Bonding of Piping Systems and Exposed Structural Metal
+(A) Metal Water Piping
+(1) General
+(2) Buildings of Multiple Occupancy
+(3) Buildings or Structures Supplied by a Feeder(s) or Branch Circuit(s)
+(B) Other Metal Piping
+(C) Structural Metal
+(D) Separately Derived Systems
+(1) Metal Water Piping System(s)
+(2) Structural Metal
+(3) Common Grounding Electrode Conductor
+250.106 Lightning Protection Systems
+Part VI Equipment Grounding and Equipment Grounding Conductors
+250.109 Metal Enclosures
+250.110 Equipment Fastened in Place (Fixed) or Connected by Permanent Wiring Methods
+250.112 Specific Equipment Fastened in Place (Fixed) or Connected by Permanent Wiring Methods
+(A) Switchgear and Switchboard Frames and Structures
+(B) Pipe Organs
+(C) Motor Frames
+(D) Enclosures for Motor Controllers
+(E) Elevators and Cranes
+(F) Garages, Theaters, and Motion Picture Studios
+(G) Electric Signs
+(H) Motion Picture Projection Equipment
+(I) Remote-Control, Signaling, and Fire Alarm Circuits
+(J) Luminaires
+(K) Skid-Mounted Equipment
+(L) Motor-Operated Water Pumps
+(M) Metal Well Casings
+250.114 Equipment Connected by Cord and Plug
+250.116 Nonelectrical Equipment
+250.118 Types of Equipment Grounding Conductors
+250.119 Identification of Equipment Grounding Conductors
+(A) Conductors 4 AWG and Larger
+(B) Multiconductor Cable
+(C) Flexible Cord
+250.120 Equipment Grounding Conductor Installation
+(A) Raceway, Cable Trays, Cable Armor, Cablebus, or Cable Sheaths
+(B) Aluminum and Copper-Clad Aluminum Conductors
+(C) Equipment Grounding Conductors Smaller Than 6 AWG
+250.121 Restricted Use of Equipment Grounding Conductors
+(A) Grounding Electrode Conductor
+(B) Metal Frame of Building or Structure
+250.122 Size of Equipment Grounding Conductors
+Rating or Setting of Automatic Overcurrent Device in Circuit Ahead of Equipment, Conduit, etc., Not Exceeding (Amperes)	Size (AWG or kcmil)
+Copper	Aluminum or Copper-Clad Aluminum*
+15	14	12
+20	12	10
+60	10	8
+100	8	6
+200	6	4
+300	4	2
+400	3	1
+500	2	1/0
+600	1	2/0
+800	1/0	3/0
+1000	2/0	4/0
+1200	3/0	250
+1600	4/0	350
+2000	250	400
+2500	350	600
+3000	400	600
+4000	500	750
+5000	700	1250
+6000	800	1250
+Note: Where necessary to comply with 250.4(A)(5) or (B)(4), the equipment grounding conductor shall be sized larger than given in this table.
+*See installation restrictions in 250.120.
+
+(A) General
+(B) Increased in Size
+(C) Multiple Circuits
+(D) Motor Circuits
+(1) General
+(2) Instantaneous-Trip Circuit Breaker and Motor Short-Circuit Protector
+(E) Flexible Cord and Fixture Wire
+(F) Conductors in Parallel
+(1) Conductor Installations in Raceways, Auxiliary Gutters, or Cable Trays
+(2) Multiconductor Cables
+(G) Feeder Taps
+250.124 Equipment Grounding Conductor Continuity
+(A) Separable Connections
+(B) Switches
+250.126 Identification of Wiring Device Terminals
+Part VII Methods of Equipment Grounding Conductor Connections
+250.130 Equipment Grounding Conductor Connections
+(A) For Grounded Systems
+(B) For Ungrounded Systems
+(C) Nongrounding Receptacle Replacement or Branch Circuit Extensions
+250.132 Short Sections of Raceway
+250.134 Equipment Fastened in Place or Connected by Permanent Wiring Methods (Fixed)
+250.136 Equipment Secured to Grounded Metal Supports
+250.138 Cord-and-Plug-Connected Equipment
+(A) By Means of an Equipment Grounding Conductor
+(B) By Means of a Separate Flexible Wire or Strap
+250.140 Frames of Ranges and Clothes Dryers
+250.142 Use of Grounded Circuit Conductor for Grounding Equipment
+(A) Supply-Side Equipment
+(B) Load-Side Equipment
+250.144 Multiple Circuit Connections
+250.146 Connecting Receptacle Grounding Terminal to an Equipment Grounding Conductor
+(A) Surface-Mounted Box
+(B) Contact Devices or Yokes
+(C) Floor Boxes
+(D) Isolated Ground Receptacles
+250.148 Continuity of Equipment Grounding Conductors and Attachment in Boxes
+(A) Connections and Splices
+(B) Equipment Grounding Conductor Continuity
+(C) Metal Boxes
+(D) Nonmetallic Boxes
+Part VIII Direct-Current Systems
+250.160 General
+250.162 Direct-Current Circuits and Systems to Be Grounded
+(A) Two-Wire, Direct-Current Systems
+(B) Three-Wire, Direct-Current Systems
+250.164 Point of Connection for Direct-Current Systems
+(A) Off-Premises Source
+(B) On-Premises Source
+250.166 Size of the Direct-Current Grounding Electrode Conductor
+(A) Not Smaller Than the Neutral Conductor
+(B) Not Smaller Than the Largest Conductor
+(C) Connected to Rod, Pipe, or Plate Electrodes
+(D) Connected to a Concrete-Encased Electrode
+(E) Connected to a Ground Ring
+250.167 Direct-Current Ground-Fault Detection
+(A) Ungrounded Systems
+(B) Grounded Systems
+(C) Marking
+250.168 Direct-Current System Bonding Jumper
+250.169 Ungrounded Direct-Current Separately Derived Systems
+Part IX Instruments, Meters, and Relays
+250.170 Instrument Transformer Circuits
+250.172 Instrument Transformer Cases
+250.174 Cases of Instruments, Meters, and Relays Operating at 1000 Volts or Less
+(A) Not on Switchgear or Switchboards
+(B) On Switchgear or Dead-Front Switchboards
+(C) On Live-Front Switchboards
+250.176 Cases of Instruments, Meters, and Relays — Operating at Over 1000 Volts
+250.178 Instrument Equipment Grounding Conductor
+Part X Grounding of Systems and Circuits of Over 1000 Volts
+250.180 General
+250.182 Derived Neutral Systems
+250.184 Solidly Grounded Neutral Systems
+(A) Neutral Conductor
+(1) Insulation Level
+(2) Ampacity
+(B) Single-Point Grounded Neutral System
+(C) Multigrounded Neutral Systems
+250.186 Grounding Service-Supplied Alternating-Current Systems
+(A) Systems With a Grounded Conductor at the Service Point
+(1) Sizing for a Single Raceway or Overhead Conductor
+(2) Parallel Conductors in Two or More Raceways or Overhead Conductors
+(3) Delta-Connected Service
+(4) Impedance Grounded Neutral Systems
+(B) Systems Without a Grounded Conductor at the Service Point
+(1) Sizing for a Single Raceway or Overhead Conductor
+(2) Parallel Conductors in Two or More Raceways or Overhead Conductors
+(3) Impedance Grounded Neutral Systems
+250.187 Impedance Grounded Systems
+(A) Location
+(B) Insulated
+(C) Grounded System Conductor Connection
+(D) Equipment Grounding Conductors
+250.188 Grounding of Systems Supplying Portable or Mobile Equipment
+(A) Portable or Mobile Equipment
+(B) Exposed Non—Current-Carrying Metal Parts
+(C) Ground-Fault Current
+(D) Ground-Fault Detection and Relaying
+(E) Isolation
+(F) Trailing Cable and Couplers
+250.190 Grounding of Equipment
+(A) Equipment Grounding
+(B) Grounding Electrode Conductor
+(C) Equipment Grounding Conductor
+(1) General
+(2) Shielded Cables
+(3) Sizing
+250.191 Grounding System at Alternating-Current Substations
+250.194 Grounding and Bonding of Fences and Other Metal Structures
+(A) Metal Fences
+(B) Metal Structures

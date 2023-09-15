@@ -1,0 +1,110 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX C – FIRE HYDRANT LOCATIONS AND DISTRIBUTION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)			X																				
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+C101.1			X																				
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX C FIRE HYDRANT LOCATIONS AND DISTRIBUTION
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix C focuses on the location and spacing of fire hydrants, which is important to the success of fire-fighting operations. The difficulty with determining the spacing of fire hydrants is that every situation is unique and has unique challenges. Finding one methodology for determining hydrant spacing is difficult. This particular appendix gives one methodology based on the required fire flow that fire departments can work with to set a policy for hydrant distribution around new buildings and facilities in conjunction with Section 507.5.
+
+SECTION C101 GENERAL
+
+C101.1 Scope.
+
+In addition to the requirements of Section 507.5.1, fire hydrants shall be provided in accordance with this appendix for the protection of buildings, or portions of buildings, hereafter constructed or moved into the jurisdiction.
+
+Exception: [SFM] Group B, S-2 and U occupancies having a floor area not exceeding 1,000 square feet, primarily constructed of noncombustible exterior walls with wood or steel roof framing, having a Class A roof assembly, with uses limited to the following or similar uses:
+
+1.California State Parks buildings of an accessory nature (restrooms).
+
+2.Safety roadside rest areas, (SRRA), public restrooms.
+
+3.Truck inspection facilities, (TIF), California Highway Patrol (CHP) office space and vehicle inspection bays.
+
+4.Sand/salt storage buildings, storage of sand and salt.
+
+SECTION C102 NUMBER OF FIRE HYDRANTS
+
+C102.1 Minimum number of fire hydrants for a building.
+
+The number of fire hydrants available to a building shall be not less than the minimum specified in Table C102.1.
+
+TABLE C102.1
+
+REQUIRED NUMBER AND SPACING OF FIRE HYDRANTSh
+
+FIRE-FLOW REQUIREMENT (gpm)	MINIMUM NUMBER OF HYDRANTS	AVERAGE SPACING BETWEEN HYDRANTSa, b, c, f, g (feet)	MAXIMUM DISTANCE FROM ANY POINT ON STREET OR ROAD FRONTAGE TO A HYDRANTd, f, g
+1,750 or less	1	500	250
+1,751–2,250	2	450	225
+2,251–2,750	3	450	225
+2,751–3,250	3	400	225
+3,251–4,000	4	350	210
+4,001–5,000	5	300	180
+5,001–5,500	6	300	180
+5,501–6,000	6	250	150
+6,001–7,000	7	250	150
+7,001 or more	8 or moree	200	120For SI: 1 foot = 304.8 mm, 1 gallon per minute = 3.785 L/m.
+
+a.Reduce by 100 feet for dead-end streets or roads.
+
+b.Where streets are provided with median dividers that cannot be crossed by fire fighters pulling hose lines, or where arterial streets are provided with four or more traffic lanes and have a traffic count of more than 30,000 vehicles per day, hydrant spacing shall average 500 feet on each side of the street and be arranged on an alternating basis.
+
+c.Where new water mains are extended along streets where hydrants are not needed for protection of structures or similar fire problems, fire hydrants shall be provided at spacing not to exceed 1,000 feet to provide for transportation hazards.
+
+d.Reduce by 50 feet for dead-end streets or roads.
+
+e.One hydrant for each 1,000 gallons per minute or fraction thereof.
+
+f.A 50-percent spacing increase shall be permitted where the building is equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.1 of the California Fire Code.
+
+g.A 25-percent spacing increase shall be permitted where the building is equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.2 or 903.3.1.3 of the California Fire Code or Section 313 of the California Residential Code.
+
+h. The fire code official is authorized to modify the location, number and distribution of fire hydrants based on site-specific constraints and hazards.
+
+SECTION C103 FIRE HYDRANT SPACING
+
+C103.1 Hydrant spacing.
+
+Fire apparatus access roads and public streets providing required access to buildings in accordance with Section 503 shall be provided with one or more fire hydrants, as determined by Section C102.1. Where more than one fire hydrant is required, the distance between required fire hydrants shall be in accordance with Sections C103.2 and C103.3.
+
+C103.2 Average spacing.
+
+The average spacing between fire hydrants shall be in accordance with Table C102.1.
+
+Exception:  The average spacing shall be permitted to be increased by 10 percent where existing fire hydrants provide all or a portion of the required number of fire hydrants.
+
+C103.3 Maximum spacing.
+
+The maximum spacing between fire hydrants shall be in accordance with Table C102.1.
+
+SECTION C104 CONSIDERATION OF EXISTING FIRE HYDRANTS
+
+C104.1 Existing fire hydrants.
+
+Existing fire hydrants on public streets are allowed to be considered as available to meet the requirements of Sections C102 and C103. Existing fire hydrants on adjacent properties are allowed to be considered as available to meet the requirements of Sections C102 and C103 provided that a fire apparatus access road extends between properties and that an easement is established to prevent obstruction of such roads.
+
+SECTION C105 REFERENCED STANDARD
+
+C105.1 General.
+
+See Table C105.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE C105.1
+
+REFERENCED STANDARD
+
+STANDARD ACRONYM	STANDARD NAME	SECTION HEREIN REFERENCED
+CRC—22	California Residential Code	Table C102.1

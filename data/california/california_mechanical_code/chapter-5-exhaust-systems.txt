@@ -1,0 +1,802 @@
+Chapter 5 Exhaust Systems
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter				X	X								X										
+Adopt Entire Chapter as
+amended (amended sections listed below)	X		X					X	X	X	X	X		X	X		X						
+Adopt only those sections
+that are listed below		X																			X		
+Chapter/Section																							
+504.1.1										X	X	X		X	X								
+505.12																					X		
+505.12.1																					X		
+507.7										X		X	X	X	X								
+508.4										X	X	X		X	X								
+509.2.3			X																				
+509.2.3.4																	X						
+511.1.6		X						X	X														
+512.2.5								X	X														
+513.2.2			X					X	X														
+513.2.2 Exception 2								X	X														
+513.3.5			X					X	X														
+513.10			X					X	X														
+513.10.1			X					X	X														
+516.2.7 Exception			X					X	X														
+516.2.9(4)			X					X	X														
+
+505.12
+
+505.12.1
+
+507.7
+
+509.2.3.4
+
+513.2.2
+
+513.2.2 Exception 2
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+501.0 General
+501.1 Applicability
+502.0 Termination
+502.1 Exhaust Opening Protection
+502.2 Termination of Exhaust Ducts
+502.2.1 Environmental Air Ducts
+502.2.2 Product Conveying Ducts
+502.2.3 Commercial Kitchen Ducts
+Part I — Environmental Air Ducts and Product-Conveying Systems
+503.0 Motors, Fans, and Filters
+503.1 General
+503.2 Fans
+504.0 Environmental Air Ducts
+504.1 General
+504.1.1 Backdraft Protection
+[OSHPD 1, 1R, 2, 4 & 5] Exception: Backdraft dampers are not required when the exhaust fan must operate continuously.
+
+504.2 Independent Exhaust Systems
+504.3 Domestic Range
+504.4 Clothes Dryers
+504.4.1 Provisions for Makeup Air
+504.4.2 Domestic Clothes Dryers
+504.4.2.1 Length Limitation
+504.4.2.2 Transition Ducts
+504.4.2.3 Exhaust Duct Power Ventilators
+504.4.3 Commercial Clothes Dryers
+504.4.3.1 Exhaust Ducts for Type 2 Clothes Dryers
+504.4.4 Common Exhaust
+504.4.5 Duct Supports
+504.5 Heat (Energy) Recovery Ventilators
+504.6 Gypsum Wallboard Ducts
+505.0 Product-Conveying Systems
+505.1 General
+505.1.1 Mechanical Ventilation
+505.2 Incompatible Materials
+505.3 Flammability Limit
+505.3.1 Higher Concentrations
+505.3.2 Ovens and Furnaces
+505.3.3 Deflagration
+505.4 Air-Moving Devices
+505.5 Generating Flames, Sparks, or Hot Materials
+505.6 Fire Dampers
+505.6.1 Prohibited
+505.7 Fire Detection and Alarm Systems
+505.7.1 Automatic Extinguishing System
+505.7.2 Shut Down Permitted
+505.8 Product-Conveying Ducts Classification
+Class 1 -	Ducts conveying nonabrasives, such as smoke,spray, mists, fogs, noncorrosive fumes and gases,light fine dusts, or powders.
+Class 2 -	Ducts conveying moderately abrasive particulate inlight concentrations, such as sawdust and graindust, and buffing and polishing dust.
+Class 3 -	Ducts conveying Class 2 materials in high concentrationsand highly abrasive materials in low concentrations,such as manganese, steel chips, andcoke.
+Class 4 -	Ducts conveying highly abrasive material in highconcentrations.
+Class 5 -	Ducts conveying corrosives, such as acid vapors.
+
+505.9 Minimum Velocities and Circulation
+NATURE OF CONTAMINANTS	EXAMPLES	FEET PER MINUTE
+DESIGN VELOCITY
+(feet per minute)
+Vapors, gases, smoke	All vapors, gases, and smoke	1000 - 20002
+Fumes	Welding	2000 - 2500
+Very fine light dust	Cotton lint, wood flour, litho powder	2500 - 3000
+Dry dusts and powders	Fine rubber dust, molding powder dust, jute lint, cotton dust, shavings (light), soap dust, leather shavings	3000 - 4000
+Average industrial dusts	Grinding dust, buffing lint (dry), wool jute dust (shaker waste), coffee beans, shoe dust, granite dust, silica flour, general material handling, brick cutting, clay dust, foundry (general), limestone dust, packaging and weighing asbestos dust in textile industries	3500 - 4000
+Heavy dusts	Sawdust (heavy and wet), metal turnings, foundry tumbling barrels and shake-out, sandblast dust, wood blocks, hog waste, brass turning, cast-iron boring dust, lead dust	4000 - 4500
+Heavy or moist dusts	Lead dust with chips, moist cement dust, asbestos chunks from transite pipe cutting machines, buffing lint (sticky), quick-lime dust	4500 and up
+
+505.10 Makeup Air
+505.11 Hoods and Enclosures
+505.12 Pharmacies — Compounding Area of Parenteral Solutions
+Pharmacies — Compounding Area of Parenteral Solutions
+
+[CA — Board of Pharmacy] The
+pharmacy shall have a designated area for the preparation
+of sterile products for dispensing which shall be ventilated in
+a manner not interfering with laminar air flow.
+
+
+
+Note: For additional pharmacy building standard requirements,
+see Chapter 12, California Building Code.
+
+505.12.1 Pharmacies — Laminar Flow Biological Safety Cabinet
+Pharmacies — Laminar Flow Biological Safety Cabinet
+
+[CA — Board of Pharmacy] In all pharmacies preparing parenteral cytotoxic agents, all compounding shall be conducted within a certified Class II Type A or Class II Type B vertical laminar airflow hood with bag in — bag out design. The pharmacy must ensure that contaminated air plenums that are under positive air pressure are leak tight.
+
+Note: For additional pharmacy building standard requirements, see Chapter 12, California Building Code.
+
+506.0 Product-Conveying Ducts
+506.1 Materials
+506.2 Construction
+NEGATIVEPRESSURE(incheswatercolumn)	REINF.
+SPACING
+(inches)	CLASS 1
+(inches)
+Up to 7	8 to 11	12 to 15	16 to 19	20 to 23	24 to 35	36 to 47	48 to 59	60
+To 7	0	0.021 (24 ga.)	0.021 (24 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.127 (10 ga.)	—	—
+96	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+48	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)
+24	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)
+8 to 11	0	0.021 (24 ga.)	0.027 (22 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	—	—	—
+96	0.021 (24 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+48	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+24	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+12 to 15	0	0.021 (24 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—	—	—
+96	0.021 (24 ga.)	0.027 (22 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.097 (12 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.021 (24 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)
+24	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+16 to 20	0	0.021 (24 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.112 (11 ga.)	—	—	—	—
+96	0.021 (24 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.112 (11 ga.)
+24	0.021 (24 ga.)	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)
+		CLASS 2
+(inches)
+To 7	0	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.127 (10 ga.)	—	—
+96	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+48	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+24	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+8 to 11	0	0.027 (22 ga.)	0.027 (22 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	—	—	—
+96	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+48	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+24	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+12 to 15	0	0.027 (22 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—	—	—
+96	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.097 (12 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)
+24	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+16 to 20	0	0.027 (22 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.112 (11 ga.)	—	—	—	—
+96	0.027 (22 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)
+24	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+		CLASS 3
+(inches)
+To 7	0	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.127 (10 ga.)	—	—
+96	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+48	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+24	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+8 to 11	0	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	—	—	—
+96	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+48	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+24	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+12 to 15	0	0.133 (20 ga.)	0.133 (20 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	—	—	—
+96	0.133 (20 ga.)	0.133 (20 ga.)	0.144 (18 ga.)	0.144 (18 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.197 (12 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.133 (20 ga.)	0.133 (20 ga.)	0.144 (18 ga.)	0.144 (18 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.168 (14 ga.)
+24	0.133 (20 ga.)	0.133 (20 ga.)	0.144 (18 ga.)	0.144 (18 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.168 (14 ga.)
+16 to 20	0	0.133 (20 ga.)	0.144 (18 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.112 (11 ga.)	—	—	—	—
+96	0.133 (20 ga.)	0.133 (20 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.133 (20 ga.)	0.133 (20 ga.)	0.144 (18 ga.)	0.144 (18 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)
+24	0.133 (20 ga.)	0.133 (20 ga.)	0.144 (18 ga.)	0.144 (18 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.168 (14 ga.)
+		CLASS 4
+(inches)
+To 7	0	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	—	—
+96	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+48	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+24	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+8 to 11	0	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	—	—	—
+96	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+48	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+24	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.197 (12 ga.)
+12 to 15	0	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	—	—	—
+96	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.155 (16 ga.)	0.168 (14 ga.)	0.168 (14 ga.)	0.197 (12 ga.)	0.197 (12 ga.)	0.097 (12 ga.)
+24	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+16 to 20	0	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.112 (11 ga.)	—	—	—	—
+96	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+48	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+24	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+
+NEGATIVEPRESSURE(incheswatercolumn)	REINF.
+SPACING
+(inches)	LONGEST SIDE OF DUCT
+CLASS 1(inches)	CLASS 2(inches)
+Up to 12	13 to 24	25 to 36	37 to 48	49 to 60	Up to 12	13 to 24	25 to 36	37 to 48	49 to 60
+To 7	48	0.021 (24 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	—	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	—
+24	0.021 (24 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+12	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.021 (24 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+8 to 11	48	0.027 (22 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—	0.033 (20 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—
+24	0.027 (22 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.033 (20 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+12	0.021 (24 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.027 (22 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+12 to 15	48	0.044 (18 ga.)	0.097 (12 ga.)	—	—	—	0.044 (18 ga.)	0.044 (18 ga.)	—	—	—
+24	0.044 (18 ga.)	0.055 (16 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+12	0.027 (22 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.044 (18 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.055 (16 ga.)	0.055 (16 ga.)	0.055 (16 ga.)
+16 to 20	48	0.068 (14 ga.)	0.112 (11 ga.)	—	—	—	0.068 (14 ga.)	0.112 (11 ga.)	—	—	—
+24	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+12	0.033 (20 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.033 (20 ga.)	0.044 (18 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)
+		CLASS 3
+(inches)	CLASS 4
+(inches)
+To 7	48	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	—	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—
+24	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+12	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+8 to 11	48	0.044 (18 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	—
+24	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+12	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+12 to 15	48	0.044 (18 ga.)	0.097 (12 ga.)	—	—	—	0.055 (16 ga.)	0.097 (12 ga.)	—	—	—
+24	0.044 (18 ga.)	0.055 (16 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+12	0.044 (18 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+16 to 20	48	0.068 (14 ga.)	0.112 (11 ga.)	—	—	—	0.055 (16 ga.)	0.112 (11 ga.)	—	—	—
+24	0.068 (14 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.112 (11 ga.)	0.112 (11 ga.)	0.112 (11 ga.)
+12	0.044 (18 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.068 (14 ga.)	0.055 (16 ga.)	0.068 (14 ga.)	0.097 (12 ga.)	0.097 (12 ga.)	0.097 (12 ga.)
+
+506.3 Penetrations
+506.3.1 Fire Barriers
+506.3.2 Protection
+506.4 Condensate
+506.4.1 Drainage
+506.5 Fittings
+506.6 Explosion Venting
+506.7 Supports
+506.8 Fire Protection
+506.8.1 Loads
+506.8.2 Corrosion
+506.8.3 Vibration and Stress
+506.8.4 Expansion and Contraction
+506.9 Protection From Physical Damage
+506.10 Duct Clearances
+506.10.1 Protection Provided
+506.10.2 Systems Conveying Combustible Materials
+506.10.3 Reduced Clearance Permitted
+506.10.4 Clearance Increases
+DUCT GAS
+TEMPERATURE	LARGEST DUCT
+DIMENSION (inches)	CLEARANCE
+(inches)
+140°F — 600°F incl.	8	8
+>8	12
+>600°F — 900°F incl.	8	18
+>8	24
+>900°F	All ducts lined with
+refractory	24
+
+506.10.4.1 Temperatures Over 900°F
+506.10.4.2 Clearance Reduction
+506.11 Clearance Reduction Methods
+FORM OF PROTECTION*	MAXIMUM ALLOWABLE REDUCTION IN CLEARANCE (percent)
+AS WALL PROTECTOR OR
+VERTICAL SURFACE	AS CEILING PROTECTOR OR
+HORIZONTAL SURFACE
+31/2 inch thick masonry wall without ventilated air space	33	None
+1/2 inch thick noncombustible insulation board over 1 inch glass fiber or mineral wool batts without ventilated air space	50	33
+0.024 inch (24 gauge) sheet metal over 1 inch glass fiber or mineral wool batts reinforced with wire, or equivalent on rear face with at least a 1 inch air gap	66	66
+31/2 inch (90 mm) thick masonry wall with at least a 1 inch air gap	66	None
+0.024 inch (24 gauge) sheet metal with at least a 1 inch air gap	66	50
+1/2 inch thick noncombustible insulation board with at least a 1 inch air gap	66	50
+0.024 inch (24 gauge) sheet metal with ventilated air space over at least 0.024 inch (24 gauge) sheet metal with at least a 1 inch air gap	66	50
+1 inch glass fiber or mineral wool batts sandwiched between two sheets of 0.024 inch (24 gauge) sheet metal with at least a 1 inch air gap	66	50
+
+506.11.1 Spacers and Ties
+506.11.2 Wool Batts Insulation
+506.11.3 Insulation Board
+506.11.4 Duct and Thermal Shield
+506.11.5 Thermal Shield and Combustible Surface
+506.11.6 Reduced Clearance With Air Gaps
+506.11.6.1 Air Circulation
+506.11.6.2 Single Flat Wall
+506.11.6.3 Thermal Shielding
+Part II - Commercial Hoods and Kitchen Ventilation
+507.0 General Requirements
+507.1 Type I Hood Exhaust System
+507.2 Exhaust System
+507.2.1 Airflow
+507.2.2 Responsibility
+507.2.3 Solid-Fuel Cooking Equipment
+507.2.4 Multitenant Applications
+507.2.5 Interior Surfaces
+507.2.6 Used in Other Applications
+507.3 Listed Devices
+507.3.1 Penetration
+507.4 Clearance
+507.4.1 Listed
+507.4.2 Clearance Reduction
+507.4.2.1 Mineral Wool Batts or Ceramic Fiber Blanket
+507.4.2.2 Field-Applied Grease Duct Enclosure
+507.4.2.3 Zero Clearance
+507.4.3 Clearance Integrity
+507.4.3.1 Fire
+507.4.3.2 Required Protection
+507.4.3.3 Protection Methods
+507.4.4 Factory Built
+507.4.4.1 Listing
+507.4.4.2 Single Wall
+507.4.4.3 Installation
+507.4.5 Field Applied
+507.4.6 Both Field-Applied and Factory Built
+507.4.6.1 Physical Damage
+507.4.6.2 Specification
+507.4.6.3 Clearance Options
+507.4.7 Building and Structural Contact
+507.4.7.1 Corrosion Protection
+507.4.7.2 Zero Clearance
+507.4.8 Clearance Between Duct and Interior Surfaces
+507.5 Drawings
+507.6 Notification of Change
+507.7 Pharmaceutical Compounding Exhaust Discharge
+Pharmaceutical Compounding Exhaust Discharge
+
+[OSHPD 1, 2, 3, 4 & 5] Exhaust discharge from
+fans serving the compounding suite shall extend at least 7 feet
+(2134 mm) above the roof and discharge vertically upward.
+Self-draining stacks or equivalent shall be used for rain protection. Rain caps which divert the exhaust toward the roof
+shall be prohibited.
+
+508.0 Type I Hoods
+508.1 Where Required
+508.2 Listed Type I Hood Assemblies
+508.2.1 Listed Ultraviolet Hoods
+508.2.2 Listed Ventilated Ceiling Technology
+508.2.3 Construction of Listed Exhaust Hoods
+508.2.4 Assembly of Listed Exhaust Hoods
+508.3 Construction of Type I Hoods
+508.3.1 Grease Vapor
+508.3.2 Seams, Joints, and Penetrations
+508.3.2.1 Sealed
+508.3.3 Eyebrow-Type Hoods
+508.3.3.1 Duct Connection
+508.3.4 Insulation
+508.3.5 Exhaust Hood Assemblies With Integrated Supply-Air Plenums
+508.3.5.1 Outer Shell
+508.3.5.2 Inner Shell
+508.3.5.3 Fire Dampers
+508.3.5.3.1 Listing
+508.3.5.3.2 Actuating Temperature
+508.3.5.3.3 Exemption
+508.4 Supports
+[OSHPD 1,
+1R, 2, 4 & 5] to resist the lateral loads given in the California
+Building Code, Title 24, Part 2
+
+508.5 Hood Size
+508.5.1 Canopy Size and Location
+508.5.1.1 Capacity of Hoods
+ENET = EHOOD - MAID
+
+ENET	=	net hood exhaust
+EHOOD	=	total hood exhaust
+MAID	=	makeup air, internal discharge
+
+ENET
+
+EHOOD
+
+MAID
+
+508.5.1.2 Extra-Heavy-Duty Cooking Appliances
+TYPE OF HOOD	AIRFLOW (cubic foot per minute per linear foot of hood)
+Backshelf/pass-over	Not permitted
+Double island canopy (per side)	550
+Eyebrow	Not permitted
+Single island canopy	700
+Wall-mounted canopy	550
+
+508.5.1.3 Heavy-Duty Cooking Appliances
+TYPE OF HOOD	AIRFLOW (cubic foot per minute per linear foot of hood)
+Backshelf/pass-over	400
+Double island canopy (per side)	400
+Eyebrow	Not permitted
+Single island canopy	600
+Wall-mounted canopy	400
+
+508.5.1.4 Medium-Duty Cooking Appliances
+TYPE OF HOOD	AIRFLOW (cubic foot per minute
+per linear foot of hood)
+Backshelf/pass-over	300
+Double island canopy (per side)	300
+Eyebrow	250
+Single island canopy	500
+Wall-mounted canopy	300
+
+508.5.1.5 Light-Duty Cooking Appliances
+TYPE OF HOOD	AIRFLOW (cubic foot per minute
+per linear foot of hood)
+Backshelf/pass-over	250
+Double island canopy (per side)	250
+Eyebrow	250
+Single island canopy	400
+Wall-mounted canopy	200
+
+508.5.2 Noncanopy-Type Hoods
+508.5.2.1 Installation
+508.5.2.2 Capacity
+508.5.3 Labeling
+508.6 Solid-Fuel Hood Assemblies
+508.7 Exhaust Outlets
+509.0 Grease Removal Devices in Hoods
+509.1 Grease Removal Devices
+509.1.1 Grease Filters, Mesh-Type
+509.2 Installation
+509.2.1 Vertical Distance
+509.2.2 Grease Removal Device Protection
+509.2.2.1 Installation
+509.2.2.2 Size and Location
+509.2.2.3 Clearance
+509.2.3 Grease Filters
+[SFM] For applications listed in Section
+1.11.0 regulated by the Office of the State Fire Marshal,
+grease filters shall be Class I when tested in accordance
+with the test method in Title 24, Part 12, Chapter 12-71,
+SFM Standard 12-71-1.
+
+509.2.3.1 Arrangement
+509.2.3.2 Accessibility
+509.2.3.3 Angled Installation
+509.2.3.4
+[DPH] Grease filters shall be Class I
+when tested in accordance with the test method in
+SFM 12-71-1.
+
+509.2.4 Grease Drip Trays
+509.2.4.1 Size and Pitch
+509.2.5 Grease Filter Orientation
+509.3 Solid-Fuel Grease Removal Devices
+510.0 Exhaust Duct Systems
+510.1 General
+510.1.1 Fire Hazards
+510.1.2 Interconnection
+510.1.3 Duct Installation
+510.1.4 Accessibility
+510.1.5 Sign
+510.1.6 Bracing and Supports
+510.1.7 Type I Exhaust Duct Systems
+510.2 Clearance
+510.3 Openings
+510.3.1 Access Panel
+510.3.2 Access for Cleaning and Inspection
+510.3.3 Horizontal Ducts
+510.3.3.1 Cleaning
+510.3.3.2 Safe Access and Work Platform
+510.3.3.3 Support
+510.3.4 Vertical Ducts
+510.3.4.1 Access
+510.3.4.2 Safe Access and Work Platform
+510.3.5 Nonlisted Ductwork
+510.3.6 Access Panels
+510.3.6.1 Listed Grease Ducts
+510.3.6.2 Within an Enclosure
+510.3.7 Fire Protection System Devices
+510.4 Listed Grease Ducts
+510.4.1 Factory-Built Grease Ducts
+510.5 Other Grease Ducts
+510.5.1 Materials
+510.5.2 Factory-Built Grease Ducts
+510.5.3 Installation
+510.5.3.1 Duct Leakage Test
+510.5.3.2 Welded Duct Connection
+510.5.4 Butt Welded Connections
+510.5.5 Telescoping and Bell-Type Connections
+510.5.6 Duct Leakage Test
+510.6 Exterior Installations
+510.6.1 Weather Protection
+510.7 Interior Installations
+510.7.1 Less Than Four Stories
+510.7.2 Four Stories or More
+510.7.3 Clearance
+510.7.4 Mechanical and Structural Integrity
+510.7.5 Materials
+510.7.5.1 Protection From Physical Damage
+510.7.5.2 Inspection
+510.7.6 Listed
+510.7.7 Fire Doors
+510.7.8 Ducts With Enclosure(s)
+510.8 Underground Installations
+510.8.1 Grease Receptacle
+510.8.2 Cleanouts
+510.9 Termination of Type I Hood Exhaust System
+510.9.1 Rooftop Terminations
+510.9.1.1 Listed Vibration Isolation Connectors
+510.9.1.2 Inspection and Cleaning
+510.9.2 Wall Terminations
+510.10 Solid-Fuel Duct Systems
+511.0 Air Movement
+511.1 Exhaust Fans for Commercial Cooking Operations
+511.1.1 Upblast Fans
+511.1.2 In-Line Exhaust Fans
+511.1.2.1 Accessibility
+511.1.3 Utility Set Exhaust Fans
+511.1.3.1 At the Rooftop
+511.1.3.2 Within the Building
+511.1.3.3 Duct Systems
+511.1.4 Construction
+511.1.5 Openings
+511.1.6 Standard
+California Electrical Code
+
+511.2 Airflow
+511.2.1 Exceptions
+511.2.2 Exhaust-Air Volumes
+511.2.2.1 Performance Test
+511.2.2.2 Capture and Containment Test
+511.2.3 Exhaust Fan Operation
+511.3 Makeup Air
+ENET = EHOOD - MAID
+
+ENET	=	net hood exhaust
+EHOOD	=	total hood exhaust
+MAID	=	makeup air, internal discharge
+
+ENET
+
+EHOOD
+
+MAID
+
+511.3.1 Air Balance
+511.4 Common Duct (Manifold) Systems
+511.4.1 Connections
+511.4.2 Fire Damper
+511.4.3 Construction and Clearance
+511.4.4 Adjustment
+511.4.5 Adjustment Location
+511.4.6 Bleed Air Duct
+511.4.7 Disconnect
+511.5 Solid-Fuel Air Movement Requirements
+512.0 Auxiliary Equipment
+512.1 Dampers
+512.1.1 Use
+512.2 Electrical Equipment
+512.2.1 Device Installation in Ducts
+512.2.2 Lighting Units
+512.2.3 Concealed Spaces
+512.2.4 Listed Lighting Units
+512.2.5 Standard
+California Electrical Code
+
+512.3 Other Equipment
+512.3.1 Access Required
+512.3.2 Downgrading
+512.3.3 Fire-Extinguishing System
+512.3.3.1 Protection
+512.3.3.2 Filter Media
+512.3.4 Source of Ignition
+512.3.5 Air Recirculation
+512.3.6 Carbon Monoxide Detector Required
+512.4 Solid-Fuel Auxiliary Equipment
+513.0 Fire-Extinguishing Equipment
+513.1 General
+513.1.1 Devices in Exhaust Ducts
+513.1.2 Protection
+513.2 Types of Equipment
+513.2.1 Identification
+513.2.2 Standard
+Standard
+
+Commercial cooking equipment that
+produce grease laden vapors shall be provided with a
+Type I Hood, in accordance with this Code, and an automatic
+fire extinguishing system that is listed and labeled
+for its intended use as follows:
+
+Wet chemical extinguishing system (NFPA 17A, Standard
+for Wet Chemical Extinguishing Systems), complying
+with UL 300, Fire Testing of Fire Extinguishing
+Systems for Protection of Restaurant Cooking Equipment.
+All existing dry chemical and wet chemical
+extinguishing systems shall comply with UL 300, Fire
+Testing of Fire Extinguishing Systems for Protection
+of Restaurant Cooking Equipment.
+
+Carbon dioxide extinguishing systems (NFPA 12,
+Standard on Carbon Dioxide Extinguishing Systems).
+
+Automatic fire sprinkler systems (NFPA 13, Standard
+for the Installation of
+Sprinkler Systems).
+
+All existing dry chemical and wet chemical extinguishing
+systems shall comply with UL 300, no later than the second
+required servicing of the system following the effective
+date of this section.
+
+[DSA-SS and DSA-SS/CC] Public school kitchens,
+without deep-fat fryers, shall be upgraded to a UL
+300, Fire Testing of Fire Extinguishing Systems for
+Protection of Restaurant Cooking Equipment, compliant
+system during state-funded modernization projects
+that are under the jurisdiction of the Division of
+the State Architect.
+
+513.2.3 Installation
+513.2.4 Modification of Existing Hood Systems
+513.2.4.1 Sealing
+513.2.4.2 Obstructions
+513.2.4.3 System Re-evaluation
+513.2.5 Baffle Hoods With Water Wash
+513.2.5.1 Listed for the Purpose
+513.2.5.2 Domestic Water Supply
+513.2.5.3 Control Valve
+513.2.5.4 Activation
+513.2.5.5 Water-Wash System
+513.2.5.6 Exception
+513.2.5.7 Water Supply
+513.2.6 Water Valve Supervision
+513.3 Simultaneous Operation
+513.3.1 Hoods
+513.3.1.1 Common Ductwork
+513.3.2 Independent Systems
+513.3.3 Exempt Equipment
+513.3.4 Automatic Sprinkler System
+513.3.5 Dry or Wet Chemical Systems
+Wet Chemical Extinguishing Systems
+
+513.4 Fuel and Electric Power Shutoff
+513.4.1 Steam
+513.4.2 Protection Not Required
+513.4.3 Manual Reset
+513.5 Manual Activation
+513.6 System Annunciation
+513.6.1 Signaling
+513.7 Special Design and Application
+513.8 Review and Certification
+513.9 Installation Requirements
+513.10 Portable Fire Extinguishers
+Chapter 3, Title 19 California Code of Regulations
+
+513.10.1 Other Fire Extinguishers
+Chapter 3, Title 19 California Code of Regulations
+
+513.10.2 Carbon Dioxide-Type
+513.11 Maintenance
+513.11.1 Permitted Use
+513.12 Solid-Fuel Fire-Extinguishing Equipment
+514.0 Procedures for the Use, Inspection, Testing, and Maintenance of Equipment
+514.1 Operating Procedures
+514.1.1 Filters
+514.1.2 Openings
+514.1.3 Posting of Instructions
+514.1.4 Listing and Manufacturer's Instructions
+514.1.5 Nonoperational
+514.1.6 Secondary Control Equipment
+514.1.7 Inspection Frequency
+514.2 Inspection, Testing, and Maintenance
+514.2.1 Requirements
+514.2.2 Fusible Links and Sprinklers
+514.2.3 Inspection Tag
+514.2.4 Temperature-Sensing Elements
+514.2.5 Certification
+514.3 Inspection for Grease Buildup
+TYPE OR VOLUME OF COOKING	INSPECTION
+Systems serving solid-fuel cooking operations.	Monthly
+Systems serving high-volume cooking operations.1	Quarterly
+Systems serving moderate-volume cooking operations.	Semiannually
+Systems serving low-volume cooking operations.2	Annually
+
+514.4 Cleaning of Exhaust Systems
+514.4.1 Measurement System
+514.4.1.1 Combustible Contaminants
+514.4.1.2 Gauge Comb
+514.4.1.3 Cleaning Method
+514.4.1.4 Combustible Contaminants
+514.4.2 Removal of Contaminants
+514.4.3 Electrical Switches
+514.4.4 Fire Suppression System
+514.4.5 Inoperable
+514.4.6 Solvents/Cleaning Aids
+514.4.7 Cleaning Chemicals
+514.4.8 Coating
+514.4.9 Access Panels and Cover Plates
+514.4.10 Date of Inspection
+514.4.11 Airflow
+514.4.12 Operable State
+514.4.13 Certification of Service
+514.4.14 Report Provided
+514.4.15 Unclean Area
+514.4.16 Metal Containers
+514.5 Cooking Equipment Maintenance
+514.5.1 Cleaning
+515.0 Minimum Safety Requirements for Cooking Equipment
+515.1 Cooking Equipment
+515.1.1 Installation
+515.1.1.1 Re-evaluation
+515.1.1.2 Prior Location
+515.1.1.3 Minimum Space
+515.1.1.4 Space Not Required
+515.1.1.5 Minimum Height
+515.2 Operating Controls
+516.0 Recirculating Systems
+516.1 General Requirements
+516.2 Design Restrictions
+516.2.1 Gas/Electrically Fueled Cooking Appliances
+516.2.2 Recirculation
+516.2.3 Protection
+516.2.4 Maximum Limits
+516.2.5 Label
+516.2.6 Fire Damper
+516.2.7 Installation of Electrical Wiring
+the California Electrical
+Code
+
+516.2.8 Power Supply
+516.2.9 Listing Evaluation
+the California Electrical Code
+
+516.3 Interlocks
+516.3.1 Airflow Sections
+516.3.2 Filter Component
+516.3.3 ESP Interlocks
+516.3.3.1 Manual Reset
+516.3.4 Airflow Switch or Transducer
+516.4 Location and Application Restrictions
+516.5 Additional Fire Safety Requirements
+516.5.1 Installation Downstream
+516.5.2 Locations
+516.6 Use and Maintenance
+516.6.1 Manufacturer's Instructions
+516.6.2 Cleaning Schedule
+516.6.3 Hood Plenum and Blower Section Cleaning Schedule
+516.6.4 Inspection of Safety Interlocks
+516.6.5 Inspection
+516.6.6 Maintenance Log
+517.0 Solid-Fuel Cooking Operations
+517.1 Venting Application
+517.1.1 Natural Draft
+517.1.2 System Compliance
+517.1.3 Makeup Air System
+517.1.4 Natural Draft Ventilation Systems
+517.1.5 Opening Requirements
+517.1.6 Spark Arresters
+517.2 Location of Appliances
+517.2.1 Prohibited Location
+517.2.2 Flammable Vapors
+517.3 Hoods for Solid-Fuel Cooking
+517.3.1 Separation
+517.3.1.1 Equipment With Solid Fuel for Flavoring
+517.4 Exhaust Systems for Solid-Fuel Cooking
+517.4.1 Hood
+517.4.2 Building Exceeding Four Stories
+517.4.3 Prohibited
+517.5 Grease Removal Devices for Solid-Fuel Cooking
+517.5.1 Spark Arrester Devices
+517.5.2 Filters
+517.6 Air Movement for Solid-Fuel Cooking
+517.6.1 Replacement Air
+517.6.2 Operation
+517.7 Fire-Extinguishing Equipment for Solid-Fuel Cooking
+517.7.1 Grease Removal Devices, Hoods, and Duct Systems
+517.7.2 Listed Fire-Extinguishing Equipment
+517.7.3 Rating and Design
+517.7.4 Listing/Class
+517.7.5 Fixed-Water Pipe System
+517.7.6 Fuel Storage
+517.7.7 Auxiliary Fuel
+517.8 Other Safety Requirements
+517.8.1 Site-Built Solid Fuel Cooling Appliances
+517.8.2 Additional Devices
+517.8.3 Prohibited
+518.0 Downdraft Appliances
+518.1 General
+518.2 Ventilation System
+518.3 Fire-Extinguishing Equipment
+518.3.1 Integral Fire-Extinguishing System
+518.3.2 Interlocks
+518.4 Airflow Switch or Transducer
+518.4.1 Interlocks
+518.4.2 Manual Reset
+518.5 Surface Materials
+519.0 Type II Hood Exhaust System Requirements
+519.1 Where Required
+519.2 Construction of Type II Hoods
+519.3 Dishwashing Appliances
+519.4 Type II Exhaust Duct Systems
+519.5 Termination of Type II Hood Exhaust System
+519.6 Makeup Air

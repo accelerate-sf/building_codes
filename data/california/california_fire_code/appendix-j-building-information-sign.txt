@@ -1,0 +1,177 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX J – BUILDING INFORMATION SIGN
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX J BUILDING INFORMATION SIGN
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix J provides design, installation and maintenance requirements for a Building Information Sign (BIS), a fire service tool to be utilized in the crucial, initial response of fire fighters to a structure fire. The BIS placard is designed to be utilized within the initial response time frame of an incident to assist fire fighters in their tactical sizing up of a situation as soon as possible after arrival on the scene of a fire emergency. The BIS design is in the shape of a fire service Maltese cross and includes five spaces (the four wings plus the centerpiece of the cross symbol) in which information is placed about the tactical considerations of construction type and hourly rating, fire protection systems, occupancy type, content hazards and special features that could affect tactical decisions and operations.
+
+SECTION J101 GENERAL
+
+J101.1 Scope.
+
+New buildings shall have a building information sign(s) that shall comply with Sections J101.1.1 through J101.7. Existing buildings shall be brought into compliance with Sections J101.1 through J101.9 when one of the following occurs:
+
+1.The fire department conducts an annual inspection intended to verify compliance with this section, or any required inspection.
+
+2.A change in use or occupancy has occurred.
+
+Exceptions:
+
+1.Group U occupancies.
+
+2.One- and two-family dwellings.
+
+J101.1.1 Sign location.
+
+The building information sign shall be placed at one of the following locations:
+
+1.On the entry door or sidelight at a minimum height of 42 inches (1067 mm) above the walking surface on the address side of the building or structure.
+
+2.On the exterior surface of the building or structure on either side of the entry door, not more than 3 feet (914 mm) from the entrance door, at a minimum height of 42 inches (1067 mm) above the walking surface on the address side of the building or structure.
+
+3.Conspicuously placed inside an enclosed entrance lobby, on any vertical surface within 10 feet (3048 mm) of the entrance door at a minimum height of 42 inches (1067 mm) above the walking surface.
+
+4.Inside the building’s fire command center.
+
+5.On the exterior of the fire alarm control unit or on the wall immediately adjacent to the fire alarm control unit door where the alarm panel is located in the enclosed main lobby.
+
+J101.1.2 Sign features.
+
+The building information sign shall consist of all of the following:
+
+1.White reflective background with red letters.
+
+2.Durable material.
+
+3.Numerals shall be Roman or Latin numerals, as required, or alphabet letters.
+
+4.Permanently affixed to the building or structure in an approved manner.
+
+J101.1.3 Sign shape.
+
+The building information sign shall be a Maltese cross as shown in Figure J101.1.3.
+
+FIGURE J101.1.3
+
+EXAMPLE OF COMPLETED BUILDING INFORMATION SIGN
+
+J101.1.4 Sign size and lettering.
+
+The minimum size of the building information sign and lettering shall be in accordance with the following:
+
+1.The width and height shall be 6 inches by 6 inches (152 mm by 152 mm).
+
+2.The height or width of each Maltese cross wing area shall be 11/8 inches (29 mm) and have a stroke width of 1/2 inch (12.7 mm).
+
+3.The center of the Maltese cross, a circle or oval, shall be 3 inches (76 mm) in diameter and have a stroke width of 1/2 inch (12.7 mm).
+
+4.All Roman numerals and alphabetic designations, shall be 11/4 inch (32 mm) in height and have a stroke width of 1/4 inch (6.4 mm).
+
+J101.2 Sign designations.
+
+Designations shall be made based on the construction type, content, hazard, fire protection systems, life safety and occupancy. Where multiple designations occur within a classification category, the designation used shall be based on the greatest potential risk.
+
+J101.3 Construction type (top wing).
+
+The construction types shall be designated by assigning the appropriate Roman numeral and letter, placed inside the top wing of the Maltese cross. The hourly rating provided is for the structural framing in accordance with Table 601 of the California Building Code,
+
+CONSTRUCTION TYPE	FIRE-RESISTANCE RATING
+IA—Noncombustible	3 hours
+IB—Noncombustible	2 hours
+IIA—Noncombustible	1 hour
+IIB—Noncombustible	0 hours
+IIIA—Noncombustible/combustible	1 hour
+IIIB—Noncombustible/combustible	0 hours
+IV—Heavy timber (HT)	HT
+VA—Combustible	1 hour
+VB—Combustible	0 hoursJ101.4 Fire protection systems (right wing).
+
+The fire protection system shall be designated by determining its level of protection and assigning the appropriate designation to the right wing of the Maltese cross. Where multiple systems are provided, all shall be listed:
+
+AS	Automatic sprinkler system installed throughout
+CES	Chemical-extinguishing system and designated area
+CS	Combination sprinkler and standpipe system
+DS	Dry sprinkler system and designated areas
+FA	Fire alarm system
+FP	Fire pump
+FW	Fire wall and designated areas
+PAS	Pre-action sprinkler system and designated floor
+PS	Partial automatic sprinkler system, and designated floor
+S	Standpipe system
+NS	No system installedJ101.5 Occupancy type (bottom wing).
+
+The occupancy of a building or structure shall be designated in accordance with the occupancy classification found in Section 302.1 of the California Building Code and the corresponding designation shall be placed in the bottom wing of the Maltese cross. Where a building or structure contains a mixture of uses and occupancies, all uses and occupancies shall be identified.
+
+A	Assembly
+B	Business
+E	Educational
+F	Factory or Industrial
+H	High Hazard
+I	Institutional
+M	Mercantile
+R	ResidentialJ101.6 Hazards of content (left wing).
+
+The hazards of building contents shall be designated by one of the following classifications as defined in NFPA 13 and the appropriate designation shall be placed inside the left wing of the Maltese cross:
+
+LH	Light hazard
+MH	Moderate hazard
+HH	High hazardJ101.7 Tactical considerations (center circle).
+
+The center circle shall include the name of the local fire service and, where required, the letters “TC” for “tactical considerations.” Where fire fighters conduct preplan operations, a unique situation(s) for tactical considerations shall be identified and the information provided to the fire dispatch communications center to further assist fire fighters in identifying that there is special consideration(s) for this occupancy. Special consideration designations include, but are not limited to:
+
+1.Impact-resistant drywall.
+
+2.Impact-resistant glazing, such as blast or hurricane-type glass.
+
+3.All types of roof and floor structural members including but not limited to post-tension concrete, bar joists, solid wood joists, rafters, trusses, cold-formed galvanized steel, I-joists and I-beams; green roof with vegetation, soil and plants.
+
+4.Hazardous materials (such as explosives, chemicals, plastics).
+
+5.Solar panels and DC electrical energy.
+
+6.HVAC system; and smoke management system for pressurization and exhaust methods.
+
+7.Other unique characteristic(s) within the building that are ranked according to a potential risk to occupants and fire fighters.
+
+J101.8 Sign classification maintenance, building information.
+
+Sign maintenance shall comply with each of the following:
+
+1.Fire departments in the jurisdiction shall define the designations to be placed within the sign.
+
+2.Fire departments in the jurisdiction shall conduct annual inspections to verify compliance with this section of the code and shall notify the owner, or the owner’s agent, of any required updates to the sign in accordance with fire department designations and the owner, or the owner’s agent, shall comply within 30 days.
+
+3.The owner of a building shall be responsible for the maintenance and updates to the sign in accordance with fire department designations.
+
+J101.9 Training.
+
+Jurisdictions shall train fire department personnel on Sections J101.1 through J101.8.
+
+SECTION J102 REFERENCED STANDARDS
+
+J102.1 General.
+
+See Table J102.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE J102.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+IBC—21	International Building Code	J101.3, J101.5
+NFPA 13—19	Installation of Sprinkler Systems	J101.6

@@ -1,0 +1,134 @@
+CHAPTER 8-7 STRUCTURAL REGULATIONS
+
+SECTION 8-701 PURPOSE, INTENT AND SCOPE
+
+8-701.1 Purpose.
+
+The purpose of the CHBC is to provide alternative regulations to the regular code for the structural safety of buildings designated as qualified historical buildings or properties. The CHBC requires enforcing agencies to accept any reasonably equivalent alternatives to the regular code when dealing with qualified historical buildings or properties.
+
+8-701.2 Intent.
+
+The intent of this chapter is to encourage the preservation of qualified historical buildings or structures while providing standards for a minimum level of building performance with the objective of preventing partial or total structural collapse such that the overall risk of life-threatening injury as a result of structural collapse is low.
+
+8-701.3 Application.
+
+The alternative structural regulations provided by Section 8-705 are to be applied in conjunction with the regular code whenever a structural upgrade or reconstruction is undertaken for qualified historical buildings or properties.
+
+SECTION 8-702 GENERAL
+
+8-702.1
+
+The CHBC shall not be construed to allow the enforcing agency to approve or permit a lower level of safety of structural design and construction than that which is reasonably equivalent to the regular code provisions in occupancies which are critical to the safety and welfare of the public at large, including, but not limited to, public and private schools, hospitals, municipal police and fire stations and essential services facilities.
+
+8-702.2
+
+Nothing in these regulations shall prevent voluntary and partial seismic upgrades when it is demonstrated that such upgrades will improve life safety and when a full upgrade would not otherwise be required.
+
+SECTION 8-703 STRUCTURAL SURVEY
+
+8-703.1 Scope.
+
+When a structure or portion of a structure is to be evaluated for structural capacity under the CHBC, it shall be surveyed for structural conditions by an architect or engineer knowledgeable in historical structures. The survey shall evaluate deterioration or signs of distress. The survey shall determine the details of the structural framing and the system for resistance of gravity and lateral loads. Details, reinforcement and anchorage of structural systems and veneers shall be determined and documented where these members are relied on for seismic lateral resistance.
+
+8-703.2
+
+The results of the survey shall be utilized for evaluating the structural capacity and for designing modifications to the structural system to reach compliance with this code.
+
+8-703.3 Historical records.
+
+Past historical records of the structure or similar structures may be used in the evaluation, including the effects of subsequent alterations.
+
+SECTION 8-704 NONHISTORICAL ADDITIONS AND NONHISTORICAL ALTERATIONS
+
+8-704.1
+
+New nonhistorical additions and nonhistorical alterations which are structurally separated from an existing historical building or structure shall comply with regular code requirements.
+
+8-704.2
+
+New nonhistorical additions which impose vertical or lateral loads on an existing structure shall not be permitted unless the affected part of the supporting structure is evaluated and strengthened, if necessary, to meet regular code requirements.
+
+Note: For use of archaic materials, see Chapter 8-8.
+
+SECTION 8-705 STRUCTURAL REGULATIONS
+
+8-705.1 Gravity loads.
+
+The capacity of the structure to resist gravity loads shall be evaluated and the structure strengthened as necessary. The evaluation shall include all parts of the load path. Where no distress is evident, and a complete load path is present, the structure may be assumed adequate by having withstood the test of time if anticipated dead and live loads will not exceed those historically present.
+
+8-705.2 Wind and seismic loads.
+
+The ability of the structure to resist wind and seismic loads shall be evaluated. Wind loads shall be considered when appropriate, but need not exceed 75% of the wind loads prescribed by the regular code. The evaluation shall be based on the requirements of Section 8-706.
+
+8.705.2.1
+
+Any unsafe conditions in the lateral-load-resisting system shall be corrected, or alternative resistance shall be provided. When strengthening is required, additional resistance shall be provided to meet the minimum requirements of the CHBC. The strengthening measures shall be selected with the intent of meeting the performance objectives set forth in Sectio 8-701.2. The evaluation of structural members and structural systems for seismic loads shall consider the inelastic performance of structural members and their ability to maintain load-carrying capacity during the seismic loadings prescribed by the regular code.
+
+8.705.2.2
+
+The architect or engineer shall consider additional measures with minimal loss of, and impact to, historical materials which will reduce damage and needed repairs in future earthquakes to better preserve the historical structure in perpetuity. These additional measures shall be presented to the owner for consideration as part of the rehabilitation or restoration.
+
+SECTION 8-706 LATERAL LOAD REGULATIONS
+
+8-706.1 Seismic forces.
+
+Strength-level seismic forces used to evaluate the structure for resistance to seismic loads shall be based on the R-values tabulated in the regular code for similar lateral-force-resisting systems including consideration of the structural detailing of the members where such R-values exist. Where such R-values do not exist, an appropriate R-value shall be rationally assigned considering the structural detailing of the members.
+
+Exceptions:
+
+1.The forces need not exceed 0.75 times the seismic forces prescribed by the regular code requirements.
+
+2.For Risk Category I, II or III structures, near-fault increases in ground motion (maximum considered earthquake ground motion of 0.2 second spectral response greater than 150 percent at 5 percent damping) need not be considered when the fundamental period of the building is 0.5 seconds in the direction under consideration.
+
+3.For Risk Category I or II structures, the seismic base shear need not exceed 0.30W.
+
+4.For Risk Category III or IV structures, the seismic base shear need not exceed 0.40W.
+
+8-706.1.1
+
+When a building is to be strengthened with the addition of a new lateral force resisting system, the R value of the new system can be used when the new lateral force resisting system resists at least 75 percent of the building’s base shear regardless of its relative rigidity.
+
+8-706.1.2
+
+Evaluation and seismic improvement of unreinforced masonry bearing wall buildings shall comply with the California Existing Building Code (CEBC), Appendix Chapter A1 2013 Edition, and as modified by the CHBC.
+
+Exceptions:
+
+1.Alternative standards may be used on a case-by-case basis when approved by the authority having jurisdiction. It shall be permitted to exceed the strength limitation of 100 psi in Section A108.2 of the CEBC when test data and building configuration supports higher values subject to the approval of the authority having jurisdiction.
+
+2.CEBC Section A102.2 shall not apply to Qualified Historical Buildings in Risk Category III buildings and other structures whose primary occupancies are public assembly with an occupancy load greater than 300.
+
+8-706.1.3
+
+All deviations from the detailing provisions of the lateral-force-resisting systems shall be evaluated for stability and the ability to maintain load-carrying capacity at the expected inelastic deformations.
+
+8-706.2 Existing building performance.
+
+The seismic resistance may be based upon the ultimate capacity of the structure to perform, giving due consideration to ductility and reserve strength of the lateral-force-resisting system and materials while maintaining a reasonable factor of safety. Broad judgment may be exercised regarding the strength and performance of materials not recognized by regular code requirements. (See Chapter 8-8, Archaic Materials and Methods of Construction.)
+
+8-706.2.1
+
+All structural materials or members that do not comply with detailing and proportioning requirements of the regular code shall be evaluated for potential seismic performance and the consequence of non-compliance. All members that would be reasonably expected to fail and lead to collapse or life threatening injury when subjected to seismic demands shall be judged unacceptable, and appropriate structural strengthening shall be developed.
+
+8-706.3 Load path.
+
+A complete and continuous load path, including connections, from every part or portion of the structure to the ground shall be provided for the required forces. It shall be verified that the structure is adequately tied together to perform as a unit when subjected to earthquake forces.
+
+8-706.4 Parapets.
+
+Parapets and exterior decoration shall be investigated for conformance with regular code requirements for anchorage and ability to resist prescribed seismic forces.
+
+An exception to regular code requirements shall be permitted for those parapets and decorations which are judged not to be a hazard to life safety.
+
+8-706.5 Nonstructural features.
+
+Nonstructural features of historical structure, such as exterior veneer, cornices and decorations, which might fall and create a life-safety hazard in an earthquake, shall be evaluated. Their ability to resist seismic forces shall be verified, or the feature shall be strengthened with improved anchorage when appropriate.
+
+8-706.5.1
+
+Partitions and ceilings of corridors and stairways serving an occupant load of 30 or more shall be investigated to determine their ability to remain in place when the building is subjected to earthquake forces.
+
+8-706.5.2
+
+Seismic forces used to evaluate and improve nonstructural components and their anchorage, where required, shall comply with ASCE 41 or need not exceed 0.75 times the seismic forces prescribed by the requirements of the regular code.
+

@@ -1,0 +1,264 @@
+Chapter 1 General
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article								X	X		X					
+Adopt entire Article as amended (amended sections listed below)	X		X	X	X					X		X	X	X	X	
+Adopt only those sections that are listed below						X										
+Article/Section
+Accessory Dwelling Unit				X	X											
+Coordination										X		X	X	X	X	
+Ballasted Solar Photovoltaic System	X		X	X	X											
+Building (Exception)				X	X	X										
+
+Accessory Dwelling Unit
+
+Coordination
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article							X	X	X	X	X	X	X	X	
+Adopt entire Article as amended (amended sections listed below)	X		X	X	X										
+Adopt only those sections that are listed below															
+Article/Section
+110.2									X	X	X	X	X	X	
+110.13 Exception	X		X	X	X										
+110.13(C)									X	X	X	X	X	X	
+110.26(C)(3)									X	X	X	X	X	X	
+
+Exception
+
+Article 100 Definitions
+Part I General
+Part II Over 1000 Volts, Nominal
+Part III Hazardous (Classified) Locations (CMP-14)
+Article 110 Requirements for Electrical Installations
+Part I General
+110.1 Scope
+110.2 Approval
+[OSHPD 1, 1R, 2, 3, 4 & 5] Equipment shall be approvable if the equipment meets the following requirements:
+
+Equipment is approved, listed, labeled or certified for its use by a Nationally Recognized Testing Laboratory (NRTL) as recognized by the U.S. department of Labor, Occupational Safety and Health Administration.
+
+When field evaluated, equipment is evaluated and labeled by a Field Evaluation Body (FEB) that is accredited by International Accreditation Services (IAS) in accordance with NFPA 790.
+
+Equipment has special seismic certifications when required by Sections 1705.13.3 and 1705A.13.3 of California Building Code.
+Equipment is approved, listed, labeled or certified for its use by a Nationally Recognized Testing Laboratory (NRTL) as recognized by the U.S. department of Labor, Occupational Safety and Health Administration.
+
+When field evaluated, equipment is evaluated and labeled by a Field Evaluation Body (FEB) that is accredited by International Accreditation Services (IAS) in accordance with NFPA 790.
+
+Equipment has special seismic certifications when required by Sections 1705.13.3 and 1705A.13.3 of California Building Code.
+
+110.3 Examination, Identification, Installation, Use, and Listing (Product Certification) of Equipment
+(A) Examination
+(B) Installation and Use
+(C) Listing
+110.4 Voltages
+110.5 Conductors
+110.6 Conductor Sizes
+110.7 Wiring Integrity
+110.8 Wiring Methods
+110.9 Interrupting Rating
+110.10 Circuit Impedance, Short-Circuit Current Ratings, and Other Characteristics
+110.11 Deteriorating Agents
+110.12 Mechanical Execution of Work
+(A) Unused Openings
+(B) Integrity of Electrical Equipment and Connections
+(C) Cables and Conductors
+110.13 Mounting and Cooling of Equipment
+(A) Mounting
+(B) Cooling
+110.14 Electrical Connections
+(A) Terminals
+(B) Splices
+(C) Temperature Limitations
+(1) Equipment Provisions
+(2) Separate Connector Provisions
+(D) Terminal Connection Torque
+110.15 High-Leg Marking
+110.16 Arc-Flash Hazard Warning
+(A) General
+(B) Service Equipment
+110.18 Arcing Parts
+110.19 Light and Power From Railway Conductors
+110.21 Marking
+(A) Equipment Markings
+(1) General
+(2) Reconditioned Equipment
+(B) Field-Applied Hazard Markings
+110.22 Identification of Disconnecting Means
+(A) General
+(B) Engineered Series Combination Systems
+(C) Tested Series Combination Systems
+110.23 Current Transformers
+110.24 Available Fault Current
+(A) Field Marking
+(B) Modifications
+110.25 Lockable Disconnecting Means
+Part II 1000 Volts, Nominal, or Less
+110.26 Spaces About Electrical Equipment
+(A) Working Space
+(1) Depth of Working Space
+Nominal Voltage to Ground	Minimum Clear Distance
+Condition 1	Condition 2	Condition 3
+0—150	900 mm (3 ft)	900 mm (3 ft)	900 mm (3 ft)
+151—600	900 mm (3 ft)	1.0 m (3 ft 6 in.)	1.2 m (4 ft)
+601—1000	900 mm (3 ft)	1.2 m (4 ft)	1.5 m (5 ft)
+Note: Where the conditions are as follows:
+Condition 1 — Exposed live parts on one side of the working space and no live or grounded parts on the other side of the working space, or exposed live parts on both sides of the working space that are effectively guarded by insulating materials.
+Condition 2 — Exposed live parts on one side of the working space and grounded parts on the other side of the working space. Concrete, brick, or tile walls shall be considered as grounded.
+Condition 3 — Exposed live parts on both sides of the working space.
+
+(2) Width of Working Space
+(3) Height of Working Space
+(4) Limited Access
+(5) Separation From High-Voltage Equipment
+(B) Clear Spaces
+(C) Entrance to and Egress From Working Space
+(1) Minimum Required
+(2) Large Equipment
+(3) Personnel Doors
+[OSHPD 1, 1R, 2, 3, 4 & 5]: See California Building Code, Section 1010.1.10 for additional exit door requirements for electrical room with equipment rated 800-amperes or more.
+
+Standard For Safety For Panic Hardware
+
+Standard For Panic Hardware
+
+Standard for Safety for Positive Pressure Fire Tests of Door Assemblies
+
+(D) Illumination
+(E) Dedicated Equipment Space
+(1) Indoor
+(2) Outdoor
+(F) Locked Electrical Equipment Rooms or Enclosures
+110.27 Guarding of Live Parts
+(A) Live Parts Guarded Against Accidental Contact
+(B) Prevent Physical Damage
+(C) Warning Signs
+110.28 Enclosure Types
+Provides a Degree ofProtection Againstthe FollowingEnvironmental Conditions	For Outdoor Use
+Enclosure Type Number
+3	3R	3S	3X	3RX	3SX	4	4X	6	6P
+Incidental contact with the enclosed equipment	X	X	X	X	X	X	X	X	X	X
+Rain, snow, and sleet	X	X	X	X	X	X	X	X	X	X
+Sleet*	—	—	X	—	—	X	—	—	—	—
+Windblown dust	X	—	X	X	—	X	X	X	X	X
+Hosedown	—	—	—	—	—	—	X	X	X	X
+Corrosive agents	—	—	—	X	X	X	—	X	—	X
+Temporary submersion	—	—	—	—	—	—	—	—	X	X
+Prolonged submersion	—	—	—	—	—	—	—	—	—	X
+Provides a Degree ofProtection Againstthe FollowingEnvironmental Conditions	For Indoor Use
+Enclosure Type Number
+1	2	4	4X	5	6	6P	12	12K	13
+Incidental contact with the enclosed equipment	X	X	X	X	X	X	X	X	X	X
+Falling dirt	X	X	X	X	X	X	X	X	X	X
+Falling liquids and light splashing	—	X	X	X	X	X	X	X	X	X
+Circulating dust, lint, fibers, and flyings	—	—	X	X	—	X	X	X	X	X
+Settling airborne dust, lint, fibers, and flyings	—	—	X	X	X	X	X	X	X	X
+Hosedown and splashing water	—	—	X	X	—	X	X	—	—	—
+Oil and coolant seepage	—	—	—	—	—	—	—	X	X	X
+Oil or coolant spraying and splashing	—	—	—	—	—	—	—	—	—	X
+Corrosive agents	—	—	—	X	—	—	X	—	—	—
+Temporary submersion	—	—	—	—	—	X	X	—	—	—
+Prolonged submersion	—	—	—	—	—	—	X	—	—	—
+*Mechanism shall be operable when ice covered.
+Informational Note No. 1: The term raintight is typically used in conjunction with Enclosure Types 3, 3S, 3SX, 3X, 4, 4X, 6, and 6P. The term rainproof is typically used in conjunction with Enclosure Types 3R and 3RX. The term watertight is typically used in conjunction with Enclosure Types 4, 4X, 6, and 6P. The term driptight is typically used in conjunction with Enclosure Types 2, 5, 12, 12K, and 13. The term dusttight is typically used in conjunction with Enclosure Types 3, 3S, 3SX, 3X, 4, 4X, 5, 6, 6P, 12, 12K, and 13.
+Informational Note No. 2: Ingress protection (IP) ratings may be found in ANSI/IEC 60529, Degrees of Protection Provided by Enclosures. IP ratings are not a substitute for Enclosure Type ratings.
+Informational Note No. 3: Dusttight enclosures are suitable for use in hazardous locations in accordance with 502.10(B)(4), 503.10(A)(2), and 506.15(C)(9).
+Informational Note No. 4: Dusttight enclosures are suitable for use in unclassified locations and in Class II, Division 2; Class III; and Zone 22 hazardous (classified) locations.
+
+Part III Over 1000 Volts, Nominal
+110.30 General
+110.31 Enclosure for Electrical Installations
+Nominal Voltage	Minimum Distance to Live Parts
+m	ft
+1001—13,799	3.05	10
+13,800—230,000	4.57	15
+Over 230,000	5.49	18
+Note: For clearances of conductors for specific system voltages and typical BIL ratings, see ANSI/IEEE C2-2017, National Electrical Safety Code.
+
+(A) Electrical Vaults
+(1) Walls and Roof
+(2) Floors
+(3) Doors
+(4) Locks
+(5) Transformers
+(B) Indoor Installations
+(1) In Places Accessible to Unqualified Persons
+(2) In Places Accessible to Qualified Persons Only
+(C) Outdoor Installations
+(1) In Places Accessible to Unqualified Persons
+(2) In Places Accessible to Qualified Persons Only
+(D) Enclosed Equipment Accessible to Unqualified Persons
+110.32 Work Space About Equipment
+110.33 Entrance to Enclosures and Access to Working Space
+(A) Entrance
+(1) Large Equipment
+(2) Guarding
+(3) Personnel Doors
+(B) Access
+110.34 Work Space and Guarding
+(A) Working Space
+Nominal Voltage to Ground	Minimum Clear Distance
+Condition 1	Condition 2	Condition 3
+1001—2500 V	900 mm (3 ft)	1.2 m (4 ft)	1.5 m (5 ft)
+2501—9000 V	1.2 m (4 ft)	1.5 m (5 ft)	1.8 m (6 ft)
+9001—25,000 V	1.5 m (5 ft)	1.8 m (6 ft)	2.8 m (9 ft)
+25,001 V—75 kV	1.8 m (6 ft)	2.5 m (8 ft)	3.0 m (10 ft)
+Above 75 kV	2.5 m (8 ft)	3.0 m (10 ft)	3.7 m (12 ft)
+Note: Where the conditions are as follows:
+(1) Condition 1 — Exposed live parts on one side of the working space and no live or grounded parts on the other side of the working space, or exposed live parts on both sides of the working space that are effectively guarded by insulating materials.
+(2) Condition 2 — Exposed live parts on one side of the working space and grounded parts on the other side of the working space. Concrete, brick, or tile walls shall be considered as grounded.
+(3) Condition 3 — Exposed live parts on both sides of the working space.
+
+(B) Separation From Low-Voltage Equipment
+(C) Locked Rooms or Enclosures
+(D) Illumination
+(E) Elevation of Unguarded Live Parts
+Nominal Voltage Between Phases	Elevation
+m	ft
+1001—7500V	2.7	9
+7501—35,000 V	2.9	9 ft 6 in.
+Over 35 kV	Add 9.5 mm per kV above 35 kV	Add 0.37 in. per kV above 35 kV
+
+(F) Protection of Service Equipment, Switchgear, and Industrial Control Assemblies
+110.36 Circuit Conductors
+110.40 Temperature Limitations at Terminations
+110.41 Inspections and Tests
+(A) Pre-Energization and Operating Tests
+(B) Test Report
+Part IV Tunnel Installations Over 1000 Volts, Nominal
+110.51 General
+(A) Covered
+(B) Other Articles
+(C) Protection Against Physical Damage
+110.52 Overcurrent Protection
+110.53 Conductors
+110.54 Bonding and Equipment Grounding Conductors
+(A) Grounded and Bonded
+(B) Equipment Grounding Conductors
+110.55 Transformers, Switches, and Electrical Equipment
+110.56 Energized Parts
+110.57 Ventilation System Controls
+110.58 Disconnecting Means
+110.59 Enclosures
+Part V Manholes and Other Electrical Enclosures Intended for Personnel Entry
+110.70 General
+110.71 Strength
+110.72 Cabling Work Space
+110.73 Equipment Work Space
+110.74 Conductor Installation
+(A) 1000 Volts, Nominal, or Less
+(B) Over 1000 Volts, Nominal
+110.75 Access to Manholes
+(A) Dimensions
+(B) Obstructions
+(C) Location
+(D) Covers
+(E) Marking
+110.76 Access to Vaults and Tunnels
+(A) Location
+(B) Locks
+110.77 Ventilation
+110.78 Guarding
+110.79 Fixed Ladders

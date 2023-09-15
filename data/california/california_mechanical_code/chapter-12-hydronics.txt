@@ -1,0 +1,260 @@
+Chapter 12 Hydronics
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X							X	X				X										
+Adopt Entire Chapter asamended (amendedsections listed below)				X	X					X	X	X		X	X								
+Adopt only those sectionsthat are listed below																				X			
+Chapter/Section																							
+1205.2, Note				X	X																		
+1210.2										X	X	X		X	X								
+1211.6, Note				X	X																		
+1217.5.2.1																				X			
+1217.7.1																				X			
+1220.4.5.1																				X			
+
+1217.5.2.1
+
+1217.7.1
+
+1220.4.5.1
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1201.0 General
+1201.1 Applicability
+1201.2 Insulation
+1201.3 Water Hammer
+1201.4 Terminal Units
+1201.5 Return-Water Low-Temperature Protection
+1202.0 Protection of Potable Water Supply
+1202.1 Prohibited Sources
+1202.2 Chemical Injection
+1202.3 Compatibility
+1203.0 Capacity of Heat Source
+1203.1 Heat Source
+1203.2 Dual Purpose Water Heater
+TYPE	STANDARDS
+Gas-Fired, 75 000 Btu/h or less, Storage	CSA Z21.10.1
+Gas-Fired, Above 75 000 Btu/h, Storage and Instantaneous	CSA Z21.10.3
+Electric, Space Heating	UL 834
+Solid Fuel-Fired	UL 2523
+
+1203.3 Tankless Water Heaters
+1204.0 Identification of a Potable and Nonpotable Water System
+1204.1 General
+1204.2 Color and Information
+1204.3 Potable Water
+OUTSIDE DIAMETER OF
+PIPE OR COVERING
+(inches)	MINIMUM LENGTH
+OF COLOR FIELD
+(inches)	MINIMUM SIZE OF
+LETTERS
+(inches)
+1/2 to 11/4	8	1/2
+11/2 to 2	8	3/4
+21/2 to 6	12	11/4
+8 to 10	24	21/2
+over 10	32	31/2
+
+1204.4 Nonpotable Water
+1204.5 Location of Piping Identification
+1204.6 Flow Directions
+1205.0 Installation, Testing, and Inspection
+1205.1 Operating Instructions
+1205.2 Pressure Testing
+Note: [HCD 1 & HCD 2] PEX-AL-PEX is not adopted in the California Plumbing Code for use in potable water supply and distribution systems.
+
+1205.3 Flushing
+1206.0 Pressure and Safety Devices
+1206.1 General
+1206.2 Discharge Piping
+1207.0 Heating Appliances and Equipment
+1207.1 General
+1207.2 Boilers
+1207.2.1 Condensing Boilers
+1207.2.2 Noncondensing Boilers
+1207.3 Dual-Purpose Water Heaters
+1207.3.1 Temperature Limitations
+1207.4 Solar Heat Collector Systems
+1208.0 Circulators and Pumps
+1208.1 General
+1208.2 Mounting
+1208.3 Sizing
+1209.0 Expansion Tanks
+1209.1 General
+1209.2 Installation
+1209.3 Open-Type Expansion Tanks
+1209.4 Closed-Type Tanks
+1209.5 Sizing
+1210.0 Materials
+1210.1 Piping, Tubing, and Fittings
+MATERIAL	STANDARDS
+PIPING/TUBING	FITTINGS
+Copper/Copper Alloy	ASTM B42, ASTM B43, ASTM B75, ASTM B88, ASTM B135, ASTM B2512, ASTM B302, ASTM B447	ASME B16.15, ASME B16.18, ASME B16.22, ASME B16.23, ASME B16.24, ASME B16.26, ASME B16.29, ASME B16.51, ASSE 1061,IAPMO PS 117
+Ductile Iron	AWWA C115/A21.15, AWWA C151/A21.51	AWWA C110/A21.101, AWWA C153/A21.53
+Steel	ASTM A53, ASTM A106, ASTM A254	ASME B16.5, ASME B16.9, ASME B16.11, ASTM A420
+Stainless Steel	ASTM A269, ASTM A312,ASTM A554, ASTM A778	ASTM F1476, ASTM F1548,ASTM F3226, IAPMO PS 117
+Gray Iron	—	ASTM A126
+Malleable Iron	—	ASME B16.3
+Chlorinated Polyvinyl Chloride (CPVC)	ASTM D2846, ASTM F441, ASTM F442, CSA B137.6	ASSE 1061, ASTM D2846, ASTM F437, ASTM F438, ASTM F439, ASTM F1970, CSA B137.6
+Polyethylene (PE)	ASTM D1693, ASTM D2513, ASTM D2683, ASTM D2737, ASTM D3035, ASTM D3350, ASTM F714, AWWA C901, CSA B137.1, NSF 358-1	ASTM D2609, ASTM D2683, ASTM D3261, ASTM F1055, CSA B137.1, NSF 358-1
+Cross-Linked Polyethylene (PEX)	ASTM F876, ASTM F3253, CSA B137.5, NSF 358-3	ASSE 1061, ASTM F877, ASTM F1055, ASTM F1807, ASTM F1960, ASTM F2080, ASTM F2098, ASTM F2159, ASTM F2735, ASTM F3253, CSA B137.5, NSF 358-3
+Polypropylene (PP)	ASTM F2389, CSA B137.11, NSF 358-2	ASTM F2389, CSA B137.11, NSF 358-2
+Polyvinyl Chloride (PVC)	ASTM D1785, ASTM D2241, CSA B137.3	ASTM D2464, ASTM D2466, ASTM D2467, ASTM F1970, CSA B137.2, CSA B137.3
+Raised Temperature Polyethylene (PE-RT)	ASTM F2623, ASTM F2769, CSA B137.18	ASSE 1061, ASTM F1807, ASTM F2159, ASTM F2735, ASTM F2769, ASTM D3261, ASTM F1055, CSA B137.18
+Cross-Linked Polyethylene/ Aluminum/Cross-Linked Polyethylene (PEX-AL-PEX)	ASTM F1281, CSA B137.10	ASTM F1281, ASTM F1974, ASTM F2434, CSA B137.10
+Polyethylene/Aluminum/Polyethylene (PE-AL-PE)	ASTM F1282, CSA B137.9	ASTM F1282, ASTM F1974, CSA B137.9
+Chlorinated Polyvinyl Chloride/Aluminum/Chlorinated Polyvinyl Chloride(CPVC/AL/CPVC)	ASTM F2855	ASTM D2846
+
+1210.2 Expansion and Contraction
+[OSHPD 1, 1R, 2, 4 & 5] Pipe connections less than 21/2 inches (64 mm) to heating coils, cooling coils, humidifiers, and similar equipment shall have flexible connectors or three (3) 90-degree offsets in close proximity of the connection.
+
+1210.3 Hangers and Supports
+1210.4 Oxygen Diffusion Corrosion
+1211.0 Joints and Connections
+1211.1 General
+1211.2 Chlorinated Polyvinyl Chloride (CPVC) Pipe
+1211.3 CPVC/AL/CPVC Plastic Pipe and Joints
+1211.4 Copper or Copper Alloy Pipe and Tubing
+1211.5 Cross-Linked Polyethylene (PEX) Pipe
+1211.6 Cross-Linked Polyethylene/Aluminum/Cross-Linked Polyethylene (PEX-AL-PEX) Pipe
+Note: [HCD 1 & HCD 2] PEX-AL-PEX is not adopted in the California Plumbing Code for use in potable water supply and distribution systems.
+
+1211.7 Ductile Iron Pipe
+1211.8 Polyethylene (PE) Plastic Pipe/Tubing
+1211.9 Polyethylene/Aluminum/Polyethylene (PE-AL-PE)
+1211.10 Polyethylene of Raised Temperature (PE-RT)
+1211.11 Polypropylene (PP) Pipe
+1211.12 Polyvinyl Chloride (PVC) Pipe
+1211.13 Steel Pipe and Tubing
+1211.14 Joints Between Various Materials
+1211.14.1 Copper or Copper Alloy Pipe or Tubing to Threaded Pipe Joints
+1211.14.2 Plastic Pipe to Other Materials
+1212.0 Valves
+1212.1 General
+1212.2 Where Required
+1212.3 Heat Exchanger
+1212.4 Pressure Vessels
+1212.5 Pressure Reducing Valves
+1212.6 Equipment, Components, and Appliances
+1212.7 Expansion Tank
+1212.8 Flow Balancing Valves
+1212.9 Mixing or Temperature Control Valves
+1212.10 Thermosiphoning
+1212.11 Air Removal Device or Air Vents
+1213.0 System Controls
+1213.1 Water Temperature Controls
+1213.2 Operating Steam Controls
+1213.2.1 Water-Level Controls
+1213.3 Occupied Spaces
+1213.4 Simultaneous Operation
+1213.5 Temperature Reading
+1214.0 Pressure and Flow Controls
+1214.1 Balancing
+1214.2 Low-Water Control
+1214.3 Flow-Sensing Devices
+1214.4 Automatic Makeup Fluid
+1214.5 Differential Pressure Regulation
+1214.5.1 Differential Pressure Bypass Valve
+1214.6 Air-Removal Device
+1214.7 Air-Separation Device
+1214.8 Secondary Loops
+1215.0 Hydronic Space Heating
+1215.1 General
+1215.2 Installation
+1215.3 Freeze Protection
+1215.4 Balancing
+1215.5 Heat Transfer Fluid
+1216.0 Steam Systems
+1216.1 Steam Traps
+1216.2 Sloping for Two-Pipe System
+1216.3 Sloping for One-Pipe System
+1216.4 Automatic Air Vents
+1216.5 Condensate Flow
+1216.6 Steam-Distribution Piping
+1217.0 Radiant Heating and Cooling
+1217.1 Installation
+1217.1.1 Manifolds
+1217.2 Radiant Under-Floor Heating
+1217.3 Radiant Cooling Systems
+1217.4 Tube Placement
+NOMINAL TUBE SIZE
+(inches)	MAXIMUM LOOP LENGTH
+(feet)
+1/4	125
+5/16	200
+3/8	250
+1/2	300
+5/8	400
+3/4	500
+1	750
+
+1217.5 Poured Floor Structural Concrete Slab Systems (Thermal Mass)
+1217.5.1 Slab Penetration Tube and Joint Protection
+1217.5.2 Insulation
+1217.5.2.1 California Energy Code Insulation Requirements for Heated Slab Floors
+California Energy Code Insulation Requirements for Heated Slab Floors
+
+See California Energy Code Section 110.8(g) for additional insulation requirements for heated slab floors — a higher level of insulation is required for Climate Zone 16, and more detailed installation requirements apply to all climate zones.
+
+1217.5.3 Types of Tube Fasteners
+1217.5.4 Spacing of Tube Fasteners
+1217.6 Joist Systems and Subfloors
+1217.6.1 Tubing Fasteners
+1217.7 Wall and Ceiling Panels
+1217.7.1 California Energy Code Pipe Insulation Requirements
+California Energy Code Pipe Insulation Requirements
+
+See California Energy Code Sections 150.0(j)2 and 120.3(c) for pipe insulation requirements based on fluid temperature and pipe diameter — where California Energy Code Table 120.3-A specifies insulation greater than R- 12, the higher value is required.
+
+1217.8 Radiant Heating and Cooling Panels
+1217.8.1 Electric Heating Panel Systems
+the California Electrical Code
+
+1217.8.2 Radiant Wall and Ceiling Panels
+1218.0 Heat Exchangers
+1218.1 General
+1219.0 Indirect-Fired Domestic Hot-Water Storage Tanks
+1219.1 General
+1220.0 Snow and Ice Melt Systems
+1220.1 Use of Chemical Additives and Corrosive Fluids
+1220.2 Types of Tube Fasteners
+1220.3 Spacing of Tube Fasteners
+1220.4 Snow and Ice Melt Controls
+1220.4.1 Tube Placement
+NOMINAL TUBE SIZE
+(inches)	MAXIMUM ACTIVE
+LOOP LENGTH (feet)	TOTAL LOOP LENGTH
+(feet)
+PE-RT and PEX Tubing
+1/2	115	140
+5/8	225	250
+3/4	300	325
+1	450	475
+Copper Tubing3
+1/2	—	140
+3/4	—	280
+
+1220.4.2 Poured Structural Concrete Slab Systems
+1220.4.3 Slab Penetration Tube and Joint Protection
+1220.4.4 Concrete Slab Preparation
+1220.4.5 Insulation
+1220.4.5.1 California Energy Code Insulation Requirements for Heated Slab Floors
+California Energy Code Insulation Requirements for Heated Slab Floors
+
+See California Energy Code Section 110.8(g) and Table 110.8-A for additional insulation requirements for heated slab floors — a higher level of insulation is required for Climate Zone 16, and more detailed requirements for installing insulation are specified in all climate zones.
+
+1220.4.6 Testing and Flushing
+1220.5 Hydronic Makeup Air Units
+1221.0 Piping Installation
+1221.1 General
+1221.2 Embedded Piping Materials and Joints
+1221.2.1 Steel Pipe
+1221.2.2 Copper Tubing
+1221.2.3 Plastics
+1221.3 Pressure Testing
+1221.4 System Drainage
+1221.5 Condensate Drainage
+1221.6 Clearance to Combustibles

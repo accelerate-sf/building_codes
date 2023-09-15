@@ -1,0 +1,243 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX L – REQUIREMENTS FOR FIRE FIGHTER AIR REPLENISHMENT SYSTEMS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX L REQUIREMENTS FOR FIRE FIGHTERAIR REPLENISHMENT SYSTEMS
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix L provides for the design, installation and maintenance of permanently installed fire fighter breathing air systems in buildings designated by the jurisdiction. Breathing air is critical for fire-fighting operations. Historically, fire departments have supplied air bottles by means of a “bottle brigade,” whereby fire fighters manually transport air bottles up stairways, which is an extraordinarily fire fighter-intensive process and takes fire fighters away from their primary mission of rescue and fire fighting. Technology now exists to address the issue using in-building air supply systems. Fire fighter breathing air systems were introduced in the late 1980s and are now required in a number of communities throughout the United States. The system has been called a “standpipe for air” and consists of stainless steel, high-pressure piping that is supplied by on-site air storage or fire department air supply units. Air-filling stations are then strategically located throughout the building, allowing fire fighters to refill breathing air cylinders inside the fire building, negating the required “bottle brigade,” and making more fire fighters available for search, rescue and fire suppression operations.
+
+SECTION L101 GENERAL
+
+L101.1 Scope.
+
+Fire fighter air replenishment systems (FARS) shall be provided in accordance with this appendix. The adopting ordinance shall specify building characteristics or special hazards that establish thresholds triggering a requirement for the installation of a FARS. The requirement shall be based on the fire department’s capability of replenishing fire fighter breathing air during sustained emergency operations. Considerations shall include:
+
+1.Building characteristics, such as number of stories above or below grade plane, floor area, type of construction and fire resistance of the primary structural frame to allow sustained fire-fighting operations based on a rating of not less than 2 hours.
+
+2.Special hazards, other than buildings, that require unique accommodations to allow the fire department to replenish fire fighter breathing air.
+
+3.Fire department staffing level.
+
+4.Availability of a fire department breathing air replenishment vehicle.
+
+SECTION L102 DEFINITIONS
+
+L102.1 Definitions.
+
+For the purpose of this appendix, certain terms are defined as follows:
+
+FIRE FIGHTER AIR REPLENISHMENT SYSTEM (FARS). A permanently installed arrangement of piping, valves, fittings and equipment to facilitate the replenishment of breathing air in self-contained breathing apparatus (SCBA) for fire fighters engaged in emergency operations.
+
+SECTION L103 PERMITS
+
+L103.1 Permits.
+
+Permits shall be required to install and maintain a FARS. Permits shall be in accordance with Sections L103.2 and L103.3.
+
+L103.2 Construction permit.
+
+A construction permit is required for installation of or modification to a FARS. The construction permit application shall include documentation of an acceptance and testing plan as specified in Section L105.
+
+L103.3 Operational permit.
+
+An operational permit is required to maintain a FARS.
+
+SECTION L104 DESIGN AND INSTALLATION
+
+L104.1 Design and installation.
+
+A FARS shall be designed and installed in accordance with Sections L104.2 through L104.15.3.
+
+L104.2 Standards.
+
+Fire fighter air replenishment systems shall be in accordance with Sections L104.2.1 and L104.2.2.
+
+L104.2.1 Pressurized system components.
+
+Pressurized system components shall be designed and installed in accordance with ASME B31.3.
+
+L104.2.2 Air quality.
+
+The system shall be designed to convey breathing air complying with NFPA 1989.
+
+L104.3 Design and operating pressure.
+
+The minimum design pressure shall be 110 percent of the fire department’s normal SCBA fill pressure. The system design pressure shall be marked in an approved manner at the supply connections, and adjacent to pressure gauges on any fixed air supply components. Pressure shall be maintained in the system within 5 percent of the design pressure.
+
+L104.4 Cylinder refill rate.
+
+The FARS shall be capable of refilling breathing air cylinders of a size and pressure used by the fire department at a rate of not less than two empty cylinders in 2 minutes.
+
+L104.5 Breathing air supply.
+
+Where a fire department mobile air unit is available, the FARS shall be supplied by an external mobile air connection in accordance with Section L104.14. Where a fire department mobile air unit is not available, a stored pressure air supply shall be provided in accordance with Section L104.5.1. A stored pressure air supply shall be permitted to be added to a system supplied by an external mobile air connection provided that a means to bypass the stored pressure air supply is located at the external mobile air connection.
+
+L104.5.1 Stored pressure air supply.
+
+A stored pressure air supply shall be designed based on Chapter 24 of NFPA 1901 except that provisions applicable only to mobile apparatus or not applicable to system design shall not apply. A stored pressure air supply shall be capable of refilling not less than 50 empty breathing air cylinders of a size and pressure used by the fire department.
+
+L104.5.2 Retrofit of external mobile air connection.
+
+A FARS not initially provided with an external mobile air connection due to the lack of a mobile air unit shall be retrofitted with an external mobile air connection where a mobile air unit becomes available. Where an external mobile air connection is provided, a means to bypass the stored pressure air supply shall be located at the external mobile air connection. The retrofit shall be completed not more than 12 months after notification by the fire code official.
+
+L104.6 Isolation valves.
+
+System isolation valves that are accessible to the fire department shall be installed on the system riser to allow piping beyond any air cylinder refill panel to be blocked.
+
+L104.7 Pressure relief valve.
+
+Pressure relief valves shall be installed at each point of supply and at the top or end of every riser. The relief valve shall meet the requirements of CGA S-1.3 and shall not be field adjustable. Pressure relief valves shall discharge in a manner that does not endanger personnel who are in the area. Valves, plugs or caps shall not be installed in the discharge of a pressure relief valve. Where discharge piping is used the end shall not be threaded.
+
+L104.8 Materials and equipment.
+
+Pressurized system components shall be listed or approved for their intended use and rated for the maximum allowable design pressure in the system. Piping and fittings shall be stainless steel.
+
+L104.9 Welded connections.
+
+Piping connections that are concealed shall be welded.
+
+L104.10 Protection of piping.
+
+System piping shall be protected from physical damage in an approved manner.
+
+L104.11 Compatibility.
+
+Fittings and connections intended to be used by the fire department shall be compatible with the fire department’s equipment.
+
+L104.12 Security.
+
+Connections to a FARS shall be safeguarded from unauthorized access in an approved manner.
+
+L104.13 Fill stations.
+
+Fire fighter air replenishment fill stations shall comply with Section L104.13.1 through L104.13.3.
+
+L104.13.1 Location.
+
+Fill stations for refilling breathing air cylinders shall be located as follows:
+
+1.Fill stations shall be provided at the fifth floor above and below the ground level floor and every third floor level thereafter.
+
+2.On floor levels requiring fill stations, one fill station shall be provided adjacent to a required exit stair at a location designated by the fire code official. In buildings required to have three or more exit stairs, additional fill stations shall be provided at a ratio of one fill station for every three stairways.
+
+L104.13.2 Design.
+
+Fill stations for breathing air cylinders shall be designed to meet the following requirements:
+
+1.A pressure gauge and pressure-regulating devices and controls shall be provided to allow the operator to control the fill pressure and fill rate on each cylinder fill hose.
+
+2.Valves controlling cylinder fill hoses shall be slow-operating valves.
+
+3.A separate flow restriction device shall be provided on each fill hose.
+
+4.A method shall be provided to bleed each cylinder fill hose.
+
+5.The fill station shall be designed to provide a containment area that fully encloses any cylinder being filled and flexible cylinder fill hoses, and directs the energy from a failure away from personnel. Fill stations shall be designed to prohibit filling of cylinders that are not enclosed within the containment area.
+
+Exception: Where required or approved by the fire chief, fill stations providing for the direct refilling of the fire fighters’ breathing air cylinders using Rapid Intervention Crew/Company Universal Air Connection (RIC/UAC) fittings shall be used in lieu of cylinder fill stations that utilize containment areas.
+
+L104.13.3 Cylinder refill rate.
+
+Fill stations shall be capable of simultaneously filling two or more empty breathing air cylinders equivalent to those used by the fire department to the cylinders’ design pressure within 2 minutes.
+
+L104.14 External mobile air connection.
+
+An external mobile air connection shall be provided for fire department mobile air apparatus where required by Section L104.5 to supply the system with breathing air.
+
+L104.14.1 Location.
+
+The location of the external mobile air connection shall be accessible to mobile air apparatus and approved by the fire code official.
+
+L104.14.2 Protection from vehicles.
+
+A means of vehicle impact protection in accordance with Section 312 shall be provided to protect mobile air connections that are subject to vehicular impact.
+
+L104.14.3 Clear space around connections.
+
+A working space of not less than 36 inches (914 mm) in width, 36 inches (914 mm) in depth and 78 inches (1981 mm) in height shall be provided and maintained in front of and to the sides of external mobile air connections.
+
+L104.15 Air-monitoring system.
+
+An approved air-monitoring system shall be provided. The system shall automatically monitor air quality, moisture and pressure on a continual basis. The air-monitoring system shall be equipped with not less than two content analyzers capable of detecting carbon monoxide, carbon dioxide, nitrogen, oxygen, moisture and hydrocarbons.
+
+L104.15.1 Alarm conditions.
+
+The air-monitoring system shall transmit a supervisory signal when any of the following levels are detected:
+
+1.Carbon monoxide exceeds 5 ppm.
+
+2.Carbon dioxide exceeds 1,000 ppm.
+
+3.An oxygen level below 19.5 percent or above 23.5 percent.
+
+4.A nitrogen level below 75 percent or above 81 percent.
+
+5.Hydrocarbon (condensed) content exceeds 5 milligrams per cubic meter of air.
+
+6.The moisture concentration exceeds 24 ppm by volume.
+
+7.The pressure falls below 90 percent of the maintenance pressure specified in Section L104.3.
+
+L104.15.2 Alarm supervision, monitoring and notification.
+
+The air-monitoring system shall be electrically supervised and monitored by an approved supervising station, or where approved, shall initiate audible and visual supervisory signals at a constantly attended location.
+
+L104.15.3 Air quality status display.
+
+Air quality status shall be visually displayed at the external mobile air connection required by Section L104.14.
+
+SECTION L105 ACCEPTANCE TESTS
+
+L105.1 Acceptance tests.
+
+Upon completion of the installation, a FARS shall be acceptance tested to verify compliance with equipment manufacturer’s instructions and design documents. Oversight of the acceptance tests shall be provided by a registered design professional. Acceptance testing shall include all of the following:
+
+1.A pneumatic test in accordance with ASME B31.3 of the complete system at a minimum test pressure of 110 percent of the system design pressure using oil-free dry air, nitrogen or argon shall be conducted. Test pressure shall be maintained for not less than 24 hours. During this test, all fittings, joints and system components shall be inspected for leaks. Defects in the system or leaks detected shall be documented and repaired.
+
+2.A cylinder-filling performance test shall be conducted to verify compliance with the required breathing air cylinder refill rate from the exterior mobile air connection and, where provided, a stored air pressure supply system.
+
+3.The air quality monitoring system shall be tested to verify both of the following conditions:
+
+3.1.Visual indicators required by Section L104.15.1 function properly.
+
+3.2. Supervisory signals are transmitted as required by Section L104.15.2 for each sensor based on a sensor function test.
+
+4.Connections intended for fire department use shall be confirmed as compatible with the fire department’s mobile air unit, SCBA cylinders and, where provided, RIC/UAC connections.
+
+5.Air samples shall be taken from not less than two fill stations and submitted to an approved gas analysis laboratory to verify compliance with NFPA 1989. The FARS shall not be placed into service until a written report verifying compliance with NFPA 1989 has been provided to the fire code official.
+
+SECTION L106 INSPECTION, TESTING AND MAINTENANCE
+
+L106.1 Periodic inspection, testing and maintenance.
+
+A FARS shall be continuously maintained in an operative condition and shall be inspected not less than annually. Not less than quarterly, an air sample shall be taken from the system and tested to verify compliance with NFPA 1989. The laboratory test results shall be maintained on site and readily available for review by the fire code official.
+
+SECTION L107 REFERENCED STANDARDS
+
+L107.1 General.
+
+See Table L107.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE L107.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASME B31.3—2020	Process Piping	L104.2.1, L105.1
+CGA S-1.3—2008	Pressure Relief Device Standards—Part 3 Stationary Storage Containers for Compressed Gases	L104.7
+NFPA 1901—16	Standard for Automotive Fire Apparatus	L104.5.1
+NFPA 1989—13	Breathing Air Quality for Fire Emergency Services Respiratory Protection	L104.2.2, L105.1, L106.1

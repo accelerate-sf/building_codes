@@ -1,0 +1,266 @@
+CHAPTER 8-9 MECHANICAL, PLUMBING AND ELECTRICAL REQUIREMENTS
+
+SECTION 8-901 PURPOSE, INTENT AND SCOPE
+
+8-901.1 Purpose.
+
+The purpose of the CHBC is to provide regulations for the mechanical, plumbing and electrical systems of buildings designated as qualified historical buildings or properties. The CHBC requires enforcing agencies to accept any reasonable equivalent solutions to the regular code when dealing with qualified historical buildings or properties.
+
+8-901.2 Intent.
+
+The intent of the CHBC is to preserve the integrity of qualified historical buildings or properties while providing a reasonable level of protection from fire, health and life-safety hazards (hereinafter referred to as safety hazards) for the building occupants.
+
+8-901.3 Scope.
+
+The CHBC shall be applied in conjunction with the regular code whenever compliance with the regular code is required for qualified historical buildings or properties.
+
+8-901.4 Safety hazard.
+
+No person shall permit any safety hazard to exist on premises under their control, or fail to take immediate action to abate such hazard. Existing systems which constitute a safety hazard when operational may remain in place, provided they are completely and permanently rendered inoperative. Safety hazards created by inoperative systems shall not be permitted to exist. Requirements of the regular code concerning general regulations shall be complied with, except that the enforcing agency shall accept solutions which do not cause a safety hazard.
+
+8-901.5 Energy conservation.
+
+Qualified historical buildings or properties covered by this part are exempted from compliance with energy conservation standards. When new nonhistorical lighting and space conditioning system components, devices, appliances and equipment are installed, they shall comply with the requirements of Title 24, Part 6, The California Energy Code, except where the historical significance or character-defining features are threatened.
+
+SECTION 8-902 MECHANICAL
+
+8-902.1 General.
+
+Mechanical systems shall comply with the regular code unless otherwise modified by this chapter.
+
+8-902.1.1
+
+The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, relocation, replacement or addition of any heating, ventilating, air conditioning, domestic incinerators, kilns or miscellaneous heat-producing appliances or equipment within or attached to a historical building.
+
+8-902.1.2
+
+Existing systems which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain in use.
+
+8-902.1.3
+
+The enforcing agency may approve any alternative to the CHBC which would achieve equivalent life safety.
+
+8-902.2 Heating facilities.
+
+All dwelling-type occupancies covered under this chapter shall be provided with heating facilities. Wood-burning or pellet stoves or fireplaces may be acceptable as heating facilities.
+
+8-902.3 Fuel oil piping and tanks.
+
+Fuel oil piping and tanks shall comply with regular code requirements except that the enforcing agency may waive such requirements where the lack of compliance does not create a safety or environmental hazard.
+
+8-902.4 Heat-producing and cooling equipment.
+
+Heat-producing and cooling equipment shall comply with the regular code requirements governing equipment safety, except that the enforcing agency may accept alternatives which do not create a safety hazard.
+
+8-902.5 Combustion air.
+
+8-902.5.1
+
+All fuel-burning appliances and equipment shall be provided a sufficient supply of air for proper fuel combustion, ventilation and draft hood dilution.
+
+8-902.5.2
+
+The enforcing agency may require operational tests for combustion air systems which do not comply with applicable requirements of the regular code.
+
+8-902.6 Venting of appliances.
+
+8-902.6.1
+
+Every appliance required to be vented shall be connected to an approved venting system. Venting systems shall develop a positive flow adequate to convey all combustion products to the outside atmosphere.
+
+8-902.6.2
+
+Masonry chimneys in structurally sound condition may remain in use for all fuel-burning appliances, provided the flue is evaluated and documentation provided that the masonry and grout are in good condition. Terra cotta chimneys and Type C metallic vents installed in concealed spaces shall not remain in use unless otherwise mitigated and approved on a case-by-case basis.
+
+8-902.6.3
+
+The enforcing agency may require operational tests for venting systems which do not comply with applicable requirements of the regular code.
+
+8-902.7 Ducts.
+
+8-902.7.1
+
+New ducts shall be constructed and installed in accordance with applicable requirements of the regular code.
+
+8-902.7.2
+
+Existing duct systems which do not comply with applicable requirements of the regular code and do not, in the opinion of the enforcing agency, constitute a safety or health hazard may remain in use.
+
+8-902.8 Ventilating systems.
+
+8-902.8.1
+
+Ventilating systems shall be installed so that no safety hazard is created.
+
+8-902.8.2
+
+Grease hoods and grease hood exhaust systems shall be furnished and installed in accordance with applicable requirements of the regular code. Existing systems which are altered shall comply with the regular code.
+
+8-902.9 Miscellaneous equipment requirements.
+
+8-902.9.1
+
+The following appliances and equipment shall be installed so that no safety hazard is created: warm air furnaces, space heating equipment, vented decorative appliances, floor furnaces, vented wall furnaces, unit heaters, room heaters, absorption units, refrigeration equipment, duct furnaces, infrared radiant heaters, domestic incinerators, miscellaneous heat-producing appliances and water heaters.
+
+8-902.9.2
+
+Storage-type water heaters shall be equipped with a temperature- and pressure-relief valve in accordance with applicable requirements of the regular code.
+
+SECTION 8-903 PLUMBING
+
+8-903.1 General.
+
+Plumbing systems shall comply with the regular code unless otherwise noted.
+
+8-903.1.1
+
+The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, relocation, replacement or addition of any plumbing system or equipment within or attached to a historical building.
+
+8-903.1.2
+
+Existing systems which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain in use.
+
+8-903.1.3
+
+The enforcing agency may approve any alternative to these regulations which achieves reasonably equivalent life safety.
+
+8-903.2 Residential occupancies.
+
+8-903.2.1
+
+Where toilet facilities are provided, alternative sewage disposal methods may be acceptable if approved by the local health department. In hotels, where private facilities are not provided, water closets at the ratio of one for each 15 rooms may be acceptable.
+
+8-903.2.2
+
+Toilet facilities are not required to be on the same floor or in the same building as sleeping rooms. Water-flush toilets may be located in a building immediately adjacent to the sleeping rooms. When alternative sewage disposal methods are utilized, they shall be located a minimum distance from the sleeping rooms or other locations as approved by the local health department.
+
+8-903.2.3
+
+Kitchen sinks shall be provided in all kitchens. The sink and countertop may be of any smooth nonabsorbent finish which can be maintained in a sanitary condition.
+
+8-903.2.4
+
+Hand washing facilities shall be provided for each dwelling unit and each hotel guest room. A basin and pitcher may be acceptable as adequate hand washing facilities.
+
+8-903.2.5
+
+Hot or cold running water is not required for each plumbing fixture, provided a sufficient amount of water is supplied to permit the fixture’s normal operation.
+
+8-903.2.6
+
+Bathtubs and lavatories with filler spouts less than 1 inch (25.4 mm) above the fixture rim may remain in use, provided there is an acceptable overflow below the rim.
+
+8-903.2.7
+
+Original or salvage water closets, urinals and flushometer valves shall be permitted in qualified historical buildings or properties. Historically accurate reproduction, nonlow-consumption water closets, urinals and flushometer valves shall be permitted except where historically accurate fixtures that comply with the regular code are available.
+
+8-903.3 Materials.
+
+New nonhistorical materials shall comply with the regular code requirements. The enforcing agency shall accept alternative materials which do not create a safety hazard where their use is necessary to maintain the historical integrity of the building.
+
+8-903.4 Drainage and vent systems.
+
+Plumbing fixtures shall be connected to an adequate drainage and vent system. The enforcing agency may require operational tests for drainage and vent systems which do not comply with applicable requirements of the regular code. Vent terminations may be installed in any location which, in the opinion of the enforcing agency, does not create a safety hazard.
+
+8-903.5 Indirect and special wastes.
+
+Indirect and special waste systems shall be installed so that no safety hazard is created. Chemical or industrial liquid wastes which may detrimentally affect the sanitary sewer system shall be pretreated to render them safe prior to discharge.
+
+8-903.6 Traps and interceptors.
+
+Traps and interceptors shall comply with the regular code requirements except that the enforcing agency shall accept solutions which do not increase the safety hazard. Properly maintained “S” and drum traps may remain in use.
+
+8-903.7 Joints and connections.
+
+8-903.7.1
+
+Joints and connections in new plumbing systems shall comply with applicable requirements of the regular code.
+
+8-903.7.2
+
+Joints and connections in existing or restored systems may be of any type that does not create a safety hazard.
+
+8-903.8 Water distribution.
+
+Plumbing fixtures shall be connected to an adequate water distribution system. The enforcing agency may require operational tests for water distribution systems which do not comply with applicable requirements of regular code. Prohibited (unlawful) connections and cross connections shall not be permitted.
+
+8-903.9 Building sewers and private sewage disposal systems.
+
+New building sewers and new private sewage disposal systems shall comply with applicable requirements of the regular code.
+
+8-903.10 Fuel-gas piping.
+
+Fuel-gas piping shall comply with the regular code requirements except that the enforcing agency shall accept solutions which do not increase the safety hazard.
+
+SECTION 8-904 ELECTRICAL
+
+8-904.1 General.
+
+Electrical systems shall comply with the regular code unless otherwise permitted by this code, or approved by the authority having jurisdiction.
+
+8-904.1.1
+
+The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, relocation, replacement or addition of any electrical system or portion thereof, the premise wiring, or equipment fixed in place as related to restoration within or attached to a qualified historical building or property.
+
+8-904.1.2
+
+Existing systems, wiring methods and electrical equipment which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain in use.
+
+8-904.1.3
+
+The enforcing agency may approve any alternative to the CHBC which achieves equivalent safety.
+
+8-904.1.4
+
+Archaic methods that do not appear in present codes may remain and may be extended if, in the opinion of the enforcing agency, they constitute a safe installation.
+
+8-904.2 Wiring methods.
+
+8-904.2.1
+
+Where existing branch circuits do not include an equipment grounding conductor and, in the opinion of the enforcing agency, it is impracticable to connect an equipment grounding conductor to the grounding electrode system, receptacle convenience outlets may remain the nongrounding type.
+
+8-904.2.2
+
+Ground fault circuit interrupter (GFCI) protected receptacles shall be installed where replacements are made at receptacle outlets that are required to be so protected by the regular code in effect at the time of replacement. Metallic face plates shall either be grounded to the grounded metal outlet box or be grounded to the grounding-type device when used with devices supplied by branch circuits without equipment grounding conductors.
+
+8-904.2.3
+
+Grounding-type receptacles shall not be used without a grounding means in an existing receptacle outlet unless GFCI protected. Existing nongrounding receptacles shall be permitted to be replaced with nongrounding or grounding-type receptacles where supplied through a ground fault circuit interrupter.
+
+8-904.2.4
+
+Extensions of existing branch circuits without equipment-grounding conductors shall be permitted to supply grounding-type devices only when the equipment grounding conductor of the new extension is grounded to any accessible point on the grounding electrode system.
+
+8-904.2.5
+
+Receptacle outlet spacing and other related distance requirements shall be waived or modified if determined to be impracticable by the enforcing agency.
+
+8-904.2.6
+
+For the replacement of lighting fixtures on an existing nongrounded lighting outlet, or when extending an existing nongrounding lighting outlet, the following shall apply:
+
+1.The exposed conductive parts of lighting fixtures shall be connected to any acceptable point on the grounding electrode system, or
+
+2.The lighting fixtures shall be made of insulating material and shall have no exposed conductive parts.
+
+Exception: Lighting fixtures mounted on electrically nonconductive ceilings or walls where located not less than either 8 feet (2438 mm) vertically or 5 feet (1524 mm) horizontally from grounded surfaces.
+
+8-904.2.7
+
+Lighting load calculations for services and feeders may be based on actual loads as installed in lieu of the “watts per square foot” method.
+
+8-904.2.8
+
+Determination of existing loads may be based on maximum demand recordings in lieu of calculations, provided all of the following are met:
+
+1.Recordings are provided by the serving agency.
+
+2.The maximum demand data is available for a one-year period.
+
+Exception: If maximum demand data for a one-year period is not available, the maximum demand data shall be permitted to be based on the actual amperes continuously recorded over a minimum 30-day period by a recording ammeter connected to the highest loaded phase of the feeder or service. The recording should reflect the maximum demand when the building or space is occupied and include the measured or calculated load at the peak time of the year, including the larger of the heating or cooling equipment load.
+
+3.There has been no change in occupancy or character of load during the previous 12 months.
+
+4.The anticipated load will not change, or the existing demand load at 125 percent plus the new load does not exceed the ampacity of the feeder or rating of the service.
+

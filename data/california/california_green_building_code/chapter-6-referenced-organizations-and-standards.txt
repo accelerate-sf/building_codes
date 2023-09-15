@@ -1,0 +1,358 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 6 – REFERENCED ORGANIZATIONS AND STANDARDS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X		X				X	X		X		X									
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																						
+Chapter/Section																						CHAPTER 6 REFERENCED ORGANIZATIONS AND STANDARDS
+
+SECTION 601 GENERAL
+
+601.1
+
+This chapter lists the organizations and standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard.
+
+AHAM
+
+ANSI/AHAM DW-1-2010
+
+
+
+202
+
+AABC
+
+National Standards, 1989
+
+
+
+5.410.4.3.1
+
+
+
+
+
+A5.410.5.3.1
+
+ACCA
+
+ANSI/ACCA 2 Manual J–2016
+
+
+
+4.507.2
+
+ANSI/ACCA 1 Manual D–2016
+
+
+
+4.507.2
+
+ANSI/ACCA 3 Manual S–2014
+
+
+
+4.507.2
+
+ANSI
+
+ANSI/AHAM DW-1-2010
+
+
+
+202
+
+NSF/ANSI 140-2014
+
+
+
+4.504.3
+
+ANSI/ACCA 2 Manual J–2016
+
+
+
+4.507.2
+
+ANSI/ACCA 1 Manual D–2016
+
+
+
+4.507.2
+
+ANSI/ACCA 3 Manual S–2014
+
+
+
+4.507.2
+
+ASHRAE
+
+52.1-92
+
+
+
+A5.504.1
+
+52.2-2007
+
+
+
+202
+
+62.2
+
+
+
+A5.504.1
+
+90.1
+
+
+
+5.108.8
+
+ASME
+
+ASME A112.18.1
+
+
+
+5.303.6
+
+ASME A112.19
+
+
+
+5.303.6
+
+ASME A112.19.2
+
+
+
+5.303.2
+
+ASME A112.19.14
+
+
+
+5.303.6
+
+ASTM
+
+ASTM C33
+
+
+
+A5.405.5.3.2
+
+ASTM C150
+
+
+
+A5.405.5.1
+
+ASTM C595
+
+
+
+A5.405.5.1
+
+ASTM C618
+
+
+
+A5.405.5.2.1
+
+ASTM C989
+
+
+
+A5.405.5.2.1
+
+ASTM C1157
+
+
+
+A5.405.5.1
+
+ASTM C1240
+
+
+
+A5.405.5.2.1
+
+ASTM C1371-98
+
+
+
+A5.106.11.2.2
+
+ASTM C1549-09(2014)
+
+
+
+A4.106.7,
+A5.106.11.1
+
+ASTM C1602
+
+
+
+A5.405.5.3.2.3
+
+ASTM C1697
+
+
+
+A5.405.5.2.1
+
+ASTM E90
+
+
+
+5.507.4
+
+ASTM E408-02
+
+
+
+A5.10, 6.11.2.2
+
+ASTM E413
+
+
+
+5.507.4
+
+ASTM E1332
+
+
+
+5.507.4
+
+ASTM E1333-14
+
+
+
+Tables 4.504.5, 5.504.4.5, 5.504.8.5
+
+ASTM E1903-11
+
+
+
+A5.103.2.1
+
+ASTM E1918-06(2015)
+
+
+
+A4.106.7, A5.106.11.1
+
+ASTM E1918-16 (2016)
+
+
+
+A5.106.11.1
+
+ASTM E1980-11
+
+
+
+A4.106.5.3, A5.106.11.2.3
+
+CSA
+
+CSA B125.1, CSA O121,
+
+
+
+4.504.5.1
+
+CSA O151, CSA O153,
+
+
+
+
+
+CSA O325
+
+
+
+
+
+IAPMO
+
+IAPMO Z124.9
+
+
+
+5.303.6
+
+IESNA
+
+IES TM-15-11
+
+
+
+5.10
+
+
+
+
+
+6.6
+
+
+
+
+
+A4.106.10
+
+NEBB
+
+Procedural Standards, 1983
+
+
+
+5.410.4.3.1
+
+
+
+
+
+A5.410.5.3.1
+
+NSF
+
+NSF/ANSI 140-2014
+
+
+
+4.504.3
+
+TABB
+
+National Standards, 2003
+
+
+
+5.410.3.3.1
+
+
+
+
+
+A5.410.5.3.1
+
+US EPA
+
+WaterSense
+
+
+
+4.303.1
+

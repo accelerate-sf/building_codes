@@ -1,0 +1,615 @@
+SUBCHAPTER 12 MULTIFAMILY BUILDINGS—ADDITIONS, ALTERATIONS AND REPAIRS TO EXISTING MULTIFAMILY BUILDINGS
+
+SECTION 180.0 GENERAL
+
+Additions, alterations and repairs to existing attached dwelling units and common use areas in multifamily buildings, existing outdoor lighting for these occupancies, and internally and externally illuminated signs shall meet the requirements specified in Sections 100.0 through 110.10, 160.1, and 160.3 through 170.2 that are applicable to the building project, and either the performance compliance approach (energy budgets) in Section 180.1(b) (for additions) or 180.2(c) (for alterations), or the prescriptive compliance approach in Section 180.1(a) (for additions) or 180.2(b) (for alterations), for the climate zone in which the building is located. Climate zones are shown in Figure 100.1-A.
+
+Covered process requirements for additions, alterations and repairs to existing multifamily buildings are specified in Section 141.1.
+
+Nonresidential occupancies in mixed occupancy buildings shall comply with nonresidential requirements in Sections 120.0 through 141.1.
+
+NOTE: For alterations that change the occupancy classification of the building, the requirements specified in Section 180.2 apply to the occupancy after the alterations.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 180.1 ADDITIONS
+
+Additions to existing multifamily buildings shall meet the applicable requirements of Sections 110.0 through 110.9; Sections 160.0, 160.1, and 160.2(c) and (d); Sections 160.3 through 160.7; and either Section 180.1(a) or 180.1(b).
+
+Exception 2 to Section 180.1:  Additions of 300 square feet or less are exempt from the roofing product requirements of Section 170.2(a)1A.
+
+Exception 3 to Section 180.1:  Existing inaccessible piping shall not require insulation as defined under Section 160.4(f)2Aiii.
+
+Exception 4 to Section 180.1:  Space-conditioning system. When heating or cooling will be extended to an addition from the existing system(s), the existing heating and cooling equipment need not comply with Part 6. The heating system capacity must be adequate to meet the minimum requirements of CBC Section 1204.1.
+
+Exception 5 to Section 180.1:  Space-conditioning system ducts. When any length of ducts are extended from an existing duct system to serve the addition, the existing duct system and the extended ducts shall meet the applicable requirements specified in Sections 180.2(b)2Ai and 180.2(b)2Aii.
+
+Exception 6 to Section 180.1:  Photovoltaic and battery storage systems, as specified in Sections 170.2(f) through 170.2(h), are not required for additions.
+
+Exception 7 to Section 180.1:  Dwelling unit space heating system. New or replacement space heating systems serving an addition may be a heat pump or gas heating system.
+
+(a)Prescriptive approach. The envelope and lighting of the addition; any newly installed space-conditioning or ventilation system, electrical power distribution system, or waterheating system; any addition to an outdoor lighting system; and any new sign installed in conjunction with an indoor or outdoor addition shall meet the applicable requirements of Sections 110.0 through 110.12; 160.0, 160.1, and 160.2(c) and (d); and 160.3 through 170.2.
+
+1.Envelope.
+
+A. Additions that are greater than 700 square feet shall meet the requirements of Section 170.2(a), with the following modifications:
+
+i. Framed walls extension. Extensions of existing wood-framed walls may retain the dimensions of the existing walls and shall install cavity insulation of R-15 in a 2x4 framing and R-21 in a 2x6 framing.
+
+ii. The maximum allowed fenestration area shall be the greater of 175 square feet or 20 percent of the addition floor area.
+
+iii. When existing siding of a wood-framed wall is not being removed or replaced, cavity insulation of R-15 in a 2x4 framing and R-21 in a 2x6 framing shall be installed and continuous insulation is not required.
+
+iv. Additions that consist of the conversion of existing spaces from unconditioned to conditioned space shall not be required to perform the air sealing part of QII when the existing air barrier is not being removed or replaced.
+
+B. Additions that are 700 square feet or less shall meet the requirements of Section 170.2(a), with the following modifications.
+
+i. Roof and ceiling insulation in a ventilated attic shall meet one of the following requirements:
+
+a. In Climate Zones 1, 2, 4, and 8 through 16, achieve an overall assembly U-factor not exceeding 0.025. In wood framed assemblies, compliance with U-factors may be demonstrated by installing insulation with an R-value of R-38 or greater.
+
+b. In Climate Zones 3 and 5 through 7, achieve an overall assembly U-factor not exceeding 0.031. In wood framed assemblies, compliance with U-factors may be demonstrated by installing insulation with an R-value of R-30 or greater.
+
+ii. Radiant barrier. For buildings three habitable stories or less, radiant barriers shall be installed in attics with exposed attic deck undersides in Climate Zones 2–15.
+
+iii. Extensions of existing wood-framed walls may retain the dimensions of the existing walls and shall install cavity insulation of R-15 in a 2x4 framing and R-21 in a 2x6 framing; and
+
+iv. Fenestration products must meet the U-factor, RSGHC and VT requirements of Table 180.2-B.
+
+v. Quality insulation installation (QII) requirements of Section 170.2(a)6 do not apply.
+
+Exception to Section 180.1(a)1B: Insulation in an enclosed rafter ceiling shall meet the requirements of Section 160.1(a).
+
+Exception to Section 180.1(a)1: Additions that increase the area of the roof by 2,000 square feet or less are exempt from the solar ready requirements of Section 160.8.
+
+2.Mechanical ventilation for indoor air quality. Additions to existing buildings shall comply with Section 160.2 subject to the requirements specified in Subsections A and B below. When HERS field verification and diagnostic testing are required by Section 180.1(a)2, buildings with three habitable stories or fewer shall use the applicable procedures in the Residential Appendices, and buildings with four or more habitable stories shall use the applicable procedures in Nonresidential Appendices NA1 and NA2.
+
+A.Whole-dwelling unit mechanical ventilation.
+
+i. Dwelling units that meet the conditions in Subsection a or b below shall not be required to comply with the whole-dwelling unit ventilation airflow specified in Section 160.2(b)2Aiv or 160.2(b)2Av.
+
+a. Additions to an existing dwelling unit that increase the conditioned floor area of the existing dwelling unit by less than or equal to 1,000 square feet.
+
+b. Junior accessory dwelling units (JADU) that are additions to an existing building.
+
+ii. Additions to an existing dwelling unit that increase conditioned floor area by more than 1,000 square feet shall have mechanical ventilation airflow in accordance with Section 160.2(b)2Aiv or 160.2(b)2Av, as applicable. The mechanical ventilation airflow rate shall be based on the conditioned floor area of the entire dwelling unit comprising the existing dwelling unit conditioned floor area plus the addition conditioned floor area.
+
+iii. New dwelling units that are additions to an existing building shall have mechanical ventilation airflow provided in accordance with Section 160.2(b)2Aiv or 160.2(b)2Av as applicable. The mechanical ventilation airflow rate shall be based on the conditioned floor area of the new dwelling unit.
+
+B.Local mechanical exhaust. Additions to existing buildings shall comply with all applicable requirements specified in Sections 160.2(b)2Avi and 160.2(b)2B.
+
+3.Water heater. When additional water-heating equipment is installed to serve a dwelling unit as part of the
+addition, one of the following types of water heaters
+shall be installed:
+
+A.A water-heating system that meets the requirements of Section 170.2(d); or
+
+B.A water-heating system determined by the Executive Director to use no more energy than the one specified in Item A above.
+
+(b)Performance approach. Performance calculations shall meet the requirements of Sections 170.0 through 170.2(a), pursuant to the applicable requirements in Items 1, 2 and 3 below.
+
+1.For additions alone. The addition complies if the addition alone meets the energy budgets as specified in Section 170.1.
+
+2.Existing plus alteration plus addition. The standard design for existing plus alteration plus addition energy use is the combination of the existing building’s unaltered components to remain; existing building altered components that are the more efficient, in TDV energy, of either the existing conditions or the requirements of Section 180.2(c); plus the proposed addition’s energy use meeting the requirements of Section 180.1(a). The proposed design energy use is the combination of the existing building’s unaltered components to remain and the altered components’ energy features, plus the proposed energy features of the addition.
+
+Exception to Section 180.1(b)2: Existing structures with a minimum R-11 insulation in framed walls showing compliance with Section 180.1(b) are exempt from showing compliance with Section 160.1(b).
+
+3.Mechanical ventilation for indoor air quality. Additions to existing buildings shall comply with Section 160.2 subject to the requirements specified in Subsections A and B below. When HERS field verification and diagnostic testing are required by Section 180.1(b)3, buildings with three habitable stories or fewer shall use the applicable procedures in the Residential Appendices, and buildings with four or more habitable stories shall use the applicable procedures in Nonresidential Appendices NA1 and NA2.
+
+A.Whole-dwelling unit mechanical ventilation.
+
+i. Dwelling units that meet the conditions in Subsection a or b below shall not be required to comply with the whole-dwelling unit ventilation airflow specified in Section 160.2(b)2Aiv or 160.2(b)2Av.
+
+a. Additions to an existing dwelling unit that increase the conditioned floor area of the existing dwelling unit by less than or equal to 1000 square feet.
+
+b. Junior accessory dwelling units (JADU) that are additions to an existing building.
+
+ii. Additions to an existing dwelling unit that increase the conditioned floor area of the existing dwelling unit by more than 1,000 square feet shall have mechanical ventilation airflow in accordance with Section 160.2(b)2Aiv or 160.2(b)2Av as applicable. The mechanical ventilation airflow rate shall be based on the conditioned floor area of the entire dwelling unit comprising the existing dwelling unit conditioned floor area plus the addition conditioned floor area.
+
+iii. New dwelling units that are additions to an existing building shall have mechanical ventilation airflow provided in accordance with Section 160.2(b)2Aiv or 160.2(b)2Av as applicable. The mechanical ventilation airflow rate shall be based on the conditioned floor area of the new dwelling unit.
+
+B.Local mechanical exhaust. Additions to existing buildings shall comply with all applicable requirements specified in Sections 160.2(b)2Avi and 160.2(b)2B.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 180.2 ALTERATIONS
+
+Alterations to components of existing multifamily buildings, including alterations made in conjunction with a change in building occupancy to a multifamily occupancy, shall meet Item (a), and either Item (b) or (c) below:
+
+Exception 1 to Section 180.2:  When heating, cooling or service water heating for an alteration is provided by expanding existing systems, the existing systems and equipment need not comply with Sections 110.0 through 110.10; Sections 160.0 through 160.7; and Section 170.2(c) or 170.2(d).
+
+Exception 2 to Section 180.2:  When existing heating, cooling or service water-heating systems or components are moved within a building, the existing systems or components need not comply with Sections 110.0 through 110.10; Sections 160.0 through 160.7; and Section 170.2(c) or 170.2(d).
+
+Exception 3 to Section 180.2:  Where an existing system with electric reheat is expanded when adding variable air volume (VAV) boxes to serve an alteration, total electric reheat capacity may be expanded not to exceed 20 percent of the existing installed electric capacity in any one permit and the system need not comply with Section 170.2(b)4E. Additional electric reheat capacity in excess of 20 percent may be added subject to the requirements of Section 170.2(b)4E.
+
+Exception 4 to Section 180.2:  The requirements of Section 160.3(a)2H shall not apply to alterations of spaceconditioning systems or components.
+
+(a)Mandatory requirements. Altered components in a multifamily building shall meet the minimum requirements in this section.
+
+1.Roof/ceiling insulation. The opaque portions of the roof/ceiling that separate conditioned spaces from unconditioned spaces or ambient air shall meet the requirements of Section 180.2(b)1B.
+
+2.Wall insulation. For the altered opaque portion of walls separating conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items A through D below:
+
+A.Metal building. A minimum of R-13 insulation between framing members, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.113.
+
+B.Metal framed. A minimum of R-13 insulation between framing members, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.217.
+
+C.Wood framed and others.  A minimum of R-11 insulation between framing members, or the areaweighted average U-factor of the wall assembly shall not exceed U-0.110.
+
+D.Spandrel panels and curtain walls.  A minimum of R-4, or the area-weighted average U-factor of the wall assembly shall not exceed U-0.280.
+
+Exception to Section 180.2(a)2: Light and heavy mass walls.
+
+3.Floor insulation. For the altered portion of raised floors that separate conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items A and B below:
+
+A.Raised framed floors. A minimum of R-11 insulation between framing members, or the areaweighted average U-factor of the floor assembly shall not exceed U-0.071.
+
+B.Raised mass floors. A minimum of R-6 insulation, or the area-weighted average U-factor of the floor assembly shall not exceed U-0.111.
+
+(b)Prescriptive approach. The altered component and any newly installed equipment serving the alteration shall meet the applicable requirements of Sections 110.0 through 110.9 and all applicable requirements of Sections 160.0, 160.1, 160.2(c) and (d), 160.3(a) through 160.3(b)5J, 160.3(b)6, 160.3(c) and 160.5; and
+
+1.Envelope.
+
+A.Roof alterations. Existing roofs being replaced, recovered or recoated of a multifamily building shall meet the requirements of Section 110.8(i). For roofs with more than 50 percent of the roof area or more than 2,000 square feet of roof, whichever is less, being altered, the requirements of i and iii below apply:
+
+i.Low-sloped roofs in Climate Zones 2, 4, and 6 through 15 shall have a minimum aged solar reflectance of 0.63 and a minimum thermal emittance of 0.75, or a minimum SRI of 75.
+
+Exception to Section 180.2(b)1Ai:  The aged solar reflectance requirement can be met by using insulation at the roof deck specified in Table 180.2-A.
+
+ii.Steep-sloped roofs in Climate Zones 4 and 8 through 15 shall have a minimum aged solar reflectance of 0.20 and a minimum thermal emittance of 0.75, or a minimum SRI of 16.
+
+Exception to Section 180.2(b)1Aii:  The following shall be considered equivalent to Subsection ii:
+
+a.Buildings with ceiling assemblies with a U-factor lower than or equal to 0.025 or that are insulated with at least R-38 ceiling insulation in an attic; or
+
+b.Buildings with a radiant barrier in the attic, where the radiant barrier is not installed directly above spaced sheathing, meeting the requirements of Section 170.2(a)1C; or
+
+c.Buildings that have no ducts in the attic in Climate Zones 2, 4, 9, 10, 12 and 14; or
+
+d.Buildings with R-2 or greater continuous insulation above or below the roof deck.
+
+Exception 1 to Sections 180.2(b)1Ai and ii:  Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is not required to meet the minimum requirements for solar reflectance, thermal emittance or SRI.
+
+Exception 2 to Sections 180.2(b)1Ai and ii:  Roof constructions with a weight of at least 25 lb/ft² are not required to meet the minimum requirements for solar reflectance, thermal emittance or SRI.
+
+iii.For low-sloped roofs, the area of the roof recover or roof replacement shall be insulated to R-14 continuous insulation or a U-factor of 0.039 in Climate Zones 1, 2, 4, and 8 through 16.
+
+Exception 1 to Section 180.2(b)1Aiii:  Roof recovers with new R-10 insulation added above deck do not need to be insulated to meet R-14.
+
+Exception 2 to Section 180.2(b)1Aiii:  When existing mechanical equipment located on the roof will not be disconnected and lifted, insulation added may be limited to the greater of R-10 or the maximum installed thickness that will allow the distance between the height of the roof membrane surface to the top of the base flashing to remain in accordance with the manufacturer’s instructions.
+
+Exception 3 to Section 180.2(b)1Aiii:  At the drains and other low points, tapered insulation with a thermal resistance less than R-14 may be used, provided that insulation thickness is increased at the high points of the roof so that the average thermal resistance equals or exceeds R-14.
+
+Exception 4 to Section 180.2(b)1Aiii:  The area of the roof recoat is not required to be insulated.
+
+B.Roof/ceiling insulation.
+
+i.Attic roof. Vented attics shall meet the following:
+
+a.In Climate Zones 1 through 4 and 8 through 16, insulation shall be installed to achieve a weighted U-factor of 0.020 or insulation installed at the ceiling level shall result in an installed thermal resistance of R-49 or greater for the insulation alone; and
+
+Exception to Section 180.2(b)1Bia:  In Climate Zones 1, 3, 4 and 9, dwelling units with at least R-19 existing insulation installed at the ceiling level.
+
+b.In Climate Zones 2 and 11 through 16, air seal all accessible areas of the ceiling plane between the attic and the conditioned space in accordance with Section 110.7; and
+
+Exception 1 to Section 180.2(b)1Bib:  Dwelling units with at least R-19 existing insulation installed at the ceiling level.
+
+Exception 2 to Section 180.2(b)1Bib:  Dwelling units with atmospherically vented space heating or water-heating combustion appliances located inside the pressure boundary of the dwelling unit.
+
+c.In Climate Zones 1 through 4 and 8 through 16, recessed downlight luminaires in the ceiling shall be covered with insulation to the same depth as the rest of the ceiling. Luminaires not rated for insulation contact must be replaced or fitted with a fireproof cover that allows for insulation to be installed directly over the cover; and
+
+Exception to Section 180.2(b)1Bic:  In Climate Zones 1 through 4 and 8 through 10, dwelling units with at least R-19 existing insulation installed at the ceiling level.
+
+d.Attic ventilation shall comply with the California Building Code requirements.
+
+Exception 1 to Section 180.2(b)1Bi:  Dwelling units with at least R-38 existing insulation installed at the ceiling level.
+
+Exception 2 to Section 180.2(b)1Bi:  Dwelling units where the alteration would directly cause the disturbance of asbestos, unless the alteration is made in conjunction with asbestos abatement.
+
+Exception 3 to Section 180.2(b)1Bi:  Dwelling units with knob and tube wiring located in the vented attic.
+
+Exception 4 to Section 180.2(b)1Bi:  Where the accessible space in the attic is not large enough to accommodate the required R-value, the entire accessible space shall be filled with insulation, provided such installation does not violate Section 806.3 of Title 24, Part 2.5.
+
+Exception 5 to Section 180.2(b)1Bi:  Where the attic space above the altered dwelling unit is shared with other dwelling units and the requirements of Section 180.2(b)1Bi are not triggered for the other dwelling units.
+
+Fenestration alterations other than repair shall meet the requirements below:
+
+NOTE: Glass replaced in an existing sash and frame or sashes replaced in an existing frame are considered repairs. In these cases, Section 180.2(b) requires that the replacement be at least equivalent to the original in performance.
+
+i.Fenestration products installed to replace existing fenestration products of the same total area shall meet either a or b:
+
+a.The maximum U-factor, RSHGC and VT requirements of Table 180.2-B, or
+
+b.The area-weighted U-factor and RSHGC of Table 170.2-A.
+
+Exception 1 to Section 180.2(b)1Ci:  In an alteration, where 150 square feet or less of the entire building's vertical fenestration is replaced, RSHGC and VT requirements of Table 180.2-B shall not apply.
+
+ii.Alterations that add fenestration and skylight area shall meet the total fenestration area requirements of Section 170.2(a) and the U-factor, RSHGC and VT requirements of Table 180.2-B.
+
+Exception 1 to Section 180.2(b)1Cii:  Alterations that add fenestration area of up to 50 square feet shall not be required to meet the total fenestration area requirements of Sections 170.2(a), nor the U-factor, RSHGC and VT requirements of Table 180.2-B.
+
+Exception 2 to Section 180.2(b)1Cii:  Alterations that add up to 16 square feet of new skylight area per dwelling unit with a maximum U-factor of 0.55 and a maximum RSHGC of 0.30 shall not be required to meet the total fenestration area requirements of Section 170.2(a)3.
+
+D.Exterior doors. Alterations that add exterior door area shall meet the U-factor requirement of Section 170.2(a)4.
+
+2.Space-conditioning systems.
+
+A.Space-conditioning systems serving dwelling units.
+
+i.Entirely new or complete replacement spaceconditioning systems installed as part of an alteration shall include all the system heating or cooling equipment, including but not limited to: condensing unit, cooling or heating coil, and air handler for split systems; or complete replacement of a packaged unit; plus entirely new or replacement duct system [Section 180.2(b)2Aiib]. Entirely new or complete replacement space-conditioning systems shall meet the requirements of Sections 160.2(a)1, 160.3(a)1, 160.3(b)1 through 3, 160.3(b)5, 160.3(b)6, 160.3(c)1, 170.2(c)3B and 180.2(b)2Av, and Table 180.2-C.
+
+ii.Altered duct systems—duct sealing: In all climate zones, when more than 25 feet of new or replacement space-conditioning system ducts are installed, the ducts shall comply with the applicable requirements of Subsections a and b below. New ducts located in unconditioned space shall meet the applicable requirements of Sections 160.3(b)5A through J and the duct insulation requirements of Table 180.2-C, and
+
+a.The altered duct system, regardless of location, shall be sealed as confirmed through field verification and diagnostic testing in accordance with all applicable procedures for duct sealing of altered existing duct systems as specified in Reference Residential Appendix RA3.1, utilizing the leakage compliance criteria specified in Subsection I or II below.
+
+I.Entirely new or complete replacement duct system. If the new ducts form an entirely new or complete replacement duct system directly connected to the air handler, the duct system shall meet one of the following requirements:
+
+A.The total leakage of the duct system shall not exceed 12 percent of the air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.1, or
+
+B.The duct system leakage to outside shall not exceed 6 percent of the air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.4.
+
+Entirely new or complete replacement duct systems installed as part of an alteration are constructed of at least 75 percent new duct material, and up to 25 percent may consist of reused parts from the dwelling unit's existing duct system, including but not limited to registers, grilles, boots, air handler, coil, plenums and duct material, if the reused parts are accessible and can be sealed to prevent leakage.
+
+Entirely new or complete replacement duct systems shall also conform to the requirements of Sections 160.2(a)1 and 160.3(b)5L. If the air handler and ducts are located within a vented attic, the requirements of Section 180.2(b)1Bi shall also be met.
+
+II.Extension of an existing duct system. If the new ducts are an extension of an existing duct system serving multifamily dwellings, the combined new and existing duct system shall meet one of the following requirements:
+
+A.The measured duct leakage shall be equal to or less than 15 percent of air handler airflow as confirmed by field verification and diagnostic testing utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.1; or
+
+B.The measured duct leakage to outside shall be equal to or less than 10 percent of air handler airflow as confirmed by field verification and diagnostic testing utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.4; or
+
+C.If it is not possible to meet the duct sealing requirements of either Section 180.2(b)2AiicI or II then all accessible leaks shall be sealed and verified through a visual inspection and a smoke test by a certified HERS Rater utilizing the methods specified in Reference Residential Appendix RA3.1.4.3.5.
+
+Exception to Section 180.2(b)2AiiaII: duct sealing. Existing duct systems that are extended, which are constructed, insulated or sealed with asbestos.
+
+Exception 1 to 180.2(b)2Aii: The HERS Rater field verification and HERS Provider data registry requirements of Reference Residential Appendix RA2 and RA3 are not required for multifamily dwelling units in buildings four stories and greater. The installer shall certify that diagnostic testing was performed in accordance with the applicable procedures.
+
+iii.Altered space-conditioning system—duct sealing.  In all climate zones, when a space-conditioning system serving a multifamily dwelling is altered by the installation or replacement of space-conditioning system equipment, including replacement of the air handler, outdoor condensing unit of a split system air conditioner or heat pump, or cooling or heating coil, the duct system that is connected to the altered space-conditioning system equipment shall be sealed, as confirmed through field verification and diagnostic testing in accordance with the applicable procedures for duct sealing of altered existing duct systems as specified in Reference Residential Appendix RA3.1 and the leakage compliance criteria specified in Subsection a, b or c below.
+
+a.The measured duct leakage shall be equal to or less than 15 percent of air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.1; or
+
+b.The measured duct leakage to outside shall be equal to or less than 10 percent of air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.4; or
+
+c.If it is not possible to meet the duct sealing requirements of either Section 180.2(b)2Aiiia or b, then all accessible leaks shall be sealed and verified through a visual inspection and a smoke test by a certified HERS Rater utilizing the methods specified in Reference Residential Appendix RA3.1.4.3.5.
+
+Exception 1 to Section 180.2(b)2Aiii: duct sealing. Duct systems that are documented to have been previously sealed as confirmed through field verification and diagnostic testing in accordance with procedures in Reference Residential Appendix RA3.1.
+
+Exception 2 to Section 180.2(b)2Aiii: duct sealing.  Duct systems with less than 40 linear feet as determined by visual inspection.
+
+Exception 3 to Section 180.2(b)2Aiii: duct sealing.  Existing duct systems constructed, insulated or sealed with asbestos.
+
+Exception 4 to Section 180.2(b)2Aiii:   The HERS Rater field verification and HERS Provider data registry requirements of Reference Residential Appendix RA2 and RA3 are not required for multifamily dwelling units in buildings four stories and greater. The installer shall certify that diagnostic testing was performed in accordance with the applicable procedures.
+
+iv.Altered space-conditioning system mechanical cooling.  When a space-conditioning system is an air conditioner or heat pump that is altered by the installation or replacement of refrigerant-containing system components such as the compressor, condensing coil, evaporator coil, refrigerant metering device or refrigerant piping, the altered system shall comply with the following requirements:
+
+a.All thermostats associated with the system shall be replaced with setback thermostats meeting the requirements of Section 110.2(c).
+
+b.In Climate Zones 2, 8, 9, 10, 11, 12, 13, 14 and 15, air-cooled air conditioners and airsource heat pumps, including but not limited to ducted split systems, ducted package systems, small duct high velocity air systems, and minisplit systems, shall comply with Subsections I and II, unless the system is of a type that cannot be verified using the specified procedures. Systems that cannot comply with the requirements of Section 180.2(b)2Aivb shall comply with Section 180.2(b)2Aivc.
+
+Exception to Section 180.2(b)2Aivb: Entirely new or complete replacement packaged systems for which the manufacturer has verified correct system refrigerant charge prior to shipment from the factory are not required to have refrigerant charge confirmed through field verification and diagnostic testing. The installer of these packaged systems shall certify that the packaged system was pre-charged at the factory and has not been altered in a way that would affect the charge. Ducted systems shall comply with the minimum system airflow rate requirement in Section 180.2(b)2AivbI, provided that the system is of a type that can be verified using the procedure specified in RA3.3 or an approved alternative in RA1.
+
+I. The minimum system airflow rate shall comply with the applicable Subsection A or B below as confirmed through field verification and diagnostic testing in accordance with the procedures specified in Reference Residential Appendix Section RA3.3 or an approved alternative procedure as specified in Section RA1.
+
+A.Small duct high velocity systems shall demonstrate a minimum system airflow rate greater than or equal to 250 cfm per ton of nominal cooling capacity; or
+
+B.All other air-cooled air conditioner or air-source heat pump systems shall demonstrate a minimum system airflow rate greater than or equal to 300 cfm per ton of nominal cooling capacity.
+
+Exception 1 to Section 180.2(b)2AivbI:   Systems unable to comply with the minimum airflow rate requirement shall demonstrate compliance using the procedures in Section RA3.3.3.1.5, and the system's thermostat shall conform to the specifications in Section 110.12.
+
+Exception 2 to Section 180.2(b)2AivbI:  Entirely new or complete replacement space-conditioning systems, as specified by Section 180.2(b)2Ai, without zoning dampers may comply with the minimum airflow rate by meeting the applicable requirements in Table 160.3-A or 160.3-B as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Sections RA3.1.4.4 and RA3.1.4.5. The design clean-filter pressure drop requirements of Section 160.2(a)1C for the system air filter device(s) shall conform to the requirements given in Tables 160.3-A and 160.3-B.
+
+II. The installer shall charge the system according to manufacturer’s specifications. Refrigerant charge shall be verified according to one of the following options, as applicable.
+
+A.The installer and rater shall perform the standard charge verification procedure as specified in Reference Residential Appendix Section RA3.2.2, or an approved alternative procedure as specified in Section RA1; or
+
+B.The system shall be equipped with a fault indicator display (FID) device that meets the specifications of Reference Joint Appendix JA6. The installer shall verify the refrigerant charge and FID device in accordance with the procedures in Reference Residential Appendix Section RA3.4.2. The HERS Rater shall verify FID device in accordance with the procedures in Section RA3.4.2; or
+
+C.The installer shall perform the weigh-in charging procedure as specified by Reference Residential Appendix Section RA3.2.3.1, provided the system is of a type that can be verified using the RA3.2.2 standard charge verification procedure and RA3.3 airflow rate verification procedure or approved alternatives in RA1. The HERS Rater shall verify the charge using RA3.2.2 and RA3.3 or approved alternatives in RA1.
+
+Exception 1 to Section 180.2(b)2AivbII:  When the outdoor temperature is less than 55°F and the installer utilizes the weigh-in charging procedure in Reference Residential Appendix Section RA3.2.3.1 to demonstrate compliance, the installer may elect to utilize the HERS Rater verification procedure in Reference Residential Appendix Section RA3.2.3.2. If the HERS Rater verification procedure in Section RA3.2.3.2 is used for compliance, the system's thermostat shall conform to the specifications in Section 110.12. Ducted systems shall comply with the minimum system airflow rate requirements in Section 180.2(b)2AivbI.
+
+Exception 2 to Section 180.2(b)2Aivb:  The HERS Rater field verification and HERS Provider data registry requirements of Reference Residential Appendix RA2 and RA3 are not required for multifamily dwelling units in buildings four stories and greater. The installer shall certify that diagnostic testing was performed in accordance with the applicable procedures.
+
+v.Altered space-heating system.  Altered or replacement space-heating systems shall not use electric resistance as the primary heat source.
+
+Exception 1 to Section 180.2(b)2Av:  Nonducted electric resistance space heating systems, if the existing space heating system is electric resistance.
+
+Exception 2 to Section 180.2(b)2Av:  Ducted electric resistance space heating systems, if the existing space heating system is electric resistance and a ducted space cooling system is not being replaced or installed.
+
+Exception 3 to Section 180.2(b)2Av:  Electric resistance space heating systems, if the existing space heating system is electric resistance in Climate Zone 6, 7, 8 or 15.
+
+b.Common use area space-conditioning systems.
+
+i.New or replacement space-conditioning systems or components other than new or replacement space-conditioning system ducts shall meet the requirements of Sections 170.2(c)1, 2 and 4, applicable to the systems or components being altered. For compliance with Section 170.2(c)4A, additional fan power adjustment credits are available as specified in Table 180.2-D.
+
+Exception 1 to Section 180.2(b)2Bi: Section 180.2(b)2Av does not apply to replacement of electric reheat of equivalent or lower capacity electric resistance space heaters, when natural gas is not available.
+
+Exception 2 to Section 180.2(b)2Bi: Section 170.2(c)4L is not applicable to new or replacement space-conditioning systems.
+
+Exception 3 to Section 180.2(b)2Bi: Section 170.2(c)4Ci is applicable to systems, other than single package air-cooled commercial unitary air conditioners and heat pumps, with cooling capacity less than 54,000 Btu/h.
+
+ii.Altered duct systems. When new or replacement space-conditioning system ducts are installed to serve an existing building, the new ducts shall meet the requirements of Section 160.3(c)2 and meet a or b below:
+
+a.Reserved.
+
+b.Entirely new or replacement duct systems installed as part of an alteration shall be leakagetested in accordance with Section 160.2(c)2H. Entirely new or replacement duct systems installed as part of an alteration shall be constructed of at least 75 percent new duct material, and up to 25 percent may consist of reused parts from the building's existing duct system, including registers, grilles, boots, air handlers, coils, plenums and ducts, if the reused parts are accessible and can be sealed to prevent leakage.
+
+Exception 1 to Section 180.2(b)2Biib: When it is not possible to achieve the duct leakage criteria in Section 180.2(b)2Biib, all accessible leaks shall be sealed and verified through a visual inspection and a smoke test performed by a certified HERS Rater utilizing the methods specified in Reference Nonresidential Appendix NA2.1.4.2.2a.
+
+Exception 2 to Section 180.2(b)2Biib: Duct sealing.Existing duct systems that are extended, which are constructed, insulated or sealed with asbestos, are exempt from the requirements of subsection 180.2(b)2Biib.
+
+c.If the new ducts are an extension of an existing duct system, the combined new and existing duct system meets the criteria in Subsections I, II and III below. The duct system shall be sealed to a leakage rate not to exceed 15 percent of the nominal air handler airflow rate as confirmed through field verification and diagnostic testing, in accordance with the applicable procedures in Reference Nonresidential Appendices NA1 and NA2:
+
+I.The duct system provides conditioned air to an occupiable space for a constant volume, single zone, space-conditioning system; and
+
+II.The space-conditioning system serves less than 5,000 square feet of conditioned floor area; and
+
+III.The combined surface area of the ducts located in the following spaces is more than 25 percent of the total surface area of the entire duct system:
+
+A.Outdoors;
+
+B.In a space directly under a roof that
+
+i.Has a U-factor greater than the U-factor of the ceiling, or if the roof does not meet the requirements of Section 170.2(a)1B, or
+
+ii.Has fixed vents or openings to the outside or unconditioned spaces; or
+
+C.In an unconditioned crawl space; or
+
+D.In other unconditioned spaces.
+
+iii.Altered space-conditioning systems. When a space-conditioning system is altered by the installation or replacement of space-conditioning system equipment (including replacement of the air handler, outdoor condensing unit of a split system air conditioner or heat pump, or cooling or heating coil:
+
+a.For all altered units where the existing thermostat does not comply with the requirements for demand responsive controls specified in Section 110.12, the existing thermostat shall be replaced with a demand responsive thermostat that complies with Section 110.12. All newly installed space-conditioning systems requiring a thermostat shall be equipped with a demand responsive thermostat that complies with Section 110.12; and
+
+b.The duct system that is connected to the new or replaced space-conditioning system equipment shall be sealed, if the duct system meets the criteria of Section 170.2(c)4Ji, as confirmed through field verification and diagnostic testing, in accordance with the applicable procedures for duct sealing of altered existing duct systems as specified in Reference Nonresidential Appendix NA2, and conforming to the applicable leakage compliance criteria in Section 180.2(b)2Bii.
+
+Exception 1 to Section 180.2(b)2Biiib: duct sealing. Buildings altered so that the duct system no longer meets the criteria of Section 170.2(c)4Ji are exempt from the requirements of Subsection 180.2(b)2Biiib.
+
+Exception 2 to Section 180.2(b)2Biiib: duct sealing.   Duct systems that are documented to have been previously sealed as confirmed through field verification and diagnostic testing in accordance with procedures in the Reference Nonresidential Appendix NA2 are exempt from the requirements of Subsection 180.2(b)2Biiib.
+
+Exception 3 to Section 180.2(b)2Biiib: duct sealing.   Existing duct systems constructed, insulated or sealed with asbestos are exempt from the requirements of Subsection 180.2(b)2Biiib.
+
+3.Hot water systems.  Altered or replacement water-heating systems or components serving individual dwelling units shall meet the applicable requirements below:
+
+A.Pipe insulation. For newly installed piping and existing accessible piping, the insulation requirements of Section 160.4(f) shall be met.
+
+B.Distribution system. For recirculation distribution system serving individual dwelling units, only demand recirculation systems with manual on/off control as specified in Reference Appendix RA4.4.9 shall be installed.
+
+C.Water-heating system. The water-heating system shall meet one of the following:
+
+i.A natural gas or propane water-heating system; or
+
+ii.A single heat pump water heater. The storage tank shall not be located outdoors and shall be placed on an incompressible, rigid insulated surface with a minimum thermal resistance of R-10. The water heater shall be installed with a communication interface that either meets the requirements of Section 110.12(a) or has an ANSI/CTA- 2045-B communication port; or
+
+iii.A single heat pump water heater that meets the requirements of NEEA Advanced Water Heater Specification Tier 3 or higher; or
+
+iv.If the existing water heater is an electric resistance water heater, a consumer electric water heater.
+
+v.A water-heating system determined by the Executive Director to use no more energy than the one specified in Sections 180.2(b)3Ci through iii above; or if no natural gas is connected to the existing water heater location, a water-heating system determined by the Executive Director to use no more energy than the one specified in Section 180.2(b)3Civ above.
+
+4.Lighting.
+
+A.Dwelling unit lighting. The altered lighting system shall meet the lighting requirements of Section 160.5(a). The altered luminaires shall meet the luminaire efficacy requirements of Section 160.5(a) and Table 160.5-A. Where existing screw base sockets are present in ceiling-recessed luminaires, removal of these sockets is not required, provided that new JA8 compliant trim kits or lamps designed for use with recessed downlights or luminaires are installed.
+
+B.Common use area—lighting, sign lighting, and electrical power distribution systems.
+
+i.Spaces with lighting systems installed for the first time shall meet the applicable requirements of Sections 110.9, 160.5(b)1, 160.5(b)2, 160.5(b)3, 160.5(b)4, 160.5(c), 160.5(e), 170.2(b), and 170.2(e)1 through 170.2(e)6.
+
+ii.When the requirements of Section 160.5(b)4D are triggered by the addition of skylights to an existing building and the lighting system is not recircuited, the daylighting control need not meet the multi-level requirements in Section 160.5(b)4D.
+
+iii.New internally and externally illuminated signs shall meet the requirements of Sections 110.9, 160.5(d) and 170.2(e)7.
+
+iv.Altered indoor lighting systems. Alterations to indoor lighting systems that include 10 percent or more of the luminaires serving an enclosed space shall meet the requirements of a, b or c below:
+
+a.The alteration shall comply with the indoor lighting power requirements specified in Sections 170.2(e)1 through 4 and the lighting control requirements specified in Table 180.2-E; or
+
+b.The alteration shall not exceed 80 percent of the indoor lighting power requirements specified in Section 170.2(e)1 through 4, and shall comply with the lighting control requirements specified in Table 180.2-E; or
+
+c.The alteration shall be a one-for-one luminaire alteration within a building or tenant space of 5,000 square feet or less, the total wattage of the altered luminaires shall be at least 40 percent lower compared to their total prealteration wattage and the alteration shall comply with the lighting control requirements specified in Table 180.2-E.
+
+Alterations to indoor lighting systems shall not prevent the operation of existing, unaltered controls, and shall not alter controls to remove functions specified in Section 160.5(b)4.
+
+Alterations to lighting wiring are considered alterations to the lighting system. Alterations to indoor lighting systems are not required to separate existing general, floor, wall, display or decorative lighting on shared circuits or controls. New or completely replaced lighting circuits shall comply with the control separation requirements of Sections 160.5(b)4Aiv and 160.5(b)4Cid.
+Alterations to indoor lighting systems shall not prevent the operation of existing, unaltered controls, and shall not alter controls to remove functions specified in Section 160.5(b)4.
+
+Alterations to lighting wiring are considered alterations to the lighting system. Alterations to indoor lighting systems are not required to separate existing general, floor, wall, display or decorative lighting on shared circuits or controls. New or completely replaced lighting circuits shall comply with the control separation requirements of Sections 160.5(b)4Aiv and 160.5(b)4Cid.
+
+Exception 1 to Section 180.2(b)4Biv:  Alteration of portable luminaires, luminaires affixed to moveable partitions, or lighting excluded as specified in Section 170.2(e)2C.
+
+Exception 2 to Section 180.2(b)4Biv:  Any enclosed space with only one luminaire.
+
+Exception 3 to Section 180.2(b)4Biv:  Any alteration that would directly cause the disturbance of asbestos, unless the alteration is made in conjunction with asbestos abatement.
+
+Exception 4 to Section 180.2(b)4Biv:  Acceptance testing requirements of Section 160.5(e) are not required for alterations where lighting controls are added to control 20 or fewer luminaires.
+
+Exception 5 to Section 180.2(b)4Biv:  Any alteration limited to adding lighting controls or replacing lamps, ballasts or drivers.
+
+Exception 6 to Section 180.2(b)4Biv:  One-forone luminaire alteration of up to 50 luminaires either per complete floor of the building or per complete tenant space, per annum.
+
+v.Alterations to existing outdoor lighting systems in a lighting application listed in Table 170.2-R or 170.2-S shall meet the applicable requirements of Sections 160.5(b)1, 160.5(b)2, 160.5(b)3, 160.5(c)1 and 160.5(e), and:
+
+a.In alterations that increase the connected lighting load, the added or altered luminaires shall meet the applicable requirements of Section 160.5(c)2 and the requirements of Section 170.2(e)6 for general hardscape lighting or for the specific lighting applications containing the alterations; and
+
+b.In alterations that do not increase the connected lighting load, where 10 percent or more of the existing luminaires are replaced in a general hardscape or a specific lighting application, the alterations shall meet the following requirements:
+
+I.In parking lots and outdoor sales lots where the bottom of the luminaire is mounted 24 feet or less above the ground, the replacement luminaires shall comply with Section 160.5(c)2A and Section 160.5(c)2C;
+
+II.For parking lots and outdoor sales lots where the bottom of the luminaire is mounted greater than 24 feet above the ground and for all other lighting applications, the replacement luminaires shall comply with Section 160.5(c)2A and either comply with Section 160.5(c)2B or be controlled by lighting control systems, including motion sensors, that automatically reduce lighting power by at least 40 percent in response to the area being vacated of occupants; and
+
+Exception to Section 180.2(b)4Bvb: Alterations where fewer than five existing luminaires are replaced.
+
+c.In alterations that do not increase the connected lighting load, where 50 percent or more of the existing luminaires are replaced in general hardscape or a specific application, the replacement luminaires shall meet the requirements of Subsection b above and the requirements of Section 170.2(e)6 for general hardscape lighting or specific lighting applications containing the alterations.
+
+Exception 1 to Section 180.2(b)4Bvc: Alterations where the replacement luminaires have at least 40 percent lower power consumption compared to the original luminaires are not required to comply with the lighting power allowances of Section 170.2(e)6.
+
+Exception 2 to Section 180.2(b)4Bvc:  Alterations where fewer than five existing luminaires are replaced.
+
+Exception 3 to Section 180.2(b)4Bv: Acceptance testing requirements of Section 160.5(e) are not required for alterations where controls are added to 20 or fewer luminaires.
+
+vi.Alterations to existing internally and externally illuminated signs that increase the connected lighting load, replace and rewire more than 50 percent of the ballasts, or relocate the sign to a different location on the same site or on a different site shall meet the requirements of Section 170.2(e)7.
+
+Exception to Section 180.2(b)4Bvi: Replacement of parts of an existing sign, including replacing lamps, the sign face or ballasts, that do not require rewiring or that are done at a time other than when the sign is relocated, is not an alteration subject to the requirements of Section 180.2(b)4Bvi.
+
+vii.Alterations to existing electrical power distribution systems shall meet the applicable requirements of the following sections:
+
+a.Service electrical metering. New or replacement electrical service equipment shall meet the requirements of Section 160.6(a) applicable to the electrical power distribution system altered; and
+
+b.Separation of electrical circuits for electrical energy monitoring. For entirely new or complete replacement of electrical power distribution systems, the entire system shall meet the applicable requirements of Section 160.6(b); and
+
+c.Voltage drop. For alterations of feeders and branch circuits where the alteration includes addition, modification or replacement of both feeders and branch circuits, the altered circuits shall meet the requirements of Section 160.6(c); and
+
+Exception to Section 180.2(b)4Bviic: Voltage drop permitted by California Electrical Code Sections 647.4, 695.6 and 695.7.
+
+d.Circuit controls for 120-volt receptacles and controlled receptacles. For entirely new or complete replacement of electrical power distribution systems, the entire system shall meet the applicable requirements of Section 160.6(d).
+
+5.Mechanical ventilation and indoor air quality for dwelling units. Alterations to existing buildings shall comply with Subsections A and B below as applicable. When HERS field verification and diagnostic testing are required by Section 180.2(b)5, buildings with three habitable stories or fewer shall use the applicable procedures in the Residential Appendices, and buildings with four or more habitable stories shall use the applicable procedures in Nonresidential Appendices NA1 and NA2.
+
+A.Entirely new or complete replacement ventilation systems. Entirely new or complete replacement ventilation systems shall comply with all applicable requirements in Section 160.2(b)2. An entirely new or complete replacement ventilation system includes a new ventilation fan component and an entirely new duct system. An entirely new or complete replacement duct system is constructed of at least 75 percent new duct material, and up to 25 percent may consist of reused parts from the dwelling unit's existing duct system, including but not limited to registers, grilles, boots, air filtration devices and duct material, if the reused parts are accessible and can be sealed to prevent leakage.
+
+B.Altered ventilation systems. Altered ventilation system components or newly installed ventilation equipment serving the alteration shall comply with Section 160.2(b)2 as applicable subject to the requirements specified in Subsections i and ii below.
+
+i.Whole-dwelling unit mechanical ventilation.
+
+a.Whole-dwelling unit airflow. If the wholedwelling ventilation fan is altered or replaced, then one of the following Subsections 1 or 2 shall be used for compliance as applicable.
+
+1.Dwellings that were required by a previous building permit to comply with the wholedwelling unit airflow requirements in Section 160.2(b)2, 120.1(b) or 150.0(o) shall meet or exceed the whole-dwelling unit mechanical ventilation airflow specified in Section 160.2(b)2Aiv or 160.2(b)2Av as confirmed through HERS field verification and diagnostic testing in accordance with the applicable procedures specified in Reference Appendix RA3.7 or NA2.2.
+
+2.Dwellings that were not required by a previous building permit to have a wholedwelling unit ventilation system to comply with Section 160.2(b)2, 120.1(b) or 150.0(o) shall not be required to comply with the whole-dwelling unit ventilation airflow specified in Section 160.2(b)2Aiv or 160.2(b)2Av.
+
+b.Replacement ventilation fans. Whole-dwelling unit replacement ventilation fans shall be rated for airflow and sound in accordance with the requirements of ASHRAE 62.2 Sections 7.1 and 7.2. Additionally, when conformance to a specified whole-dwelling unit airflow rate is required for compliance, the replacement fans shall be rated at no less than the airflow rate required for compliance.
+
+c.Air filters. If the air filtration device for a whole-dwelling unit ventilation system is altered or replaced, then one of the following Subsections 1 or 2 shall be used for compliance.
+
+1.Dwellings that were required by a previous building permit to comply with the ventilation system air filtration requirements in Section 160.2(b)1, 120.1(b)1 or 150.0(m)12 shall comply with the air filtration requirements in Section 160.2(b)1.
+
+2.Dwellings that were not required by a previous building permit to comply with the ventilation system air filtration require ments in Section 160.2(b)1, 120.1(b)1 or 150.0(m)12 shall not be required to comply with the air filtration requirements specified in Section 160.2(b)1.
+
+ii.Local mechanical exhaust.
+
+a.Bathroom local mechanical exhaust. Altered bathroom local mechanical exhaust systems shall comply with the applicable requirements specified in Section 160.0(b)2Avi.
+
+b.Kitchen local mechanical exhaust. If the kitchen local ventilation fan is altered or replaced, then one of the following Subsections 1, 2 or 3 shall be used for compliance.
+
+1.Dwellings that were required by a previous building permit to comply with the kitchen local exhaust requirements in Section 160.0(b)2Avi, 120.1(b)2vi or 150.0(o)1G shall meet or exceed the applicable airflow or capture efficiency requirements in Section 160.0(b)2Avi.
+
+2.Dwellings that were required by a previous building permit to install a vented kitchen range hood or other kitchen exhaust fan shall install a replacement fan that meets or exceeds the airflow required by the previous building permit, or 100 cfm, whichever is greater.
+
+3.Dwellings that were not required to have a kitchen local ventilation exhaust system according to the conditions in either Subsection 1 or 2 above shall not be required to comply with the requirements of Section 160.0(b)2Avi.
+
+c.Replacement ventilation fans. New or replacement local mechanical exhaust fans shall be rated for airflow and sound in accordance with the requirements of ASHRAE 62.2 Section 7.1 and Title 24, Part 6, Section 160.0(b)2Avif. Additionally, when compliance with a specified exhaust airflow rate is required, the replacement fan shall be rated at no less than the airflow rate required for compliance.
+
+(c)Performance approach. The altered component(s) and any newly installed equipment serving the alteration shall meet the applicable requirements of Subsections 1, 2 and 3 below.
+
+1.The altered components shall meet the applicable requirements of Sections 110.0 through 110.9, 160.0, 160.1, 160.2(c) and (d), 160.3(a) through 160.3(b)5J, 160.3(b)6, 160.3(c), and 160.5. Entirely new or complete replacement mechanical ventilation systems as these terms are used in Section 180.2(b)5A shall comply with the requirements in Section 180.2(b)5A. Altered mechanical ventilation systems shall comply with the requirements of Sections 180.2(b)5B. Entirely new or complete replacement space-conditioning systems, and entirely new or complete replacement duct systems, as these terms are used in Sections 180.2(b)2Ai and 180.2(b)2Aiia, shall comply with the requirements of Sections 160.2(a)1 and 160.3(b)5L.
+
+2.The standard design for an altered component shall be the higher efficiency of existing conditions or the requirements of Section 180.2(b). For components not being altered, the standard design shall be based on the unaltered existing conditions such that the standard and proposed designs for these components are identical. When the third-party verification option is specified, all components proposed for alteration for which the additional credit is taken shall be verified by a qualified third party.
+
+3.The proposed design shall be based on the actual values of the altered components.
+
+NOTES TO SECTION 180.2(c):
+NOTES TO SECTION 180.2(c):
+
+1.If an existing component must be replaced with a new component, that component is considered an altered component for the purpose of determining the standard design altered component energy budget and must meet the requirements of Section 180.2(c)2.
+
+2.The standard design shall assume the same geometry and orientation as the proposed design.
+
+3.The “existing efficiency level” modeling rules, including situations where nameplate data is not available, are described in the applicable Residential or Nonresidential ACM Approval Manual.
+
+EXCEPTION 1 to Section 180.2(c): Any dual-glazed greenhouse or garden window installed as part of an alteration complies with the U-factor requirements in Section 170.2.
+
+EXCEPTION 2 to Section 180.2(c): Where the space in the attic or rafter area is not large enough to accommodate the required R-value, the entire space shall be filled with insulation, provided such installation does not violate Section 1203.2 of Title 24, Part 2.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+TABLE 180.2-A
+
+ROOF/CEILING INSULATION TRADEOFF FOR LOW-SLOPED AGED SOLAR REFLECTANCE
+
+MINIMUM AGED SOLAR REFLECTANCE	ROOF DECK CONTINUOUS INSULATION R-VALUE (Climate Zones 6–7)	ROOF DECK CONTINUOUS INSULATION R-VALUE (Climate Zones 2, 4, 8–15)
+0.60	2	16
+0.55	4	18
+0.50	6	20
+0.45	8	22
+No requirement	10	24TABLE 180.2-B
+
+ALTERED FENESTRATION MAXIMUM U-FACTOR AND MAXIMUM SHGC
+
+CLIMATE ZONE		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+Curtainwall/Storefront/Window Wall and Glazed Doors1	U-factor	0.38	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.38
+Curtainwall/Storefront/Window Wall and Glazed Doors1	RSHGC	0.35	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.25
+Curtainwall/Storefront/Window Wall and Glazed Doors1	VT2	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46
+NAFS 2017 Performance Class AW Window – Fixed1	U-factor	0.38	0.38	0.38	0.38	0.38	0.47	0.47	0.41	0.41	0.38	0.38	0.38	0.38	0.38	0.38	0.38
+NAFS 2017 Performance Class AW Window – Fixed1	RSHGC	0.35	0.25	0.25	0.25	0.25	0.31	0.31	0.26	0.26	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+NAFS 2017 Performance Class AW Window – Fixed1	VT2	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37
+NAFS 2017 Performance Class AW Window – Operable1	U-factor	0.43	0.43	0.43	0.43	0.43	0.47	0.47	0.43	0.43	0.43	0.43	0.43	0.43	0.43	0.43	0.43
+NAFS 2017 Performance Class AW Window – Operable1	RSHGC	0.35	0.24	0.24	0.24	0.24	0.31	0.31	0.24	0.24	0.24	0.24	0.24	0.24	0.24	0.24	0.24
+NAFS 2017 Performance Class AW Window – Operable1	VT2	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37	0.37
+All Other Windows and Glazed Doors1	U-factor	0.30	0.30	0.30	0.30	0.30	0.30	0.34	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30
+All Other Windows and Glazed Doors1	RSHGC	0.35	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23	0.23
+Skylights, 3 Habitable Stories and Fewer	U-factor	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30
+Skylights, 3 Habitable Stories and Fewer	RSHGC	NA	0.23	NA	0.23	NA	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	0.30	NA
+Skylights, 4 Habitable Stories and Greater	U-factor	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46	0.46
+Skylights, 4 Habitable Stories and Greater	RSHGC	0.35	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+Skylights, 4 Habitable Stories and Greater	VT2	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.49	0.491.For fenestration installed in buildings with three or fewer habitable stories, there is no SHGC requirement in Climate Zones 1, 3, 5 and 16.
+
+2.Minimum VT requirements to not apply to multifamily buildings 3 habitable stories or fewer.
+
+TABLE 180.2-C
+
+DUCT INSULATION R-VALUE
+
+Climate Zone	3, 5 through 7	1, 2, 4, 8 through 16
+Duct R-Value	R-6	R-8TABLE 180.2-D
+
+FAN POWER LIMITATION PRESSURE DROP ADJUSTMENT
+
+AIRFLOW	MULTI-ZONE VAV SYSTEMS1 ≤5,000 cfm	MULTI-ZONE VAV SYSTEMS1 >5,000 AND ≤10,000 cfm	MULTI-ZONE VAV SYSTEMS1 >10,000 cfm	ALL OTHER FAN SYSTEMS ≤5,000 cfm	ALL OTHER FAN SYSTEMS >5,000 AND ≤10,000 cfm	ALL OTHER FAN SYSTEMS >10,000 cfm
+Supply Fan System Additional Allowance	0.135	0.114	0.105	0.139	0.12	0.107
+Supply Fan System Additional Allowance in Unit with Adapter Curb	0.033	0.033	0.043	0.000	0.000	0.000
+Exhaust/Relief/Return/Transfer Fan System Additional Allowance	0.07	0.061	0.054	0.07	0.062	0.055
+Exhaust/Relief/Return/Transfer Fan System Additional Allowance in Unit with Adapter Curb	0.016	0.017	0.022	0.000	0.000	0.0001.See FAN SYSTEM, MULTI-ZONE VARIABLE AIR VOLUME (VAV) for the definition of a multi-zone VAV system.
+
+TABLE 180.2-E
+
+CONTROL REQUIREMENTS FOR INDOOR LIGHTING SYSTEM ALTERATIONS FOR COMMON USE AREAS
+
+CONTROL SPECIFICATIONS	PROJECTS COMPLYING WITH SECTION 180.2(B)4Biva	PROJECTS COMPLYING WITH SECTION 180.2(B)4Bivb OR 180.2(B)4Bivc
+Manual Area Controls160.5(b)4Ai	Required	Required
+Manual Area Controls160.5(b)4Aii	Required	Required
+Manual Area Controls160.5(b)4Aiii	Only required for new or completely replaced circuits	Only required for new or completely replaced circuits
+Multi-Level Area Controls160.5(b)4B	Required	Not Required
+Automatic Shut Off Controls160.5(b)4Ci	Required	Required
+Automatic Shut Off Controls160.5(b)4Cii	Required	Required
+Automatic Shut Off Controls160.5(b)4Ciii	Required	Required
+Automatic Shut Off Controls160.5(b)4Civ	Required	Required
+Automatic Shut Off Controls160.5(b)4Cv	Required	Required
+Automatic Shut Off Controls160.5(b)4Cvi	Required	Required
+Automatic Shut Off Controls160.5(b)4Cvii	Required	Required
+Daylighting Controls160.5(b)4D	Required	Not Required
+Demand Responsive Controls160.5(b)4E	Required	Not RequiredSECTION 180.3 REPAIRS
+
+Repairs shall not increase the preexisting energy consumption of the repaired component, system or equipment.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 180.4 WHOLE BUILDING
+
+Any addition or alteration may comply with the requirements of Title 24, Part 6 by meeting the requirements for the entire building.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+CALIFORNIA MECHANICAL CODE, CALIFORNIA CODE OF REGULATIONS, TITLE 24, PART 4, CHAPTER 6, DUCT SYSTEMS
+
+TABLE P4-A
+
+ADOPTION TABLE
+
+CODE SECTION		AGENCY
+Adopt entire Chapter as amended (amended sections listed below)1		CEC
+601.0		X
+602.0		X
+603.0		X
+604.0		X
+605.0		X1.Adopted by reference for Occupancies A, B, E, F, H, M, R, S and U; see Sections 110.8(d)3, 120.4 and 150.0(m).
+

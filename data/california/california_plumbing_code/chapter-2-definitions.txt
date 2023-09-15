@@ -1,0 +1,206 @@
+Chapter 2 Definitions
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter			X								X												
+Adopt Entire Chapter as amended (amended sections listed below)	X			X	X	X		X	X	X		X	X	X	X								
+Adopt only those sections that are listed below		X																X	X				
+Chapter/Section																							
+203.0	X	X		X	X			X	X														
+204.0				X	X																		
+205.0	X	X		X		X												X					
+206.0	X	X		X	X	X													X				
+207.0	X	X		X	X	X																	
+208.0																		X					
+209.0	X	X		X																			
+210.0										X		X	X	X	X								
+211.0	X	X		X																			
+214.0				X	X																		
+215.0	X	X		X																			
+216.0		X		X	X																		
+217.0	X	X		X																			
+220.0	X	X		X															X				
+221.0	X	X		X						X		X	X	X	X								
+222.0	X	X		X						X		X	X	X	X								
+223.0				X													X						
+225.0				X																			
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+201.0 General
+201.1 Applicability
+202.0 Definition of Terms
+202.1 General
+203.0      -A-
+Accessory Dwelling Unit. [HCD 1 & HCD 2]
+
+An attached or detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. Accessory dwelling units shall include permanent provisions for living, sleeping, eating, cooking, and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. (See Government Code Section 65852.2.)
+
+Alternate Water Source.
+
+on-site treated nonpotable gray water
+
+Exception: [HCD 1 & HCD 2] "Approved" means meeting the approval of the Enforcing Agency, except as otherwise provided by law, when used in connection with any system, material, type of construction, fixture or appliance as the result of investigations and tests conducted by the agency, or by reason of accepted principles or tests by national authorities, or technical, health, or scientific organizations or agencies. Notes:
+
+See Health and Safety Code Section 17920 for "Approved" as applied to residential construction and buildings or structures accessory thereto as referenced in Section 1.8.2.
+
+See Health and Safety Code Section 17921.1 for "Approved" as applied to the use of the hotplates in residential construction as referenced in Section 1.8.2.
+
+See Health and Safety Code 19966 for "Approved" as applied to Factory-Built Housing as referenced in Section 1.8.3.2.5.
+
+See Health and Safety Code Section 18201 for "Approved" as applied to Mobilehome Parks as referenced in Section 1.8.2
+
+See Health and Safety Code Section 18862.1 for "Approved" as applied to Special Occupancy Parks as referenced in Section 1.8.2.
+
+[HCD 1 & HCD 2] "Approved Testing Agency" is any agency which is determined by the enforcing agency, except as otherwise provided by statute, to have adequate personnel and expertise to carry out the testing of systems, materials, and construction fixtures or appliances.
+
+[HCD 1 & HCD 2] "Authority Having Jurisdiction" shall mean "Enforcing Agency" as defined in Section 207.0 of this code.
+
+204.0      -B-
+Exceptions: [HCD 1 & HCD 2] "BUILDING" shall not include the following:
+
+Any mobilehome as defined in Health and Safety Code Section 18008.
+
+Any manufactured home as defined in Health and Safety Code Section 18007.
+
+Any commercial modular as defined in Health and Safety Code Section 18001.8 or any special purpose commercial modular as defined in Section 18012.5.
+
+Any recreational vehicle as defined in Health and Safety Code Section 18010.
+
+Any multifamily manufactured home as defined in Health and Safety Code Section 18008.7.
+
+For additional information, see Health and Safety Code Section 18908.
+
+205.0      -C-
+Clothes Washer System [HCD 1]. A gray water system utilizing only a single domestic clothes washing machine in a one- or two-family dwelling.
+
+Commissaries Serving Mobile Food Preparation Units [DPH]. A food establishment in which food, containers, equipment or supplies are stored or handled for use in vehicles, mobile food preparation units, food carts or vending machines.
+
+Complex System [BSC-CG, HCD 1]. Gray water systems that discharge over 250 gallons (947 L) per day.
+
+Covered Multifamily Dwellings [HCD 1-AC]. See Section 1.8.2.1.2.
+
+206.0      -D-
+Department [HCD 1, HCD 2 and HCD 1-AC]. "Department" means the Department of Housing and Community Development.
+
+[HCD 1 & HCD 2] "Department Having Jurisdiction" shall mean "Enforcing Agency" as defined in Section 207.0 of this code.
+
+Disinfected Tertiary Recycled Water [DWR]. Filtered and subsequently disinfected wastewater that meets the approved method of treatment and minimum level of water quality specified in California Code of Regulations, Title 22, Division 4, Chapter 3 for the purpose of direct beneficial use.Disposal Field [BSC-CG & HCD 1]. An intended destination for gray water, including but not limited to, a mulch basin or receiving landscape feature, gray water leach field, or other approved method of disposal.
+
+207.0      -E-
+Enforcing Agency [BSC, BSC-CG, HCD 1, HCD 2, and HCD 1-AC]. "Enforcing Agency" is the designated department or agency as specified by statute or regulation.
+
+208.0      -F-
+Food Establishment [DPH]. Any room, building, place or
+portion thereof, maintained, used or operated for purpose of
+storing, preparing, serving, packaging, transporting, salvaging
+or otherwise handling food at the retail level.
+
+209.0      -G-
+Graywater [BSC-CG & HCD 1]. Pursuant to Health and Safety Code Section 17922.12, "graywater" means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers.
+
+Note: For the purpose of applying the standards contained in this code, "Graywater" as defined above, has the same meaning as "gray water", "grey water", and "greywater".
+
+Gray Water System [BSC-CG]. A system designed to collect gray water to be treated on-site for reuse or distribution to an irrigation or disposal field. A gray water system may include, on-site treated nonpotable water devices or equipment, tanks, valves, filters, pumps or other appurtenances along with piping and receiving landscape. Gray Water System [HCD 1]. A system designed to collect gray water on-site for reuse or distribution to an irrigation or disposal field. A gray water system may include, on-site treated nonpotable water devices or equipment, tanks, valves, filters, pumps or other appurtenances along with piping and receiving landscape.
+
+210.0      -H-
+Handwashing Fixture [OSHPD 1, 2, 3, 4 & 5]. Handwashing fixtures consist of faucet, trim and lavatory as described:
+
+Faucets and Trim
+
+Handwashing fixtures used by medical and nursing staff, patients, and food handlers shall have fittings such that all controls can be operated without the use of hands.
+
+Wrist or elbow blades shall be permitted unless otherwise noted in Table 4-2.
+
+Blade handles used for this purpose shall be at least 4 inches (102 mm) in length.
+
+Sensor operated fixtures shall be capable of functioning during loss of normal power.
+
+Faucets shall not be equipped with an aerator but may be equipped with a non-aerating laminar flow device.
+
+Faucets shall be equipped with gooseneck spouts. A gooseneck spout shall be deck or fixture-mounted so the discharge point of the spout return is at least 10 inches (25.4 mm) above the bottom of the basin. The water shall not flow directly from the spout into the drain. The gooseneck spout shall have a 180 degree return with a constant radius and the outlet pointing vertically down.
+
+Faucets shall be equipped with gooseneck spouts. A gooseneck spout is a deck or fixture-mounted spout so the discharge point of the spout return is at least 5 inches (127 mm) above the fixture rim.
+
+Lavatory
+
+Shall be designed and installed to prevent splashing outside of the lavatory.
+
+211.0      -I-
+Irrigation Field [BSC-CG & HCD 1]. An intended destination
+for gray water in the receiving landscape, including
+but not limited to, a drip irrigation system, mulch basin, or
+other approved method of dispersal for irrigation purposes.
+
+212.0      -J-
+213.0      -K-
+214.0      -L-
+[HCD 1 & HCD 2] "Labeled" means equipment or materials to which has been attached a label, symbol or other identifying mark of an organization, approved by the Department, that maintains a periodic inspection program of production of labeled products, installations, equipment, or materials and by whose labeling the manufacturer indicates compliance with appropriate standards or performance in a specified manner.
+
+Lavatory [HCD 1 & HCD 2]. "Lavatory" shall mean a plumbing fixture used for washing the hands, arms, face and head.
+
+Limited-Density Owner-Built Rural Dwelling [HCD 1]. "Limited-density owner-built rural dwelling" shall mean any structure consisting of one or more habitable rooms intended or designed to be occupied by one family with facilities for living or sleeping, with use restricted to rural areas designated by local jurisdiction in compliance with the requirements of Health and Safety Code Section 17958.2.
+
+Listed [HCD 1 & HCD 2]. "Listed" means all products that appear in a list published by an approved testing or listing agency. For additional information, see Health and Safety Code Section 17920(h).
+
+[HCD 1 & HCD 2] "Listing Agency" means an agency approved by the department that is in the business of listing and labeling products, materials, equipment, and installations tested by an approved testing agency, and that maintains a periodic inspection program on current production of listed products, equipment, and installations, and that, at least annually, makes available a published report of these listings. For additional information, see Health and Safety Code Section 17920(i).
+
+Low VOC Cement [HCD 1 & HCD 2]. Cement with a volatile organic compound (VOC) content of less than or equal to 490 g/L for CPVC Cement, 510 g/L for PVC Cement, and 325 g/L for ABS Cement, as determined by the South Coast Air Quality Management District's Laboratory Methods of Analysis for Enforcement Samples, Method 316A. Low VOC One-Step Cement [HCD 1 & HCD 2]. Listed solvent cements that do not require the use of primer with a volatile organic compound (VOC) content of less than or equal to 490 g/L for CPVC Cement, 510 g/L for PVC Cement, and 325 g/L for ABS Cement, as determined by the South Coast Air Quality Management District's Laboratory Methods of Analysis for Enforcement Samples, Method 316A. Low VOC Primer [HCD 1 & HCD 2]. Primer with a volatile organic compound (VOC) content of less than or equal to 550 g/L, as determined by the South Coast Air Quality Management District's Laboratory Methods of Analysis for Enforcement Samples, Method 316A.
+
+215.0      -M-
+Mulch Basin [BSC-CG & HCD 1]. A subsurface type of irrigation or disposal field filled with mulch or other approved permeable material of sufficient depth, length, and width to prevent ponding or runoff. A mulch basin may include a basin around a tree, a trough along a row of plants, or other shapes necessary for irrigation or disposal.
+
+216.0      -N-
+Nonwater Supplied Urinal [HCD 1]. A plumbing fixture which does not require water supply and is designed to receive and convey the uninhibited flow of liquid waste to the gravity drainage system.
+
+[HCD 1 & HCD 2] "Nuisance" shall mean any nuisance as defined in Health and Safety Code Section 17920(1).
+
+Notes:
+
+For applications subject to the Mobilehome Parks Act as referenced in Section 1.8.3.2.2 of this code, refer to California Code of Regulations, Title 25, Division 1, Chapter 2 for the definition of "Nuisance".
+
+For applications subject to the Special Occupancy Parks Act as referenced in Section 1.8.3.2.3 of this code, refer to California Code of Regulations, Title 25, Division 1, Chapter 2.2 for the definition of "Nuisance".
+
+217.0      -O-
+On-Site Treated Nonpotable Water [BSC-CG & HCD 1]. Nonpotable water that has been collected, treated, and
+intended to be used on-site and is suitable for direct beneficial
+use. Sources for on-site treated nonpotable water include,
+but are not limited to, gray water; rainwater; stormwater;
+reclaimed (recycled) water; cooling tower blow-down water;
+and foundation drainage.
+
+218.0      -P-
+219.0      -Q-
+220.0      -R-
+Rainwater [BSC-CG & HCD 1]. Precipitation on any public or private parcel that has not entered an offsite storm drain system or channel, a flood control channel, or any other stream channel, and has not previously been put to beneficial use. Rainwater Catchment System [BSC-CG & HCD 1]. A facility designed to capture, retain, and store rainwater flowing off a building, parking lot, or any other manmade impervious surface for subsequent onsite use. Rainwater catchment system is also known as "Rainwater Harvesting System" or "Rainwater Capture System."
+
+Receiving Landscape [BSC-CG & HCD 1]. Includes features such as soil, basins, swales, mulch, and plants.
+
+Reclaimed (Recycled) Water [BSC-CG, HCD 1 & DWR]. Nonpotable water that meets California State Water Resources Control Board statewide uniform criteria for disinfected tertiary recycled water. Reclaimed (recycled) water is also known as "recycled water" or "reclaimed water". Recycled Water Supply System. [DWR] The building supply pipe, the water distribution pipes, and the necessary connecting pipes, fittings, control valves, backflow prevention devices, and all appurtenances carrying or supplying reclaimed (recycled) water in or adjacent to the building or within the premises.
+
+221.0      -S-
+Scrub Sink [OSHPD 1, 2, 3, 4 & 5]. Is a sink used to wash and scrub the hands and arms during the septic preparation for surgery and equipped with a supply spout and controls as required for a handwashing fixture. Sensor operated fixtures shall be capable of functioning during loss of normal power.
+
+Simple System [BSC-CG & HCD 1]. A gray water system serving one-and two-family dwellings, townhouses, or other occupancies with a discharge of 250 gallons (947 L) per day or less. Simple systems exceed a clothes washer system.
+
+222.0      -T-
+Testing Agency [HCD 1]. See "Approved Testing Agency".
+
+Toilet [OSHPD 1, 2, 3, 4 & 5]. A fixture within a toilet room which is used for defecation or urination.
+
+Toilet Room [OSHPD 1, 2, 3, 4 & 5]. A room within or on the premises containing water closets, urinals, and other required facilities.
+
+Treated Gray Water [BSC-CG & HCD 1]. Nonpotable water meeting the definition of "gray water" collected and treated on-site suitable for direct beneficial use.
+
+223.0      -U-
+UPC [HCD 1]. "UPC" is the latest edition of the Uniform Plumbing Code, published by the International Association of Plumbing and Mechanical Officials.
+
+224.0      -V-
+225.0      -W-
+Water Closet [HCD 1]. "Water Closet" is a plumbing fixture (which may be used for both solids and liquids) in which the waste matter is removed by flushing with water.
+
+226.0      -X-
+227.0      -Y-
+228.0      -Z-

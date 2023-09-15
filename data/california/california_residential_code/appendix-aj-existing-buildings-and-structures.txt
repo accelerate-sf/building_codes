@@ -1,0 +1,357 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AJ – EXISTING BUILDINGS AND STRUCTURES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AJ EXISTING BUILDINGS AND STRUCTURES
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Appendix AJ regulates the repair, renovation alteration and reconstruction of existing buildings that are within the scope of this code. It is intended to encourage the continued safe use of existing buildings and ensure that new work conforms to the intent of the code and that exiting conditions remain at their current level of compliance or are improved.
+
+SECTION AJ101 PURPOSE AND INTENT
+
+AJ101.1 General.
+
+The purpose of these provisions is to encourage the continued use or reuse of legally existing buildings and structures. These provisions are intended to permit work in existing buildings that is consistent with the purpose of this code. Compliance with these provisions shall be deemed to meet the requirements of this code.
+
+AJ101.2 Classification of work.
+
+For purposes of this appendix, work in existing buildings shall be classified into the categories of repair, renovation, alteration and reconstruction. Specific requirements are established for each category of work in these provisions.
+
+AJ101.3 Multiple categories of work.
+
+Work of more than one category shall be part of a single work project. Related work permitted within a 12-month period shall be considered to be a single work project. Where a project includes one category of work in one building area and another category of work in a separate and unrelated area of the building, each project area shall comply with the requirements of the respective category of work. Where a project with more than one category of work is performed in the same area or in related areas of the building, the project shall comply with the requirements of the more stringent category of work.
+
+SECTION AJ102 COMPLIANCE
+
+AJ102.1 General.
+
+Regardless of the category of work being performed, the work shall not cause the structure to become unsafe or adversely affect the performance of the building; shall not cause an existing mechanical or plumbing system to become unsafe, hazardous, insanitary or overloaded; and unless expressly permitted by these provisions, shall not make the building any less compliant with this code or to any previously approved alternative arrangements than it was before the work was undertaken.
+
+AJ102.2 Requirements by category of work.
+
+Repairs shall conform to the requirements of Section AJ107. Renovations shall conform to the requirements of Section AJ108. Alterations shall conform to the requirements of Section AJ109 and the requirements for renovations. Reconstructions shall conform to the requirements of Section AJ110 and the requirements for alterations and renovations.
+
+AJ102.3 Smoke detectors.
+
+Regardless of the category of work, smoke detectors shall be provided where required by Section R314.2.2.
+
+AJ102.4 Replacement windows.
+
+Regardless of the category of work, where an existing window, including the sash and glazed portion, or safety glazing is replaced, the replacement window or safety glazing shall comply with the requirements of Sections AJ102.4.1 through AJ102.4.4, as applicable.
+
+AJ102.4.1 Energy efficiency.
+
+Replacement windows shall comply with the requirements of Chapter 11.
+
+AJ102.4.2 Safety glazing.
+
+Replacement glazing in hazardous locations shall comply with the safety glazing requirements of Section R308.
+
+AJ102.4.3 Replacement windows for emergency escape
+and rescue openings.
+
+Where windows are required to provide emergency escape and rescue openings, replacement windows shall be exempt from Sections R310.2 and R310.4.4 provided that the replacement window meets the following conditions:
+
+1. The replacement window is the manufacturer’s largest standard size window that will fit within the existing frame or existing rough opening. The replacement window shall be permitted to be of the same operating style as the existing window or a style that provides for an equal or greater window opening area than the existing window.
+
+2.Where the replacement window is not part of a change of occupancy.
+
+Window opening control devices and fall prevention
+devices complying with ASTM F2090 shall be permitted
+for use on windows serving as required emergency escape
+and rescue openings.
+
+AJ102.4.3.1 Control devices.
+
+Emergency escape and rescue openings with window opening control devices or fall prevention devices complying with ASTM F2090, after operation to release the control device allowing the window to fully open, shall not reduce the net clear opening area of the window unit. Emergency escape and rescue openings shall be operational from the inside of the room without the use of keys or tools.
+
+AJ102.4.4 Window control devices.
+
+Window opening control devices or fall prevention devices complying with ASTM F2090 shall be installed where an existing window is replaced and where all of the following apply to the replacement window:
+
+1. The window is operable.
+
+2.One of the following applies:
+
+2.1. The window replacement includes replacement of the sash and the frame.
+
+2.2. The window replacement includes the sash
+only when the existing frame remains.
+
+3.The bottom of the clear opening of the window opening is at a height less than 24 inches (610 mm) above the finished floor.
+
+4. The window will permit openings that will allow passage of a 4-inch-diameter (102 mm) sphere where the window is in its largest opened position.
+
+5. The vertical distance from the top of the sill of the window opening to the finished grade or other surface below, on the exterior of the building, is greater than 72 inches (1829 mm).
+
+AJ102.5 Flood hazard areas.
+
+Work performed in existing buildings located in a flood hazard area as established by Table R301.2 shall be subject to the provisions of Section R105.3.1.1.
+
+AJ102.6 Equivalent alternatives.
+
+Work performed in accordance with the California Existing Building Code shall be deemed to comply with the provisions of this appendix. These provisions are not intended to prevent the use of any alternative material, alternative design or alternative method of construction not specifically prescribed herein, provided that any alternative has been deemed to be equivalent and its use authorized by the building official.
+
+AJ102.7 Other alternatives.
+
+Where compliance with these provisions or with this code as required by these provisions is technically infeasible or would impose disproportionate costs because of construction or dimensional difficulties, the building official shall have the authority to accept alternatives. These alternatives include materials, design features and operational features.
+
+AJ102.8 More restrictive requirements.
+
+Buildings or systems in compliance with the requirements of this code for new construction shall not be required to comply with any more restrictive requirement of these provisions.
+
+AJ102.9 Features exceeding code requirements.
+
+Elements, components and systems of existing buildings with features that exceed the requirements of this code for new construction, and are not otherwise required as part of approved alternative arrangements or deemed by the building official to be required to balance other building elements not complying with this code for new construction, shall not be prevented by these provisions from being modified as long as they remain in compliance with the applicable requirements for new construction.
+
+SECTION AJ103 PRELIMINARY MEETING
+
+AJ103.1 General.
+
+If a building permit is required at the request of the prospective permit applicant, the building official or his or her designee shall meet with the prospective applicant to discuss plans for any proposed work under these provisions prior to the application for the permit. The purpose of this preliminary meeting is for the building official to gain an understanding of the prospective applicant’s intentions for the proposed work, and to determine, together with the prospective applicant, the specific applicability of these provisions.
+
+SECTION AJ104 EVALUATION OF AN EXISTING BUILDING
+
+AJ104.1 General.
+
+The building official shall have the authority to require an existing building to be investigated and evaluated by a registered design professional in the case of proposed reconstruction of any portion of a building. The evaluation shall determine the existence of any potential nonconformities to these provisions, and shall provide a basis for determining the impact of the proposed changes on the performance of the building. The evaluation shall use the following sources of information, as applicable:
+
+1. Available documentation of the existing building.
+
+1.1. Field surveys.
+
+1.2. Tests (nondestructive and destructive).
+
+1.3. Laboratory analysis.
+
+Exception: Detached one- or two-family dwellings that are not irregular buildings under Section R301.2.2.6 and are not undergoing an extensive reconstruction shall not be required to be evaluated.
+
+SECTION AJ105 PERMIT
+
+AJ105.1 Identification of work area.
+
+The work area shall be clearly identified on the permits issued under these provisions.
+
+SECTION AJ106 DEFINITIONS
+
+AJ106.1 General.
+
+For purposes of this appendix, the terms used are defined as follows:
+
+ALTERATION. The reconfiguration of any space; the addition or elimination of any door or window; the reconfiguration or extension of any system; or the installation of any additional equipment.
+
+CATEGORIES OF WORK. The nature and extent of construction work undertaken in an existing building. The categories of work covered in this appendix, listed in increasing order of stringency of requirements, are repair, renovation, alteration and reconstruction.
+
+DANGEROUS. Where the stresses in any member; the condition of the building, or any of its components or elements or attachments; or other condition that results in an overload exceeding 150 percent of the stress allowed for the member or material in this code.
+
+EQUIPMENT OR FIXTURE. Any plumbing, heating, electrical, ventilating, air-conditioning, refrigerating and fire protection equipment; and elevators, dumb waiters, boilers, pressure vessels, and other mechanical facilities or installations that are related to building services.
+
+MATERIALS AND METHODS REQUIREMENTS. Those requirements in this code that specify material standards; details of installation and connection; joints; penetrations; and continuity of any element, component or system in the building. The required quantity, fire resistance, flame spread, acoustic or thermal performance, or other performance attribute is specifically excluded from materials and methods requirements.
+
+RECONSTRUCTION. The reconfiguration of a space that affects an exit, a renovation or alteration where the work area is not permitted to be occupied because existing means-of-egress and fire protection systems, or their equivalent, are not in place or continuously maintained; or there are extensive alterations as defined in Section AJ109.3.
+
+REHABILITATION. Any repair, renovation, alteration or reconstruction work undertaken in an existing building.
+
+RENOVATION. The change, strengthening or addition of load-bearing elements; or the refinishing, replacement, bracing, strengthening, upgrading or extensive repair of existing materials, elements, components, equipment or fixtures. Renovation does not involve reconfiguration of spaces. Interior and exterior painting are not considered refinishing for purposes of this definition, and are not renovation.
+
+REPAIR. The patching, restoration or minor replacement of materials, elements, components, equipment or fixtures for the purposes of maintaining those materials, elements, components, equipment or fixtures in good or sound condition.
+
+WORK AREA. That portion of a building affected by any renovation, alteration or reconstruction work as initially intended by the owner and indicated as such in the permit. Work area excludes other portions of the building where incidental work entailed by the intended work must be performed, and portions of the building where work not initially intended by the owner is specifically required by these provisions for a renovation, alteration or reconstruction.
+
+SECTION AJ107 REPAIRS
+
+AJ107.1 Materials.
+
+Except as otherwise required herein, work shall be done using like materials or materials permitted by this code for new construction.
+
+AJ107.1.1 Hazardous materials.
+
+Hazardous materials no longer permitted, such as asbestos and lead-based paint, shall not be used.
+
+AJ107.1.2 Plumbing materials and supplies.
+
+The following plumbing materials and supplies shall not be used:
+
+1. All-purpose solvent cement, unless listed for the specific application.
+
+2. Flexible traps and tailpieces, unless listed for the specific application.
+
+3. Solder having more than 0.2-percent lead in the repair of potable water systems.
+
+AJ107.2 Water closets.
+
+Where any water closet is replaced with a newly manufactured water closet, the replacement water closet shall comply with the requirements of Section P2903.2.
+
+AJ107.3 Electrical.
+
+Repair or replacement of existing electrical wiring and equipment undergoing repair with like material shall be permitted.
+
+Exceptions:
+
+1. Replacement of electrical receptacles shall comply with the requirements of Chapters 34 through 43.
+
+2. Plug fuses of the Edison-base type shall be used for replacements only where there is not evidence of overfusing or tampering in accordance with the applicable requirements of Chapters 34 through 43.
+
+3. For replacement of nongrounding-type receptacles with grounding-type receptacles and for branch circuits that do not have an equipment grounding conductor in the branch circuitry, the grounding conductor of a grounding-type receptacle outlet shall be permitted to be grounded to any accessible point on the grounding electrode system, or to any accessible point on the grounding electrode conductor, as allowed and described in Chapters 34 through 43.
+
+SECTION AJ108 RENOVATIONS
+
+AJ108.1 Materials and methods.
+
+The work shall comply with the materials and methods requirements of this code.
+
+AJ108.2 Door and window dimensions.
+
+Minor reductions in the clear opening dimensions of replacement doors and windows that result from the use of different materials shall be allowed, whether or not they are permitted by this code.
+
+AJ108.3 Interior finish.
+
+Wood paneling and textile wall coverings used as an interior finish shall comply with the flame spread requirements of Section R302.9.
+
+AJ108.4 Structural.
+
+Unreinforced masonry buildings located in Seismic Design Category D2 or E shall have parapet bracing and wall anchors installed at the roofline whenever a reroofing permit is issued. Such parapet bracing and wall anchors shall be of an approved design.
+
+SECTION AJ109 ALTERATIONS
+
+AJ109.1 Newly constructed elements.
+
+Newly constructed elements, components and systems shall comply with the requirements of this code.
+
+Exceptions:
+
+1. Added openable windows are not required to comply with the light and ventilation requirements of Section R303.
+
+2. Newly installed electrical equipment shall comply with the requirements of Section AJ109.5.
+
+AJ109.2 Nonconformities.
+
+The work shall not increase the extent of noncompliance with the requirements of Section AJ110, or create nonconformity to those requirements that did not previously exist.
+
+AJ109.3 Extensive alterations.
+
+Where the total area of all of the work areas included in an alteration exceeds 50 percent of the area of the dwelling unit, the work shall be considered to be a reconstruction and shall comply with the requirements of these provisions for reconstruction work.
+
+Exception: Work areas in which the alteration work is exclusively plumbing, mechanical or electrical shall not be included in the computation of the total area of all work areas.
+
+AJ109.4 Structural.
+
+The minimum design loads for the structure shall be the loads applicable at the time the building was constructed, provided that a dangerous condition is not created. Structural elements that are uncovered during the course of the alteration and that are found to be unsound or dangerous shall be made to comply with the applicable requirements of this code.
+
+AJ109.5 Electrical equipment and wiring.
+
+AJ109.5.1 Materials and methods.
+
+Newly installed electrical equipment and wiring relating to work done in any work area shall comply with the materials and methods requirements of Chapters 34 through 43.
+
+Exception: Electrical equipment and wiring in newly installed partitions and ceilings shall comply with the applicable requirements of Chapters 34 through 43.
+
+AJ109.5.2 Electrical service.
+
+Service to the dwelling unit shall be not less than 100 ampere, three-wire capacity and service equipment shall be dead front having no live parts exposed that could allow accidental contact. Type “S” fuses shall be installed where fused equipment is used.
+
+Exception: Existing service of 60 ampere, three-wire capacity, and feeders of 30 ampere or larger two- or three-wire capacity shall be accepted if adequate for the electrical load being served.
+
+AJ109.5.3 Additional electrical requirements.
+
+Where the work area includes any of the following areas within a dwelling unit, the requirements of Sections AJ109.5.3.1 through AJ109.5.3.5 shall apply.
+
+AJ109.5.3.1 Enclosed areas.
+
+Enclosed areas other than closets, kitchens, basements, garages, hallways, laundry areas and bathrooms shall have not less than two duplex receptacle outlets, or one duplex receptacle outlet and one ceiling- or wall-type lighting outlet.
+
+AJ109.5.3.2 Kitchen and laundry areas.
+
+Kitchen areas shall have not less than two duplex receptacle outlets. Laundry areas shall have not less than one duplex receptacle outlet located near the laundry equipment and installed on an independent circuit.
+
+AJ109.5.3.3 Ground-fault circuit interruption.
+
+Ground-fault circuit interruption shall be provided on newly installed receptacle outlets if required by Chapters 34 through 43.
+
+AJ109.5.3.4 Lighting outlets.
+
+Not less than one lighting outlet shall be provided in every bathroom, hallway, stairway, attached garage and detached garage with electric power to illuminate outdoor entrances and exits, and in utility rooms and basements where these spaces are used for storage or contain equipment requiring service.
+
+AJ109.5.3.5 Clearance.
+
+Clearance for electrical service equipment shall be provided in accordance with Chapters 34 through 43.
+
+AJ109.6 Ventilation.
+
+Reconfigured spaces intended for occupancy and spaces converted to habitable or occupiable space in any work area shall be provided with ventilation in accordance with Section R303.
+
+AJ109.7 Ceiling height.
+
+Habitable spaces created in existing basements shall have ceiling heights of not less than 6 feet, 8 inches (2032 mm), except that the ceiling height at obstructions shall be not less than 6 feet 4 inches (1930 mm) from the basement floor. Existing finished ceiling heights in nonhabitable spaces in basements shall not be reduced.
+
+AJ109.8 Stairs.
+
+AJ109.8.1 Stair width.
+
+Existing basement stairs and handrails not otherwise being altered or modified shall be permitted to maintain their current clear width at, above and below existing handrails.
+
+AJ109.8.2 Stair headroom.
+
+Headroom height on existing basement stairs being altered or modified shall not be reduced below the existing stairway finished headroom. Existing basement stairs not otherwise being altered shall be permitted to maintain the current finished headroom.
+
+AJ109.8.3 Stair landing.
+
+Landings serving existing basement stairs being altered or modified shall not be reduced below the existing stairway landing depth and width. Existing basement stairs not otherwise being altered shall be permitted to maintain the current landing depth and width.
+
+SECTION AJ110 RECONSTRUCTION
+
+AJ110.1 Stairways, handrails and guards.
+
+AJ110.1.1 Stairways.
+
+Stairways within the work area shall be provided with illumination in accordance with Section R303.7.
+
+AJ110.1.2 Handrails.
+
+Every required exit stairway that has four or more risers, is part of the means of egress for any work area, and is not provided with not fewer than one handrail, or in which the existing handrails are judged to be in danger of collapsing, shall be provided with handrails designed and installed in accordance with Section R311 for the full length of the run of steps on not less than one side.
+
+AJ110.1.3 Guards.
+
+Every open portion of a stair, landing or balcony that is more than 30 inches (762 mm) above the floor or grade below, is part of the egress path for any work area, and does not have guards, or in which the existing guards are judged to be in danger of collapsing, shall be provided with guards designed and installed in accordance with Section R312.
+
+AJ110.2 Wall and ceiling finish.
+
+The interior finish of walls and ceilings in any work area shall comply with the requirements of Section R302.9. Existing interior finish materials that do not comply with those requirements shall be removed or shall be treated with an approved fire-retardant coating in accordance with the manufacturer’s instructions to secure compliance with the requirements of this section.
+
+AJ110.3 Separation walls.
+
+Where the work area is in an attached dwelling unit, walls separating dwelling units that are not continuous from the foundation to the underside of the roof sheathing shall be constructed to provide a continuous fire separation using construction materials consistent with the existing wall or complying with the requirements for new structures. Performance of work shall be required only on the side of the wall of the dwelling unit that is part of the work area.
+
+AJ110.4 Ceiling height.
+
+Habitable spaces created in existing basements shall have ceiling heights of not less than 6 feet, 8 inches (2032 mm), except that the ceiling height at obstructions shall be not less than 6 feet 4 inches (1930 mm) from the basement floor. Existing finished ceiling heights in nonhabitable spaces in basements shall not be reduced.
+
+SECTION AJ111 REFERENCED STANDARDS
+
+AJ111.1 General.
+
+See Table AJ111.1 for standards that are
+referenced in various sections of this appendix. Standards are
+listed by the standard identification with the effective date,
+the standard title and the section or sections of this appendix
+that reference the standard.
+
+TABLE AJ111.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTION HEREIN REFERENCED
+ASTM F2090—17	Specification for Window Fall Prevention Devices with Emergency Escape (Egress) Release Mechanisms	AJ102.4.3, AJ102.4.4
+CEBC—22	California Existing Building Code	AJ102.6
+

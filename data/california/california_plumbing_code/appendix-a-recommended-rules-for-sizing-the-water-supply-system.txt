@@ -1,0 +1,116 @@
+Appendix A Recommended Rules for Sizing the Water Supply System
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X			X	X			X	X	X	X	X	X	X	X								
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+A101.0 General
+A101.1 Applicability
+A102.0 Preliminary Information
+A102.1 Daily Service Pressure
+A102.2 Water Meter
+A102.3 Local Information
+A103.0 Demand Load
+A103.1 Supply Demand
+APPLIANCES, APPURTENANCES, OR FIXTURES2	MINIMUM FIXTURE BRANCH PIPESIZE1,4 (inches)	PRIVATE	PUBLIC	ASSEMBLY6
+Bathtub or Combination Bath/Shower (fill)	1/2	4.0	4.0	-
+3/4 inch Bathtub Fill Valve	3/4	10.0	10.0	-
+Bidet	1/2	1.0	-	-
+Clothes Washer	1/2	4.0	4.0	-
+Dental Unit, cuspidor	1/2	-	1.0	-
+Dishwasher, domestic	1/2	1.5	1.5	-
+Drinking Fountain or Water Cooler	1/2	0.5	0.5	0.75
+Hose Bibb	1/2	2.5	2.5	-
+Hose Bibb, each additional7	1/2	1.0	1.0	-
+Lavatory	1/2	1.0	1.0	1.0
+Lawn Sprinkler, each head5	-	1.0	1.0	-
+Mobile Home, each (minimum)	-	12.0	-	-
+Sinks	-	-	-	-
+Bar	1/2	1.0	2.0	-
+Clinical Faucet	1/2	-	3.0	-
+Clinical Flushometer Valve with or without faucet	1	-	8.0	-
+Kitchen, domestic	1/2	1.5	1.5	-
+Laundry	1/2	1.5	1.5	-
+Service or Mop Basin	1/2	1.5	3.0	-
+Washup, each set of faucets	1/2	-	2.0	-
+Shower per head	1/2	2.0	2.0	-
+Urinal, 1.0 GPF Flushometer Valve	3/4	3.0	4.0	5.0
+Urinal, greater than 1.0 GPF Flushometer Valve	3/4	4.0	5.0	6.0
+Urinal, flush tank	1/2	2.0	2.0	3.0
+Wash Fountain, circular spray	3/4	-	4.0	-
+Water Closet, 1.6 GPF Gravity Tank	1/2	2.5	2.5	3.5
+Water Closet, 1.6 GPF Flushometer Tank	1/2	2.5	2.5	3.5
+Water Closet, 1.6 GPF Flushometer Valve	1	5.0	5.0	8.0
+Water Closet, greater than 1.6 GPF Gravity Tank	1/2	3.0	5.5	7.0
+Water Closet, greater than 1.6 GPF Flushometer Valve	1	7.0	8.0	10.0
+
+A103.2 Continuous Supply Demand
+A104.0 Permissible Friction Loss
+A104.1 Residual Pressure
+A104.2 Elevation
+A104.3 Available Pressure
+A104.4 Developed Length
+DIAMETER OF FITTING (inches)	90° STANDARD ELBOW (feet)	45° STANDARD ELBOW (feet)	90° STANDARD TEE (feet)	COUPLING OR STRAIGHT RUN OF TEE (feet)	GATE VALVE (feet)	GLOBE VALVE (feet)	ANGLE VALVE (feet)
+3/8	1.0	0.6	1.5	0.3	0.2	8	4
+1/2	2.0	1.2	3.0	0.6	0.4	15	8
+3/4	2.5	1.5	4.0	0.8	0.5	20	12
+1	3.0	1.8	5.0	0.9	0.6	25	15
+11/4	4.0	2.4	6.0	1.2	0.8	35	18
+11/2	5.0	3.0	7.0	1.5	1.0	45	22
+2	7.0	4.0	10.0	2.0	1.3	55	28
+21/2	8.0	5.0	12.0	2.5	1.6	65	34
+3	10.0	6.0	15.0	3.0	2.0	80	40
+4	14.0	8.0	21.0	4.0	2.7	125	55
+5	17.0	10.0	25.0	5.0	3.3	140	70
+6	20.0	12.0	30.0	6.0	4.0	165	80
+
+DIAMETER OF FITTING (inches)	90 DEGREE ELBOW (feet)	45 DEGREE ELBOW (feet)	COUPLING OR STRAIGHT RUN OF TEE (feet)	90 DEGREE STANDARD TEE (feet)
+1/2	1.6	0.8	1.0	3.1
+3/4	2.1	1.1	1.4	4.1
+1	2.6	1.4	1.7	5.3
+11/4	3.5	1.8	2.3	6.9
+11/2	4.0	2.1	2.7	8.1
+2	5.2	2.8	3.5	10.3
+
+DIAMETER OF FITTING (inches)	90 DEGREE ELBOW (feet)	45 DEGREE ELBOW (feet)	COUPLING OR STRAIGHT RUN OF TEE (feet)	90 DEGREE STANDARD TEE (feet)
+1/2	1.5	0.8	1.0	4.0
+3/4	2.0	1.1	1.4	5.0
+1	2.5	1.4	1.7	6.0
+11/4	3.8	1.8	2.3	7.0
+11/2	4.0	2.1	2.7	8.0
+2	5.7	2.6	4.3	12.0
+
+A105.0 Size of Building Supply
+A105.1 Diameter
+A105.2 Copper and Copper Alloy Piping
+A105.3 Hard Water
+A106.0 Size of Principal Branches and Risers
+A106.1 Size
+A106.2 Branches
+A106.3 Water Closets
+A107.0 General
+A107.1 Velocities
+A107.2 Pressure-Reducing Valves
+A107.3 Fittings
+A108.0 Sizing
+A108.1 Example
+FIXTURE UNITS AND ESTIMATED DEMANDS
+BUILDING SUPPLY DEMAND	BRANCH TO HOT WATER SYSTEM
+KIND OF FIXTURES	NUMBER OF FIXTURES	FIXTURE UNIT DEMAND	TOTAL UNITS	BUILDING SUPPLY DEMAND (gallons per minute)	NUMBER OF FIXTURES	FIXTURE UNIT DEMAND CALCULATION	DEMAND (gallons per minute)
+Water Closets	130	8.0	1040	-	-	-	-
+Urinals	30	4.0	120	-	-	-	-
+Showerheads	12	2.0	24	-	12	12 X 2 X 3/4 = 18	-
+Lavatories	100	1.0	100	-	100	100 X 1 X 3/4 = 75	-
+Service Sinks	27	3.0	81	-	27	27 X 3 X 3/4 = 61	-
+Total	-	-	1365	252	-	154	55
+

@@ -1,0 +1,122 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 40 – STORAGE OF DISTILLED SPIRITS AND WINES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 40 STORAGE OF DISTILLED SPIRITS AND WINES
+
+User note:
+
+About this chapter: Chapter 40 provides specific requirements for the storage of distilled spirits and wines. In accordance with Section 307.1.1 of the California Building Code, these occupancies are not classified as a Group H occupancy. Instead, as listed in Sections 311.2 and 311.3 of the California Building Code, the storage of beverages that contain up to and including 16-percent alcohol are classified as a Group S-2 occupancy, and those that contain over 16-percent alcohol content are classified as a Group S-1 occupancy. Note that those that are classified as a Group S-1 occupancy are required to be provided with an automatic sprinkler system throughout the Group S-1 fire area, regardless of size, in accordance with Section 903.
+
+SECTION 4001 GENERAL
+
+4001.1 General.
+
+The storage of distilled spirits and wines in barrels and casks shall comply with this chapter in addition to other applicable requirements of this code.
+
+4001.1.1 Nonapplicability.
+
+Chapter 50 and Chapter 57 are not applicable to the storage of distilled spirits and wines in barrels and casks as identified in Section 5001.1, Exception 10, and Section 5701.2, Item 10.
+
+SECTION 4002 DEFINITIONS
+
+4002.1 Definitions.
+
+Words and terms used in this chapter and defined in Chapter 2 shall have the meanings ascribed to them as defined therein.
+
+SECTION 4003 PRECAUTIONS AGAINST FIRE
+
+4003.1 Spill control.
+
+Drainage or containment systems shall be provided by means of curbs, scuppers, special drains or other suitable means to prevent the flow of spills throughout the building.
+
+4003.2 Ventilation.
+
+For rooms and spaces where distilled spirits and wines in barrels and casks are stored, ventilation shall be provided in accordance with the California Mechanical Code and one of the following:
+
+1. The rooms and spaces shall be ventilated at a rate sufficient to maintain the concentration of vapors within the area at or below 25 percent of the lower flammable limit (LFL). This shall be confirmed by sampling the actual vapor concentration under normal operating conditions. The sampling shall be conducted throughout the enclosed storage area, extending to or toward the bottom and the top of the enclosed storage area. The vapor concentration used to determine the required ventilation rate shall be the highest measured concentration during the sampling procedure. The sampling shall be conducted manually or by installation of a continuously monitoring flammable vapor detection system.
+
+2. The rooms and spaces shall be provided exhaust ventilation at a rate of not less than 1 cfm per square foot [0.00508 m3/(s × m2)] of solid floor area. The exhaust ventilation shall be accomplished by natural or mechanical means, with discharge of the exhaust to a safe location outside the building.
+
+4003.3 Sources of ignition.
+
+Sources of ignition shall be controlled in accordance with Sections 4003.3.1 through 4003.4.
+
+4003.3.1 Smoking.
+
+Smoking shall be prohibited and “No Smoking” signs provided as follows:
+
+1.In rooms or areas where hazardous materials are stored or dispensed or used in open systems in amounts requiring a permit in accordance with Sections 105.5 and 105.6.
+
+2.Within 25 feet (7620 mm) of outdoor storage, dispensing or open-use areas.
+
+3.Facilities or areas within facilities that have been designated as totally “no smoking” shall have “No Smoking” signs placed at all entrances to the facility or area. Designated areas within such facilities where smoking is permitted either permanently or temporarily shall be identified with signs designating that smoking is permitted in these areas only.
+
+4.In rooms or areas where flammable or combustible hazardous materials are stored, dispensed or used.
+
+Signs required by this section shall be in English as a primary language or in symbols allowed by this code and shall comply with Section 310.
+
+4003.3.2 Open flame.
+
+Open flames and high-temperature devices shall not be used in a manner that creates a hazardous condition and shall be listed for use with the hazardous materials stored or used.
+
+4003.3.3 Industrial trucks.
+
+Powered industrial trucks used in areas designated as hazardous (classified) locations in accordance with the California Electrical Code shall be listed and labeled for use in the environment intended in accordance with NFPA 505.
+
+4003.3.4 Electrical.
+
+Electrical wiring and equipment shall be installed and maintained in accordance with Section 608 and the California Electrical Code.
+
+4003.4 Lightning.
+
+Structures containing barrel storage should be protected from lightning. The lightning protection equipment shall be installed in accordance with the California Electrical Code and NFPA 780.
+
+SECTION 4004 STORAGE
+
+4004.1 Storage.
+
+Storage shall be in accordance with this section and Section 315.
+
+4004.2 Empty containers.
+
+The storage of empty containers previously used for the storage of flammable or combustible liquids, unless free from explosive vapors, shall be stored as required for filled containers.
+
+4004.3 Basement storage.
+
+Class I liquids shall be allowed to be stored in basements in amounts not exceeding the maximum allowable quantity per control area for use-open systems in Table 5003.1.1(1), provided that automatic suppression and other fire protection are provided in accordance with Chapter 9. Class II and IIIA liquids shall also be allowed to be stored in basements, provided that automatic suppression and other fire protection are provided in accordance with Chapter 9.
+
+4004.4 Bulk beverage storage areas.
+
+There shall be no storage of combustible materials in the bulk beverage storage areas not related to the beverage storage activities.
+
+SECTION 4005 FIRE PROTECTION
+
+4005.1 Automatic sprinkler system.
+
+The storage of distilled spirits and wines shall be protected by an approved automatic sprinkler system as required by Chapter 9.
+
+4005.2 Portable fire extinguishers.
+
+Approved portable fire extinguishers shall be provided in accordance with Section 906.
+
+SECTION 4006 SIGNAGE
+
+4006.1 Hazard identification signs.
+
+Unless otherwise exempted by the fire code official, visible hazard identification signs, as specified in NFPA 704 for the specific material contained, shall be placed on stationary containers and aboveground tanks; at entrances to locations where hazardous materials are stored, dispensed, used or handled in quantities requiring a permit; and at specific entrances and locations designated by the fire code official.
+
+4006.1.1 Maintenance and style.
+
+Signs and markings required by Section 4006.1 shall not be obscured or removed; shall be in English as a primary language or in symbols allowed by this code; shall be durable; and the size, color and lettering shall be approved.
+

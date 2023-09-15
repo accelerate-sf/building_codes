@@ -1,0 +1,189 @@
+Chapter 2 Definitions
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter asamended (amendedsections listed below)	X		X	X	X		X	X	X	X		X	X	X									
+Adopt only those sectionsthat are listed below																							
+Chapter / Section																							
+203.0			X	X	X					X	X	X	X	X	X								
+204.0			X	X	X					X	X	X	X	X	X								
+206.0				X	X																		
+207.0			X	X	X					X	X	X	X	X	X								
+208.0			X	X				X	X														
+209.0	X		X				X	X	X	X	X	X	X	X	X								
+210.0										X	X	X	X	X	X								
+214.0			X	X	X																		
+215.0			X																				
+216.0				X	X																		
+217.0			X	X	X					X		X	X	X									
+218.0				X	X																		
+222.0				X	X																		
+223.0			X	X	X					X	X	X	X	X	X								
+228.0										x		x	x	x	x								
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+201.0 General
+201.1 Applicability
+202.0 Definition of Terms
+202.1 General
+203.0      — A —
+Accessory Dwelling Unit [HCD 1 & HCD 2]. An attached or detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. Accessory dwelling units shall include permanent provisions for living, sleeping, eating, cooking, and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. (See Government Code Section 65852.2.)
+
+Air, Relief. [OSHPD 1, 1R, 2, 3, 4 & 5] Air being exhausted directly from a building or a return duct system which is not contaminated by odors or other contaminants and could otherwise be used as return air if not exhausted from the building.
+
+Exception: [HCD 1 & HCD 2] "Approved" means meeting the approval of the Enforcing Agency, except as otherwise provided by law, when used in connection with any system, material, type of construction, fixture or appliance as the result of investigations and tests conducted by the agency, or by reason of accepted principles or tests by national authorities, or technical, health, or scientific organizations or agencies.Notes:
+
+See Health and Safety Code Section 17920 for "Approved" as applied to residential construction and buildings or structures accessory thereto, as referenced in Sections 1.8.2.1.1 and 1.8.2.1.2.
+
+See Health and Safety Code Section 17921.1 for "Approved" as applied to the use of hotplates in residential construction referenced in Sections 1.8.2.1.1 and 1.8.2.1.2.
+
+See Health and Safety Code Section 19966 for "Approved" as applied to Factory-Built Housing as referenced in Sections 1.8.2.1.1 and 1.8.2.1.2.
+
+See Health and Safety Code Section 18201 for "Approved" as applied to Mobilehome Parks as referenced in Section 1.8.2.1.3.
+
+See Health and Safety Code Section 18862.1 for "Approved" as applied to Special Occupancy Parks as referenced in Section 1.8.2.1.3.
+
+[HCD 1 & HCD 2] "Approved Testing Agency" is any agency which is determined by the Enforcing Agency, except as otherwise provided by statute, to have adequate personnel and expertise to carry out the testing of systems, materials, and various types of construction, fixtures or appliances.
+
+[HCD 1, HCD 2 and SFM] Refer to the California Building Code, Title 24, Part 2 for use and occupancy classification.
+
+[HCD 1, HCD 2, OSHPD 1, 1R, 2, 3 & 5 and SFM] "Authority Having Jurisdiction" shall mean "Enforcing Agency'' as defined in Section 207.0 of this code.
+
+dt/dx
+
+204.0       — B —
+Building. [HCD 1 & HCD 2] Any structure used or intended
+for supporting or sheltering any use or occupancy.
+
+Exceptions: "Building" shall not include the following:
+
+Any mobilehome as defined in Health and Safety Code Section
+18008.
+
+Any manufactured home as defined in Health and Safety
+Code Section 18007.
+
+Any commercial modular as defined in Health and Safety
+Code Section 18001.8 or any special purpose commercial
+modular as defined in Health and Safety Code Section
+18012.5.
+
+Any recreational vehicle as defined in Health and Safety
+Code Section 18010.
+
+Any multifamily manufactured home, as defined in Health
+and Safety Code Section 18008.7.
+
+For additional information, see Health and Safety Code Section
+18908.
+
+[HCD 1, HCD 2, OSHPD 1, 1R, 2, 3, 4 & 5 and
+SFM] "Building Code" shall mean the California Building
+Code, Title 24, Part 2.
+
+For
+applications listed in Section 1.11. 0 regulated by the Office of
+the State Fire Marshal "Building Official" is the officer charged
+with the administration and enforcement of this code, or a regular
+deputy. See "Enforcing Agency". For the State of California,
+"Building Official" shall be the "Enforcing Agency" as
+specified in Section 1.11.0.
+
+205.0      — C —
+206.0      — D —
+Department. [HCD 1 & HCD 2] "Department" means the
+Department of Housing and Community Development.
+
+207.0      — E —
+[HCD 1 & HCD 2] Whenever the term "Electrical Code" is used in this code, it shall mean the California Electrical Code, Title 24, Part 3.
+
+Enforcing Agency. [HCD 1, HCD 2, SFM and OSHPD 1, 1R, 2, 3, 4 & 5] "Enforcing Agency" is the designated department or agency as specified by statute and regulation.
+
+208.0      — F —
+Family. [HCD 1] "Family" is an individual or two or more
+persons who are related by blood or marriage, or otherwise,
+live together in a dwelling unit.
+
+Whenever the term "Fire Code" is used in this
+code, it shall mean the California Fire Code, Title 24, Part 9.
+
+209.0      — G —
+conforming to the
+
+requirements of ASTM A653/A653M Standard Specification
+for Steel Sheet, Zinc-Coat (Galvanized) or Zinc-Iron 
+Alloy-Coat
+(Galvanized) by the Hot Dip Process.
+
+210.0      — H —
+Health Facilities. [OSHPD 1, 1R, 2, 3, 4 & 5] Buildings
+specified within the statutory authority of the Office of
+Statewide Health Planning and Development.
+
+211.0      — I —
+212.0      — J —
+213.0      — K —
+214.0      — L —
+[HCD 1 & HCD 2] "Labeled" means equipment or materials to which has been attached a label, symbol or other identifying mark of an organization, approved by the Department, that maintains a periodic inspection program of production of labeled products, installations, equipment, or materials and by whose labeling the manufacturer indicates compliance with appropriate standards or performance in a specified manner.
+
+[HCD 1 & HCD 2] "Listed" means all products that appear in a list published by an approved testing or listing agency. For additional information, see Health and Safety Code Section 17920(h).
+
+Listed and Listing. [SFM] "Listed" and "Listing" are terms referring to equipment or materials included in a list published by an approved testing laboratory, inspection agency, or other organization concerned with product evaluation that maintains periodic inspection of current productions of listed equipment or materials and which listing states that the material or equipment complies with approved nationally recognized codes, standards, or tests and has been tested or evaluated and found suitable for use in a specific manner. These terms shall also mean equipment or materials accepted by the State Fire Marshal as conforming to the provisions of these regulations and which are included in a list published by the State Fire Marshal.
+
+[HCD 1 & HCD 2] "Listing Agency" means an agency approved by the Department that is in the business of listing and labeling products, materials, equipment, and installations tested by an approved testing agency, and that maintains a periodic inspection program on current production of listed products, equipment, and installations, and that at least annually makes available a published report of these listings. For additional information, see Health and Safety Code Section 17920(i).
+
+215.0      — M —
+Machinery Room. [SFM] Machinery Room is a room in
+which a refrigeration system is permanently installed and
+operated but not including evaporators located in a cold storage
+room, refrigerator box, 
+air-cooled space or other
+enclosed space. Closets solely contained within, and opening
+only into, a room shall not be considered machinery rooms,
+but shall be considered a part of the machinery rooms in
+which they are contained or open into. It is not the intent of
+this definition to cause the space in which unit or 
+self-contained
+systems of Group I refrigerants are locate to be classified
+as machinery rooms.
+
+216.0      — N —
+Nuisance. [HCD 1 & HCD 2] "Nuisance" shall mean any nuisance as defined in Health and Safety Code Section 17920(I).
+
+Notes:
+
+For applications subject to the Mobilehome Parks Act as referenced in Section 1.8.3.2.2 of this code, refer to California Code of Regulations, Title 25, Division 1, Chapter 2 for the definition of "Nuisance".
+
+For applications subject to the Special Occupancy Parks Act as referenced in Section 1.8.3.2.3 of this code, refer to California Code of Regulations, Title 25, Division 1, Chapter 2.2 for the definition of "Nuisance".
+
+217.0      — O —
+[HCD 1, HCD 2 & SFM] Whenever the term "Building Code" is used in this code, it shall mean the California Building Code, Title 24, Part 2.
+
+218.0      — P —
+[HCD 1 & HCD 2]
+Whenever the term "Plumbing Code" is used in this code, it
+shall mean the California Plumbing Code, Title 24, Part 5.
+
+219.0      — Q —
+220.0      — R —
+221.0      — S —
+222.0      — T —
+Testing Agency. [HCD 1 & HCD 2] See "Approved Testing Agency".
+
+223.0      — U —
+UMC. [HCD 1, HCD 2, OSHPD 1, 1R, 2, 3, 4 & 5] The
+most recent edition of Uniform Mechanical Code published
+by the International Association of Plumbing and Mechanical
+Officials.
+
+224.0      — V —
+225.0      — W —
+226.0      — X —
+227.0      — Y —
+228.0      — Z —
+Zone. [OSHPD 1, 2, 3, 4 & 5] A space or group of spaces
+within a building for which the heating, or cooling requirements are sufficiently similar that desired conditions can be
+maintained throughout by a single controlling device.
+

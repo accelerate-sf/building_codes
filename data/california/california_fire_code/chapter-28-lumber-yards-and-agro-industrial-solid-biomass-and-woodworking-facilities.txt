@@ -1,0 +1,370 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 28 – LUMBER YARDS AND AGRO-INDUSTRIAL,SOLID BIOMASS AND WOODWORKING FACILITIES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 28 LUMBER YARDS AND AGRO-INDUSTRIAL, SOLID BIOMASS AND WOODWORKING FACILITIES
+
+User note:
+
+About this chapter: Chapter 28 provides requirements that are intended to prevent fires and explosions, facilitate fire control and reduce exposures to and from facilities storing, selling or processing wood and forest products, including sawdust, wood chips, shavings, bark mulch, shorts, finished planks, sheets, posts, poles, timber and raw logs and the hazard they represent once ignited. Also included are solid biomass feedstock and raw products associated with agro-industrial facilities and the outdoor storage of pallets at pallet manufacturing and recycling facilities. This chapter requires active and passive fire protection features to reduce on- and off-site exposures, limit fire size and development and facilitate fire fighting by employees and the fire service.
+
+SECTION 2801 GENERAL
+
+2801.1 Scope.
+
+The storage, manufacturing and processing of solid biomass feedstock, timber, lumber, plywood, veneers and agro-industrial byproducts shall be in accordance with this chapter.
+
+2801.2 Permit.
+
+Permits shall be required as set forth in Section 105.5.
+
+SECTION 2802 DEFINITIONS
+
+2802.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+AGRO-INDUSTRIAL.
+
+BIOMASS.
+
+COLD DECK.
+
+FINES.
+
+HOGGED MATERIALS.
+
+PLYWOOD AND VENEER MILLS.
+
+RAW PRODUCT.
+
+SOLID BIOFUEL.
+
+SOLID BIOMASS FEEDSTOCK.
+
+STATIC PILES.
+
+TIMBER AND LUMBER PRODUCTION FACILITIES.
+
+SECTION 2803 GENERAL REQUIREMENTS
+
+2803.1 Open yards.
+
+Open yards required by the California Building Code shall be maintained around structures.
+
+2803.2 Dust control.
+
+Equipment or machinery located inside buildings that generates or emits combustible dust shall be provided with an approved dust collection and exhaust system installed in accordance with Chapter 22 and the California Mechanical Code. Equipment or systems that are used to collect, process or convey combustible dusts shall be provided with an approved explosion control system.
+
+2803.2.1 Explosion venting.
+
+Where a dust explosion hazard exists in equipment rooms, buildings or other enclosures, such areas shall be provided with explosion (deflagration) venting or an approved explosion suppression system complying with Section 911.
+
+2803.3 Waste removal.
+
+Sawmills, planning mills and other woodworking plants shall be equipped with a waste removal system that will collect and remove sawdust and shavings. Such systems shall be installed in accordance with Chapter 22 and the California Mechanical Code.
+
+Exception: Manual waste removal where approved.
+
+2803.3.1 Housekeeping.
+
+Provisions shall be made for a systematic and thorough cleaning of the entire plant at sufficient intervals to prevent the accumulations of combustible dust and spilled combustible or flammable liquids.
+
+2803.3.2 Metal scrap.
+
+Provision shall be made for separately collecting and disposing of any metal scrap so that such scrap will not enter the wood handling or processing equipment.
+
+2803.4 Electrical equipment.
+
+Electrical wiring and equipment shall comply with the California Electrical Code.
+
+2803.5 Control of ignition sources.
+
+Protection from ignition sources shall be provided in accordance with Sections 2803.5.1 through 2803.5.3.
+
+2803.5.1 Cutting and welding.
+
+Cutting and welding shall comply with Chapter 35.
+
+2803.5.2 Static electricity.
+
+Static electricity shall be prevented from accumulating on machines and equipment subject to static electricity buildup by permanent grounding and bonding wires or other approved means.
+
+2803.5.3 Smoking.
+
+Where smoking constitutes a fire hazard, the fire code official is authorized to order the owner or occupant to post approved “No Smoking” signs complying with Section 310. The fire code official is authorized to designate specific locations where smoking is allowed.
+
+2803.6 Fire apparatus access roads.
+
+Fire apparatus access roads shall be provided for buildings and facilities in accordance with Section 503.
+
+2803.7 Access plan.
+
+Where storage pile configurations could change because of changes in product operations and processing, the access plan shall be submitted for approval where required by the fire code official.
+
+SECTION 2804 FIRE PROTECTION
+
+2804.1 General.
+
+Fire protection in timber and lumber production mills, plywood and veneer mills and agro-industrial facilities shall comply with Sections 2804.2 through 2804.4.
+
+2804.2 Fire alarms.
+
+An approved means for transmitting alarms to the fire department shall be provided in timber and lumber production mills and plywood and veneer mills.
+
+2804.2.1 Manual fire alarms.
+
+A manual fire alarm system complying with Section 907.2 shall be installed in areas of timber and lumber production mills and for plywood and veneer mills that contain product dryers.
+
+Exception: Where dryers or other sources of ignition are protected by a supervised automatic sprinkler system complying with Section 903.
+
+2804.3 Portable fire extinguishers or standpipes and hose.
+
+Portable fire extinguishers or standpipes and hose supplied from an approved water system shall be provided within a 50-foot (15 240 mm) distance of travel from any machine producing shavings or sawdust. Portable fire extinguishers shall be provided in accordance with Section 906 for extra-high hazards.
+
+2804.4 Automatic sprinkler systems.
+
+Automatic sprinkler systems shall be installed in accordance with Section 903.3.1.1.
+
+SECTION 2805 PLYWOOD, VENEER AND COMPOSITE BOARD MILLS
+
+2805.1 General.
+
+Plant operations of plywood, veneer and composite board mills shall comply with Sections 2805.2 and 2805.3.
+
+2805.2 Dryer protection.
+
+Dryers shall be protected throughout by an approved, automatic deluge water-spray suppression system complying with Chapter 9. Deluge heads shall be inspected quarterly for pitch buildup. Deluge heads shall be flushed during regular maintenance for functional operation. Manual activation valves shall be located within 75 feet (22 860 mm) of the drying equipment.
+
+2805.3 Thermal oil-heating systems.
+
+Facilities that use heat transfer fluids to provide process equipment heat through piped, indirect heating systems shall comply with this code and NFPA 664.
+
+SECTION 2806 LOG STORAGE AREAS
+
+2806.1 General.
+
+Log storage areas shall comply with Sections 2806.2 and 2806.3.
+
+2806.2 Cold decks.
+
+Cold decks shall not exceed 500 feet (152.4 m) in length, 300 feet (91 440 mm) in width and 20 feet (6096 mm) in height. Cold decks shall be separated from adjacent cold decks or other exposures by not less than 100 feet (30 480 mm).
+
+Exception: The size of cold decks shall be determined by the fire code official where the decks are protected by special fire protection including, but not limited to, additional fire flow, portable turrets and deluge sets, and hydrant hose houses equipped with approved fire-fighting equipment capable of reaching the entire storage area in accordance with Chapter 9.
+
+2806.3 Pile stability.
+
+Log and pole piles shall be stabilized by approved means.
+
+SECTION 2807 STORAGE OF WOOD CHIPS AND HOGGED MATERIALS ASSOCIATED WITH TIMBER AND LUMBER PRODUCTION FACILITIES
+
+2807.1 General.
+
+The storage of wood chips and hogged materials associated with timber and lumber production facilities shall comply with Sections 2807.2 through 2807.5.
+
+2807.2 Size of piles.
+
+Piles shall not exceed 60 feet (18 288 mm) in height, 300 feet (91 440 mm) in width and 500 feet (152 m) in length. Piles shall be separated from adjacent piles or other exposures by approved fire apparatus access roads.
+
+Exception: The fire code official is authorized to allow the pile size to be increased where additional fire protection is provided in accordance with Chapter 9. The increase shall be based on the capabilities of the system installed.
+
+2807.3 Pile fire protection.
+
+Automatic sprinkler protection shall be provided in conveyor tunnels and combustible enclosures that pass under a pile. Combustible or enclosed conveyor systems shall be equipped with an approved automatic sprinkler system.
+
+2807.4 Material-handling equipment.
+
+Approved material-handling equipment shall be readily available for moving wood chips and hogged material.
+
+2807.5 Emergency plan.
+
+The owner or operator shall develop a plan for monitoring, controlling and extinguishing spot fires. The plan shall be submitted to the fire code official for review and approval.
+
+SECTION 2808 STORAGE AND PROCESSING OF WOOD CHIPS, HOGGED MATERIALS, FINES, COMPOST, SOLID BIOMASS FEEDSTOCK AND RAW PRODUCT ASSOCIATED WITH YARD WASTE, AGRO-INDUSTRIAL AND RECYCLING FACILITIES
+
+2808.1 General.
+
+The storage and processing of wood chips, hogged materials, fines, compost, solid biomass feedstock and raw product produced from yard waste, debris and agro-industrial and recycling facilities shall comply with Sections 2808.2 through 2808.10.
+
+2808.2 Storage site.
+
+Storage sites shall be level and on solid ground, elevated soil lifts or other all-weather surface. Sites shall be thoroughly cleaned before transferring wood products to the site.
+
+2808.3 Size of piles.
+
+Piles shall not exceed 25 feet (7620 mm) in height, 150 feet (45 720 mm) in width and 250 feet (76 200 mm) in length. Stackable products shall not be stacked in excess of 25 feet (7620 mm) in height, 80 feet (24 384 mm) in width and 250 feet (76 200 mm) in length.
+
+
+
+2808.3.1 Increase in pile or stack size.
+
+Piles or stackable products are permitted to be increased beyond the dimensions in Section 2808.3 provided that a written fire protection plan is approved by the fire code official. The fire protection plan shall include, but not be limited to, the following:
+
+1.Contact information for after-hours response by facility personnel.
+
+2.Storage yard areas and material-handling equipment selection, pile design and arrangement shall be based on sound safety and fire protection principles.
+
+3.Fire apparatus access roads around the piles or stacks and access roads to the top of piles, if applicable, shall be established, identified and maintained.
+
+4.The potential for spontaneous heating shall be evaluated and provisions made to control the temperature of the piles. Methods for monitoring the internal temperature of the pile shall be provided.
+
+5.Routine yard inspections shall be conducted by trained personnel.
+
+6.A means for early fire detection and reporting to the public fire department shall be provided.
+
+7.Facilities and equipment needed by the fire department for fire extinguishment shall be provided, including a water supply in compliance with Section 507 and heavy equipment necessary to move material.
+
+8.A de-inventory plan shall be utilized to remove alternating piles or stacked products in a manner to increase the separation distances between the remaining piles or stacks.
+
+9.The increased pile size shall be based on the capabilities of the installed fire protection systems and features.
+
+10.A controlled burn area shall be provided on-site for smoldering or damaged product.
+
+2808.4 Pile separation.
+
+Piles or stacked product shall be separated from buildings, property lines and adjacent piles or stacks by a distance of not less than one and one-half times the height of the pile or stack. The distance between rows shall be a minimum of 30 feet (9144 mm). Approved fire apparatus access roads shall be provided within the separation space in accordance with Section 503.
+
+2808.5 Combustible waste.
+
+The storage, accumulation and handling of combustible materials and control of vegetation shall comply with Chapter 3.
+
+2808.6 Static pile protection.
+
+Static piles shall be monitored by an approved means to measure temperatures within the static piles. Internal pile temperatures shall be monitored and recorded weekly. Such records shall be maintained. An operational plan indicating procedures and schedules for the inspection, monitoring and restricting of excessive internal temperatures in static piles shall be submitted to the fire code official for review and approval.
+
+2808.7 Pile fire protection.
+
+Automatic sprinkler protection shall be provided in conveyor tunnels and combustible enclosures that pass under a pile. Combustible conveyor systems and enclosed conveyor systems shall be equipped with an approved automatic sprinkler system.
+
+2808.8 Fire extinguishers.
+
+Portable fire extinguishers complying with Section 906 and with a minimum rating of 4-A:60-B:C shall be provided on all vehicles and equipment operating on piles and at all processing equipment.
+
+2808.9 Material-handling equipment.
+
+Approved material-handling equipment shall be available for moving wood chips, hogged material, wood fines and raw product during fire-fighting operations.
+
+2808.10 Emergency plan.
+
+The owner or operator shall develop a plan for monitoring, controlling and extinguishing spot fires and submit the plan to the fire code official for review and approval.
+
+SECTION 2809 EXTERIOR STORAGE OF FINISHED LUMBER AND SOLID BIOFUEL PRODUCTS
+
+2809.1 General.
+
+Exterior storage of finished lumber and solid biofuel products shall comply with Sections 2809.2 through 2809.5.
+
+2809.2 Size of piles.
+
+Exterior storage shall be arranged to form stable piles with a maximum height of 20 feet (6096 mm). Piles shall not exceed 150,000 cubic feet (4248 m3) in volume.
+
+2809.3 Fire apparatus access roads.
+
+Fire apparatus access roads in accordance with Section 503 shall be located so that a maximum grid system unit of 50 feet by 150 feet (15 240 mm by 45 720 mm) is established.
+
+2809.4 Security.
+
+Permanent storage areas shall be surrounded with an approved fence. Fences shall be not less than 6 feet (1829 mm) in height.
+
+Exceptions:
+
+1.Lumber piles inside of buildings and production mills for lumber, plywood and veneer.
+
+2.Solid biofuel piles inside of buildings and agro-industrial processing facilities for solid biomass feedstock.
+
+2809.5 Fire protection.
+
+An approved hydrant and hose system or portable fire-extinguishing equipment suitable for the fire hazard involved shall be provided for open storage yards. Hydrant and hose systems shall be installed in accordance with NFPA 24. Portable fire extinguishers complying with Section 906 shall be located so that the distance of travel from the nearest unit does not exceed 75 feet (22 860 mm).
+
+SECTION 2810 OUTDOOR STORAGE OF PALLETS AT PALLET MANUFACTURING AND RECYCLING FACILITIES
+
+2810.1 General.
+
+The outside storage of wood pallets and wood composite pallets on the same site as a pallet manufacturing or pallet recycling facility shall comply with Sections 2810.2 through 2810.11.
+
+2810.2 Site plan.
+
+Each site shall maintain a current site plan. The site plan shall be submitted to the fire code official for approval and contain all of the following:
+
+1.Lot lines.
+
+2.Utilities.
+
+3.Size, location and type of construction of the buildings on the property.
+
+4.Presence of the fire protection systems.
+
+5.Water supply sources for fire-fighting purposes.
+
+6.Location of hazardous material storage areas.
+
+7.Location of pallet storage.
+
+8.Equipment protected with a dust collection system.
+
+9.Fire apparatus access roads.
+
+10.Designated smoking areas.
+
+11.Location of fire alarm control panels.
+
+2810.3 Fire prevention plan.
+
+The owner or owner’s authorized representative shall submit a fire prevention plan for review and approval by the fire code official that includes all of the following:
+
+1.Frequency of walk-through inspections to verify compliance with the plan.
+
+2.Hot work permit program in accordance with Chapter 35.
+
+3.Preventative maintenance program for equipment associated with pallet activities.
+
+4.Inspection, testing and maintenance of fire protection systems in accordance with Chapter 9.
+
+2810.4 Fire safety and evacuation plan.
+
+The owner or owner’s authorized representative shall prepare and train employees in an approved fire safety and evacuation plan in accordance with Chapter 4.
+
+2810.5 Security management plan.
+
+The owner or owner’s authorized representative shall prepare a security management plan based on a security risk assessment and shall make the plan and assessment available to the fire code official upon request.
+
+2810.6 Clearance to property line.
+
+Stacks of pallets shall not be stored within 0.75 times the stack height or 8 feet (2438 mm) of the property line, whichever is greater, or shall comply with Section 2810.11.
+
+2810.7 Clearance to important buildings.
+
+Stacks of pallets shall not be stored within 0.75 times the stack height of any important building on site, or shall comply with Section 2810.11.
+
+2810.8 Height.
+
+Pallet stacks shall not exceed 20 feet (6096 mm) in height.
+
+2810.9 Fire flow.
+
+Fire-flow requirements for the site shall be determined by the fire code official.
+
+2810.10 Portable fire extinguishers.
+
+Portable fire extinguishers shall be selected, installed and maintained in accordance with Section 906.
+
+2810.11 Alternative approach.
+
+Where approved by the fire code official, pallet stacks are permitted to be located closer to a property line or structure than as required by Sections 2810.6 and 2810.7 where additional fire protection is provided, including, but not limited to, the following:
+
+1.The storage yard areas and materials-handling equipment selection, design, and arrangement are based on an approved risk assessment.
+
+2.Automatic fire detection that transmits an alarm to a supervising station in accordance with NFPA 72.
+
+3.Fire apparatus access roads around all storage areas.
+

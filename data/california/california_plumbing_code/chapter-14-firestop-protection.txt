@@ -1,0 +1,43 @@
+Chapter 14 Firestop Protection
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter			X							X	X	X	X	X	X								
+Adopt Entire Chapter as
+amended (amended sections
+listed below)																							
+Adopt only those sections
+that are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1401.0 General
+1401.1 Applicability
+1402.0 Construction Documents
+1402.1 Penetrations
+1403.0 Installation
+1403.1 Materials
+1404.0 Combustible Piping Installations
+1404.1 General Requirements
+1404.2 Fire-Resistance Rating
+1404.3 Firestop Systems
+1404.4 Connections
+1404.5 Insulation and Coverings
+1404.6 Sleeves
+1405.0 Noncombustible Piping Installations
+1405.1 General Requirements
+1405.2 Fire-Resistance Rating
+1405.3 Firestop Systems
+1405.4 Connections
+1405.5 Unshielded Couplings
+1405.6 Sleeves
+1405.7 Insulation and Coverings
+1406.0 Required Inspection
+1406.1 General
+1406.2 Examination
+1406.3 Penetrations
+1406.4 Field Installations

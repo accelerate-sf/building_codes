@@ -1,0 +1,31 @@
+Appendix C Installation and Testing of Oil (Liquid) Fuel-Fired Equipment
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X									X	X	X	X	X	X								
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+C101.0 General
+C101.1 Applicability
+C102.0 Definitions
+C103.0 Standards and Accepted Practices
+C103.1 General
+C104.0 Approval of Equipment
+C104.1 General
+C105.0 Placing Equipment in Operation
+C105.1 General
+C106.0 Pilot Operation
+C106.1 General
+C107.0 Burner Operation
+C107.1 General
+C108.0 Method of Test
+C108.1 General Test Methods
+C109.0 Special Requirements Based on Btu/h Input
+C109.1 General

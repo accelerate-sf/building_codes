@@ -1,0 +1,202 @@
+Appendix H Private Sewage Disposal Systems
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X			X	X			X	X														
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+H101.0 General
+H101.1 Applicability
+H101.2 General Requirements
+H101.3 Quantity and Quality
+H101.4 Septic Tank and Disposal Field Systems
+H101.5 Flood Hazard Areas
+H101.6 Design
+H101.7 Capacity
+H101.8 Location
+MINIMUM HORIZONTAL DISTANCE	BUILDING SEWER	SEPTIC TANK	DISPOSAL FIELD	SEEPAGE PIT OR CESSPOOL
+Building or structures1	2 feet	5 feet	8 feet	8 feet
+Property line adjoining private property	Clear2	5 feet	5 feet	8 feet
+Water supply wells	50 feet3	50 feet	100 feet	150 feet
+Streams and other bodies of water	50 feet	50 feet	100 feet7	150 feet7
+Trees	-	10 feet	-	10 feet
+Seepage pits or cesspools8	-	5 feet	5 feet	12 feet
+Disposal field8	-	5 feet	4 feet4	5 feet
+On-site domestic water service line	1 foot5	5 feet	5 feet	5 feet
+Distribution box	-	-	5 feet	5 feet
+Pressure public water main	10 feet6	10 feet	10 feet	10 feet
+
+H101.9 Building Permit
+H101.10 Additional Requirements
+H101.11 Alternate Systems
+H201.0 Capacity of Septic Tanks
+H201.1 General
+SINGLE-FAMILY DWELLINGS-NUMBER OF BEDROOMS	MULTIPLE DWELLING UNITS OR APARTMENTS - ONE BEDROOM EACH	OTHER USES: MAXIMUM FIXTURE UNITS SERVED PER TABLE 702.1	MINIMUM SEPTIC TANK CAPACITY (gallons)
+1 or 2	-	15	750
+3	-	20	1000
+4	2 units	25	1200
+5 or 6	3	33	1500
+-	4	45	2000
+-	5	55	2250
+-	6	60	2500
+-	7	70	2750
+-	8	80	3000
+-	9	90	3250
+-	10	100	3500
+
+TYPE OF SOIL	REQUIRED SQUARE FEET OF LEACHING AREA PER 100 GALLONS	MAXIMUM ABSORPTION CAPACITY IN GALLONS PER SQUARE FEET OF LEACHING AREA FOR A 24 HOUR PERIOD
+Coarse sand or gravel	20	5.0
+Fine sand	25	4.0
+Sandy loam or sandy clay	40	2.5
+Clay with considerable sand or gravel	90	1.1
+Clay with small amount of sand or gravel	120	0.8
+
+REQUIRED SQUARE FEET OF LEACHING AREA PER 100 GALLONS SEPTIC TANK CAPACITY (square feet per 100 gallons)	MAXIMUM SEPTIC TANK SIZE ALLOWABLE(gallons)
+20—25	7500
+40	5000
+90	3500
+120	3000
+
+TYPE OF OCCUPANCY	GALLONS PER DAY
+Airports (per employee)	15
+Airports (per passenger)	5
+Auto washers - check with equipment manufacturer	-
+Bowling alleys -with snack bar only (per lane)	75
+Campground - with central comfort station (per person)	35
+Campground - with flush toilets - no showers (per person)	25
+Camps (day)- no meals served (per person)	15
+Camps (summer and seasonal camps)-(per person)	50
+Churches - sanctuary (per seat)	5
+Churches - with kitchen waste (per seat)	7
+Dance halls - (per person)	5
+Factories - no showers (per employee)	25
+Factories - with showers (per employee)	35
+Factories - with cafeteria (per employee)	5
+Hospitals - (per bed)	250
+Hospitals - kitchen waste only (per bed)	25
+Hospitals - laundry waste only (per bed)	40
+Hotels - no kitchen waste (per bed)	60
+Institutions - resident (per person)	75
+Nursing home - (per person)	125
+Rest home - (per person)	125
+Laundries - self-service with minimum 10 hours per day (per wash cycle)	50
+Laundries - commercial check with manufacturer's specification	-
+Motel (per bed space)	50
+Motel-with kitchen (per bed space)	60
+Offices - (per employee)	20
+Parks - mobile homes (per space)	250
+Parks (picnic) - with toilets only (per parking space)	20
+Parks (recreational vehicles)- without water hook-up (per space)	75
+Parks (recreational vehicles)- with water and sewer hook-up (per space)	100
+Restaurants - cafeteria (per employee)	20
+Restaurants - with toilet waste (per customer)	7
+Restaurants - with kitchen waste (per meal)	6
+Restaurants - with kitchen waste disposable service (per meal)	2
+Restaurants - with garbage disposal (per meal)	1
+Restaurants - with cocktail lounge (per customer)	2
+Schools staff and office (per person)	20
+Schools - elementary (per student)	15
+Schools - intermediate and high (per student)	20
+Schools - with gym and showers (per student)	5
+Schools - with cafeteria (per student)	3
+Schools (boarding) - total waste (per person)	100
+Service station - with toilets for 1st bay	1000
+Service station - with toilets for each additional bay	500
+Stores - (per employee)	20
+Stores - with public restrooms (per 10 square feet of floor space)	1
+Swimming pools - public (per person)	10
+Theaters - auditoriums (per seat)	5
+Theaters - with drive-in (per space)	10
+
+H301.0 Area of Disposal Fields and Seepage Pits
+H301.1 General
+H401.0 Percolation Test
+H401.1 Pit Sizes
+H401.2 Absorption Qualities
+H401.3 Absorption Rates
+H501.0 Septic Tank Construction
+H501.1 Plans
+H501.2 Design
+H501.3 Construction
+H501.4 Compartments
+H501.5 Access
+H501.6 Pipe Opening Sizes
+H501.7 Pipe Extension
+H501.8 Free Vent Area
+H501.9 Sidewalls
+H501.10 Partitions and Baffles
+H501.11 Structural Design
+H501.12 Manholes
+H501.13 Materials
+H501.14 Prefabricated Septic Tanks
+H601.0 Disposal Fields
+H601.1 Distribution Lines
+H601.2 Filter Material
+H601.3 Grade Board
+H601.4 Seepage Pits
+H601.5 Distribution Boxes
+H601.6 Laterals
+H601.7 Connections
+H601.8 Dosing Tanks
+H601.9 Construction
+ELEMENT	MINIMUM	MAXIMUM
+Number of drain lines per field	1	-
+Length of each line	-	100 feet
+Bottom width of trench	18 inches	36 inches
+Spacing of lines, center-to-center	6 feet	-
+Depth of earth cover of lines (preferred 18 inches)	12 inches	-
+Grade of lines	level	3 inches per 100 feet
+Filter material under drain lines	12 inches	-
+Filter material over drain lines	2 inches	-
+
+H601.10 Joints
+H701.0 Seepage Pits
+H701.1 Capacity
+H701.2 Multiple Installations
+H701.3 Construction
+H701.4 Lining
+H701.5 Brick and Block
+H701.6 Sidewall
+H701.7 Arch and Dome
+H701.8 Location
+H701.9 Inlet Fitting
+H801.0 Cesspools
+H801.1 Limitations
+H801.2 Septic Tanks
+H801.3 Construction
+H801.4 Existing Installations
+H901.0 Commercial or Industrial Special Liquid-Waste Disposal
+H901.1 Interceptor
+H901.2 Installation
+H901.3 Sampling Box
+H901.4 Design and Structural Requirement
+H901.5 Location
+H901.6 Waste Discharge
+H901.7 Design Criteria
+	GREASE AND GARBAGE, COMMERCIAL KITCHENS
+Number of mealsper peak hour	x	Waste flow rate1	x	Retention time2	x	Storage factor3	=	Interceptor size(liquid capacity)
+	SAND-SILT OIL, AUTO WASHERS
+Number of vehiclesper hour	x	Waste flow rate1	x	Retention time2	x	Storage factor3	=	Interceptor size(liquid capacity)
+	SILT-LINT GREASE, LAUNDRIES, LAUNDROMATS
+Number of machines	x	2 cycles per hour	x	Waste flow rate1	x	Retention time2	=	Storage factor3	=	Interceptor size(liquid capacity)
+
+H1001.0 Inspection and Testing
+H1001.1 Inspection
+H1001.2 Testing
+H1101.0 Abandoned Sewers and Sewage Disposal Facilities
+H1101.1 Plugged and Capped
+H1101.2 Fill Material
+H1101.3 Filling Requirements
+H1101.4 Owner
+H1101.5 Permittee
+H1201.0 Drawings and Specifications
+H1201.1 General

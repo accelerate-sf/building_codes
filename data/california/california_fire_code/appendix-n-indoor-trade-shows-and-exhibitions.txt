@@ -1,0 +1,280 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX N – INDOOR TRADE SHOWS AND EXHIBITIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX N INDOOR TRADE SHOWS AND EXHIBITIONS
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix N was created to address the hazards that are associated with larger, more complex trade shows and exhibitions. Although many of these requirements are already included in various locations in this code, some of the more important items, such as requirements for covered booths and multiple-level booths, are not. The intent is to have the requirements covering these events in a single location with pointers to other locations within this code, which makes it easier for those organizing exhibitions and individual exhibitors who are unfamiliar with the fire code to locate the requirements that are applicable to them.
+
+SECTION N101 GENERAL
+
+N101.1 Scope.
+
+Indoor trade shows and exhibitions with temporary vendor displays or booths within any indoor occupancy classification shall be in accordance with this appendix and all other applicable requirements of this code.
+
+Compliance with this appendix is not required where Section N101.1.1 or N101.1.2 is applicable.
+
+N101.1.1 Nonsprinklered buildings.
+
+In a building that is not equipped throughout with an automatic sprinkler system, the aggregate exhibit area must be less than 1,500 square feet (139 m2) of floor area and meet both of the following conditions:
+
+1.The exhibit area does not include any covered or multiple-level exhibits or booths.
+
+2.Not fewer than two remote exits or exit access doors in compliance with Chapter 10 are provided.
+
+N101.1.2 Sprinklered buildings.
+
+In a building that is equipped throughout with an automatic sprinkler system with a minimum design density of ordinary hazard Group 1, the aggregate exhibit area must be less than 4,500 square feet (418 m2) of floor area and meet both of the following conditions:
+
+1.The exhibit area does not include any covered or multiple-level exhibits or booths.
+
+2.Not fewer than two remote exits or exit access doors in compliance with Chapter 10 are provided.
+
+N101.2 Permit required.
+
+An operational permit for trade shows and exhibitions shall be required as set forth in Section 105.5.15.
+
+N101.3 Application.
+
+A permit application for a trade show or exhibition shall be submitted to the fire code official prior to the start of the event in a time frame established by the jurisdiction. The application shall include documentation that identifies all of the following:
+
+1.The means of egress.
+
+2.The locations and widths of exits and aisles.
+
+3.The locations of exit signs.
+
+4.The total square footage (square meters) of spaces.
+
+5.The location and arrangement of all booths and cooking equipment.
+
+6.The location of all fire protection equipment.
+
+7.The type and location of any heating and electrical equipment, where applicable.
+
+8.The location of any covered or multiple-level booths.
+
+9.Construction documents for any covered or multiplelevel booths.
+
+10.The storage locations and quantities of any highly combustible goods.
+
+11.The location and type of any vehicle displays, where applicable.
+
+SECTION N102 DEFINITIONS
+
+N102.1 Definitions.
+
+For the purpose of this appendix, certain terms are defined as follows:
+
+COOKING. Heating food products to a temperature of 145°F (63°C) or higher by baking, braising, boiling, frying or grilling.
+
+COVERED BOOTH. An exhibit that has an obstruction placed over the exhibit above floor level that resembles a roof, canopy, tent or other obstruction, other than vertical signs or banners.
+
+MULTIPLE-LEVEL BOOTH. An exhibit that has a second level or tier constructed on top of the exhibit or portion of the exhibit that is accessible to the public, or includes a live load above the exhibit area floor level.
+
+SECTION N103 PUBLIC SAFETY FOR EVENTS
+
+N103.1 Fire safety and evacuation plan.
+
+A fire safety and evacuation plan shall be provided in accordance with Section 404.2.
+
+Exception: Where the fire code official determines that the nature of the exhibition, display or the activities therein does not pose an increased hazard to public safety.
+
+N103.2 Fire watch personnel.
+
+Where, in the opinion of the fire code official, it is essential for public safety in a trade show or exhibition, either because of the number or persons present or because of the nature of the performance, exhibition, display or activity, the owner or owner’s authorized agent shall provide one or more fire watch personnel in accordance with Section 403.11.1.
+
+N103.3 Crowd managers.
+
+Where events involve a gathering of more than 1,000 people, trained crowd managers shall be provided in accordance with Section 403.11.3.
+
+SECTION N104 INTERIOR FINISH AND DECORATIVE MATERIALS
+
+N104.1 General.
+
+Interior finish, interior trim, furniture, furnishings and decorative materials, including decorative vegetation, used in exhibition areas shall comply with the requirements of this section and Chapter 8.
+
+N104.2 Interior wall and ceiling finish.
+
+The materials used for interior wall and ceiling finish of exhibit booths and displays in exhibition areas shall comply with one of the following:
+
+1.Where the building is not equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, the wall and ceiling finish materials are required to be Class A in accordance with Section 803.
+
+2.Where the building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, the wall and ceiling finish materials are required to be not less than Class B in accordance with Section 803.
+
+SECTION N105 MULTIPLE-LEVEL BOOTHS
+
+N105.1 Construction documents.
+
+Construction documents for all multiple-level booths shall be stamped by a registered design professional and shall be submitted with the permit application to the fire code official or the building code official, as appropriate.
+
+N105.2 Structural design.
+
+Multiple-level booths shall be designed and constructed in accordance with Chapter 16 of the California Building Code.
+
+N105.3 Means of egress.
+
+Upper levels of multiple-level booths with an occupant load greater than 10 persons shall have not fewer than two exits or exit access that are separated in accordance with Section 1007.1.1.
+
+N105.4 Automatic sprinkler systems.
+
+An approved automatic sprinkler system in accordance with Section 903.3.1.1 shall be provided in multiple-level booths exceeding 400 square feet (37.2 m2) in floor area per level.
+
+N105.5 Inspection.
+
+Inspection to verify that multiple-level booths are constructed in accordance with the construction documents and structural design details required by this section shall be approved by the building code official.
+
+N105.6 Fire alarm and detection.
+
+Each multiple-level booth with a floor area exceeding 120 square feet (11.1 m2) on any level shall be provided with an approved fire alarm system in accordance with Section 907.2.
+
+SECTION N106 COVERED BOOTHS
+
+N106.1 Automatic sprinkler systems.
+
+An approved automatic sprinkler system in accordance with Section 903.3.1.1 of this code shall be provided in covered booths exceeding 100 square feet (9.3 m2) in floor area per level.
+
+N106.2 Fire alarm and detection.
+
+Each covered booth with a floor area exceeding 120 square feet (11.1 m2) on any level shall be provided with an approved fire alarm system in accordance with Section 907.2.
+
+SECTION N107 DISPLAY AND STORAGE OF HAZARDOUS AND COMBUSTIBLE MATERIALS
+
+N107.1 Hazardous materials.
+
+The display of hazardous materials shall comply with Section 314 and Chapters 50 through 67. The storage of hazardous materials in indoor trade shows and exhibition areas shall be prohibited.
+
+N107.1.1 Display near exit.
+
+The display of hazardous materials within 5 feet (1524 mm) of an exit shall be prohibited.
+
+N107.2 Storage of combustible materials.
+
+Storage of combustible materials shall comply with Section 315.
+
+N107.3 Vehicles.
+
+The display of liquid- or gas-fueled vehicles, boats or other motor craft in indoor trade shows and exhibition areas shall comply with Sections 314.4 and N107.3.1 through N107.3.3.
+
+N107.3.1 Batteries in vehicles.
+
+Vehicle batteries shall be rendered inoperable. Batteries in liquid- and gas-fueled vehicles shall be disconnected. Batteries in electric vehicles shall be rendered inoperable by the removal of fuses or other approved methods but shall not be required to be disconnected.
+
+N107.3.2 Vehicle fuel.
+
+Vehicle fuel shall comply with Sections N107.3.2.1 through N107.3.2.4.
+
+N107.3.2.1 Fueling within the structure.
+
+Vehicles shall not be fueled or defueled within the structure.
+
+N107.3.2.2 Vehicle fuel tanks.
+
+Vehicle fuel tanks shall contain not more than one quarter of the tank capacity or 5 gallons (18.93 L) of fuel, whichever is less.
+
+N107.3.2.3 Vehicle fuel systems.
+
+Vehicle fuel systems shall be inspected for leaks prior to the vehicle being brought into the structure.
+
+N107.3.2.4 Vehicle fuel tank openings.
+
+Vehicle fuel tank openings shall be locked and sealed to prevent the escape of vapors.
+
+N107.3.3 Obstruction by vehicles.
+
+Vehicles shall not be located in such a manner that they obstruct a means of egress.
+
+N107.3.4 Gas-powered vehicles.
+
+Compressed natural gas (CNG), liquefied petroleum gas (LPG) or hydrogen-powered vehicles present in indoor trade shows and exhibition areas shall comply with Sections N107.3.4.1 through N107.3.4.3.
+
+N107.3.4.1 Shutoff valves.
+
+Shutoff valves shall be closed and the engine shall be operated until it stops. Valves shall remain closed until the vehicle is removed.
+
+N107.3.4.2 Battery hot lead.
+
+The hot lead of the battery shall be disconnected.
+
+N107.3.4.3 Dual-fuel vehicles equipped to operate on gasoline.
+
+Dual-fuel vehicles equipped to operate on gasoline as well as on CNG, LPG or hydrogen shall comply with Section 3107.15.
+
+N107.3.5 Competitions or demonstrations.
+
+Competitions or demonstrations using any type of vehicle shall comply with Section 3107.15.5.
+
+N107.4 Fueled equipment other than vehicles.
+
+Fueled equipment other than vehicles shall comply with Section 313.
+
+N107.5 LP-gas containers.
+
+Liquefied petroleum (LP) gas containers shall comply with Sections N107.5.1 through N107.5.5 and Chapter 61.
+
+N107.5.1 LP-gas containers exceeding 12 pounds (5 kg) of water capacity.
+
+The use of LP-gas containers exceeding 12 pounds (5 kg) of water capacity shall be prohibited.
+
+N107.5.2 Where more than one LP-gas container is present in the same area.
+
+Where more than one LP-gas container is present in the same area, cylinders shall be separated from each other by a minimum of 20 feet (6096 mm).
+
+N107.5.3 Equipment for LP-gas containers.
+
+Equipment for LP-gas containers, including tanks, piping, hoses, fittings, valves, tubing and other related components, shall be approved and shall comply with Chapter 61 and with the applicable requirements of the International Fuel Gas Code.
+
+N107.5.4 Securing of LP-gas containers.
+
+Portable LPgas containers shall be securely fastened in place to prevent unauthorized movement.
+
+N107.5.5 Spare LP-gas containers.
+
+Spare LP-gas containers not connected to an approved appliance shall be stored in a location and manner approved by the fire code official.
+
+N107.6 Cooking and open-flame devices.
+
+All cooking equipment and any open-flame devices shall comply with the requirements of Section 308 of this code and with Chapter 5 of the California Mechanical Code. Cooking equipment shall be separated from combustible material display or storage by a horizontal distance of not less than 5 feet (1524 mm).
+
+SECTION N108 MEANS OF EGRESS
+
+N108.1 Means of egress from the indoor trade show or exhibition area.
+
+Means of egress from the indoor trade show or exhibition area shall comply with Chapter 10 and with Sections N108.2 and N108.3.
+
+N108.2 Design of means of egress.
+
+The design of means of egress shall take into consideration the exhibit layout and the anticipated crowd movement during the event.
+
+N108.3 Aisles and corridors.
+
+Aisles and corridors within the exhibit area shall be kept free from obstructions when the public is present. Storage of any kind in aisles or corridors within the exhibit area is not permitted.
+
+SECTION N109 REFERENCED STANDARDS
+
+N109.1 General.
+
+See Table N109.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE N109.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+CBC —22	California Building Code	N105.2
+IFGC—21	International Fuel Gas Code	N107.5.3
+CMC—22	California Mechanical Code	N107.6

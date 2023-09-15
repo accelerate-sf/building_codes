@@ -1,0 +1,91 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE CHAPTER 20 – ALUMINUM
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter	X			X	X								X										
+Adopt entire chapter as amended (amended sections listed below)								X	X	X	X	X		X	X								
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+2001.1.1								X	X	X	X	X		X	X								
+2001.1.2								X	X	X	X	X		X	X								
+2002								X	X	X	X	X		X	X								
+2003								X	X	X	X	X		X	X								The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 20 ALUMINUM
+
+User notes:
+
+About this chapter: Chapter 20 contains standards for the use of aluminum in building construction. Only the structural applications of aluminum are addressed so it would not apply to the use of aluminum in specialty products such as storefront or window framing or architectural hardware. The use of aluminum in heating, ventilating or air-conditioning systems is addressed in the California Mechanical Code®. This chapter references national standards from the Aluminum Association for use of aluminum in building construction, AA ASM 35, Aluminum Sheet Metal Work in Building Construction, and AA ADM, Aluminum Design Manual.
+
+Code development reminder: Code change proposals to this chapter will be considered by the IBC—Structural Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION 2001 GENERAL
+
+2001.1 Scope.
+
+This chapter shall govern the quality, design, fabrication and erection of aluminum.
+
+2001.1.1 Application.
+
+[DSA-SS, DSA-SS/CC, OSHPD] The scope of application of Chapter 20 is as follows:
+
+1.Applications listed in Sections 1.10.1, 1.10.2, 1.10.4 and 1.10.5 regulated by the Office of Statewide Health Planning and Development (OSHPD). These applications include hospitals, hospital buildings removed from general acute care service, skilled nursing facility buildings, intermediate care facility buildings, correctional treatment centers and acute psychiatric hospital buildings.
+
+2.Structures regulated by the Division of the State Architect—Structural Safety, which include those applications listed in Section 1.9.2.1 [DSA-SS] and 1.9.2.2 [DSA-SS/CC]. These applications include public elementary and secondary schools, community colleges and state-owned or state-leased essential services buildings.
+
+2001.1.2 Amendments in this chapter.
+
+[DSA-SS, DSA-SS/CC, OSHPD] DSA-SS, DSA-SS/CC and OSHPD adopt this chapter and all amendments.
+
+Exception: Amendments adopted by only one agency appear in this chapter preceded with the appropriate acronym of the adopting agency, as follows:
+
+1.[OSHPD 1, 1R, 2, 4 & 5] Office of Statewide Health Planning and Development (OSHPD) amendments appear in this chapter preceded with the appropriate acronym, as follows:
+
+[OSHPD 1] - For applications listed in Section 1.10.1.
+
+[OSHPD 1R] - For applications listed in Section 1.10.1.
+
+[OSHPD 2] - For applications listed in Section 1.10.2.
+
+[OSHPD 4] - For applications listed in Section 1.10.4.
+
+[OSHPD 5] - For applications listed in Section 1.10.5.
+[OSHPD 1] - For applications listed in Section 1.10.1.
+
+[OSHPD 1R] - For applications listed in Section 1.10.1.
+
+[OSHPD 2] - For applications listed in Section 1.10.2.
+
+[OSHPD 4] - For applications listed in Section 1.10.4.
+
+[OSHPD 5] - For applications listed in Section 1.10.5.
+
+2.Division of the State Architect - Structural Safety:
+
+[DSA-SS] - For applications listed in Section 1.9.2.1.
+
+[DSA-SS/CC] - For applications listed in Section 1.9.2.2.
+[DSA-SS] - For applications listed in Section 1.9.2.1.
+
+[DSA-SS/CC] - For applications listed in Section 1.9.2.2.
+
+SECTION 2002 MATERIALS
+
+2002.1 General.
+
+Aluminum used for structural purposes in buildings and structures shall comply with AA ASM 35 and AA ADM. The nominal loads shall be the minimum design loads required by Chapter 16.
+
+Exception: [DSA – SS] The reference to Chapter 16 shall be to Chapter 16A.
+
+SECTION 2003 TESTING AND INSPECTION
+
+2003.1 Testing and Inspection.
+
+[DSA-SS, DSA-SS/CC, OSHPD 1 & 4] Testing and inspection of aluminum shall be required in accordance with the requirements for steel in Chapter 17A, except references to AWS D1.1 shall be to AWS D1.2.
+
+[OSHPD 1R, 2 & 5] Testing and inspection of aluminum shall be required in accordance with the requirements for steel in Chapter 17, except references to AWS D1.1 shall be to AWS D1.2.
+

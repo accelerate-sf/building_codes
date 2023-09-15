@@ -1,0 +1,656 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLEAPPENDIX CCHAPTER C1 – GABLE END RETROFIT FOR HIGH-WIND AREAS
+
+Not adopted by the State of California(May be available for adoption by local ordinance. See Section 1.1.11.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD		BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																						The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+APPENDIX C: GUIDELINES FOR THE WIND RETROFIT OF EXISTING BUILDINGS
+
+CHAPTER C1 GABLE END RETROFIT FOR HIGH-WIND AREAS
+
+User note:
+
+About this appendix: Appendix C is intended to provide guidance for retrofitting existing structures to strengthen their resistance to wind forces. This appendix is similar in scope to Appendix A, which addresses seismic retrofits for existing buildings, except that the subject matter is related to wind retrofits. These retrofits are voluntary measures that serve to better protect the public and reduce damage from high-wind events for existing buildings.
+
+The purpose of this appendix is to provide prescriptive alternatives for addressing retrofit of buildings in high-wind areas. Currently there are two chapters that deal with the retrofit of gable ends and the fastening of roof decks, Appendix Chapters C1 and C2, respectively.
+
+SECTION C101 GENERAL
+
+[BS] C101.1 Purpose
+
+This chapter provides prescriptive methods for partial structural retrofit of an existing building to increase its resistance to out-of-plane wind loads. It is intended for voluntary use and for reference by mitigation programs. The provisions of this chapter do not necessarily satisfy requirements for new construction. Unless specifically cited, the provisions of this chapter do not necessarily satisfy requirements for structural improvements triggered by addition, alteration, repair, change of occupancy, building relocation or other circumstances.
+
+[BS] C101.2 Eligible buildings and gable end walls
+
+The provisions of this chapter are applicable only to buildings that meet the following eligibility requirements:
+
+1.The building is not more than three stories tall, from adjacent grade to the bottom plate of each gable end wall being retrofitted with this chapter.
+
+2.The building is classified as Occupancy Group R3 or is within the scope of the California Residential Code.
+
+3.The structure includes one or more wood-framed gable end walls, either conventionally framed or metal-plate-connected.
+
+In addition, the provisions of this chapter are applicable only to gable end walls that meet the following eligibility requirements:
+
+4.Each gable end wall has or shall be provided with studs or vertical webs spaced 24 inches (610 mm) on center maximum.
+
+5.Each gable end wall has a maximum height of 16 feet (4877 mm).
+
+[BS] C101.3 Compliance
+
+Eligible gable end walls in eligible buildings may be retrofitted in accordance with this chapter. Other modifications required for compliance with this chapter shall be designed and constructed in accordance with the California Building Code or California Residential Code provisions for new construction, except as specifically provided for by this chapter.
+
+SECTION C102 DEFINITIONS
+
+[BS] C102.1 Definitions.
+
+The following words and terms shall, for the purposes of this chapter, have the meanings shown herein.
+
+[BS] ANCHOR BLOCK. A piece of lumber secured to horizontal braces and filling the gap between existing framing members for the purpose of restraining horizontal braces from movement perpendicular to the framing members.
+
+[BS] COMPRESSION BLOCK. A piece of lumber used to restrain in the compression mode (force directed toward the interior of the attic) an existing or retrofit stud. It is attached to a horizontal brace and bears directly against the existing or retrofit stud.
+
+[BS] CONVENTIONALLY FRAMED GABLE END. A gable end framed with studs whose faces are perpendicular to the gable end wall.
+
+[BS] GABLE END FRAME. A factory or site-fabricated frame, installed as a complete assembly that incorporates vertical webs with their faces parallel to the plane of the frame.
+
+[BS] HORIZONTAL BRACE. A piece of lumber used to restrain both compression and tension loads applied by a retrofit stud. It is typically installed horizontally on the top of attic floor framing members (truss bottom chords or ceiling joists) or on the bottom of pitched roof framing members (truss top chord or rafters).
+
+[BS] HURRICANE TIES. Manufactured metal connectors designed to provide uplift and lateral restraint for roof framing members.
+
+[BS] NAIL PLATE. A manufactured metal plate made of galvanized steel with factory-punched holes for fasteners. A nail plate may have the geometry of a strap.
+
+[BS] RETROFIT. The voluntary process of strengthening or improving buildings or structures, or individual components of buildings or structures for the purpose of making existing conditions better serve the purpose for which they were originally intended or the purpose that current building codes intend.
+
+[BS] RETROFIT STUD. A lumber member used to structurally supplement an existing gable end wall stud or gable end frame web.
+
+[BS] STUD-TO-PLATE CONNECTOR. A manufactured metal connector designed to connect studs to plates.
+
+SECTION C103 MATERIALS OF CONSTRUCTION
+
+[BS] C103.1 Existing materials
+
+Existing wood materials that will be part of the retrofitting work (such as trusses, rafters, ceiling joists, top plates and wall studs) shall be in sound condition and free from defects or damage that substantially reduces the load-carrying capacity of the member. Any wood materials found to be damaged or deteriorated shall be strengthened or replaced with new materials to provide a net dimension of sound wood equivalent to its undamaged original dimensions.
+
+[BS] C103.2 New materials
+
+All new materials shall comply with the standards for those materials as specified in the California Building Code or the California Residential Code.
+
+[BS] C103.3 Material specifications for retrofits
+
+Materials for retrofitting gable end walls shall comply with Table C103.3.
+
+[BS] TABLE C103.3
+
+MATERIAL SPECIFICATIONS FOR RETROFITSa
+
+COMPONENT	MINIMUM SIZE OR THICKNESS	MINIMUM MATERIAL GRADE	MINIMUM CAPACITY
+Anchor blocks, compression blocks and horizontal braces	2 × 4 nominal lumber	#2 Spruce-Pine-Fir or better	NA
+Nail plates	20 gage thickness 8d minimum nail holes	Galvanized sheet steel	NA
+Retrofit studs	2 × 4 nominal lumber	#2 Spruce-Pine-Fir or better	NA
+Gusset angle	14 gage thickness	Galvanized sheet steel	350 pounds uplift and lateral load
+Stud-to-plate connector	20 gage thickness	Galvanized sheet steel	500 pounds uplift
+Metal plate connectors, straps and anchors	20 gage thickness	Galvanized sheet steel	NAFor SI: 1 pound = 4.4 N.
+
+NA = Not Applicable.
+
+a.Metal plate connectors, nail plates, stud-to-plate connectors, straps and anchors shall be products approved for connecting wood-to-wood or wood-to-concrete as appropriate.
+
+[BS] C103.4 Twists in straps
+
+Straps shall be permitted to be twisted or bent where they transition between framing members or connection points. Straps shall be bent only once at a given location though it is permissible that they be bent or twisted at multiple locations along their length.
+
+[BS] C103.5 Fasteners
+
+Fasteners shall meet the requirements of Table C103.5, Sections C103.5.1 and C103.5.2, and shall be permitted to be screws or nails meeting the minimum length requirement shown in the figures and specified in the tables of this appendix. Fastener spacing shall meet the requirements of Section C103.5.3.
+
+[BS] TABLE C103.5
+
+NAIL AND SCREW REQUIREMENTS
+
+FASTENER TYPE	MINIMUM SHANK DIAMETER	MINIMUM HEAD DIAMETER	MINIMUM FASTENER LENGTH
+#8 screws	NA	0.28 inches	11/4 inches
+8d common nails	0.131 inches	0.28 inches	21/2 inches
+10d common nails	0.148 inches	0.28 inches	3 inchesFor SI: 1 inch = 25.4 mm.
+
+NA = Not Applicable.
+
+[BS] C103.5.1 Screws
+
+Unless otherwise indicated in the appendix, screw sizes and lengths shall be in accordance with Table C103.5. Permissible screws include deck screws and wood screws. Screws shall have not less than 1 inch (25 mm) of thread. Fine threaded screws or drywall screws shall not be permitted. Select the largest possible diameter screw such that the shank adjacent to the head fits through the hole in the strap.
+
+[BS] C103.5.2 Nails
+
+Unless otherwise indicated in this appendix, nail sizes and lengths shall be in accordance with Table C103.5.
+
+[BS] C103.5.3 General fastener spacing
+
+Fastener spacing for shear connections of lumber-to-lumber shall meet the requirements shown in Figure C103.5.3 and the following conditions.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C103.5.3
+
+FASTENER SPACINGS FOR LUMBER-TO-LUMBER CONNECTIONS OPERATING IN SHEAR PARALLEL TO GRAIN
+
+[BS] C103.5.3.1 General fastener spacing
+
+Fastener spacing shall meet the following conditions except as provided for in Section C103.5.3.
+
+The distance between fasteners and the edge of lumber that is less than 31/2 inches deep (89 mm) in the direction of the fastener length shall be not less than 3/4 inch (19.1 mm).
+
+1.The distance between fasteners and the edge of lumber that is more than 2 inches (51 mm) thick in the direction of the fastener length shall be not less than 1/2 inch (12.7 mm).
+
+2.The distance between a fastener and the end of lumber shall be not less than 21/2 inches (64 mm).
+
+3.The distance between fasteners parallel to the grain (center-to-center) shall be not less than 21/2 inches (64 mm).
+
+4.The distance between fasteners perpendicular to the grain (center-to-center) in lumber that is less than 31/2 inches (89 mm) deep in the direction of the fastener length shall be 1 inch (25 mm).
+
+5.The distance between fasteners perpendicular to the grain (center-to-center) in lumber that is more than 2 inches (51 mm) thick in the direction of the fastener length shall be 1/2 inch (12.7 mm).
+
+[BS] C103.5.3.2 Wood-to-wood connections of two members each 2 inches or less in thickness
+
+Wood-to-wood connections fastener spacing shall meet the following conditions.
+
+1.The distance between fasteners parallel to grain (center-to-center) shall be not less than 21/2 inches (64 mm).
+
+2.The distance between fasteners across grain (center-to-center) shall be not less than 1 inch (25 mm).
+
+3.For wood-to-wood connections of lumber at right angles, fasteners shall be spaced not less than 21/2 inches (64 mm) parallel to the grain and 1 inch (25 mm) perpendicular to the grain in any direction.
+
+[BS] C103.5.3.3 Metal connectors for wood-to-wood connections
+
+Metal connectors for wood-to-wood connections shall meet the following conditions.
+
+1.Fastener spacing to edge or ends of lumber shall be as dictated by the prefabricated holes in the connectors and the connectors shall be installed in a configuration that is similar to that shown by the connector manufacturer.
+
+2.Fasteners in 11/4-inch-wide (32 mm) metal straps that are installed on the narrow face of lumber shall be a minimum 1/4 inch (6.4 mm) from either edge of the lumber. Consistent with Section C103.5.3.1, fasteners shall be permitted to be spaced according to the fastener holes fabricated into the strap.
+
+3.Fasteners in metal nail plates shall be spaced not less than 1/2 inch (12.7 mm) perpendicular to grain and not less than 11/2 inches (38 mm) parallel to grain.
+
+SECTION C104 RETROFITTING GABLE END WALLS TO ENHANCE WIND RESISTANCE
+
+[BS] C104.1 General
+
+These prescriptive methods of retrofitting are intended to increase the resistance of existing gable end construction for out-of-plane wind loads resulting from high-wind events. The ceiling diaphragm shall be comprised of minimum 1/2-inch-thick (12.7 mm) gypsum board, minimum nominal 3/8-inch-thick (9.5 mm) wood structural panels, or plaster. An overview isometric drawing of one type of gable end retrofit to improve wind resistance is shown in Figure C104.1.
+
+[BS] FIGURE C104.1
+
+BASIC GABLE END RETROFIT METHODOLOGY
+
+[BS] C104.2 Horizontal braces
+
+Horizontal braces shall be installed perpendicular to the roof and ceiling framing members at the location of each existing gable end stud greater than 3 feet (91 cm) in length. Unless it is adjacent to an omitted horizontal brace location, horizontal braces shall be minimum 2-inch by 4-inch (38 mm by 89 mm) dimensional lumber as defined in Section C103.3. A single horizontal brace is required at the top and bottom of each gable end stud for Retrofit Configuration A, B, or C. Two horizontal braces are required at the top and bottom of each gable end stud for Retrofit Configuration D. Maximum heights of gable end wall studs and associated retrofit studs for each Retrofit Configuration shall not exceed the values listed in Table C104.2. Horizontal braces shall be oriented with their wide faces across the roof or ceiling framing members, be fastened to not fewer than three framing members, and extend not less than 6 feet (183 cm) measured perpendicularly from the gable end plus 21/2 inches (64 mm) beyond the last top chord or bottom chord member (rafter or ceiling joist) from the gable end as shown in Figures C104.2(1), C104.2(2), C104.2(3) and C104.2(4).
+
+[BS] TABLE C104.2
+
+STUD LENGTH LIMITATIONS BASED ON EXPOSURE AND DESIGN WIND SPEED
+
+EXPOSURE CATEGORY	MAXIMUM 3-SEC GUST BASIC WIND SPEEDa	MAXIMUM HEIGHT OF GABLE END RETROFIT STUDb
+C	140	8′-0″	11′-3″	14′-9″	16′-0″
+C	150	7′-6″	10′-6″	13′-6″	16′-0″
+C	165	7′-0″	10′-0″	12′-3″	16′-0″
+C	180	7′-0″	10′-0″	12′-3″	16′-0″
+C	190	6′-6″	8′-9″	11′-0″	16′-0″
+B	140	8′-0″	12′-3″	16′-0″	NRc
+B	150	8′-0″	11′-3″	14′-9″	16′-0″
+B	165	8′-0″	11′-3″	14′-9″	16′-0″
+B	180	7′-6″	10′-6″	13′-6″	16′-0″
+B	190	7′-0″	10′-0″	12′-3″	16′-0″
+	Retrofit Configuration	A	B	C	DFor SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+NR = Not Required.
+
+a.Interpolation between given wind speeds is not permitted.
+
+b.Existing gable end studs less than or equal to 3 feet 0 inches in height shall not require retrofitting.
+
+c.Configuration C is acceptable to 16 feet 0 inches maximum height.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2(1)
+
+TRUSS FRAMED GABLE END
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2(2)
+
+CONVENTIONALLY FRAMED GABLE END L-BENT STRAP
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2(3)
+
+TRUSS FRAMED GABLE END U-BENT STRAP
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2(4)
+
+CONVENTIONALLY FRAMED GABLE END U-BENT STRAP
+
+[BS] C104.2.1 Existing gable end studs
+
+If the spacing of existing vertical gable end studs is greater than 24 inches (64 mm), a new stud and corresponding horizontal braces shall be installed such that the maximum spacing between existing and added studs shall be not greater than 24 inches (64 mm). Additional gable end wall studs shall not be required at locations where their length would be 3 feet (914 mm) or less. Each end of each required new stud shall be attached to the existing roofing framing members (truss top chord or rafter and truss bottom chord or ceiling joist) using not fewer than two 3-inch (76 mm) toenail fasteners (#8 wood screws or 10d nails) and a metal connector with minimum uplift capacity of 175 pounds (778 N), or nail plates with not fewer than four 11/4-inch-long (32 mm) fasteners (No. 8 wood screws or 8d nails).
+
+[BS] C104.2.2 Main method of installation
+
+Each horizontal brace shall be fastened to each existing roof or ceiling member that it crosses using three 3-inch-long (76 mm) fasteners (No. 8 wood screws or 10d nails) as indicated in Figure C104.2(1) and Figure C104.2(3) for trusses and Figure C104.2(2) and Figure C104.2(4) for conventionally framed gable end walls. Alternative methods for providing horizontal bracing of the gable end studs as provided in Sections C104.2.3 through C104.2.9 shall be permitted.
+
+[BS] C104.2.3 Omitted horizontal brace
+
+Where conditions exist that prevent installation in accordance with Section C104.2.2, horizontal braces shall be permitted to be omitted for height limitations corresponding to Retrofit Configurations A and B as defined in Table C104.2 provided that installation is as indicated in Figure C104.2.3 and provided that all of the following conditions are met. This method is not permitted for Retrofit Configurations C or D.
+
+1.There shall be not fewer than two horizontal braces on each side of an omitted horizontal brace or not fewer than one horizontal brace if it is the end horizontal brace. Omitted horizontal braces must be separated by not fewer than two horizontal braces even if that location is composed of two retrofit studs and two horizontal braces.
+
+2.Horizontal braces adjacent to the omitted horizontal brace shall be 2-inch by 6-inch (38 mm by 140 mm) lumber, shall butt against the existing studs, and shall be fastened to each existing roof or ceiling member crossed using three 3-inch-long (76 mm) fasteners (No. 8 wood screws or 10d nails). For Retrofit Configuration B, four fasteners shall be required on not fewer than one of the connections between the horizontal brace and the existing roof and ceiling framing members. Fasteners shall be spaced a not less than 3/4 inch (19.1 mm) from the edges of the horizontal braces and not less than 13/4 inches (44 mm) from adjacent fasteners.
+
+3.Where the existing studs on each side of an omitted horizontal brace have their wide face perpendicular to the gable end wall, the retrofit studs at those locations and the retrofit stud at the omitted horizontal brace locations shall extend not less than 33/4 inches (95 mm) beyond the interior edge of the existing studs for both Retrofit Configurations A and B. The edges of the three retrofit studs facing towards the interior of the attic shall be aligned such that they are the same distance from the gable end wall.
+
+4.Retrofit studs shall be fastened to existing studs in accordance with Section C104.3.
+
+5.Retrofit studs adjacent to the omitted horizontal brace shall be fastened to the horizontal brace using straps in accordance with Table C104.4.1 consistent with the size of the retrofit stud. The method applicable to Table C104.4.2 is not permitted.
+
+6.A strong back made of minimum of 2-inch by 8-inch (38 mm by 184 mm) nominal lumber shall be placed parallel to the gable end and shall be located on and span between horizontal braces on the two sides of the omitted horizontal brace and shall extend beyond each horizontal brace by not less than 21/2 inches (64 mm). The strong back shall be butted to the three retrofit studs. The strong back shall be attached to each of the horizontal braces on which it rests with five 3-inch-long (76 mm) fasteners (#8 screws or 8d nails). The fasteners shall have a minimum 3/4-inch (19.1 mm) edge distance and a minimum 21/2-inch (64 mm) spacing between fasteners. Additional compression blocks shall not be required at locations where a strong back butts against a retrofit stud.
+
+7.The retrofit stud at the location of the omitted horizontal braces shall be fastened to the strong back using a connector with minimum uplift capacity of 800 pounds (3559 N) and installed such that this capacity is oriented in the direction perpendicular to the gable end wall.
+
+8.The use of shortened horizontal braces using the alternative method of Section C104.2.5 is not permitted for horizontal braces adjacent to the omitted horizontal braces.
+
+9.Horizontal braces shall be permitted to be interrupted in accordance with Section C104.2.8.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2.3
+
+OMITTED HORIZONTAL BRACE
+
+[BS] C104.2.4 Omitted horizontal brace and retrofit stud
+
+Where conditions exist that prevent installation in accordance with Section C104.2.2 or C104.2.3, then retrofit studs and horizontal braces shall be permitted to be omitted from those locations by installation of ladder assemblies for Retrofit Configurations A and B as defined in Table C104.2 provided that all of the following conditions are met. This method is not permitted for Retrofit Configurations C or D.
+
+1.Not more than two ladder assemblies are permitted on a single gable end.
+
+2.There shall be not fewer than two retrofit studs and horizontal brace assemblies on either side of the locations where the retrofit studs and horizontal bracing members are omitted (two ladder braces shall not bear on a single retrofit stud).
+
+3.Where the existing studs on each side of an omitted horizontal brace have their wide face parallel to the gable end wall the retrofit studs at those locations and the retrofit stud at the omitted horizontal brace locations shall be 2-inch by 6-inch (38 mm by 180 mm) nominal lumber for Retrofit Configuration A and 2-inch by 8-inch (38 mm by 184 mm) lumber for Retrofit Configuration B.
+
+4.Horizontal braces adjacent to the omitted horizontal brace shall be 2-inch by 6-inch (38 mm by 180 mm) nominal lumber and be fastened to each existing roof or ceiling member crossed using three 3-inchlong (76 mm) fasteners (#8 wood screws or 10d nails) as indicated in Figures C104.2(1) and C104.2(3) for gable end frames and Figures C104.2(2) and C104.2(4) for conventionally framed gable end walls. For Retrofit Configuration B, four fasteners shall be required on one of the connections between the horizontal brace and the existing roof and ceiling framing members.
+
+5.Ladder rungs shall be provided across the location of the omitted retrofit studs as indicated in Figure C104.2.4(1) for gable end frames and Figure C104.2.4(2) for conventionally framed gable end walls.
+
+6.Ladder rungs shall be minimum 2-inch by 4-inch (38 mm by 89 mm) lumber oriented with their wide face horizontal and spaced not greater than 16 inches (406 mm) on center vertically.
+
+7.Where ladder rungs cross wall framing members they shall be connected to the wall framing members with a metal connector with a minimum capacity of 175 pounds (778 N) in the direction perpendicular to the gable end wall.
+
+8.Notching of the ladder rungs shall not be permitted unless the net depth of the framing member is not less than 31/2 inches (89 mm).
+
+For SI: 1 inch = 25.4 mm, 1 pound = 4.4 N.
+
+[BS] FIGURE C104.2.4(1)
+
+LADDER BRACING FOR OMITTED RETROFIT STUD (GABLE END FRAME)
+
+For SI: 1 inch = 25.4 mm, 1 pound = 4.4 N.
+
+[BS] FIGURE C104.2.4(2)
+
+LADDER BRACING FOR OMITTED RETROFIT STUD (CONVENTIONALLY FRAMED GABLE END)
+
+[BS] C104.2.5 Short horizontal brace
+
+Where conditions exist that prevent installation in accordance with Section C104.2.2, C104.2.3 or C104.2.4, the horizontal braces shall be permitted to be shortened provided that installation is as indicated in Figure C104.2.5 and all of the following conditions are met.
+
+1.The horizontal brace shall be installed across not fewer than two framing spaces, extend not less than 4 feet (1220 mm) from the gable end wall plus 21/2 inches (64 mm) beyond the farthest roof or ceiling framing member from the gable end, and be fastened to each existing framing member with three 3-inch-long (76 mm) fasteners (#8 wood screws or 10d nails).
+
+2.An anchor block shall be fastened to the side of the horizontal brace in the second framing space from the gable end wall as shown in Figure C104.2.5. The anchor block lumber shall have a minimum edge thickness of 11/2 inches (38 mm) and the depth shall be at a minimum the depth of the existing roof or ceiling framing member. Six 3-inch-long (76 mm) fasteners (#8 wood screws or 10d nails) shall be used to fasten the anchor block to the side of the horizontal brace.
+
+3.The anchor block shall extend into the space between the roof or ceiling framing members not less than one-half the depth of the existing-framing members at the location where the anchor block is installed. The anchor block shall be installed tightly between the existing framing members such that the gap at either end shall not exceed 1/8 inch (3.2 mm).
+
+4.The use of omitted horizontal braces using the method of Section C104.2.3 adjacent to a short horizontal brace as defined in this section is not permitted.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2.5
+
+ANCHOR BLOCK INSTALLATION
+
+[BS] C104.2.6 Installation of horizontal braces onto webs of trusses
+
+Where existing conditions preclude installation of horizontal braces on truss top or bottom chords they shall be permitted to be installed on truss webs provided that all of the following conditions are met.
+
+1.Horizontal braces shall be installed as close to the top or bottom chords as practical without altering the truss or any of its components and not more than three times the depth of the truss member to which it would ordinarily be attached.
+
+2.A racking block, comprised of an anchor block meeting the definition of “Anchor block” in Section C102 or comprised of minimum 15/32-inch (12 mm) plywood or 7/16-inch (11.1 mm) oriented strand board (OSB), shall be fastened to the horizontal brace in the second framing space from the gable end wall. The racking block shall extend toward the roof or ceiling diaphragm so that the edge of the racking block closest to the diaphragm is within one-half the depth of the existing framing member from the diaphragm surface. The racking block shall be attached to horizontal braces using six fasteners (No. 8 wood screws or 10d nails) of sufficient length to provide 11/2 inches (38 mm) of penetration into the horizontal brace.
+
+3.Racking blocks shall be permitted to be fastened to any face or edge of horizontal braces between each web or truss vertical posts to which a horizontal brace is attached. Racking blocks shall be permitted to be on alternate sides of horizontal braces. Racking blocks shall be installed tightly between the lumber of truss members or truss plates such that the gap at either end shall be not greater than 1/8 inch (3.2 mm).
+
+[BS] C104.2.7 Alternative method of installation of horizontal braces at truss ridges
+
+Where conditions exist that limit or restrict installation of horizontal braces near the peak of the roof, ridge ties shall be added to provide support for the required horizontal brace. The top of additional ridge tie members shall be installed not greater than 16 inches (406 mm) below the existing ridge line or 4 inches (102 mm) below impediments. A minimum 2-inch by 4-inch (38 mm by 89 mm) nominal member shall be used for each ridge tie, and fastening shall consist of two 3-inch-long (76 mm) wood screws, four 3-inch-long (76 mm) 10d nails or two 31/2-inch-long (89 mm) 16d nails driven through and clinched at each top chord or web member intersected by the ridge tie as illustrated in Figure C104.2.7.
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+[BS] FIGURE C104.2.7
+
+DETAIL OF RETROFIT TIE INSTALLATION
+
+[BS] C104.2.8 Interrupted horizontal braces
+
+Where conditions exist that prevent the installation of a continuous horizontal brace then horizontal braces shall be permitted to be interrupted using the methods shown in Figures C104.2.8(1), C104.2.8(2), and C104.2.8(3). For interruptions that occur in the attic framing space closest to the gable end, nine 3-inch (76 mm) fasteners shall be used to connect each section of the interrupted horizontal braces. For interruptions that occur in the second attic space from the gable end, six 3-inch (76 mm) fasteners shall be used to connect each section of the interrupted horizontal braces. For interruptions that occur in the attic framing space farthest from the gable end, three 3-inch (76 mm) fasteners shall be used to connect each section of the interrupted horizontal braces. Horizontal braces shall be continued far enough to allow connections to three existing roof framing members as shown in Figure C104.2.8(1), C104.2.8(2) or C104.2.8(3). Fasteners shall be spaced in accordance with Section C103.5.3. Horizontal braces shall be the same width and depth as required for an uninterrupted member.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2.8(1)
+
+SPLICED HORIZONTAL BRACES
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2.8(2)
+
+SPLICED HORIZONTAL BRACES
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.2.8(3)
+
+SPLICED HORIZONTAL BRACES
+
+[BS] C104.2.9 Piggyback gable end frames
+
+Piggyback gable end frames (gable end frames built in two sections one above the other) shall be permitted to be retrofitted if either of the following cases is true:
+
+1.The existing studs in both the upper gable end frames and the lower gable end frames to which wall sheathing, panel siding, or other wall covering are attached are sufficiently in line that retrofit studs can be installed and connections made between the two with retrofit stud(s).
+
+2.Existing studs in the upper frame are not sufficiently in line with the studs in the frame below and the existing studs in the upper frame are 3 feet (91 cm) or shorter.
+
+For Condition 1 both the lower stud and the upper stud shall be retrofitted using the methods of Section C104.2. For Condition 2 the retrofit stud shall be connected to the lower studs using the methods of Section C104.2 and be continuous from the bottom horizontal brace to the top horizontal brace. Connection is not required between the retrofit stud and the upper stud. In both conditions the bottom chord of the piggyback truss section shall be fastened to each retrofit stud using a connector with minimum axial capacity of 175 pounds (778 N).
+
+[BS] C104.3 Retrofit studs
+
+Retrofit studs shall be installed in accordance with Section C104.3.1 using one of the five methods of Sections C104.3.2, C104.3.3, C104.3.4, C104.3.5 or C104.3.6. Figure C104.3 shows these methods of installation. For the Retrofit Configuration obtained from Table C104.2, the size of retrofit studs shall be as indicated in Table C104.4.1 or Table C104.4.2. Retrofit studs shall extend from the top of the lower horizontal brace to the bottom of the upper horizontal brace except that a maximum gap of 1/8 inch (3.2 mm) is permitted at the bottom and 1/2 inch (12.7 mm) at the top. Where wall sheathing, panel siding or other wall covering is fastened to a conventionally framed gable end, retrofit studs shall be applied in accordance with Section C104.2.1.
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.3
+
+METHOD OF INSTALLING RETROFIT STUDS
+
+[BS] C104.3.1 Fastening
+
+Where nail plates are not used, retrofit studs shall be attached to existing studs using 3-inch (76 mm) fasteners at not greater than 6 inches (152 mm) on center but not closer than 21/2 inches (64 mm) on center with fasteners not closer to ends of members than 21/2 inches (64 mm).
+
+[BS] C104.3.2 Method #1: Face-to-edge or face-to-face method
+
+Retrofit studs shall be installed immediately adjacent to existing gable end wall studs as indicated in Figure C104.3(a). The retrofit studs shall overlap the edge or side of the existing stud by not less than 11/4 inches (32 mm). Fasteners shall be installed as specified in Section C104.3.1.
+
+[BS] C104.3.3 Method #2: Face-to-face offset method
+
+Retrofit studs shall be installed against the face of existing studs as indicated in Figure C104.3(b) such that the faces overlap not less than 11/2 inches (38 mm) and the edge distance to fasteners is not less than 3/4 inch (19.1 mm). Fasteners shall be installed as specified in Section C104.3.1.
+
+[BS] C104.3.4 Method #3: Butted retrofit stud method
+
+Provided that all of the following fastening conditions are met, retrofit studs shall be permitted to be butted by their edge to existing studs with the addition of nail plates as indicated in Figure C104.3(c) and Figure C104.3.4.
+
+1.The narrow edge of retrofit studs shall be installed against the narrow or the wide face of existing studs.
+
+2.Not fewer than two nail plates shall be used.
+
+3.Fasteners used to secure nail plates to studs shall be a minimum 11/4 inches (32 mm) long (#8 wood screws or 8d nails).
+
+4.Fasteners placed in nail plates shall have a minimum end distance of 21/2 inches (64 mm) for both studs and a maximum end distance of 6 inches (152 mm) from the ends of the shorter stud.
+
+5.Fasteners shall have a minimum 1/2-inch (12.7 mm) edge distance. Fasteners shall be placed not greater than 11/2 inches (38 mm) from the abutting vertical edges of existing studs and retrofit studs.
+
+6.There shall be at least three fasteners through nail plates into all existing and retrofit studs to which the nail plate is attached.
+
+7.Nail plates with three fasteners onto a single existing or retrofit stud shall be spaced not greater than 15 inches (38 cm) on center.
+
+8.Nail plates with more than three fasteners onto a single existing or retrofit stud shall be spaced not greater than 20 inches (51 cm) on center.
+
+9.Fasteners used to secure nail plates shall be spaced vertically not less than 11/2 inches (38 mm) on center. Staggered fasteners used to secure nail plates shall be spaced horizontally not less than 1/2 inch (12.7 mm).
+
+For SI: 1 inch = 25.4 mm.
+
+[BS] FIGURE C104.3.4
+
+NAIL PLATE FASTENING
+
+[BS] C104.3.5 Method #4: Offset retrofit stud method
+
+Retrofit studs may be offset from existing studs by use of nail plates as shown in Figure C104.3(d) such that the vertical corner of a retrofit stud shall align with the vertical corner of an existing stud as indicated in Figure C104.3(d) and Figure C104.3.4, and the fastening conditions of Section C104.3.4 are met.
+
+[BS] C104.3.6 Method #5: Nailer with retrofit stud method
+
+Retrofit studs and existing studs shall be permitted to be connected using noncontinuous 2-inch by 4-inch (38 mm by 89 mm) nailers as indicated in Figure C104.3(e) provided that the following conditions are met.
+
+1.Both the existing stud and the retrofit stud shall be butted to nailers and both shall be fastened to the nailer with 3-inch-long (76 mm) fasteners (#8 wood screws or 8d nails). Fasteners connecting each stud to the nailer shall be a spaced 6 inches (152 mm) o.c.
+
+2.Fasteners into nailers from any direction shall be offset vertically by not less than 21/2 inches (64 mm).
+
+3.Fasteners into nailers shall be not less than 21/2 inches (64 mm) but not more than 6 inches (152 mm) from the end of the shorter of the existing stud and retrofit stud to which they are fastened.
+
+[BS] C104.3.7 Reduced depth of retrofit studs
+
+Retrofit studs may be reduced in depth by notching, tapering or other methods at any number of locations along their length provided that all of the following conditions are met:
+
+1.Retrofit studs to be reduced in depth shall be sized such that the remaining minimum depth of member at the location of the notch (including cross-cut kerfs) shall be not less than that required by Table C104.4.1 or Table C104.4.2.
+
+2.Reduced in-depth retrofit stud shall not be spliced within 12 inches (30 cm) of the location of notches. Splice members shall not be notched.
+
+3.The vertical extent of notches shall not exceed 12 inches (30 cm) as measured at the depth of location of reduced depth.
+
+4.A reduced in-depth retrofit stud member shall be fastened to the side of the existing gable end wall studs in accordance with Section C104.3.1. Two additional 3-inch (76 mm) fasteners (#8 wood screws or 10d nails) shall be installed on each side of notches in addition to those required by Section C104.3.1.
+
+[BS] C104.3.8 Retrofit stud splices
+
+Retrofit studs greater than 8 feet (244 cm) in height may be field spliced in accordance with Figure C104.3.8.
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+[BS] FIGURE C104.3.8
+
+RETROFIT STUD SPLICES
+
+[BS] C104.4 Connection between horizontal braces and retrofit studs
+
+Connections between horizontal braces and retrofit studs shall comply with Section C104.4.1 or C104.4.2. Each retrofit stud shall be connected to the top and bottom horizontal brace members with a minimum 20-gage 11/4-inch-wide (32 mm) flat or coil metal strap with prepunched holes for fasteners. Straps shall be fastened with 11/4-inch-long (32 mm) fasteners (#8 wood screws or 8d nails) with the number of fasteners as indicated in Table C104.4.1 and Table C104.4.2. Fasteners shall be not closer to the end of lumber than 21/2 inches (64 mm).
+
+[BS] C104.4.1 L-bent strap method
+
+Retrofit studs shall be connected to horizontal braces or to strong backs in accordance with Figure C104.2(1), C104.2(2) or C104.2.3, and shall comply with the following conditions.
+
+1.A strap shall be applied to the edges of a retrofit stud nearest the gable end wall and to the face of horizontal braces using at each end of the strap the number of fasteners specified in Table C104.4.1. Straps shall be long enough so that each strap extends sufficient distance onto the vertical face of the retrofit stud that the fastener closest to the ends of the studs is not less than 21/2 inches (64 mm) from the end of the stud. Straps shall be permitted to be twisted to accommodate the transition between the tops of retrofit studs and horizontal bracings following roof pitches.
+
+2.Compression blocks shall be installed on the horizontal braces directly against either the existing vertical gable end wall stud or the retrofit stud. Figure C104.2(1) (trusses) and Figure C104.2(2) (conventionally framed) show the installation of the compression block against the existing vertical gable end wall stud with the strap from the retrofit stud running beside the compression block. Compression blocks shall be permitted to be placed over straps. Compression blocks shall be fastened to the horizontal braces with not fewer than the minimum number of 3-inch-long (76 mm) fasteners (#8 wood screws or 10d nails) specified in Table C104.4.1. End and edge distances for fasteners shall be in accordance with Section C103.5.3.
+
+[BS] TABLE C104.4.1
+
+ELEMENT SIZING AND SPACING FOR L-BENT RETROFIT METHOD
+
+RETROFIT ELEMENTS	RETROFIT CONFIGURATION
+A	B	C	D
+Minimum size and number of Horizontal Braces	2 × 4	2 × 4	2 × 4	2 each 2 × 4
+Minimum size and number of Retrofit Studs	2 × 4	2 × 6	2 × 8	2 each 2 × 8
+Minimum number of fasteners connecting each end of straps to Retrofit Studs or to Horizontal Braces #8 screws or 10d nails 11/4″ long	6	9	12	8 on each strap
+Minimum number of fasteners to connect Compression Blocks to Horizontal Braces #8 screws or 10d nails 3″ long	6	8	10	12For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+[BS] C104.4.2 U-bent strap method
+
+Retrofit studs shall be connected to horizontal braces in accordance with Figure C104.2(3) or C104.2(4), shall be limited to Retrofit Configurations A and B as defined in Table C104.2, and shall comply with the following conditions.
+
+1.Straps of sufficient length to meet the requirements for the number of fasteners in accordance with Table C104.4.2 and meet the end distance requirements of Section C103.5.3 shall be shaped around retrofit studs and fastened to the edges of horizontal braces. Straps shall wrap the back edge of the retrofit stud snugly with a maximum gap of 1/4 inch (6.4 mm). Rounded bends of straps shall be permitted. One fastener shall be installed that connects each strap to the side of the associated retrofit stud.
+
+2.The horizontal brace shall butt snugly against the retrofit stud with a maximum gap of 1/4 inch (6.4 mm).
+
+3.Straps shall be permitted to be twisted to accommodate the transition between the tops of retrofit studs and horizontal braces that follow the roof pitch.
+
+[BS] TABLE C104.4.2
+
+ELEMENT SIZING AND SPACING FOR U-BENT RETROFIT METHOD
+
+RETROFIT ELEMENTS	RETROFIT CONFIGURATION
+A	B	C	D
+Minimum size and number of Horizontal Braces	2 × 4	2 × 4	2 × 4	2 each 2 × 4
+Minimum size and number of Retrofit Studs	2 × 4	2 × 6	2 × 8	2 each 2 × 8
+Minimum number of fasteners connecting Straps to each edge of Horizontal Braces #8 screws or 10d nails 11/4″ long	6	7	7	6 on each side of strapFor SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+[BS] C104.5 Connection of gable end wall to wall below
+
+The bottom chords or bottom members of wood-framed gable end walls shall be attached to the wall below using one of the methods prescribed in Section C104.5.1 or C104.5.2. The particular method chosen shall correspond to the framing system and type of wall construction encountered.
+
+[BS] C104.5.1 Gable end frame
+
+The bottom chords of the gable end frame shall be attached to the wall below using gusset angles. Not fewer than two fasteners shall be installed into the bottom chord. The gusset angles shall be installed throughout the portion of the gable end where the gable end wall height is greater than 3 feet (91 cm) at the spacing specified in Table C104.5.1. Connection to the wall below shall be by one of the following methods:
+
+1.For a wood-frame wall below, not fewer than two fasteners shall be installed. The fasteners shall be of the same diameter and style specified by the gusset angle manufacturer and sufficient length to extend through the double top plate of the wall below.
+
+2.For a concrete or masonry wall below without a sill plate, the type and number of fasteners into the wall shall be consistent with the gusset angle manufacturer’s specifications for fasteners installed in concrete or masonry.
+
+3.For a concrete or masonry wall below with a 2x sill plate, the fasteners into the wall below shall be of the diameter and style specified by the gusset angle manufacturer for concrete or masonry connections; but, long enough to pass through the wood sill plate and provide the required embedment into the concrete or masonry below. Alternatively, the gusset angle can be anchored to the sill plate using four each 11/2-inch-long (38 mm) fasteners of the same type as specified by the gusset angle manufacturer for wood connections, provided that the sill plate is anchored to the wall on each side of the gusset angle by a 1/4-inch-diameter (6.4 mm) masonry screw with 23/4 inches (70 mm) of embedment into the concrete or masonry wall. A 1/4-inch (6.4 mm) washer shall be placed under the heads of the masonry screws.
+
+[BS] TABLE C104.5.1
+
+SPACING OF GUSSET ANGLES
+
+EXPOSURE CATEGORY	BASIC WIND SPEED (mph)	SPACING OF GUSSET ANGLES (inches)
+C	140	38
+C	150	32
+C	165	28
+C	180	24
+C	190	20
+B	140	48
+B	150	40
+B	165	36
+B	180	30
+B	190	26For SI: 1 inch = 25.4 mm, 1 mile per hour = 0.447 m/s.
+
+[BS] C104.5.2 Conventionally framed gable end wall
+
+Each stud in a conventionally framed gable end wall, throughout the length of the gable end wall where the wall height is greater than 3 feet (914 mm), shall be attached to the bottom or sill plate using a stud to plate connector with minimum uplift capacity of 175 pounds (778 N). The bottom or sill plate shall then be connected to the wall below using one of the following methods:
+
+1.For a wood frame wall below, the sill or bottom plate shall be connected to the top plate of the wall below using 1/4-inch-diameter (6.4 mm) lag bolt fasteners of sufficient length to penetrate the bottom plate of the upper gable end wall and extend through the bottom top plate of the wall below. A washer sized for the diameter of the lag bolt shall be placed under the head of each lag bolt. The fasteners shall be installed at the spacing indicated in Table C104.5.2.
+
+2.For a concrete or masonry wall below, the sill or bottom plate shall be connected to the concrete or masonry wall below using 1/4-inch-diameter (6.4 mm) concrete or masonry screws of sufficient length to provide 23/4 inches (70 mm) of embedment into the top of the concrete or masonry wall. A washer sized for the diameter of the lag bolt shall be placed under the head of each lag bolt. The fasteners shall be installed at the spacing indicated in Table C104.5.2.
+
+[BS] TABLE C104.5.2
+
+SPACING OF LAG OR MASONRY SCREWS USED TO CONNECT SILL PLATE OF GABLE END WALL TO TOP OF THE WALL BELOW
+
+EXPOSURE CATEGORY	BASIC WIND SPEED (mph)	SPACING OF LAG OR MASONRY SCREWS (inches)
+C	140	19
+C	150	16
+C	165	14
+C	180	14
+C	190	10
+B	140	24
+B	150	20
+B	165	18
+B	180	15
+B	190	13For SI: 1 inch = 25.4 mm, 1 mile per hour = 0.447 m/s.
+
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLEAPPENDIX CCHAPTER C2 – ROOF DECK FASTENING FOR HIGH-WIND AREAS
+
+Not adopted by the State of California(May be available for adoption by local ordinance. See Section 1.1.11.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD		BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																						The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER C2 ROOF DECK FASTENING FOR HIGH-WIND AREAS
+
+SECTION C201 GENERAL
+
+[BS] C201.1 Purpose
+
+This chapter provides prescriptive methods for partial structural retrofit of an existing building to increase its resistance to wind loads. It is intended for voluntary use where the ultimate design wind speed, Vult, determined in accordance with Figure 1609.3(1) of the California Building Code exceeds 130 mph (58 m/s) and for reference by mitigation programs. The provisions of this chapter do not necessarily satisfy requirements for new construction. Unless specifically cited, the provisions of this chapter do not necessarily satisfy requirements for structural improvements triggered by addition, alteration, repair, change of occupancy, building relocation or other circumstances.
+
+[BS] C201.2 Eligible conditions
+
+The provisions of this chapter are applicable only to buildings that meet either of the following eligibility requirements:
+
+1.Buildings assigned to Risk Category I or II in accordance with Table 1604.5 of the California Building Code.
+
+2.Buildings within the scope of the California Residential Code.
+
+SECTION C202 ROOF DECK ATTACHMENT FOR WOOD ROOFS
+
+[BS] C202.1 Roof decking attachment for one- and two-family dwellings
+
+For one- and two-family dwellings, fastening shall be in accordance with Section C202.1.1 or C202.1.2 as appropriate for the existing construction. The diameter of 8d nails shall be not less than 0.131 inch (3 mm) and the length shall be not less than 21/4 inches (57 mm) to qualify for the provisions of this section for existing nails regardless of head shape or head diameter.
+
+[BS] C202.1.1 Sawn lumber or wood plank roofs
+
+Roof decking consisting of sawn lumber or wood planks up to 12 inches (30 cm) wide and secured with not fewer than two nails (minimum size 8d) to each roof framing member it crosses shall be deemed to be sufficiently connected. Sawn lumber or wood plank decking secured with smaller fasteners than 8d nails or with fewer than two nails (minimum size 8d) to each framing member it crosses shall be deemed sufficiently connected if fasteners are added such that two clipped head, round head or ring shank nails (minimum size 8d) are in place on each framing member the nail crosses.
+
+[BS] C202.1.2 Wood structural panel roofs
+
+For roof decking consisting of wood structural panels, fasteners and spacings required in Table C202.1.2 shall be deemed to comply with the requirements of Section 706.3.
+
+Supplemental fasteners as required by Table C202.1.2 shall be 8d ring shank nails with round heads and the following minimum dimensions:
+
+1.0.113-inch-nominal (3 mm) shank diameter.
+
+2.Ring diameter not less than 0.012 inch (0.3 mm) greater than shank diameter.
+
+3.16 to 20 rings per inch.
+
+4.A minimum 0.280-inch (7 mm) full round head diameter.
+
+5.Ring shank to extend not less than 11/2 inches (38 mm) from the tip of the nail.
+
+6.Minimum 21/4-inch (57 mm) nail length.
+
+[BS] TABLE C202.1.2
+
+SUPPLEMENT FASTENERS AT PANEL EDGES AND INTERMEDIATE FRAMING
+
+EXISTING FASTENERS	EXISTING FASTENER SPACING (EDGE OR INTERMEDIATE SUPPORTS)	MAXIMUM SUPPLEMENTAL FASTENER SPACING FOR 130 MPH < Vult ≤ 140 MPH	MAXIMUM SUPPLEMENTAL FASTENER SPACING FOR INTERIOR ZONEc LOCATIONS FOR MPH Vult > 140 MPH AND EDGE ZONES NOT COVERED BY THE COLUMN TO THE RIGHT	EDGE ZONEd FOR Vult > 160 MPH AND EXPOSURE C, OR Vult > 180 MPH AND EXPOSURE B
+Staples or 6d	Any	6″ o.c.b	6″ o.c.b	4″ o.c.b at panel edges and 4″ o.c.b at intermediate supports
+8d clipped head or round head smooth shank	6″ o.c. or less	None necessary	None necessary along edges of panels but 6″ o.c.b at intermediate
+ supports of panel	4″ o.c.a at panel edges and 4″ o.c.a at intermediate supports
+8d clipped head or round head ring shank	6″ o.c. or less	None necessary	None necessary	4″ o.c.a at panel edges and 4″ o.c.a at intermediate supports
+8d clipped head or round head smooth shank	Greater than 6″ o.c.	6″ o.c.a	6″ o.c.a along panel edges and 6″ o.c.b at intermediate supports of panel	4″ o.c.a at panel edges and 4″ o.c.a at intermediate supports
+8d clipped head or round head ring shank	Greater than 6″ o.c.	6″ o.c.a	6″ o.c.a	4″ o.c.a at panel edges and 4″ o.c.a at intermediate supportsFor SI: 1 inch = 25.4 mm; 1 foot = 304.8 mm; 1 mile per hour = 0.447 m/s.
+
+a.Maximum spacing determined based on existing fasteners and supplemental fasteners.
+
+b.Maximum spacing determined based on supplemental fasteners only.
+
+c.Interior zone = sheathing that is not located within 4 feet of the perimeter edge of the roof or within 4 feet of each side of a ridge.
+
+d.Edge zone = sheathing that is located within 4 feet of the perimeter edge of the roof and within 4 feet of each side of a ridge.
+
+CHAPTER C3 REFERENCED STANDARDS
+
+SECTION C301 REFERENCED STANDARDS
+
+[BS] C301.1 General
+
+See Table C301.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+[BS] TABLE C301.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+CBC—21	California Building Code	C101.3, C103.2, C201.1, C201.2
+CRC—21	California Residential Code	C101.2, C101.3, C103.2, C201.2

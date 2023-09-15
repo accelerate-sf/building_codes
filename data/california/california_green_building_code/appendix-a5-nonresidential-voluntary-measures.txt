@@ -1,0 +1,2146 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  APPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURES  DIVISION A5.1 – PLANNING AND DESIGN
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																						
+Chapter/Section																						APPENDIX A5 NONRESIDENTIAL VOLUNTARY MEASURES
+
+The measures contained in this appendix are not mandatory unless adopted by a city, county, or city and county as specified in Section 101.7 and provide additional measures that designers, builders and property owners may wish to consider during the planning, design and construction process.
+
+Division A5.1  – PLANNING AND DESIGN Division A5.1 – PLANNING AND DESIGN
+
+PREFACE
+
+Given that land use and planning are largely regulated locally, cities, counties and cities and counties should consider reducing greenhouse gas emissions associated with development through local land-use practices in conjunction with enforcing the provisions of this code. Specific land use strategies a city, county or city and county may wish to consider include but are not limited to the following:
+
+Site selection. Develop sites for buildings, hardscape, roads or parking areas consistent with the local general plan and regional transportation plan pursuant to SB 375 (Stats. 2008, Ch. 728).
+
+Regional sustainable communities strategy. Site selection and building design and use shall conform the project with the prevailing regional sustainable communities strategy or alternative planning strategy, whichever meets the greenhouse gas target established by the California Air Resources Board pursuant to SB375 (Stats. 2008, Ch. 728), including the general location of uses, residential densities and building intensities.
+
+Transit priority projects. To qualify as a transit priority project, the project shall meet three criteria:
+
+(1)(a) contain at least 50 percent residential use, based on total building square footage and, if the project contains between 26 and 50 percent nonresidential uses, a floor area ratio of not less than 0.75; (b) provide a minimum net density of at least 20 dwelling units per acre; and (c) be within one-half mile of a major transit stop or high-quality transit corridor included in a regional transportation plan as described in Section 21155 of Stats. 2008, Ch. 728;
+
+(2)be consistent with the prevailing sustainable communities strategy or alternative planning strategy, whichever meets the greenhouse gas target established by the California Air Resources Board, including the general location of uses, residential densities and building intensities; and
+
+(3)have all necessary entitlements required by the applicable local government.
+
+Note: For additional information, see Government Code Sections 65080, 65080.1 and 65400 and Public Resources Code Sections 21061.3 and 21155.
+
+SECTION A5.101 GENERAL
+
+A5.101.1 Scope.
+
+The provisions of this chapter outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore and enhance the environmental quality of the site and respect the integrity of adjacent properties.
+
+SECTION A5.102 DEFINITIONS
+
+A5.102.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+BIORETENTION.
+
+BROWNFIELD SITE.
+
+CAV.
+
+DEVELOPMENT FOOTPRINT.
+
+FLOOR AREA RATIO.
+
+GREENFIELDS.
+
+GREYFIELD SITE.
+
+INFILL SITE.
+
+LOW-EMITTING AND FUEL EFFICIENT VEHICLES.
+
+LOW IMPACT DEVELOPMENT (LID).
+
+PERMEABLE PAVING.
+
+SOLAR REFLECTANCE.
+
+SOLAR REFLECTANCE INDEX (SRI).
+
+THERMAL EMITTANCE.
+
+VANPOOL VEHICLE.
+
+VEGETATED SPACE.
+
+SECTION A5.103 SITE SELECTION
+
+A5.103.1 Community connectivity.
+
+Where feasible, locate project on a previously developed site within a 1/2 mile radius of at least ten basic services, readily accessible by pedestrians, including, but not limited, to one each of bank, place of worship, convenience grocery, day care, cleaners, fire station, barber shop, beauty shop, hardware store, laundry, library, medical clinic, dental clinic, senior care facility, park, pharmacy, post office, restaurant (two may be counted), school, supermarket, theater, community center, fitness center, museum or farmers market. Other services may be considered on a case-by-case basis.
+
+A5.103.2 Brownfield or greyfield site redevelopment or infill area development.
+
+If feasible, select for development a brownfield in accordance with Section A5.103.2.1 or on a greyfield or infill site as defined in Section A5.102.
+
+A5.103.2.1 Brownfield redevelopment.
+
+Develop a site documented as contaminated by means of an ASTM E1903-11 Phase II Environmental Site Assessment or on a site defined as a brownfield by a local, state or federal government agency. The site must be fully remediated in accordance with EPA regulations to the level required of the anticipated land use.
+
+SECTION A5.104 SITE PRESERVATION
+
+A5.104.1 Reduce development footprint and optimize open space.
+
+Optimize open space on the project site in accordance with Sections A5.104.1.1, A5.104.1.2 or A5.104.1.3.
+
+A5.104.1.1 Local zoning requirement in place.
+
+Exceed the zoning’s open space requirement for vegetated open space on the site by 25 percent.
+
+A5.104.1.2 No local zoning requirement in place.
+
+Provide vegetated open space area adjacent to the building equal to the building footprint area.
+
+A5.104.1.3 No open space required in zoning ordinance.
+
+Provide vegetated open space equal to 20 percent of the total project site area.
+
+SECTION A5.105 DECONSTRUCTION AND REUSE  OF EXISTING STRUCTURES
+
+A5.105.1 
+
+If feasible, disassemble existing buildings instead of demolishing to allow reuse or recycling of building materials.
+
+A5.105.1.1 Existing building structure.
+
+Maintain at least 75 percent of existing building structure (including structural floor and roof decking) and envelope (exterior skin and framing) based on surface area.
+
+Exceptions:
+
+1.Window assemblies and nonstructural roofing material.
+
+2.Hazardous materials that are remediated as a part of the project.
+
+3.A project with an addition of more than two times the square footage of the existing building.
+
+A5.105.1.2 Existing nonstructural elements.
+
+Reuse existing interior nonstructural elements (interior walls, doors, floor coverings and ceiling systems) in at least 50 percent of the area of the completed building (including additions).
+
+Exception: A project with an addition of more than two times the square footage of the existing building.
+
+A5.105.1.3 Salvage.
+
+Salvage additional items in good condition such as light fixtures, plumbing fixtures and doors as follows. Document the weight or number of the items salvaged.
+
+1.Salvage for reuse on the project items that conform to other provisions of Title 24 in an on-site storage area.
+
+2.Nonconforming items may be salvaged in dedicated collection bins for exempt projects or other uses.
+
+SECTION A5.106 SITE DEVELOPMENT
+
+A5.106.2 Storm water design.
+
+Design storm water runoff rate, quantity and quality in conformance with Section A5.106.3 Low Impact Development (LID) or by local requirements, whichever are stricter.
+
+A5.106.3 Low Impact Development (LID).
+
+All newly constructed projects shall mitigate (infiltrate, filter or treat) stormwater runoff from the 85th percentile 24-hour runoff event (for volume-based BMPs) or the runoff produced by a rain event equal to two times the 85th percentile hourly intensity (for flow-based BMPs) through the application of LID strategies. Employ at least two of the following methods or other best management practices to allow rainwater to soak into the ground, evaporate into the air or collect in storage receptacles for irrigation or other beneficial uses. LID strategies include, but are not limited to:
+
+1.Bioretention (rain gardens)/filtration planters;
+
+2.Precipitation capture (Cisterns and rain barrels);
+
+3.Green roofs meeting the structural requirements of the building code;
+
+4.Roof leader or impervious area disconnection;
+
+5.Permeable and porous paving;
+
+6.Vegetative swales and filter strips; tree preservation; and
+
+7.Tree preservation and tree plantings;
+
+8.Landscaping soil quality;
+
+9.Stream buffer; and
+
+10.Volume retention suitable for previously developed sites.
+
+A5.106.3.1 Implementation.
+
+If applicable, coordinate LID projects with the local Regional Water Quality Control Board, which may issue a permit or otherwise require LID.
+
+Note: Further information on design of specific control measures may be found on US EPA’s website, on SWRCB’s website and from local boards that require LID.
+
+A5.106.3.2 Greyfield or infill site.
+
+Manage 40 percent of the average annual rainfall on the site’s impervious surfaces through infiltration, reuse or evapotranspiration.
+
+A5.106.4 Reserved.
+
+A5.106.4.1 Reserved.
+
+A5.106.4.2 Reserved.
+
+A5.106.4.3 Changing rooms.
+
+For buildings with over 10 tenant-occupants, provide changing/shower facilities for tenant-occupants only in accordance with Table A5.106.4.3 or document arrangements with nearby changing/shower facilities.
+
+Note: Additional information on recommended bicycle accommodations may be obtained from Sacramento Area Bicycle Advocates at https://sacbike.org.
+
+TABLE A5.106.4.3
+
+NUMBER OF TENANT-OCCUPANTS	SHOWER/CHANGING FACILITIES REQUIRED 2	2-TIER (12″ Χ 15″ Χ 72″) PERSONAL EFFECTS LOCKERS1, 2 REQUIRED
+0-10	0	0
+11-50	1 unisex shower	2
+51-100	1 unisex shower	3
+101-200	1 shower stall per gender	4
+Over 200	1 shower stall per gender for each 200 additional tenant-occupants	One 2-tier locker for each 50 additional tenant-occupants1.One 2-tier locker serves two people. Lockers shall be lockable with either padlock or combination lock.
+
+2.Tenant spaces housing more than 10 tenant-occupants within buildings sharing common toilet facilities need not comply; however, such common shower facilities shall accommodate the total number of tenant-occupants served by the toilets and include a minimum of one unisex shower and two 2-tier lockers.
+
+A5.106.5.1 Designated parking for clean air vehicles.
+
+In new projects or additions or alterations that add 10 or more vehicular parking spaces, provide designated parking for any combination of zero-emitting, fuel-efficient and carpool/vanpool vehicles as listed in code Sections A5.106.5.1.1 or A5.106.5.1.2.
+
+A5.106.5.1.1 Tier 1.
+
+Provide 35 percent designated parking spaces of the total number of parking spaces, for any combination of zero-emitting, fuel-efficient and carpool/vanpool vehicles. Calculation for spaces shall be rounded up to the nearest whole number.
+
+Note: Designated parking for clean air vehicles shall count toward the total parking spaces required by the local enforcing agencies.
+
+A5.106.5.1.2 Tier 2.
+
+Provide 50 percent designated parking spaces of the total number of parking spaces, for any combination of zero-emitting, fuel-efficient and carpool/vanpool vehicles. Calculation for spaces shall be rounded up to the nearest whole number.
+
+Note: Designated parking for clean air vehicles shall count toward the total parking spaces required by the local enforcing agencies.
+
+A5.106.5.1.3 Parking stall marking.
+
+Paint, in the paint used for stall striping, the following characters such that the lower edge of the last word aligns with the end of the stall striping and is visible beneath a parked vehicle:
+
+CLEAN AIR/  VANPOOL/EV
+
+Note: Vehicles bearing Clean Air Vehicle stickers from expired HOV lane programs may be considered eligible for designated parking spaces.
+
+A5.106.5.1.4 Vehicle designations.
+
+Building managers may consult with local community Transit Management Associations (TMAs) for methods of designating qualifying vehicles, such as issuing parking stickers.
+
+Notes:
+
+1.Information on qualifying vehicles, car labeling regulations and DMV CAV decals may be obtained from the following sources:
+
+a.California DriveClean.
+
+b.California Air Resources Board.
+
+c.US EPA fuel economy regulations and standards.
+
+d.DMV Registration Operations.
+
+2.Purchasing policy and refueling sites for zero-emitting vehicles for state employees use can be found at the Department of General Services.
+
+A5.106.5.3 Electric vehicle (EV) charging. [N]
+
+Construction shall comply with Section A5.106.5.3.1 or A5.106.5.3.2, and in accordance with regulations in the California Building Code and the California Electrical Code.
+
+A5.106.5.3.1 Tier 1.
+
+Table A5.106.5.3.1 shall be used to determine the number of EV capable spaces required. Refer to Section 5.106.5.3 for design space requirements.
+
+When EV capable spaces are provided with EVSE to create EVCS per Table A5.106.5.3.1, refer to Section 5.106.5.3.2 for the allowed use of Level 2 or Direct Current Fast Charger (DCFC) and Section 5.106.5.3.3 for the allowed use of Automatic Load Management System (ALMS).
+
+TABLE A5.106.5.3.1
+
+TOTAL NUMBER OF ACTUAL PARKING SPACES	TIER 1 NUMBER OF REQUIRED EV CAPABLE SPACES	TIER 1 NUMBER OF EVCS (EV CAPABLE SPACES PROVIDED WITH EVSE)2
+0–9	2	0
+10–25	5	2
+26–50	11	4
+51–75	19	5
+76–100	26	9
+101–150	38	13
+151–200	53	18
+201 and over	30 percent of total parking spaces1	33 percent of EV capable spaces11.Calculation for spaces shall be rounded up to the nearest whole number.
+
+2.The number of required EVCS (EV capable spaces provided with EVSE) in column 3 count toward the total number of required EV capable spaces shown in column 2.
+
+A5.106.5.3.2 Tier 2.
+
+Table A5.106.5.3.2 shall be used to determine the number of EV capable spaces required. Refer to Section 5.106.5.3 for design requirements.
+
+When EV capable spaces are provided with EVSE to create EVCS per Table A5.106.5.3.1, refer to Section 5.106.5.3.2 for the allowed use of Level 2 or Direct Current Fast Charger (DCFC) and Section 5.106.5.3.3 for the allowed use of Automatic Load Management System (ALMS).
+
+TABLE A5.106.5.3.2
+
+TOTAL NUMBER OF ACTUAL PARKING SPACES	TIER 2 NUMBER OF REQUIRED EV CAPABLE SPACES	TIER 2 NUMBER OF EVCS (EV CAPABLE SPACES PROVIDED WITH EVSE)2
+0–9	3	0
+10–25	8	3
+26–50	17	6
+51–75	28	9
+76–100	40	13
+101–150	57	19
+151–200	79	26
+201 and over	45 percent of total parking spaces1	33 percent of EV capable spaces11.Calculation for spaces shall be rounded up to the nearest whole number.
+
+2.The number of required EVCS (EV capable spaces provided with EVSE) in column 3 count toward the total number of required EV capable spaces shown in column 2.
+
+A5.106.6 Parking capacity.
+
+Design parking capacity to meet but not exceed minimum local zoning requirements.
+
+A5.106.6.1 Reduce parking capacity.
+
+With the approval of the enforcement authority, employ strategies to reduce on-site parking area by
+
+1.Use of on street parking or compact spaces, illustrated on the site plan or
+
+2.Implementation and documentation of programs that encourage occupants to carpool, ride share or use alternate transportation.
+
+Note: Strategies for programs may be obtained from local TMAs.
+
+A5.106.7 Exterior wall shading.
+
+Meet requirements in the current edition of the California Energy Code and comply with either Section A5.106.7.1 or A5.106.7.2 for wall surfaces. If using vegetative shade, plant species documented to reach desired coverage within 5 years of building occupancy.
+
+A5.106.7.1 Fenestration.
+
+Provide vegetative or manmade shading devices for all fenestration on east-, southand west-facing walls.
+
+A5.106.7.1.1 East and west walls.
+
+Shading devices shall have 30-percent coverage to a height of 20 feet or to the top of the exterior wall, whichever is less. Calculate shade coverage on the summer solstice at 10 AM for east-facing walls and at 3 PM for west-facing walls.
+
+A5.106.7.1.2 South walls.
+
+Shading devices shall have 60-percent coverage to a height of 20 feet or to the top of the exterior wall, whichever is less.
+
+A5.106.7.2 Opaque wall areas.
+
+Use wall surfacing with minimum SRI 25 (aged), for 75 percent of opaque wall areas.
+
+Exception: Use of vegetated shade in Wildland-Urban Interface Areas as defined in Chapter 7A (Materials and Construction Methods for Exterior Wildfire Exposure) of the California Building Code shall meet the requirements of that chapter.
+
+Note: If not available from the manufacturer, aged SRI value calculations may be found at the California Energy Commission’s web site at www.energy.ca.gov.
+
+A5.106.11 Heat island effect.
+
+Reduce nonroof heat islands by Section A5.106.11.1 and roof heat islands by Section A5.106.11.2.
+
+A5.106.11.1 Hardscape alternatives.
+
+Use one or a combination of strategies 1 and 2 for 50 percent of site hardscape or put 50 percent of parking underground.
+
+1.Use light colored materials with an initial solar reflectance value of at least 0.30 as determined in accordance with American Society for Testing and Materials (ASTM) Standards E1918 or C1549.
+
+2.Use open-grid pavement system or pervious or permeable pavement system.
+
+A5.106.11.2 Cool roof for reduction of heat island effect.
+
+Use roofing materials having a minimum aged solar reflectance and thermal emittance complying with Sections A5.106.11.2.1 and A5.106.11.2.2 or a minimum aged Solar Reflectance Index (SRI) complying with Section A5.106.11.2.3 and as shown in Table A5.106.11.2.2 for Tier 1 or Table A5.106.11.2.3 for Tier 2.
+
+Exceptions:
+
+1.Roof constructions that have a thermal mass over the roof membrane, including areas of vegetated (green) roofs, weighing at least 25 pounds per square foot.
+
+2.Roof area covered by building integrated solar photovoltaic and building integrated solar thermal panels.
+
+A5.106.11.2.1 Solar reflectance.
+
+Roofing materials shall have a minimum aged solar reflectance equal to or greater than the values specified in Table A5.106.11.2.2 for Tier 1 and Table A5.106.11.2.3 for Tier 2.
+
+If Cool Roof Rating Council (CRRC) testing for aged reflectance is not available for any roofing products, the aged value shall be determined using the CRRC certified initial value using the equation ρaged = [0.2 + ß [ρinitial – 0.2], where ρinitial = the initial solar reflectance and soiling resistance, ß, listed by product type in Table A5.106.11.2.1.
+
+Solar reflectance may also be certified by other supervisory entities approved by the Energy Commission pursuant to Title 24, Part 1, California Administrative Code.
+
+TABLE A5.106.11.2.1
+
+VALUES OF SOILING RESISTANCE, ß, BY PRODUCT TYPE
+
+PRODUCT TYPE	CRRC PRODUCT CATEGORY	ß
+Field-applied coating	Field-applied coating	0.65
+Other	Not a field-applied coating	0.70A5.106.11.2.2 Thermal emittance.
+
+Roofing materials shall have a CRRC initial or aged thermal emittance as determined in accordance with ASTM E408 or C1371 equal to or greater than those specified in Table A5.106.11.2.2 for Tier 1 and Table A5.106.11.2.3 for Tier 2.
+
+Thermal emittance may also be certified by other supervisory entities approved by the Energy Commission pursuant to Title 24, Part 1, California Administrative Code.
+
+TABLE A5.106.11.2.2 [BSC]
+
+TIER 1
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	1–16	0.63	0.75	75
+> 2:12	1–16	0.20	0.75	16A5.106.11.2.3 Solar reflectance index alternative.
+
+Solar Reflectance Index (SRI) equal to or greater than the values specified in Table A5.106.11.2.2 for Tier 1 and Table A5.106.11.2.3 for Tier 2 may be used as an alternative to compliance with the aged solar reflectance values and thermal emittance.
+
+SRI values used to comply with this section shall be calculated using the Solar Reflectance Index (SRI) Calculation Worksheet (SRI-WS) developed by the California Energy Commission or in compliance with ASTM E1980-11 as specified in the California Energy Code, Section 110.8(i)3. Solar reflectance values used in the SRI-WS shall be based on the aged reflectance value of the roofing product or the equation in section A5.106.11.2.1 if the CRRC certified aged solar reflectance are not available. Certified Thermal emittance used in the SRI-WS may be either the initial value or the aged value listed by the CRRC.
+
+Solar reflectance and thermal emittance may also be certified by other supervisory entities approved by the Commission pursuant to Title 24, Part 1, California Administrative Code.
+
+Note: The Solar Reflectance Index Calculation Worksheet (SRI-WS) is available by contacting the Energy Standard Hotline at 1-800-772-3300, website at www.energy.ca.gov or by email at Title24@energy.state.ca.us.
+
+TABLE A5.106.11.2.3 [BSC]
+
+TIER 2
+
+ROOF SLOPE	CLIMATE ZONE	MINIMUM AGED SOLAR REFLECTANCE	THERMAL EMITTANCE	SRI
+≤ 2:12	1–16	0.68	0.85	82
+> 2:12	1–16	0.28	0.85	27A5.106.11.3 Verification of compliance.
+
+If no documentation is available, an inspection shall be conducted to ensure roofing materials meet cool roof aged solar reflectance and thermal emittance or SRI values.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLEAPPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURESDIVISION A5.2 – ENERGY EFFICIENCY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	2	3	4
+>	Adopt entire CA chapter																				
+	Adopt entire chapter as amended (amended sections listed below)																				
+	Adopt only those sections that are listed below																	X			
+	Chapter/Section																				
+>	Appendix A5.2																	X			
+																					Division A5.2  – ENERGY EFFICIENCY Division A5.2 – ENERGY EFFICIENCY
+
+SECTION A5.201 GENERAL
+
+A5.201.1 Scope.
+
+For the purposes of mandatory energy efficiency standards in this code, the California Energy Commission will continue to adopt mandatory standards. It is the intent of these voluntary provisions to encourage local jurisdictions through codification to achieve exemplary performance in the area of building energy efficiency. Local jurisdictions adopting these voluntary provisions as mandatory local energy efficiency standards shall submit the required application and receive the required findings of the California Energy Commission in compliance with Title 24, Part 1, Section 10-106, prior to enforcement. Once the required filing has been verified and finding has been made by the Energy Commission, local jurisdictions shall file an ordinance expressly marking the local modifications along with findings and receive the required acceptance from the California Building Standards Commission in compliance with Section 101.7 of this code, prior to enforcement (Title 24, Part 1, Section 10-106 is available at http://www.energy.ca.gov/title24/2022standards/).
+
+SECTION A5.202 DEFINITIONS
+
+A5.202.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+ENERGY BUDGET.
+
+GEOTHERMAL.
+
+PROCESS.
+
+SOLAR ACCESS.
+
+TIME DEPENDENT VALUATION (TDV).
+
+SECTION A5.203 PERFORMANCE APPROACH
+
+A5.203.1 Energy efficiency.
+
+Nonresidential, high-rise residential and hotel/motel buildings that include lighting and/or mechanical systems shall comply with Sections A5.203.1.1 and A5.203.1.2. Newly constructed buildings and additions are included in the scope of these sections. Buildings permitted without lighting or mechanical systems shall comply with Section A5.203.1.1 but are not required to comply with Section A5.203.1.2.
+
+A5.203.1.1 Tier 1 and Tier 2 prerequisites.
+
+To comply with Tier 1, ONE of the following efficiency measures is required for all applicable components of the building project. To comply with Tier 2, TWO of the following efficiency measures are required.
+
+A5.203.1.1.1 Outdoor lighting.
+
+Newly installed outdoor lighting power shall be no greater than 90 percent of the Allowed Outdoor Lighting Power, and general hardscape lighting within the scope of Title 24, Part 6, Section 140.7(b)1 shall have a color temperature no higher than 3000K. The Allowed Outdoor Lighting Power calculation is specified in Title 24, Part 6, Section 140.7, Requirements For Outdoor Lighting.
+
+Exception: The color temperature requirement is not applicable to the applications identified in the exceptions to Section 140.7(a) nor to the applications identified as “specific applications” in Section 140.7(b)2 and Table 140.7.
+
+A5.203.1.1.2 Service water heating in restaurants.
+
+Newly constructed restaurants 8,000 square feet or greater and with service water heaters rated 75,000 Btu/h or greater shall install a solar water-heating system with a minimum solar savings fraction of 0.15.
+
+Exceptions:
+
+1.Buildings with a natural gas service water heater with a minimum of 95-percent thermal efficiency.
+
+2.Buildings where greater than 75 percent of the total roof area has annual solar access that is less than 70 percent. Solar access is the ratio of solar insolation, including shade, to the solar insolation without shade. Shading from obstructions located on the roof or any other part of the building shall not be included in the determination of annual solar access.
+
+A5.203.1.1.3 Warehouse dock seal doors.
+
+Exterior loading dock doors that are adjacent to conditioned or indirectly conditioned spaces shall have dock seals or dock shelters installed at the time of permitting. This requirement shall apply to newly constructed buildings and to loading dock doors added to existing buildings.
+
+A5.203.1.1.4 Daylight Design Power Adjustments Factors (PAFs).
+
+Daylighting devices shall be installed as specified in Title 24, Part 6, Section 140.3(d).
+
+A5.203.1.1.5 Exhaust air heat recovery.
+
+Heat recovery requirements based on ASHRAE 90.1, Section 6.5.6.1 are adapted and modified for California climate zones as described below.
+
+1.Systems with minimum design outdoor air fraction of 80 percent or greater and supply air flow of 200 cfm or greater in climate zones 2, 9, 10, 11, 12, 13, 14, 15 shall have a heat recovery system.
+
+2.Heat recovery systems required by this section shall result in a net sensible energy recovery ratio of at least 60 percent for both heating and cooling as tested using AHRI 1060-2014 or 1061-2014 and certified by AHRI. A 60 percent sensible energy recovery ratio shall mean a change in the dry-bulb of the outdoor air supply equal to 60 percent of the difference between the outdoor air and exhaust air dry-bulb at design conditions. Provisions shall be made to bypass or control the energy recovery system to permit air economizer operation as required by Title 24, Part 6, Section 140.4(e), Economizers.
+
+Exceptions:
+
+1.Systems serving spaces that are not cooled and that are heated to less than 60°F.
+
+2.Where more than 60 percent of the outdoor air heating energy is provided from site-recovered energy.
+
+3.Where the sum of the airflow rates exhausted and relieved within 20 feet of each other is less than 75 percent of the design outdoor airflow rate, excluding exhaust air that is:
+
+1.Used for another energy recovery system;
+
+2.Not allowed by ASHRAE Standard 170 for use in energy recovery systems with leakage potential; or
+
+3. Of Class 4 as defined in ASHRAE Standard 62.1.
+
+4.Systems expected to operate less than 20 hours per week.
+
+A5.203.1.2 Performance standard.
+
+Comply with one of the advanced efficiency levels indicated below.
+
+A5.203.1.2.1 Tier 1.
+
+Buildings complying with the first level of advanced energy efficiency shall have an Energy Budget that is no greater than indicated below, depending on building type and the type of energy systems included in the building project. If the newly constructed building or addition does not include indoor lighting or mechanical systems, then no additional performance requirements above Title 24, Part 6 are required.
+
+1.For nonresidential building projects that include indoor lighting or mechanical systems, but not both: No greater than 95 percent of the Title 24, Part 6, Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+2.For nonresidential building projects that include indoor lighting and mechanical systems: No greater than 90 percent of the Title 24, Part 6 Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+3.For high-rise residential and hotel/motel building projects: No greater than 95 percent of the Title 24, Part 6, Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+A5.203.1.2.2 Tier 2.
+
+Buildings complying with the second level of advanced energy efficiency shall have an Energy Budget that is no greater than indicated below, depending on building type and the type of energy systems included in the building project. If the newly constructed building or addition does not include indoor lighting or mechanical systems, then no additional performance requirements above Title 24, Part 6 are required.
+
+1.For nonresidential building projects that include indoor lighting or mechanical systems, but not both: No greater than 90 percent of the Title 24, Part 6, Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+2.For nonresidential building projects that include indoor lighting and mechanical systems: No greater than 85 percent of the Title 24, Part 6, Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+3.For high-rise residential and hotel/motel building projects: No greater than 95 percent of the Title 24, Part 6, Energy Budget for the Standard Design Building as calculated by compliance software certified by the Energy Commission.
+
+Note: For Energy Budget calculations, high-rise residential and hotel/motel buildings are considered nonresidential buildings.
+
+SECTION A5.211 RENEWABLE ENERGY
+
+A5.211.1 On-site renewable energy.
+
+Use on-site renewable energy sources such as solar, wind, geothermal, low-impact hydro, biomass and bio-gas for at least 1 percent of the electric power calculated as the product of the building service voltage and the amperage specified by the electrical service overcurrent protection device rating or 1kW, (whichever is greater), in addition to the electrical demand required to meet 1 percent of the natural gas and propane use. The building project’s electrical service overcurrent protection device rating shall be calculated in accordance with the California Electrical Code. Natural gas or propane use is calculated in accordance with the California Plumbing Code.
+
+A5.211.1.1 Documentation.
+
+Using a calculation method approved by the California Energy Commission, calculate the renewable onsite energy system to meet the requirements of Section A5.211.1, expressed in kW. Factor in net-metering, if offered by local utility, on an annual basis.
+
+A5.211.3 Green power.
+
+If offered by local utility provider, participate in a renewable energy portfolio program that provides a minimum of 50-percent electrical power from renewable sources. Maintain documentation through utility billings.
+
+SECTION A5.212 ELEVATORS, ESCALATORS AND OTHER EQUIPMENT
+
+A5.212.1 Elevators and escalators.
+
+In buildings with more than one elevator or two escalators, provide systems and controls to reduce the energy demand of elevators and escalators as follows. Document systems operation and controls in the project specifications and commissioning plan.
+
+A5.212.1.1 Elevators.
+
+Traction elevators shall have a regenerative drive system that feeds electrical power back into the building grid when the elevator is in motion.
+
+A5.212.1.1.1 Car lights and fan.
+
+A parked elevator shall turn off its car lights and fan automatically until the elevator is called for use.
+
+A5.212.1.2 Escalators.
+
+An escalator shall have a VVVF motor drive system that is fully regenerative when the escalator is in motion.
+
+A5.212.1.4 Controls.
+
+Controls that reduce energy demand shall meet requirements of CCR, Title 8, Chapter 4, Subchapter 6 and shall not interrupt emergency operations for elevators required in CCR, Title 24, Part 2, California Building Code.
+
+SECTION A5.213 ENERGY EFFICIENT STEEL FRAMING
+
+A5.213.1 Steel framing.
+
+Design steel framing for maximum energy efficiency. Techniques for avoiding thermal bridging in the envelope include:
+
+1.Exterior rigid insulation;
+
+2.Punching large holes in the stud web without affecting the structural integrity of the stud;
+
+3.Spacing the studs as far as possible while maintaining the structural integrity of the structure; and
+
+4.Detailed design of intersections of wall openings and building intersections of floors, walls and roofs.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLEAPPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURESDIVISION A5.3 – WATER EFFICIENCY AND CONSERVATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																			
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																						
+Chapter/Section																						
+																					Division A5.3  – WATER EFFICIENCY AND CONSERVATION Division A5.3 – WATER EFFICIENCY AND CONSERVATION
+
+SECTION A5.301 GENERAL
+
+A5.301.1 Scope.
+
+SECTION A5.302 DEFINITIONS
+
+A5.302.1 Definitions.
+
+The following words and terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings shown herein.
+
+COMPACT DISHWASHER.
+
+GRAYWATER.
+
+MODEL WATER EFFICIENT LANDSCAPE ORDINANCE.
+
+PLANTS.
+
+POTABLE WATER.
+
+RECYCLED WATER.
+
+STANDARD DISHWASHER.
+
+SUBMETER.
+
+SECTION A5.303 INDOOR WATER USE
+
+A5.303.2.3.1 Tier 1 – 12-percent savings.
+
+A schedule of plumbing fixtures and fixture fittings that will reduce the overall use of potable water within the building by 12 percent shall be provided. The reduction shall be based on the maximum allowable water use per plumbing fixture and fitting as required by the California Building Standards Code. The 12-percent reduction in potable water use shall be demonstrated by one of the following methods:
+
+1. Prescriptive method. Each plumbing fixture and fitting shall not exceed the maximum flow rate at greater than or equal to 12-percent reduction as specified in Table A5.303.2.3.1; or
+
+2. Performance method. A calculation demonstrating a 12-percent reduction in the building “water use baseline” as established in Table A5.303.2.2 shall be provided.
+
+TABLE A5.303.2.3.1
+
+FIXTURE FLOW RATES (PRESCRIPTIVE METHOD)
+
+FIXTURE TYPE	BASELINE FLOW RATE2	MAXIMUM FLOW RATE AT ≥ 12 PERCENT REDUCTION
+Showerheads	1.8 gpm @ 80 psi	1.6 gpm @ 80 psi
+Lavatory faucets nonresidential3	0.5 gpm @ 60 psi	0.35 gpm @ 60 psi
+Kitchen faucets3	1.8 gpm @ 60 psi	1.6 gpm @ 60 psi
+Wash fountains	1.8 gallons/cycle/20 [rim space (in.) @ 60 psi]	1.6 gpm/20 [rim space (in.) @ 60 psi]
+Metering faucets	0.20 gallons/cycle	0.18 gallons/cycle
+Metering faucets for wash fountains	0.20 gallons/cycle/20 [rim space (in.) @ 60 psi]	0.18 gallons/cycle 20 [rim space (in.) @ 60 psi]
+Gravity tank type water closets	1.28 gallons/flush	1.12 gallons/flush1
+Flushometer tank water closets	1.28 gallons/flush	1.12 gallons/flush1
+Flushometer valve water closets	1.28 gallons/flush	1.12 gallons/flush1
+Electromechanical hydraulic water closets	1.28 gallons/flush	1.12 gallons/flush1
+Urinals	0.5 or 0.1254 gallons/flush	0.44 or 0.11 gallons/flush1. Includes water closets with an effective flush rate of 1.12 gallons or less when tested per ASME A 112.19.2 and ASME A 112.19.14.
+
+2. See Table A5.503.2.2 for additional notes and references.
+
+3. Where complying faucets are unavailable, aerators rated at 0.35 gpm or other means may be used to achieve reduction.
+
+4. Floor-mounted urinals @ 0.5 GPF or wall-mounted urinals @ 0.125 GPF.
+
+A5.303.2.3.2 Tier 2 – 20-percent savings.
+
+A schedule of plumbing fixtures and fixture fittings that will reduce the overall use of potable water within the building by 20 percent shall be provided. A calculation demonstrating a 20-percent reduction in the building “water use baseline” as established in Table A5.303.2.2 shall be provided.
+
+A5.303.2.3.3 25-percent savings.
+
+A schedule of plumbing fixtures and fixture fittings that will reduce the overall use of potable water within the building by 25 percent shall be provided. A calculation demonstrating a 25-percent reduction in the building “water use baseline” as established in Table A5.303.2.2 shall be provided.
+
+A5.303.2.3.4 Nonpotable water systems for indoor use.
+
+Utilizing nonpotable water systems (such as captured rainwater, treated graywater and recycled water) intended to supply water closets, urinals and other allowed uses, may be used in the calculations demonstrating the 12-, 20- or 25-percent reduction. The nonpotable water systems shall comply with the current edition of the California Plumbing Code.
+
+TABLE A5.303.2.2
+
+WATER USE BASELINE (PERFORMANCE METHOD)3
+
+FIXTURE TYPE	BASELINE FLOW RATE	DURATION	DAILY USES	OCCUPANTS2
+Showerheads	1.8 gpm @ 80 psi	5 min.	1	X2a
+Lavatory faucets nonresidential	0.5 gpm @ 60 psi	.25 min.	3	X
+Kitchen faucets	1.8 gpm @ 60 psi	4 min.	1	X2b
+Replacement aerators	2 gpm @ 60 psi			X
+Wash fountains	1.8 gpm/20 [rim space (in.) @ 60 psi]			X
+Metering faucets	0.20 gallons/cycle	.25 min.	3	X
+Metering faucets for wash fountains	0.20 gallons/cycle/20 [rim space (in.) @ 60 psi]	.25 min.	1 male1 3 female	X
+Gravity tank type water closets	1.28 gallons/flush	1 flush	1 male1 3 female	X
+Flushometer tank water closets	1.28 gallons/flush	1 flush	1 male1 3 female	X
+Flushometer valve water closets	1.28 gallons/flush	1 flush	1 male1 3 female	X
+Electromechanical hydraulic water closets	1.28 gallons/flush	1 flush	1 male1 3 female	X
+Urinals	0.5 or 0.1254 gallons/flush	1 flush	2 male	X1.The daily use number shall be increased to three if urinals are not installed in the room.
+
+2.Refer to Table 4-1, Chapter 4, 2022 California Plumbing Code, for occupant load factors.
+
+a.Shower use by occupants depends on the type of use of a building or portion of a building, e.g., total occupant load for a health club, but only a fraction of the occupants in an office building as determined by the anticipated number of users.
+
+b.Kitchen faucet use is determined by the occupant load of the area served by the fixture.
+
+3.Use worksheet WS-1 to calculate baseline water use.
+
+4.Floor-mounted urinals @ 0.5 GPF or wall-mounted urinals @ 0.125 GPF.
+
+A5.303.3 Appliances and fixtures for commercial application.
+
+Appliances and fixtures shall meet the following:
+
+1. Clothes washers shall have a maximum Water Factor (WF) that will reduce the use of water by 10 percent below the California Energy Commissions’ WF standards for commercial clothes washers located in Title 20 of the California Code of Regulations.
+
+2. Dishwashers shall meet the following water use standards:
+
+a. Residential—ENERGY STAR.
+
+i. Standard Dishwashers – 4.25 gallons per cycle.
+
+ii. Compact Dishwashers – 3.5 gallons per cycle.
+
+b. Commercial—Shall be in accordance with ENERGY STAR requirements. Refer to Table A5.303.3.
+
+3. Ice makers shall be air cooled.
+
+4. Food steamers shall be connectionless or boilerless – and shall consume no more than 2 gallons of water per pan per hour, including condensate water, for batch type steamers, and no more than 5 gallons of water per pan per hour, including condensate water, for cook to order steamers.
+
+5. The use and installation of water softeners that discharge to the community sewer system may be limited or prohibited by local agencies if certain conditions are met.
+
+6. Combination ovens shall use a maximum of 1.5 gallons of water per hour per pan, including condensate water.
+
+7. Food waste pulping systems shall use no more than 2 gpm of potable water.
+
+7.1. Note: potable water excludes on-site graywater use, such as dishwasher discharge water.
+
+TABLE A5.303.3
+
+COMMERCIAL DISHWASHER WATER USE
+
+TYPE	HIGH-TEMPERATURE—MAXIMUM GALLONS PER RACK	LOW-TEMPERATURE—MAXIMUM GALLONS PER RACK
+Single Tank Conveyor	0.70 (2.6 L)	≤ 0.79 (3 L)
+Multiple Tank Conveyor	≤ 0.54 (2 L)	≤ 0.54 (2 L)
+Stationary Single Tank Door	≤ 0.89 (3.4 L)	≤ 1.18 (4.5 L)
+Under Counter	≤ 0.86 (3.3 L)	≤ 1.19 (4.5 L)
+Pot, Pan and Utensil	≤ 0.58 GPSF	≤ 0.58 GPSF
+Single Tank Flight Type	GPH ≤ 2.975x + 55.00	GPH ≤ 2.975x + 55.00
+Multiple Tank Flight Type	GPH ≤ 4.96x + 17.00	GPH ≤ 4.96x + 17.00Note: GPSF = gallons per square foot of rack; GPH = gallons per hour;
+
+X = square feet of conveyor belt/minute (max conveyor speed sf/min as tested and certified to NSF/ANSI Standard 3)
+
+A5.303.4 Water conserving plumbing fixtures and fittings.
+
+A5.303.4.1 Nonwater urinals.
+
+Nonwater urinals with drain cleansing action are installed in accordance with the California Plumbing Code.
+
+Where approved, nonwater urinals with drain cleansing action (formerly urinal, hybrids) as defined in Chapter 2, shall be considered waterless urinals.
+
+A5.303.5 Dual plumbing.
+
+New buildings and facilities shall be dual plumbed for potable and recycled water systems for toilet flushing when recycled water is available as determined by the enforcement authority.
+
+SECTION A5.304 OUTDOOR WATER USE
+
+A5.304.1 Reserved.
+
+A5.304.2 Outdoor water use.
+
+For new water service not subject to the provisions of Water Code Section 535, separate meters or submeters shall be installed for indoor and outdoor potable water use for landscaped areas of at least 500 square feet but not more than 1,000 square feet.
+
+A5.304.6 Restoration of areas disturbed by construction.
+
+Restore all landscape areas disturbed during construction by planting with local adaptive and/or noninvasive vegetation.
+
+A5.304.7 Previously developed sites.
+
+On previously developed or graded sites, restore or protect at least 50 percent of the site area with adaptive and/or noninvasive vegetation. Projects complying with Section A5.106.3, Item 3 may apply vegetated roof surface to this calculation if the roof plants meet the definition of adaptive and noninvasive.
+
+Exception: Area of the building footprint is excluded from the calculation.
+
+A5.304.8 Graywater irrigation system.
+
+Install a graywater collection system for onsite subsurface irrigation using graywater collected from bathtubs, showers, bathroom wash basins and laundry water. See California Plumbing Code.
+
+SECTION A5.305 WATER REUSE
+
+A5.305.1 Nonpotable water systems.
+
+Nonpotable water systems for indoor and outdoor use shall comply with the current edition of the California Plumbing Code.
+
+A5.305.2 Irrigation systems.
+
+Irrigation systems regulated by a local water efficient landscape ordinance or by the California Department of Water Resources Model Water Efficient Landscape Ordinance (MWELO) shall use recycled water.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLEAPPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURESDIVISION A5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																						
+Chapter/Section																						Division A5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY Division A5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+SECTION A5.401 GENERAL
+
+A5.401.1 Scope.
+
+The provisions of this chapter shall outline means of achieving material conservation and resource efficiency through reuse of existing building stock and materials; use of recycled, regional, rapidly renewable and certified wood materials; and employment of techniques to reduce pollution through recycling of materials.
+
+SECTION A5.402 DEFINITIONS
+
+A5.402.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+BUILDING COMMISSIONING.
+
+EMBODIED ENERGY.
+
+EUTROPHICATION.
+
+LIFE CYCLE ASSESSMENT (LCA).
+
+LIFE CYCLE INVENTORY (LCI).
+
+OVE.
+
+POSTCONSUMER CONTENT.
+
+PRECONSUMER (or POSTINDUSTRIAL) CONTENT.
+
+RECYCLED CONTENT.
+
+RECYCLED CONTENT VALUE (RCV).
+
+SECTION A5.403 FOUNDATION SYSTEMS  (Reserved)
+
+SECTION A5.404 EFFICIENT FRAMING TECHNIQUES
+
+A5.404.1 Wood framing.
+
+Employ advanced wood framing techniques or OVE, as recommended by the US Department of Energy’s Office of Building Technology, State and Community Programs and as permitted by the enforcing agency.
+
+A5.404.1.1 Structural or fire-resistance integrity.
+
+The OVE selected shall not conflict with structural framing methods or fire-rated assemblies required by the California Building Code.
+
+A5.404.1.2 Framing specifications.
+
+Advanced framing techniques include the following:
+
+1. Building design using 2-foot modules;
+
+2. Spacing wall studs up to 24 inches on center;
+
+3. Spacing floor and roof framing members up to 24 inches on center;
+
+4. Using 2-stud corner framing and drywall clips or scrap lumber for drywall backing;
+
+5. Eliminating solid headers in non-load-bearing walls;
+
+6. Using in-line framing, aligning floor, wall and roof framing members vertically for direct transfer of loads; and
+
+7. Using single lumber headers and top plates where appropriate.
+
+Note: Additional information can be obtained from the US DOE Energy Efficiency and Renewable Energy (EERE) website.
+
+SECTION A5.405 MATERIAL SOURCES
+
+A5.405.1 Regional materials.
+
+Compared to other products in a given product category, select building materials or products for permanent installation on the project that have been harvested or manufactured in California or within 500 miles of the project site.
+
+1. For those materials locally manufactured, select materials manufactured using low embodied energy or those that will result in net energy savings over their useful life.
+
+2. Regional materials shall make up at least 10 percent, based on cost, of total materials value.
+
+3. If regional materials make up only part of a product, their values are calculated as percentages based on weight.
+
+4. Provide documentation of the origin, net projected energy savings and value of regional materials.
+
+A5.405.2 Bio-based materials.
+
+Select bio-based building materials and products made from solid wood, engineered wood, bamboo, wool, cotton, cork, straw, natural fibers, products made from crops (soy-based, corn-based) and other bio-based materials with at least 50-percent bio-based content.
+
+A5.405.2.1 Reserved.
+
+A5.405.2.2 Rapidly renewable materials.
+
+Use materials made from plants harvested within a ten-year cycle for at least 2.5 percent of total materials value, based on estimated cost.
+
+A5.405.3 Reused materials.
+
+Use salvaged, refurbished, refinished or reused materials for a minimum of 5 percent of the total value, based on estimated cost of materials on the project. Provide documentation as to the respective values.
+
+Note: Sources of some reused materials can be found at CalRecycle’s https://www.calrecycle.ca.gov/. See also Appendix A5, Division A5.1, Section A5.105.1 for on-site materials reuse.
+Note: Sources of some reused materials can be found at CalRecycle’s https://www.calrecycle.ca.gov/. See also Appendix A5, Division A5.1, Section A5.105.1 for on-site materials reuse.
+
+A5.405.4 Recycled content.
+
+Use materials, equivalent in performance to virgin materials with a total (combined) recycled content value (RCV) of:
+
+Tier 1. The RCV shall not be less than 10 percent of the total material cost of the project, or use two products which meet the minimum recycled content levels in Table A5.405.4 for at least 75%, by cost, of all products in that category in the project. (Equation A5. 4-1)
+
+Tier 2. The RCV shall not be less than 15 percent of the total material cost of the project, or use three products which meet the minimum recycled content levels in Table A5.405.4 for at least 75%, by cost, of all products in that category in the project.
+(Equation A5. 4-2)
+Tier 1. The RCV shall not be less than 10 percent of the total material cost of the project, or use two products which meet the minimum recycled content levels in Table A5.405.4 for at least 75%, by cost, of all products in that category in the project.
+
+Tier 2. The RCV shall not be less than 15 percent of the total material cost of the project, or use three products which meet the minimum recycled content levels in Table A5.405.4 for at least 75%, by cost, of all products in that category in the project.
+
+For the purposes of this section, materials used as components of the structural frame shall not be used to calculate recycled content. The structural frame includes the load bearing structural elements such as wall studs, plates, sills, columns, beams, girders, joists, rafters and trusses.
+
+Notes:
+
+1. Sample forms which allow user input and automatic calculation are located at www.hcd.ca.gov/CALGreen.html and may be used to simplify documenting compliance with this section and for calculating recycled content value of materials or assembly products.
+
+2. Sources and recycled content of some recycled materials can be obtained from CalRecycle if not provided by the manufacturer.
+
+TABLE A5.405.4
+
+MINIMUM RECYCLED CONTENT LEVELS
+
+MATERIAL/PRODUCT TYPE	MINIMUM TOTAL RECYCLED CONTENT	MINIMUM POST-CONSUMER RECYCLED CONTENT
+Insulation, fiberglass	30%	30%
+Insulation, cellulose	75%	75%
+Exterior Paint, latex	50%	50%
+Carpet, nylon	10%	10%
+Compost	80%	80%
+Mulch	80%	80%
+Acoustical ceiling panels	60%	—
+Drywall, gypsum	4%	4%
+Aggregate base	80%	80%A5.405.4.1 Total material cost.
+
+Total material cost is the total estimated or actual cost of materials and assembly products used in the project. The required total recycled content value for the project (in dollars) shall be determined by Equation A5.4-1 or A5.4-2.
+
+Total material cost shall be calculated by using one of the methods specified below:
+
+1. Simplified method. To obtain the total cost of the project multiply the square footage of the structure by the square foot valuation established by the enforcing agency. The total material cost is 45 percent of the total cost of the project. Use Equations A5.4-3A or A5.4-3B to determine total material costs using the simplified method.
+
+(Equation A5.4-3A)
+
+(Equation A5.4-3B)
+2. Detailed method. To obtain the total cost of the project, add the estimated and/or actual costs of materials used for the project including the structure (steel, concrete, wood or masonry); the enclosure (roof, windows, doors and exterior walls); the interior walls, ceilings and finishes (gypsum board, ceiling tiles, etc.). The total estimated and/or actual costs shall not include fees, labor and installation costs, overhead, appliances, equipment, furniture or furnishings.
+
+A5.405.4.2 Determination of total recycled content value (RCV).
+
+Total RCV may be determined either by dollars or percentage as noted below.
+
+1. Total recycled content value for the project (in dollars). This is the sum of the recycled content value of the materials and/or assemblies considered and shall be determined by Equation A5.4-4. The result of this calculation may be directly compared to Equations A5.4-1 and A5.4-2 to determine compliance with Tier 1 or Tier 2 prerequisites.
+
+(Equation A5.4-4)
+2. Total recycled content value for the project (by percentage). This is expressed as a percentage of the total material cost and shall be determined by Equations A5.4-4 and A5.4-5. The result of this calculation may be directly compared for compliance with Tier 1 (10 percent) or Tier 2 (15 percent) prerequisites.
+
+(Equation A5.4-5)
+A5.405.4.3 Determination of recycled content value of materials (RCVM).
+
+The recycled content value of each material (RCVM) is calculated by multiplying the cost of material, as defined by the recycled content. See Equations A5.4-6 and A5.4-7.
+
+Notes:
+
+1. If the postconsumer and preconsumer recycled content is provided in pounds, Equation A5.4-7 may be used, but the final result (in pounds) must be multiplied by 100 to show RCM as a percentage.
+
+2. If the manufacturer does not separately identify the pre-consumer and post-consumer recycled content of a material but reports it as a total single percentage, the total amount shall be considered preconsumer recycled material.
+
+A5.405.4.4 Determination of recycled content value of assemblies – (RCVA).
+
+Recycled content value of assemblies is calculated by multiplying the total cost of assembly by the total recycled content of the assembly (RCA), and shall be determined by Equation A5.4-8.
+
+If not provided by the manufacturer, Total RCA (percent) is the sum (Σ) of the Proportional Recycled Content (PRCM) of each material in the assembly. RCA shall be determined by Equation A4.4-9.
+
+PRCM of each material may be calculated by one of two methods using the following formulas:
+
+Method 1: Recycled content (Postconsumer and Preconsumer) of each material provided in percentages
+(Equation A5.4-10)
+(Equation A5.4-11)
+(See Equation A5.4-7)
+
+Method 2: Recycled content (Postconsumer and Preconsumer) provided in pounds
+(Equation A5.4-12)
+(Equation A5.4-13)
+Note: If the manufacturer does not separately identify the pre-consumer and post-consumer recycled content of a material but reports it as a total single percentage, the total amount shall be considered preconsumer recycled material.
+
+Note: If the manufacturer does not separately identify the pre-consumer and post-consumer recycled content of a material but reports it as a total single percentage, the total amount shall be considered preconsumer recycled material.
+Method 1: Recycled content (Postconsumer and Preconsumer) of each material provided in percentages
+
+Method 2: Recycled content (Postconsumer and Preconsumer) provided in pounds
+
+Note: If the manufacturer does not separately identify the pre-consumer and post-consumer recycled content of a material but reports it as a total single percentage, the total amount shall be considered preconsumer recycled material.
+Note: If the manufacturer does not separately identify the pre-consumer and post-consumer recycled content of a material but reports it as a total single percentage, the total amount shall be considered preconsumer recycled material.
+
+A5.405.4.5 Alternate method for concrete.
+
+When Supplementary Cementitious Materials (SCMs), such as fly ash or ground blast furnace slag cement, are used in concrete, an alternate method of calculating and reporting recycled content in concrete products shall be permitted. When determining the recycled content value, the percent recycled content shall be multiplied by the cost of the cementitious materials only, not the total cost of the concrete.
+
+A5.405.5 Cement and concrete.
+
+Use cement and concrete made with recycled products and complying with the following sections.
+
+A5.405.5.1 Cement.
+
+Cement shall comply with one of the following standards:
+
+1. Portland cement shall meet ASTM C150, Standard Specification for Portland Cement.
+
+2. Blended cement shall meet ASTM C595, Standard Specification for Blended Hydraulic Cement or ASTM C1157, Standard Performance Specification for Hydraulic Cement.
+
+3. Other Hydraulic Cements shall meet ASTM C1157, Standard Performance Specification for Hydraulic Cement.
+
+A5.405.5.2 Concrete.
+
+Unless otherwise directed by the Engineer of Record, use concrete manufactured with cementitious materials in accordance with Sections A5.405.5.2.1 and A5.405.5.2.1.1, as approved by the enforcing agency.
+
+A5.405.5.2.1 Supplementary cementitious materials (SCM).
+
+Use concrete made with one or more supplementary cementitious materials (SCM) conforming to the following standards:
+
+1. Fly ash conforming to ASTM C618, Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete.
+
+2. Slag cement (GGBFS) conforming to ASTM C989, Specification for Use in Concrete and Mortars.
+
+3. Silica fume conforming to ASTM C1240, Specification for Silica Fume Used in Cementitious Mixtures.
+
+4. Natural pozzolan conforming to ASTM C618, Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete.
+
+5. Blended supplementary cementitious materials conforming to ASTM C1697, Standard Specification for Blended Supplementary Cementitious Materials. The amount of each SCM in the blend will be used separately in calculating Equation A5.4-1. If Class C fly ash is used in the blend, it will be considered to be “SL” for the purposes of satisfying the equation.
+
+6. Ultra-fine fly ash (UFFA) conforming to ASTM C618, Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete and the following chemical and physical requirements:
+
+Chemical Requirements	Percent
+Sulfur Trioxide (SO3)	1.5 max.
+Loss on ignition	1.2 max.
+Available Alkalines (as Na2O) equivalent	1.5 max.
+Physical Requirements	Percent
+Particle size distribution	
+ Less than 3.5 microns	50
+ Less than 9.0 microns	90
+Strength Activity Index with portland cement	
+ 7 days	95 (minimum % of control)
+ 28 days	110 (minimum % of control)
+Expansion at 16 days when testing job materials in conformance with ASTM C1567*	0.10 max.* In the test mix, cement shall be replaced with at least 12% UFFA by weight.
+
+7. Metakaolin conforming to ASTM C618, Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete, the following chemical and physical requirements:
+
+Chemical Requirements	Percent
+Silicon Dioxide (SiO2) + Aluminum Oxide (Al2O3)	92.0 min.
+Calcium Oxide (CaO)	1.0 max.
+Sulfur Trioxide (SO3)	1.0 max.
+Loss on ignition	1.2 max.
+Available Alkalies (as Na2O) equivalent	1.0 max.
+Physical Requirements	Percent
+Particle size distribution	
+ Less than 45 microns	95
+Strength Activity Index with portland cement	
+ 7 days	100 (minimum % of control)
+ 28 days	100 (minimum % of control)8. Other materials with comparable or superior environmental benefits, as approved by the Engineer of Record and enforcing authority.
+
+A5.405.5.2.1.1 Mix design equation.
+
+Use any combination of one or more SCM, satisfying Equation A5.4-14. When ASTM C595 or ASTM C1157 cement is used, the amount of SCM in these cements shall be used in calculating Equation A5.4-14.
+
+Exception: Minimums in mix designs approved by the Engineer of Record may be lower where high early strength is needed for concrete products or to meet an accelerated project schedule.
+
+where:
+
+F = Fly ash, natural pozzolan or other approved SCM as a percent of total cementitious material for concrete on the project.
+
+SL = GGBFS, as a percent of total cementitious material for concrete on the project.
+
+UF= Silica fume, metakaolin or UFFA, as a percent of total cementitious material for concrete on the project.
+
+A5.405.5.3 Additional means of compliance.
+
+Any of the following measures shall be permitted to be employed for the production of cement or concrete, depending on their availability and suitability, in conjunction with Section A5.405.5.2.
+
+A5.405.5.3.1 Cement.
+
+The following measures shall be permitted to be used in the manufacture of cement.
+
+A5.405.5.3.1.1 Alternative fuels.
+
+The use of alternative fuels where permitted by state or local air quality standards.
+
+A5.405.5.3.1.2 Alternative power.
+
+Alternate electric power generated at the cement plant and/or green power purchased from the utility meeting the requirements of Section A5.211.
+
+A5.405.5.3.2 Concrete.
+
+The following measures shall be permitted to be used in the manufacture of concrete.
+
+A5.405.5.3.2.1 Alternative energy.
+
+Renewable or alternative energy meeting the requirements of Section A5.211.
+
+A5.405.5.3.2.2 Recycled aggregates.
+
+Concrete made with one or more of the following materials:
+
+1. Blast furnace slag as a lightweight aggregate in unreinforced concrete.
+
+2. Recycled concrete that meets grading requirements of ASTM C33, Standard Specification for Concrete Aggregates.
+
+3. Other materials with comparable or superior environmental benefits, as approved by the engineer and enforcing authority.
+
+A5.405.5.3.2.3 Mixing water.
+
+Water recycled by the local water purveyor or water reclaimed from manufacturing processes and conforming to ASTM C1602, Standard Specification for Mixing Water Used in the Production of Hydraulic Cement Concrete.
+
+A5.405.5.3.2.4 High strength concrete.
+
+Concrete elements designed to reduce their total size compared to standard 3,000 psi concrete, thereby reducing the total volume of cement, aggregate and water used on the project, as approved by the Engineer of Record.
+
+SECTION A5.406 ENHANCED DURABILITY AND 
+
+REDUCED MAINTENANCE
+
+A5.406.1 Choice of materials.
+
+Compared to other products in a given product category, choose materials proven to be characterized by one or more of the following.
+
+A5.406.1.1 Service life.
+
+Select materials for longevity and minimal deterioration under conditions of use.
+
+A5.406.1.2 Reduced maintenance.
+
+Select materials that require little, if any, finishing. For those with surface protection, choose materials that do not require frequent applications of toxic or malodorous finishes.
+
+A5.406.1.3 Recyclability.
+
+Select materials that can be reused or recycled at the end of their service life in the project.
+
+SECTION A5.408 CONSTRUCTION WASTE REDUCTION, DISPOSAL AND RECYCLING
+
+A5.408.3.1 Enhanced construction waste reduction – Tier 1.
+
+Divert to recycle or salvage at least 65 percent of nonhazardous construction and demolition waste generated at the site. Any mixed recyclables that are sent to mixed-waste recycling facilities shall include a qualified third party verified facility average diversion rate. Verification of diversion rates shall meet minimum certification eligibility guidelines, acceptable to the local enforcing agency.
+
+A5.408.3.1.1 Enhanced construction waste reduction – Tier 2.
+
+Divert to recycle or salvage at least 80 percent of nonhazardous construction and demolition waste generated at the site.
+
+A5.408.3.1.2 Verification of compliance.
+
+A copy of the completed waste management report or documentation of certification of the waste management company utilized shall be provided.
+
+Exceptions:
+
+1. Excavated soil and land-clearing debris.
+
+2. Alternate waste reduction methods developed by working with local agencies if diversion or recycle facilities capable of compliance with this item do not exist.
+
+3. Demolition waste meeting local ordinance or calculated in consideration of local recycling facilities and markets.
+
+SECTION A5.409 LIFE CYCLE ASSESSMENT
+
+A5.409.1 General.
+
+Life cycle assessment shall be ISO 14044 compliant. The service life of the building and materials assemblies shall not be less than 60 years unless designated in the construction documents as having a shorter service life as approved by the enforcing agency.
+
+A5.409.2 Whole building life cycle assessment.
+
+Conduct a whole building life assessment, including opPOLLUTANT CONTROLerating energy, showing that the building project achieves at least a 10 percent improvement for at least three of the impacts listed in Section A5.409.2.2, one of which shall be climate change, compared to a reference building of similar size, function, complexity and operating energy performance, and meeting the 2016 California Energy Code at a minimum.
+
+A5.409.2.1 Building components.
+
+The building envelope, structural elements, including footings and foundations, interior ceilings, walls and floors; and exterior finishes shall be considered in the assessment.
+
+Exceptions:
+
+1. Plumbing, mechanical and electrical systems and controls; fire and smoke detection and alarm systems and controls; and conveying systems.
+
+2. Interior finishes are not required to be included.
+
+Notes:1. Software for calculating whole building life cycle assessments includes those found at the Athena Institute website (Impact Estimator software), the PE International website (GaBi software), and the PRe Consultants website (SimaPro software).
+2. Interior finishes, if included, may be assessed using the NIST BEES tool.
+
+1. Software for calculating whole building life cycle assessments includes those found at the Athena Institute website (Impact Estimator software), the PE International website (GaBi software), and the PRe Consultants website (SimaPro software).
+
+2. Interior finishes, if included, may be assessed using the NIST BEES tool.
+Notes:
+
+1. Software for calculating whole building life cycle assessments includes those found at the Athena Institute website (Impact Estimator software), the PE International website (GaBi software), and the PRe Consultants website (SimaPro software).
+
+2. Interior finishes, if included, may be assessed using the NIST BEES tool.
+
+A5.409.2.2 Impacts to be considered.
+
+Select from the following impacts in the assessment:
+
+1. Climate change (greenhouse gases).
+
+2. Fossil fuel depletion.
+
+3. Stratospheric ozone depletion.
+
+4. Acidification of land and water sources.
+
+5. Eutrophication.
+
+6. Photochemical oxidants (smog).
+
+A5.409.3 Materials and system assemblies.
+
+If whole building analysis of the project is not elected, select a minimum of 50 percent of materials or assemblies based on life cycle assessment of at least three of the impacts listed in Section A5.409.2.2, one of which shall be climate change.
+
+Note: Software for calculating life cycle assessments for assemblies and materials may be found at the Athena Institute web site and the NIST BEES web site.
+Note: Software for calculating life cycle assessments for assemblies and materials may be found at the Athena Institute web site and the NIST BEES web site.
+
+A5.409.4 Substitution for prescriptive standards.
+
+Performance of a life cycle assessment completed in accordance with Section A5.409.2 may be substituted for other prescriptive Material Conservation and Resource Efficiency provisions of Division A5.4, including those made mandatory through local adoption of Tier 1 or Tier 2 in Division A5.6.
+
+A5.409.5 Verification of compliance.
+
+Documentation of compliance shall be provided as follows:
+
+1. The assessment is performed in accordance with ISO 14044.
+
+2. The project meets the requirements of other parts of Title 24.
+
+3. A copy of the analysis shall be made available to the enforcement authority.
+
+4. A copy of the analysis and any maintenance or training recommendations shall be included in the operation and maintenance manual.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLEAPPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURESDIVISION A5.5 – ENVIRONMENTAL QUALITY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt entire CA chapter		X																				
+	Adopt entire chapter as amended (amended sections listed below)																						
+>	Adopt only those sections that are listed below								X														
+>	Chapter/Section																						
+	A5.507.5		†						X														
+>																							The state agency does not adopt sections identified by the following symbol: †
+
+Division A5.5 – ENVIRONMENTAL QUALITY Division A5.5 – ENVIRONMENTAL QUALITY
+
+SECTION A5.501 GENERAL
+
+A5.501.1 Scope.
+
+The provisions of this chapter shall outline means of reducing the quantity of air contaminants that are odorous, irritating and/or harmful to the comfort and well-being of a building’s installers, occupants and neighbors.
+
+SECTION A5.502 DEFINITIONS
+
+A5.502.1 Definitions.
+
+The following terms are defined in Chapter 2.
+
+INTERIOR, BUILDING.
+
+MERV. [BSC]
+
+MULTI-OCCUPANT SPACES.
+
+NO ADDED FORMALDEHYDE (NAF) BASED RESINS.
+
+SINGLE OCCUPANT SPACES.
+
+ULTRA-LOW EMITTING FORMALDEHYDE (ULEF) RESINS.
+
+SECTION A5.504 POLLUTANT CONTROL
+
+A5.504.1 Indoor air quality (IAQ) during construction.
+
+Maintain IAQ as provided in Sections A5.504.1.1 and A5.504.1.2.
+
+A5.504.1.1 Temporary ventilation.
+
+Provide temporary ventilation during construction in accordance with Section 120.1 (Requirements for Ventilation) of the California Energy Code, CCR, Title 24, Part 6 and Chapter 4 of CCR, Title 8 and as follows:
+
+1. Ventilation during construction shall be achieved through openings in the building shell using fans to produce a minimum of three air changes per hour.
+
+2. If the building is occupied during demolition or construction, meet or exceed the recommended Control Measures of the Sheet Metal and Air Conditioning Contractors’ National Association (SMACNA) IAQ Guidelines for Occupied Buildings under Construction, 1995, Chapter 3.
+
+A5.504.1.2 Additional IAQ measures.
+
+Employ additional measures as follows:
+
+1. When using generators to generate temporary power, use generators meeting the requirements of CCR, Title 13, Chapter 9 or local ordinance, whichever is more stringent.
+
+2. Protect on-site absorbent materials from moisture. Remove and replace any materials with evidence of mold, mildew or moisture infiltration.
+
+3. Store odorous and high VOC-emitting materials offsite, without packaging, for a sufficient period to allow odors and VOCs to disperse.
+
+4. When possible, once materials are on the jobsite, install odorous and high VOC-emitting materials prior to those that are porous or fibrous.
+
+5. Clean oil and dust from ducts prior to use.
+
+A5.504.2 IAQ postconstruction.
+
+After all interior finishes have been installed, flush out the building by supplying continuous ventilation with all air handling units at their maximum outdoor air rate and all supply fans at their maximum position and rate for at least 14 days.
+
+1. During this time, maintain an internal temperature of at least 60°F and relative humidity no higher than 60 percent. If extenuating circumstances make these temperature and humidity limits unachievable, the flushout may be conducted under conditions as close as possible to these limits, provided that documentation of the extenuating circumstances is provided in writing.
+
+2. Occupancy may start after 4 days, provided flush-out continues for the full 14 days. During occupied times, the thermal comfort conditions of Title 24 must be met.
+
+3. For buildings that rely on natural ventilation, exhaust fans and floor fans must be used to improve air mixing and removal during the 14-day flush-out and windows should remain open.
+
+4. Do not “bake out” the building by increasing the temperature of the space.
+
+5. If continuous ventilation is not possible, flush-out air must total the equivalent of 14 days of maximum outdoor air. The equivalent of 14 days of maximum outdoor air (the target air volume) shall be calculated by multiplying the maximum feasible air flow rate (in ft3/m) by 14 days (20,160 minutes). The air volumes for each period of ventilation are then calculated and summed and the flush-out continues until the total equals the target air volume.
+
+A5.504.2.1 IAQ testing.
+
+If the engineer determines that building flush-out pursuant to Section A5.504.2 is not feasible, a testing alternative may be employed after all interior finishes have been installed, using testing protocols recognized by the United States Environmental Protection Agency (US EPA).
+
+A5.504.2.1.1 Maximum levels of contaminants.
+
+Allowable levels of contaminant concentrations measured by testing shall not exceed the following:
+
+1. Carbon Monoxide (CO): 9 parts per million, not to exceed outdoor levels by 2 parts per million;
+
+2. Formaldehyde: 27 parts per billion;
+
+3. Particulates (PM10): 50 micrograms per cubic meter;
+
+4. 4-Phenylcyclohexene (4-PCH), if fabrics and carpets with styrene butadiene rubber (SBR) latex backing, are installed: 6.5 micrograms per cubic meter; and
+
+5. Total Volatile Organic Compounds (TVOC): 300 micrograms per cubic meter.
+
+A5.504.2.1.2 Test protocols.
+
+Testing of indoor air quality should include the following elements:
+
+1. The contaminant sampling and averaging times and the measurement methods should be sufficient to achieve a Limit of Detection that is below the maximum allowable concentrations.
+
+2. Testing should be conducted with the HVAC system operated at the minimum design outdoor air ventilation rate.
+
+3. Air samplers and monitors should be located near likely sources of formaldehyde and other volatile organic compounds, at a height of 3 to 6 feet from the floor and well away from walls and air diffusers.
+
+4. The test protocols should be justified with documentation to show that appropriate sampling methods and times were used.
+
+A5.504.2.1.3 Noncomplying building areas.
+
+For each sampling area of the building exceeding the maximum concentrations specified in Section A5.504.2.1.1, flush out with outside air and retest samples taken from the same area. Repeat the procedures until testing demonstrates compliance.
+
+Note: US EPA-recognized testing protocols may be found on the Air Resources Board web site.
+Note: US EPA-recognized testing protocols may be found on the Air Resources Board web site.
+
+A5.504.4.5.1 No added formaldehyde Tier 1.
+
+Use composite wood products approved by the California Air Resources Board (ARB) as no-added formaldehyde (NAF) based resins or ultra-low emitting formaldehyde (ULEF) resins.
+
+Notes:
+
+1. See Title 17, Section 93120.3(c) and (d), respectively.
+
+2. Documentation must be provided verifying that materials are certified to meet the pollutant emission limits. A list of manufacturers and their NAF and ULEF certified materials is provided at: http://www.arb.ca.gov/toxics/compwood/nafulef/listofnafulef.htm.
+
+A5.504.4.7 Resilient flooring systems, Tier 1.
+
+Where resilient flooring is installed, at least 90 percent of floor area receiving resilient flooring shall meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+A5.504.4.7.1 Resilient flooring systems, Tier 2.
+
+Where resilient flooring is installed, 100 percent of floor area receiving resilient flooring shall meet the requirements of the California Department of Public Health, “Standard Method for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental Chambers,” Version 1.2, January 2017 (Emission testing method for California Specification 01350).
+
+See California Department of Public Health’s website for certification programs and testing labs.
+
+https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/IAQ/Pages/VOC.aspx#material
+
+A5.504.4.7.2 Verification of compliance.
+
+Documentation shall be provided verifying that resilient flooring materials meet the pollutant emission limits.
+
+A5.504.4.8 Thermal insulation, Tier 1.
+
+Thermal insulation, No-added Formaldehyde. Install thermal insulation which complies with Tier 1 plus does not contain any added formaldehyde.
+
+A5.504.4.8.1 Verification of compliance.
+
+Documentation shall be provided verifying that thermal insulation materials meet the pollutant emission limits.
+
+A5.504.5 Hazardous particulates and chemical pollutants.
+
+Minimize and control pollutant entry into buildings and cross-contamination of regularly occupied areas.
+
+A5.504.5.1 Entryway systems.
+
+Install permanent entryway systems measuring at least six feet in the primary direction of travel to capture dirt and particulates at entryways directly connected to the outdoors.
+
+1. Qualifying entryways are those that serve as regular entry points for building users.
+
+2. Acceptable entryway systems include, but are not limited to, permanently installed grates, grilles or slotted systems that allow cleaning underneath.
+
+3. Roll-out mats are acceptable only when maintained regularly by janitorial contractors as documented in service contract or by in-house staff as documented by written policies and procedures.
+
+A5.504.5.2 Isolation of pollutant sources.
+
+In rooms where activities produce hazardous fumes or chemicals, such as garages, janitorial or laundry rooms and copy or printing rooms, exhaust them and isolate them from their adjacent rooms.
+
+1. Exhaust each space with no air recirculation in accordance with ASHRAE 62.1, Table 6-4 to create negative pressure with respect to adjacent spaces with the doors to the room closed.
+
+2. For each space, provide self-closing doors and deck to deck partitions or a hard ceiling.
+
+3. Install low-noise, vented range hoods for all cooking appliances and in laboratory or other chemical mixing areas.
+
+SECTION A5.507 ENVIRONMENTAL COMFORT
+
+A5.507.1 Lighting and thermal comfort controls.
+
+Provide controls in the workplace as described in Sections A5.507.1.1 and A5.507.1.2.
+
+A5.507.1.1 Single-occupant spaces.
+
+Provide individual controls that meet energy use requirements in the California Energy Code in accordance with Sections A5.507.1.1.1 and A5.507.1.1.2.
+
+A5.507.1.1.1 Lighting.
+
+Provide individual task lighting and/or daylighting controls for at least 90 percent of the building occupants.
+
+A5.507.1.1.2 Thermal comfort.
+
+Provide individual thermal comfort controls for at least 50 percent of the building occupants.
+
+1. Occupants shall have control over at least one of the factors of air temperature, radiant temperature, air speed and humidity as described in ASHRAE 55-2004.
+
+2. Occupants inside 20 feet of the plane of and within 10 feet either side of operable windows can substitute windows to control thermal comfort. The areas of operable window must meet the requirements of Section 120.1 (Requirement for Ventilation) of the California Energy Code.
+
+A5.507.1.2 Multi-occupant spaces.
+
+Provide lighting and thermal comfort system controls for all shared multi-occupant spaces, such as classrooms and conference rooms.
+
+A5.507.2 Daylight.
+
+Provide daylit spaces as required for toplighting and sidelighting in the California Energy Code. In constructing a design, consider the following:
+
+1. Use of light shelves and reflective room surfaces to maximize daylight penetrating the rooms
+
+2. Means to eliminate glare and direct sun light, including through skylights
+
+3. Use of photosensors to turn off electric lighting when daylight is sufficient
+
+4. Not using diffuse daylighting glazing where views are desired
+
+A5.507.3 Views.
+
+Achieve direct line of sight to the outdoor environment via vision glazing between 2 feet 6 inches and 7 feet 6 inches above finish floor for building occupants in 90 percent of all regularly occupied areas as demonstrated by plan view and section cut diagrams.
+
+A5.507.3.1 Interior office spaces.
+
+Entire areas of interior office spaces may be included in the calculation if at least 75 percent of each area has direct line of sight to perimeter vision glazing.
+
+A5.507.3.2 Multi-occupant spaces.
+
+Include in the calculation the square footage with direct line of sight to perimeter vision glazing.
+
+Exceptions to Sections A5.507.2 and A5.507.3. Copy/printing rooms, storage areas, mechanical spaces, restrooms, auditoria and other intermittently or infrequently occupied spaces or spaces where daylight would interfere with use of the space.
+
+A5.507.5 Acoustical control [DSA-SS].
+
+Public Schools and Community Colleges: Unoccupied, furnished classrooms must have a maximum background noise level of no more than 45 dBA LAeq and a maximum (unoccupied, furnished) reverberation of 0.6-second time for classrooms with less than 10,000 cubic feet and a maximum (unoccupied, furnished) reverberation of 0.7-second time for classroom volumes with between 10,000 cubic feet and 20,000 cubic feet.
+
+SECTION A5.508 OUTDOOR AIR QUALITY
+
+A5.508.1.3 Hydrochlorofluorocarbons (HCFCs).
+
+Install HVAC and refrigeration equipment that do not contain HCFCs.
+
+A5.508.1.4 Hydrofluorocarbons (HFCs).
+
+Install HVAC complying with either of the following:
+
+1. Install HVAC, refrigeration and fire suppression equipment that do not contain HFCs or that do not contain HFCs with a global warming potential greater than 150.
+
+2. Install HVAC and refrigeration equipment that limit the use of HFC refrigerant through the use of a secondary heat transfer fluid with a global warming potential no greater than 1.
+
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLEAPPENDIX A5 – NONRESIDENTIAL VOLUNTARY MEASURESDIVISION A5.6 – VOLUNTARY TIERS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below																						
+Chapter/Section																						Division A5.6  –VOLUNTARY TIERS Division Division A5.6 A5.6 A5.6 –VOLUNTARY TIERS –VOLUNTARY TIERS
+
+SECTION A5.601 CALGreen TIER 1 AND TIER 2 CALGreen
+
+TABLE A5.601
+
+NONRESIDENTIAL BUILDINGS: Green Building Standards Code Proposed Performance Approach
+
+Note: This table is intended only as an aid in illustrating the nonresidential tier structure (Refer to Checklists A5.602, A5.602.1 and A5.602.2 for CALGreen verification guidelines for Mandatory Checklist, Tier 1 Checklist and Tier 2 Checklist.)
+
+CATEGORY	ENVIRONMENTAL PERFORMANCE GOAL	TIER 1	TIER 2
+All	Minimum Mandatory (See Mandatory Checklist)	Meet all of the provisions of Chapter 5(See Tier 1 Checklist)	Meet all of the provisions of Chapter 5(See Tier 2 Checklist)
+DIVISION 5.1Planning and Design	Designated Parking for Fuel Efficient Vehicles(Tier 1 and Tier 2 only)	Approx. 35% of total spaces	Approx. 50% of total spaces
+Electric Vehicle Charging	Approx. 30% of total spaces	Approx. 45% of total spaces
+Cool Roof to Reduce Heat Island Effect	Roof Slope < 2:12 SRI 75 Roof Slope > 2:12 SRI 16	Roof Slope < 2:12 SRI 82 Roof Slope > 2:12 SRI 27
+	1 additional Elective from Division A5.1	3 additional Electives from Division A5.1
+DIVISION 5.2Energy Efficiency	Energy Performance2a, 2b	Outdoor lighting power 90% of Part 6 allowance	Outdoor lighting power 90% of Part 6 allowance
+	If applicable, solar water-heating system with minimum solar savings fraction of 0.15	If applicable, solar water-heating system with minimum solar savings fraction of 0.15
+Warehouse door seals	Warehouse door seals
+Comply with day lighting requirements	Comply with day lighting requirements
+Exhaust heat recovery	Exhaust heat recovery
+Energy Budget 95% or 90% of Part 6 calculated value of allowance	Energy Budget 90% or 85% of Part 6 calculated value of allowance
+DIVISION 5.3Water Efficiency and Conservation	Indoor Water Use	12% Savings	20% Savings
+	1 additional Elective from Division A5.3	3 additional Electives from Division A5.3
+DIVISION 5.4Material Conservation and Resource Efficiency3	Construction Waste Reduction	At least 65% reduction	At least 80% reduction
+Recycled Content	Utilize recycled content materials for 10% of total material cost	Utilize recycled content materials for 15% of total material cost
+	1 additional Elective from Division A5.4	3 additional Electives from Division A5.4
+DIVISION 5.5Environmental Quality	Low-VOC Resilient Flooring	90% of flooring meets VOC limits	100% of flooring meets VOC limits1
+Low-VOC Thermal Insulation	Comply with VOC limits	Install no-added formaldehyde insulation and comply with VOC limits
+	1 additional Elective from Division A5.5	3 additional Electives from Division A5.5
+Additional Measures		1 additional Elective from any division	3 additional Electives from any division
+Approximate Total Measures		15	251. Exception: Allowance may be permitted in Tier 2 for up to 5-percent specialty purpose flooring.
+
+2. Solar water-heating system requirement for newly constructed restaurants as per A5.203.1.1.2.
+
+Exceptions:
+
+a. Buildings with a natural gas service water heater with a minimum of 95-percent thermal efficiency.
+
+b. Buildings where greater than 75 percent of the total roof area has annual solar access that is less than 70 percent. Solar access is the ratio of solar insolation including shade to the solar insolation without shade. Shading from obstructions located on the roof or any other part of the building shall not be included in the determination of annual solar access.
+
+3. Life cycle assessment compliant with Section A5.409.4 in this code may be substituted for prescriptive measures from Division A5.4.
+
+A5.601.1 Scope.
+
+The measures contained in this appendix are not mandatory unless adopted by local government as specified in Section 101.7. The provisions of this section outline means of achieving enhanced construction or reach levels by incorporating additional green building measures for newly constructed nonresidential buildings as well as additions and alterations. In order to meet one of the tier levels designers, builders or property owners are required to incorporate additional green building measures necessary to meet the threshold of each level. Refer to the provisions in Section 301.3 for nonresidential additions and alterations scope and application.
+
+A5.601.2 CALGreen Tier 1 CALGreen
+
+A5.601.2.1 Prerequisites.
+
+To achieve CALGreen tier status, a project must meet all of the mandatory measures in Chapter 5 and, in addition, meet the provisions of this section.
+
+A5.601.2.2 Energy performance.
+
+For the purposes of mandatory energy efficiency standards in this code, the California Energy Commission will continue to adopt mandatory standards.
+
+A5.601.2.3 Tier 1.
+
+Comply with the energy efficiency requirements in Section A5.203.1.1 and Section A5.203.1.2.1.
+
+A5.601.2.4 Voluntary measures for Tier 1.
+
+In addition to the provisions of Sections A5.601.2.1 and A5.601.2.3 above, compliance with the following voluntary measures from Appendix A5 is required for Tier 1:
+
+1. From Division A5.1,
+
+a. Comply with the designated parking requirements for fuel efficient vehicles for a minimum of 35 percent of parking capacity per Section A5.106.5.1.
+
+b. Electric vehicle (EV) charging [N] and Table A5.106.5.3.1 w/ footnotes.
+
+c. Comply with thermal emittance, solar reflectance or SRI values for cool roofs in Section A5.106.11.2 and Table A5.106.11.2.1.1
+
+d. Comply with one elective measure selected from this division.
+
+2. From Division A5.2 comply with ONE of the following:
+
+1. Outdoor lighting as described in A5.203.1.1.1.
+
+2. Service water heating in restaurants as described in A5.203.1.1.2.
+
+3. Warehouse Dock Seal Doors A5.203.1.1.3.
+
+4. Daylight Design Power Adjustments 5.203.1.1.4.
+
+5. Exhaust Air Heat Recovery A5.203.1.1.5.
+
+3. From Division A5.3,
+
+a. Comply with the 12-percent reduction for indoor potable water use in Section A5.303.2.3.1.
+
+b. Comply with one elective measure selected from this division.
+
+4. From Division A5.4,2
+
+a. Comply with recycled content of 10 percent of materials based on estimated total cost, or use two products from Table A5.405.4 for at least 75 percent by cost in Section A5.405.4.
+
+b. Comply with the 65-percent reduction in construction and demolition waste in Section A5.408.3.1.
+
+c. Comply with one elective measure selected from this division.
+
+5. From Division A5.5,
+
+a. Comply with resilient flooring systems for 90 percent of resilient flooring in Section A5.504.4.7.
+
+b. Comply with thermal insulation meeting 2009 CHPS low-emitting materials list in Section A5.504.4.8.
+
+c. Comply with one elective measure selected from this division.
+
+6.Comply with one additional elective measure selected from any division.
+
+1 Cool roof is required for compliance with Tiers 1 and 2 and may be used to meet energy standards in Part 6, exceed energy standards and to mitigate heat island effect.
+
+2 Life cycle assessment compliant with Section A5.409.4 in this code may be substituted for prescriptive measures from Division A5.4.
+
+A5.601.3 CALGreen Tier 2. CALGreen
+
+A5.601.3.2 Energy performance.
+
+For the purposes of mandatory energy efficiency standards in this code, the California Energy Commission will continue to adopt mandatory standards.
+
+A5.601.3.3 Tier 2.
+
+Comply with the energy efficiency requirements in Section A5.203.1.1 and Section A5.203.1.2.2.
+
+A5.601.3.4 Voluntary measures for Tier 2.
+
+In addition to the provisions of Sections A5.601.3.1 and A5.601.3.3 above, compliance with the following voluntary measures from Appendix A5 and additional elective measures shown in Table A5.601.3.4 is required for Tier 2:
+
+1. From Division A5.1,
+
+a. Comply with the designated parking requirements for fuel efficient vehicles for a minimum of 50 percent of parking capacity per Section A5.106.5.1.
+
+b. Electric vehicle (EV) charging [N] and Table A5.106.5.3.2 with footnotes.
+
+c. Comply with thermal emittance, solar reflectance or SRI values for cool roofs in Section A5.106.11.2 and Table A5.106.11.2.2.1
+
+d. Comply with three elective measures selected from this division.
+
+2. From Division A5.2 comply with TWO of the following:
+
+1. Outdoor lighting as described in A5.203.1.1.1.
+
+2. Service water heating in restaurants as described in A5.203.1.1.2.
+
+3. Warehouse Dock Seal Doors A5.203.1.1.3.
+
+4. Daylight Design Power Adjustments 5.203.1.1.4.
+
+5. Exhaust Air Heat Recovery A5.203.1.1.5.
+
+3. From Division A5.3,
+
+a. Comply with the 20-percent reduction for indoor potable water use in Section A5.303.2.3.2.
+
+b. Comply with three elective measures selected from this division.
+
+4. From Division A5.4,2
+
+a. Comply with recycled content of 15 percent of materials based on estimated total cost, or use two products from Table A5.405.4 for at least 75 percent by cost in Section A5.405.4.1.
+
+b. Comply with the 80-percent reduction in construction and demolition waste in Section A5.408.3.1.
+
+c. Comply with three elective measures selected from this division.
+
+5. From Division A5.5,
+
+a. Comply with resilient flooring systems for 100 percent of resilient flooring in Section A5.504.4.7.1.
+
+Exception: Allowance may be permitted in Tier 2 for up to 5-percent specialty purpose flooring.
+
+b. Comply with thermal insulation meeting 2009 CHPS low-emitting materials list and no added formaldehyde in Section A5.504.4.8.1.
+
+c. Comply with three elective measures selected from this division.
+
+6. Comply with three additional elective measures selected from any division.
+
+1 Cool roof is required for compliance with Tiers 1 and 2 and may be used to meet energy standards in Part 6, exceed energy standards and to mitigate heat island effect.
+
+2 Life cycle assessment compliant with Section A5.409.4 in this code may be substituted for prescriptive measures from Division A5.4.
+
+A5.601.4 Compliance verification.
+
+Compliance with Section A5.601.2 or A5.601.3 shall be as required in Chapter 7 of this code. Compliance documentation shall be made part of the project record as required in Section 5.410.2 or 5.410.3.
+
+A5.602 CALGreen VERIFICATION GUIDELINES
+
+ MANDATORY MEASURES CHECKLIST CALGreen
+
+Application: This checklist shall be used for nonresidential projects that meet one of the following: new construction, building additions of 1,000 square feet or greater, or building alterations with a permit valuation of $200,000 or more pursuant to Section 301.3 AND do not trigger a Tier 1 or Tier 2 requirement:
+
+Y	=	Yes (section has been selected and/or included)
+N/A	=	Not Applicable (code section does not apply to the project—mainly used for additions and alterations)
+O	=	Other (provide explanation)
+[N]	=	New construction pursuant to Section 301.3
+[A]	=	Additions and/or Alterations pursuant to Section 301.3	CHAPTER 5DIVISIONS 		SECTION TITLE	CODE SECTION 	Y	N/A	O	PLAN SHEET, SPEC OR ATTACH REFERENCE
+	DIVISION 5.1Planning andDesign	Mandatory	Storm water pollution prevention fo than disturb less han 1 acre of land	5.106.1 through 5.106.2				
+	Mandatory	Short-term bicycle parking (with exception)	5.106.4.1.1				
+>	Mandatory	Long-term bicycle parking	5.106.4.1.2 through 5.106.4.1.5				
+	Mandatory	Electric vehicle (EV) charging [N] w/ exceptions	5.106.5.3				
+>	Mandatory	EV capable spaces [N]	5.106.5.3.1				
+	Mandatory	Electric vehicle charging stations (EVCS)	5.106.5.3.2				
+	Mandatory	Use of automatic load management systems (ALMS)	5.106.5.3.3				
+	Mandatory	Accessible EVCS	5.106.5.3.4				
+>	Mandatory	Note for EVCS signs					
+>	Mandatory	Table 5.106.5.3.1 w/ footnotes	5.106.3.1, 5.106.3.2 and 5.106.3.3				
+	Mandatory	Electric vehicle (EV) charging: medium-duty and heavy-duty
+[N]	5.106.5.4				
+	Mandatory	Electric vehicle charging readiness requirements for warehouses, grocery stores and retail stores with planned offstreet loading spaces [N]	5.106.5.4.1				
+	Mandatory	Table 5.106.5.4.1	5.106.5.4 and 5.106.5.4.1				
+	Mandatory	Light pollution reduction [N] (with exceptions, notes and
+table)	5.106.8 through 5.106.8.2				
+	Mandatory	Grading and paving (exception for additions and alterations not altering the drainage path)	5.106.10				
+	DIVISION 5.2Energy Efficiency	Mandatory	Meet the minimum energy efficiency standard	5.201.1				
+	DIVISION 5.3Water Efficiency and Conservation	Mandatory	Separate meters (new buildings or additions > 50,000 sf that consume more than 100 gal/day)	5.303.1.1				
+	Mandatory	Separate meters (for tenants in new buildings or additions that consume more than 1,000 gal/day)	5.303.1.2				
+	Mandatory	Water closets shall not exceed 1.28 gallons per flush (gpf)	5.303.3.1				
+	Mandatory	Wall-mounted urinals shall not exceed 0.125 gpf	5.303.3.2.1				
+	Mandatory	Floor-mounted urinals shall not exceed 0.5 gpf	5.303.3.2.2				
+	Mandatory	Single showerhead shall have maximum flow rate of 1.8 gpm (gallons per minute) at 80 psi	5.303.3.3.1				
+	Mandatory	Multiple showerheads serving one shower shall have a combined flow rate of 1.8 gpm at 80 psi	5.303.3.3.2				
+	Mandatory	Nonresidential lavatory faucets	5.303.3.4.1				
+	Mandatory	Kitchen faucets	5.303.3.4.2				
+	Mandatory	Wash fountains	5.303.3.4.3				
+	Mandatory	Metering faucets	5.303.3.4.4				
+	Mandatory	Metering faucets for wash fountains	5.303.3.4.5				
+	Mandatory	Pre-rinse spray valve	5.303.3.4.6				
+	Mandatory	Food waste disposers	5.303.4.1				
+	Mandatory	Areas of additions or alterations	5.303.5				
+	Mandatory	Standards for plumbing fixtures and fittings	5.303.6				
+	Mandatory	Outdoor potable water use in landscape areas (with notes)	5.304.1				
+	DIVISION 5.4Material Conservation and Resource Efficiency	Mandatory	Weather protection	5.407.1				
+	Mandatory	Moisture control: sprinklers	5.407.2.1				
+	Mandatory	Moisture control: exterior door protection	5.407.2.2.1				
+	Mandatory	Moisture control: flashing	5.407.2.2.2				
+	Mandatory	Construction waste management—comply with either: Sections 5.408.1.1, 5.408.1.2, 5.408.1.3 or more stringent local ordinance	5.408.1.1, 5.408.1.2, 5.408.1.3				
+	Mandatory	Construction waste management: documentation	5.408.1.4				
+	Mandatory	Universal waste [A]	5.408.2				
+	Mandatory	Excavated soil and land clearing debris (100% reuse or recycle)	5.408.3				
+	Mandatory	Recycling by occupants (with exception)	5.410.1				
+	Mandatory	Recycling by occupants: additions (with exception)	5.410.1.1				
+	Mandatory	Recycling by occupants: sample ordinance	5.410.1.2				
+	Mandatory	Commissioning new buildings (≥ 10,000 sf) [N]	5.410.2				
+	Mandatory	Owner’s or owner representative’s Project Requirements (OPR) [N]	5.410.2.1				
+	Mandatory	Basis of Design (BOD) [N]	5.410.2.2				
+	Mandatory	Commissioning plan [N]	5.410.2.3				
+	Mandatory	Functional performance testing [N]	5.410.2.4				
+	Mandatory	Documentation and training [N]	5.410.2.5				
+	Mandatory	Systems manual [N]	5.410.2.5.1				
+	Mandatory	Systems operation training [N]	5.410.2.5.2				
+	Mandatory	Commissioning report [N]	5.410.2.6				
+	Mandatory	Testing and adjusting for new buildings < 10,000 sf or new systems that serve additions or alterations [A]	5.410.4				
+	Mandatory	System testing plan for renewable energy, landscape irrigation and water reuse [A]	5.410.4.2				
+	Mandatory	Procedures for testing and adjusting	5.410.4.3				
+	Mandatory	Procedures for HVAC balancing	5.410.4.3.1				
+	Mandatory	Reporting for testing and adjusting	5.410.4.4				
+	Mandatory	Operation and maintenance (O&M) manual	5.410.4.5				
+	Mandatory	Inspection and reports	5.410.4.5.1				
+	DIVISION 5.5Environmental Quality	Mandatory	Fireplaces	5.503.1				
+	Mandatory	Woodstoves	5.503.1.1				
+	Mandatory	Temporary ventilation	5.504.1				
+	Mandatory	Covering of ducts openings and protection of mechanical equipment during construction	5.504.3				
+	Mandatory	Adhesives, sealants and caulks	5.504.4.1				
+	Mandatory	Paints and coatings	5.504.4.3				
+	Mandatory	Aerosol paints and coatings	5.504.4.3.1				
+	Mandatory	Aerosol paints and coatings: verification	5.504.4.3.2				
+	Mandatory	Carpet systems	5.504.4.4				
+	Mandatory	Carpet cushion	5.504.4.4.1				
+	Mandatory	Carpet adhesives per Table 5.504.4.1	5.504.4.4.2				
+	Mandatory	Composite wood products	5.504.4.5				
+	Mandatory	Composite wood products: documentation	5.504.4.5.3				
+	Mandatory	Resilient flooring systems	5.504.4.6				
+	Mandatory	Resilient flooring: verification of compliance	5.504.4.6.1				
+	Mandatory	Thermal insulation	5.504.4.7				
+	Mandatory	Verification of compliance	5.504.4.7.1				
+	Mandatory	Acoustical ceilings and wall panels	5.504.4.8				
+	Mandatory	Verification of compliance	5.504.4.8.1				
+	Mandatory	Filters (with exceptions)	5.504.5.3				
+	Mandatory	Filters: labeling	5.504.5.3.1				
+	Mandatory	Environmental tobacco smoke (ETS) control	5.504.7				
+	Mandatory	Indoor moisture control	5.505.1				
+	Mandatory	Outside air delivery	5.506.1				
+	Mandatory	Carbon dioxide (CO2) monitoring	5.506.2				
+	Mandatory	Acoustical control (with exception)	5.507.4				
+	Mandatory	Exterior noise transmission, prescriptive method (with exceptions)	5.507.4.1				
+	Mandatory	Noise exposure where noise contours are not readily available	5.507.4.1.1				
+	Mandatory	Performance method	5.507.4.2				
+	Mandatory	Site features	5.507.4.2.1				
+	Mandatory	Documentation of compliance	5.507.4.2.2				
+	Mandatory	Interior sound transmission (with note)	5.507.4.3				
+	Mandatory	Ozone depletion and greenhouse gas reductions	5.508.1				
+	Mandatory	Chlorofluorocarbons (CFCs)	5.508.1.1				
+	Mandatory	Halons	5.508.1.2				
+	Mandatory	Supermarket refrigerant leak reduction for retail food stores 8,000 square feet or more Sections 5.508.2 through 5.508.2.6.3	5.508.2 through 5.508.2.6.3				
+		END OF MANDATORY PROVISIONS					Documentation Author's / Responsible Designer's Declaration Statement □ Mandatory: I attest that this mandatory provisions checklist is accurate and complete.
+Signature:
+Company:	Date:
+Address:	License:
+City/State/Zip:	Phone:A5.602.1 CALGreen VERIFICATION GUIDELINES
+
+ TIER 1 CHECKLIST CALGreen
+
+Application: This checklist shall be used for nonresidential projects that meet the following: new construction, or building additions of 1,000 square feet or greater, or building alterations with a permit valuation of $200,000 or more pursuant to Section 301.3, AND are adopting Tier 1 voluntary measures.
+
+Note: All applicable mandatory requirements in Chapter 5 shall be met prior to applying Tier 1 voluntary measures.
+
+Instructions:
+
+Comply with all Tier 1 prerequisite measures from the various categories shown on the table below.
+
+Add a “Y” to all mandatory and Tier 1 prerequisite measures in the appropriate columns.
+
+Select the required number of additional electives from those categories shown on the table below and add a “Y” on the selected elective and add an “N” on the rest.
+
+Count the total number of Tier 1 prerequisite measures plus the additional electives and write down the total number at the end of the checklist. Determine if the required number of Tier 1 measures have been selected to achieve Tier 1 compliance.
+
+Y	=	Yes (section has been selected and/or included)
+N	=	No (section has not been selected and/or included)
+O	=	Other (provide explanation)
+[N]	=	New construction pursuant to Section 301.3
+[A]	=	Additions and/or Alterations pursuant to Section 301.3	CHAPTER 5DIVISIONS 		SECTION TITLE 	CODE SECTION 	Y	N	O	PLAN SHEET, SPEC OR ATTACH REFERENCE
+	DIVISION 5.1Planning and Design		Mandatory	Storm water pollution prevention for projects that disturb less than 1 acre of land	5.106.1 through 5.106.2				
+	Mandatory	Short-term bicycle parking	5.106.4.1.1				
+	Mandatory	Long-term bicycle parking	5.106.4.1.2 through 5.106.4.1.5				
+	Tier 1Prerequisite	Designated parking—35% of parking capacity w/ parking stall markings and stall identification	A5.106.5.1, A5.106.5.1.1, A5.106.5.1.3, A5.106.5.1.4				
+	Mandatory	Electric vehicle (EV) charging [N] w/ exceptions	5.106.5.3				
+	Mandatory	EV capable spaces [N]	5.106.5.3.1				
+	Mandatory	Electric vehicle charging stations (EVCS)	5.106.5.3.2				
+	Mandatory	Use of automatic load management systems (ALMS)	5.106.5.3.3				
+	Mandatory	Accessible EVCS	5.106.5.3.4				
+	Mandatory	Note for EVCS signs					
+	Mandatory	Table 5.106.5.3.1 w/ footnotes	5.106.3.1, 5.106.3.2 and 5.106.3.3				
+	Tier 1 Prerequisite	Electric vehicle (EV) charging [N] and Table
+A5.106.5.3.1 w/ footnotes	A5.106.5.3, A5.106.5.3.1				
+	Mandatory	Electric vehicle (EV) charging: medium-duty and
+heavy-duty [N]	5.106.5.4				
+	Mandatory	Electric vehicle charging readiness requirements for
+warehouses, grocery stores and retail stores with
+planned off-street loading spaces [N]	5.106.5.4.1				
+	Mandatory	Table 5.106.5.4.1	5.106.5.4 and 5.106.5.4.1				
+	Mandatory	Light pollution reduction [N] (with exceptions, notes and table)	5.106.8 through 5.106.8.2				
+	Mandatory	Grading and paving (exception for additions and
+alterations not altering the drainage path)	5.106.10				
+	Tier 1 Prerequisite	Cool roof (A5.106.11.2.2): SRI 75 when ≤ 2:12, SRI 16 when > 2:12 	A5.106.11.2				
+	Select One Elective	Elective	Community connectivity	A5.103.1				
+	Elective	Brownfield or greyfield site redevelopment or infill area development	A5.103.2 A5.103.2.1				
+	Elective	Reduce development footprint and optimize open space	A5.104.1, A5.104.1.1, A5.104.1.2, A5.104.1.3				
+	Elective	Disassemble and reuse existing building structure (75%) with exceptions	A5.105.1.1				
+	Elective	Disassemble and reuse existing nonstructural elements (50%) with exceptions	A5.105.1.2				
+	Elective	Salvage	A5.105.1.3				
+	Elective	Storm water design	A5.106.2, A5.106.2.1, A5.106.2.2				
+	Elective	Low Impact Development (LID)	A5.106.3, A5.106.3.1, A5.106.3.2				
+	Elective	Changing rooms w/ note	A5.106.4.3				
+	Elective	Parking capacity w/ reduced parking capacity option	A5.106.6, A5.106.6.1				
+	Elective	Exterior wall shading w/ fenestration and/or opaque wall area option	A5.106.7, A5.106.7.1, A5.106.7.2				
+	Elective	Heat island effect	A5.106.11				
+	DIVISION 5.2Energy Efficiency	Mandatory	Meet the minimum energy efficiency standard	5.201.1				
+	Tier 1 Prerequisite	Energy performance—outdoor lighting power 90% of Part 6	A5.203.1.1.1				
+	Tier 1 Prerequisite	If applicable, service for water heating in restaurants of 8,000 sf or greater	A5.203.1.1.2				
+	Tier 1 Prerequisite	Energy budget 95% or 90% of Part 6 calculated value of allowance	A5.203.1.2.1				
+	Elective	On-site renewable energy (with documentation)	A5.211.1, A5.211.1.1				
+	Elective	Green power	A5.211.3				
+	Elective	Elevators with car lights and fan	A5.212.1.1, A5.212.1.1.1				
+	Elective	Escalators	A5.212.1.2				
+	Elective	Controls that reduce energy	A5.212.1.4				
+	Elective	Steel framing	A5.213.1				
+	DIVISION 5.3Water Efficiency and Conservation		Mandatory	Separate meters (new buildings or additions > 50,000 sf that consume more than 100 gal/day)	5.303.1.1				
+	Mandatory	Separate meters (for tenants in new buildings or additions that consume more than 1,000 gal/day)	5.303.1.2				
+	Tier 1 Prerequisite	Water reduction Tier 1—12% savings over the “water use baseline” in Table A5.303.2.2 or meet Table A5.303.2.3.1	A5.303.2.3.1				
+	Mandatory	Water closets shall not exceed 1.28 gallons per flush (gpf)	5.303.3.1				
+	Mandatory	Wall-mounted urinals shall not exceed 0.125 gpf	5.303.3.2.1				
+	Mandatory	Floor-mounted urinals shall not exceed 0.5 gpf	5.303.3.2.2				
+	Mandatory	Single showerhead shall have maximum flow rate of 1.8 gpm (gallons per minute) at 80 psi	5.303.3.3.1				
+	Mandatory	Multiple showerheads serving one shower shall have a combined flow rate of 1.8 gpm at 80 psi	5.303.3.3.2				
+	Mandatory	Nonresidential lavatory faucets	5.303.3.4.1				
+	Mandatory	Kitchen faucets	5.303.3.4.2				
+	Mandatory	Wash fountains	5.303.3.4.3				
+	Mandatory	Metering faucets	5.303.3.4.4				
+	Mandatory	Metering faucets for wash fountains	5.303.3.4.5				
+	Mandatory	Pre-rinse spray valve	5.303.3.4.6				
+	Mandatory	Food waste disposers	5.303.4.1				
+	Mandatory	Areas of additions or alterations	5.303.5				
+	Mandatory	Standards for plumbing fixtures and fittings	5.303.6				
+	Mandatory	Outdoor potable water use in landscape areas (with notes)	5.304.1				
+	Select One Elective	Elective	Nonpotable water systems for indoor use	A5.303.2.3.4				
+	Elective	Appliances and fixtures for commercial application	A5.303.3				
+>	Elective	Nonwater urinals	A5.303.4.1				
+	Elective	Dual plumbing	A5.303.5				
+	Elective	Outdoor potable water use	A5.304.2				
+	Elective	Restoration of areas disturbed by construction	A5.304.6				
+	Elective	Previously developed sites (with exception)	A5.304.7				
+	Elective	Graywater irrigation system	A5.304.8				
+	Elective	Nonpotable water systems	A5.305.1				
+	Elective	Irrigation systems	A5.305.2				
+	DIVISION 5.4Material Conservation and Resource Efficiency		Tier 1 Prerequisite	Recycled content for 10% of total material cost	A5.405.4, A5.405.4.1 through A5.405.4.5				
+	Mandatory	Weather protection	5.407.1				
+	Mandatory	Moisture control: sprinklers	5.407.2.1				
+	Mandatory	Moisture control: exterior door protection	5.407.2.2.1				
+	Mandatory	Moisture control: flashing	5.407.2.2.2				
+	Mandatory	Construction waste management—comply with either: Sections 5.408.1.1, 5.408.1.2, 5.408.1.3 or more stringent local ordinance	5.408.1.1, 5.408.1.2, 5.408.1.3				
+	Mandatory	Construction waste management: documentation	5.408.1.4				
+	Mandatory	Universal waste [A]	5.408.2				
+	Mandatory	Excavated soil and land clearing debris (100% reuse or recycle)	5.408.3				
+	Tier 1 Prerequisite	Enhanced construction waste reduction (65%—Tier 1 with verification)	A5.408.3.1, A5.408.3.1.2				
+	Mandatory	Recycling by occupants (with exception)	5.410.1				
+	Mandatory	Recycling by occupants: additions (with exception)	5.410.1.1				
+	Mandatory	Recycling by occupants: sample ordinance	5.410.1.2				
+	Mandatory	Commissioning new buildings (≥ 10,000 sf) [N]	5.410.2				
+	Mandatory	Owner’s or Owner representative’s Project Requirements (OPR) [N]	5.410.2.1				
+	Mandatory	Basis of Design (BOD) [N]	5.410.2.2				
+	Mandatory	Commissioning plan [N]	5.410.2.3				
+	Mandatory	Functional performance testing [N]	5.410.2.4				
+	Mandatory	Documentation and training [N]	5.410.2.5				
+	Mandatory	Systems manual [N]	5.410.2.5.1				
+	Mandatory	Systems operation training [N]	5.410.2.5.2				
+	Mandatory	Commissioning report [N]	5.410.2.6				
+	Mandatory	Testing and adjusting for new buildings < 10,000 sf or new systems that serve additions or alterations [A]	5.410.4				
+	Mandatory	System Testing Plan for renewable energy, landscape irrigation and water reuse [A]	5.410.4.2				
+	Mandatory	Procedures for testing and adjusting	5.410.4.3				
+	Mandatory	Procedures for HVAC balancing	5.410.4.3.1				
+	Mandatory	Reporting for testing and adjusting	5.410.4.4				
+	Mandatory	Operation and maintenance (O&M) manual	5.410.4.5				
+	Mandatory	Inspection and reports	5.410.4.5.1				
+	Select One Elective	Elective	Wood framing or OVE w/ note	A5.404.1, A5.404.1.1, A5.404.1.2				
+	Elective	Regional materials	A5.405.1				
+	Elective	Bio-based materials	A5.405.2				
+	Elective	Rapidly renewable materials	A5.405.2.2				
+	Elective	Reused materials w/ note	A5.405.3				
+	Elective	Cement and concrete: cement	A5.405.5.1				
+	Elective	Cement and concrete: concrete with SCM & Mix design equation	A5.405.5.2, A5.405.5.2.1, A5.405.5.2.1.1				
+	Elective	Cement and concrete: additional means of compliance	A5.405.5.3, A5.405.5.3.1, A5.405.5.3.1.1, A5.405.5.3.1.2, A5.405.5.3.2, A5.405.5.3.2.1, A5.405.5.3.2.2, A5.405.5.3.2.3, A5.405.5.3.2.4				
+	Elective	Choice of materials	A5.406.1, A5.406.1.1, A5.406.1.2, A5.406.1.3				
+	Elective	Life cycle assessment: general	A5.409.1				
+	Elective	Whole building life cycle assessment	A5.409.2, A5.409.2.1, A5.409.2.2				
+	Elective	Materials and system assemblies	A5.409.3				
+	Elective	Substitution for prescriptive standards	A5.409.4				
+	Elective	Verification of compliance	A5.409.5				
+	DIVISION 5.5 Environmental Quality		Mandatory	Fireplaces	5.503.1				
+	Mandatory	Woodstoves	5.503.1.1				
+	Mandatory	Temporary ventilation	5.504.1				
+	Mandatory	Covering of ducts openings and protection of mechanical equipment during construction	5.504.3				
+	Mandatory	Adhesives, sealants and caulks	5.504.4.1				
+	Mandatory	Paints and coatings	5.504.4.3				
+	Mandatory	Aerosol paints and coatings	5.504.4.3.1				
+	Mandatory	Aerosol paints and coatings: verification	5.504.4.3.2				
+	Mandatory	Carpet systems	5.504.4.4				
+	Mandatory	Carpet cushion	5.504.4.4.1				
+	Mandatory	Carpet adhesives per Table 5.504.4.1	5.504.4.4.2				
+	Mandatory	Composite wood products	5.504.4.5				
+	Mandatory	Composite wood products: documentation	5.504.4.5.3				
+	Mandatory	Resilient flooring systems	5.504.4.6				
+	Mandatory	Resilient flooring: verification of compliance	5.504.4.6.1				
+	Tier 1 Prerequisite	Resilient flooring systems, Tier 1 (with verification of compliance)	A5.504.4.7, A5.504.4.7.2				
+	Mandatory	Thermal insulation	5.504.4.7				
+	Mandatory	Verification of compliance	5.504.4.7.1				
+	Tier 1 Prerequisite	Thermal insulation, Tier 1 (with verification of compliance)	A5.504.4.8.1, A5.504.4.8.1				
+	Mandatory	Acoustical ceilings and wall panels	5.504.4.8				
+	Mandatory	Verification of compliance	5.504.4.8.1				
+	Mandatory	Filters (with exceptions)	5.504.5.3				
+	Mandatory	Filters: labeling	5.504.5.3.1				
+	Mandatory	Environmental tobacco smoke (ETS) control	5.504.7				
+	Mandatory	Indoor moisture control	5.505.1				
+	Mandatory	Outside air delivery	5.506.1				
+	Mandatory	Carbon dioxide (CO2) monitoring	5.506.2				
+	Mandatory	Acoustical control (with exception)	5.507.4				
+	Mandatory	Exterior noise transmission, prescriptive method (with exceptions)	5.507.4.1				
+	Mandatory	Noise exposure where noise contours are not readily available	5.507.4.1.1				
+	Mandatory	Performance method	5.507.4.2				
+	Mandatory	Site features	5.507.4.2.1				
+	Mandatory	Documentation of compliance	5.507.4.2.2				
+	Mandatory	Interior sound transmission (with note)	5.507.4.3				
+	Mandatory	Ozone depletion and greenhouse gas reductions	5.508.1				
+	Mandatory	Chlorofluorocarbons (CFCs)	5.508.1.1				
+	Mandatory	Halons	5.508.1.2				
+	Mandatory	Supermarket refrigerant leak reduction for retail food stores 8, 000 square feet or more Sections 5.508.2 through 5.508.2.6.3	5.508.2 through 5.508.2.6.3				
+	Select One Elective	Elective	Indoor air quality (IAQ) during construction	A5.504.1, A5.504.1.1, A5.504.1.2				
+	Elective	IAQ postconstruction	A5.504.2				
+>	Elective	IAQ testing	A5.504.2.1, A5.504.2.1.1, A5.504.2.1.2, A5.504.2.1.3				
+	Elective	No added formaldehyde Tier 1 (with notes)	A5.504.4.5.1				
+	Elective	Hazardous particulates and chemical pollutants	A5.504.5				
+	Elective	Entryway systems	A5.504.5.1				
+	Elective	Isolation of pollutant sources	A5.504.5.2				
+	Elective	Lighting and thermal comfort controls	A5.507.1, A5.507.1.1 through A5.507.1.2				
+	Elective	Daylight	A5.507.2				
+	Elective	Views	A5.507.3				
+	Elective	Interior office spaces	A5.507.3.1				
+	Elective	Multi-occupant spaces (with exceptions)	A5.507.3.2				
+	Elective	Hydrochlorofluorocarbons (HCFCs)	A5.508.1.3				
+	Elective	Hydrofluorocarbons (HFCs)	A5.508.1.4				
+	Additional Measures		Select 1 additional measure from any division	Add section ⋕				
+	Total number of Measures required	15	
+	Total number of Measures selected		Documentation Author's / Responsible Designer's Declaration Statement Check the appropriate box(es) for the list below.□ Mandatory: I attest that the mandatory provisions checklist is accurate and complete.□ Tier 1 compliant: I attest that the total number of voluntary measures selected meet or exceed the total number required to achieve Tier 1 compliance.□ Partial Tier 1 compliant: I attest that the total number of voluntary measures selected do not meet the total number required to achieve Tier 1 compliance: however, partial Tier 1 compliance has been achieved.
+Signature:
+Company:	Date:
+Address:	License:
+City/State/Zip:	Phone:A5.602.2 CALGreen VERIFICATION GUIDELINES
+
+ TIER 2 CHECKLIST CALGreen
+
+Application: This checklist shall be used for nonresidential projects that meet the following: new construction, or building additions of 1,000 square feet or greater, or building alterations with a permit valuation of $200,000 or more pursuant to Section 301.3, AND are adopting Tier 2 voluntary measures.
+
+Note: All applicable mandatory requirements in Chapter 5 shall be met prior to applying Tier 2 voluntary measures.
+
+Instructions:
+
+Comply with all Tier 2 prerequisite measures from the various categories shown on the table below.
+
+Add a “Y” to all mandatory and Tier 2 prerequisite measures in the appropriate columns.
+
+Select the required number of additional electives from those categories shown on the table below and add a “Y” on the selected elective and add an “N” on the rest.
+
+Count the total number of Tier 2 prerequisite measures plus the additional electives and write down the total number at the end of the checklist. Determine if the required number of Tier 2 measures have been selected to achieve Tier 2 compliance.
+
+Y	=	Yes (section has been selected and/or included)
+N	=	No (section has not been selected and/or included)
+O	=	Other (provide explanation)
+[N]	=	New construction pursuant to Section 301.3
+[A]	=	Additions and/or Alterations pursuant to Section 301.3	CHAPTER 5 DIVISIONS 		SECTION TITLE 	CODE SECTION 	Y	N	O	PLAN SHEET, SPEC OR ATTACH REFERENCE
+	DIVISION 5.1Planning and Design		Mandatory	Storm water pollution prevention for projects that disturb less than 1 acre of land	5.106.1 through 5.106.2				
+	Mandatory	Short-term bicycle parking	5.106.4.1.1				
+	Mandatory	Long-term bicycle parking	5.106.4.1.2 through 5.106.4.1.5				
+	Tier 2 Prerequisite	Designated parking—50% of parking capacity w/ parking stall markings and stall identification	A5.106.5.1, A5.106.5.1.2, A5.106.5.1.3, A5.106.5.1.4				
+	Mandatory	Electric vehicle (EV) charging [N] w/ exceptions	5.106.5.3				
+	Mandatory	EV capable spaces [N]	5.106.5.3.1				
+	Mandatory	Electric vehicle charging stations (EVCS)	5.106.5.3.2				
+	Mandatory	Use of automatic load management systems (ALMS)	5.106.5.3.3				
+	Mandatory	Accessible EVCS	5.106.5.3.4				
+	Mandatory	Note for EVCS signs					
+	Mandatory	Table 5.106.5.3.1 w/ footnotes	5.106.3.1, 5.106.3.2 and 5.106.3.3				
+	Tier 2 Prerequisite	Electric vehicle (EV) charging [N] and Table
+A5.106.5.3.2 w/ footnotes	A5.106.5.3, A5.106.5.3.2				
+	Mandatory	Electric vehicle (EV) charging: medium-duty and
+heavy-duty [N]	5.106.5.4				
+	Mandatory	Electric vehicle charging readiness requirements for
+warehouses, grocery stores and retail stores with
+planned off-street loading spaces [N]	5.106.5.4.1				
+	Mandatory	Table 5.106.5.4.1	5.106.5.4 and 5.106.5.4.1				
+	Mandatory	Light pollution reduction [N] (with exceptions, notes and table)	5.106.8 through 5.106.8.2				
+	Mandatory	Grading and paving (exception for additions and alterations not altering the drainage path)	5.106.10				
+	Tier 2 Prerequisite	Cool roof (A5.106.11.2.2): SRI 82 when ≤ 2:12, SRI 27 when > 2:12 	A5.106.11.2				
+	Select Three Elective	Elective	Community connectivity	A5.103.1				
+	Elective	Brownfield or greyfield site redevelopment or infill area development	A5.103.2, A5.103.2.1				
+	Elective	Reduce development footprint and optimize open space	A5.104.1, A5.104.1.1, A5.104.1.2, A5.104.1.3				
+	Elective	Disassemble and reuse existing building structure (75%) with exceptions	A5.105.1.1				
+	Elective	Disassemble and reuse existing nonstructural elements (50%) with exceptions	A5.105.1.2				
+	Elective	Salvage	A5.105.1.3				
+	Elective	Storm water design	A5.106.2, A5.106.2.1, A5.106.2.2,				
+	Elective	Low Impact Development (LID)	A5.106.3, A5.106.3.1, A5.106.3.2				
+	Elective	Changing rooms w/ note	A5.106.4.3				
+	Elective	Parking capacity w/ reduced parking capacity option	A5.106.6, A5.106.6.1				
+	Elective	Exterior wall shading w/ fenestration and/or opaque wall area option	A5.106.7, A5.106.7.1, A5.106.7.2				
+	Elective	Heat island effect	A5.106.11				
+	DIVISION 5.2Energy Efficiency	Mandatory	Meet the minimum energy efficiency standard	5.201.1				
+	Tier 2 Prerequisite	Energy Performance—outdoor lighting power 90% of Part 6	A5.203.1.1.1				
+	Tier 2 Prerequisite	If applicable, service for water heating in restaurants of 8,000 sf or greater	A5.203.1.1.2				
+	Tier 2 Prerequisite	Energy budget 90% or 85% of Part 6 calculated value of allowance	A5.203.1.2.2				
+	Elective	On-site renewable energy (with documentation)	A5.211.1, A5.211.1.1				
+	Elective	Green power	A5.211.3				
+	Elective	Elevators with car lights and fan	A5.212.1.1, A5.212.1.1.1				
+	Elective	Escalators	A5.212.1.2				
+	Elective	Controls that reduce energy	A5.212.1.4				
+	Elective	Steel framing	A5.213.1				
+	DIVISION 5.3Water Efficiency and Conservation		Mandatory	Separate meters (new buildings or additions > 50,000 sf that consume more than 100 gal/day)	5.303.1.1				
+	Mandatory	Separate meters (for tenants in new buildings or additions that consume more than 1,000 gal/day)	5.303.1.2				
+	Tier 2 Prerequisite	Water reduction Tier 2—20% or 25% savings over the “water use baseline” in Table A5.303.2.2	A5.303.2.3.2 or A5.303.2.3.3				
+	Mandatory	Water closets shall not exceed 1.28 gallons per flush (gpf)	5.303.3.1				
+	Mandatory	Wall-mounted urinals shall not exceed 0.125 gpf	5.303.3.2.1				
+	Mandatory	Floor-mounted urinals shall not exceed 0.5 gpf	5.303.3.2.2				
+	Mandatory	Single showerhead shall have maximum flow rate of 1.8 gpm (gallons per minute) at 80 psi	5.303.3.3.1				
+	Mandatory	Multiple showerheads serving one shower shall have a combined flow rate of 1.8 gpm at 80 psi	5.303.3.3.2				
+	Mandatory	Nonresidential lavatory faucets	5.303.3.4.1				
+	Mandatory	Kitchen faucets	5.303.3.4.2				
+	Mandatory	Wash fountains	5.303.3.4.3				
+	Mandatory	Metering faucets	5.303.3.4.4				
+	Mandatory	Metering faucets for wash fountains	5.303.3.4.5				
+	Mandatory	Pre-rinse spray valve	5.303.3.4.6				
+	Mandatory	Food waste disposers	5.303.4.1				
+	Mandatory	Areas of additions or alterations	5.303.5				
+	Mandatory	Standards for plumbing fixtures and fittings	5.303.6				
+	Mandatory	Outdoor potable water use in landscape areas (with notes)	5.304.1				
+	Select Three Elective	Elective	Nonpotable water systems for indoor use	A5.303.2.3.4				
+	Elective	Appliances and fixtures for commercial application	A5.303.3				
+>	Elective	Nonwater urinals	A5.303.4.1				
+	Elective	Dual plumbing	A5.303.5				
+	Elective	Outdoor potable water use	A5.304.2				
+	Elective	Restoration of areas disturbed by construction	A5.304.6				
+	Elective	Previously developed sites (with exception)	A5.304.7				
+	Elective	Graywater irrigation system	A5.304.8				
+	Elective	Nonpotable water systems	A5.305.1				
+	Elective	Irrigation systems	A5.305.2				
+	DIVISION 5.4Material Conservation and Resource Efficiency		Tier 2 Prerequisite	Recycled content for 15% of total material cost	A5.405.4, A5.405.4.1 through A5.405.4.5				
+	Mandatory	Weather protection	5.407.1				
+	Mandatory	Moisture control: sprinklers	5.407.2.1				
+	Mandatory	Moisture control: exterior door protection	5.407.2.2.1				
+	Mandatory	Moisture control: flashing	5.407.2.2.2				
+	Mandatory	Construction waste management—comply with either: Sections 5.408.1.1, 5.408.1.2, 5.408.1.3 or more stringent local ordinance	5.408.1.1, 5.408.1.2, 5.408.1.3				
+	Mandatory	Construction waste management: documentation	5.408.1.4				
+	Mandatory	Universal waste [A]	5.408.2				
+	Mandatory	Excavated soil and land clearing debris (100% reuse or recycle)	5.408.3				
+	Tier 2 Prerequisite	Enhanced construction waste reduction (80%—Tier 2 with verification)	A5.408.3.1.1, A5.408.3.1.2				
+	Mandatory	Recycling by occupants (with exception)	5.410.1				
+	Mandatory	Recycling by occupants: additions (with exception)	5.410.1.1				
+	Mandatory	Recycling by occupants: sample ordinance	5.410.1.2				
+	Mandatory	Commissioning new buildings (≥ 10,000 sf) [N]	5.410.2				
+	Mandatory	Owner’s or Owner representative’s Project Requirements (OPR) [N]	5.410.2.1				
+	Mandatory	Basis of Design (BOD) [N]	5.410.2.2				
+	Mandatory	Commissioning plan [N]	5.410.2.3				
+	Mandatory	Functional performance testing [N]	5.410.2.4				
+	Mandatory	Documentation and training [N]	5.410.2.5				
+	Mandatory	Systems manual [N]	5.410.2.5.1				
+	Mandatory	Systems operation training [N]	5.410.2.5.2				
+	Mandatory	Commissioning report [N]	5.410.2.6				
+	Mandatory	Testing and adjusting for new buildings < 10,000 sf or new systems that serve additions or alterations [A]	5.410.4				
+	Mandatory	System Testing Plan for renewable energy, landscape irrigation and water reuse [A]	5.410.4.2				
+	Mandatory	Procedures for testing and adjusting	5.410.4.3				
+	Mandatory	Procedures for HVAC balancing	5.410.4.3.1				
+	Mandatory	Reporting for testing and adjusting	5.410.4.4				
+	Mandatory	Operation and maintenance (O&M) manual	5.410.4.5				
+	Mandatory	Inspection and reports	5.410.4.5.1				
+	Select Three Elective	Elective	Wood framing or OVE (with note)	A5.404.1, A5.404.1.1, A5.404.1.2				
+	Elective	Regional materials	A5.405.1				
+	Elective	Bio-based materials	A5.405.2				
+	Elective	Rapidly renewable materials	A5.405.2.2				
+	Elective	Reused materials (with note)	A5.405.3				
+	Elective	Cement and concrete: cement	A5.405.5.1				
+	Elective	Cement and concrete: concrete with SCM & Mix design equation	A5.405.5.2, A5.405.5.2.1, A5.405.5.2.1.1				
+	Elective	Cement and concrete: additional means of compliance	A5.405.5.3, A5.405.5.3.1, A5.405.5.3.1.1, A5.405.5.3.1.2, A5.405.5.3.2, A5.405.5.3.2.1, A5.405.5.3.2.2, A5.405.5.3.2.3, A5.405.5.3.2.4				
+	Elective	Choice of materials	A5.406.1, A5.406.1.1, A5.406.1.2, A5.406.1.3				
+	Elective	Life cycle assessment: general	A5.409.1				
+	Elective	Whole building life cycle assessment	A5.409.2, A5.409.2.1, A5.409.2.2				
+	Elective	Materials and system assemblies	A5.409.3				
+	Elective	Substitution for prescriptive standards	A5.409.4				
+	Elective	Verification of compliance	A5.409.5				
+	DIVISION 5.5 Environmental Quality		Mandatory	Fireplaces	5.503.1				
+	Mandatory	Woodstoves	5.503.1.1				
+	Mandatory	Temporary ventilation	5.504.1				
+	Mandatory	Covering of ducts openings and protection of mechanical equipment during construction	5.504.3				
+	Mandatory	Adhesives, sealants and caulks	5.504.4.1				
+	Mandatory	Paints and coatings	5.504.4.3				
+	Mandatory	Aerosol paints and coatings	5.504.4.3.1				
+	Mandatory	Aerosol paints and coatings: verification	5.504.4.3.2				
+	Mandatory	Carpet systems	5.504.4.4				
+	Mandatory	Carpet cushion	5.504.4.4.1				
+	Mandatory	Carpet adhesives per Table 5.504.4.1	5.504.4.4.2				
+	Mandatory	Composite wood products	5.504.4.5				
+	Mandatory	Composite wood products: documentation	5.504.4.5.3				
+	Mandatory	Resilient flooring systems	5.504.4.6				
+	Mandatory	Resilient flooring: verification of compliance	5.504.4.6.1				
+	Tier 2 Prerequisite	Resilient flooring systems, Tier 2 (with verification of compliance)	A5.504.4.7.1, A5.504.4.7.2				
+	Mandatory	Thermal insulation	5.504.4.7				
+	Mandatory	Verification of compliance	5.504.4.7.1				
+	Mandatory	Acoustical ceilings and wall panels	5.504.4.8				
+	Mandatory	Verification of compliance	5.504.4.8.1				
+	Mandatory	Filters (with exceptions)	5.504.5.3				
+	Mandatory	Filters: labeling	5.504.5.3.1				
+	Mandatory	Environmental tobacco smoke (ETS) control	5.504.7				
+	Mandatory	Indoor moisture control	5.505.1				
+	Mandatory	Outside air delivery	5.506.1				
+	Mandatory	Carbon dioxide (CO2) monitoring	5.506.2				
+	Mandatory	Acoustical control (with exception)	5.507.4				
+	Mandatory	Exterior noise transmission, prescriptive method (with exceptions)	5.507.4.1				
+	Mandatory	Noise exposure where noise contours are not readily available	5.507.4.1.1				
+	Mandatory	Performance method	5.507.4.2				
+	Mandatory	Site features	5.507.4.2.1				
+	Mandatory	Documentation of compliance	5.507.4.2.2				
+	Mandatory	Interior sound transmission (with note)	5.507.4.3				
+	Mandatory	Ozone depletion and greenhouse gas reductions	5.508.1				
+	Mandatory	Chlorofluorocarbons (CFCs)	5.508.1.1				
+	Mandatory	Halons	5.508.1.2				
+	Mandatory	Supermarket refrigerant leak reduction for retail food stores 8,000 square feet or more Sections 5.508.2 through 5.508.2.6.3	5.508.2 through 5.508.2.6.3				
+	Select Three Elective	Elective	Indoor air quality (IAQ) during construction	A5.504.1, A5.504.1.1, A5.504.1.2				
+	Elective	IAQ postconstruction	A5.504.2				
+	Elective	IAQ testing	A5.504.2.1, A5.504.2.1.1, A5.504.2.1.2, A5.504.2.1.3				
+>	Elective	No added formaldehyde Tier 1 (with notes)	A5.504.4.5.1				
+	Elective	Hazardous particulates and chemical pollutants	A5.504.5				
+	Elective	Entryway systems	A5.504.5.1				
+	Elective	Isolation of pollutant sources	A5.504.5.2				
+	Elective	Lighting and thermal comfort controls	A5.507.1, A5.507.1.1 through A5.507.1.2				
+	Elective	Daylight	A5.507.2				
+	Elective	Views	A5.507.3				
+	Elective	Interior office spaces	A5.507.3.1				
+	Elective	Multi-occupant spaces (with exceptions)	A5.507.3.2				
+	Elective	Hydrochlorofluorocarbons (HCFCs)	A5.508.1.3				
+	Elective	Hydrofluorocarbons (HFCs)	A5.508.1.4				
+	Additional Measures		Select three additional measures from any division	Additional measures: 1. 2. 3.				
+	Total number of Measures required for Tier 2	25	
+	Total number of Measures selected		Documentation Author's / Responsible Designer's Declaration Statement Check the appropriate box(es) for the list below.□ Mandatory: I attest that the mandatory provisions checklist is accurate and complete.□ Tier 2 compliant: I attest that the total number of voluntary measures selected meet or exceed the total number required to achieve Tier 2 compliance.□ Partial Tier 2 compliant: I attest that the total number of voluntary measures selected do not meet the total number required to achieve Tier 2 compliance; however, partial Tier 2 compliance has been achieved.
+Signature:
+Company:	Date:
+Address:	License:
+City/State/Zip:	Phone:

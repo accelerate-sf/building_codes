@@ -1,0 +1,114 @@
+Chapter 9 Vents
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X										X												
+Adopt Entire Chapter as amended (amended sections listed below)				X	X			X	X	X		X	X	X	X								
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+903.1(2)				X				X	X														
+903.1.1				X	X																		
+903.1.2				X																			
+903.1.3										X		X	X	X	X								
+906.2.1										X	X	X	X	X	X								
+
+903.1(2)
+
+903.1.1
+
+903.1.2
+
+903.1.3
+
+906.2.1
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+901.0 General
+901.1 Applicability
+901.2 Vents Required
+901.3 Trap Seal Protection
+902.0 Vents Not Required
+902.1 Interceptor
+902.2 Bars, Soda Fountains, and Counter
+903.0 Materials
+903.1 Applicable Standards
+the firestop protection requirements in the California Building Code
+
+903.1.1
+[HCD 1 & HCD 2] ABS or PVC installations
+are limited to not more than two stories of areas of residential accommodation.
+
+903.1.2
+[HCD 1] All malleable iron vents shall be galvanized.
+
+903.1.3
+[OSHPD 1, 2, 3, 4 & 5] ABS and PVC installations are not allowed.
+
+903.2 Use of Copper or Copper Alloy Tubing
+903.2.1 Aboveground
+903.2.2 Prohibited Use
+903.2.3 Marking
+903.3 Changes in Direction
+904.0 Size of Vents
+904.1 Size
+904.2 Length
+905.0 Vent Pipe Grades and Connections
+905.1 Grade
+905.2 Horizontal Drainage Pipe
+905.3 Vent Pipe Rise
+905.4 Roof Termination
+905.5 Location of Opening
+905.6 Common Vertical Pipe
+906.0 Vent Termination
+906.1 Roof Termination
+906.2 Clearance
+906.2.1
+[OSHPD 1,1R, 2, 3, 4 & 5] Each vent pipe
+shall terminate not less than twenty-five (25) feet (7620 mm) from any air intake or vent shaft.
+
+906.3 Use of Roof
+906.4 Outdoor Installations
+906.5 Joints
+906.6 Lead
+906.7 Frost or Snow Closure
+907.0 Vent Stacks and Relief Vents
+907.1 Drainage Stack
+907.2 Yoke Vent
+908.0 Wet Venting
+908.1 Vertical Wet Venting
+908.1.1 Size
+908.1.2 Vent Connection
+908.2 Horizontal Wet Venting for a Bathroom Group
+908.2.1 Vent Connection
+908.2.2 Size
+908.2.3 Trap Arm
+908.2.4 Water Closet
+908.2.5 Additional Fixtures
+909.0 Special Venting for Island Fixtures
+909.1 General
+910.0 Combination Waste and Vent Systems
+910.1 Where Permitted
+910.2 Approval
+910.3 Vents
+910.4 Size
+910.5 Vertical Waste Pipe
+910.6 Cleanouts
+910.7 Fixtures
+911.0 Circuit Venting
+911.1 Circuit Vent Permitted
+911.2 Circuit Vent Size and Connection
+911.2.1 Multiple Circuit Vents
+911.3 Relief Vent
+911.3.1 Connection and Installation
+911.3.2 Fixture Drain
+911.4 Slope and Size of Horizontal Branch
+911.4.1 Multiple Circuit-Vented Branches
+911.4.1.1 Size of Parallel Horizontal Branches
+911.4.1.2 Size of Continuous Horizontal Branches
+911.5 Additional Fixtures
+912.0 Engineered Vent System
+912.1 General
+912.2 Minimum Requirements

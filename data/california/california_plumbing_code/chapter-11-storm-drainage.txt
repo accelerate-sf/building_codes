@@ -1,0 +1,214 @@
+Chapter 11 Storm Drainage
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter											X												
+Adopt Entire Chapter as amended (amended sections listed below)	X			X	X			X	X	X		X	X	X	X								
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+1101.4	X			X	X			X	X	X		X	X	X	X								
+1101.4.2.1				X																			
+1101.4.2.2										X		X	X	X	X								
+1101.6 Exception				X	X																		
+
+1101.4.2.1
+
+1101.4.2.2
+
+1101.6 Exception
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1101.0 General
+1101.1 Applicability
+1101.2 Where Required
+1101.3 Storm Water Drainage to Sanitary Sewer Prohibited
+1101.4 Material Uses
+the firestop protection requirements in the California Building Code
+
+[HCD 1 & HCD 2] ABS or PVC installations are limited to not more than two stories of areas of residential accommodation.[OSHPD 1, 2, 3, 4 & 5] ABS and PVC installations are not allowed.
+
+1101.4.1 Copper and Copper Alloys
+1101.4.2 Conductors
+1101.4.2.1
+[HCD 1] ABS or PVC installations are limited to not more than two stories of areas of residential accommodation.
+
+1101.4.2.2
+[OSHPD 1, 2, 3, 4 & 5] ABS and PVC installations are not allowed.
+
+1101.4.3 Leaders
+1101.4.4 Underground Building Storm Drains
+1101.4.5 Building Storm Sewers
+1101.4.6 Subsoil Drains
+MATERIAL	REFERENCED STANDARD(S)
+PE	ASTM F667
+PVC	ASTM D2729
+Vitrified Clay (Extra strength)	ASTM C4, ASTM C700
+
+1101.5 Expansion Joints Required
+1101.6 Subsoil Drains
+Exception: [HCD 1 & HCD 2] Subsoil drains are mandatory only when required by the Authority Having Jurisdiction due to geological conditions.
+
+1101.6.1 Discharge
+1101.6.2 Sump
+1101.6.3 Splash Blocks
+1101.6.4 Backwater Valve
+1101.6.5 Open Area
+1101.7 Building Subdrains
+1101.8 Areaway Drains
+1101.9 Window Areaway Drains
+1101.10 Filling Stations and Motor Vehicle Washing Establishments
+1101.11 Paved Areas
+1101.12 Roof Drainage
+1101.12.1 Primary Roof Drainage
+1101.12.2 Secondary Drainage
+1101.12.2.1 Roof Scuppers or Open Side
+1101.12.2.2 Secondary Roof Drain
+1101.12.2.2.1 Separate Piping System
+1101.12.2.2.2 Combined System
+1101.13 Cleanouts
+1101.13.1 Rain Leaders and Conductors
+1101.14 Rainwater Sumps
+1101.15 Traps on Storm Drains and Leaders
+1101.15.1 Where Not Required
+1101.15.2 Trap Size
+1101.15.3 Method of Installation of Combined Sewer
+1101.16 Leaders, Conductors, and Connections
+1101.16.1 Protection of Leaders
+1101.16.2 Combining Storm With Sanitary Drainage
+1102.0 Roof Drains
+1102.1 Applications
+1102.2 Dome Strainers Required
+1102.3 Roof Drain Flashings
+1102.3.1 Lead Flashing
+1102.3.2 Copper Flashing
+1103.0 Size of Leaders, Conductors, and Storm Drains
+1103.1 Vertical Conductors and Leaders
+SIZE OF DRAIN, LEADER, OR PIPE	FLOW	MAXIMUM ALLOWABLE HORIZONTAL PROJECTED ROOF AREAS AT VARIOUS RAINFALL RATES(square feet)
+inches	gpm1	1 (in/h)	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)	7 (in/h)	8 (in/h)	9 (in/h)	10 (in/h)	11 (in/h)	12 (in/h)
+2	30	2880	1440	960	720	575	480	410	360	320	290	260	240
+3	92	8800	4400	2930	2200	1760	1470	1260	1100	980	880	800	730
+4	192	18 400	9200	6130	4600	3680	3070	2630	2300	2045	1840	1675	1530
+5	360	34 600	17 300	11 530	8650	6920	5765	4945	4325	3845	3460	3145	2880
+6	563	54 000	27 000	17 995	13 500	10 800	9000	7715	6750	6000	5400	4910	4500
+8	1208	116 000	58 000	38 660	29 000	23 200	19 315	16 570	14 500	12 890	11 600	10 545	9600
+
+1103.2 Size of Horizontal Storm Drains and Sewers
+SIZE OF PIPE	FLOW
+(1/8 inch per foot
+slope)	MAXIMUM ALLOWABLE HORIZONTAL PROJECTED ROOF AREAS AT VARIOUS RAINFALL RATES (square feet)
+inches	gpm	1 (in/h)	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	34	3288	1644	1096	822	657	548
+4	78	7520	3760	2506	1880	1504	1253
+5	139	13 360	6680	4453	3340	2672	2227
+6	222	21 400	10  700	7133	5350	4280	3566
+8	478	46 000	23 000	15 330	11 500	9200	7670
+10	860	82 800	41 400	27 600	20 700	16 580	13 800
+12	1384	133 200	66 600	44 400	33 300	26 650	22 200
+15	2473	238 000	119 000	79 333	59 500	47 600	39 650
+
+SIZE OF PIPE	FLOW
+(1/4 inch per foot
+slope)	MAXIMUM ALLOWABLE HORIZONTAL PROJECTED ROOF AREAS AT VARIOUS RAINFALL RATES (square feet)
+inches	gpm	1 (in/h)	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	48	4640	2320	1546	1160	928	773
+4	110	10 600	5300	3533	2650	2120	1766
+5	196	18 880	9440	6293	4720	3776	3146
+6	314	30 200	15 100	10 066	7550	6040	5033
+8	677	65 200	32 600	21 733	16 300	13 040	10 866
+10	1214	116 800	58 400	38 950	29 200	23 350	19 450
+12	1953	188 000	94 000	62 600	47 000	37 600	31 350
+15	3491	336 000	168 000	112 000	84 000	67 250	56 000
+
+SIZE OF PIPE	FLOW
+(1/2 inch per foot
+slope)	MAXIMUM ALLOWABLE HORIZONTAL PROJECTED ROOF AREAS AT VARIOUS RAINFALL RATES (square feet)
+inches	gpm	1 (in/h)	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	68	6576	3288	2192	1644	1310	1096
+4	156	15 040	7520	5010	3760	3010	2500
+5	278	26 720	13 360	8900	6680	5320	4450
+6	445	42 800	21 400	14 267	10 700	8580	7140
+8	956	92 000	46 000	30 650	23 000	18 400	15 320
+10	1721	165 600	82 800	55 200	41 400	33 150	27 600
+12	2768	266 400	133 200	88 800	66 600	53 200	44 400
+15	4946	476 000	238 000	158 700	119 000	95 200	79 300
+
+1103.3 Size of Roof Gutters
+DIAMETER OF GUTTER
+(1/16 inch per foot slope)	MAXIMUM RAINFALL RATES BASED ON ROOF AREA
+(square feet)
+inches	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	340	226	170	136	113
+4	720	480	360	288	240
+5	1250	834	625	500	416
+6	1920	1280	960	768	640
+7	2760	1840	1380	1100	918
+8	3980	2655	1990	1590	1325
+10	7200	4800	3600	2880	2400
+
+DIAMETER OF GUTTER
+(1/8 inch per foot slope)	MAXIMUM RAINFALL RATES BASED ON ROOF AREA
+(square feet)
+inches	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	480	320	240	192	160
+4	1020	681	510	408	340
+5	1760	1172	880	704	587
+6	2720	1815	1360	1085	905
+7	3900	2600	1950	1560	1300
+8	5600	3740	2800	2240	1870
+10	10 200	6800	5100	4080	3400
+
+DIAMETER OF GUTTER
+(1/4 inch per foot slope)	MAXIMUM RAINFALL RATES BASED ON ROOF AREA
+(square feet)
+inches	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	680	454	340	272	226
+4	1440	960	720	576	480
+5	2500	1668	1250	1000	834
+6	3840	2560	1920	1536	1280
+7	5520	3680	2760	2205	1840
+8	7960	5310	3980	3180	2655
+10	14 400	9600	7200	5750	4800
+
+DIAMETER OF GUTTER
+(1/2 inch per foot slope)	MAXIMUM RAINFALL RATES BASED ON ROOF AREA
+(square feet)
+inches	2 (in/h)	3 (in/h)	4 (in/h)	5 (in/h)	6 (in/h)
+3	960	640	480	384	320
+4	2040	1360	1020	816	680
+5	3540	2360	1770	1415	1180
+6	5540	3695	2770	2220	1850
+7	7800	5200	3900	3120	2600
+8	11 200	7460	5600	4480	3730
+10	20 000	13 330	10 000	8000	6660
+
+1103.4 Side Walls Draining Onto a Roof
+1104.0 Values for Continuous Flow
+1104.1 General
+1105.0 Controlled-Flow Roof Drainage
+1105.1 Application
+ROOF RISE* (inches)	MAXIMUM WATER DEPTH AT DRAIN (inches)
+Flat	3
+2	4
+4	5
+6	6
+
+ROOF RISE* (inches)	ABOVE ROOF LEVEL AT DRAIN (inches)
+Flat	3
+2	4
+4	5
+6	6
+
+1105.2 Setback Roofs
+1106.0 Engineered Storm Drainage System
+1106.1 General
+1106.2 Siphonic Roof Drainage Systems
+1106.3 Siphonic Roof Drains
+1107.0 Testing
+1107.1 Testing Required
+1107.2 Methods of Testing Storm Drainage Systems
+1107.2.1 Water Test
+1107.2.2 Air Test
+1107.2.3 Exceptions

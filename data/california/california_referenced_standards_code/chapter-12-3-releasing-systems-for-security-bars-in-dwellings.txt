@@ -1,0 +1,414 @@
+CHAPTER 12-3 RELEASING SYSTEMS FOR SECURITY BARS IN DWELLINGS
+
+INTRODUCTION
+
+SECTION 12-3-1 SCOPE
+
+12-3-1.1
+
+These requirements cover releasing systems for bars, grilles, mesh, glazing or other items intended to provide security at doors and windows required for emergency escape from dwelling units. When actuated by the occupant, the system allows the obstructions over the door or window to be moved so occupants can escape in the event of an emergency.
+
+12-3-1.2
+
+These requirements only cover the ability of the releasing system to be manually activated from the interior of a dwelling unit by an occupant to affect an escape through the protected opening.
+
+12-3-1.3
+
+These requirements cover releasing systems intended for use on the interior side of doors or windows in all climatic locations.
+
+12-3-1.4
+
+These requirements do not evaluate the ability of the releasing system or obstructions to resist an external forced entry attack.
+
+12-3-1.5
+
+These requirements do not evaluate the ability of the releasing system or obstructions to be opened or removed from the exterior of the residential dwelling unit by emergency response personnel during rescue operations.
+
+12-3-1.6
+
+Products covered by these requirements are intended for installation in dwelling units to protect door and window openings that are designated by the California Building Standards Code to be used as the secondary means of escape from the living area.
+
+12-3-1.7
+
+Products covered by these requirements are not intended to be used to protect doors in means of egress path for nonresidential occupancies, the common egress path of multifamily residential dwelling units or the primary means of egress path in a single-family dwelling unit.
+
+12-3-1.8
+
+These requirements do not cover window guards or fall prevention devices that are intended to prevent falls from upper story windows.
+
+12-3-1.9
+
+These requirements do not apply to storm doors and windows or light duty screens used for insect control.
+
+12-3-1.10
+
+A product that contains features, characteristics, components or materials new or different from those covered by these requirements, and that involve a risk of fire, electric shock or injury to persons shall be evaluated using the appropriate additional component and end-product requirements as determined necessary to maintain an acceptable level of safety.
+
+SECTION 12-3-2 GENERAL
+
+12-3-2.1 Components.
+
+12-3-2.1.1
+
+Except as indicated in Section 12-3-2.1.2, a component of a product covered shall comply with the requirements for that component.
+
+12-3-2.1.2
+
+A component need not comply with a specific requirement that:
+
+(a)Involves a feature or characteristic not needed in the application of the component in the product covered by these requirements, or
+
+(b)Is superseded by these requirements.
+
+12-3-2.1.3
+
+A component shall be used in accordance with its recognized rating established for the intended conditions of use.
+
+12-3-2.1.4
+
+Specific components are recognized as being incomplete in construction features or restricted in performance capabilities. Such components are intended for use only under limited conditions, such as certain temperatures not exceeding specific limits, and shall be used only under those specific conditions for which they have been recognized.
+
+12-3-2.2 Units of measurement.
+
+12-3-2.2.1
+
+When a value for measurement is followed by a value in other units in parentheses, the first stated value is the requirement.
+
+12-3-2.3 Installation instructions.
+
+12-3-2.3.1
+
+A copy of the operating and installation instructions or equivalent information is to be furnished with the samples submitted for investigation for use as a guide in the examination and test of the mechanism. For this purpose, a printed edition is not required.
+
+12-3-2.4 Definitions.
+
+12-3-2.4.1 Dwelling unit.
+
+A single unit, providing complete, independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking and sanitation.
+
+12-3-2.4.2 Escape.
+
+For the purposes of these requirements, escape refers to movement of occupants from the interior of a residential dwelling unit to a safe point outside of the dwelling unit during an emergency fire condition.
+
+12-3-2.4.3 Emergency means of escape.
+
+A passage independent of and remote from the primary means of escape that provides a means of travel from living and sleeping spaces inside a dwelling unit to the outside.
+
+12-3-2.4.4 Means of escape.
+
+A concept included in building codes that, in most cases, requires sleeping rooms and living areas in dwelling units to be provided with at least one primary means of escape and one secondary means of escape to the outside.
+
+12-3-2.4.5 Primary means of escape.
+
+A door, stairway or ramp providing a means of unobstructed travel from living spaces inside a dwelling unit to the outside at street or ground level.
+
+12-3-2.4.6 Security bars.
+
+For the purposes of these requirements, the term “security bars” includes “burglar bars” and refers to metal and other bars, grilles, grates and other barriers that are designed to provide security for doors and windows in dwelling units. The purpose of security bars, by their mere presence on a building, is to deter a potential forced entry into the dwelling.
+
+CONSTRUCTION
+
+SECTION 12-3-3 ASSEMBLY
+
+12-3-3.1
+
+Security bar releasing systems consist of the security bars, latches, manual actuators, cables, connectors, hinges and mounting hardware. The entire system shall be packaged in a single container. Standard mounting hardware including screws, bolts and washers are allowed to be provided separately.
+
+Exception: The security bars shall be allowed to be provided separately if the instruction manual complies with Section 12-3-13.2.
+
+12-3-3.2
+
+The system shall be of a type capable of being readily maintained in proper operating condition.
+
+12-3-3.3
+
+The system shall be designed to immediately unlatch the security bars when actuated. It shall be able to be operated from the inside of a building by the occupants without the use of tools, keys, or special knowledge or effort.
+
+12-3-3.4
+
+The manual actuator used to release the security bars shall be designed to be mounted inside the dwelling unit for operation by the occupants. Covers or other barriers that can obstruct access to actuators shall not be provided if they inhibit the proper operation of the system.
+
+12-3-3.5
+
+The release mechanism shall not depend on springs to release the latch, although springs are allowed to be provided to assist in the operation.
+
+12-3-3.6
+
+The system shall be designed to prevent it from being locked in a closed position with a pad lock or similar device.
+
+12-3-3.7
+
+Systems provided with an automatic actuating mechanism shall also include a manual release system that complies with these requirements. The automatic actuation portion of the system, even in the event of its failure, shall not inhibit operation of the manual releasing system.
+
+12-3-3.8
+
+Manual actuation of the system shall release the security bars quickly and with simple, easily understood and intuitive motions. The system shall be capable of being operated in all lighting conditions.
+
+12-3-3.9
+
+Manual actuation of the system shall not require two different forces to be applied at the same time, such as applying force to the actuator while also pushing on the bars.
+
+12-3-3.10
+
+When fully opened, the assembly shall provide a minimum clear opening of not less than 5.7 square feet (0.53 m2) with the width not less than 20 inches (508 mm) and the height not less than 24 inches (610 mm), measured parallel to the plane of the opening.
+
+12-3-3.11
+
+Security bars shall be constructed so that they do not swing up to open. They shall not include projections that can easily snag the clothing of those escaping through the opening.
+
+12-3-3.12
+
+Security bars shall have been constructed such that a sphere 4 inches (102 mm) in diameter shall not pass through any opening and shall not create other potential head entrapment hazards.
+
+SECTION 12-3-4 MATERIALS
+
+12-3-4.1
+
+The materials employed shall have adequate mechanical strength to perform their expected function.
+
+12-3-4.2
+
+O-rings, gaskets and seals shall comply with UL Standard 157, 1996 Edition. Polymeric materials shall comply with UL Standard 746C, 1995 Edition, Section 25-27.
+
+Exception: O-rings, gaskets, seals and polymeric materials that are used as decorative parts, or whose failure will not affect the ability of the system to comply with these requirements.
+
+12-3-4.3
+
+Components constructed of dissimilar metals shall not be used in applications where contact between them is likely to cause galvanic corrosion. The materials employed shall reduce the likelihood of the release mechanism becoming inoperative due to corrosion.
+
+12-3-4.4
+
+Ferrous metal parts shall be 300 series stainless steel or protected against corrosion using minimum G60 or A60 hot-dipped mil galvanization, 0.0104 mm thick zinc coating, 0.0127 mm thick cadmium coating or two coats of organic outdoor paint.
+
+12-3-4.5 Manual actuators.
+
+12-3-4.5.1
+
+Security bar releasing assembly mechanisms shall include a manual actuation mechanism that is capable of unlatching the security bars so that they can be opened by the occupants. The actuating force shall be applied in one of the following manners:
+
+Finger actuated: Pushing with the index finger or pulling a loop with the index finger in a curled position.
+
+Hand actuated: Pulling, pushing, twisting, rotating or turning a lever, knob, handle, rod or similar actuator with the hand or multiple fingers.
+
+Foot actuated: Kicking, depressing or stepping on an actuating pedal, lever, stirrup or similar actuator.
+
+12-3-4.5.2
+
+On foot-actuated systems, only a single foot motion shall be used to disengage the bar assembly from the latch. On finger- and hand-actuated systems, one or two distinct hand or finger motions shall be used to disengage the bar assembly from the latch.
+
+12-3-4.5.3
+
+Releasing the actuator after the latch has been disengaged from the bar assembly shall not reengage the bar assembly.
+
+12-3-4.5.4
+
+No features or methods shall be provided or referenced in the instruction manual to inhibit the operation of the releasing mechanism.
+
+12-3-4.6 Cables and connectors.
+
+12-3-4.6.1
+
+Cables connecting actuators to latches and release mechanisms shall only be used in applications where the force transmitted by them during normal operation is less than l/10 the manufacturer’s rated working tension or compression.
+
+12-3-4.6.2
+
+Cables and connectors shall not be damaged, or have wire strands frayed during normal installation or use, and shall not contact sharp objects when installed as intended.
+
+12-3-4.6.3
+
+The means used to secure cables or connectors to latches, release mechanisms and actuators shall provide a tight, reliable nonslip connection.
+
+12-3-4.7 Hinges.
+
+12-3-4.7.1
+
+Hinges shall operate smoothly and reliably, and shall not be susceptible to rust or corrosion.
+
+PERFORMANCE
+
+SECTION 12-3-5 TEST SETUP AND SAMPLE PREPARATION
+
+12-3-5.1 Sample selection.
+
+12-3-5.1.1
+
+Representative samples of the releasing system shall be assembled to a test fixture as described in the installation instructions, unless otherwise noted in specific tests. The assembly shall include the mounting, hardware, releasing mechanisms and fasteners recommended in the instructions.
+
+12-3-5.1.2
+
+Samples to be tested shall include each type and sizes of releasing system shown in the installation instructions. Each type of releasing mechanism shall be subjected to the complete test program, unless it can be shown that tests on one type of mechanism are representative of the worst case testing on another mechanism. The sample shall be tested with mounting hardware and security bars that represent the worst case conditions of use. This shall be considered to be the security bars with the heaviest weight, greatest dimensions, and systems that create the greatest torque, moment and frictional forces on the hinges and releasing mechanism.
+
+12-3-5.1.3
+
+The test report shall document the systems tested, along with the basis for sample selection.
+
+12-3-5.2 Test fixture.
+
+12-3-5.2.1
+
+The test fixture in which the assembly is mounted shall consist of the wood stud construction described in Section 12-3-5.2.2. Systems that require a specific mounting arrangement not represented by these test fixtures, such as masonry or brick, shall be mounted in a fixture of equivalent dimensions and rigidity, as described in the installation instructions. If agreeable to the testing laboratory and manufacturer, the wood stud fixture shall be representative of all mounting structures, provided the system is securely held in place in the fixture during all tests.
+
+12-3-5.2.2
+
+The entire test fixture shall be constructed of commercially available two by four trade size vertical wood studs [nominal 1.5 inches by 3.5 inches (38.1 mm by 89 mm)], spaced on maximum 16 inch (406 mm) centers. The opening shall be framed with two by four plates and minimum two layers of two by four for headers. For window openings, a minimum of two layers of two by four shall be used for the sill and cripple studs shall be provided. The frame shall be secured in place so it does not move when the system is subjected to the test forces noted below. The frame shall extend a minimum of 12 inches (305 mm) above and on each side of the opening.
+
+12-3-5.2.3
+
+Actual doors and windows or their frames shall not be required to be mounted in the opening unless the presence of such doors, windows or frames affects the operation of the system, or unless part of the system is mounted on the door or window frame.
+
+12-3-5.2.4
+
+The exterior side of the assembly shall be covered by 3/4-inch (19 mm) thick trade size CDX plywood, secured with minimum 11/2-inch (38 mm) nails or screws, secured at least every 12 inches (305 mm) to each stud, sill and header. The interior side of the assembly shall be covered with a layer of 1/2-inch (13 mm) gypsum wallboard, secured with minimum 11/4-inch (32 mm) nails or screws at least every 12 inches (305 mm) to each stud, sill and header.
+
+12-3-5.2.5
+
+Openings in the test fixture shall be sized to accommodate the size of the assembly under test, as described in the installation instructions. Opening size shall be allowed to vary if the size used is judged to not affect the results of any test performed.
+
+12-3-5.3 Sample assembly.
+
+12-3-5.3.1
+
+Samples of the releasing system shall arrive at the test site in the packaging anticipated for distribution and sale, and accompanied by the installation instructions. The samples are to be installed on the test fixture by a representative of the certification organization, using common hand and power tools as recommended by the instruction manual. Any specialty tools required for assembly shall be so identified in the instructions.
+
+12-3-5.3.2
+
+When multiple tests are required on an assembly, they are allowed to be performed on the same test fixture, provided that new hole or openings are used for mounting. Portions of the test fixture shall be allowed to be replaced to accommodate new mounting holes or brackets.
+
+12-3-5.3.3
+
+Samples that include grease, graphite, silicon or other lubricants shall also be tested with the lubricant removed or not applied.
+
+12-3-5.3.4
+
+When assembled in accordance with the installation instructions the system shall be securely held in place in the test fixture and shall operate consistently in the intended fashion.
+
+SECTION 12-3-6 SECURE ATTACHMENT TEST
+
+12-3-6.1
+
+Two samples of the system shall be subjected to the following test sequence.
+
+12-3-6.2
+
+The system, when in the closed position, shall resist 50-pound (22 N) force without opening, loosening in the test fixture or damaging the releasing assembly. The force shall be applied on the exterior side of the test fixture in a location that is most likely to move or damage the system. The force shall be gradually applied perpendicular to the opening and held for a period of 1 minute. A 3/8-inch (10 mm) diameter rope looped through the security bars, or similar arrangement, shall be used to apply the force.
+
+SECTION 12-3-7 OPERATION TEST
+
+12-3-7.1
+
+Following the Secure Attachment Test, each of the two samples of the system shall unlatch immediately without intentional delay during each of 10 attempts to operate the system, and the security bars shall be fully opened to create the opening specified in Section 12-3-3.10. During each attempt, the actuating mechanism shall be operated as intended, using a finger, hand or foot movement as described in the operating instructions provided to unlatch the security bars. The security bars shall then be opened to the full open position, and the system shall then be reset to the closed position. An examination shall be performed to verify that the security bars are completely reset prior to the next attempt.
+
+12-3-7.2
+
+Springs provided in the latch or on the security bars that are intended to move the security bars from the latched position shall be removed or disabled prior to the test.
+
+12-3-7.3
+
+Prior to the test, the assembly shall be operated and reset a number of times to acquaint the operator with the system and its opening and reselling operation. On some systems, it may be necessary to slam, tap or otherwise carefully align the security bars in the latch to successfully reset the system into the closed position.
+
+12-3-7.4
+
+In the event that the actuating mechanism or assembly does not operate as intended during each of the 10 attempts, the test assembly, mounting method, actuating motion and system resetting procedure shall be reviewed to determine a potential cause of failure. After correcting any identified problems, the set of 10 operations shall be repeated with no unsuccessful attempts.
+
+SECTION 12-3-8 MANUAL ACTUATION TEST
+
+12-3-8.1
+
+Following the Operation Test, each of the two sample assemblies shall be operated five times, and the forces required to unlatch the system shall be measured and recorded. These forces shall not exceed the values indicated in Sections 12-3-8.2 through 12-3-8.4.
+
+12-3-8.2
+
+A force gauge shall be used to apply the actuating force. The force shall be applied in the orientation anticipated by the design, using an appropriate force gauge and attachments, such as hooks, loops or probes. The gauge shall be capable of measuring the maximum force applied on each attempt. The force shall be applied in a location and fashion that is most likely to unlatch the actuator, and shall be allowed to range from a slow gradual application of force to a faster application of force of not less than 1 second in duration.
+
+12-3-8.2.1
+
+The average force required to unlatch fingeractuated  systems shall not exceed 5 pounds (22 N) over the five attempts. The force required to unlatch the system during any of the attempts shall not exceed 10 pounds (44 N).
+
+12-3-8.2.2
+
+The average force required to unlatch handactuated systems shall not exceed 5 pounds (22 N) over the five attempts. The force required to unlatch the system during any of the attempts shall not exceed 10 pounds (44 N).
+
+12-3-8.2.3
+
+The average force required to unlatch footactuated systems shall not exceed 15 pounds (66 N) over the five attempts. The force required to unlatch the system during any of the attempts shall not exceed 30 pounds (132 N).
+
+12-3-8.3
+
+In lieu of complying with Section 12-3-8.2, footactuated systems designed to be operated by a kick shall successfully unlatch and disengage the latching mechanism each of five times when subjected to the following impact. The impact shall be applied by swinging a 25-pound (11.4 kg) weight on a 4-foot (1.2 m) pendulum from 10 inches (254 mm) away, measured horizontally. The point of impact on the foot actuator shall be at the bottom of the pendulum swing.
+
+12-3-8.4
+
+Once the system is unlatched, a maximum force required to set the security bars in motion shall not exceed 30 pounds (132 N), and the maximum force required to open the security bars to the minimum required width shall not exceed 15 pounds (66 N).
+
+SECTION 12-3-9 ENDURANCE TEST
+
+12-3-9.1
+
+A sample of the security bar releasing system shall function as intended during 250 cycles of operation without failure or excessive wear of the parts, including serving or fraying of individual cable wires. Following the cycling, the system shall be subjected to the Operation Test.
+
+12-3-9.2
+
+The system shall be operated and reset as described in the manufacturer's operating instructions. As part of the cycling, it is only necessary to unlatch, disengage and reset the system, and not open the security bars to the full open position. The cycling rate shall not exceed 30 cycles per minute.
+
+SECTION 12-3-10 ENVIRONMENTAL EXPOSURE TEST
+
+12-3-10.1
+
+After each of the following exposures, test assemblies shall be subjected to the Manual Actuation Test. The test shall be performed while the test assemblies are in the test chambers, or immediately after their removal from the test chamber. Opening forces after these conditionings shall not exceed the values shown in Section 12-3-8.2 or 12-3-8.3. A single sample shall be subjected to each exposure. The same sample, or different sample, shall be allowed to be used for each exposure condition.
+
+12-3-10.2 Elevated ambient.
+
+Samples shall be conditioned in a 120°F (49°C) environment for 24 hours.
+
+12-3-10.3 Low ambient.
+
+Samples shall be conditioned in a 32°F (0°C) environment for 24 hours.
+
+12-3-10.4 Humidity test.
+
+Samples shall be conditioned for 24 hours in moist air having a relative humidity of 85 +/– 5 percent at a temperature of 90°F +/– 5°F (32 +/– 2°C).
+
+SECTION 12-3-11 ABUSE TEST
+
+12-3-11.1
+
+A sample shall comply with the Manual Actuation Test requirements in Sections 12-3-8.2 and 12-3-8.3 after being subjected to the simulated abuse provided in Section 12-3-11.2.
+
+12-3-11.2
+
+The sample shall be subject to six impacts of 5 feet-pounds (6.8 N · m) each applied with a 2-inch diameter (51 mm) steel ball on portions of the release system that are most likely to adversely affect the operation of the system.
+
+MARKINGS AND INSTRUCTIONS
+
+SECTION 12-3-12 MARKINGS
+
+12-3-12.1
+
+Security bars and the latching mechanism shall be permanently marked with the company name, model number and date of manufacture. When a manufacturer produces assemblies at more than one factory, each such assembly shall have a distinctive marking to identify it as the product of a particular factory.
+
+12-3-12.2
+
+Symbols or diagrams shall be marked on the manual actuator to identify how to manually release the security bars. The diagram or symbols shall be readily visible to occupants when the assembly is mounted as intended.
+
+12-3-12.3
+
+Security bars and the latching mechanism shall be marked with the name or logo of the testing agency certifying to compliance of the products with this standard, and identification of the standard as SFM SB-2000.
+
+12-3-12.4
+
+Adhesive-backed labels used to provide required markings shall be suitable for the application and shall comply with UL Standard 969, 1995 Edition.
+
+SECTION 12-3-13 INSTRUCTION MANUAL
+
+12-3-13.1
+
+Installation and operating instructions shall be provided with each system. Installation instructions shall describe how to install and initially test the system, and provide periodic testing and maintenance. Operating instructions shall be provided that include diagrams, drawing and symbols describing how to operate the system and escape in the event of a fire or other emergency.
+
+12-3-13.2
+
+When the releasing mechanism assembly is provided separately from the security bar assembly in accordance with Section 12-3-3.1, the instruction manual shall describe the compatible security bars that have been investigated and found suitable for use with the releasing assembly. Security bars shall be identified by the manufacturer’s name and model number and maximum dimensions.
+
+12-3-13.3
+
+The installation instructions shall include directions on mounting the actuator inside the room at a height not exceeding 48 inches (1.2 m) from the finished floor.
+

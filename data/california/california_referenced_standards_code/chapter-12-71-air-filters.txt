@@ -1,0 +1,34 @@
+CHAPTER 12-71 AIR FILTERS
+
+AIR FILTERS STANDARD 12-71-1
+
+STATE FIRE MARSHALDESCRIPTION OF TEST APPARATUS, METHOD AND CLASSIFICATION REQUIREMENTS FOR AIR FILTERS
+
+Sec. 12-71-100.
+
+(a)Test apparatus.
+
+1.The test duct, made of M.S. gage galvanized sheet metal reinforced with angle irons, is 21 inches square (13 548 mm2) and 131/2 feet (4114 mm) long.
+
+2.One end of the duct is tapered to the discharge of a variable-speed blower and the other end is open to discharge. A metal filter frame is provided near the middle of the length of the duct to receive one 20 by 20 inches (508 mm by 508 mm) (nominal) filter unit. Two tightfitting doors, located to permit access to the filter frame, are each provided with a mica window to permit observation of both faces of the filter and conditions in the duct downstream from the filter.
+
+3.Two 1-inch (25 mm) pipe elbows, about 18 inches (457 mm) from the base of the test filter, form gas burner outlets adjusted to provide yellow, wavering flames. The burners consume approximately 4 cubic feet (approximately 1,000 Btu/cubic feet) of gas per minute.
+
+4.With the filter in place the air velocity is adjusted to approximately 200 linear feet per minute as measured at the discharge end of the duct by an Alnor Velometer Anemometer.
+
+(b)Test method.
+
+1.Filters are tested clean, that is, unused. The flames are applied for 3 minutes during which time observations are made of both faces of the filter as to the downstream travel of flame or sparks and the density, duration and character of the products of combustion.
+
+2.Smoke density is measured as the drop in light intensity on a microammeter by means of photoelectric cell mounted a few inches below and about 12 inches (305 mm) inside the discharge end of the duct. The light source, stabilized for light intensity, is mounted 1 inch (25 mm) above the duct directly above the photoelectric cell. The microammeter readings are recorded every 5 seconds for the first minute and every 10 seconds for the next 2 minutes.
+
+3.The differences between these readings and the readings taken before the test are plotted against time (the scale being 40 μA and 40 seconds to the inch) with the resulting area under the curve being measured by use of a planimeter or calculated mathematically. This area is a measure of the smoke density produced during the test.
+
+(c)Classification. As a result of the tests, air filter units are classified as Class 1 or 2 as indicated below:
+
+1.Class 1 air filter units are those which, when clean, do not produce flames or sparks when attacked by flame and which develop areas under the smoke density curves that are less than 1.5 square inches (967 mm2).
+
+2.Class 2 air filter units are those which, when clean, burn moderately when attacked by flame or emit moderate amounts of smoke or both. These units, although they may be consumed to some extent, do not project flames or extensive sparks that would ignite adjacent combustible materials beyond the discharge end of the duct during the test and do not develop areas under the smoke density curves that are more than 6.0 square inches (3871 mm2).
+
+(d)Adhesive coatings. Liquid-adhesive coatings used on filters shall have a flash point of 325°F (163°C) Cleveland open cup tester, or higher.
+

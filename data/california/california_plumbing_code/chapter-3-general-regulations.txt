@@ -1,0 +1,334 @@
+Chapter 3 General Regulations
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X																						
+Adopt Entire Chapter as amended (amended sections listed below)			X	X	X			X	X	X	X	X	X	X	X								
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+301.3				X																			
+301.3.1				†	†																		
+301.3.1.1				†	†																		
+301.3.1.2				†	†																		
+301.4.1				X	X			X	X														
+301.6				X																			
+301.7											X												
+303.1 Exception				X																			
+304.1 Exception				X																			
+309.5				X	X																		
+310.9										X		X	X	X	X								
+310.10										X			X	X	X								
+310.11			X																				
+310.12										X		X		X	X								
+310.13										X				X	X								
+311.1 Note				X	X																		
+312.2				X	X			X	X														
+312.7			X	X	X			X	X														
+312.11				X	X			X	X														
+313.8										X		X	X	X	X								
+319.0										X		X	X	X	X								
+321.0										X		X	X	X	X								
+322.0										X		X		X	X								
+323.0										X		X	X	X	X								
+
+301.6
+
+301.7
+
+Exception
+
+Exception
+
+309.5
+
+310.9
+
+310.10
+
+310.11
+
+310.12
+
+310.13
+
+Note
+
+313.8
+
+319.0
+
+321.0
+
+322.0
+
+323.0
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+301.0 General
+301.1 Applicability
+301.2 Minimum Standards
+301.2.1 Marking
+301.2.2 Standards
+301.2.3 Plastic Pipe, Plastic Pipe Fittings, and Components
+301.2.4 Cast-Iron Soil Pipe, Fittings, and Hubless Couplings
+301.2.5 Existing Buildings
+301.3 Alternate Materials and Methods of Construction Equivalency
+[HCD 1] (See Section 1.8.7)
+
+301.3.1 Testing
+301.3.1.1 Tests
+301.3.1.2 Request by Authority Having Jurisdiction
+301.4 Flood Hazard Areas
+301.4.1 Coastal High Hazard Areas
+California Building Code or California Residential
+Code
+
+301.5 Alternative Engineered Design
+301.5.1 Permit Application
+301.5.2 Technical Data
+301.5.3 Design Documents
+301.5.4 Design Approval
+301.5.5 Design Review
+301.5.6 Inspection and Testing
+301.6 One- And Two-Family Dwellings
+[HCD 1] The
+provisions contained in this code shall not apply to one and
+two-family dwelling private sewage disposal systems and
+minimum plumbing facilities when alternate facilities or
+installations have been approved by the local health authority,
+provided that such alternative facilities or installations
+provide substantially equivalent or greater protection to
+health and safety.
+
+301.7 OSHPD 1R [OSHPD 1R]
+For OSHPD 1R, refer to
+Section 309 of the California Existing Building Code for general requirements.
+
+302.0 Iron Pipe Size (IPS) Pipe
+302.1 General
+303.0 Disposal of Liquid Waste
+303.1 General
+Exception: [HCD 1] Limited-density owner-built rural
+dwellings. A water closet shall not be required when an alternate
+system is provided and has been approved by the local
+health official. Where an alternative to the water closet is
+installed, a system for the disposal or treatment of graywater
+shall be provided to the dwelling. Graywater systems shall be
+designed according to water availability, use and discharge.
+The design, use and maintenance standards of such systems
+shall be the prerogative of the local health official.
+
+304.0 Connections to Plumbing System Required
+304.1 General
+Exception: [HCD 1] Limited-density owner-built rural
+dwellings. Where conventional plumbing, in all or in part, is
+installed within the structure, it shall be installed in accordance
+with the provisions of this code. Alternative materials and
+methods shall be permitted provided that the design complies
+with the intent of the code, and that such alternatives shall perform
+to protect health and safety for the intended purpose.
+
+305.0 Damage to Drainage System or Public Sewer
+305.1 Unlawful Practices
+306.0 Industrial Wastes
+306.1 Detrimental Wastes
+306.2 Safe Discharge
+307.0 Location
+307.1 System
+307.2 Ownership
+308.0 Improper Location
+308.1 General
+309.0 Workmanship
+309.1 Engineering Practices
+309.2 Concealing Imperfections
+309.3 Burred Ends
+309.4 Installation Practices
+309.5 Sound Transmission
+California Building Code
+
+309.6 Dead Legs
+310.0 Prohibited Fittings and Practices
+310.1 Fittings
+310.2 Drainage and Vent Piping
+310.3 Waste Connection
+310.4 Use of Vent and Waste Pipes
+310.5 Obstruction of Flow
+310.6 Dissimilar Metals
+310.7 Direction of Flow
+310.8 Screwed Fittings
+310.9
+[OSHPD 1, 2, 3, 4 & 5] Drainage piping over operating and delivery rooms, nurseries, food preparation centers, food-serving facilities, food storage areas, and other sensitive areas shall be kept to a minimum and shall not be exposed. Special precautions shall be taken to protect these areas from possible leakage from necessary overhead drainage piping systems. Piping over switchboards, panel boards, and motor control centers are subject to restrictions of the California Electrical Code where applicable.
+
+310.10
+[OSHPD 1, 3, 4 & 5] Floor drains, waste traps, sanitary drainage cleanouts and handwashing fixtures shall not
+be installed in operating and delivery rooms. Floor drains
+with self-priming traps may be installed in cystoscopic rooms.
+Floor drains shall not be installed in compounding buffer or
+ante rooms
+
+310.11
+[SFM] For applications listed in Section 1.11.0 regulated
+by the Office of the State Fire Marshal, plastic piping
+shall not be exposed as a portion of the interior room finish
+in a building or structure if the piping has a flame-spread rating
+exceeding 75 when tested in accordance with ASTM E84-77a, "Test for Surface Burning Characteristics of Building
+Materials. "
+
+310.12 [OSHPD 1, 2, 4 & 5] Services/Systems and Utilities
+Refer to Sections 1224.4.1, 1225.2.1 and 1228.4.1.1, California Building Code.
+
+310.13 Telephone and Data Equipment Rooms
+[OSHPD 1, 4 & 5]. Where telecommunications service
+entrance rooms, technology equipment centers, or technology
+distribution rooms are provided in accordance with Section
+1224.5 of the California Building Code, plumbing
+equipment and fixtures that are not directly related to the support
+of the room shall not be installed in or pass through the
+room.
+
+311.0 Independent Systems
+311.1 General
+312.0 Protection of Piping, Materials, and Structures
+312.1 General
+312.2 Installation
+California Building Code or California Residential Code
+
+312.3 Building Sewer and Drainage Piping
+312.4 Corrosion, Erosion, and Mechanical Damage
+312.5 Protectively Coated Pipe
+312.6 Freezing Protection
+312.7 Fire-Resistant Construction
+California
+Building Code or California Residential Code
+
+312.8 Waterproofing of Openings
+312.9 Steel Nail Plates
+312.10 Sleeves
+312.10.1 Building Loads
+312.10.2 Exterior Walls
+312.10.3 Firewalls
+312.11 Structural Members
+California Building Code or California Residential Code
+
+312.12 Rodentproofing
+312.12.1 Meter Boxes
+312.12.2 Metal Collars
+312.12.3 Tub Waste Openings
+313.0 Hangers and Supports
+313.1 General
+313.2 Material
+313.3 Suspended Piping
+MATERIALS	TYPES OF JOINTS	HORIZONTAL	VERTICAL
+Cast	Lead and Oakum	5 feet, except 10 feet where 10 foot
+lengths are installed1, 2, 3	Base and each floor,
+not to exceed 15 feet
+Compression Gasket	Every other joint, unless over 4 feet
+then support each joint1, 2, 3	Base and each floor,
+not to exceed 15 feet
+Cast-Iron Hubless	Shielded Coupling	Every other joint, unless over 4 feet
+then support each joint1, 2, 3, 4	Base and each floor,
+not to exceed 15 feet
+Copper & CopperAlloys	Soldered, Brazed, Threaded, or
+Mechanical	11/2 inches and smaller, 6 feet;
+2 inches and larger, 10 feet	Each floor, not to exceed 10 feet5
+Steel Pipe for Water orDWV	Threaded or Welded	3/4 inch and smaller, 10 feet;
+1 inch and larger, 12 feet	Every other floor,
+not to exceed 25 feet5
+Steel Pipe for Gas	Threaded or Welded	1/2 inch, 6 feet; 3/4 inch and 1 inch,
+8 feet; 11/4 inches and larger, 10 feet	1/2 inch, 6 feet; 3/4 inch and 1 inch,
+8 feet; 11/4 inches every floor level
+Schedule 40 PVC andABS DWV	Solvent Cemented	All sizes, 4 feet; allow
+for expansion every 30 feet3	Base and each floor; provide
+mid-story guides; provide
+for expansion every 30 feet
+CPVC	Solvent Cemented	1 inch and smaller, 3 feet;
+11/4 inches and larger, 4 feet	Base and each floor;
+provide mid-story guides
+CPVC-AL-CPVC	Solvent Cemented	1/2 inch, 5 feet; 3/4 inch, 65 inches;
+1 inch, 6 feet	Base and each floor;
+provide mid-story guide
+Lead	Wiped or Burned	Continuous Support	Not to exceed 4 feet
+Steel	Mechanical	In accordance with standards acceptable to the Authority Having Jurisdiction
+PEX	Cold Expansion, Insert
+and Compression	1 inch and smaller, 32 inches;
+11/4 inches and larger, 4 feet	Base and each floor;
+provide mid-story guides
+PEX-AL-PEX	Metal Insert and Metal
+Compression	1/2 inch3/4 inch1 inch		All sizes 98 inches	Base and each floor;
+provide mid-story guides
+PE-AL-PE	Metal Insert and Metal
+Compression	1/2 inch3/4 inch1 inch		All sizes 98 inches	Base and each floor;
+provide mid-story guides
+PE-RT	Insert and Compression	1 inch and smaller, 32 inches;
+11/4 inches and larger, 4 feet	Base and each floor;
+provide mid-story guides
+Polypropylene (PP)	Fusion weld (socket, butt, saddle, electrofusion), threaded (metal threads only), or mechanical	1 inch and smaller, 32 inches;
+11/4 inches and larger, 4 feet	Base and each floor;
+provide mid-story guides
+
+313.4 Alignment
+313.5 Underground Installation
+313.6 Hanger Rod Sizes
+PIPE AND TUBE SIZE
+(inches)	ROD SIZE
+(inches)
+1/2-4	3/8
+5-8	1/2
+10-12	5/8
+
+313.7 Gas Piping
+313.8
+[OSHPD 1, 2, 3, 4 & 5] Refer to Title 24, Part 2 of the California Building Code for seismic anchorage and bracing requirements and accommodations for building displacements.
+
+314.0 Trenching, Excavation, and Backfill
+314.1 Trenches
+314.2 Tunneling and Driving
+314.3 Open Trenches
+314.4 Excavations
+314.4.1 Installation of Thermoplastic Pipe and Fittings
+315.0 Joints and Connections
+315.1 Unions
+315.2 Prohibited Joints and Connections
+316.0 Increasers and Reducers
+316.1 General
+317.0 Food-Handling Establishments
+317.1 General
+318.0 Test Gauges
+318.1 General
+318.2 Pressure Tests (10 psi or Less)
+318.3 Pressure Tests (Greater Than 10 psi to 100 psi)
+318.4 Pressure Tests (Exceeding 100 psi)
+318.5 Pressure Range
+319.0 [Not Permitted for OSHPD 1, 2, 3, 4 & 5] Medical Gas and Vacuum Systems
+319.1 General
+320.0 Rehabilitation of Piping Systems
+320.1 General
+321.0 Essential Plumbing Provisions
+[OSHPD 1,
+2, 3 (surgical clinics), 4 & 5] During periods of power
+outages essential electrical power shall be provided for the
+following equipment:
+
+Domestic water booster pumps.
+
+Domestic hot water circulating pumps.
+
+Sewage ejector pumps.
+
+Sump pumps and drainage pumps.
+
+Domestic water heating equipment and their controls.
+
+Fuel pumps.
+
+Grease removal devices requiring electrical power.
+
+322.0 Psychiatric Services
+[OSHPD 1, 2, 4 & 5] For projects associated with provision of psychiatric services in acute psychiatric hospitals, general acute-care hospitals, and special treatment program service units in skilled nursing facilities, special design considerations for injury and suicide prevention shall be given to shower, bath, toilet, and sink plumbing fixtures. Shower heads shall be of flush-mounted design to minimize anchor points.
+
+323.0 Plumbing Equipment Schedules. [OSHPD 1, 2, 3, 4 & 5]
+Plumbing equipment schedules shall clearly indicate which equipment will be on essential power or appropriate special seismic certifications.
+

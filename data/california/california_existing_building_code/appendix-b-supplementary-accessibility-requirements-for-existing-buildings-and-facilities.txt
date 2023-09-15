@@ -1,0 +1,95 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLEAPPENDIX B SUPPLEMENTARY ACCESSIBILITY REQUIREMENTS FOR EXISTING BUILDINGS AND FACILITIES
+
+Not adopted by the State of California  (May be available for adoption by local ordinance. See Section 1.1.11.)
+
+Adopting Agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD		BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter / Section																							
+																							The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+APPENDIX B SUPPLEMENTARY ACCESSIBILITY REQUIREMENTS FOR EXISTING BUILDINGS AND FACILITIES
+
+User note:
+
+About this appendix: Chapter 11 of the International Building Code® contains provisions that set forth requirements for accessibility to buildings and their associated sites and facilities for people with physical disabilities. Sections 306 and 1508 in the code address accessibility provisions and alternatives permitted in existing buildings. Appendix B was added to address accessibility in construction for items that are not typically enforceable through the traditional building code enforcement process.
+
+SECTION B101 QUALIFIED HISTORIC BUILDINGS AND FACILITIES
+
+[BE] B101.1 General.
+
+Qualified historic buildings and facilities shall comply with Sections B101.2 through B101.5.
+
+[BE] B101.2 Qualified historic buildings and facilities.
+
+These procedures shall apply to buildings and facilities designated as historic structures that undergo alterations or a change of occupancy.
+
+[BE] B101.3 Qualified historic buildings and facilities subject to Section 106 of the National Historic Preservation Act.
+
+Where an alteration or change of occupancy is undertaken to a qualified historic building or facility that is subject to Section 106 of the National Historic Preservation Act, the federal agency with jurisdiction over the undertaking shall follow the Section 106 process. Where the state historic preservation officer or Advisory Council on Historic Preservation determines that compliance with the requirements for accessible routes, ramps, entrances, or toilet facilities would threaten or destroy the historic significance of the building or facility, the alternative requirements of Section 306.7.16 for that element are permitted.
+
+[BE] B101.4 Qualified historic buildings and facilities not subject to Section 106 of the National Historic Preservation Act.
+
+Where an alteration or change of occupancy is undertaken to a qualified historic building or facility that is not subject to Section 106 of the National Historic Preservation Act, and the entity undertaking the alterations believes that compliance with the requirements for accessible routes, ramps, entrances or toilet facilities would threaten or destroy the historic significance of the building or facility, the entity shall consult with the state historic preservation officer. Where the state historic preservation officer determines that compliance with the accessibility requirements for accessible routes, ramps, entrances or toilet facilities would threaten or destroy the historical significance of the building or facility, the alternative requirements of Section 306.7.16 for that element are permitted.
+
+[BE] B101.4.1 Consultation with interested persons.
+
+Interested persons shall be invited to participate in the consultation process, including state or local accessibility officials, individuals with disabilities, and organizations representing individuals with disabilities.
+
+[BE] B101.4.2 Certified local government historic preservation programs.
+
+Where the state historic preservation officer has delegated the consultation responsibility for purposes of this section to a local government historic preservation program that has been certified in accordance with Section 101 of the National Historic Preservation Act of 1966 [(16 U.S.C. 470a(c)] and implementing regulations (36 CFR 61.5), the responsibility shall be permitted to be carried out by the appropriate local government body or official.
+
+[BE] B101.5 Displays.
+
+In qualified historic buildings and facilities where alternative requirements of Section 306.7.16 are permitted, displays and written information shall be located where they can be seen by a seated person. Exhibits and signs displayed horizontally shall be 44 inches (1120 mm) maximum above the floor.
+
+SECTION B102 FIXED TRANSPORTATION FACILITIES AND STATIONS
+
+[BE] B102.1 General.
+
+Existing fixed transportation facilities and stations shall comply with Section B102.2.
+
+[BE] B102.2 Existing facilities—key stations.
+
+Rapid rail, light rail, commuter rail, intercity rail, high-speed rail and other fixed guideway systems, altered stations, and intercity rail and key stations, as defined under criteria established by the Department of Transportation in Subpart C of 49 CFR Part 37, shall comply with Sections B102.2.1 through B102.2.3.
+
+[BE] B102.2.1 Accessible route.
+
+One accessible route, or more, from an accessible entrance to those areas necessary for use of the transportation system shall be provided. The accessible route shall include the features specified in Section E109.2 of the California Building Code, except that escalators shall comply with Section 3004.2.2 of the California Building Code. Where technical unfeasibility in existing stations requires the accessible route to lead from the public way to a paid area of the transit system, an accessible fare collection machine complying with Section E109.2.3 of the California Building Code shall be provided along such accessible route.
+
+[BE] B102.2.2 Platform and vehicle floor coordination.
+
+Station platforms shall be positioned to coordinate with vehicles in accordance with applicable provisions of 36 CFR Part 1192. Low-level platforms shall be 8 inches (250 mm) minimum above top of rail.
+
+Exception: Where vehicles are boarded from sidewalks or street-level, low-level platforms shall be permitted to be less than 8 inches (250 mm).
+
+[BE] B102.2.3 Direct connections.
+
+New direct connections to commercial, retail or residential facilities shall, to the maximum extent feasible, have an accessible route complying with Section 306.7.1 from the point of connection to boarding platforms and transportation system elements used by the public. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and transportation system elements used by the public.
+
+SECTION B103 DWELLING UNITS AND SLEEPING UNITS
+
+[BE] B103.1 Communication features.
+
+Where dwelling units and sleeping units are altered or added, the requirements of Section E104.2 of the California Building Code shall apply only to the units being altered or added until the number of units with accessible communication features complies with the minimum number required for new construction.
+
+SECTION B104 REFERENCED STANDARDS
+
+[BE] B104.1 General.
+
+See Table B104.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+[BE] TABLE B104.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+Y3.H626 2P	National Historic Preservation J101.2, 43/933 Act of 1966 as amended J101.3, 3rd Edition	B101.3, B101.4,B101.4.2
+CBC—21	California Building Code	B102.2.1, B103.1
+36 CFR Part 1192	Americans with Disabilities Act Guidelines for Transportation Vehicles—Rapid Rail Vehicles and Systems	B102.2.2
+49 CFR Part 37 Subpart C	Alteration of Transportation Facilities by Public Entities Department of Transportation	 B102.2

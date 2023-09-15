@@ -1,0 +1,457 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX CHAPTER 4 – SPECIAL DETAILED REQUIREMENTS BASED ON USE AND OCCUPANCY
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]				X																			
+Chapter / Section																							
+[T-19 §3.26]				X																			
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX CHAPTER 4 SPECIAL DETAILED REQUIREMENTSBASED ON USE AND OCCUPANCY
+
+SECTION 435 SPECIAL PROVISIONS FOR LICENSED 24-HOUR CARE FACILITIES IN A GROUP R-2.1, R-3.1, R-4 [SFM] [SFM]
+
+435.1 Scope.
+
+The provisions of this section shall apply to 24-hour care facilities in a Group R-2.1, R-3.1 or R-4 occupancy licensed by a governmental agency.
+
+435.2 General.
+
+The provisions in this section shall apply in addition to general requirements in this code.
+
+435.2.1
+
+Restraint shall not be practiced in a Group R-2.1, R-3.1 or R-4 occupancies.
+
+Exception: Occupancies which meet all the requirements for a Group I-3 occupancy.
+
+435.2.2
+
+Pursuant to Health and Safety Code, Section 13133, regulations of the state fire marshal pertaining to occupancies classified as Residential Facilities (RF) and Residential-care Facilities for the Elderly (RCFE) shall apply uniformly throughout the state and no city, county, city and county, including a charter city or charter county, or fire protection district shall adopt or enforce any ordinance or local rule or regulation relating to fire and panic safety which is inconsistent with these regulations. A city, county, city and county, including a charter city or charter county may, pursuant to Health and Safety Code, Section 13143.5, or a fire protection district may, pursuant to Health and Safety Code, Section 13869.7, adopt standards more stringent than those adopted by the state fire marshal that are reasonably necessary to accommodate local climate, geological or topographical conditions relating to roof coverings for Residential-care Facilities for the Elderly.
+
+Exception: Local regulations relating to roof coverings in facilities licensed as a Residential Care Facility for the Elderly (RCFE) in accordance with Health and Safety Code Section 13133.
+
+435.3 Building height and area provisions.
+
+435.3.1
+
+Group R-2.1, R-3.1 and R-4 shall be constructed in accordance with Table 504.3 of the California Building Code.
+
+[California Code of Regulations, Title 19, Division 1, §3.26] Operators Statement – Group I, R-2.1, R-3.1 and R-4 Occupancies. Every person, firm or corporation maintaining or operating any Group I or R-2.1, R-3.1 or R-4 occupancy shall provide an operators statement in accordance with Section 13132 of the Health and Safety Code which reads as follows:
+
+“13132. Every person, firm or corporation maintaining or operating any facility for the care of the mentally handicapped shall file a statement with the fire authority having jurisdiction within five days of the admission or readmission of a patient stating that such patient is an ambulatory or a nonambulatory person and enumerating the reasons for such classification. Such a statement shall also be filed for each existing patient within 30 days of the effective date of this section.
+
+Any statement required to be filed pursuant to this section shall be certified as to its correctness by the person attending such patient.
+
+It shall be unlawful for any person, firm or corporation required to file a statement pursuant to this section to include false statements therein. Any such act shall be in violation of this section and subject to the provisions of Section 13112.”
+
+435.3.2 Limitations six or less clients.
+
+Group R-3.1 occupancies where nonambulatory clients are housed above the first story, having more than two stories in height or having more than 3,000 square feet (279 m2) of floor area above the first story shall not be of less than 1-hour fire-resistance-rated construction throughout.
+
+In Group R-3.1 occupancies housing a bedridden client, the client sleeping room shall not be located above or below the first story.
+
+Exception: Clients who become bedridden as a result of a temporary illness as defined in Health and Safety Code, Sections 1566.45, 1568.0832, and 1569.72. A temporary illness is an illness which persists for 14 days or less. A bedridden client may be retained in excess of the 14 days upon approval by the Department of Social Services and may continue to be housed on any story in a Group R-3.1 occupancy classified as a licensed residential facility.
+
+Every licensee admitting or retaining a bedridden resident shall, within 48 hours of the resident’s admission or retention in the facility, notify the local fire authority with jurisdiction of the estimated length of time the resident will retain his or her bedridden status in the facility.
+
+435.3.3 Limitations seven or more clients.
+
+Group R-4 occupancies, where nonambulatory clients are housed above the first story and there is more than 3,000 square feet (279 m2) of floor area above the first story or housing not more than 16 clients above the first story, shall be constructed of not less than 1-hour fire-resistance-rated construction throughout.
+
+435.3.4 Ambulatory and nonambulatory elderly clients.
+
+Group R-4 occupancies housing nonambulatory elderly clients shall be of not less than 1-hour fire-resistance-rated construction throughout.
+
+435.4 Type of construction provisions.
+
+435.4.1
+
+Group R-2.1, occupancies are not permitted in non-fire-resistance-rated construction, see Health and Safety Code, Section 13131.5.
+
+435.5 Fire-resistance-rated construction provisions.
+
+435.5.1 Smoke barriers required.
+
+Group R-2.1 and R-4 occupancies licensed as a Residential Care Facility (RCF) with individual floor areas over 6000 square feet (557 m2) per floor, shall be provided with smoke barriers, constructed in accordance with Section 710 of the California Building Code.
+
+Group R-2.1 occupancies housing bedridden clients shall be provided with smoke barriers constructed in accordance with Section 710 of the California Building Code regardless of the number of clients.
+
+When smoke barriers are required, the area within a smoke compartment shall not exceed 22,500 square feet (2090 m2) nor shall its travel distance exceed 200 feet (60 960 mm). Such smoke barriers shall divide the floor as equally as possible.
+
+435.5.2 Smoke partitions.
+
+Group R-2.1 occupancies where smoke partitions are required, framing shall be covered with noncombustible materials having an approved thermal barrier with an index of not less than 15 in accordance with FM 4880, UL 1040, NFPA 286 or UL 1715.
+
+435.5.3 Independent egress.
+
+At least two means of egress shall be provided from each smoke compartment created by smoke barriers. Means of egress may pass through adjacent compartments provided it does not return through the smoke compartment from which means of egress originated.
+
+435.6 Interior finish provisions.
+
+435.6.1 Interior wall and ceiling finish.
+
+Group R-3.1 occupancies housing a bedridden client shall comply with Interior Wall and Ceiling Finish requirements specified for Group I-2 occupancies in Table 903.3 of the California Building Code.
+
+435.6.2 Safety padding.
+
+Padding material used on walls, floors and ceilings in Group I and R-2.1 occupancies shall be of an approved type tested in accordance with the procedures established by State Fire Marshal Standard 12-8-100, Room Fire Test for Wall and Ceiling Materials, California Code of Regulations, Title 24, Part 12.
+
+435.7 Fire Protection system provisions.
+
+435.7.1 Automatic sprinkler systems in Group R-2.1, R-3.1 and R-4 occupancies.
+
+An automatic sprinkler system shall be installed where required in Section 903.
+
+435.7.2 Fire alarm systems in Group R-2.1 and R-4 occupancies.
+
+An approved fire alarm system shall be installed where required in Section 907.
+
+435.7.3 Smoke alarms in Groups R-2.1, R-3.1 and R-4 occupancies.
+
+Smoke alarms shall be installed where required in Section 907.2.11.2.
+
+435.7.4 Hearing impaired.
+
+See Section 907.5.2.3.5.
+
+435.8 Means of egress provisions.
+
+435.8.1 General.
+
+In addition to the general means of egress requirements of Chapter 10, this section shall apply to Group R-2.1, R-3.1 and R-4 occupancies.
+
+435.8.2 Number of exits.
+
+435.8.2.1
+
+Group R-2.1, R-3.1 and R-4 occupancies shall have a minimum of two exits.
+
+Exception. Ancillary use areas or occupancies shall have egress as required by Section 1021.
+
+435.8.3 Egress arrangements.
+
+435.8.3.1
+
+Egress through adjoining dwelling units shall not be permitted.
+
+435.8.3.2 Group R-3.1 occupancies housing nonambulatory clients.
+
+In a Group R-3.1 occupancy, bedrooms used by nonambulatory clients shall have access to at least one of the required exits which shall conform to one of the following:
+
+1.Egress through a hallway or area into a bedroom in the immediate area which has an exit directly to the exterior and the corridor/hallway is constructed consistent with the dwelling unit interior walls. The hallway shall be separated from common areas by a solid wood door not less than 13/8 inch (35 mm) in thickness, maintained self-closing or shall be automatic closing by actuation of a smoke detector installed in accordance with Section 716.5.9 of the California Building Code.
+
+2.Egress through a hallway which has an exit directly to the exterior. The hallway shall be separated from the rest of the house by a wall constructed consistent with the dwelling unit interior walls and opening protected by a solid wood door not less than 13/8 inch (35 mm) in thickness, maintained self-closing or shall be automatic closing by actuation of a smoke detector installed in accordance with Section 716.5.9 of the California Building Code.
+
+3.Direct exit from the bedroom to the exterior, such doors shall be of a size as to permit the installation of a door not less than 3 feet (914 mm) in width and not less than 6 feet 8 inches (2032 mm) in height. When installed, doors shall be capable of opening at least 90 degrees and shall be so mounted that the clear width of the exit way is not less than 32 inches (813 mm).
+
+4.Egress through an adjoining bedroom which exits to the exterior.
+
+435.8.3.3 Group R-3.1 occupancies housing only one bedridden client.
+
+In Group R-3.1 occupancies housing a bedridden client and not provided with an approved automatic fire sprinkler system, all of the following shall apply:
+
+1.In Group R-3.1 occupancies housing a bedridden client, a direct exit to the exterior of the residence shall be provided from the client sleeping room.
+
+2.Doors to a bedridden client’s sleeping room shall be of a self-closing, positive latching 13/8 inch solid wood door. Such doors shall be provided with a gasket so installed as to provide a seal where the door meets the jam on both sides and across the top. Doors shall be maintained self-closing or shall be automatic closing by actuation of a smoke detector in accordance with California Building Code, Section 716.5.9.
+
+3.Group R-3.1 occupancies housing a bedridden client shall not have a night latch, dead bolt, security chain or any similar locking device installed on any interior door leading from a bedridden client’s sleeping room to any interior area such as a corridor, hallway and/or general use areas of the residence in accordance with Chapter 10.
+
+4.The exterior exit door to a bedridden client’s sleeping room shall be operable from both the interior and exterior of the residence.
+
+5.Every required exit doorway from a bedridden client sleeping room shall be of a size as to permit the installation of a door not less than 3 feet (914 mm) in width and not less than 6 feet 8 inches (2032 mm) in height. When installed in exit doorways, exit doors shall be capable of opening at least 90 degrees and shall be so mounted that the clear width of the exit way is not less than 32 inches (813 mm).
+
+Note: A sliding glass door can be used as an exterior exit doorway as long as it is operable from the inside and outside and the clear width of the exit way is not less than 32 inches (813 mm).
+
+435.8.3.4 Intervening rooms.
+
+A means of exit shall not pass through more than one intervening room. A means of egress shall not pass through kitchens, storerooms, closets, garages or spaces used for similar purposes.
+
+Exception: Kitchens which do not form separate rooms by construction.
+
+435.8.4 Corridors.
+
+435.8.4.1
+
+Unless specified by Section 435.8.4, corridors serving Group R-2.1 and Group R-4 occupancies shall comply with Section 1018.1.
+
+435.8.4.2
+
+The minimum clear width of a corridor shall be as follows:
+
+1.Group R-2.1 occupancies shall have 60 inches (1524 mm) on floors housing nonambulatory clients and 44 inches (1118 mm) on floors housing only ambulatory clients.
+
+2.Group R-4 occupancies shall have 44 inches (1118 mm) on floors housing clients.
+
+Exceptions:
+
+1.Corridors serving an occupant load of 10 or less shall not be less than 36 inches (914 mm) in width.
+
+2.Corridors serving ambulatory persons only and having an occupant load of 49 or less shall not be less than 36 inches (914 mm) in width.
+
+In Group R-2.1 occupancies provided with fire sprinklers throughout and which are required to have rated corridors, door closers need not be installed on doors to client sleeping rooms.
+
+435.8.4.3
+
+In a Group R-2.1 and Group R-4 occupancies having smoke barriers, cross-corridor doors in corridors 6 feet (1829 mm) or less in width shall have, as a minimum, a door 36 inches (914 mm) in width.
+
+435.8.5 Changes in level.
+
+In Group R-3.1 occupancies housing nonambulatory clients, interior changes in level up to 0.25 inch (6 mm) may be vertical and without edge treatment. Changes in level between 0.25 inch (6 mm) and 0.5 inch (12.7 mm) shall be beveled with a slope no greater than 1 unit vertical in 2 units horizontal (50-percent slope). Changes in level greater than 0.5 inch (12.7 mm) shall be accomplished by means of a ramp.
+
+435.8.6 Stairways.
+
+435.8.6.1
+
+Group R-2.1 and Group R-4 occupancies housing more than six nonambulatory clients above the first floor shall be provided with two vertical exit enclosures. Stairway enclosures shall be in compliance with Section 1022.
+
+435.8.6.2
+
+Group R-3.1 occupancies may continue to use existing stairways (except for winding and spiral stairways which are not permitted as a required means of egress) provided the stairs have a maximum rise of 8 inches (203 mm) with a minimum run of 9 inches (229 mm). The minimum stairway width may be 30 inches (762 mm).
+
+435.8.7 Floor separation.
+
+Group R-3.1 occupancies shall be provided with a non-fire-resistance constructed floor separation at stairs which will prevent smoke migration between floors. Such floor separation shall have equivalent construction of 0.5 inch (12.7 mm) gypsum wallboard on one side of wall framing.
+
+Exceptions:
+
+1.Occupancies with at least one exterior exit from floors occupied by clients.
+
+2.Occupancies provided with automatic fire sprinkler systems complying with Chapter 9.
+
+435.8.7.1 Doors within floor separations.
+
+Doors within such floor separations shall be tight fitting solid wood at least 13/8 inches (35 mm) in thickness. Door glazing shall not exceed 1296 square inches (32 918 mm2) with no dimension greater than 54 inches (1372 mm). Such doors shall be positive latching, smoke gasketed and shall be automatic-closing by smoke detection.
+
+435.8.8 Fences and gates.
+
+Grounds of a Residential Care for the Elderly facility serving Alzheimer clients may be fenced and gates therein equipped with locks, provided safe dispersal areas are located not less than 50 feet (15 240 mm) from the buildings. Dispersal areas shall be sized to provide an area of not less than 3 square feet (0.28 m2) per occupant. Gates shall not be installed across corridors or passageways leading to such dispersal areas unless they comply with egress requirements.
+
+435.8.9 Basement exits.
+
+One exit is required to grade level when the basement is accessible to clients.
+
+435.8.10 Delayed egress locks.
+
+See Section 1010.2.13.
+
+435.9 Request for alternate means of protection for facilities housing bedridden clients.
+
+Request for alternate means of protection shall apply to Sections 435 through 435.9. Request for approval to use an alternative material, assembly or materials, equipment, method of construction, method of installation of equipment or means of protection shall be made in writing to the local fire enforcing agency by the facility, client or the client’s authorized representative. Sufficient evidence shall be submitted to substantiate the need for an alternate means of protection.
+
+The facility, client or the client’s representative or the local fire enforcing agency may request a written opinion from the State Fire Marshal concerning the interpretation of the regulations promulgated by the State Fire Marshal for a particular factual dispute. The State Fire Marshal shall issue the written opinion within 45 days following the request.
+
+Approval of a request for use of an alternative material, assembly or materials, equipment, method of construction, method of installation of equipment or means of protection made pursuant to this section shall be limited to Group R-3.1 occupancies housing a bedridden client.
+
+Approvals made by the local fire enforcing agency and the written opinion by the State Fire Marshal shall be applicable only to the requesting facility and shall not be construed as establishing any precedent for any future request by that facility or any other facility.
+
+435.10 Temporarily bedridden clients.
+
+Clients who become temporarily bedridden as defined in Health and Safety Code, Section 1569.72, as enforced by the Department of Social Services, may continue to be housed on any story in Group R-2.1, R-3.1 or R-4 occupancies classified as Residential Care Facilities for the Elderly (RCFE). Every Residential Care Facility for the Elderly (RCFE) admitting or retaining a bedridden resident shall, within 48 hours of the resident’s admission or retention in the facility, notify the local fire authority with jurisdiction of the estimated length of time the resident will retain his or her bedridden status in the facility.
+
+SECTION 436 GROUP I-4 [SFM] [SFM]
+
+436.1 Group I-4 special provisions.
+
+Rooms classified as Group I-4 shall not be located above or below the first story.
+
+Exceptions:
+
+1.Basements or stories having floor levels located within 4 feet (1219 mm), measured vertically, from adjacent ground level at the level of exit discharge, provided the basement or story has exterior exit doors at that level.
+
+2.Group I-4 child-care center or adult cay care may
+be located above the first story in buildings of
+Types I-A, I-B, II-A, III-A, IV-A, IV-B and IV-C construction, subject to the limitation of Section 503 when:
+
+2.1.Group I-4 child-care center with children under the age of seven or containing more than 12 children per story shall not be located above the fourth floor; and
+
+2.2. The entire story in which the Group I-4 child-care center or adult day care is located is equipped with an approved manual fire alarm and automatic smoke-detection system. (See the California Fire Code.) Actuation of an initiating device shall sound an audible alarm throughout the entire story. When a building fire alarm system is required by other provisions of this code or the Fire Code, the alarm system shall be connected to the building alarm system. An approved alarm signal shall sound at an approved location in the Group I-4 facility to indicate a fire alarm or sprinkler flow condition in other portions of the building; and
+
+2.3. Group I-4 child-care center or adult day care, if more than 1,000 square feet (92.9 m2) in area, is divided into at least two compartments of approximately the same size by a smoke barrier with door openings protected by smoke- and draft-control assemblies having a fire-protection rating of not less than 20 minutes. Smoke barriers shall have a fire-resistive rating of not less than one hour. In addition to the requirements of Section 508.3.3 of the California Building Code, occupancy separations between Group I-4 child-care center or adult day care and other occupancies shall be constructed as smoke barriers. Door openings in the smoke barrier shall be tightfittinq, with gaskets installed as required by Section 710 of the California Building Code, and shall be automatic closing by actuation of the automatic sprinklers, fire alarm or smoke-detection system.
+
+2.4.Each compartment formed by the smoke barrier has not less than two exits or exit access doors, one of which is permitted to pass through the adjoining compartment; and
+
+2.5.Where two or more exits or exit access are required, at least one shall not share a common path of travel. The egress system shall comply with the requirements of Section 709 for smoke barriers.
+
+2.6.The building is equipped with an automatic
+sprinkler system throughout.
+
+436.1.1 Egress.
+
+Rooms used for Group I-4 child-care or adult day care on the first floor shall have one exit door directly to the exterior.
+
+Exception: One-hour rated corridors with a minimum width of 60 inches (1524 mm).
+
+SECTION 452 SCHOOL FACILITIES FOR KINDERGARTEN THROUGH 12TH GRADE AND GROUP E CHILD-CARE
+
+452.1 General provisions.
+
+School facilities for Kindergarten through 12th grade and Group E day care shall comply with the provisions of this section and other applicable provisions of this code including requirements for specific occupancies.
+
+452.1.1 Location on property.
+
+All buildings housing Group E occupancies shall front directly on a public street or an exit discharge not less than 20 feet (6096 mm) in width. The exit discharge to the public street shall be a minimum 20-foot-wide (6096 mm) right-of-way, unobstructed and maintained only as access to the public street. At least one required exit shall be located on the public street or on the exit discharge.
+
+452.1.2 Separate means of egress systems required.
+
+Every room with an occupant load of 300 or more shall have one of its exits or exit-access doorways lead directly into a separate means of egress system that consists of not less than two paths of exit travel which are separated by a smoke barrier in accordance with Section 709 of the California Building Code in such a manner to provide an atmospheric separation that precludes contamination of both paths of exit travel by the same fire. Not more than two required exits or exit-access doorways shall enter into the same means of egress system.
+
+452.1.3 Fences and gates.
+
+School grounds may be fenced and gates therein may be equipped with locks, provided that safe dispersal areas based on 3 square feet (0.28 m2) per occupant are located between the school and the fence. Such required safe dispersal areas shall not be located less than 50 feet (15 240 mm) from school buildings.
+
+Every public and private school shall conform with Section 32020 of the Education Code which states:
+
+The governing board of every public school district, and the governing authority of every private school, which maintains any building used for the instruction or housing of school pupils on land entirely enclosed (except for building walls) by fences of walls, shall, through cooperation with the local law enforcement and fire-protection agencies having jurisdiction of the area, make provision for the erection of gates in such fences or walls. The gates shall be of sufficient size to permit the entrance of the ambulances, police equipment and fire-fighting apparatus used by the law enforcement and fire-protection agencies. There shall be no less than one such access gate and there shall be as many such gates as needed to assure access to all major buildings and ground areas. If such gates are to be equipped with locks, the locking devices shall be designed to permit ready entrance by the use of the chain or bolt-cutting devices with which the local law enforcement and fire-protection agencies may be equipped.
+
+452.1.4 Special provisions.
+
+Rooms used by kindergarten, first- or second-grade pupils, and Group E child-care, shall not be located above or below the first story.
+
+Exceptions:
+
+1.Kindergarten, first- or second-grade pupils, or Group E child-care may be located in basements or stories having floor levels located within 4 feet (1219 mm), measured vertically, from the adjacent ground level at the level of exit discharge, provided the basement or story has exterior exit doors at that level.
+
+2.In buildings equipped with an automatic sprinkler system throughout, rooms used for kindergarten, first- and second-grade children or for Group E child-care purposes may be located on the second story, provided there are at least two exterior exit doors, or other egress systems complying with Section 1020 with two exits, for the exclusive use of such occupants. Egress systems for the exclusive use of such occupants shall be maintained until exit discharge at grade is attained.
+
+3.Group E day-care facilities may be located above the first story in buildings of Type I-A, Type I-B, Type II-A, III-A, IV-A, IV-B and IV-C construction, subject to the limitation of Section 503 when:
+
+3.1.Facilities with children under the age of seven or containing more than 12 children per story shall not be located above the fourth floor; and
+
+3.2.The entire story in which the day-care facility is located is equipped with an approved manual fire alarm and automatic smoke-detection system. Actuation of an initiating device shall sound an audible alarm throughout the entire story.
+
+When a building fire alarm system is required by other provisions of this code, the alarm system shall be interconnected and sound the day-care fire alarm system; and
+When a building fire alarm system is required by other provisions of this code, the alarm system shall be interconnected and sound the day-care fire alarm system; and
+
+3.3.The day-care facility, if more than 1,000 square feet (92.9 m2) in area, is divided into at least two compartments of approximately the same size by a smoke barrier in accordance with Section 709 of the California Building Code. In addition to the requirements of Section 508, occupancy separations between daycare and other occupancies shall be constructed as smoke barriers. Door openings in the smoke barrier shall be tight fitting, with gaskets installed as required by Section 716.5.3.1 of the California Building Code and shall be automatic closing by actuation of the fire sprinklers, fire alarm or smoke detection system; and
+
+3.4.Each compartment formed by the smoke barrier has not less than two exits or exit-access doors, one of which is permitted to pass through the adjoining compartment, and
+
+3.5.At least one exit or exit-access door from the day-care facility shall be into a separate means of egress with not less than two paths of exit travel, which are separated in such a manner to provide an atmospheric separation. The egress system shall comply with the
+requirements of Section 709 for smoke barriers.
+
+3.6.The building is equipped with an automatic sprinkler system throughout.
+
+452.1.5 Special hazards.
+
+School classrooms constructed after January 1, 1990, not equipped with automatic sprinkler systems, which have metal grilles or bars on all their windows and do not have at least two exit doors within 3 feet (914 mm) of each end of the classroom opening to the exterior of the building or to a common hallway used for evacuation purposes, shall have an inside release for the grilles or bars on at least one window farthest from the exit doors. The window or windows with the inside release shall be clearly marked as emergency exits.
+
+452.1.6 Class I, II or III-A flammable liquids.
+
+Class I, II or III-A flammable liquids shall not be placed, stored or used in Group E occupancies, except in approved quantities as necessary in laboratories and classrooms and for operation and maintenance as set forth in the California Fire Code.
+
+SECTION 455 LARGE FAMILY DAY-CARE HOMES [SFM] [SFM]
+
+455.1 Large family day-care homes.
+
+455.2
+
+For purposes of clarification, Health and Safety Code Section 1597.45 and 1597.46 is repeated.
+
+1597.45.
+
+(a)  The use of a home as a small or large family day-care
+home shall be considered a residential use of property
+and a use by right for the purposes of all local ordinances, including, but not limited to, zoning ordinances.
+
+(b)  A local jurisdiction shall not impose a business
+license, fee or tax for the privilege of operating a
+small or large family day-care home.
+
+(c) Use of a home as a small or large family day-care
+home shall not constitute a change of occupancy for
+purposes of Part 1.5 (commencing with Section
+17910) of Division 13 (State Housing Law) or for purposes of local building codes.
+
+(d) A small or large family daycare home shall not be
+subject to the provisions of Division 13 (commencing
+with Section 21000) of the Public Resources Code.
+
+(e) The provisions of this chapter do not preclude a city,
+county or other local public entity from placing
+restrictions on building heights, setback or lot dimensions of a family day-care home, as long as those
+restrictions are identical to those applied to all other
+residences with the same zoning designation as the
+family day-care home. This chapter does not preclude
+a local ordinance that deals with health and safety,
+building standards, environmental impact standards
+or any other matter within the jurisdiction of a local
+public entity, as long as the local ordinance is identical to those applied to all other residences with the
+same zoning designation as the family daycare home.
+This chapter also does not prohibit or restrict the
+abatement of nuisances by a city, county, or city and
+county. However, the ordinance or nuisance abatement shall not distinguish family day-care homes
+from other homes with the same zoning designation,
+except as otherwise provided in this chapter.
+
+(f) For purposes of this chapter, “small family day-care home or large family daycare home” includes a detached single-family dwelling, a townhouse, a dwelling unit within a dwelling or a dwelling unit within a covered multifamily dwelling in which the underlying zoning allows for residential uses. A small family daycare home or large family day-care home is where the family day-care provider resides and includes a dwelling or dwelling unit that is rented, leased or owned.
+
+(Amended by Stats. 2019, Ch. 244, Sec. 9. (SB 234) Effective
+January 1, 2020.)
+
+1597.46.
+
+(a) A large family daycare home shall abide by all standards, in addition to the requirements of the State Uniform Building Standards Code, that are specifically designed to promote fire and life safety in large family day-care homes. The State Fire Marshal shall adopt separate building standards specifically relating to the subject of fire and life safety in family daycare homes, which shall be published in Title 24 of the California Code of Regulations. These standards shall apply uniformly throughout the state and shall include, but not be limited to, all of the following:
+
+(1) The requirement that a large family daycare
+home contain a fire extinguisher or smoke
+detector device, or both, that meets child-care
+standards established by the State Fire Marshal.
+
+(2) Specification as to the number of required exits
+from the home.
+
+(3) Specification as to the floor or floors on which
+child-care may be provided and the number of
+required exits on each floor.
+
+(b) A large family day-care home for children shall have
+one or more carbon monoxide detectors in the facility
+that meet the standards established in Chapter 8
+(commencing with Section 13260) of Part 2 of Division 12. The department shall account for the presence of these detectors during inspections.
+
+(c) Enforcement of this section shall be in accordance
+with Sections 13145 and 13146. A city, county, city
+and county, or district shall not adopt or enforce a
+building ordinance or local rule or regulation relating to the subject of fire and life safety in large family
+day-care homes that is inconsistent with those standards adopted by the State Fire Marshal, except to the
+extent the building ordinance or local rule or regulation applies to all residences with the same zoning
+designation in which child-care is provided.
+
+(Repealed and added by Stats. 2019, Ch. 244, Sec. 12. (SB
+234) Effective January 1, 2020.)
+
+455.3 Smoke alarms.
+
+Large family day-care homes shall be
+equipped with State Fire Marshal approved and listed single
+station residential type smoke alarms. The number and placement of smoke alarms shall be determined by the enforcement
+authority.
+
+455.4 Fire extinguishers.
+
+Large and small family day-care homes shall be equipped with a portable fire extinguisher having a minimum 2A10BC rating.
+
+455.5 Fire alarm devices.
+
+See Section 907.2.6.4.
+
+455.6 Compliance.
+
+Every large-family day-care home shall comply with the provisions for Group R-3 occupancies. For the purposes of Section 436.1 of the California Building Code, the first story shall be designated as the floor used for residential occupancy nearest to the street level which provides primary access to the building.
+
+455.7 Special hazards.
+
+Every unenclosed gas-fired water heater or furnace which is within the area used for child-care in a large family day-care home shall be protected in such a way as to prevent children from making contact with those appliances.
+
+Exception: This does not apply to kitchen stoves or ovens.
+
+455.8 Exiting.
+
+See Section 1006.2.2.7.
+

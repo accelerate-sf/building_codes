@@ -1,0 +1,118 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 36 – MARINAS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 36 MARINAS
+
+User note:
+
+About this chapter: Chapter 36 addresses the fire protection and prevention requirements for marinas. It was developed in response to the complications encountered by a number of fire departments responsible for the protection of marinas as well as fire loss history in marinas that lacked fire protection. Compliance with this chapter intends to establish safe practices in marina areas, provide an identification method for mooring spaces in the marina, and provide fire fighters with safe operational areas and fire protection methods to extend hose lines in a safe manner.
+
+SECTION 3601 SCOPE
+
+3601.1 Scope.
+
+Marina facilities shall be in accordance with this chapter.
+
+3601.2 Plans and approvals.
+
+Plans for marina fire protection facilities shall be approved prior to installation. The work shall be subject to final inspection and approval after installation.
+
+SECTION 3602 DEFINITIONS
+
+3602.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+FLOAT.
+
+MARINA.
+
+PIER.
+
+VESSEL.
+
+WHARF.
+
+SECTION 3603 GENERAL PRECAUTIONS
+
+3603.1 Combustible debris.
+
+Combustible debris and rubbish shall not be deposited or accumulated on land beneath marina structures, piers or wharves.
+
+3603.2 Sources of ignition.
+
+Open-flame devices used for lighting or decoration on the exterior of a vessel, float, pier or wharf shall be approved.
+
+3603.3 Flammable or combustible liquid spills.
+
+Spills of flammable or combustible liquids at or on the water shall be reported immediately to the fire department or jurisdictional authorities.
+
+3603.4 Rubbish containers.
+
+Containers with tight-fitting or self-closing lids shall be provided for temporary storage of combustible debris, rubbish and waste material. The rubbish containers shall be constructed entirely of materials that comply with any one of the following:
+
+1.Noncombustible materials.
+
+2.Materials that meet a peak rate of heat release not exceeding 300 kW/m2 where tested in accordance with ASTM E1354 at an incident heat flux of 50 kW/m2 in the horizontal orientation.
+
+3603.5 Electrical equipment.
+
+Electrical equipment shall be installed and used in accordance with its listing, Section 608 of this code and Chapter 5 of NFPA 303 as required for wet, damp and hazardous locations.
+
+3603.6 Berthing and storage.
+
+Berthing and storage shall be in accordance with Chapter 7 of NFPA 303.
+
+3603.7 Slip identification.
+
+Slips and mooring spaces shall be individually identified by an approved numeric or alphabetic designator. Space designators shall be posted at the space. Signs indicating the space designators located on finger piers and floats shall be posted at the base of all piers, finger piers, floats and finger floats.
+
+SECTION 3604 FIRE PROTECTION EQUIPMENT
+
+3604.1 General.
+
+Piers, marinas and wharves with facilities for mooring or servicing five or more vessels, and marine motor fuel-dispensing facilities shall be equipped with fire protection equipment in accordance with Sections 3604.2 through 3604.6.
+
+3604.2 Standpipes.
+
+Marinas and boatyards shall be equipped throughout with standpipe systems in accordance with NFPA 303. Systems shall be provided with hose connections located such that no point on the marina pier or float system exceeds 150 feet (15 240 mm) from a standpipe hose connection.
+
+3604.2.1 Identification of standpipe outlets.
+
+Standpipe hose connection locations shall be clearly identified by a flag or other approved means designed to be readily visible from the pier accessing the float system.
+
+3604.3 Access and water supply.
+
+Piers and wharves shall be provided with fire apparatus access roads and water-supply systems with on-site fire hydrants where required by the fire code official. Such roads and water systems shall be provided and maintained in accordance with Sections 503 and 507.
+
+3604.4 Portable fire extinguishers.
+
+One portable fire extinguisher of the ordinary (moderate) hazard type shall be provided at each required standpipe hose connection. Additional portable fire extinguishers, suitable for the hazards involved, shall be provided and maintained in accordance with Section 906.
+
+3604.5 Communications.
+
+A telephone not requiring a coin to operate or other approved, clearly identified means to notify the fire department shall be provided on the site in a location approved by the fire code official.
+
+3604.6 Emergency operations staging areas.
+
+Space shall be provided on all float systems for the staging of emergency equipment. Emergency operation staging areas shall provide a minimum of 4 feet wide by 10 feet long (1219 mm by 3048 mm) clear area exclusive of walkways and shall be located at each standpipe hose connection. Emergency operation staging areas shall be provided with a curb or barrier having a minimum height of 4 inches (102 mm) and maximum space between the bottom edge and the surface of the staging area of 2 inches (51 mm) on the outboard sides of the staging area.
+
+An approved sign reading “FIRE EQUIPMENT STAGING AREA—KEEP CLEAR” shall be provided at each staging area.
+
+SECTION 3605 MARINE MOTOR FUEL-DISPENSING FACILITIES
+
+3605.1 Fuel dispensing.
+
+Marine motor fuel-dispensing facilities shall be in accordance with Chapter 23.
+

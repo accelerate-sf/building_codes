@@ -1,0 +1,112 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 26 – FUMIGATION AND INSECTICIDAL FOGGING
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 26 FUMIGATION AND INSECTICIDAL FOGGING
+
+User note:
+
+About this chapter: Chapter 26 regulates fumigation and insecticidal fogging operations that use toxic pesticide chemicals to kill insects, rodents and other vermin. Fumigants and insecticidal fogging agents pose little hazard if properly applied; however, the inherent toxicity of all these agents and the potential flammability of some make special precautions necessary when they are used. Requirements of this chapter are intended to protect both the public and fire fighters from hazards associated with these products.
+
+SECTION 2601 GENERAL
+
+2601.1 Scope.
+
+Fumigation and insecticidal fogging operations within buildings, structures and spaces shall comply with this chapter.
+
+2601.2 Permits.
+
+Permits shall be required as set forth in Section 105.5.
+
+SECTION 2602 DEFINITIONS
+
+2602.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+FUMIGANT.
+
+FUMIGATION.
+
+INSECTICIDAL FOGGING.
+
+SECTION 2603 FIRE SAFETY REQUIREMENTS
+
+2603.1 General.
+
+Buildings, structures and spaces in which fumigation and insecticidal fogging operations are conducted shall comply with the fire protection and safety requirements of Sections 2603.2 through 2603.7.
+
+2603.2 Sources of ignition.
+
+Fires, open flames and similar sources of ignition shall be eliminated from the space under fumigation or insecticidal fogging. Heating, where needed, shall be of an approved type.
+
+2603.2.1 Electricity.
+
+Electricity in any part of the building, structure or space where operation of switches or electrical devices, equipment or systems could serve as a source of ignition shall be shut off.
+
+Exception: Circulating fans that have been specifically designed for utilization in hazardous atmospheres and installed in accordance with the California Electrical Code.
+
+2603.2.2 Electronic devices.
+
+Electronic devices, including portable equipment and cellular phones, shall be shut off. Telephone lines shall be disconnected from telephones.
+
+2603.2.3 Duration.
+
+Sources of ignition shall be shut off during the fumigation activity and remain shut off until the ventilation required in Section 2603.6 is completed.
+
+2603.3 Notification.
+
+The fire code official and fire chief shall be notified in writing not less than 48 hours before the building, structure or space is to be closed in connection with the utilization of any toxic or flammable fumigant. Notification shall give the location of the enclosed space to be fumigated or fogged, the occupancy, the fumigants or insecticides to be utilized, the person or persons responsible for the operation, and the date and time at which the operation will begin. Written notice of any fumigation or insecticidal fogging operation shall be given to all affected occupants of the building, structure or space in which such operations are to be conducted with sufficient advance notice to allow the occupants to evacuate the building, structure or space. Such notice shall inform the occupants as to the purposes, anticipated duration and hazards associated with the fumigation or insecticidal fogging operation.
+
+2603.3.1 Warning signs.
+
+Approved warning signs indicating the danger, type of chemical involved and necessary precautions shall be posted on all doors and entrances to the affected building, structure or space and on all gangplanks and ladders from the deck, pier or land to a ship. Such notices shall be printed in red ink on a white background. Letters in the headlines shall be not less than 2 inches (51 mm) in height and shall state the date and time of the operation, the name and address of the person, the name of the operator in charge, and a warning stating that the affected building, structure or space shall be vacated not less than 1 hour before the operation begins and shall not be reentered until the danger signs have been removed by the proper authorities.
+
+2603.3.2 Breathing apparatus.
+
+Persons engaged in the business of fumigation or insecticidal fogging shall maintain and have available approved protective breathing apparatus.
+
+2603.3.3 Watch personnel.
+
+During the period fumigation is in progress, except where fumigation is conducted in a gastight vault or tank, a responsible watchperson shall remain on duty at the entrance or entrances to the enclosed fumigated space until after the fumigation is completed and the building, structure or space is properly ventilated and safe for occupancy. Sufficient watchers shall be provided to prevent persons from entering the enclosed space under fumigation without being observed.
+
+2603.3.4 Evacuation during fumigation.
+
+Occupants of the building, structure or space to be fumigated, except the personnel conducting the fumigation, shall be evacuated from such building, structure or space prior to commencing fumigation operations.
+
+2603.3.5 Evacuation during insecticidal fogging operations.
+
+Occupants in the building, structure or space to be fogged, except the personnel conducting the insecticidal fogging operations, shall be evacuated from such building, structure or space prior to commencing fogging operations.
+
+2603.4 Insecticidal fogging liquids.
+
+Insecticidal fogging liquids with a flash point below 100°F (38°C) shall not be utilized.
+
+2603.5 Sealing of buildings, structures and spaces.
+
+Paper and other similar materials that do not meet the flame propagation performance criteria of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 shall not be used to wrap or cover a building, structure or space in excess of that required for the sealing of cracks, casements and similar openings.
+
+2603.5.1 Maintenance of openings.
+
+All openings to the building, structure or space to be fumigated or fogged shall be kept securely closed during such operation.
+
+2603.6 Venting and cleanup.
+
+At the end of the exposure period, fumigators shall safely and properly ventilate the premises and contents; properly dispose of fumigant containers, residues, debris and other materials used for such fumigation; and clear obstructions from gas-fired appliance vents.
+
+2603.7 Flammable fumigants restricted.
+
+The use of carbon disulfide and hydrogen cyanide shall be restricted to agricultural fumigation.
+

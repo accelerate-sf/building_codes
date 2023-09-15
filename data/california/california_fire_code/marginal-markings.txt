@@ -1,0 +1,32 @@
+Marginal Markings
+
+Symbols in the margin indicate the status of code changes as follows:
+
+‖ This symbol indicates that a change has been made to a California amendment.
+
+> This symbol indicates deletion of California amendment language.
+
+| This symbol indicates that a change has been made to International Code Council model language.
+
+➨ This symbol indicates deletion of International Code Council model language.
+
+A single asterisk [*] placed in the margin indicates that text or a table has been relocated within the code. A double asterisk [**] placed in the margin indicates that the text or table immediately following it has been relocated there from elsewhere in the code. The following table indicates such relocations in the 2021 edition of the International Fire Code.
+
+2021 LOCATION	2018 LOCATION
+106.1–106.4	105.4–105.4.6
+107	106
+108	107
+109	108
+110	113
+111	109
+112	110
+113	112
+114	111
+603	604
+604	606
+605	603
+606	607
+607	608
+608	605
+3303	3308
+6303.1.5	6303.1.1.2

@@ -1,0 +1,155 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AX – SWIMMING POOL SAFETY ACT
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter	X																						
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AX SWIMMING POOL SAFETY ACT
+
+(Note: See Chapter 31, Section 3109 of the California Building Code, Title 24, Part 2.) The provisions contained in this appendix are mandatory to reflect the Swimming Pool Safety Act found in Health and Safety Code Sections 115920 through 115929.
+
+AX100 California swimming pool safety act (statewide).
+
+The following text in this section contains the statutory language in the Swimming Pool Safety Act (HS Code, Sections 115920 through 115929) that is required to be duplicated and published in California Code of Regulations, Title 24. As such, the section numbers reflect those within the Health and Safety Code.
+
+NOTE: These regulations are subject to local government modification. You should verify the applicable local government requirements at the time of application for a building permit.
+
+Authority: Health and Safety Code Section 18942(b)
+
+Reference: Health and Safety Code Section 18942(b); Chapter 925, Statutes of 1996
+
+115920.
+
+This act shall be known and may be cited as the Swimming Pool Safety Act.
+
+(Added by Stats. 1996, Ch. 925, Sec. 3.5. Effective January 1, 1997.)
+
+115921.
+
+As used in this article the following terms have the following meanings:
+
+(a)“Swimming pool” or “pool” means any structure intended for swimming or recreational bathing that contains water over 18 inches deep. “Swimming pool” includes in-ground and aboveground structures and includes, but is not limited to, hot tubs, spas, portable spas and nonportable wading pools.
+
+(b)“Public swimming pool” means a swimming pool operated for the use of the general public with or without charge, or for the use of the members and guests of a private club. Public swimming pool does not include a swimming pool located on the grounds of a private single-family home.
+
+(c)“Enclosure” means a fence, wall or other barrier that
+isolates a swimming pool from access to the home.
+
+(d)“Approved safety pool cover” means a manually or power-operated safety pool cover that meets all of the performance standards of the American Society for Testing and Materials (ASTM), in compliance with standard F1346-91.
+
+(e)“Exit alarms” means devices that make audible, continuous alarm sounds when any door or window, that permits access from the residence to the pool area that is without any intervening enclosure, is opened or is left ajar. Exit alarms may be battery operated or may be connected to the electrical wiring of the building.
+
+(f)“ANSI/APSP performance standard” means a standard that is accredited by the American National Standards Institute (ANSI) and published by the Association of Pool and Spa Professionals (APSP).
+
+(g)“Suction outlet” means a fitting or fixture typically located at the bottom or on the sides of a swimming pool that conducts water to a recirculating pump.
+
+[Amended by Stats. 2012, Ch. 679, Sec. 1. (AB 2114) Effective January 1, 2013.]
+
+115922.
+
+(a) Except as provided in Section 115925, when a building permit is issued for the construction of a new swimming pool or spa or the remodeling of an existing swimming pool or spa at a private single-family home, the respective swimming pool or spa shall be equipped with at least two of the following seven drowning prevention safety features:
+
+(1) An enclosure that meets the requirements of Section 115923 and isolates the swimming pool or spa from the private single-family home.
+
+(2) Removable mesh fencing that meets American Society for Testing and Materials (ASTM) Specifications F2286 standards in conjunction with a gate that is self-closing and self-latching and can accommodate a key lockable device.
+
+(3) An approved safety pool cover, as defined in subdivision (d) of Section 115921.
+
+(4) Exit alarms on the private single-family home’s doors that provide direct access to the swimming pool or spa. The exit alarm may cause either an alarm noise or a verbal warning, such as a repeating notification that “the door to the pool is open.”
+
+(5) A self-closing, self-latching device with a release mechanism placed no lower than 54 inches above the floor on the private singlefamily home’s doors providing direct access to the swimming pool or spa.
+
+(6) An alarm that, when placed in a swimming pool or spa, will sound upon detection of accidental or unauthorized entrance into the water. The alarm shall meet and be independently certified to the ASTM Standard F2208 “Standard Safety Specification for Residential Pool Alarms,” which includes surface motion, pressure, sonar, laser and infrared type alarms. A swimming protection alarm feature designed for individual use, including an alarm attached to a child that sounds when the child exceeds a certain distance or becomes submerged in water, is not a qualifying drowning prevention safety feature.
+
+(7) Other means of protection, if the degree of protection afforded is equal to or greater than that afforded by any of the features set forth above and has been independently verified by an approved testing laboratory as meeting standards for those features established by the ASTM or the American Society of Mechanical Engineers (ASME).
+
+(b) Before the issuance of a final approval for the completion of permitted construction or remodeling work, the local building code official shall inspect the drowning safety prevention features required by this section and, if no violations are found, shall give final approval. [Amended by Stats. 2017, Ch. 670, Sec. 4. (SB 442) Effective January 1, 2018.]
+
+115923.
+
+An enclosure shall have all of the following characteristics:
+
+(a)Any access gates through the enclosure open away from the swimming pool and are self-closing with a self-latching device placed no lower than 60 inches above the ground.
+
+(b)A minimum height of 60 inches.
+
+(c)A maximum vertical clearance from the ground to the bottom of the enclosure of two inches.
+
+(d)Gaps or voids, if any, do not allow passage of a sphere equal to or greater than four inches in diameter.
+
+(e)An outside surface free of protrusions, cavities or other physical characteristics that would serve as handholds or footholds that could enable a child below the age of five years to climb over.
+
+(Added by Stats. 1996, Ch. 925, Sec. 3.5. Effective January 1, 1997.)
+
+115924.
+
+(a)Any person entering into an agreement to build a swimming pool or spa, or to engage in permitted work on a pool or spa covered by this article, shall give the consumer notice of the requirements of this article.
+
+(b)Pursuant to existing law, the Department of Health Services shall have available on the department’s Web site, commencing January 1, 2007, approved pool safety information available for consumers to download. Pool contractors are encouraged to share this information with consumers regarding the potential dangers a pool or spa poses to toddlers. Additionally, pool contractors may provide the consumer with swimming pool safety materials produced from organizations such as the United States Consumer Product Safety Commission, Drowning Prevention Foundation, California Coalition for Children’s Safety & Health, Safe Kids Worldwide, Association of Pool and Spa Professionals, or the American Academy of Pediatrics.
+
+(Amended by Stats. 2006, Ch. 478, Sec. 3. Effective January 1, 2007.)
+
+115925.
+
+The requirements of this article do not apply to any of the following:
+
+(a)Public swimming pools.
+
+(b)Hot tubs or spas with locking safety covers that comply with the American Society for Testing and Materials (ASTM F1346).
+
+(c)An apartment complex or any residential setting other than a single-family home.
+
+[Amended by Stats. 2017, Ch. 670, Sec. 5. (SB 442) Effective January 1, 2018.]
+
+115926.
+
+This article does not apply to any facility regulated by the State Department of Social Services even if the facility is also used as the private residence of the operator. Pool safety in those facilities shall be regulated pursuant to regulations adopted therefor by the State Department of Social Services.
+
+(Added by Stats. 1996, Ch. 925, Sec. 3.5. Effective January 1, 1997.)
+
+115927.
+
+Notwithstanding any other provision of law, this article shall not be subject to further modification or interpretation by any regulatory agency of the state, this authority being reserved exclusively to local jurisdictions, as provided for in paragraph (7) of subdivision (a) of Section 115922 and subdivision (c) of Section 115925.
+
+(Amended by Stats. 2018, Ch. 957, Sec. 13. (SB 1078) Effective January 1, 2019.)
+
+115928.
+
+Whenever a building permit is issued for the construction of a new swimming pool or spa, the pool or spa shall meet all of the following requirements:
+
+(a) (1) The suction outlets of the pool or spa for which the permit is issued shall be equipped to provide circulation throughout the pool or spa as prescribed in paragraphs (2) and (3).
+
+(2) The swimming pool or spa shall either have at least two circulation suction outlets per pump that shall be hydraulically balanced and symmetrically plumbed through one or more “T” fittings, and that are separated by a distance of at least three feet in any dimension between the suction outlets, or be designed to use alternatives to suction outlets, including, but not limited to, skimmers or perimeter overflow systems to conduct water to the recirculation pump.
+
+(3) The circulation system shall have the capacity to provide a complete turnover of pool water, as specified in Section 3124B of Chapter 31B of the California Building Standards Code (Title 24 of the California Code of Regulations).
+
+(b) Suction outlets shall be covered with antientrapment grates, as specified in the ANSI/APSP-16 performance standard or successor standard designated by the federal Consumer Product Safety Commission, that cannot be removed except with the use of tools. Slots or openings in the grates or similar protective devices shall be of a shape, area and arrangement that would prevent physical entrapment and would not pose any suction hazard to bathers.
+
+(c) Any backup safety system that an owner of a new swimming pool or spa may choose to install in addition to the requirements set forth in subdivisions (a) and (b) shall meet the standards as published in the document, “Guidelines for Entrapment Hazards: Making Pools and Spas Safer,” Publication Number 363, March 2005, United States Consumer Product Safety Commission.
+
+[Amended by Stats. 2012, Ch. 679, Sec. 2. (AB 2114) Effective January 1, 2013.]
+
+115928.5.
+
+Whenever a building permit is issued for the remodel or modification of an existing swimming pool, toddler pool or spa, the permit shall require that the suction outlet or suction outlets of the existing swimming pool, toddler pool or spa be upgraded so as to be equipped with antientrapment grates, as specified in the ANSI/APSP-16 performance standard or a successor standard designated by the federal Consumer Product Safety Commission.
+
+[Amended by Stats. 2012, Ch. 679, Sec. 3. (AB 2114) Effective January 1, 2013.]
+
+115929.
+
+(a) The Legislature encourages a private entity, in consultation with the Epidemiology and Prevention for Injury Control Branch of the department, to produce an informative brochure or booklet, for consumer use, explaining the child drowning hazards of, possible safety measures for and appropriate drowning hazard prevention measures for home swimming pools and spas, and to donate the document to the department.
+
+(b) The Legislature encourages the private entity to use existing documents from the United States Consumer Product Safety Commission on pool safety.
+
+(c) If a private entity produces the document described in subdivisions (a) and (b) and donates it to the department, the department shall review and approve the brochure or booklet.
+
+(d) Upon approval of the document by the department, the document shall become the property of the state and a part of the public domain. The department shall place the document on its Web site in a format that is readily available for downloading and for publication. The department shall review the document in a timely and prudent fashion and shall complete the review within 18 months of receipt of the document from a private entity.
+
+(Added by Stats. 2003, Ch. 422, Sec. 3. Effective January 1, 2004.)
+

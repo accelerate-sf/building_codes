@@ -1,0 +1,1055 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLECHAPTER 3A – PROVISIONS FOR ALL COMPLIANCE METHODS [OSHPD 1]
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter
+												X													
+Adopt Entire Chapter as
+		amended (amended
+		sections listed below)																							
+Adopt only those sections
+		that are listed below																							
+Chapter / Section																							
+																							The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 3A A PROVISIONS FOR ALL COMPLIANCE METHODS
+
+User note:
+
+About this chapter: Chapter 3 explains the three compliance options for alterations and additions available in the code. In addition, this chapter also lays out the methods to be used for seismic design and evaluation throughout this code. Finally, this chapter clarifies that provisions in other I-Codes® related to repairs, alterations, additions, relocation and changes of occupancy must also be addressed unless they conflict with this code. In that case, this code takes precedence.
+
+SECTION 301A A ADMINISTRATION
+
+301A.1 A Applicability.
+
+The provisions of this chapter shall control the alteration, repair, addition and change of occupancy of existing structures for applications listed in Sections 1.10.1 [OSHPD 1] regulated by the Office of Statewide Health Planning and Development (OSHPD).
+
+California Energy Commission, State Fire Marshal and DSA-AC requirements for existing structures shall be enforced by the Office of Statewide Health Planning and Development (OSHPD).
+
+301A.1.1 A Bleachers, grandstands and folding and telescopic seating.
+
+Existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300.
+
+301A.2 A Repairs.
+
+Repairs shall comply with the requirements of Chapter 4A.
+
+301A.3 A Alteration, addition or change of occupancy.
+
+The alteration, addition or change of occupancy of all existing buildings or structures shall comply with one of the methods or categories listed in Section 301A.3.1, 301A.3.2 or 301A.3.3 . Section 304A.3.2 applies to all methods or categories. Sections 301A.3.1 through 301A.3.3 shall not be applied in combination with each other, except when permitted by the enforcement agency.
+
+Exception:  Subject to the approval of the enforcement agency, alterations complying with the laws in existence at the time the building or the affected portion of the building was built shall be considered in compliance with the provisions of this code. New structural members added as part of the alteration shall comply with the California Building Code.
+
+
+
+301A.3.1 A Prescriptive compliance method.
+
+Alterations, additions and changes of occupancy complying with Chapter 5A of this code for existing buildings or structures shall be considered in compliance with the provisions of this code.
+
+301A.3.2 A Nonconforming buildings. Nonconforming buildings.
+
+Alterations, additions and changes of occupancy to existing buildings or structures designed in accordance with the Pre-1973 building code complying with Section 304A.3.1 and the applicable requirements herein shall be considered in compliance with the provisions of this code.
+
+301A.3.3 A Performance-based method. based
+
+Alterations, additions and changes of occupancy to existing buildings or structures complying with Sections 304A.3.4 and 304A.3.5 of this code shall be considered in compliance with the provisions of this code.
+
+301A.4 A Moved structures. Moved structures.
+
+Structures moved into or within the jurisdiction shall comply with the provisions of the California Building Code for new structures.
+
+301A.5 A Compliance with accessibility.
+
+Accessibility requirements for existing buildings shall comply with the California Building Code, Part 2 Volume 1 Chapter 11B, Section 201 “Existing Buildings and Facilities.”
+
+301A.6 Peer review requirements.
+
+Peer review requirements shall comply with California Building Code Section 1617A.1.41.
+
+301A.7 Earthquake monitoring instruments for existing buildings.
+
+Earthquake monitoring instrumentation of existing buildings shall comply with Section 313A.
+
+301A.8 Compliance alternatives for services/systems and utilities.
+
+Compliance alternatives for services/systems and utilities shall comply with Section 310A.
+
+301A.9 Compliance alternatives for means of egress.
+
+Means of egress through existing buildings shall comply with Section 311A.
+
+301A.10 Removal of hospital buildings from general acute care services.
+
+Removal of hospital buildings from General Acute Care Services shall comply with Section 312A.
+
+301A.11 Hospital buildings removed from general acute care services.
+
+Hospital buildings removed from general acute care services shall comply with Section 312A.
+
+SECTION 302A A GENERAL PROVISIONS
+
+
+
+302A.1 A Dangerous conditions.
+
+The code official shall have the authority to require the elimination of conditions deemed dangerous.
+
+302A.2 A Additional codes.
+
+Alterations, repairs, additions and changes of occupancy to, or relocation of, existing buildings and structures shall comply with the provisions for alterations, repairs, additions and changes of occupancy or relocation, respectively, in the California Fire Code, California Mechanical Code, California Plumbing Code and California Electrical Code. Where provisions of the other codes conflict with provisions of this chapter, the provisions of this chapter shall take precedence.
+
+302A.2.1 A Additional codes in health care.
+
+In existing Group I-2 occupancies, ambulatory health care facilities, outpatient clinics and hyperbaric facilities, alterations, repairs, additions and changes of occupancy to, or relocation of, existing buildings and structures shall also comply with NFPA 99.
+
+302A.3 A Existing materials and equipment. and equipment.
+
+Materials and equipment already in use in a building in compliance with requirements or approvals in effect at the time of their erection or installation shall be permitted to remain in use unless determined by the code official to be unsafe in accordance with California Building Code Section 116.
+
+302A.3.1 A Existing seismic force-resisting systems.
+
+Where the existing seismic force-resisting system is a type that can be designated ordinary or is a welded steel moment frame constructed under a permit issued prior to October 25, 1994, values of R, Ω0 and Cd for the existing seismic force-resisting system shall be those specified by this code for an ordinary system unless it is demonstrated that the existing system will provide performance equivalent to that of a detailed, intermediate or special system.
+
+302A.4 A New and replacement materials.
+
+Except as otherwise required or permitted by this code, materials and equipment permitted by the applicable code for new construction shall be used. Like materials shall be permitted for repairs and alterations, provided no hazard to life, health or property is created. Hazardous materials shall not be used where the code for new construction would not permit their use in buildings of similar occupancy, purpose and location.
+
+[BS] 302A.4.1 A New structural members and connections.
+
+New structural members and connections shall comply with the detailing provisions of the California Building Code for new buildings of similar structure, purpose and location.
+
+Exception:  Where alternative design criteria are specifically permitted.
+
+302A.5 A Occupancy and use.
+
+Where determining the appropriate application of the referenced sections of this code, the occupancy and use of a building shall be determined in accordance with Chapter 3 of the California Building Code.
+
+302A.6 A Maintenance.
+
+Buildings and structures, and parts thereof, shall be maintained in a safe and sanitary condition. Devices or safeguards which are required by this code shall be maintained in conformance with the code edition under which they were installed. The owner or the owner’s designated agent shall be responsible for the maintenance of buildings and structures. To determine compliance with this subsection, the building official shall have the authority to require a building or structure to be re-inspected. The requirements of this chapter shall not provide the basis for removal or abrogation of fire protection and safety systems and devices in existing structures.
+
+302A.7 A Construction documents for retrofit or rehabilitation.
+
+The design loads and other information pertinent to the structural design required by California Building Code Section 1603A shall be included in the drawings. In addition to the information required by California Building Code Section 1603A.1.5, the drawings shall show the ground motion hazard used for the retrofit or rehabilitation as either a percentage of the California Building Code prescribed ground motion for new hospital buildings, or ASCE 41 seismic hazard designation, or a probability of exceedance in a specified time period, or a return period for exceedance of the specified ground motion.
+
+SECTION 303A A RESERVED RESERVED
+
+SECTION 304A A STRUCTURAL DESIGN LOADS AND EVALUATION AND DESIGN PROCEDURES
+
+[BS] 304A.1 A Live loads.
+
+Where an addition or alteration does not result in increased design live load, existing gravity loadcarrying structural elements shall be permitted to be evaluated and designed for live loads approved prior to the addition or alteration. If the approved live load is less than that required by Section 1607A of the California Building Code, the area designated for the nonconforming live load shall be posted with placards of approved design indicating the approved live load. Where the addition or alteration results in increased design live load, the live load required by Section 1607A of the California Building Code shall be used.
+
+[BS] 304A.2 A Snow loads on adjacent buildings.
+
+Where an alteration or addition changes the potential snow drift effects on an adjacent building, the code official is authorized to enforce Section 7.12 of ASCE 7.
+
+[BS] 304A.3 A Additions, alterations, repairs and seismic retrofit to existing buildings or structures. Additions, alterations, repairs and seismic retrofit to existing buildings or structures.
+
+[BS] 304A.3.1 A Structures designed in accordance with pre-1973 building code. Structures designed in accordance with pre-1973 building code.
+
+Provisions of this section shall apply to hospital buildings which were originally designed to pre-1973 building codes and not designated as SPC 3 or higher in accordance with Chapter 6 of the California Administrative Code.
+
+304A.3.1.1 A Incidental and minor structural alteration, additions or repairs.
+
+Incidental and minor structural additions shall be permitted, provided the additions meet the California Building Code for new construction using importance factor, Ie, equal to or greater than 1.0. Alterations or repair to existing gravity and lateral force-resisting systems shall be made to conform to the requirements of Section 503A or Chapter 4A, respectively, using importance factor, Ie, equal to or greater than 1.0.
+
+1.Nonstructural components. Component importance factor, Ip, shall be permitted to be 1.0.
+
+Exception:  Components required for lifesafety purposes after an earthquake, including emergency and standby power systems, mechanical smoke removal systems, fire protection sprinkler systems, fire alarm control panels and egress stairways shall have a component importance factor (Ip) of 1.5.
+
+304A.3.1.2 A Major structural alteration, additions or repairs.
+
+Major structural alterations, additions or repairs shall be in accordance with Section 304A.3.4.1 or 304A.3.4.3 as applicable.
+
+304A.3.2 A Seismic evaluation and retrofit of general acute care hospitals for compliance with the California Administrative Code, Chapter 6. California Administrative Code
+
+Notwithstanding any other requirements of this code, existing general acute care hospitals shall comply with the seismic evaluation requirements specified in Chapter 6, of the California Administrative Code, when applicable. Seismic retrofit to comply with requirements specified in Chapter 6 of the California Administrative Code shall be permitted to be in accordance with these provisions. When load combinations which do not include seismic forces are required, the new building provisions of this code shall be applicable.
+
+304A.3.3 A SPC-4D.
+
+Nonconforming hospital buildings satisfying the following requirements and one of Sections 501A.3.1, 501A.3.2 or 304A.3.4.5, but not a combination thereof, shall be considered to satisfy the requirements of SPC-4D.
+
+1.Approval of construction documents based on building characterization in accordance with the California Administrative Code (CAC) Chapter 6 Section 2.1.2.1, material properties in accordance with the CAC Chapter 6 Section 2.1.2.2 and Section 304A.5.3 of this code, and a complete rational structural analysis shall be required.
+
+2.Where the SPC-4D upgrade involves construction, a building permit prior to construction shall be required.
+
+3.Where multiple building permits are used to upgrade a building to SPC-4D, a complete rational structural analysis to justify compliance with SPC-4D, for the building in its final configuration, shall be submitted as part of the construction documents submittal to the Office for the last project.
+
+4.Where the SPC-4D upgrade involves construction, buildings shall be assigned to SPC-4D after all projects required for SPC-4D are closed in compliance.
+
+304A.3.4 A Performance objectives of performance-based methods.
+
+Except for the modifications as set forth in Sections 304A.3.4 and 304A.3.5, all additions, alterations, repairs and seismic retrofit to existing structures or portions thereof shall be permitted to be designed in accordance with the provisions of ASCE 41. When load combinations which do not include seismic forces are required, the new building code provisions of this code shall be applicable. Required building performance objectives under ASCE 41 shall be as follows:
+
+304A.3.4.1 A For general acute care hospital buildings along with all structures required for their continuous operation or access/egress:
+
+1.Immediate Occupancy (IO) Structural Performance Level (S-1) as defined in Section 2.3.1.1 at Basic Safety Earthquake 1N (BSE-1N) Seismic Hazard Level; and
+
+2.Life Safety (LS) Structural Performance Level (S-3) as defined in Section 2.3.1.3 at Basic Safety Earthquake 2N (BSE-2N) Seismic Hazard Level; and
+
+3.The nonstructural components shall satisfy the requirements of this code for new construction.
+
+Exception:  Performance objectives for upgrading nonconforming hospital buildings to SPC-4D and for incidental or minor alterations or repairs of SPC-4D buildings shall be in accordance with Section 304A.3.4.5 of this code.
+
+304A.3.4.2 A For incidental and minor additions, alterations or repairs of pre-1973 hospital buildings which will not be used for general acute care services after January 1, 2030:
+
+1.Life Safety Structural Performance (S-3) Level as defined in ASCE 41 Section 2.3.1.3 at the Basic Safety Earthquake 1E (BSE-1E) Seismic Hazard Level; and
+
+2.Collapse Prevention (CP) Building Performance Level (5-D) in accordance with Section 2.3.3.4 at the Basic Safety Earthquake 2E (BSE-2E) Seismic Hazard Level; and
+
+3.The nonstructural components shall satisfy the requirements of Position Retention Nonstructural Performance Level (N-B) in accordance with ASCE 41 Section 2.3.2.2 at BSE-1E Seismic Hazard Level.
+
+304A.3.4.3 A All other hospital buildings:
+
+1.Operational Building Performance Level of (1-A) as defined in Section 2.3.3.1 at Basic Safety Earthquake 1N (BSE-1N) Seismic Hazard Level; and
+
+2.Life Safety (LS) Building Performance Level (S-3) as defined in Section 2.3.1.3 at Basic Safety Earthquake 2N (BSE-2N) Seismic Hazard Level.
+
+304A.3.4.4 A SPC 2 using ASCE 41.
+
+Structures shall be considered to comply with SPC 2 requirements of Table 2.5.3, Chapter 6 of the California Administrative Code, when all of the following are satisfied:
+
+1.Life Safety Structural Performance Level (S-3) in accordance with Section 2.3.1.3 of ASCE 41 at BSE-1E; and
+
+2.Items identified in Chapter 6, Article 10 of the California Administrative Code satisfying the requirements of Position Retention nonstructural Performance Level (N-B) in accordance with Section 2.3.2.2 at BSE-1E.
+
+304A.3.4.5 A SPC-4D using ASCE 41.
+
+Structures shall be deemed to comply with the SPC-4D requirements of Table 2.5.3, Chapter 6 of the California Administrative Code, when all of the following are satisfied:
+
+1.Damage control Structural Performance Level (S-2) in accordance with Section 2.3.1.2.1 of ASCE 41 at BSE-1E; and
+
+2.Collapse Prevention Structural Performance Level (S-5) in accordance with Section 2.3.1.5 of ASCE 41 at BSE-2E; and
+
+3.Items identified in Chapter 6, Article 10 of the California Administrative Code satisfy the requirements of Position Retention Nonstructural Performance Level (N-B) in accordance with Section 2.3.2.2 at BSE-1E.
+
+ 304A.3.4.5.1
+
+Replace ASCE 41-13 § 7.2.13.2 with the following:
+
+
+
+A.Where the adjacent building was constructed using the 1989 or later edition of the California Building Code and built under OSHPD jurisdiction, the minimum building separation distance specified in Section 7.2.13.1 need not be evaluated for Structural Performance Level Damage Control or lower.
+
+B.Where adjacent structure or building evaluated is not less than half as tall and adjacent structure has floors/levels that match those of the building being evaluated, the following exceptions apply:
+
+1)For Structural Performance Level of Life Safety or lower, the seismic separation between the adjacent structure and the building being evaluated need not be evaluated.
+
+2)For Structural Performance Level of
+Damage Control, buildings need not
+meet the minimum separation distance
+specified in Section 7.2.13.1 where
+either a) or b) applies:
+
+a)Adjacent structure is more than 2
+inches (50.8 mm) times the number
+of stories below that level away
+from the building being evaluated
+at all floor levels that align.
+
+b) The adjacent building does not
+have any of the following structural deficiencies as defined in the
+California Administrative Code
+(CAC), Chapter 6, Article 3:
+
+1)Load path (3.1)
+
+2)Weak story (3.3.1)
+
+3)Soft story (3.3.2)
+
+4)Vertical discontinuity (3.3.5) or
+
+5)Torsion (3.3.6)
+
+C.Where an approved pounding analysis procedure that accounts for the change in dynamic response of the structures caused by impact is used, the evaluated and retrofitted buildings need not meet the minimum separation distance specified in Section 7.2.13.1. Such analysis shall demonstrate that:
+
+1)The structures are capable of transferring forces resulting from impact for diaphragms located at the same elevation; or
+
+2)The structures are capable of resisting all required vertical and lateral forces considering the loss of any elements or components damaged by impact of the structures.
+
+304A.3.4.6 304A.3.4.6 SPC 5 using ASCE 41. SPC 5 using ASCE 41.
+
+Structures shall be
+considered to comply with SPC 5 requirements of Table 2.5.3, Chapter 6 of the California Administrative Code
+where all of the following are satisfied:
+
+1.Immediate Occupancy Structural Performance
+Level (S-1) in accordance with Section 2.3.1.1 of
+ASCE 41 at BSE-1N;
+
+2.Life Safety Performance Level S-3 in accordance with Section 2.3.1.3 of ASCE 41 at BSE-
+2N; and
+
+3.Items identified in Chapter 6, Article 10 of the California Administrative Code, satisfying the requirements of Operational Nonstructural Performance Level (N-A) in accordance with Section 2.3.2.1 of ASCE 41 at BSE-1N.
+
+304A.3.4.7 304A.3.4.7 NPC-2 and NPC-3 using ASCE 41: NPC-2 and NPC-3 using ASCE 41:
+
+Operational Nonstructural Performance Level (N-A) and Position Retention Nonstructural Performance Level (N-B) of ASCE 41 at BSE-1N shall be considered equivalent to NPC 3/NPC 2 requirements, respectively, of Table 11.1, Chapter 6 of the California Administrative Code. For NPC 3/NPC 2, only components listed in Table 11.1, Chapter 6 of the California Administrative Code for NPC 3/NPC 2 need to satisfy the requirements specified above.
+
+Exception:Evaluation procedure of Article 11,
+Chapter 6 of the California Administrative Code
+shall be used for seismic evaluation of NPC 2, NPC
+3, NPC 4 or NPC 4D and NPC 5, where specific
+procedure is not outlined in ASCE 41. Administrative and permitting provisions outlined in Article 11,
+Chapter 6 of the California Administrative Code
+shall apply.
+
+304A.3.4.8 304A.3.4.8 NPC-4 or NPC 4D and NPC-5 using
+ASCE 41: NPC-4 or NPC 4D and NPC-5 using
+ASCE 41:
+
+Nonstructural components for Operational
+Nonstructural Performance Level (N-A) in Section
+2.3.2.1 or NPC-4/NPC 4D shall satisfy the requirements of the California Building Code for new construction. Nonstructural components for NPC-5 shall
+satisfy Operational Performance Level N-A/NPC-4/
+NPC 4D and California Building Code Section
+1617A.1.40 Items 1 & 2.
+
+304A.3.5 304A.3.5 Modifications to ASCE 41. Modifications to ASCE 41.
+
+The text of ASCE 41
+shall be modified as indicated in Sections 304A.3.5.1
+through 304A.3.5.16.
+
+304A.3.5.1 304A.3.5.1 ASCE 41 Section 1.1. ASCE 41 Section 1.1.
+
+Modify ASCE 41
+Section 1.1 with the following:
+
+Seismic evaluations shall be performed for performance objective specified in Section 304A.3.4 of this code (CEBC) using procedure of this standard (ASCE
+41) as follows:
+
+1.Structural components shall be evaluated in
+accordance with Tier 3 systematic evaluations
+procedure in Chapter 6.
+
+2.Nonstructural components shall be evaluated in
+accordance with Chapter 13.
+
+Exception:For general acute care hospitals, seismic evaluation shall be permitted to be in accordance with Chapter 6 of the California
+Administrative Code (CAC) when required by provisions of that chapter.
+
+304A.3.5.2 304A.3.5.2 Reserved. Reserved.
+
+304A.3.5.3 304A.3.5.3 ASCE 41 Section 6.2. ASCE 41 Section 6.2.
+
+Modify ASCE 41
+Section 6.2 with the following:
+
+Data Collection Requirements. The extent of data
+collection shall be at Comprehensive level for all
+structures, including structures upgraded to SPC-
+4D. A testing program for materials properties shall
+be approved by the enforcement agent prior to commencement of material testing work. Previously
+approved material test results shall be permitted to
+be used to satisfy part of the comprehensive data
+collection requirements.
+
+Exception:Data collection at Usual level shall
+be permitted for structures with SPC-2 or lower
+target performance objective.
+
+Tension testing of reinforcing bars shall be in
+accordance with ASTM A615. All test specimens
+shall be the full section of the bar as rolled (8-in.
+gage length) and shall not be reduced.
+
+At test sample locations, structural members,
+slabs and walls shall be repaired to a state that is
+equivalent to their original condition.
+
+For buildings built under an OSHPD permit
+based on the 1976 or later edition of the CBC, where
+materials properties are shown on design drawings
+and original materials test data are available, no
+materials testing shall be required when approved
+by the enforcement agent.
+
+304A.3.5.4 304A.3.5.4 ASCE 41 Section 7.3.2.1. ASCE 41 Section 7.3.2.1.
+
+Modify ASCE 41
+Section 7.3.2.1 with the following:
+
+Nonlinear Static Procedure. If higher mode effects
+are significant and building is taller than 75 feet
+above the base, the Nonlinear Dynamic Procedure
+shall be used.
+
+304A.3.5.5 304A.3.5.5 ASCE 41 Section 7.5.1. ASCE 41 Section 7.5.1.
+
+Modify ASCE 41
+Section 7.5.1 with the following:
+
+Acceptance Criteria – Drift Limitations. The interstory drift ratio shall not exceed the drift limits for
+Risk Category IV buildings in ASCE 7 Table 12.12-1
+due to forces corresponding to BSE-1E or BSE-1N,
+as applicable.
+
+Exception:Larger interstory drift ratios shall be
+permitted where justified by rational analysis
+that both structural and nonstructural elements
+can tolerate such drift and approved by the
+enforcement agent.
+
+304A.3.5.6 304A.3.5.6 ASCE 41 Section 7.5.1.4. ASCE 41 Section 7.5.1.4.
+
+Modify ASCE 41
+Section 7.5.1.4 by the following:
+
+Material Properties. Expected material properties
+are not permitted to be determined by multiplying
+lower bound values by the assumed factors specified
+in Chapters 8 through 12 and shall be based exclusively on materials tests.
+
+304A.3.5.7 304A.3.5.7 ASCE 41 Section 8.4. ASCE 41 Section 8.4.
+
+Modify ASCE 41
+Section 8.4 with the following:
+
+Foundation Strength and Stiffness. Foundation
+and soil strength shall be used to evaluate potential
+overturning, uplift and sliding for fixed base
+assumptions, and stiffness for flexible base assumptions, including deformations associated with those
+actions.
+
+304A.3.5.8 304A.3.5.8 ASCE 41 Section 8.4.1.1. ASCE 41 Section 8.4.1.1.
+
+Replace ASCE 41
+Section 8.4.1.1 as follows:
+
+Prescriptive Expected Capacities. Not permitted by
+OSHPD.
+
+304A.3.5.9 304A.3.5.9 ASCE 41 Section 8.4.2.3.2.1 Modify ASCE
+41 Sections 8.4.2.3.2.1 and 8.4.2.3.2.2 as follows: ASCE 41 Section 8.4.2.3.2.1 Modify ASCE
+41 Sections 8.4.2.3.2.1 and 8.4.2.3.2.2 as follows:
+
+8.4.2.3.2.1 Alternatively, when seismic evaluation is
+performed for foundation after global analysis of the
+superstructure is complete, both overturning and
+axial seismic pseudo force demands are permitted to
+be divided by the m-factors above, provided the
+foundation is analyzed as a beam on Winkler
+springs (soil does not resist tension). The vertical
+spring stiffness values may be determined either
+from Figure 8-2 or Equation 8-11, or as provided by
+the geotechnical engineer. Acceptance criteria for
+soil bearing shall be considered met, based on one
+of the following methods, either A or B:
+
+A)Soil spring reactions are limited by the ultimate soil bearing capacity, and the foundation
+system is stable under the applied loads.
+
+B)The resisting soil pressure distribution under
+the footing is triangular such that the maximum soil bearing pressure at any point of the
+footing is less than the ultimate soil bearing
+capacity.
+
+Subject to the approval of the authority having jurisdiction, higher soil pressures may be
+permitted when appropriately justified.
+
+The evaluation of the foundation structural element shall be considered as force controlled in
+accordance with the material chapters using the
+bearing pressure distribution under the footing from
+the same method used for the soil bearing acceptance criteria.
+
+8.4.2.3.2.2 Alternatively, superstructure pseudo
+force overturning demands to the foundation are
+permitted to be divided by the appropriate m-factors
+above and applied to the mathematical model representing the foundation system only, re-analyzed as a beam on Winkler springs (soil does not resist tension). Acceptance criteria for soil bearing shall be
+considered met, based on one of the following methods, either A or B:
+
+A)Soil spring reactions are limited by the ultimate soil bearing capacity, and the foundation
+system is stable under the applied loads.
+
+B)The resisting soil pressure distribution under
+the footing is triangular, and the maximum
+soil bearing pressure at any point of the footing is less than the ultimate soil bearing
+capacity.
+
+Subject to the approval of the authority having jurisdiction, higher soil pressures may be
+permitted when appropriately justified.
+
+The evaluation of the foundation structural element shall be considered as force controlled in
+accordance with the material chapters using the
+bearing pressure distribution under the footing from
+the same method used for the soil bearing acceptance criteria.
+
+304A.3.5.10 304A.3.5.10 ASCE 41 Section 8.5.1. ASCE 41 Section 8.5.1.
+
+Modify ASCE 41 Section 8.5.1 with the following:
+
+The product of RRSbsa x RRSe, shall not be less than 0.7.
+
+The combined effect of kinematic interaction and foundation damping shall meet the following:
+
+1.The site specific response spectrum modified for
+soil-structure interaction effects shall not be
+taken as less than 80 percent of the spectral
+acceleration as determined from a site-specific
+response spectrum in accordance with ASCE 7
+Section 21.3, or
+
+2.The site specific response spectrum modified for
+soil-structure interaction effects shall not be
+taken as less than 70 percent of the spectral
+acceleration as determined from the design
+response spectrum and MCER response spectrum
+in accordance with ASCE 7 Sections 11.4.5 and
+11.4.6, respectively.
+
+Exception:For the seismic retrofit of existing
+nonconforming buildings, design ground
+motion shall be consistent with performance
+objectives in Section 304A.3.4.
+
+304A.3.5.11 304A.3.5.11 ASCE 41 Section 8.6. ASCE 41 Section 8.6.
+
+Modify ASCE 41
+Section 8.6 with the following:
+
+Seismic Earth Pressure. Where the grade difference
+from one side of the building to another exceeds
+one-half story height, the seismic increment of earth
+pressure shall be added to the gravity lateral earth
+pressure to evaluate the building overturning and
+sliding stability and the lateral force-resisting system below grade in combination with the building
+seismic forces.
+
+304A.3.5.12 304A.3.5.12 ASCE 41 Section 10.7.1.1. ASCE 41 Section 10.7.1.1.
+
+Modify ASCE
+41 Section 10.7.1.1 with the following:
+
+Monolithic Reinforced Concrete Shear Walls and
+Wall Segments. For nonlinear procedures, shear
+walls or wall segments with axial loads greater than
+0.35 Po shall be included in the model as primary
+elements with appropriate strength and stiffness
+degrading properties assigned to those components
+subject to the approval of the enforcement agent.
+For linear procedures, the effects of deformation
+compatibility shall be investigated using momentcurvature section analyses and cyclic testing results
+of similar components to determine whether
+strengthening is necessary to maintain the gravity
+load-carrying capacity of that component.
+
+Horizontal wall segments or spandrels reinforced similar to vertical wall segments or piers
+shall be classified as wall segments, not shear wall
+coupling beams, in Tables 10-19 through 10-22.
+
+304A.3.5.13 304A.3.5.13 ASCE 41 Section 10.12.3 ASCE 41 Section 10.12.3
+
+Modify ASCE 41 Section 10.12.3 as follows:
+
+Exception:Component actions that are deformation
+controlled are permitted to use their expected
+strengths for the acceptance criteria.
+
+304A.3.5.14 304A.3.5.14 ASCE 41 Section 11.1. ASCE 41 Section 11.1.
+
+Modify ASCE 41 Section 11.1 by the following:
+
+Scope: Unreinforced masonry walls (including unreinforced infill walls) and partitions are not permitted
+for General Acute Care (GAC) hospital buildings.
+
+304A.3.5.15 304A.3.5.15 ASCE 41 Section 14.1. ASCE 41 Section 14.1.
+
+Modify ASCE 41 Section 14.1 by the following:
+
+Scope: For buildings located in Seismic Design Category F, verification of the interstory lateral displacements, the strength adequacy of the seismic
+force-resisting system and anchorage to the foundation shall be accomplished using the Nonlinear
+Dynamic Procedure.
+
+304A.3.5.16 304A.3.5.16 ASCE 41 Chapter 15 and 16. ASCE 41 Chapter 15 and 16.
+
+Not permitted by OSHPD.
+
+SECTION 305A A IN-SITU LOAD TESTS
+
+[BS] 305A.1 A General.
+
+Where used, in-situ load tests shall be conducted in accordance with Section 1708A of the California Building Code.
+
+SECTION 306A A ACCESSIBILITY FOR EXISTING BUILDINGS
+
+306A.1 A Scope.
+
+Accessibility requirements for existing buildings shall comply with the California Building Code, Part 2,
+Volume 1, Chapter 11B.
+
+
+
+SECTION 307A A –309A A RESERVED RESERVED
+
+SECTION 310A A COMPLIANCE ALTERNATIVES FOR SERVICES/SYSTEMS AND UTILITIES
+
+310A.1 A General.
+
+The provisions of this section are intended to maintain or increase the current degree of public safety, health and general welfare in existing buildings while permitting repair, alteration, addition and change of occupancy without requiring full compliance with California Building Code Chapters 2 through 33, or Sections 302A.3 and 502A through 506A, except where compliance with other provisions of this code is specifically required in this section.
+
+Services/systems and utilities that originate in and pass through or under buildings and are necessary to the operation of the hospital buildings shall meet the structural requirements of this section. Examples of services/systems and utilities include but are not limited to normal power; emergency power; nurse call; fire alarm; communication and data systems; space-heating systems; process load systems; cooling systems; domestic hot and cold water systems; means of egress systems; fire-suppression systems; building drain and sewer systems; and medical gas systems that support basic and supplemental services.
+
+After January 1, 2030, services/systems and utilities for acute care hospital buildings shall not originate in or pass through or under a nonhospital or hospital building unless it has approved performance categories of SPC-3 or higher and
+NPC-5.
+
+310A.1.1 310A.1.1 Services/systems and utilities. Services/systems and utilities.
+
+Services/systems
+and utilities that are necessary to the operation of the hospital buildings shall meet the structural requirements of
+this section, based upon the approved Structural Performance Category (SPC) of the building receiving the services/systems and utilities.
+
+Services from a conforming building shall be permitted
+to serve a nonconforming building with prior approval of
+the Office. The services/systems and utilities in the nonconforming building shall be equipped with fail safe
+valves, switches or other equivalent devices that allow the
+nonconforming building to be isolated from the conforming building.
+
+Exception:Remodel projects that use available existing services/systems and utilities are exempted from the
+requirements of this section. The enforcing agency
+shall be permitted to exempt minor addition, minor
+alteration and minor remodel projects and projects to
+upgrade existing services/systems and utilities from the
+requirements of this section.
+
+310A.1.1.1 310A.1.1.1 Services/systems and utilities for hospital buildings. Services/systems and utilities for hospital buildings.
+
+310A.1.1.1.1 310A.1.1.1.1 New hospital buildings, additions,
+alterations and remodels of conforming (SPC-3,
+-4, -4D or -5) hospital buildings. New hospital buildings, additions,
+alterations and remodels of conforming (SPC-3,
+-4, -4D or -5) hospital buildings.
+
+Services/systems
+and utilities for new hospital buildings and additions, alterations or remodels to existing conforming buildings shall originate in hospital buildings
+that are conforming or have approved performance categories of SPC-3 or higher, and NPC-4/
+NPC-4D or higher. The services/systems and utilities shall not pass through or under buildings that do
+not have approved performance categories of SPC-
+2 or higher and NPC-4/NPC-4D or higher.
+
+Exceptions:Services/systems and utilities shall be permitted to pass through or under buildings that
+have approved nonstructural performance
+categories of NPC-3 or higher or NPC-2, provided that the building has an approved extension to the NPC-3 deadline. The services/
+systems and utilities feeding the new building
+addition, alteration or remodel shall conform
+to the new building provisions of this code and
+shall be deemed by OSHPD to be free of
+adverse seismic interactions that could be
+caused by potential failure of overhead or
+adjacent components.
+
+310A.1.1.1.2 310A.1.1.1.2 Additions, alterations and remodels of SPC-2 hospital buildings. Additions, alterations and remodels of SPC-2 hospital buildings.
+
+Services/systems
+and utilities for additions, alterations or remodels
+of SPC-2 hospital buildings shall be permitted to
+originate in and pass through or under SPC-2 or
+higher buildings that have an approved nonstructural performance category of NPC-3 or higher.
+
+Exception:Services/systems and utilities shall be
+permitted to pass through or under buildings that
+have approved nonstructural performance categories of NPC-2, provided that the building has
+an approved extension to the NPC-3 deadline.
+Services/systems and utilities feeding the addition, alteration or remodel shall conform to the
+nonstructural bracing requirements for new
+buildings.
+
+310A.1.1.1.3 310A.1.1.1.3 Alterations and remodels of SPC-1 hospital buildings. Alterations and remodels of SPC-1 hospital buildings.
+
+Services/systems and utilities
+for alterations or remodels of SPC-1 hospital buildings shall be permitted to originate in and pass
+through or under SPC-1 or higher buildings that
+have an approved nonstructural performance category of NPC-2 or higher.
+
+310A.1.1.1.4 310A.1.1.1.4 Buildings without SPC/NPC ratings. Buildings without SPC/NPC ratings.
+
+When services/systems and utilities for new
+buildings, additions, alterations or remodels pass
+through or under hospital buildings which would
+not otherwise require evaluation for an SPC rating,
+such buildings shall be evaluated in accordance
+with the requirements of Section 1.3, Chapter 6, of
+the California Administrative Code, to determine
+the appropriate ratings, or shall be shown to meet
+the structural requirements of these regulations for
+new hospital buildings. The services/systems and
+utilities feeding the new building addition, alteration or remodel shall conform with new building
+provisions of this code and shall be deemed by OSHPD to be free of adverse seismic interactions
+that could be caused by potential failure of overhead or adjacent components.
+
+310A.1.1.1.5 310A.1.1.1.5 Buildings removed from acute-care hospital service. Buildings removed from acute-care hospital service.
+
+Services/systems and utilities for conforming acute care hospital buildings shall be permitted to pass through or under a building that has been removed from acute care hospital service until January 1, 2030, if the building removed from service meets the performance requirements of Section 310A.1.1.1.1. Services/systems and utilities for nonconforming nonacute care hospital buildings shall be permitted to pass through or under a building that has been removed from acute care hospital service only if the building removed from service meets the performance requirements of Section 310A.1.1.1.2.
+
+Exception:Service/system and utilities for acute
+care hospital buildings may pass through or
+under the buildings that have been removed from
+acute care service and which do not meet the performance requirements of Section 310A.1.1.1.1
+or Section 310A.1.1.1.2, provided all the following are met:
+
+1.The building removed from acute care service remains under the jurisdiction of
+OSHPD.
+
+2. The service/system and utilities only support acute care services in SPC-1 or SPC-2
+buildings, and where no critical care areas
+occur.
+
+3. The SPC-1 or SPC-2 buildings supported
+by the service/system and utilities meet the
+nonstructural requirements of NPC-2, as
+defined in the CAC, Part 1, Article 11,
+Table 11.1 and are served with essential
+power from a conforming building or
+source which does not pass through or
+under a building removed from acute care
+services.
+
+4. The SPC-2 buildings supported by the service/system and utilities are removed from
+acute care service no later than January 1,
+2026.
+
+310A.1.2 310A.1.2 Jurisdiction. Jurisdiction.
+
+Services/systems and utilities shall originate in and only pass through or under buildings that are under the jurisdiction of the Office of Statewide Health Planning and Development (OSHPD).
+
+SECTION SECTION 311A A COMPLIANCE ALTERNATIVES FOR MEANS OF EGRESS COMPLIANCE ALTERNATIVES FOR MEANS OF EGRESS
+
+311A.1 311A.1 General. General.
+
+Means of egress through existing buildings
+shall be in accordance with the California Building Code,
+except as modified in this section.
+
+311A.1.1 311A.1.1 Means of egress. Means of egress.
+
+Means of egress shall comply with the requirements of Sections 311A.1.1.1 and 311A.1.1.2.
+
+Exception:The enforcing agency shall be permitted to
+exempt minor additions, minor alterations and minor
+remodel projects from these requirements.
+
+311A.1.1.1 311A.1.1.1 Means of egress for hospital buildings. Means of egress for hospital buildings.
+
+Means of egress for hospital buildings shall comply with the requirements of Sections 311A.1.1.1.1 through 311A.1.1.1.6.
+
+311A.1.1.1.1 311A.1.1.1.1 New and existing conforming hospital buildings. New and existing conforming hospital buildings.
+
+Means of egress for new hospital buildings and additions to existing conforming hospital buildings shall only pass through buildings that are conforming or comply with the requirements of SPC-3 or higher, and NPC-4/NPC-4D or higher.
+
+Exception:Existing means of egress that pass through hospital buildings that have approved nonstructural performance categories NPC-3, or NPC-2 if the building has an approved extension to the NPC-3 deadline, shall be permitted to remain for the duration of extension. The nonstructural components in the path of egress shall be braced in accordance with the new building provisions of this code.
+
+311A.1.1.1.2 311A.1.1.1.2 Existing SPC-2 hospital buildings. Existing SPC-2 hospital buildings.
+
+Means of egress for additions to existing SPC-2 hospital buildings shall only pass through hospital
+buildings that have approved performance categories of SPC-2 or higher and NPC-4/NPC-4D or
+higher.
+
+Exception: The means of egress shall be permitted to pass through hospital buildings that have
+approved nonstructural performance categories
+of NPC-3, or NPC-2 if the building has an
+approved extension to the NPC-3 deadline. Nonstructural components in the path of egress shall
+be braced in accordance with the new building
+provisions of this code.
+
+311A.1.1.1.3 311A.1.1.1.3 Existing SPC-3 or higher hospital buildings. Existing SPC-3 or higher hospital buildings.
+
+Means of egress for remodels of existing SPC-3 or higher hospital buildings shall only pass through hospital buildings that have approved performance categories of SPC-2 or higher and NPC-4 /NPC-4D or higher.
+
+Exception: The means of egress shall be permitted to pass through hospital buildings that have approved nonstructural performance categories of NPC-3, or NPC-2 if the building has an approved extension to the NPC-3 deadline. Nonstructural components in the path of egress shall be braced in accordance with the new building provisions of this code.
+
+311A.1.1.1.4 311A.1.1.1.4 Existing SPC-1 hospital buildings. Existing SPC-1 hospital buildings.
+
+Means of egress for remodels of existing SPC-1 hospital buildings shall only pass through hospital buildings that have approved performance categories of SPC-1 or higher and NPC-2 or higher.
+
+Exception: Means of egress for acute care service spaces for hospitals licensed pursuant to subdivision (a) of Section 1250 of the Health and Safety Code shall comply with the requirements of Section 311A.1.1.1.2.
+
+311A.1.1.1.5 311A.1.1.1.5 Other hospital buildings. Other hospital buildings.
+
+Hospital
+buildings that would not otherwise require evaluation for an SPC rating, which are used as a part of
+the means of egress for hospital buildings, shall be
+evaluated in accordance with the requirements of
+Section 1.3, Chapter 6, of the California Administrative Code to determine the appropriate rating, or
+shall meet the structural requirements of these regulations for conforming hospital buildings. Means of
+egress shall be in accordance with the requirements
+of Sections 311A.1.1.1.1 through 311A.1.1.1.4.
+
+311A.1.1.1.6 311A.1.1.1.6 Buildings removed from hospital service. Buildings removed from hospital service.
+
+The means of egress for acute care hospitals
+shall be permitted to pass through buildings that are
+removed from hospital service only if the buildings
+remain under the jurisdiction of OSHPD, and only
+until January 1, 2030, subject to the following:
+
+1. Egress for conforming hospital buildings shall
+be permitted to pass through buildings that
+have been removed from acute care hospital
+service that comply with the requirements of
+Section 311A.1.1.1.1 or 311A.1.1.1.3.
+
+2. Egress for nonconforming hospital buildings
+shall be permitted to pass through buildings
+that have been removed from acute care hospital service that comply with the requirements of Section 311A.1.1.1.2 or 311A.1.1.1.4.
+
+After January 1, 2030, the means of egress for
+acute care hospital buildings shall only pass
+through hospital buildings that have approved performance categories of SPC-3 or higher and NPC-5.
+
+311A.1.2 311A.1.2 Jurisdiction. Jurisdiction.
+
+Means of egress shall only pass through buildings that are under the jurisdiction of the Office of Statewide Health Planning and Development (OSHPD).
+
+SECTION SECTION 312A 312A REMOVAL OF HOSPITAL SPC AND FREESTANDING BUILDINGS FROM GENERAL ACUTE CARE SERVICE REMOVAL OF HOSPITAL SPC AND FREESTANDING BUILDINGS FROM GENERAL ACUTE CARE SERVICE
+
+312A.1 312A.1 General. General.
+
+The provisions of this section shall apply
+when hospital SPC or freestanding buildings are being
+removed from general acute care service, including when
+freestanding buildings are removed from OSHPD jurisdiction. Removal of these buildings shall satisfy the requirements of this section and the California Building Standards
+Code. OSHPD approval of construction documents and a
+building permit are required for removal.
+
+312A.1.1 312A.1.1 Buildings without approved extensions. Buildings without approved extensions.
+
+An SPC-1 hospital building without an approved delay in compliance requirements in accordance with the California
+Administrative Code (CAC) Chapter 6 Section 1.5.2 or past
+the extension date granted in accordance with the CAC
+Chapter 6 Section 1.5.2 shall not be issued a building permit until a project to remove the subject SPC-1 building
+from general acute care services has been approved, permitted and closed in compliance by the Office.
+
+Exception:Building permits for seismic compliance,
+maintenance and repair shall be permitted to be issued.
+
+312A.2 312A.2 Definitions. Definitions.
+
+The following words and terms are
+applicable to this section only:
+
+BUILDING. The area included within surrounding exterior
+walls or any combination of exterior walls and fire walls (as
+described in California Building Code Sections 202 and 706)
+exclusive of vent shafts and courts. Areas of the building not
+provided with surrounding walls shall be included in the
+building area if such areas are included within the horizontal
+projection of the roof or floor above. A building may consist
+of one or more adjacent SPC buildings.
+
+GENERAL ACUTE CARE SERVICE. Means basic and supplemental services, as defined in California Building Code Section 1224.3, provided in a general acute care building, as defined in California Building Code Section 202 and the California Administrative Code, Chapter 6, Section 1.2.
+
+STRUCTURAL SEPARATION. Means a building separation in accordance with the California Building Code.
+
+312A.3 312A.3 Establishing eligibility for removal from general acute care service. Establishing eligibility for removal from general acute care service.
+
+In order to establish that one or more SPC buildings are eligible for removal from general acute care service, the hospital owner shall submit construction documents showing that after the SPC buildings are removed from general acute care service:
+
+1.All basic acute care services or supplemental services on the hospital’s license are provided in SPC buildings satisfying the requirements for SPC-2, SPC-3, SPC-4, SPC-4D or SPC-5.
+
+Exception: If the hospital includes SPC-1 buildings
+that are not being removed from general acute care
+service, and these SPC-1 buildings have an
+approved extension to the SPC-2 deadline, basic
+acute care services or supplemental services on the
+hospital’s license are permitted to remain in these
+SPC buildings for the duration of their extension or
+until these SPC-1 buildings are removed from general acute care service, whichever comes first.
+
+2.All basic acute care services or supplemental services
+on the hospital’s license are provided in SPC buildings
+satisfying the requirements for NPC-3, NPC-4/NPC-
+4D or NPC-5.
+
+Exception: Services shall be permitted to be located
+in SPC buildings satisfying the requirements of
+NPC-2 if the SPC buildings have an approved extension to NPC-3 deadline.
+
+3.The hospital complies with all egress requirements,
+including occupant load, number of required exits and
+travel distance to exits, and provides evidence that no
+egress from any acute care hospital building passes through the SPC buildings removed from general acute
+care service, SPC-1 buildings, or through buildings not
+under OSHPD jurisdiction.
+
+Exceptions:
+
+1.If the SPC building has an approved extension
+to the SPC-2 deadline, existing egress through
+the SPC-1 building shall be permitted for the
+duration of the extension or until the SPC-1
+building is removed from general acute care
+service, whichever comes first.
+
+2.When permitted by Section 311A.1.1.1.6.
+
+4.No SPC building removed from general acute care service is used as a smoke compartment for any acute care
+hospital building. Buildings not under OSHPD jurisdiction shall not be used as a smoke compartment for
+any acute care hospital building.
+
+5.Structural separation, fire barriers and fire walls shall
+satisfy the requirements of the California Building
+Standards Code.
+
+Exception: An SPC seismic separation in accordance with the California Administrative Code
+Chapter 6 Section 3.4 shall be deemed to satisfy the
+building structural/seismic separation requirement
+in this section for SPC buildings that will remain
+under OSHPD jurisdiction.
+
+6.If the SPC building removed from general acute care
+service shares a common fire alarm system with the
+acute care hospital, the main fire alarm control panel
+shall be located in an acute care hospital building. The
+SPC building removed from general acute care service
+shall be in a separate zone monitored by the main fire
+alarm control panel. Flexible connections shall be provided for conduits/conductors crossing structural or
+SPC seismic separation joints. If the intent is to place
+the SPC building under local jurisdiction, the building
+shall satisfy Section 312A.5.1.
+
+Exception: Flexible connections for fire alarm conduits/conductors crossing seismic separation joints
+between an SPC building removed from general
+acute care service and adjacent SPC-1 or SPC-2
+buildings may be omitted, provided the fire alarm in
+the adjacent SPC-1 and SPC-2 buildings have no
+connection to any SPC-3, SPC-4, SPC-4D and SPC-
+5 buildings providing general acute care service.
+
+7.If the SPC building removed from general acute care
+service shares the fire sprinkler system with the acute
+care hospital, an isolation valve with a tamper switch
+shall be provided to isolate the portion of the system
+serving the SPC building removed from acute care service. Flexible connections shall be provided in piping
+that crosses structural or SPC seismic separation
+joints. The fire sprinkler system shall not originate in
+the SPC building removed from general acute care service. If the intent is to place the building under local
+jurisdiction, the building shall satisfy Section 312A.5.1.
+
+Exception: Flexible connections for seismic separation joints and fail safe shutoff valves, and disconnects for utilities between an SPC building removed
+from general acute care service and adjacent SPC-1
+or SPC-2 buildings may be omitted, provided utilities in the adjacent SPC-1 and SPC-2 buildings have
+no connection to any SPC-3, SPC-4, SPC-4D and
+SPC-5 buildings providing general acute care service.
+
+8.Patient access as required by California Building Code
+Section 1224.4.7.5 does not pass through an SPC
+building removed from general acute care service or
+through buildings that are not under the jurisdiction of
+OSHPD.
+
+9.The primary accessible entrance to the hospital is not
+through an SPC building removed from general acute
+care service or through buildings that are not under the
+jurisdiction of OSHPD.
+
+10.No utilities servicing acute care hospital buildings
+originate in or pass through, over or under, an SPC
+building removed from general acute care service,
+except as permitted by Section 310A.1.1.1.5, or a building not under OSHPD jurisdiction.
+
+11.If utilities originating in an acute care hospital building
+feed an SPC building removed from general acute care
+hospital service, fail safe shutoff valves and/or disconnects shall be provided that permit isolation of the SPC
+building removed from general acute care service from
+the hospital utilities. Flexible connections shall be provided for all utilities crossing structural or SPC seismic
+separation joints.
+
+Exception: Flexible connections for seismic separation joints and fail safe shutoff valves, and disconnects for utilities between an SPC building removed
+from general acute care service and adjacent SPC-1
+or SPC-2 buildings may be omitted, provided utilities in the adjacent SPC-1 and SPC-2 buildings have
+no connection to any SPC-3, SPC-4, SPC-4D and
+SPC-5 buildings providing general acute care service.
+
+312A.4 312A.4 Buildings remaining under OSHPD jurisdiction. Buildings remaining under OSHPD jurisdiction.
+
+SPC and freestanding buildings removed from acute care
+service while remaining under the jurisdiction of OSHPD
+shall be subject to the provisions of Section 312.3.
+
+312A.5 312A.5 Change in jurisdiction for buildings removed from general acute care service. Change in jurisdiction for buildings removed from general acute care service.
+
+Except as provided by Section
+312A.5.3, at the hospital’s discretion, a building removed
+from general acute care service shall be permitted to be
+placed under the jurisdiction of the local enforcement
+agency. To be eligible for a change in jurisdiction, the building removed from general acute care service shall satisfy the
+requirements of Section 312A.5.1.
+
+312A.5.1 312A.5.1 Eligibility for change in jurisdiction. Eligibility for change in jurisdiction.
+
+For a
+building removed from general acute care service to be
+eligible for a change in jurisdiction to the local enforcing
+agency, all the following criteria shall be satisfied:
+
+a.The building removed from general acute care service shall be freestanding, as defined in the California Administrative Code, Section 7-111.
+
+b.Any hospital support services located in the building removed from general acute care service, including administrative services, central sterile supply, storage, morgue and autopsy, employee dressing rooms and lockers, janitorial and housekeeping service, and laundry, shall be in excess of the minimum requirements for licensure and operation. Prior approval by the California Department of Public Health shall be obtained by hospital to locate these services in the building removed from general acute care service.
+
+c.Services/systems and utilities (e.g., power, emergency power, communication/data/nurse-call systems, space-heating systems, fire alarm system, firesprinkler system, medical gas & plumbing systems) shall be separate and independent from those serving any buildings under OSHPD jurisdiction.
+
+d.If the building being transferred to the jurisdiction of the local enforcing agency is adjacent to a building under OSHPD jurisdiction and fire-resistive construction separations are required, they shall be located in the building under OSHPD jurisdiction.
+
+312A.5.2 312A.5.2 Modification of buildings removed from OSHPD jurisdiction. Modification of buildings removed from OSHPD jurisdiction.
+
+The owner of the building shall be
+responsible for bringing the building into compliance with
+all requirements of the new authority having jurisdiction.
+If a building requires modification to become eligible for
+removal from OSHPD jurisdiction, the construction project shall be closed with compliance by OSHPD prior to
+the change in jurisdiction. All occupancy separation, setback and allowable area requirements shall be enforced.
+
+312A.5.3 312A.5.3 Buildings not eligible for change in jurisdiction. Buildings not eligible for change in jurisdiction.
+
+The following freestanding buildings shall remain
+under OSHPD jurisdiction:
+
+a. Any building in which basic and/or supplementary
+services are provided for a general acute care hospital, acute psychiatric hospital and general acute
+care hospital providing only acute medical rehabilitation center services.
+
+b. Any building which provides required patient
+access, egress or smoke compartment for a Building
+under OSHPD’s jurisdiction.
+
+c. Any building in which services under OSHPD jurisdiction are provided, including skilled nursing services, intermediate care services, acute psychiatric
+services and distinct part skilled nursing or intermediate care services.
+
+d.  Any building providing central plant or utility services to a building under OSHPD jurisdiction.
+
+e.Any building through which utilities pass through,
+over or under, to serve a building under OSHPD
+jurisdiction.
+
+312A.6 312A.6 Vacated space. Vacated space.
+
+Vacated spaces intended to remain
+vacant while under the jurisdiction of OSHPD shall be subject to the provisions of Section 312.3.5.
+
+312A.7 312A.7 Demolition. Demolition.
+
+Demolition of SPC buildings to be
+removed from general acute care services shall be permitted
+when buildings remaining under OSHPD’s jurisdiction, after
+demolition, satisfy the requirements of the California Building Standards Code and demolition activity does not impair
+the operation and/or safety of any buildings that remain
+under the OSHPD’s jurisdiction. Demolition shall be in
+accordance with California Building Code Section 3303.
+
+SECTION SECTION 313A 313A EARTHQUAKE MONITORING INSTRUMENTS FOR EXISTING BUILDINGS EARTHQUAKE MONITORING INSTRUMENTS FOR EXISTING BUILDINGS
+
+313.A.1 313.A.1 Earthquake recording instrumentation of existing buildings. Earthquake recording instrumentation of existing buildings.
+
+All owners of existing structures, selected by the
+enforcement agency for the installation of earthquakerecording instruments, shall provide space for the installation and access to such instruments. Location of said instruments shall be determined by the enforcement agency. The
+enforcement agency shall make arrangements to provide,
+maintain and service the instruments. Data shall be the property of the enforcement agency, but copies of individual
+records shall be made available to the public on request and
+the payment of an appropriate fee.
+

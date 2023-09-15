@@ -1,0 +1,97 @@
+Chapter 8 Indirect Wastes
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X			X	X			X	X	X	X	X	X	X	X								
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+801.0 General
+801.1 Applicability
+801.2 Air Gap or Air Break Required
+801.3 Food and Beverage Handling Establishments
+801.3.1 Size of Indirect Waste Pipes
+801.3.2 Walk-in Coolers
+801.3.3 Food-Handling Fixtures
+801.4 Bar and Fountain Sink Traps
+801.5 Connections From Water Distribution System
+801.6 Sterilizers
+801.7 Drip or Drainage Outlets
+802.0 Approvals
+802.1 General
+803.0 Indirect Waste Piping
+803.1 Materials
+803.2 Copper and Copper Alloys
+803.3 Pipe Size and Length
+804.0 Indirect Waste Receptors
+804.1 Standpipe Receptors
+805.0 Pressure Drainage Connections
+805.1 General
+806.0 Sterile Equipment
+806.1 General
+807.0 Appliances
+807.1 Non-Classed Apparatus
+807.2 Undiluted Condensate Waste
+807.3 Domestic Dishwashing Machine
+808.0 Cooling Water
+808.1 General
+809.0 Drinking Fountains
+809.1 General
+810.0 Steam and Hot Water Drainage Condensers and Sumps
+810.1 High-Temperature Discharge
+BOILER BLOWOFF	WATER OUTLET	VENT
+3/4*	3/4*	2
+1	1	21/2
+11/4	11/4	3
+11/2	11/2	4
+2	2	5
+21/2	21/2	6
+
+810.2 Sumps, Condensers, and Intercepting Tanks
+810.3 Cleaning
+810.4 Strainers
+811.0 Chemical Wastes
+811.1 Pretreatment
+811.2 Waste and Vent Pipes
+811.3 Joining Materials
+811.4 Access
+811.5 Permanent Record
+811.6 Chemical Vent
+811.7 Discharge
+811.8 Diluted Chemicals
+812.0 Clear Water Wastes
+812.1 General
+813.0 Swimming Pools
+813.1 General
+814.0 Condensate Waste and Control
+814.1 Condensate Disposal
+814.1.1 Condensate Pumps
+814.2 Condensate Control
+814.2.1 Protection of Appurtenances
+814.3 Condensate Waste Pipe Material and Sizing
+EQUIPMENT CAPACITY IN TONS OF REFRIGERATION	MINIMUM CONDENSATE PIPE DIAMETER (inches)
+Up to 20	3/4
+21 — 
+40	1
+41 —
+ 90	11/4
+91 —
+ 125	11/2
+126  —
+ 250	2
+
+Outside Air - 20%	Room Air - 80%
+DB	WB	DB	WB
+90°F	73°F	75°F	62.5°F
+
+814.3.1 Cleanouts
+814.4 Appliance Condensate Drains
+814.5 Point of Discharge
+814.6 Condensate Waste From Air-Conditioning Coils
+814.7 Plastic Fittings

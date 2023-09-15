@@ -1,0 +1,344 @@
+Chapter 9 Installation of Specific Appliances
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X		X					X	X				X										
+Adopt Entire Chapter asamended (amendedsections listed below)				X	X					X	X	X		X	X								
+Adopt only those sectionsthat are listed below																	X						
+Chapter / Section																							
+902.2										X	X	X		X	X								
+911.0																	X						
+911.1										X	X	X		X	X								
+911.2.2				†	†																		
+912.1				†	†																		
+912.2(1)				X	X																		
+916.2.1				X	X																		
+916.2.1.1				X	X																		
+930.0				†	†																		
+930.1				†	†																		
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+901.0 General
+901.1 Applicability
+902.0 General
+902.1 Nonindustrial Appliance
+902.2 Combustion Air From Bedroom or Bathroom
+[OSHPD 1, 1R, 2, 4 & 5] Warm air furnaces shall not be
+installed under openable windows on exterior walls.
+
+902.3 Added or Converted Appliances
+902.4 Type of Gas(es)
+902.5 Safety Shutoff Devices for Unlisted LP-Gas Appliances Used Indoors
+902.6 Fuel Input Rate
+902.7 Use of Air or Oxygen Under Pressure
+902.8 Building Structural Members
+902.8.1 Structural Capacity
+902.9 Flammable Vapors
+902.10 Solid-Fuel Burning Appliances
+902.11 Combination of Appliances and Equipment
+902.12 Protection of Gas Appliances From Fumes or Gases Other Than Products of Combustion
+902.13 Process Air
+902.14 Gas Appliance Pressure Regulators
+902.15 Venting of Gas Appliance Pressure Regulators
+902.16 Bleed Lines for Diaphragm-Type Valves
+903.0 Air-Conditioning Appliances
+903.1 Electric Air Conditioners
+903.2 Gas-Fired Air Conditioners and Heat Pumps
+903.2.1 Independent Gas Piping
+903.2.2 Connection of Gas Engine-Powered Air Conditioners
+903.2.3 Clearances for Indoor Installation
+903.2.4 Assembly and Installation
+903.2.5 Refrigeration Coils
+903.2.6 Switches in Electrical Supply Line
+904.0 Central Heating Boilers and Furnaces
+904.1 Location
+904.1.1 Self-Closing Doors
+904.1.2 Gasketing
+904.2 Clearance
+904.2.1 Listed Units
+904.2.2 Unlisted Units
+MINIMUM CLEARANCE(inches)
+APPLIANCE	ABOVE AND SIDES OF FURNACE PLENUM	TOP OF BOILER	JACKET SIDES AND REAR	FRONT	DRAFT HOOD AND BAROMETRIC DRAFT REGULATOR	SINGLE-WALL VENT CONNECTOR
+1. Automatically fired, forced air or gravity system, equipped with temperature limit control that cannot be set higher than 250°F.	6	—	6	18	6	18
+2. Automatically fired heating boilers — steam boilers operating at not over 15 pounds-force per square inch (psi) and hot water boilers operating at 250°F or less.	6	6	6	18	18	18
+3. Central heating boilers and furnaces, other than in 1 or 2.	18	18	18	18	18	18
+
+904.2.3 Listed and Unlisted Units
+904.2.4 Front Clearance
+904.2.5 Adjacent to Plaster or Noncombustible Materials
+904.2.6 Interference
+904.2.7 Central Heating Furnaces
+904.3 Assembly and Installation
+904.3.1 Under-Floor Installation
+904.3.1.1 Supported by Ground
+904.3.1.2 Supported From Above
+904.3.1.3 Excavation
+904.4 Temperature or Pressure Limiting Devices
+904.5 Low-Water Cutoff
+904.6 Steam Safety and Pressure Relief Valves
+904.6.1 Discharge
+904.6.2 Size
+904.6.3 End Connections
+904.7 Refrigeration Coils
+904.8 Cooling Units Used With Heating Boilers
+904.8.1 Exposed to Refrigerated Air Circulation
+904.9 Furnace (Upright and Horizontal)
+904.10 Solid-Fuel-Fired Furnaces
+904.11 Oil-Fired Central Furnaces
+904.12 Commercial or Industrial Gas Heaters
+904.13 Electric Central Furnaces
+905.0 Duct Furnaces
+905.1 Clearances
+905.2 Installation of Duct Furnaces
+905.3 Access Panels
+905.4 Location of Draft Hoods and Controls
+905.5 Circulating Air
+905.6 Duct Furnaces Used With Refrigeration Systems
+905.6.1 In Conjunction With Cooling Appliances
+905.6.2 Located Upstream From Cooling Coils
+905.6.3 Heat Exchangers
+905.7 Installation in Commercial Garages and Aircraft Hangars
+905.8 Electric Duct Heaters
+905.8.1 Installation
+905.8.2 Clearance
+the
+
+California Electrical Code
+
+906.0 Floor Furnaces
+906.1 Installation
+906.2 Temperature Limit Controls
+906.3 Combustion and Circulating Air
+906.4 Placement
+906.5 Bracing
+906.6 Support
+906.7 Clearance
+906.8 Access
+906.9 Seepage Pan
+906.10 Wind Protection
+906.11 Upper Floor Installations
+906.12 First Floor Installation
+906.13 Oil-Fired Floor Furnaces
+907.0 Wall Furnaces
+907.1 Installation
+907.1.1 Unlisted Wall Furnaces
+907.1.2 Vented Wall Furnaces
+907.1.3 Direct Vent Wall Furnaces
+907.1.4 Panels, Grilles, and Access Doors
+907.2 Location
+907.3 Combustion and Circulating Air
+907.4 Oil-Fired Wall Furnaces
+908.0 Clothes Dryers
+908.1 Electric Clothes Dryers
+908.2 Gas-Fired Clothes Dryers
+908.2.1 Clearance
+908.2.2 Exhausting to the Outdoors
+908.2.3 Multiple-Family or Public Use
+909.0 Conversion Burners
+909.1 General
+910.0 Burner Assemblies
+910.1 Oil Burners
+910.2 Gas Burners
+911.0 Decorative Appliances for Installation in Vented Fireplaces
+911.1 Prohibited Installations
+[OSHPD 1, 1R, 2, 4 & 5] A vented decorative appliance shall not be located in any hospital,
+skilled nursing facility, intermediate care facility, or correctional treatment center.
+
+911.2 Installation
+	MINIMUM PERMANENT FREE OPENING (square inches)*
+CHIMNEYHEIGHT(feet)	8	13	20	29	39	51	64
+APPLIANCE INPUT RATING (Btu/h)
+6	7800	14 000	23 200	34 000	46 400	62 400	80 000
+8	8400	15 200	25 200	37 000	50 400	68 000	86 000
+10	9000	16 800	27 600	40 400	55 800	74 400	96 400
+15	9800	18 200	30 200	44 600	62 400	84 000	108 800
+20	10600	20 200	32 600	50 400	68 400	94 000	122 200
+30	11200	21 600	36 600	55 200	76 800	105 800	138 600
+
+911.2.1 Listed Decorative Appliance
+911.2.2 Reserved
+Reserved
+
+911.2.3 Unlisted Decorative Appliance
+911.3 Fireplace Screens
+912.0 Gas Fireplaces, Vented
+912.1 Reserved
+Reserved
+
+912.2 Installation
+[HCD 1 & HCD 2] Any newly installed gas fireplace shall be a direct-vent sealed-combustion type.
+
+912.3 Combustion and Circulating Air
+913.0 Factory-Built Fireplaces and Fireplace Stoves
+913.1 Factory-Built Fireplaces
+913.1.1 Gasketed Fireplace Doors
+913.2 Fireplace Stoves
+913.3 Fireplace Accessories
+914.0 Non-Recirculating Direct Gas-Fired Industrial Air Heaters
+914.1 Application
+914.2 Prohibited Installations
+914.3 Installation
+914.3.1 Fresh Air Ventilation
+914.3.2 Access Required
+914.4 Clearance From Combustible Materials
+914.5 Air Supply
+914.6 Atmospheric Vents, Gas Reliefs, or Bleeds
+914.7 Relief Openings
+914.7.1 Infiltration Rate
+914.7.2 Louver or Gravity Dampers
+914.8 Purging
+915.0 Recirculating Direct Gas-Fired Industrial Air Heaters
+915.1 Application
+915.2 Prohibited Installations
+915.3 Installation
+915.4 Clearance From Combustible Materials
+915.5 Air Supply
+915.6 Atmospheric Vents, Gas Reliefs, or Bleeds
+915.7 Relief Openings
+915.7.1 Infiltration Rate
+915.7.2 Louver or Gravity Dampers
+915.8 Purging
+916.0 Room Heaters
+916.1 Electric Room Heaters
+916.2 Gas-Fired Room Heaters
+916.2.1 Prohibited Installations
+[HCD 1 & HCD 2] Unvented fuel-burning room heaters
+shall not be installed, used, maintained, or permitted to
+exist in a Group R Occupancy.
+
+916.2.1.1 Unvented Room Heaters
+[HCD 1 & HCD 2] Unvented fuel-burning room heaters shall not be installed, used, maintained, or permitted to exist in a Group R Occupancy.
+
+916.2.2 Installations in Institutions
+916.2.3 Clearance
+916.2.4 Wall-Type Room Heaters
+916.3 Solid-Fuel-Type Room Heaters
+917.0 Unit Heaters
+917.1 Support
+917.2 Clearance
+917.2.1 Floor-Mounted-Type Unit Heaters
+917.3 Combustion and Circulating Air
+917.4 Ductwork
+917.5 Installation in Commercial Garages and Aircraft Hangars
+917.6 Oil-Fired Unit Heaters
+918.0 Food Service Appliance, Floor-Mounted
+918.1 Clearance for Listed Appliances
+918.2 Clearance for Unlisted Appliances
+918.3 Mounting on Combustible Floors
+918.3.1 Not Listed for Mounting on Combustible Floors
+918.4 Installation on Noncombustible Floors
+918.5 Combustible Material Adjacent to Cooking Top
+918.6 Use With Casters
+918.7 Level Installation
+918.8 Ventilation
+919.0 Food Service Appliances, Counter Appliances
+919.1 Vertical Clearance
+919.2 Clearance for Listed Appliances
+919.3 Clearance for Unlisted Appliances
+919.4 Mounting of Unlisted Appliances
+920.0 Household Cooking Appliances
+920.1 Electric Household Cooking Appliances
+920.2 Gas-Fired Household Cooking Appliances
+920.3 Floor-Mounted Units
+920.3.1 Clearance From Combustible Material
+920.3.2 Vertical Clearance Above Cooking Top
+920.4 Built-in Units
+920.4.1 Installation
+920.4.2 Vertical Clearance
+920.4.3 Level Installation
+921.0 Cooking Appliances Listing
+921.1 Commercial Electric Ranges
+921.2 Commercial Wood-Fired Baking Ovens
+921.3 Oil-Burning Ranges
+922.0 Open-Top Broiler Units
+922.1 Listed Units
+922.2 Unlisted Units
+922.3 Protection Above Domestic Units
+922.4 Commercial Units
+923.0 Outdoor Cooking Appliances
+923.1 Listed Units
+923.2 Unlisted Units
+924.0 Illuminating Appliances
+924.1 Clearances for Listed Appliances
+924.2 Clearances for Unlisted Appliances
+924.2.1 Open-Flame Type
+FLAME HEIGHT ABOVEBURNER HEAD(inches)	MINIMUM CLEARANCE FROMCOMBUSTIBLE MATERIAL(feet)*
+HORIZONTAL	VERTICAL
+12	2	6
+18	3	8
+24	3	10
+30	4	12
+
+924.3 Mounting on Buildings
+924.4 Mounting on Posts
+924.5 Appliance Pressure Regulators
+925.0 Incinerators and Crematories
+925.1 Field Constructed Commercial-Industrial Incinerators
+925.2 Factory-Built Commercial Crematories
+925.3 Residential Incinerators
+926.0 Infrared Heaters
+926.1 Support
+926.2 Clearance
+926.3 Combustion and Ventilation Air
+926.3.1 Exhaust Openings
+926.4 Installation in Commercial Garages and Aircraft Hangars
+927.0 Pool Heaters
+927.1 Location
+927.2 Clearance
+927.3 Temperature or Pressure-Limiting Devices
+927.3.1 Pressure Relief Valve
+927.4 Bypass Valves
+927.5 Venting
+928.0 Refrigerators
+928.1 Clearance
+928.2 Venting or Ventilating Kits Approved for Use With a Refrigerator
+929.0 Gas-Fired Toilets
+929.1 Clearance
+929.2 Installation on Combustible Floors
+929.3 Vents
+930.0 Appliances for Installation in Manufactured Housing
+[Not adopted by HCD]
+
+930.1 General
+[Not adopted by HCD]
+
+931.0 Small Ceramic Kilns
+931.1 General
+931.2 Installation
+931.3 Fuel-Gas Controls
+931.4 Electrical Equipment
+931.5 Installations Inside Buildings
+931.5.1 Kiln Clearances
+931.5.2 Hoods
+931.5.3 Gravity Ventilation Ducts
+931.5.4 Makeup Air
+931.6 Exterior Installations
+932.0 Outdoor Open Flame Decorative Appliances
+932.1 General
+932.1.1 Listed Units
+932.1.2 Unlisted Units
+932.1.3 Connection to the Piping System
+933.0 Evaporative Cooling Systems
+933.1 General
+933.2 Location
+933.3 Access, Inspection, and Repair
+933.4 Installation
+933.4.1 Modifications to the Supporting Structure
+933.4.2 On the Ground
+933.4.3 On a Platform
+934.0 Refrigeration Appliances
+934.1 Self-Contained Refrigerators and Freezers
+934.2 Unit Coolers
+934.3 Self-Contained Mechanical Refrigeration Systems
+935.0 Ductless Mini-Split Systems Installation
+935.1 General
+936.0 Air Filter Appliances
+936.1 Electrostatic Air Cleaners
+936.2 High-Efficiency Particulate Air Filter Units
+937.0 Gaseous Hydrogen Systems
+937.1 General
+938.0 Compressed Natural Gas (CNG) Vehicular Fuel Systems
+938.1 General

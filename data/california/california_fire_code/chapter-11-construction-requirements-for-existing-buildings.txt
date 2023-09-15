@@ -1,0 +1,1952 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 11 – CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below			X																				
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+1103.3.3			X																				
+1103.7			X																				
+1103.7.3			X																				
+1103.7.3.1			X																				
+1103.7.8 – 1103.7.8.2			X																				
+1103.7.9 – 1103.7.9.10			X																				
+1103.8 – 1103.8.5.3			X																				
+1103.9.1			X																				
+1107			X																				
+1113			X																				
+1114			X																				
+1115			X																				
+1116			X																				* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 11 CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGS
+
+User note:
+
+About this chapter: Chapter 11 applies to existing buildings constructed prior to the adoption of the code and is intended to ensure a minimum degree of fire and life safety to persons occupying existing buildings by providing for alterations to such buildings that do not comply with the minimum requirements of the California Building Code®. The provisions address general fire safety features such as requirements for fire alarm systems in some existing buildings and general means of egress, and include a section dedicated to existing Group I-2 occupancies.
+
+SECTION 1101 GENERAL
+
+1101.1 Scope.
+
+The provisions of this chapter shall apply to existing buildings constructed prior to the adoption of this code.
+
+1101.2 Intent.
+
+The intent of this chapter is to provide a minimum degree of fire and life safety to persons occupying existing buildings by providing minimum construction requirements where such existing buildings do not comply with the minimum requirements of the California Building Code.
+
+1101.3 Permits.
+
+Permits shall be required as set forth in Sections 105.5 and 105.6 and the California Building Code.
+
+1101.4 Owner notification.
+
+When a building is found to be in noncompliance with this chapter, the fire code official shall duly notify the owner of the building. Upon receipt of such notice, the owner shall, subject to the following time limits, take necessary actions to comply with the provisions of this chapter.
+
+1101.4.1 Construction documents.
+
+Construction documents necessary to comply with this chapter shall be completed and submitted within a time schedule approved by the fire code official.
+
+1101.4.2 Completion of work.
+
+Work necessary to comply with this chapter shall be completed within a time schedule approved by the fire code official.
+
+1101.4.3 Extension of time.
+
+The fire code official is authorized to grant necessary extensions of time where it can be shown that the specified time periods are not physically practical or pose an undue hardship. The granting of an extension of time for compliance shall be based on the showing of good cause and subject to the filing of an acceptable systematic plan of correction with the fire code official.
+
+SECTION 1102 DEFINITIONS
+
+1102.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+DUTCH DOOR.
+
+EXISTING.
+
+SECTION 1103 FIRE SAFETY REQUIREMENTS FOR EXISTING BUILDINGS
+
+1103.1 Required construction.
+
+Existing buildings shall comply with not less than the minimum provisions specified in Table 1103.1 and as further enumerated in Sections 1103.2 through 1103.10.
+
+The provisions of this chapter shall not be construed to allow the elimination of fire protection systems or a reduction in the level of fire safety provided in buildings constructed in accordance with previously adopted codes.
+
+Exceptions:
+
+1.Where a change in fire-resistance rating has been approved in accordance with Section 501.2 or 802.6 of the California Existing Building Code.
+
+2.Group U occupancies.
+
+TABLE 1103.1
+
+OCCUPANCY AND USE REQUIREMENTSa
+
+	SECTION	USE	OCCUPANCY CLASSIFICATION
+High-rise	Atrium or covered mall	Under-ground building	Tire storage	A	B	E	F	H-1	H-2	H-3	H-4	H-5	I-2	I-3	I-4	M	R-1	R-2	R-3	R-4	S
+	1103.2	R	R	R	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	—	—	R
+	1103.3	R	—	R	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	—	—	R
+	1103.4.1	R	—	R	—	—	—	—	—	—	—	—	—	—	R	R	—	—	—	—	—	—	—
+	1103.4.2	R	—	R	—	R	R	R	R	R	R	R	R	R	—	—	R	R	R	R	—	—	R
+	1103.4.3	R	—	R	—	R	R	R	R	R	R	R	R	R	—	—	R	R	R	R	—	—	R
+	1103.4.4	—	R	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+	1103.4.5	—	—	—	—	—	R	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—
+	1103.4.6	—	—	—	—	R	—	R	R	R	R	R	R	R	R	R	R	—	R	R	R	R	R
+	1103.4.7	—	—	—	—	R	—	R	R	R	R	R	R	R	R	R	R	—	R	R	R	R	R
+	1103.4.8	R	—	R	—	R	R	R	R	R	R	R	R	R	—	—	R	R	R	R	R	R	R
+	1103.4.9	R	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—
+	1103.4.10	—	—	—	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	1103.5.1	—	—	—	—	Rc	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+	1103.5.2	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—
+	1103.5.3	—	—	—	—	—	—	—	—	—	—	—	—	—	Rb	—	—	—	—	—	—	—	—
+	1103.5.5	—	—	—	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	1103.6.1	R	—	R	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	—	—	R
+	1103.6.2	R	—	R	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	—	—	R
+	1103.7.1	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+	1103.7.2	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+	1103.7.3	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—
+	1103.7.4	—	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—
+	1103.7.5	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—
+	1103.7.6	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—
+	1103.8	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	R	R	R	R	—
+	1103.9	R	—	—	—	—	—	—	—	—	—	—	—	—	R	—	R	—	R	R	R	R	—
+	1103.10	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—
+	1104	R	R	R	—	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R
+	1105	—	—	—	—	—	—	—	—	—	—	—	—	—	R	—	—	—	—	—	—	—	—
+	1106	—	—	—	R	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—	—R = The building is required to comply.
+
+a. Existing buildings shall comply with the sections identified as “Required” (R) based on occupancy classification or use, or both, whichever is applicable.
+
+b. Only applies to Group I-2, Condition 2 occupancies as established by the adopting ordinance or legislation of the jurisdiction.
+
+c. Only applies to Group A-2 occupancies where alcoholic beverages are consumed.
+
+1103.1.1 Historic buildings.
+
+Facilities designated as historic buildings shall develop a fire protection plan in accordance with NFPA 914. The fire protection plans shall comply with the maintenance and availability provisions in Sections 404.3 and 404.4.
+
+1103.2 Emergency responder communication coverage in
+existing buildings.
+
+Existing buildings other than Group R-3,
+that do not have approved in-building, two-way emergency
+response communication coverage for emergency responders
+in the building based on existing coverage levels of the public
+safety communication systems, shall be equipped with such
+coverage according to one of the following:
+
+1.Where an existing wired communication system cannot be repaired or is being replaced, or where not approved in accordance with Section 510.1, Exception 1.
+
+2.Within a time frame established by the adopting authority.
+
+Exception: Where it is determined by the fire code official
+that the in-building, two-way emergency responder communication coverage system is not needed.
+
+1103.3 Existing elevators.
+
+In other than Group R-3, existing
+elevators, escalators and moving walks shall comply with the
+requirements of Sections 1103.3.1 and 1103.3.3.
+
+1103.3.1 Elevators, escalators and moving walks.
+
+Existing elevators, escalators and moving walks in Group I-2,
+Condition 2 occupancies and serving ambulatory care
+facilities shall comply with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6,
+Elevator Safety Orders.
+
+1103.3.2 Elevator emergency operation.
+
+Existing elevators with a travel distance of 25 feet (7620 mm) or more
+above or below the main floor or other level of a building and intended to serve the needs of emergency personnel
+for fire-fighting or rescue purposes shall be provided with
+emergency operation in accordance with California Code
+of Regulations, Title 8, Division 1, Chapter 4, Subchapter
+6, Elevator Safety Orders.
+
+Exceptions:
+
+1.Buildings without occupied floors located more than 55 feet (16 764 mm) above or 25 feet (7620 mm) below the lowest level of fire department vehicle access where protected at the elevator shaft openings with additional fire doors in accordance with Section 716 of the California Building Code and where all of the following conditions are met:
+
+1.1.The doors shall be provided with vision panels of approved fire-protection-rated glazing so located as to furnish clear vision of the approach to the elevator. Such glazing shall not exceed 100 square inches (0.065 m2) in area.
+
+1.2.The doors shall be held open but be automatic-closing by activation of a fire alarm initiating device installed in accordance with the requirements of NFPA 72 as for Phase I Emergency Recall Operation, and shall be located at each floor served by the elevator; in the associated elevator machine room, control space, or control room; and in the elevator hoistway, where sprinklers are located in those hoistways.
+
+1.3.The doors, when closed, shall have signs visible from the approach area stating: “WHEN THESE DOORS ARE CLOSED OR IN FIRE EMERGENCY, DO NOT USE ELEVATOR. USE EXIT STAIRWAYS.”
+
+2.Buildings without occupied floors located more than 55 feet (16 764 mm) above or 25 feet (7620 mm) below the lowest level of fire department vehicle access where provided with automatic sprinkler systems installed in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+3.Freight elevators in buildings provided with both automatic sprinkler systems installed in accordance with Section 903.3.1.1 or 903.3.1.2 and not less than one ASME 17.3-compliant elevator serving the same floors.
+
+Elimination of previously installed Phase I emergency recall or Phase II emergency in-car systems shall not be permitted.
+
+1103.3.3 1103.3.3 Medical emergency elevator. Medical emergency elevator.
+
+For existing hoistways with elevator alterations, or replacements, where the elevator car dimensions do not comply with Section 3002.4.1a of the California Building Code. The elevator car dimensions and/or the clear entrance opening dimensions may be altered where it can be demonstrated to the local jurisdictional authority’s satisfaction that the proposed configuration will accommodate the designated gurney or stretcher with equivalent ease to the existing car and/or clear entrance conditions. Written documentation from the local authority shall be provided to the California Occupational Safety and Health Elevator Unit.
+
+1103.4 Vertical openings.
+
+Interior vertical openings, including but not limited to stairways, elevator hoistways, service and utility shafts, that connect two or more stories of a building shall be enclosed or protected as specified in Sections 1103.4.1 through 1103.4.10.
+
+1103.4.1 Group I-2 and I-3 occupancies.
+
+In Group I-2 and I-3 occupancies, interior vertical openings connecting two or more stories shall be protected with 1-hour fire-resistance-rated construction.
+
+Exceptions:
+
+1.In Group I-2, unenclosed vertical openings not exceeding two connected stories and not concealed within the building construction shall be permitted as follows:
+
+1.1.The unenclosed vertical openings shall be separated from other unenclosed vertical openings serving other floors by a smoke barrier.
+
+1.2.The unenclosed vertical openings shall be separated from corridors by smoke partitions.
+
+1.3.The unenclosed vertical openings shall be separated from other fire or smoke compartments on the same floors by a smoke barrier.
+
+1.4.On other than the lowest level, the unenclosed vertical openings shall not serve as a required means of egress.
+
+2.In Group I-2, atriums connecting three or more stories shall not require 1-hour fire-resistance-rated construction where the building is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3, and all of the following conditions are met:
+
+2.1.For other than existing approved atriums with a smoke control system, where the atrium was constructed and is maintained in accordance with the code in effect at the time the atrium was created, the atrium shall have a smoke control system that is in compliance with Section 909.
+
+2.2.Glass walls forming a smoke partition or a glass-block wall assembly shall be permitted where in compliance with Condition 2.2.1 or 2.2.2.
+
+2.2.1.Glass walls forming a smoke partition shall be permitted where all of the following conditions are met:
+
+2.2.1.1.Automatic sprinklers are provided along both sides of the separation wall and doors, or on the room side only if there is not a walkway or occupied space on the atrium side.
+
+2.2.1.2.The sprinklers shall be not more than 12 inches (305 mm) away from the face of the glass and at intervals along the glass of not greater than 72 inches (1829 mm).
+
+2.2.1.3.Windows in the glass wall shall be nonoperating type.
+
+2.2.1.4.The glass wall and windows shall be installed in a gasketed frame in a manner that the framing system deflects without breaking (loading) the glass before the sprinkler system operates.
+
+2.2.1.5.The sprinkler system shall be designed so that the entire surface of the glass is wet upon activation of the sprinkler system without obstruction.
+
+2.2.2.A fire barrier is not required where a glass-block wall assembly complying with Section 2110 of the California Building Code and having a 3/4-hour fire protection rating is provided.
+
+2.3.Where doors are provided in the glass wall, they shall be either self-closing or automatic-closing and shall be constructed to resist the passage of smoke.
+
+3.In Group I-3 occupancies, exit stairways or ramps and exit access stairways or ramps constructed in accordance with Section 408 of the California Building Code.
+
+1103.4.2 Three to five stories.
+
+In other than Group I-2 and I-3 occupancies, interior vertical openings connecting three to five stories shall be protected by either 1-hour fire-resistance-rated construction or an automatic sprinkler system shall be installed throughout the building in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+Exceptions:
+
+1.Vertical opening protection is not required for Group R-3 occupancies.
+
+2.Vertical opening protection is not required for open parking garages.
+
+3.Vertical opening protection for escalators shall be in accordance with Section 1103.4.5, 1103.4.6 or 1103.4.7.
+
+4.Exit access stairways and ramps shall be in accordance with Section 1103.4.8.
+
+1103.4.3 More than five stories.
+
+In other than Group I-2 and I-3 occupancies, interior vertical openings connecting more than five stories shall be protected by 1-hour fire-resistance-rated construction.
+
+Exceptions:
+
+1.Vertical opening protection is not required for Group R-3 occupancies.
+
+2.Vertical opening protection is not required for open parking garages.
+
+3.Vertical opening protection for escalators shall be in accordance with Section 1103.4.5, 1103.4.6 or 1103.4.7.
+
+4.Exit access stairways and ramps shall be in accordance with Section 1103.4.8.
+
+1103.4.4 Atriums and covered malls.
+
+In other than Group I-2 and I-3 occupancies, interior vertical openings in a covered mall building or a building with an atrium shall be protected by either 1-hour fire-resistance-rated construction or an automatic sprinkler system shall be installed throughout the building in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+Exceptions:
+
+1.Vertical opening protection is not required for Group R-3 occupancies.
+
+2.Vertical opening protection is not required for open parking garages.
+
+3.Exit access stairways and ramps shall be in accordance with Section 1103.4.8.
+
+1103.4.5 Escalators in Group B and M occupancies.
+
+In Group B and M occupancies, escalators creating vertical openings connecting any number of stories shall be protected by either 1-hour fire-resistance-rated construction or an automatic sprinkler system in accordance with Section 903.3.1.1 installed throughout the building, with a draft curtain and closely spaced sprinklers around the escalator opening.
+
+1103.4.6 Escalators connecting four or fewer stories.
+
+In other than Group B and M occupancies, escalators creating vertical openings connecting four or fewer stories shall be protected by either 1-hour fire-resistance-rated construction or an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2 shall be installed throughout the building, and a draft curtain with closely spaced sprinklers shall be installed around the escalator opening.
+
+1103.4.7 Escalators connecting more than four stories.
+
+In other than Group B and M occupancies, escalators creating vertical openings connecting five or more stories shall be protected by 1-hour fire-resistance-rated construction.
+
+1103.4.8 Occupancies other than Groups I-2 and I-3.
+
+In other than Group I-2 and I-3 occupancies, floor openings containing exit access stairways or ramps that do not comply with one of the conditions listed in this section shall be protected by 1-hour fire-resistance-rated construction.
+
+1.Exit access stairways and ramps that serve, or atmospherically communicate between, only two stories. Such interconnected stories shall not be open to other stories.
+
+2.In Group R-1, R-2 or R-3 occupancies, exit access stairways and ramps connecting four stories or less serving and contained within an individual dwelling unit or sleeping unit or live/work unit.
+
+3.Exit access stairways and ramps in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, where the area of the vertical opening between stories does not exceed twice the horizontal projected area of the stairway or ramp, and the opening is protected by a draft curtain and closely spaced sprinklers in accordance with NFPA 13. In other than Group B and M occupancies, this provision is limited to openings that do not connect more than four stories.
+
+4.Exit access stairways and ramps within an atrium complying with the provisions of Section 404 of the California Building Code.
+
+5.Exit access stairways and ramps in open parking garages that serve only the parking garage.
+
+6.Exit access stairways and ramps serving open-air seating complying with the exit access travel distance requirements of Section 1030.7 of the California Building Code.
+
+7.Exit access stairways and ramps serving the balcony, gallery or press box and the main assembly floor in occupancies such as theaters, places of religious worship, auditoriums and sports facilities.
+
+1103.4.9 Waste and linen chutes.
+
+In Group I-2 occupancies, existing waste and linen chutes shall comply with Sections 1103.4.9.1 through 1103.4.9.5.
+
+1103.4.9.1 Enclosure.
+
+Chutes shall be enclosed with 1-hour fire-resistance-rated construction. Opening protectives shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than1 hour.
+
+1103.4.9.2 Chute intakes.
+
+Chute intakes shall comply with Section 1103.4.9.2.1 or 1103.4.9.2.2.
+
+1103.4.9.2.1 Chute intake direct from corridor.
+
+Where intake to chutes is direct from a corridor, the intake opening shall be equipped with a chute-intake door in accordance with Section 716 of the California Building Code and having a fire protection rating of not less than 1 hour.
+
+1103.4.9.2.2 Chute intake via a chute-intake room.
+
+Where the intake to chutes is accessed through a chute-intake room, the room shall be enclosed with 1-hour fire-resistance-rated construction. Opening protectives for the intake room shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 3/4 hour. Opening protectives for the chute enclosure shall be in accordance with Section 1103.4.9.1.
+
+1103.4.9.3 Automatic sprinkler system.
+
+Chutes shall be equipped with an approved automatic sprinkler system in accordance with Section 903.2.11.2.
+
+1103.4.9.4 Chute discharge rooms.
+
+Chutes shall terminate in a dedicated chute discharge room. Such rooms shall be separated from the remainder of the building by not less than 1-hour fire-resistance-rated construction. Opening protectives shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+1103.4.9.5 Chute discharge protection.
+
+Chute discharges shall be equipped with a self-closing or automatic-closing opening protective in accordance with Section 716 of the California Building Code and having a fire protection rating of not less than 1 hour.
+
+1103.4.10 Flue-fed incinerators.
+
+Existing flue-fed incinerator rooms and associated flue shafts shall be protected with 1-hour fire-resistance-rated construction and shall not have other vertical openings connected with the space other than the associated flue. Opening protectives shall be in accordance with Section 716 of the California Building Code and have a fire protection rating of not less than 1 hour.
+
+1103.5 Sprinkler systems.
+
+An automatic sprinkler system shall be provided in existing buildings in accordance with Sections 1103.5.1 through 1103.5.5.
+
+1103.5.1 Group A-2.
+
+Where alcoholic beverages are consumed in a Group A-2 occupancy having an occupant load of 300 or more, the fire area containing the Group A-2 occupancy shall be equipped with an automatic sprinkler system in accordance with Section 903.3.1.1.
+
+1103.5.2 Group I-2.
+
+In Group I-2, an automatic sprinkler system shall be provided in accordance with Section 1105.9.
+
+1103.5.3 Group I-2, Condition 2.
+
+In addition to the requirements of Section 1103.5.2, existing buildings of Group I-2, Condition 2 occupancy shall be equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.1. The automatic sprinkler system shall be installed as established by the adopting ordinance. [DATE BY WHICH SPRINKLER SYSTEM MUST BE INSTALLED].
+
+1103.5.4 High-rise buildings.
+
+Where Appendix M has not been adopted, existing high-rise buildings that do not have a previously approved fire sprinkler system shall be equipped with an automatic sprinkler system in accordance with Section 903.3.1.1 where any of the following conditions apply:
+
+1.The high-rise building has an occupied floor located more than 120 feet (36 576 mm) above the lowest level of fire department vehicle access.
+
+2.The high-rise building has occupied floors located more than 75 feet (22 860 mm) and not more than 120 feet (36 576 mm) above the lowest level of fire department vehicle access, and the building does not have at least two interior exit stairways complying with Section 1104.10 that are separated from the building interior by fire assemblies having a fireresistance rating of not less than 2 hours with opening protection in accordance with Table 716.1(2) of the California Building Code.
+
+3.The high-rise building has occupied floors located more than 75 feet (22 860 mm) and not more than 120 feet (36 576 mm) above the lowest level of fire department vehicle access, and the building does not have a fire alarm system that includes smoke detection in mechanical equipment, electrical, transformer, telephone equipment and similar rooms; corridors; elevator lobbies; and at doors penetrating interior exit stairway enclosures.
+
+Building owners shall file a compliance schedule with the fire code official not later than 365 days after receipt of a written notice. The compliance schedule shall not exceed 12 years for completion of the automatic sprinkler system retrofit.
+
+1103.5.5 Pyroxylin plastics.
+
+An automatic sprinkler system shall be provided throughout existing buildings where cellulose nitrate film or pyroxylin plastics are manufactured, stored or handled in quantities exceeding 100 pounds (45 kg). Vaults located within buildings for the storage of raw pyroxylin shall be protected with an approved automatic sprinkler system capable of discharging 1.66 gallons per minute per square foot (68 L/min/m2) over the area of the vault.
+
+1103.6 Standpipes.
+
+Existing structures shall be equipped with standpipes installed in accordance with Section 905 where required in Sections 1103.6.1 and 1103.6.2. The fire code official is authorized to approve the installation of manual standpipe systems to achieve compliance with this section where the responding fire department is capable of providing the required hose flow at the highest standpipe outlet.
+
+1103.6.1 Existing multiple-story buildings.
+
+Existing buildings with occupied floors located more than 50 feet (15 240 mm) above the lowest level of fire department access or more than 50 feet (15 240 mm) below the highest level of fire department access shall be equipped with standpipes.
+
+1103.6.2 Existing helistops and heliports.
+
+Existing buildings with a rooftop helistop or heliport located more than 30 feet (9144 mm) above the lowest level of fire department access to the roof level on which the helistop or heliport is located shall be equipped with standpipes in accordance with Section 2007.5.
+
+1103.7 Fire alarm systems.
+
+An approved fire alarm system shall be installed in existing buildings and structures in accordance with Sections 1103.7.1 through 1103.7.6 and provide occupant notification in accordance with Section 907.5 unless other requirements are provided by other sections of this code. Existing high-rise buildings shall comply with Section 1103.7.9.
+
+Exception: Occupancies with an existing, previously approved fire alarm system.
+
+1103.7.1 Group E.
+
+A fire alarm system shall be installed in existing Group E occupancies in accordance with Section 907.2.3.
+
+Exceptions:
+
+1.A manual fire alarm system is not required in a building with a maximum area of 1,000 square feet (93 m2) that contains a single classroom and is located not closer than 50 feet (15 240 mm) from another building.
+
+2.A manual fire alarm system is not required in Group E occupancies with an occupant load less than 50.
+
+1103.7.2 Reserved. Reserved.
+
+1103.7.3 Group I-2 and Group I-2.1. and Group I-2.1
+
+In Group I-2  and Group I-2.1, an automatic fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in accordance with Section 1105.10.
+
+1103.7.3.1 Additional provisions for existing Group I occupancies.
+
+In projects requiring the Office of Statewide Health Planning and Development approval in existing Group I-2 and I-2.1 occupancies located in buildings defined as hospitals in Section 1250 of the Health and Safety Code, facilities not equipped with an automatic sprinkler system throughout shall be equipped with an automatic fire alarm system which responds to the products of combustion other than heat.
+
+Exception: Heat detectors may be used in closets, unusable spaces under floor areas, storage rooms, bathrooms and rooms of similar use.
+
+1103.7.4 Group I-3.
+
+An automatic and manual fire alarm system shall be installed in existing Group I-3 occupancies in accordance with Section 907.2.6.3.
+
+1103.7.5 Group R-1.
+
+A fire alarm system and smoke alarms shall be installed in existing Group R-1 occupancies in accordance with Sections 1103.7.5.1 through 1103.7.5.2.1.
+
+1103.7.5.1 Group R-1 hotel and motel manual fire alarm system.
+
+A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in existing Group
+R-1 hotels and motels more than one story in height or
+with more than 20 sleeping units.
+
+Exceptions:
+
+1.A manual fire alarm system is not required in
+buildings less than two stories in height where
+all sleeping units, attics and crawl spaces are
+separated by 1-hour fire-resistance-rated construction and each sleeping unit has direct
+access to a public way, egress court or yard.
+
+2.A manual fire alarm system is not required in buildings not more than three stories in height with not more than 20 sleeping units and equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+3.Manual fire alarm boxes are not required
+throughout the building where the following
+conditions are met:
+
+3.1.The building is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2.
+
+3.2.The notification appliances will activate upon sprinkler water flow.
+
+3.3.Not less than one manual fire alarm box is installed at an approved location.
+
+1103.7.5.1.1 Group R-1 hotel and motel automatic smoke detection system.
+
+An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.5 shall be installed in existing Group R-1 hotels and motels throughout all interior corridors serving sleeping rooms not equipped with an approved, supervised automatic sprinkler system installed in accordance with Section 903.
+
+Exception: An automatic smoke detection system is not required in buildings that do not have interior corridors serving sleeping units and where each sleeping unit has a means of egress door opening directly to an exit or to an exterior exit access that leads directly to an exit.
+
+1103.7.5.2 Group R-1 boarding and rooming houses manual fire alarm system.
+
+A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in existing Group R-1 boarding and rooming houses.
+
+Exception: Buildings less than two stories in height where all sleeping units, attics and crawl spaces are separated by 1-hour fire-resistance-rated construction and each sleeping unit has direct access to a public way, egress court or yard.
+
+1103.7.5.2.1 Group R-1 boarding and rooming houses automatic smoke detection system.
+
+An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.5 shall be installed in existing Group R-1 boarding and rooming houses throughout all interior corridors serving sleeping units not equipped with an approved, supervised sprinkler system installed in accordance with Section 903.
+
+Exception: Buildings equipped with single-station smoke alarms meeting or exceeding the requirements of Section 907.2.11.1 and where the fire alarm system includes not less than one manual fire alarm box per floor arranged to initiate the alarm.
+
+1103.7.6 Group R-2.
+
+A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in existing Group R-2 occupancies more than three stories in height or with more than 16 dwelling or sleeping units.
+
+Exceptions:
+
+1.Where each living unit is separated from other contiguous living units by fire barriers having a fire-resistance rating of not less than 3/4 hour, and where each living unit has either its own independent exit or its own independent stairway or ramp discharging at grade.
+
+2.A separate fire alarm system is not required in buildings that are equipped throughout with an approved supervised automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2 and having a local alarm to notify all occupants.
+
+3.A fire alarm system is not required in buildings that do not have interior corridors serving dwelling units and are protected by an approved automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2, provided that dwelling units either have a means of egress door opening directly to an exterior exit access that leads directly to the exits or are served by open-ended corridors designed in accordance with Section 1027.6, Exception 3.
+
+4.A fire alarm system is not required in buildings that do not have interior corridors serving dwelling units, do not exceed three stories in height and comply with both of the following:
+
+4.1.Each dwelling unit is separated from other contiguous dwelling units by fire barriers having a fire-resistance rating of not less than 3/4 hour.
+
+4.2.Each dwelling unit is provided with
+smoke alarms complying with the
+requirements of Section 907.2.11.
+
+1103.7.8 Existing Group R-1 and Group R-2 High-rise buildings.
+
+See Section 1113.3.
+
+1103.7.8.1 General.
+
+Every apartment house and every hotel shall have installed therein an automatic or manually operated fire alarm system. Such fire alarm systems shall be so designed that all occupants of the building may be warned simultaneously.
+
+1103.7.8.2 Installation.
+
+The installation of all fire alarm equipment shall be in accordance with this code.
+
+1103.7.9 Existing High-rise Buildings.
+
+1103.7.9.1 Fire alarm system.
+
+Every existing high-rise building shall be provided with an approved fire alarm system. In department stores, retail sales stores and similar occupancies where the general public is admitted, such systems shall be of a type capable of alerting staff and employees. In office buildings and all other high-rise buildings, such systems shall be of a type capable of alerting all occupants simultaneously.
+
+Exceptions:
+
+1.In areas of public assemblage, the type and location of audible appliances shall be as determined by the enforcing agency.
+
+2.When acceptable to the enforcing agency, the occupant voice notification system required by Section 1114.20 and California Existing Building Code may be used in lieu of the fire alarm system.
+
+1103.7.9.2 Existing systems.
+
+Existing fire alarm systems, when acceptable to the enforcing agency, shall be deemed as conforming to the provisions of these regulations.
+
+1103.7.9.3 Annunciation.
+
+When a new fire alarm system is installed, it shall be connected to an annunciator panel installed in a location approved by the enforcing agency.
+
+For purposes of annunciation, zoning shall be in accordance with Section 907.6.4.4.
+
+1103.7.9.4 Monitoring.
+
+Monitoring shall be in accordance with Section 907.6.6.
+
+1103.7.9.5 Systems interconnection.
+
+When an automatic fire detection system or automatic extinguishing system is installed, activation of such system shall cause the sounding of the fire alarm notification appliances at locations designated by the enforcing agency.
+
+1103.7.9.6 Manual fire alarm boxes.
+
+A manual fire alarm box shall be provided in the locations designated by the enforcing agency. Such locations shall be where boxes are readily accessible and visible and in normal paths of daily travel by occupants of the building.
+
+1103.7.9.7 Emergency voice/alarm communication system.
+
+Such system shall provide communication from a location available to and designated by the enforcing agency to not less than all public areas.
+
+The emergency voice/alarm communication system may be combined with a fire alarm system provide the combined system has been approved and listed by the State Fire Marshal. The sounding of a fire alarm signal in any given area or floor shall not prohibit voice communication to other areas of floors. Combination systems shall be designed to permit voice transmission to override the fire alarm signal, but the fire alarm signal shall not terminate in less than three minutes.
+
+1103.7.9.8 Fire department system.
+
+When it is determined by test that portable fire department communication equipment is ineffective, a communication system acceptable to the enforcing agency shall be installed within the building to permit emergency communication between fire-suppression personnel.
+
+1103.7.9.9 Smoke control systems.
+
+Existing air-circulation systems shall be provided with an override switch in a location approved by the enforcing agency which will allow for the manual control of shutdown of the systems.
+
+Exception: Systems which serve only a single floor, or portion thereof, without any penetration by ducts or other means into adjacent floors.
+
+1103.7.9.10 Elevator recall smoke detection.
+
+Smoke detection for emergency operation of elevators shall be provided in accordance with Section 907.3.3.
+
+1103.8 Single- and multiple-station smoke alarms.
+
+Single- and multiple-station smoke alarms shall be installed in existing Group R occupancies in accordance with Sections 1103.8.1 through 1103.8.3.
+
+
+
+
+
+1103.8.1 Where required.
+
+Existing Group R occupancies shall be provided with single-station smoke alarms in accordance with Section 907.2.11. Interconnection and power sources shall be in accordance with Sections 1103.8.2 and 1103.8.3, respectively.
+
+Exceptions:
+
+1.Where the code that was in effect at the time of construction required smoke alarms and smoke alarms complying with those requirements are already provided.
+
+2.Where smoke alarms have been installed in occupancies and dwellings that were not required to have them at the time of construction, additional smoke alarms shall not be required provided that the existing smoke alarms comply with requirements that were in effect at the time of installation.
+
+3.Where smoke detectors connected to a fire alarm system have been installed as a substitute for smoke alarms.
+
+1103.8.2 Interconnection.
+
+Where more than one smoke alarm is required to be installed within an individual dwelling or sleeping unit, the smoke alarms shall be interconnected in such a manner that the activation of one alarm will activate all of the alarms in the individual unit. Physical interconnection of smoke alarms shall not be required where listed wireless alarms are installed and all alarms sound upon activation of one alarm. The alarm shall be clearly audible in all bedrooms over background noise levels with all intervening doors closed.
+
+Exceptions:
+
+1.Interconnection is not required in buildings that are not undergoing alterations, repairs or construction of any kind.
+
+2.Smoke alarms in existing areas are not required to be interconnected where alterations or repairs do not result in the removal of interior wall or ceiling finishes exposing the structure, unless there is an attic, crawl space or basement available that could provide access for interconnection without the removal of interior finishes.
+
+3. Smoke alarms are not required to be interconnected where repairs or alterations are limited to the exterior surfaces of dwellings, such as the replacement of roofing or siding, or the addition or replacement of windows or doors, or the addition of a porch or deck.
+
+4. Smoke alarms are not required to be interconnected when work is limited to the installation, alteration or repairs of plumbing or mechanical systems or the installation, alteration or repair of electrical systems which do not result in the removal of interior wall or ceiling finishes exposing the structure.
+
+1103.8.3 Power source.
+
+Single-station smoke alarms shall receive their primary power from the building wiring provided that such wiring is served from a commercial source and shall be equipped with a battery backup. Smoke alarms with integral strobes that are not equipped with battery backup shall be connected to an emergency electrical system. Smoke alarms shall emit a signal when the batteries are low. Wiring shall be permanent and without a disconnecting switch other than as required for overcurrent protection.
+
+Exceptions:
+
+1.Smoke alarms are permitted to be solely battery operated in existing buildings where construction is not taking place.
+
+2.Smoke alarms are permitted to be solely battery operated in buildings that are not served from a commercial power source.
+
+3.Smoke alarms are permitted to be solely battery operated in existing areas of buildings undergoing alterations or repairs that do not result in the removal of interior walls or ceiling finishes exposing the structure, unless there is an attic, crawl space or basement available that could provide access for building wiring without the removal of interior finishes.
+
+4.Smoke alarms are permitted to be solely battery operated where repairs or alterations are limited to the exterior surfaces of dwellings, such as the replacement of roofing or siding, or the addition or replacement of windows or doors, or the addition of a porch or deck.
+
+5.Smoke alarms are permitted to be solely battery operated when work is limited to the installation, alteration or repairs of plumbing or mechanical systems or the installation, alteration or repair of electrical systems which do not result in the removal of interior wall or ceiling finishes exposing the structure.
+
+1103.8.4 Group R-3.1.
+
+In all facilities housing a bedridden client, smoke alarms shall receive their primary power from the building wiring when such wiring is served from a commercial source and shall be equipped with a battery backup. Smoke alarms shall be electrically interconnected so as to cause all smoke alarms to sound a distinctive alarm signal upon actuation of any single smoke alarm. Such alarm signal shall be audible throughout the facility at a minimal level of 15 db above ambient noise level. These devices need not be interconnected to any other fire alarm device, have a control panel, or be electrically supervised or provided with emergency power.
+
+1103.8.5 Additional provisions for existing Group R occupancies.
+
+1103.8.5.1
+
+Existing Buildings housing Group R occupancies established prior to the effective date of these regulations may have their use continued if they conform or are made to conform to provisions of these regulations to the extent that reasonable and adequate life safety against the hazards of fire, panic and explosion is substantially provided. Additional means of egress, the installation of automatic sprinkler systems, automatic fire alarm system or other life safety measures, may be required to provide reasonable and adequate safety.
+
+Note: It is the intent of this section that every existing occupancy need not mandatorily conform with the requirements for new construction. Reasonable judgment in the application of requirements must be exercised by the enforcing agency.
+
+1103.8.5.2
+
+For purposes of clarification, Health and Safety Code, Section 13113.7 is repeated.
+
+(a)Except as otherwise provided in this section, smoke alarms, approved and listed by the State Fire Marshal pursuant to Section 13114 at the time of installation, shall be installed in accordance with the manufacturer’s instructions in each dwelling intended for human occupancy:
+
+(1)For all dwelling units intended for human occupancy, upon the owner’s application on or after January 1, 1985, for a permit for alterations, repairs or additions, exceeding one thousand dollars ($1,000).
+
+(2)For all other dwelling units intended for human occupancy for which a building permit is issued on or after January 1, 2014, for alterations, repairs or additions exceeding one thousand dollars ($1,000), the permit issuer shall not sign off on the completion of work until the permittee demonstrates that all smoke alarms required for the dwelling unit are devices approved and listed by the State Fire Marshal pursuant to Section 13114.
+
+(3) However, if any local rule, regulation or ordinance, adopted prior to January 1, 1987, requires installation in a dwelling unit intended for human occupancy of smoke alarms which receive their power from the electrical system of the building and requires compliance with the local rule, regulation or ordinance at a date subsequent to the dates specified in this section, the compliance date specified in the rule, regulation or ordinance shall, but only with respect to the dwelling units specified in this section, take precedence over the date specified in this section.
+
+(4)Unless prohibited by local rules, regulations or ordinances, a battery-operated smoke alarm, which otherwise met the standards adopted pursuant to Section 13114 for smoke alarms at the time of installation, satisfies the requirements of this section.
+
+(5)A fire alarm system with smoke detectors installed in accordance with the State Fire Marshal’s regulations may be installed in lieu of smoke alarms required pursuant to paragraph (1) or (2) of this subdivision, or paragraph (3) of subdivision (d).
+
+(b)“Dwelling units intended for human occupancy,” as used in this section, includes a duplex, lodging house, apartment complex, hotel, motel, condominium, stock cooperative, time-share project or dwelling unit of a multiple-unit dwelling complex. For the purpose of this part, “dwelling units intended for human occupancy” does not include manufactured homes as defined in Section 18007, mobilehomes as defined in Section 18008, and commercial coaches as defined in Section 18001.8.
+
+(c)A high-rise structure, as defined in subdivision (b) of Section 13210 and regulated by Chapter 3 (commencing with Section 13210), and which is used for purposes other than as dwelling units intended for human occupancy, is exempt from the requirements of this section.
+
+(d)(1)The owner shall be responsible for testing and maintaining alarms in hotels, motels, lodging houses, apartment complexes and other multiple-dwelling complexes in which units are neither rented nor leased.
+
+(2)The owner of a hotel, motel, lodging house, apartment complex or other multiple-dwelling complex in which units are rented or leased, and commencing January 1, 2014, the owner of a single-family dwelling that is rented or leased, shall be responsible for testing and maintaining alarms required by this section as follows:
+
+(A)An owner or the owner’s agent may enter any dwelling unit, efficiency dwelling unit, guest room and suite owned by the owner for the purpose of installing, repairing, testing and maintaining single station smoke alarms required by this section. Except in cases of emergency, the owner or owner’s agent shall give the tenants of each such unit, room or suite reasonable notice in writing of the intention to enter and shall enter only during normal business hours. Twenty-four hours shall be presumed to be reasonable notice in absence of evidence to the contrary.
+
+(B)At the time that a new tenancy is created, the owner shall ensure that smoke alarms are operable. The tenant shall be responsible for notifying the manager or owner if the tenant becomes aware of an inoperable smoke alarm within his or her unit. The owner or authorized agent shall correct any reported deficiencies in the smoke alarm and shall not be in violation of this section for a deficient smoke alarm when he or she has not received notice of the deficiency.
+
+(3)On or before January 1, 2016, the owner of a dwelling unit intended for human occupancy in which one or more units is rented or leased shall install additional smoke alarms, as needed, to ensure that smoke alarms are located in compliance with current building standards. Existing alarms need not be replaced unless the alarm is inoperable. New smoke alarms installed in compliance with current building standards may be battery operated provided the alarms have been approved by the State Fire Marshal for sale in the state. This paragraph shall not apply to fire alarm systems with smoke detectors, fire alarm devices that connect to a panel, or other devices that use a low-power radio frequency wireless communication signal.
+
+(e)A violation of this section is an infraction punishable by a maximum fine of two hundred dollars ($200) for each offense.
+
+(f)This section shall not affect any rights which the parties may have under any other provision of law because of the presence or absence of a smoke alarm.
+
+(Amended by Stats. 2012, Ch. 420, Sec. 1. Effective January 1, 2013.)
+
+1103.8.5.3
+
+For purposes of clarification, Health and Safety Code Section 13113.8 is repeated.
+
+(a) On and after January 1, 1986, every single-family dwelling and factory-built housing, as defined in Section 19971, which is sold shall have an operable smoke detector. The detector shall be approved and listed by the State Fire Marshal and installed in accordance with the State Fire Marshal's regulations. Unless prohibited by local rules, regulations or ordinances, a battery-operated smoke detector shall be deemed to satisfy the requirements of this section.
+
+(b) On and after January 1, 1986, the transferor of any real property containing a single-family dwelling, as described in subdivision (a), whether the transfer is made by sale, exchange or real property sales contract, as defined in Section 2985 of the Civil Code, shall deliver to the transferee a written statement indicating that the transferor is in compliance with this section. The disclosure statement shall be either included in the receipt for deposit in a real estate transaction, an addendum attached thereto, or a separate document.
+
+(c) The transferor shall deliver the statement referred to in subdivision (b) as soon as practicable before the transfer of title in the case of a sale or exchange, or prior to execution of the contract where the transfer is by a real property sales contract, as defined in Section 2985. or purposes of this subdivision, “delivery” means delivery in person or by mail to the transferee or transferor, or to any person authorized to act for him or her in the transaction, or to additional transferees who have requested delivery from the transferor in writing. Delivery to the spouse of a transferee or transferor shall be deemed delivery to a transferee or transferor, unless the contract states otherwise.
+
+(d) This section does not apply to any of the following:
+
+(1) Transfers which are required to be preceded by the furnishing to a prospective transferee of a copy of a public report pursuant to Section 11018.1 of the Business and Professions Code.
+
+(2) Transfers pursuant to court order, including, but not limited to, transfers ordered by a probate court in the administration of an estate, transfers pursuant to a writ of execution, transfers by a trustee in bankruptcy, transfers by eminent domain or transfers resulting from a decree for specific performance.
+
+(3) Transfers to a mortgagee by a mortgagor in default, transfers to a beneficiary of a deed of trust by a trustor in default, transfers by any fore-closure sale after default, transfers by any fore-closure sale after default in an obligation secured by a mortgage, or transfers by a sale under a power of sale after a default in an obligation secured by a deed of trust or secured by any other instrument containing a power of sale.
+
+(4) Transfers by a fiduciary in the course of the administration of a decedent’s estate, guardianship, conservatorship or trust.
+
+(5) Transfers from one co-owner to one or more co-owners.
+
+(6) Transfers made to a spouse, or to a person or persons in the lineal line of consanguinity of one or more of the transferors.
+
+(7) Transfers between spouses resulting from a decree of dissolution of a marriage, from a decree of legal separation, or from a property settlement agreement incidental to either of those decrees.
+
+(8) Transfers by the Controller in the course of administering the Unclaimed Property Law provided for in Chapter 7 (commencing with Section 1500) of Title 10 of Part 3 of the Code of Civil Procedure.
+
+(9) Transfers under the provisions of Chapter 7 (commencing with Section 3691) or Chapter 8 (commencing with Section 3771) of Part 6 of Division 1 of the Revenue and Taxation Code.
+
+(e) No liability shall arise, nor any action be brought or maintained against any agent of any party to a transfer of title, including any person or entity acting in the capacity of an escrow, for any error, inaccuracy or omission relating to the disclosure required to be made by a transferor pursuant to this section.
+
+However, this subdivision does not apply to a licensee, as defined in Section 10011 of the Business and Professions Code, where the licensee participates in the making of the disclosure required to be made pursuant to this section with actual knowledge of the falsity of the disclosure.
+However, this subdivision does not apply to a licensee, as defined in Section 10011 of the Business and Professions Code, where the licensee participates in the making of the disclosure required to be made pursuant to this section with actual knowledge of the falsity of the disclosure.
+
+(f) Except as otherwise provided in this section, this section shall not be deemed to create or imply a duty upon a licensee, as defined in Section 10011 of the Business and Professions Code, or upon any agent of any party to a transfer of title, including any person or entity acting in the capacity of an escrow, to monitor or ensure compliance with this section.
+
+(g) No transfer of title shall be invalidated on the basis of a failure to comply with this section, and the exclusive remedy for the failure to comply with this section is an award of actual damages not to exceed one hundred dollars ($100), exclusive of any court costs and attorney’s fees.
+
+(h) Local ordinances requiring smoke detectors in single-family dwellings may be enacted or amended. However, the ordinances shall satisfy the minimum requirements of this section.
+
+(i) For the purposes of this section, “single-family dwelling” does not include a manufactured home as defined in Section 18007, a mobilehome as defined in Section 18008, or a commercial coach as defined in Section 18001.8.
+
+(j) This section shall not apply to the installation of smoke detectors in dwellings intended for human occupancy, as defined in and regulated by Section 13113.7 of the Health and Safety Code, as added by Senate Bill No. 1448 in the 1983-84 Regular Session.
+
+1103.9 Carbon monoxide detection.
+
+Carbon monoxide
+detection shall be installed in existing Group I-1, I-2, I-4 and
+R occupancies and in classrooms in Group E occupancies
+where those units include any of the conditions identified in Sections 915.1.2 through 915.1.6. The carbon monoxide alarms shall be installed in the locations specified in Section 915.2 and the installation shall be in accordance with Section 915.4.
+
+Exceptions:
+
+1.Carbon monoxide alarms are permitted to be solely battery operated where the code that was in effect at the time of construction did not require carbon monoxide detectors to be provided.
+
+2.Carbon monoxide alarms are permitted to be solely battery operated in dwelling units that are not served from a commercial power source.
+
+3.A carbon monoxide detection system in accordance with Section 915.5 shall be an acceptable alternative to carbon monoxide alarms.
+
+1103.9.1 Carbon monoxide detection in existing Group E buildings.
+
+For the purposes of carbon monoxide detection, an existing Group E is a building constructed before January 1, 2017. When an existing Group E occupancy has a fossil-fuel-burning furnace located inside the building, the school is encouraged to install carbon monoxide detection in accordance with the California Existing Building Code.
+
+No person shall install, market, distribute, offer for sale or sell any carbon monoxide device in the state of California unless the device and instructions have been approved and listed by the Office of the State Fire Marshal.
+
+1103.10 Medical gases.
+
+Medical gases stored and transferred in health-care-related facilities shall be in accordance with Chapter 53.
+
+SECTION 1104 MEANS OF EGRESS FOR EXISTING BUILDINGS
+
+1104.1 General.
+
+Means of egress in existing buildings shall comply with the minimum egress requirements where specified in Table 1103.1 as further enumerated in Sections 1104.2 through 1104.25, and the building code that applied at the time of construction. Where the provisions of this chapter conflict with the building code that applied at the time of construction, the most restrictive provision shall apply. Existing buildings that were not required to comply with a building code at the time of construction shall comply with the minimum egress requirements where specified in Table 1103.1 as further enumerated in Sections 1104.2 through 1104.25.
+
+1104.2 Elevators, escalators and moving walks.
+
+Elevators, escalators and moving walks shall not be used as a component of a required means of egress.
+
+Exceptions:
+
+1.Elevators used as an accessible means of egress where allowed by Section 1009.4.
+
+2.Previously approved elevators, escalators and moving walks in existing buildings.
+
+1104.3 Exit sign illumination.
+
+Exit signs shall be internally or externally illuminated. The face of an exit sign illuminated from an external source shall have an intensity of not less than 5 footcandles (54 lux). Internally illuminated signs shall provide equivalent luminance and be listed for the purpose.
+
+Exception: Approved self-luminous signs that provide evenly illuminated letters shall have a minimum luminance of 0.06 foot-lamberts (0.21 cd/m2).
+
+1104.4 Power source.
+
+Where emergency illumination is required in Section 1104.5, exit signs shall be visible under emergency illumination conditions.
+
+Exception: Approved signs that provide continuous illumination independent of external power sources are not required to be connected to an emergency electrical system.
+
+1104.5 Illumination emergency power.
+
+Where means of egress illumination is provided, the power supply for means of egress illumination shall normally be provided by the premises’ electrical supply. In the event of power supply failure, illumination shall be automatically provided from an emergency system for the following occupancies where such occupancies require two or more means of egress:
+
+1.Group A having 50 or more occupants.
+
+Exception: Assembly occupancies used exclusively as a place of worship and having an occupant load of less than 300.
+
+2.Group B buildings three or more stories in height, buildings with 100 or more occupants above or below a level of exit discharge serving the occupants or buildings with 1,000 or more total occupants.
+
+3.Group E in interior exit access and exit stairways and ramps, corridors, windowless areas with student occupancy, shops and laboratories.
+
+4.Group F having more than 100 occupants.
+
+Exception: Buildings used only during daylight hours and that are provided with windows for natural light in accordance with the California Building Code.
+
+5.Group I.
+
+6.Group M.
+
+Exception: Buildings less than 3,000 square feet (279 m2) in gross sales area on one story only, excluding mezzanines.
+
+7.Group R-1.
+
+Exception: Where each sleeping unit has direct access to the outside of the building at grade.
+
+8.Group R-2.
+
+Exception: Where each dwelling unit or sleeping unit has direct access to the outside of the building at grade.
+
+1104.5.1 Emergency power duration and installation.
+
+Emergency power for means of egress illumination shall be provided in accordance with Section 1203. In other than Group I-2, emergency power shall be provided for not less than 60 minutes for systems requiring emergency power.
+
+1104.6 Guards.
+
+Guards complying with this section shall be provided at the open sides of means of egress that are more than 30 inches (762 mm) above the floor or grade below.
+
+1104.6.1 Height of guards.
+
+Guards shall form a protective barrier not less than 42 inches (1067 mm) high.
+
+Exceptions:
+
+1.Existing guards on the open side of stairways shall be not less than 30 inches (760 mm) high.
+
+2.Existing guards within dwelling units shall be not less than 36 inches (910 mm) high.
+
+3.Existing guards in assembly seating areas.
+
+1104.6.2 Opening limitations.
+
+Open guards shall have balusters or ornamental patterns such that a 6-inch-diameter (152 mm) sphere cannot pass through any opening up to a height of 34 inches (864 mm).
+
+Exceptions:
+
+1.At elevated walking surfaces for access to, and use of, electrical, mechanical or plumbing systems or equipment, guards shall have balusters or be of solid materials such that a sphere with a diameter of 21 inches (533 mm) cannot pass through any opening.
+
+2.In occupancies in Group I-3, F, H or S, the clear distance between intermediate rails measured at right angles to the rails shall not exceed 21 inches (533 mm).
+
+3.Approved existing open guards.
+
+1104.7 Size of doors.
+
+The required capacity of each door opening shall be sufficient for the occupant load thereof and shall provide a minimum clear opening width of 28 inches (711 mm). Where this section requires a minimum clear opening width of 28 inches (711 mm) and a door opening includes two door leaves without a mullion, one leaf shall provide a clear opening width of 28 inches (711 mm). The minimum clear opening height of doorways shall be 80 inches (2032 mm).
+
+Exceptions:
+
+1.The minimum and maximum width shall not apply to door openings that are not part of the required means of egress in occupancies in Group R-2 and R-3 units that are not required to be an Accessible Type A unit or Type B unit.
+
+2.Door openings to storage closets less than 10 square feet (0.93 m2) in area shall not be limited by the minimum clear opening width.
+
+3.The width of door leaves in revolving doors that comply with Section 1010.3.1 shall not be limited.
+
+4.The maximum width of door leaves in power-operated doors that comply with Section 1010.3.2 shall not be limited.
+
+5.Door openings within a dwelling unit shall have a minimum clear opening height of 78 inches (1981 mm).
+
+6.In dwelling and sleeping units that are not required to be Accessible units, Type A units or Type B units, exterior door openings, other than the required exit door, shall have a minimum clear opening height of 76 inches (1930 mm).
+
+7.Exit access doors serving a room not larger than 70 square feet (6.5 m2) shall have a minimum door leaf width of 24 inches (610 mm).
+
+8.The minimum clear opening width shall not apply to doors for nonaccessible showers or sauna compartments.
+
+9.The minimum clear opening width shall not apply to the doors for nonaccessible toilet stalls.
+
+10.Door closers and door stops shall be permitted to be 78 inches (1980 mm) minimum above the floor.
+
+1104.7.1 Group I-2.
+
+In Group I-2 occupancies, means of egress doors where used for the movement of beds shall provide a minimum clear opening width of 411/2 inches (1054 mm).
+
+Doors serving as means of egress doors and not used for movement of beds shall provide a minimum clear opening width of 32 inches (813 mm).
+
+1104.7.2 Ambulatory care.
+
+In ambulatory care facilities, doors serving as means of egress from patient treatment rooms shall provide a minimum clear opening width of 32 inches (813 mm).
+
+1104.8 Opening force for doors.
+
+The opening force for interior side-swinging doors without closers shall not exceed a 5-pound (22 N) force. The opening forces do not apply to the force required to retract latch bolts or disengage other devices that hold the door in a closed position. For other side-swinging, sliding and folding doors, the door latch shall release when subjected to a force of not more than 15 pounds (66 N). The door shall be set in motion when subjected to a force not exceeding 30 pounds (133 N). The door shall swing to a full-open position when subjected to a force of not more than 50 pounds (222 N). Forces shall be applied to the latch side.
+
+1104.9 Revolving doors.
+
+Revolving doors shall comply with the following:
+
+1.A revolving door shall not be located within 10 feet (3048 mm) of the foot or top of stairways or escalators. A dispersal area shall be provided between the stairways or escalators and the revolving doors.
+
+2.The revolutions per minute for a revolving door shall not exceed those shown in Table 1104.9.
+
+3.Each revolving door shall have a conforming side-hinged swinging door in the same wall as the revolving door and within 10 feet (3048 mm).
+
+Exceptions:
+
+1.A revolving door is permitted to be used without an adjacent swinging door for street-floor elevator lobbies provided that a stairway, escalator or door from other parts of the building does not discharge through the lobby and the lobby does not have any occupancy or use other than as a means of travel between elevators and a street.
+
+2.Existing revolving doors where the number of revolving doors does not exceed the number of swinging doors within 20 feet (6096 mm).
+
+TABLE 1104.9
+
+REVOLVING DOOR SPEEDS
+
+INSIDE DIAMETER (feet-inches)	POWER-DRIVEN-TYPE SPEED CONTROL (rpm)	MANUAL-TYPE SPEED CONTROL (rpm)
+6-6	11	12
+7-0	10	11
+7-6	9	11
+8-0	9	10
+8-6	8	9
+9-0	8	9
+9-6	7	8
+10-0	7	8For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+1104.9.1 Egress component.
+
+A revolving door used as a component of a means of egress shall comply with Section 1104.9 and all of the following conditions:
+
+1.Revolving doors shall not be given credit for more than 50 percent of the required egress capacity.
+
+2.Each revolving door shall be credited with not more than a 50-person capacity.
+
+3.Revolving doors shall be capable of being collapsed when a force of not more than 130 pounds (578 N) is applied within 3 inches (76 mm) of the outer edge of a wing.
+
+1104.10 Stair dimensions for existing stairways.
+
+Existing stairways in buildings shall be permitted to remain if the rise does not exceed 81/4 inches (210 mm) and the run is not less than 9 inches (229 mm). Existing stairways can be rebuilt.
+
+Exception: Other stairways approved by the fire code official.
+
+1104.10.1 Dimensions for replacement stairways.
+
+The replacement of an existing stairway in a structure shall not be required to comply with the new stairway requirements of Section 1011 where the existing space and construction will not allow a reduction in pitch or slope.
+
+1104.11 Winders.
+
+Existing winders shall be allowed to remain in use if they have a minimum tread depth of 6 inches (152 mm) and a minimum tread depth of 9 inches (229 mm) at a point 12 inches (305 mm) from the narrowest edge.
+
+1104.12 Curved stairways.
+
+Existing curved stairways shall be allowed to continue in use, provided that the minimum depth of tread is 10 inches (254 mm) and the smallest radius shall be not less than twice the width of the stairway.
+
+1104.13 Stairway handrails.
+
+Stairways shall have handrails on at least one side. Handrails shall be located so that all portions of the stairway width required for egress capacity are within 44 inches (1118 mm) of a handrail.
+
+Exception: Aisle stairs provided with a center handrail are not required to have additional handrails.
+
+1104.13.1 Height.
+
+Handrail height, measured above stair tread nosings, shall be uniform, not less than 30 inches (762 mm) and not more than 42 inches (1067 mm).
+
+1104.14 Slope of ramps.
+
+Ramp runs utilized as part of a means of egress shall have a running slope not steeper than 1 unit vertical in 10 units horizontal (10-percent slope). The slope of other ramps shall not be steeper than 1 unit vertical in 8 units horizontal (12.5-percent slope).
+
+1104.15 Width of ramps.
+
+Existing ramps are permitted to have a minimum width of 30 inches (762 mm) but not less than the width required for the number of occupants served as determined by Section 1005.1. In Group I-2, ramps serving as a means of egress and used for the movement of patients in beds shall comply with Section 1105.6.4.
+
+[BE] [BE] 1104.16 Fire escape stairways.
+
+Fire escape stairways shall comply with Sections 1104.16.1 through 1104.16.7.
+
+[BE] [BE] 1104.16.1 Existing means of egress.
+
+Fire escape stairways shall be permitted in existing buildings but shall not constitute more than 50 percent of the required exit capacity.
+
+[BE] [BE] 1104.16.2 Opening protectives.
+
+Doors and windows within 10 feet (3048 mm) of fire escape stairways shall be protected with 3/4-hour opening protectives.
+
+Exception: Opening protectives shall not be required in buildings equipped throughout with an approved automatic sprinkler system.
+
+[BE] [BE] 1104.16.3 Dimensions.
+
+Fire escape stairways shall meet the minimum width, capacity, riser height and tread depth as specified in Section 1104.10.
+
+[BE] [BE] 1104.16.4 Access.
+
+Access to a fire escape stairway from a corridor shall not be through an intervening room. Access to a fire escape stairway shall be from a door or window meeting the criteria of Section 1005.1. Access to a fire escape stairway shall be directly to a balcony, landing or platform. These shall not be higher than the floor or window sill level and not lower than 8 inches (203 mm) below the floor level or 18 inches (457 mm) below the window sill.
+
+[BE] [BE] 1104.16.5 Materials and strength.
+
+Components of fire escape stairways shall be constructed of noncombustible materials. Fire escape stairways and balconies shall support the dead load plus a live load of not less than 100 pounds per square foot (4.78 kN/m2). Fire escape stairways and balconies shall be provided with a top and intermediate handrail on each side.
+
+[BE] [BE] 1104.16.5.1 Examination.
+
+Fire escape stairways and balconies shall be examined for structural adequacy and safety in accordance with Section 1104.16.5 by a registered design professional or others acceptable to the fire code official every 5 years, or as required by the fire code official. An inspection report shall be submitted to the fire code official after such examination.
+
+[BE] [BE] 1104.16.6 Termination.
+
+The lowest balcony shall not be more than 18 feet (5486 mm) from the ground. Fire escape stairways shall extend to the ground or be provided with counterbalanced stairs reaching the ground.
+
+Exception: For fire escape stairways serving 10 or fewer occupants, an approved fire escape ladder is allowed to serve as the termination.
+
+[BE] [BE] 1104.16.7 Maintenance.
+
+Fire escape stairways shall be kept clear and unobstructed at all times and shall be maintained in good working order.
+
+1104.17 Corridor construction.
+
+Corridors serving an occupant load greater than 30 and the openings therein shall provide an effective barrier to resist the movement of smoke. Transoms, louvers, doors and other openings shall be kept closed or be self-closing. In Group I-2, corridors in areas housing patient sleeping or care rooms shall comply with Section 1105.5.
+
+Exceptions:
+
+1.Corridors in occupancies other than in Group H, that are equipped throughout with an approved automatic sprinkler system.
+
+2.Corridors in occupancies in Group E where each room utilized for instruction or assembly has not less than one-half of the required means of egress doors opening directly to the exterior of the building at ground level.
+
+3.Corridors that are in accordance with the California Building Code.
+
+1104.17.1 Corridor openings.
+
+Openings in corridor walls shall comply with the requirements of the California Building Code.
+
+Exceptions:
+
+1.Where 20-minute fire door assemblies are required, solid wood doors not less than 1.75 inches (44 mm) thick or insulated steel doors are allowed.
+
+2.Openings protected with fixed wire glass set in steel frames.
+
+3.Openings covered with 0.5-inch (12.7 mm) gypsum wallboard or 0.75-inch (19.1 mm) plywood on the room side.
+
+4.Opening protection is not required where the building is equipped throughout with an approved automatic sprinkler system.
+
+1104.18 Dead ends.
+
+Where more than one exit or exit access doorway is required, the exit access shall be arranged such that dead ends do not exceed the limits specified in Table 1104.18.
+
+Exceptions:
+
+1.A dead-end corridor shall not be limited in length where the length of the dead-end corridor is less than 2.5 times the least width of the dead-end corridor.
+
+2.In existing buildings, existing dead-end corridors shall be permitted to comply with lengths established in Section 804.7 of the California Existing Building Code. Any newly constructed dead-end corridors within an existing building shall be limited to the lengths allowed by the California Building Code.
+
+TABLE 1104.18
+
+COMMON PATH, DEAD-END AND TRAVEL DISTANCE LIMITS (by occupancy)
+
+	OCCUPANCY	COMMON PATH OF EGRESS TRAVEL LIMIT	DEAD-END LIMIT	EGRESS ACCESS TRAVEL DISTANCE LIMIT
+Unsprinklered (feet)	Sprinklered (feet)	Unsprinklered (feet)	Sprinklered (feet)j	Unsprinklered (feet)	Sprinklered (feet)
+	Group A	75	20/75j	20a	20a	200	250j
+	Group Bh	75g	100j	50	50	200	300j
+	Group E	75	75j	20	50	200	250j
+	Group F-1, S-1	75g	100j	50	50	200c	250c, h, j
+	Group F-2, S-2	75g	100j	50	50	300	400l
+	Group H-1	25	25l	0	0	75	75j, l
+	Group H-2	50	100l	0	0	75	100 j, l
+	Group H-3	50	100l	20	20	100	150j, l
+	Group H-4	75	75l	20	20	150	175j, l
+	Group H-5	75	75l	20	50	150	200j
+	Group I-2	Notes d, e, f	Notes d, e, f, j	Note e	Note e	150	200b, j
+	Group I-3	100	100j	NR	NR	150b	200b, j
+	Group I-4	NR	NR	20	20	200	250j
+	Group M	75	100j	50	50	200	250i, j
+	Group R-1	75	75j, k	50	50	200	250j, k
+	Group R-2	75	125j, k	50	50	200	250j, k
+	Group R-3	NR	NR	NR	NR	NR	NR
+	Group R-4	NR	NR	NR	NR	NR	NR
+	Group U	75g	100j	20	50	300	400jNR = No Requirements.
+
+For SI: 1 foot = 304.8 mm, 1 square foot = 0.0929 m2.
+
+a.See Section 1030.9.5 for dead-end aisles in Group A occupancies.
+
+b.This dimension is for the total travel distance, assuming incremental portions have fully utilized their allowable maximums. For travel distance within the room, and from the room exit access door to the exit, see the appropriate occupancy chapter.
+
+c.See Section 412 of the California Building Code for special requirements on spacing of doors in aircraft hangars.
+
+d.Separation of exit access doors within a care recipient sleeping room, or any suite that includes care recipient sleeping rooms, shall comply with Section 1105.5.6.
+
+e.In smoke compartments containing care recipient sleeping rooms and treatment rooms, dead-end corridors shall comply with Section 1105.6.5.
+
+f.In Group I-2, Condition 2, care recipient sleeping rooms or any suite that includes care recipient sleeping rooms shall comply with Section 1105.7.
+
+g.Where a tenant space in Group B, S and U occupancies has an occupant load of not more than 30, the length of a common path of egress travel shall be not more than 100 feet.
+
+h. Where the building, or portion of the building, is limited to one story and the height from the finished floor to the bottom of the ceiling or roof slab or deck is 24 feet or more, the exit access travel distance is increased to 400 feet.
+
+i.For covered and open malls, the exit access travel distance is increased to 400 feet.
+
+j.Buildings equipped with an approved automatic sprinkler system in accordance with Section 903.3.1.1.
+
+k.Buildings equipped with an approved automatic sprinkler system in accordance with Section 903.3.1.2.
+
+l.Group H occupancies equipped with an approved automatic sprinkler system in accordance with Section 903.2.5.
+
+1104.19 Exit access travel distance.
+
+Exits shall be located so that the maximum length of exit access travel, measured from the most remote point to an approved exit along the natural and unobstructed path of egress travel, does not exceed the distances given in Table 1104.18.
+
+1104.20 Common path of egress travel.
+
+The common path of egress travel shall not exceed the distances given in Table 1104.18.
+
+1104.21 Stairway discharge identification.
+
+An interior exit stairway or ramp that continues below its level of exit discharge shall be arranged and marked to make the direction of egress to a public way readily identifiable.
+
+Exception: Stairways that continue one-half story beyond their levels of exit discharge need not be provided with barriers where the exit discharge is obvious.
+
+1104.22 Exterior stairway protection.
+
+Exterior exit stairways shall be separated from the interior of the building as required in Section 1027.6. Openings shall be limited to those necessary for egress from normally occupied spaces.
+
+Exceptions:
+
+1.Separation from the interior of the building is not required for buildings that are two stories or less above grade where the level of exit discharge serving such occupancies is the first story above grade.
+
+2.Separation from the interior of the building is not required where the exterior stairway is served by an exterior balcony that connects two remote exterior stairways or other approved exits, with a perimeter that is not less than 50 percent open. To be considered open, the opening shall be not less than 50 percent of the height of the enclosing wall, with the top of the opening not less than 7 feet (2134 mm) above the top of the balcony.
+
+3.Separation from the interior of the building is not required for an exterior stairway located in a building or structure that is permitted to have unenclosed interior stairways in accordance with Section 1023.
+
+4.Separation from the open-ended corridors of the building is not required for exterior stairways provided that:
+
+4.1.The open-ended corridors comply with Section 1020.
+
+4.2.The open-ended corridors are connected on each end to an exterior exit stairway complying with Section 1027.
+
+4.3.At any location in an open-ended corridor where a change of direction exceeding 45 degrees (0.79 rad) occurs, a clear opening of not less than 35 square feet (3 m2) or an exterior stairway shall be provided. Where clear openings are provided, they shall be located so as to minimize the accumulation of smoke or toxic gases.
+
+1104.23 Minimum aisle width.
+
+The minimum clear width of aisles shall comply with the following:
+
+1.Forty-two inches (1067 mm) for stepped aisles having seating on each side.
+
+Exception: Thirty-six inches (914 mm) where the stepped aisle serves fewer than 50 seats.
+
+2.Thirty-six inches (914 mm) for stepped aisles having seating on only one side.
+
+Exceptions:
+
+1.Thirty inches (760 mm) for catchment areas serving not more than 60 seats.
+
+2.Twenty-three inches (584 mm) between a stepped aisle handrail and seating where a stepped aisle does not serve more than five rows on one side.
+
+3.Twenty inches (508 mm) between a stepped aisle handrail or guard and seating where the aisle is subdivided by a mid-aisle handrail.
+
+4.Forty-two inches (1067 mm) for level or ramped aisles having seating on both sides.
+
+Exceptions:
+
+1.Thirty-six inches (914 mm) where the aisle serves fewer than 50 seats.
+
+2.Thirty inches (760 mm) where the aisle serves fewer than 15 seats and does not serve as part of an accessible route.
+
+5.Thirty-six inches (914 mm) for level or ramped aisles having seating on only one side.
+
+Exception: Thirty inches (760 mm) for catchment areas serving not more than 60 seats and not serving as part of an accessible route.
+
+6.In Group I-2, where aisles are used for movement of patients in beds, aisles shall comply with Section 1105.6.8.
+
+1104.24 Stairway floor number signs.
+
+Existing stairways shall be marked in accordance with Section 1023.9.
+
+1104.25 Egress path markings.
+
+Existing high-rise buildings of Group A, B, E, I, M and R-1 occupancies shall be provided with luminous egress path markings in accordance with Section 1025.
+
+Exception: Open, unenclosed stairwells in historic buildings designated as historic under a state or local historic preservation program.
+
+SECTION 1105 CONSTRUCTION REQUIREMENTS FOR EXISTING GROUP I-2
+
+1105.1 General.
+
+Existing Group I-2 shall meet all of the following requirements:
+
+1.The minimum fire safety requirements in Section 1103.
+
+2.The minimum means of egress requirements in Section 1104.
+
+3.The additional egress and construction requirements in Section 1105.
+
+Where the provisions of this chapter conflict with the construction requirements that applied at the time of construction, the most restrictive provision shall apply.
+
+1105.2 Applicability.
+
+The provisions of Sections 1105.3 through 1105.8, 1105.10 and 1105.11 shall apply to the existing Group I-2 fire area.
+
+1105.3 Construction.
+
+Group I-2, Condition 2 shall not be located on a floor level higher than the floor level limitation in Table 1105.3 based on the type of construction.
+
+TABLE 1105.3
+
+FLOOR LEVEL LIMITATIONS FOR GROUP I-2, CONDITION 2
+
+CONSTRUCTION TYPE	AUTOMATIC SPRINKLER SYSTEM	ALLOWABLE FLOOR LEVELa
+1	2	3	4 or more
+IA	Note b	P	P	P	P
+Note c	P	P	P	P
+IB	Note b	P	P	P	P
+Note c	P	P	P	P
+IIA	Note b	P	P	P	NP
+Note c	P	NP	NP	NP
+IIB	Note b	P	P	NP	NP
+Note c	NP	NP	NP	NP
+IIIA	Note b	P	P	NP	NP
+Note c	P	NP	NP	NP
+IIIB	Note b	P	NP	NP	NP
+Note c	NP	NP	NP	NP
+IV	Note b	P	P	NP	NP
+Note c	NP	NP	NP	NP
+VA	Note b	P	P	NP	NP
+Note c	NP	NP	NP	NP
+VB	Note b	P	NP	NP	NP
+Note c	NP	NP	NP	NPP = Permitted; NP = Not Permitted.
+
+a.Floor level shall be counted based on the number of stories above grade.
+
+b.The building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.
+
+c.The building is equipped with an automatic sprinkler system in accordance with Section 1105.8.
+
+1105.4 Incidental uses in existing Group I-2.
+
+Incidental uses associated with and located within existing single-occupancy or mixed-occupancy Group I-2 buildings and that generally pose a greater level of risk to such occupancies shall comply with the provisions of Sections 1105.4.1 through 1105.4.3.2.1. Incidental uses in Group I-2 occupancies are limited to those listed in Table 1105.4.
+
+TABLE 1105.4
+
+INCIDENTAL USES IN EXISTING GROUP I-2 OCCUPANCIES
+
+ROOM OR AREA	SEPARATION AND/OR PROTECTION
+Furnace room where any piece of equipment is over 400,000 Btu per hour input	1 hour or provide automatic sprinkler system
+Rooms with boilers where the largest piece of equipment is over 15 psi and 10 horsepower	1 hour or provide automatic sprinkler system
+Refrigerant machinery room	1 hour or provide automatic sprinkler system
+Hydrogen fuel gas rooms, not classified as Group H	2 hours
+Incinerator rooms	2 hours and provide automatic sprinkler system
+Paint shops not classified as Group H	2 hours; or 1 hour and provide automatic sprinkler system
+Laboratories and vocational shops, not classified as Group H	1 hour or provide automatic sprinkler system
+Laundry rooms over 100 square feet	1 hour or provide automatic sprinkler system
+Patient rooms equipped with padded surfaces	1 hour or provide automatic sprinkler system
+Physical plant maintenance shops	1 hour or provide automatic sprinkler system
+Waste and linen collection rooms with containers with total volume of 10 cubic feet or greater	1 hour or provide automatic sprinkler system
+Storage rooms greater than 100 square feet	1 hour or provide automatic sprinkler system
+Stationary storage battery systems having a liquid electrolyte capacity of more than 50 gallons for flooded lead-acid, nickel cadmium or VRLA, or more than 1,000 pounds for lithium-ion and lithium metal polymer used for facility standby power, emergency power or uninterruptable power supplies	2 hoursFor SI: 1 square foot = 0.0929 m2, 1 pound per square inch (psi) = 6.9 kPa, 1 British thermal unit (Btu) per hour = 0.293 watts, 1 horsepower = 746 watts, 1 gallon = 3.785 L.
+
+1105.4.1 Occupancy classification.
+
+Incidental uses shall not be individually classified in accordance with Section 302.1 of the California Building Code. Incidental uses shall be included in the building occupancies within which they are located.
+
+1105.4.2 Area limitations.
+
+Incidental uses shall not occupy more than 10 percent of the building area of the story in which they are located.
+
+1105.4.3 Separation and protection.
+
+The incidental uses listed in Table 1105.4 shall be separated from the remainder of the building or equipped with an automatic sprinkler system, or both, in accordance with the provisions of that table.
+
+1105.4.3.1 Separation.
+
+Where Table 1105.4 specifies a fire-resistance-rated separation, the incidental uses shall be separated from the remainder of the building in accordance with Section 509.4.1 of the California Building Code.
+
+1105.4.3.2 Protection.
+
+Where Table 1105.4 permits an automatic sprinkler system without a fire-resistance-rated separation, the incidental uses shall be separated from the remainder of the building by construction capable of resisting the passage of smoke in accordance with Section 509.4.2 of the California Building Code.
+
+1105.4.3.2.1 Protection limitation.
+
+Except as otherwise specified in Table 1105.4 for certain incidental uses, where an automatic sprinkler system is provided in accordance with Table 1105.4, only the space occupied by the incidental use need be equipped with such a system.
+
+1105.5 Corridor construction.
+
+In Group I-2, in areas housing patient sleeping or care rooms, corridor walls and the opening protectives therein shall provide a barrier designed to resist the passage of smoke in accordance with Sections 1105.5.1 through 1105.5.7.
+
+1105.5.1 Materials.
+
+The walls shall be of materials permitted by the building type of construction.
+
+1105.5.2 Fire-resistance rating.
+
+Unless required else-where in this code, corridor walls are not required to have a fire-resistance rating. Corridor walls that were installed as fire-resistance-rated assemblies in accordance with the applicable codes under which the building was constructed, remodeled or altered shall be maintained unless modified in accordance with the California Existing Building Code.
+
+1105.5.3 Corridor wall continuity.
+
+Corridor walls shall extend from the top of the foundation or floor below to one of the following:
+
+1.The underside of the floor or roof sheathing, deck or slab above.
+
+2.The underside of a ceiling above where the ceiling membrane is constructed to limit the passage of smoke.
+
+3.The underside of a lay-in ceiling system where the ceiling system is constructed to limit the passage of smoke and where the ceiling tiles weigh not less than 1 pound per square foot (4.88 kg/m2) of tile.
+
+1105.5.4 Openings in corridor walls.
+
+Openings in corridor walls shall provide protection in accordance with Sections 1105.5.4.1 through 1105.5.4.3.
+
+1105.5.4.1 Windows.
+
+Windows in corridor walls shall be sealed to limit the passage of smoke, or the window shall be automatic-closing upon detection of smoke, or the window opening shall be protected by an automatic closing device that closes upon detection of smoke.
+
+Exception: In smoke compartments not containing patient sleeping rooms, pass-through windows or similar openings shall be permitted in accordance with Section 1105.5.4.3.
+
+1105.5.4.2 Doors.
+
+Doors in corridor walls shall comply with Sections 1105.5.4.2.1 through 1105.5.4.2.3.
+
+1105.5.4.2.1 Louvers.
+
+Doors in corridor walls shall not include louvers, transfer grills or similar openings.
+
+Exception: Doors shall be permitted to have louvers, transfer grills or similar openings at toilet rooms or bathrooms; storage rooms that do not contain storage of flammable or combustible material; and storage rooms that are not required to be separated as incidental uses.
+
+1105.5.4.2.2 Corridor doors.
+
+Doors in corridor walls shall limit the transfer of smoke by complying with the following:
+
+1.Doors shall be constructed of not less than 13/4 inch-thick (44 mm) solid bonded-core wood or capable of resisting fire not less than 1/3 hour.
+
+Exception: Corridor doors in buildings equipped throughout with an automatic sprinkler system.
+
+2.Frames for side-hinged swinging doors shall have stops on the sides and top to limit transfer of smoke.
+
+3.Where provided, vision panels in doors shall be a fixed glass window assembly installed to limit the passage of smoke. Existing wired glass panels with steel frames shall be permitted to remain in place.
+
+4.The clearance between the bottom of the door and floor shall not exceed 1 inch (25 mm).
+
+5.Doors shall be positive latching with devices that resist not less than 5 pounds (22.2 N). Roller latches are prohibited.
+
+6.Mail slots or similar openings shall be permitted in accordance with Section 1105.5.4.3.
+
+1105.5.4.2.3 Dutch doors.
+
+Where provided, Dutch doors shall comply with Section 1105.5.4.2.2. In addition, Dutch doors shall be equipped with latching devices on either the top or bottom leaf to allow leaves to latch together. The space between the leaves shall be protected with devices such as astragals to limit the passage of smoke.
+
+1105.5.4.2.4 Self- or automatic-closing doors.
+
+Where self- or automatic-closing doors are required, closers shall be maintained in operational condition. Hold-open devices on doors shall be capable of
+manual release.
+
+1105.5.4.2.5 Protective plates.
+
+Protective plates
+installed on corridor doors shall not be limited in
+size.
+
+1105.5.4.3 Openings in corridor walls and doors.
+
+In other than smoke compartments containing patient sleeping rooms, mail slots, pass-through windows or similar openings shall not be required to be protected where the aggregate area of the openings between the corridor and a room are not greater than 80 square inches (51 613 mm2) and are located with the top edge of any opening not higher than 48 inches above the floor.
+
+1105.5.5 Penetrations.
+
+The space around penetrating items shall be filled with an approved material to limit the passage of smoke.
+
+1105.5.6 Joints.
+
+Joints shall be filled with an approved material to limit the passage of smoke.
+
+1105.5.7 Ducts and air transfer openings.
+
+The space around a duct penetrating a smoke partition shall be filled with an approved material to limit the passage of smoke. Air transfer openings in smoke partitions shall be provided with a smoke damper complying with Section 717.3.2.2 of the California Building Code.
+
+Exception: Where the installation of a smoke damper will interfere with the operation of a required smoke control system in accordance with Section 909, approved alternative protection shall be utilized.
+
+1105.6 Means of egress.
+
+In addition to the means of egress requirements in Section 1104, Group I-2 facilities shall meet the means of egress requirements in Sections 1105.6.1 through 1105.6.8.
+
+1105.6.1 Two means of egress.
+
+A means of egress shall be provided from each smoke compartment created by smoke barriers without having to return through the smoke compartment from which the means of egress originated. Smoke compartments that do not contain an exit shall be provided with direct access to not less than two adjacent smoke compartments.
+
+1105.6.2 Size of door.
+
+Means of egress doors used for the movement of patients in beds shall provide a minimum clear width of 411/2 inches (1054 mm). The height of the door opening shall be not less than 80 inches (2032 mm).
+
+Exceptions:
+
+1.Door closers and door stops shall be permitted to be 78 inches (1981 mm) minimum above the floor.
+
+2.In Group I-2, Condition 1, existing means of egress doors used for the movement of patients in beds that provide a minimum clear width of 32 inches (813 mm) shall be permitted to remain.
+
+1105.6.3 Group I-2 occupancies.
+
+In Group I-2, where a door serves as an opening protective in a fire barrier, smoke barrier or fire wall and where the door is equipped with a hold-open device, such door shall automatically close upon any of the following conditions:
+
+1.Actuation of smoke detectors initiating the hold-open device.
+
+2.Activation of the fire alarm system within the zone.
+
+3.Activation of an automatic sprinkler system within the zone.
+
+1105.6.4 Ramps.
+
+In areas where ramps are used for movement of patients in beds, the clear width of the ramp shall be not less than 48 inches (1219 mm).
+
+1105.6.5 Corridor width.
+
+In areas where corridors are used for movement of patients in beds, the clear width of the corridor shall be not less than 48 inches (1219 mm).
+
+1105.6.6 Dead-end corridors.
+
+In smoke compartments containing patient sleeping rooms and treatment rooms, dead-end corridors shall not exceed 30 feet (9144 mm) unless approved by the fire code official.
+
+1105.6.7 Separation of exit access doors.
+
+Patient sleeping rooms, or any suite that includes patient sleeping rooms, of more than 1,000 square feet (92.9 m2) shall have not less than two exit access doors placed a distance apart equal to not less than one-third of the length of the maximum overall diagonal dimension of the patient sleeping room or suite to be served, measured in a straight line between exit access doors.
+
+1105.6.8 Aisles.
+
+In areas where aisles are used for movement of patients in beds, the clear width of the aisle shall be not less than 48 inches (1219 mm).
+
+1105.7 Smoke compartments.
+
+Smoke compartments shall be provided in existing Group I-2, Condition 2, in accordance with Sections 1105.7.1 through 1105.7.6.
+
+1105.7.1 Design.
+
+Smoke barriers shall be provided to subdivide each story used for patients sleeping with an occupant load of more than 30 patients into not fewer than two smoke compartments.
+
+1105.7.1.1 Refuge areas.
+
+Refuge areas shall be provided within each smoke compartment. The size of the refuge area shall accommodate the occupants and care recipients from the adjoining smoke compartment. Where a smoke compartment is adjoined by two or more smoke compartments, the minimum area of the refuge area shall accommodate the largest occupant load of the adjoining compartments.
+
+The size of the refuge area shall provide the following:
+
+1.Not less than 30 net square feet (2.8 m2) for each care recipient confined to a bed or stretcher.
+
+2.Not less than 15 square feet (1.4 m2) for each resident in a Group I-2 using mobility assistance devices.
+
+3.Not less than 6 square feet (0.56 m2) for each occupant not addressed in Items 1 and 2.
+
+Areas of spaces permitted to be included in the calculation of the refuge area are corridors, sleeping areas, treatment rooms, lounge or dining areas and other lowhazard areas.
+
+1105.7.2 Smoke barriers.
+
+Smoke barriers shall be constructed in accordance with Section 709 of the California Building Code.
+
+Exceptions:
+
+1.Existing smoke barriers are permitted to remain where the existing smoke barrier has a minimum fire-resistance rating of 1/2 hour.
+
+2.Smoke barriers shall be permitted to terminate at an atrium enclosure in accordance with Section 404.6 of the California Building Code.
+
+1105.7.3 Opening protectives.
+
+Openings in smoke barriers shall be protected in accordance with Section 716 of the California Building Code. Opening protectives shall have a minimum fire protection rating of 1/3 hour.
+
+Exceptions:
+
+1.Existing wired glass vision panels in doors shall be permitted to remain.
+
+2.Existing nonlabeled protection plates shall be permitted to remain.
+
+1105.7.4 Penetrations.
+
+Penetrations of smoke barriers shall comply with the California Building Code.
+
+Exception: Approved existing materials and methods of construction.
+
+1105.7.5 Joints.
+
+Joints made in or between smoke barriers shall comply with the California Building Code.
+
+Exception: Approved existing materials and methods of construction.
+
+1105.7.6 Duct and air transfer openings.
+
+Penetrations in a smoke barrier by duct and air transfer openings shall comply with Section 717 of the California Building Code.
+
+Exception: Where existing duct and air transfer openings in smoke barriers exist without smoke dampers, they shall be permitted to remain. Any changes to existing smoke dampers shall be submitted for review and approved in accordance with Section 717 of the California Building Code.
+
+1105.8 Group I-2 care suites.
+
+Care suites in existing Group I-2, Condition 2 occupancies shall comply with Sections 407.4.4 through 407.4.4.6.2 of the California Building Code.
+
+1105.9 Group I-2 automatic sprinkler system.
+
+An automatic sprinkler system installed in accordance with Section 903.3.1.1 shall be provided throughout the floor containing the Group I-2 fire area. The sprinkler system shall be provided throughout the floor where the Group I-2 occupancy is located, on all floors between the Group I-2 occupancy fire area and the level of exit discharge, the level of exit discharge, and all floors below the level of exit discharge.
+
+Exception: Floors classified as an open parking garage are not required to be sprinklered.
+
+1105.10 Group I-2 automatic fire alarm system.
+
+An automatic fire alarm system shall be installed in existing Group I-2 occupancies in accordance with Section 907.2.6.2.
+
+Exception: Manual fire alarm boxes in patient sleeping areas shall not be required at exits if located at all nurses’ control stations or other constantly attended staff locations, provided such that manual fire alarm boxes are visible, are provided with ready access, and travel distances required in Section 907.4.2.1 are not exceeded.
+
+1105.11 Essential electrical systems.
+
+Essential electrical systems in Group I-2, Condition 2 occupancies shall be in accordance with Sections 1105.11.1 and 1105.11.2.
+
+1105.11.1 Where required.
+
+Where required by NFPA 99, Group I-2, Condition 2 occupancies shall be provided with an essential electrical system in accordance with NFPA 99.
+
+1105.11.2 Installation and duration.
+
+In Group I-2, Condition 2 occupancies, the installation and duration of operation of existing essential electrical systems shall be based on a hazard vulnerability analysis conducted in accordance with NFPA 99.
+
+SECTION 1106 REQUIREMENTS FOR OUTDOOR OPERATIONS
+
+1106.1 Tire storage yards.
+
+Existing tire storage yards shall be provided with fire apparatus access roads in accordance with Sections 1106.1.1 and 1106.1.2.
+
+1106.1.1 Access to piles.
+
+Access roadways shall be within 150 feet (45 720 mm) of any point in the storage yard where storage piles are located not less than 20 feet (6096 mm) from any storage pile.
+
+1106.1.2 Location within piles.
+
+Fire apparatus access roads shall be located within all pile clearances identified in Section 3405.4 and within all fire breaks required in Section 3405.5.
+
+SECTION 1107 GROUP A PUBLIC ADDRESS SYSTEM
+
+1107.1 Group A occupancy public address system.
+
+Existing buildings or structures intended for public assemblies of 10,000 or more persons, which, on or after January 1, 1991, have or subsequently have installed a public address system, shall have an emergency backup power system for the public address system.
+
+SECTIONS 1108 THROUGH 1112 RESERVED
+
+SECTION 1113 EXISTING GROUP R-1 AND GROUP R-2 OCCUPANCIES [SFM] [SFM]
+
+1113.1 Scope.
+
+The provisions of this section are intended to maintain or increase the current degree of public safety, health and general welfare in existing buildings classified as Group R Occupancies.
+
+1113.1.1 Application.
+
+In accordance with Health and Safety Code Section 13143.2, the provisions of Sections 1113.2 through 1113.12 shall only apply to multiple-story structures existing on January 1, 1975, let for human habitation, including, and limited to, apartment houses, hotels and motels wherein rooms used for sleeping are let above the ground floor.
+
+1113.2 Number of exits.
+
+Every apartment and every other sleeping room shall have access to not less than two exits when the occupant load is 10 or more (exits need not be directly from the apartment or sleeping room). A fire escape as specified herein may be used as one required exit.
+
+Subject to approval of the authority having jurisdiction, a ladder device as specified herein may be used in lieu of a fire escape when the construction feature or the location of the building on the property cause the installation of a fire escape to be impractical.
+
+1113.3 Stair construction.
+
+All stairs shall have a minimum run of 9 inches (229 mm) and a maximum rise of 8 inches (203 mm) and a minimum width exclusive of handrails of 30 inches (762 mm). Every stairway shall have at least one handrail. A landing having a minimum horizontal dimension of 30 inches (762 mm) shall be provided at each point of access to the stairway.
+
+1113.4 Interior stairways.
+
+Every interior stairway shall be enclosed with walls of not less than one-hour fire-resistive construction. Where existing partitions form part of a stairwell enclosure, wood lath and plaster in good condition will be acceptable in lieu of one-hour fire-resistive construction. Doors to such enclosures shall be protected by a self-closing door equivalent to a solid wood door with a thickness of not less than 13/4 inches (44.5 mm).
+
+Enclosures shall include all landings between flights and any corridors, passageways or public rooms necessary for continuous exit to the exterior of the buildings. The stairway need not be enclosed in a continuous shaft if cut off at each story by the fire-resistive construction required by this subsection for stairwell enclosures. Enclosures shall not be required if an automatic sprinkler system is provided for all portions of the building except bedrooms, apartments and rooms accessory thereto. Interior stairs and vertical openings need not be enclosed in two-story buildings.
+
+1113.5 Exterior stairways.
+
+Exterior stairways shall be noncombustible or of wood of not less than 2-inch (51 mm) nominal thickness with solid treads and risers.
+
+1113.6 Fire escapes, exit ladder devices.
+
+Fire escapes may be used as one means of egress if the pitch does not exceed 60 degrees, the width is not less than 18 inches (457 mm), the treads are not less than 4 inches (102 mm) wide, and they extend to the ground or are provided with counterbalanced stairs reaching to the ground. Access shall be by an opening having a minimum dimension of 29 inches (737 mm) when open. The sill shall not be more than 30 inches (762 mm) above the floor and landing.
+
+A ladder device, when used in lieu of a fire escape, shall conform to Section 1113.6.1 and the following:
+
+Serves an occupant load of nine people or less or a single dwelling unit or hotel room.
+
+The building does not exceed three stories in height.
+
+The access is adjacent to an opening as specified for emergency egress or rescue or from a balcony.
+
+The device does not pass in front of any building opening below the unit being served.
+
+The availability of activating the ladder device is accessible only to the opening or balcony served.
+
+The device as installed will not cause a person using it to be within 12 feet (3658 mm) of exposed energized high-voltage conductors.
+
+1113.6.1 Exit ladder devices.
+
+1113.6.1.1 Scope.
+
+This standard for exit ladder devices is applicable where such devices are permitted by the building official for installation on existing apartment houses and hotels in conformance with the California Building Code.
+
+1113.6.1.2 Instructions.
+
+Installation shall be in accordance with the manufacturer’s instructions. Instructions shall be illustrated and shall include directions and information adequate for attaining proper and safe installation of the product. Where exit ladder devices are intended for mounting on different support surfaces, specific installation instructions shall be provided for each surface.
+
+1113.6.1.3 General design.
+
+All load-bearing surfaces and supporting hardware shall be of noncombustible materials. Exit ladder devices shall have a minimum width of 12 inches (305 mm) when in the position intended for use. The design load shall not be less than 400 pounds (1780 N) for 16-foot (4877 mm) length and 600 pounds (2699 N) for 25-foot (7620 mm) length.
+
+1113.6.1.4 Performance.
+
+1113.6.1.4.1
+
+Exit ladder devices shall be capable of withstanding an applied load of four times the design load when installed in the manner intended for use. Test loads shall be applied for a period of one hour.
+
+1113.6.1.4.2
+
+Exit ladder devices of the retractable type shall, in addition to the static load requirements of Section 413.6.1.4.1 of the California Building Code, be capable of withstanding the following tests:
+
+1.Rung strength
+
+2.Rung-to-side-rail shear strength
+
+3.Release mechanism
+
+4.Low temperature
+
+1113.6.1.5 Rung-strength test.
+
+Rungs of retractable exit ladder devices shall be capable of withstanding a load of 1,000 pounds (4448 N) when applied to a 31/2-inch-wide (89 mm) block resting at the center of the rung. The test load shall be applied for a period of one hour. The ladder shall remain operational following this test.
+
+1113.6.1.6 Rung-to-side-rail shear test.
+
+Rungs of retractable exit ladder devices shall be capable of withstanding 1,000 (4448 N) when applied to a 31/2-inch-wide (89 mm) block resting on the center rung as near the side rail as possible. The test load shall be applied for a period of one hour. Upon removal of the test load the fasteners attaching the rung to the side rail shall show no evidence of failure. The ladder shall remain operational following the test.
+
+1113.6.1.7 Release mechanism test.
+
+The release mechanism of retractable exit ladder devices shall operate with an average applied force of not more than 5 pounds (22.2 N) for hand-operated releasing mechanisms and an average applied force of not more than 25 pounds (111 N) for foot-pedal types of releasing mechanisms. For these tests, a force gauge shall be applied to the release mechanism, and the average of three consecutive readings shall be computed.
+
+1113.6.1.8 Low temperature operation test.
+
+Representative samples of the exit ladder devices shall be subjected to a temperature of -40ºC in an environmental chamber for a period of 24 hours. The release mechanism shall be operated immediately upon removal from the chamber. The ladder device shall function as intended without any restriction of operation.
+
+1113.7 Doors and openings.
+
+Exit doors and openings shall meet the requirements of Sections 1008.1.2, 1008.8.1.8, 1008.1.9 and 708.6 of the California Building Code. Doors shall not reduce the required width of stairway more than 6 inches (152 mm) when open. Transoms and openings other than doors from corridors to rooms shall be fixed closed and shall be covered with a minimum of 3/4-inch (19 mm) plywood or 1/2-inch (13 mm) gypsum wallboard or equivalent material.
+
+Exceptions:
+
+1.Existing solid-bonded wood-core doors 13/8 inches thick (34.9 mm), or their equivalent may be continued in use.
+
+2.Where the existing frame will not accommodate a door complying with Section 708.6 of the California Building Code, a 13/8-inch-thick (35 mm) solid-bonded wood-core door may be used.
+
+1113.8 Exit signs.
+
+Every exit doorway or change of direction of a corridor shall be marked with a well-lighted exit sign having letters at least 5 inches (127 mm) high.
+
+1113.9 Enclosure of vertical openings.
+
+Elevators, shafts, ducts and other vertical openings shall be enclosed as required for stairways in Section 1113.5 or by wired glass set in metal frames. Doors shall be noncombustible or as regulated in Section 1113.5.
+
+1113.10 Separation of occupancies.
+
+Occupancy separations shall be provided as specified in Section 508 of the California Building Code. Lobbies and public dining rooms, not including cocktail lounges, shall not require a separation if the kitchen is so separated from the dining room. Every room containing a boiler or central heating plant shall be separated from the rest of the building by not less than a one-hour fire-resistive occupancy separation.
+
+Exception: A separation shall not be required for such rooms with equipment serving only one dwelling unit.
+
+1113.11 Equivalent protection.
+
+In lieu of the separation of occupancies required by Section 1113.10, equivalent protection may be permitted when approved by the enforcement agency.
+
+Exception: The provisions of Sections 1113.3 through 1113.11 above shall not apply to any existing apartment house, hotel or motel having floors (as measured from the top of the floor surface) used for human occupancy located more than 75 feet (22 860 mm) above the lowest floor level having building access which is subject to the provisions of Section 1114 and the California Existing Building Code, relating to existing high-rise buildings.
+
+Note: In accordance with Health and Safety Code Section 17920.7, the provisions of Sections 1113.3 through 1113.11 above shall apply only to multiple-story structures existing on January 1, 1975, let for human habitation including, and limited to, apartments, houses, hotels and motels wherein rooms used for sleeping are let above the ground floor.
+
+1113.12 Fire alarms.
+
+1113.12.1 General.
+
+Every apartment house three or more stories in height or containing more than 15 apartments, every hotel three or more stories in height or containing 20 or more guest rooms, shall have installed therein an automatic or manually operated fire alarm system. Such fire alarm systems shall be so designed that all occupants of the building may be warned simultaneously and shall be in accordance with the California Fire Code. See Section 1114.14 for special requirements in buildings over 75 feet (22 860 mm) in height.
+
+Exception: A fire alarm system need not be installed provided such apartment house or hotel is separated by an unpierced wall of not less than four-hour fire resistance in buildings of Type IA, Type IIB, Type III or Type IV construction and two-hour fire resistance in buildings of all other types of construction provided:
+
+1.Areas do not exceed the number of apartments or guest rooms stipulated.
+
+2.The fire-resistive wall conforms to the requirements of Section 706.6 of the California Building Code.
+
+3.The wall complies with all other applicable provisions of the California Building Code.
+
+4.The wall extends to all outer edges of horizontal projecting elements, such as balconies, roof overhangs, canopies, marquees or architectural projections.
+
+5.No openings are permitted for air ducts or similar penetrations, except that openings for pipes, conduits and electrical outlets of copper, sheet steel or ferrous material shall be permitted through such wall and need not be protected, provided they do not unduly impair the required fire resistance of the assembly.
+
+6.Tolerances around such penetrations shall be filled with approved noncombustible materials.
+
+1113.12.2 Installation.
+
+The installation of all fire alarm equipment shall be in accordance with the California Fire Code.
+
+1113.13 Existing Group R Occupancy high-rise buildings.
+
+1113.13.1 General.
+
+Regardless of other provisions of these regulations relating to existing high-rise buildings, requirements relative to existing Group R-1 or Group R-2 Occupancies shall not be less restrictive than those established pursuant to Health and Safety Code Section 13143.2.
+
+1113.13.2 Corridor openings.
+
+Openings in corridor walls and ceilings shall be protected by not less than 13/4-inch (44.5 mm) solid-bonded wood-core doors, 1/4-inch-thick (6 mm) wired glass conforming to Section 715.1 of the California Building Code, by approved fire dampers or by equivalent protection in lieu of any of these items. Transoms shall be fixed closed with material having a fire-resistive rating equal to 1/2-inch (12.7 mm) Type X gypsum wallboard or equivalent material installed on both sides of the opening.
+
+1113.13.3 Fire alarm systems.
+
+Notwithstanding the provisions of Section 403 of the California Building Code, every existing high-rise building used for the housing of a Group R-1 or Group R-2 Occupancies shall have installed therein a fire alarm system conforming to this subsection.
+
+1113.13.3.1 General.
+
+Every apartment house and every hotel shall have installed therein an automatic or manually operated fire alarm system. Such fire alarm systems shall be so designed that all occupants of the building may be warned simultaneously.
+
+1113.13.3.2 Installation.
+
+The installation of all fire alarm equipment shall be in accordance with the California Fire Code.
+
+1113.13.3.3 Fire-extinguishing systems.
+
+Automatic fire-extinguishing systems installed in any structure subject to these regulations shall have an approved flow indicator electrically interconnected to the required fire alarm system.
+
+SECTION 1114 EXISTING HIGH-RISE BUILDINGS [SFM] [SFM]
+
+1114.1 Scope and definition.
+
+The provisions of Sections 1114.1 through 1114.27 shall apply to every existing high-rise building of any type of construction or occupancy having floors (as measured from the top of the floor surface) used for human occupancy located more than 75 feet (22 860 mm) above the lowest floor level having building access.
+
+Exceptions:
+
+1.Hospitals, as defined in Section 1250 of the Health and Safety Code.
+
+2.The following structures, while classified as high-rise buildings, shall not be subject to the provisions of Sections 1114.1 through 1114.27, but shall conform to all applicable provisions of these regulations.
+
+2.1.Building used exclusively as open parking garages.
+
+2.2.Buildings where all floors above the 75 foot (22 860 mm) level are used exclusively as open parking garages.
+
+2.3.Floors of buildings used exclusively as open parking garages and located above all other floors used for human occupancy.
+
+2.4.Buildings such as power plants, look-out towers, steeples, grain houses and similar structures, when so determined by the enforcing agency.
+
+2.5.Buildings used exclusively for jails and prisons. For the purposes of this section, “building access” shall mean an exterior door opening conforming to all of the following:
+
+1.Suitable and available for fire department use.
+
+2.Located not more than 2 feet (610 mm) above the adjacent ground level.
+
+3.Leading to a space, room or area having foot traffic communication capabilities with the remainder of the building.
+
+4.Designed to permit penetration through the use of fire department forcible-entry tools and equipment unless other approved arrangements have been made with the fire authority having jurisdiction.
+
+“Existing high-rise structure” means a high-rise structure, the construction of which is commenced or completed prior to July 1, 1974.
+
+For the purpose of this section, construction shall be deemed to have commenced when plans and specifications are more than 50 percent complete and have been presented to the local jurisdiction prior to July 1, 1974. Actual construction of such buildings shall commence on or before January 1, 1976, unless all provisions for new buildings have been met.
+
+Note: It is the intent of this section that, in determining the level form which the highest occupied floor is to be measured, the enforcing agency should exercise reasonable judgment, including consideration of overall accessibility to the building by fire department personnel and vehicular equipment. When a building is situated on sloping terrain and there is building access on more than one level, the enforcing agency may select the level which provides the most logical and adequate fire department access.
+
+1114.2 Compliance data.
+
+Except as may be otherwise specified, existing high-rise building shall conform to the applicable requirements of these regulations by April 26, 1979.
+
+Exception: The period of compliance may be extended upon showing of good cause for such extension if a systematic and progressive plan of correction is submitted to, and approved by, the enforcing agency. Such extension shall not exceed two years from the date of approval of such plan. Any plan of correction submitted pursuant to this exception shall be submitted and approved on or before April 26, 1979.
+
+1114.3 Continued use.
+
+Existing high-rise building may have their use continued if they conform, or are made to conform, to the intent of the provisions of Sections 1114.5 through 1114.27 to provide for the safety of the occupants of the high-rise buildings and person involved in fire-suppression activities.
+
+1114.4 Alternate protection.
+
+Alternate means of egress, fire walls or fire barriers, smoke barriers, automatic fire detection or fire-extinguishing systems, or other fire-protection devices, equipment or installations may be approved by the enforcing agency to provide reasonable and adequate life safety as intended by Sections 1114.5 through 1114.27 for existing high-rise buildings.
+
+1114.5 Basic provisions.
+
+The provisions outlined in Sections 1114.1 through 1114.27 are applicable to every existing highrise building.
+
+1114.6 Minimum construction.
+
+Existing wood lath and plaster, existing 1/2-inch (12.7 mm) gypsum wallboard, existing installations of 1/2-inch thick (12.7 mm) wired glass which are or are rendered inoperative and fixed in a closed position, or other existing materials having similar fire-resistive capabilities shall be acceptable. All such assemblies shall be in good repair, free of any condition which would diminish their original fire-resistive characteristics.
+
+Where 13/4-inch (44.5 mm) solid-bonded wood-core doors are specified in these regulations for existing high-rise buildings, new or existing 13/8-inch (34.9 mm) doors shall be acceptable where existing framing will not accommodate a 13/4-inch (44.5 mm) door.
+
+Note: It is the intent of this provisions that existing wood frames may have their use continued.
+
+1114.7 New construction.
+
+All new construction shall be composed of materials and assemblies of materials conforming to the fire-resistive provisions of these regulations. In no case shall enclosure walls be required to be of more than one-hour fire-resistive construction.
+
+Exception: When approved by the enforcing agency, materials specified in Section 1114.6 may be used for new construction when necessary to maintain continuity of design and measurement of existing construction.
+
+1114.8 Exits.
+
+Every floor from an existing high-rise building shall have access to two separate means of egress, one of which, when approved by the enforcing agency, may be an existing exterior fire escape. New installations of smokeproof enclosures shall not be required.
+
+Note: In determining the adequacy of exits and their design, Chapter 10 of the California Building Code may be used as a guide. It is the intent of this section that every existing high-rise building need not mandatorily conform or be made to conform with the requirements for new high-rise buildings. Reasonable judgment in the application of requirements must be exercised by the enforcing agency.
+
+1114.9 Fire escapes.
+
+An existing fire escape in good structural condition may be acceptable as one of the required means of egress from each floor. Access to such fire escapes may be by any one of the following:
+
+Through a room between the corridor and the fire escape if the door to the room is operable from the corridor side without the use of any key, special knowledge or effort.
+
+By a door operable to a fire escape from the interior without the use of any key, special knowledge or effort.
+
+By a window operable from the interior. Such window shall have a minimum dimension of 29 inches (737 mm) when open.
+
+The sill shall not be more than 30 inches (762 mm) above the floor and landing.
+
+1114.10 Protection of exterior openings.
+
+When an existing fire escape is accepted as one of the require means of egress, openings onto the fire escape landing and openings within 5 feet (1524 mm) horizontally of the landings shall be protected in a manner acceptable to the enforcing agency.
+
+1114.11 Locking of stairway doors.
+
+When exit doors from corridors to exit stairways are locked to prohibit access from the stairway side, the locking mechanisms shall be retracted to the unlocked position upon failure of electrical power and a telephone or other two-way communication system connected to an approved emergency service that operates continuously shall be provided at not less than every fifth floor in each required stairway. In lieu thereof, master keys which will unlock all such doors from the stairway side shall be provided in such numbers and locations as approved by the enforcing agency.
+
+1114.12 Enclosures.
+
+Interior vertical shafts, including but not limited to, elevators, stairway and utility, shall be enclosed with construction as set forth in Section 1114.6.
+
+1114.13 Opening protection.
+
+Doors in other than elevators, which shall be of a type acceptable to the enforcing agency, shall be approved one-hour, fire-rated, tight-fitting or gasketed doors or equivalent protection, and shall be of the normally closed type, self-closing or a type which will close automatically in accordance with Section 715 of the California Building Code.
+
+Exception: In lieu of stairway enclosures, smoke barriers may be provided in such a manner that fire and smoke will not spread to other floors or otherwise impair exit facilities. In these instances, smoke barriers shall not be less than one-hour fire resistive with openings protected by not less than approved one-third-hour, fire-rated, tight-fitting or gasketed doors. Such doors shall be of the self-closing type or of a type which will close automatically in the manner specified in Section 715 of the California Building Code.
+
+Doors crossing corridors shall be provided with wired-glass vision panels set in approved steel frames. Doors for elevators shall not be of the open-grille type.
+
+1114.14 Fire alarm system.
+
+Every existing high-rise building shall be provided with an approved fire alarm system. In department stores, retail sales stores and similar occupancies where the general public is admitted, such systems shall be of a type capable of alerting staff and employees. In office buildings and all other high-rise buildings, such systems shall be of a type capable of alerting all occupants simultaneously.
+
+Exceptions:
+
+1.In areas of public assemblage, the type and location of audible appliances shall be as determined by the enforcing agency.
+
+2.When acceptable to the enforcing agency, the occupant voice notification system required by Section 1114.20 may be used in lieu of the fire alarm system required by Section 1114.14.
+
+1114.15 Existing systems.
+
+Existing fire systems, when acceptable to the enforcing agency, shall be deemed as conforming to the provisions of these regulations. For requirements for existing Group R-1 Occupancies, see Section 312.13 of the California Building Code.
+
+1114.16 Annunciation.
+
+When a new fire alarm system is installed, it shall be connected to an annunciator panel installed in a location approved by the enforcing agency. For purposes of annunciation, zoning shall be in accordance with Section 907.6.3 of the California Building Code.
+
+1114.17 Monitoring.
+
+Shall be in accordance with Section 907.6.5 of the California Building Code.
+
+1114.18 Systems interconnection.
+
+When an automatic fire detection system or automatic extinguishing system is installed, activation of such system shall cause the sounding of the fire alarm notification appliances at locations designated by the enforcing agency.
+
+1114.19 Manual fire alarm boxes.
+
+A manual fire alarm box shall be provided in the locations designated by the enforcing agency. Such locations shall be where boxes are readily accessible and visible and in normal paths of daily travel by occupants of the building.
+
+1114.20 Emergency voice/alarm communication system.
+
+An approved emergency voice/alarm system shall be provided in every existing high-rise building which exceeds 150 feet (45 720 mm) in height measured in the manner set forth in Section 312.1 of the California Building Code. Such system shall provide communication from a location available to and designated by the enforcing agency to not less than all public areas. The emergency voice/alarm system may be combined with a fire alarm system provide the combined system has been approved and listed by the State Fire Marshal. The sounding of a fire alarm signal in any given area or floor shall not prohibit voice communication to other areas of floors. Combination systems shall be designed to permit voice transmission to override the fire alarm signal, but the fire alarm signal shall not terminate in less than three minutes.
+
+1114.21 Fire department system.
+
+When it is determined by test that portable fire department communication equipment is ineffective, a communication system acceptable to the enforcing agency shall be installed within the building to permit emergency communication between fire-suppression personnel.
+
+1114.22 Interior wall and ceiling finish.
+
+Interior wall and ceiling finish of exitways shall conform to the provisions of Chapter 8 of the California Building Code. Where the materials used in such finishes do not conform to the provisions of Chapter 8 of the California Building Code, such finishes may be surfaced with an approved fire-retardant coating.
+
+1114.23 Ventilation.
+
+Natural or mechanical ventilation for the removal of products of combustion shall be provided in every story of an existing high-rise building. Such ventilation shall be any one or combination of the following: Panels or windows in the exterior wall which can be opened. Such venting facilities shall be provided at the rate of at least 20 square feet (1.86 m2) of opening per 50 lineal feet (15 240 lineal mm) of exterior wall in each story, distributed around the perimeter at not more than 50-foot (15 240 mm) intervals on at least two sides of the building. Approved fixed tempered glass may be used in lieu of openable panels or windows. When only selected panels or windows are of tempered glass, they shall be clearly identified as required by the enforcing agency. Any other design which will produce equivalent results.
+
+1114.24 Smoke control systems.
+
+Existing air-circulation systems shall be provided with an override switch in a location approved by the enforcing agency which will allow for the manual control of shutdown of the systems.
+
+Exception: Systems which serve only a single floor, or portion thereof, without any penetration by ducts or other means into adjacent floors.
+
+1114.25 Elevator recall smoke detection.
+
+Smoke detectors for emergency operation of elevators shall be provided as required by Section 3003 of the California Building Code.
+
+1114.26 Exit signs and illumination.
+
+Exits and stairways shall be provided with exit signs and illumination as required by Sections 1011.1 and 1011.2 of the California Building Code.
+
+1114.27 Automatic sprinkler system–Existing high-rise buildings.
+
+Regardless of any other provisions of these regulations, every existing high-rise building of Type II-B, Type III-B or Type V-B construction shall be provided with an approved automatic sprinkler system conforming to NFPA 13.
+
+SECTION 1115 EXISTING GROUP I OCCUPANCIES [SFM] [SFM]
+
+1115.1 General.
+
+Existing buildings housing existing protective social-care homes or facilities established prior to March 4, 1972 may have their use continued if they conform, or are made to conform, to the following provisions:
+
+1115.2 Use of floors.
+
+The use of floor levels in buildings of Type III, IV or V nonfire-rated construction may be as follows: Nonambulatory—first floor only; Ambulatory—not higher than the third-floor level, provided walls and partitions are constructed of materials equal in fire-resistive quality to that of wood lath and plaster in good repair and all walls are firestopped at each floor level.
+
+1115.3 Enclosure of exits and vertical openings.
+
+Except for two-story structures housing ambulatory guests, all interior stairs shall be enclosed in accordance with Chapter 10 of the California Building Code. In lieu of stairway enclosures, floor separations or smoke barriers may be provided in such a manner that fire and smoke will not spread rapidly to floors above or otherwise impair exit facilities. In these instances, floor separations or smoke barriers shall have a fire resistance equal to not less than 1/2-inch (13 mm) gypsum wall board on each side of wood studs with openings protected by not less than a 13/4-inch (44.5 mm) solid bonded wood-core door of the self-closing type. All other vertical openings shall be enclosed in accordance with the provisions of Sections 1114.6 and 1114.13.
+
+1115.4 Exit access.
+
+Each floor or portion thereof of buildings used for the housing of existing protective social-care homes or facilities shall have access to not less than two exits in such a manner as to furnish egress from the building or structure in the event of an emergency substantially equivalent to the provisions of Chapter 10 of the California Building Code.
+
+1115.5 Corridor openings.
+
+Openings from rooms to interior corridors shall be protected by not less than 13/4-inch (44.5 mm) solid-bonded wood-core doors. Transoms and other similar openings shall be sealed with materials equivalent to existing corridor wall construction.
+
+1115.6 Interior finishes.
+
+Interior wall and ceiling finishes shall conform to the requirements for a Group R-1 Occupancy as specified in Chapter 8 of the California Building Code.
+
+1115.7 Automatic fire sprinklers.
+
+Automatic sprinkler systems shall be installed in existing protective social-care occupancies in accordance with the provisions of Section 903.2.6 of the California Building Code.
+
+1115.8 Fire alarm systems.
+
+Automatic fire alarm systems shall be installed in existing protective social-care homes or facilities in accordance with the provisions of Section 907.2.6 of the California Building Code.
+
+Exception: When an approved automatic sprinkler system conforming to Section 903.2.6 of the California Building Code is installed, a separate fire alarm system as specified in this section need not be provided.
+
+SECTION 1116 EXISTING GROUP L AND GROUP H-8 OCCUPANCIES [SFM] [SFM]
+
+1116.1 Repairs general.
+
+Additions, alterations or repairs may be made to any building or structure without requiring the existing building or structure to comply with all the requirements of this code section, provided the addition, alteration or repair conforms to the requirements of this section.
+
+1116.2 Unsafe condition.
+
+Additions, repairs or alterations shall not be made to an existing building or structure that will cause the existing building or structure to be in violation of any of the provisions of this code, nor shall such additions or alterations cause the existing building or structure to become unsafe, or to be in violation of any of the provisions of this code. An unsafe condition shall be deemed to have been created if an addition or alteration will cause the existing building or structure to become structurally unsafe or overloaded; will not provide adequate egress in compliance with the provisions of this code or will obstruct existing exits; will create a fire hazard; will reduce required fire resistance or will otherwise create conditions dangerous to human life.
+
+1116.3 Changes in use or occupancy.
+
+Any buildings that have alternations or additions, which involves a change in use or occupancy, shall not exceed the height, number of stories and area permitted for new buildings.
+
+1116.4 Buildings not in compliance with code.
+
+Additions or alterations shall not be made to an existing building or structure when such existing building or structure is not in full compliance with the provisions of this code except when such addition or alteration will result in the existing building or structure being no more hazardous, based on life safety, fire safety and sanitation, than before such additions or alterations are undertaken.
+
+1116.5 Maintenance of structural and fire resistive integrity.
+
+Alterations or repairs to an existing building or structure that are nonstructural and do not adversely affect any structural member of any part of the building or structure having required fire resistance may be made with the same materials of which the building or structure is constructed. The installation or replacement of glass shall be as required for new installations.
+
+1116.6 Continuation of existing use.
+
+Buildings in existence at the time of the adoption of this code may have their existing use or occupancy continued if such use or occupancy was legal at the time of the adoption of this code, provided such continued use is not dangerous to life.
+
+1116.7 Maximum allowable quantities.
+
+Existing Group H-8 laboratory suites approved prior to January 1, 2008 shall not exceed the maximum allowable quantities listed in Tables 1116.7(1) and 1116.7(2).
+
+TABLE 1116.7(1)
+
+EXEMPT AMOUNTS OF HAZARDOUS MATERIALS, LIQUIDS AND CHEMICALS PRESENTING A PHYSICAL HAZARD BASIC QUANTITIES PER LABORATORY SUITE1 When two units are given, values within parentheses are in cubic feet (cu. ft) or pounds (lb)
+
+CONDITION	STORAGE	USE CLOSED SYSTEMS	USE OPEN SYSTEMS
+MATERIAL	CLASS	Solid Pounds (cu. ft)	Liquid Gallons (lb)	Gas (cu. ft)	Solid Pounds (cu. ft)	Liquid Gallons (lb)	Gas (cu. ft)	Solid Pounds (cu. ft)	Liquid Gallons (lb)	Gas (cu. ft)
+1.1 Combustible liquid	II	—	1202	—	—	120	—	—	30	—
+III-A	—	3302	—	—	330	—	—	80	—
+III-B	—	13,2002	—	—	13,200	—	—	3,300	—
+1.2 Combustible dust lbs./1000 cu. ft.		1	—	—	1	—	—	1	—	—
+1.3 Combustible fiber (loose)  (baled)		(100) (1,000)	——	——	(100) (1,000)	——	——	(20) (200)	——	——
+1.4 Cryogenic, flammable or oxidizing		—	45	—	—	45	—	—	10	—
+2.1 Explosives		12	(1)2	—	1/4	(1/4)	—	1/4	(1/4)	—
+3.1 Flammable solid		1252	—	—	25	—	—	25	—	—
+3.2 Flammable gas (gaseous) (liquefied)		——	—152	7502—	——	—152	7502—	——	——	——
+3.3 Flammable liquid combination I-A, I-B, I-C	I-A	—	302	—	—	30	—	—	10	—
+I-B	—	602	—	—	60	—	—	15	—
+I-C	—	902	—	—	90	—	—	20	—
+	—	1202	—	—	120	—	—	30	—
+4.1 Organic peroxide, unclassified detonatable		12	(1)2	—	1/4	(1/4)	—	1/4	(1/4)	—
+4.2 Organic peroxide	I	52	(5)2	—	(1)	(1)	—	1	1	—
+II	502	(50)2	—	50	(50)	—	10	(10)	—
+III	1252	(125)2	—	125	(125)	—	25	(25)	—
+IV	500	(500)	—	500	(500)	—	100	(100)	—
+V	N.L.	N.L.	—	N.L.	N.L.	—	N.L.	N.L.	—
+4.3 Oxidizer	4	12	(1)2	—	1/42	(1/4)	—	1/4	(1/4)	—
+3	102	(10)2	—	2	(2)	—	2	(2)	—
+2	2502	(250)2	—	50	(250)	—	50	(50)	—
+1	1,0002	(1,000)2	—	1,000	(1,000)	—	200	(200)	—
+4.4 Oxidizer, Gas										
+ (gaseous)	—	—	1,5002	—	—	1,5002	—	—	—
+ (liquefied)	—	152	—	—	152	—	—	—	—
+5.1 Pyrophoric		42	(4)2	502	1	(1)	102	0	0	0
+6.1 Unstable (reactive)	4	12	(1)2	102	1/4	(1/4)	22	1/4	(1/4)	0
+3	52	(5)2	502	1	(1)	102	1	(1)	0
+2	502	(50)2	2502	50	(50)	2502	10	(10)	0
+1	1252	1252	7502	125	(125)	7502	25	(25)	0
+7.1 Water (reactive)	3	52	(5)2	—	5	(5)	—	1	(1)	—
+2	502	(50)2	—	50	(50)	—	10	(10)	—
+1	1252	(125)2	—	125	(125)2	—	25	(25)	—1. A laboratory suite is a space up to 10,000 square feet (929 m2) bounded by not less than a one-hour fire-resistive occupancy separation within which the exempt amounts of hazardous materials may be stored, dispensed, handled or used. Up through the third floor and down through the first basement floor, the quantity in this table shall apply. Fourth, fifth and sixth floors and the second and third basement floor level quantity shall be reduced to 75 percent of this table. The seventh through 10th floor and below the third basement floor level quantity shall be reduced to 50 percent of this table.
+
+2. Quantities may be increased 100 percent when stored in approved exhausted gas cabinets, exhausted enclosures or fume hoods.
+
+TABLE 1116.7(2)
+
+EXEMPT AMOUNTS OF HAZARDOUS MATERIALS, LIQUIDS AND CHEMICALS PRESENTING A HEALTH HAZARD MAXIMUM QUANTITIES PER LABORATORY SUITE1 When two units are given, values within parentheses are in pounds (lbs.)
+
+MATERIAL	STORAGE	USE CLOSED SYSTEMS	USE OPEN SYSTEMS
+Solid lb	Liquid Gallons (lb)	Gas (cu. ft)	Solid lb	Liquid Gallons (lb)	Gas (cu. ft)	Solid lb	Liquid Gallons (lb)
+1. Corrosives	5,000	500	6502	5,000	500	650	1,000	100
+2a. Highly toxics2	40	10	65	5	1	65	2	1/4
+2b. Toxics	500	50	6502	500	50	650	5	1/2
+3. Irritants	5,000	500	650	5,000	500	650	1,000	100
+4. Sensitizers	5,000	500	650	5,000	500	650	1,000	100
+5. Other health hazards	5,000	500	650	5,000	500	650	1,000	1001. A laboratory suite is a space up to 10,000 square feet (929 m2) bounded by not less than a one-hour fire-resistive occupancy separation within which the exempt amounts of hazardous materials may be stored, dispensed, handled or used. Up through the third floor and down through the first basement floor, the quantity in this table shall apply. Fourth, fifth and sixth floors and the second and third basement floor level quantity shall be reduced to 75 percent of this table. The seventh through 10th floor and below the third basement floor level quantity shall be reduced to 50 percent of this table.
+
+2. Permitted only when stored or used in approved exhausted gas cabinets, exhausted enclosures or fume hoods. Quantities of high toxics in use in open systems need not be reduced above the third floor or below the first basement floor level. Individual container size shall be limited to 2 pounds (0.91 kg) for solids and 1/4 gallon (0.95 L) for liquids.
+

@@ -1,0 +1,16 @@
+
+
+The format of this code is common to other parts of the California Building Standards Code and contains building standards applicable to occupancies which fall under the authority of different state agencies. Occupancies and applications under the authority of a specific state agency are identified in Chapter 1, Sections 103 through 106. Sections of this code which are applicable and adopted by each state agency are identified in the Matrix Adoption Tables located at the beginning of each chapter. The following outline is provided as a guide to establish which provisions are applicable to a specific occupancy.
+
+1.Establish the type of occupancy.
+
+2.Verify which state agency has authority for the established occupancy by reviewing the authorities list in Sections 103 through 106.
+
+3.Once the appropriate agency has been identified, find the chapter which covers the established occupancy.
+
+4.The Matrix Adoption Tables at the beginning of Chapters 4 and 5 identify the required green building measures necessary to meet the minimum requirements of this code for the established occupancy.
+
+5.Voluntary tier measures are contained in Appendix Chapters A4 and A5. A Checklist containing each green building measure, both required and voluntary is provided at the end of each appendix chapter. Each measure listed in the application checklist has a section number which correlates to a section where more information about the specific measure is available.
+
+6.The Application Checklist identifies which measures are required by this code and allows users to check-off which voluntary items have been selected to meet voluntary tier levels if desired or mandated by a city, county, or city and county.
+

@@ -1,0 +1,126 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE APPENDIX O – PERFORMANCE-BASED APPLICATION
+
+(Not adopted by state agencies)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							[A] APPENDIX O PERFORMANCE-BASED APPLICATION
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User notes:
+
+About this appendix: Appendix O provides an optional design, review and approval framework for use by the building official. Typical uses would include cases of alternate methods in Chapter 1, select areas of the code that require a rational analysis such as Section 909 and elsewhere. It simply extracts the relevant administrative provisions from the ICC Performance Code into a more concise, usable appendix format for a jurisdiction confronted with such a need. Currently there are multiple, varying jurisdictional rules and procedures in many communities regarding procedure and none in even more. The building official is often left alone to reach decisions not just on the merits of a design, but must first also decide on the submittal and review process. As an appendix, the provisions herein are entirely optional to a jurisdiction. This appendix can be adopted, adopted with local modifications, or even used on a case-by-case basis as part of a Memorandum of Understanding or similar legal agreement between the jurisdiction and the owner/design team. It simply represents another tool for the jurisdiction to reach for in cases of need; it neither encourages nor creates any additional opportunity for performance-based design.
+
+Code development reminder: Code change proposals to this appendix will be considered by the Administrative Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+[A] SECTION O101 GENERAL
+
+O101.1 Introduction.
+
+The following administrative provisions are excerpted from the ICC Performance Code for Buildings and Facilities and can be used in conjunction with the Alternate Methods provisions in Chapter 1, or for a review of submittals requiring a rational analysis or performance-based design. These provisions provide an established framework for the building official in terms of the design expertise needed, the necessary submittals, a review framework and related items.
+
+O101.2 Qualifications.
+
+Registered design professionals shall possess the knowledge, skills and abilities necessary to demonstrate compliance with this code.
+
+O101.3 Construction document preparation.
+
+Construction documents required by this code shall be prepared in adequate detail and submitted for review and approval in accordance with Section 107.
+
+O101.3.1 Review.
+
+Construction documents submitted in accordance with this code shall be reviewed for code compliance with the appropriate code provisions in accordance with Section 107.
+
+O101.4 Construction.
+
+Construction shall comply with the approved construction documents submitted in accordance with this code, and shall be verified and approved to demonstrate compliance with this code.
+
+O101.4.1 Facility operating policies and procedures.
+
+Policies, operations, training and procedures shall comply with approved documents submitted in accordance with this code, and shall be verified and approved to demonstrate compliance with this code.
+
+O101.4.2 Maintenance.
+
+Maintenance of the performancebased design shall be ensured throughout the life of the building or portion thereof.
+
+O101.4.3 Changes.
+
+The owner or the owner’s authorized agent shall be responsible to ensure that any change to the facility, process, or system does not increase the hazard level beyond that originally designed without approval and that changes shall be documented in accordance with the code.
+
+O101.5 Documentation.
+
+The registered design professional shall prepare appropriate documentation for the project, clearly detailing the approach and rationale for the design submittal, the construction and the future use of the building, facility or process.
+
+O101.5.1 Reports and manuals.
+
+The design report shall document the steps taken in the design analysis, clearly identifying the criteria, parameters, inputs, assumptions, sensitivities and limitations involved in the analysis. The design report shall clearly identify bounding conditions, assumptions and sensitivities that clarify the expected uses and limitations of the performance analysis. This report shall verify that the design approach is in compliance with the applicable codes and acceptable methods and shall be submitted for concurrence by the building official prior to the construction documents being completed. The report shall document the design features to be incorporated based on the analysis.
+
+The design report shall address the following:
+
+1.Project scope.
+
+2.Goals and objectives.
+
+3.Performance criteria.
+
+4.Hazard scenarios.
+
+5.Design fire loads and hazards.
+
+6.Final design.
+
+7.Evaluation.
+
+8.Bounding conditions and critical design assumptions.
+
+9.Critical design features.
+
+10.System design and operational requirements.
+
+11.Operational and maintenance requirements.
+
+12.Commissioning testing requirements and acceptance criteria.
+
+13.Frequency of certificate renewal.
+
+14.Supporting documents and references.
+
+15.Preliminary site and floor plans.
+
+O101.5.2 Design submittal.
+
+Applicable construction documents shall be submitted to the building official for review. The documents shall be submitted in accordance with the jurisdiction’s procedures and in sufficient detail to obtain appropriate permits.
+
+O101.6 Review.
+
+Construction documents submitted in accordance with this code shall be reviewed for code compliance with the appropriate code provisions.
+
+O101.6.1 Peer review.
+
+The owner or the owner’s authorized agent shall be responsible for retaining and furnishing the services of a registered design professional or recognized expert, who will perform as a peer reviewer, where required and approved by the building official.
+
+O101.6.2 Costs.
+
+The costs of special services, including contract review, where required by the building official, shall be borne by the owner or the owner’s authorized agent.
+
+O101.7 Permits.
+
+Prior to the start of construction, appropriate permits shall be obtained in accordance with the jurisdiction’s procedures and applicable codes.
+
+O101.8 Verification of compliance.
+
+Upon completion of the project, documentation shall be prepared that verifies performance and prescriptive code provisions have been met. Where required by the building official, the registered design professional shall file a report that verifies bounding conditions are met.
+
+O101.9 Extent of documentation.
+
+Approved construction documents, the operations and maintenance manual, inspection and testing records, and certificates of occupancy with conditions shall be included in the project documentation of the building official’s records.
+
+O101.10 Analysis of change.
+
+The registered design professional shall evaluate the existing building, facilities, premises, processes, and contents, and the applicable documentation of the proposed change as it affects portions of the building, facility, premises, processes and contents that were previously designed for compliance under a performancebased code. Prior to any change that was not documented in a previously approved design, the registered design professional shall examine the applicable design documents, bounding conditions, operation and maintenance manuals, and deed restrictions.
+

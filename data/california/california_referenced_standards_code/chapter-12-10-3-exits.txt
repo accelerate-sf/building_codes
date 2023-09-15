@@ -1,0 +1,90 @@
+CHAPTER 12-10-3 EXITS
+
+EMERGENCY EXIT AND PANIC HARDWARE STANDARD 12-10-3
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-10-300.
+
+(a)Exit door hardware. These requirements and methods of test apply to releasing devices actuated by a crossbar for outward-opening doors intended for use on exit doors.
+
+(b)Fire-exit hardware. Releasing devices intended for use on doors bearing a fire-retardant classification shall also conform to the construction standards and performance tests specified in Fire Door Assembly Tests, SFM 12-7-4, Section 12-7-400.
+
+(c)Listing by approved listing agency. Listing by an approved listing agency shall not be construed as necessarily indicating compliance in all respects with the requirements of these Construction Standards and Performance Tests for Emergency Exit and Panic Hardware. The test report of the listing agency may be filed for review and after evaluation, if it is found to provide evidence of conformance, the releasing device assembly may be recognized for approval and listing.
+
+INSTRUCTIONS
+
+Sec. 12-10-301.
+
+Approved installation instructions shall be provided by the manufacturer. Instructions shall be illustrated and shall include directions and information adequate for obtaining proper and safe installation of the equipment.
+
+DESIGN
+
+Sec. 12-10-302.
+
+(a)Releasing pressure. Exit panic hardware mechanisms shall be designed to release the door latch or latches when pressure not to exceed 15 pounds is applied at any point along the cross-bar perpendicular to the door in the direction of exit travel. The cross-bar shall extend across not less than one-half the width of the door.
+
+(b)Locking device. A locking device employed as part of the mechanism shall not prevent release of the door latch or latches when pressure of not to exceed 15 pounds is applied to the cross-bar in the direction of exit travel.
+
+(c)Dead locking bolt. A dead locking bolt shall not be provided as a part of the mechanism unless it is released and retracted, and does not prevent release of the door latch or latches, or release of the door to swing outward when pressure not to exceed 15 pounds is applied to the cross-bar in the direction of exit travel.
+
+(d)Cross bar. The ends of the cross-bar shall be curved, guarded or otherwise designed to prevent catching on the clothing of persons during egress.
+
+(e)Springs. The release mechanism shall not depend on springs to release or retract the door latch or latches, locking mechanism, dead bolt or vertical rods.
+
+(f)Dogging devices. Exit panic hardware mechanisms shall not be equipped with any locking or dogging device, set screw or other arrangement which can be used to prevent release of the door latch or latches, locking device or dead locking bolt when pressure is applied to the cross-bar.
+
+CONSTRUCTION MATERIALS
+
+Sec. 12-10-303.
+
+(a)Strength. The materials used in the assembly of a releasing mechanism shall have mechanical strength equivalent to brass or bronze to perform their intended function.
+
+(b)Springs. Component springs used in the assembly of a releasing mechanism shall be of material having spring properties equivalent to stainless steel conforming to ASTM A313-67.
+
+(c)Corrosion resistance of moving parts. Moving parts in the releasing mechanism assembly shall have corrosion resistance equivalent to 300 series stainless steel, or shall show no visual signs of corrosion after being subjected to a salt fog atmosphere per ASTM B117 for a period of 120 hours.
+
+(d)Nonmoving parts. Nonmoving parts, cases and similar parts shall be of materials, or shall be coated to provide corrosion protection equivalent to 0.0005-inch-thick (0.01 mm) cadmium coated steel as determined by comparison in salt fog atmosphere per ASTM B117 for a period of not less than 16 hours.
+
+(e)Galvanic action. Coated or uncoated metals used in the assembly of releasing mechanisms shall not be used in combination such as to cause detrimental galvanic action which may adversely affect the function of any part of the assembly.
+
+(f)Nonmetallic materials. Nonmetallic materials may be used as coatings for wearing surfaces, rollers, finishes or for similar purposes if the materials otherwise conform to these requirements.
+
+ENDURANCE AND PERFORMANCE TESTS
+
+Sec. 12-10-304.
+
+(a)Testing laboratory. Tests shall be conducted at a testing laboratory approved by the State Fire Marshal, or tests shall be conducted by a qualified independent fire protection engineer, acceptable to the State Fire Marshal in test facilities acceptable to the State Fire Marshal.
+
+(b)Report. The test report shall include a detailed description of the releasing mechanism and its intended function; engineering data, shop drawings and photographs; identification of materials as to source, composition, strength and corrosion resistance; the physical or chemical tests including dimension of parts before and after the endurance tests establishing conformance of materials. The report shall include copies of the manufacturer’s installation instructions. The report shall be verified by the laboratory or fire protection engineer responsible for the conduct of the test. The test report and evidence of listing by an approved listing agency may be provided for the applicable portions of these endurance and performance tests.
+
+(c)Test equipment. The releasing mechanism shall be applied on a suitable door hung on heavy duty ball bearing butts or pivots installed in a suitable metal frame in accordance with the manufacturer’s instructions. A motor-driven mechanism shall be used to actuate the cross-bar so as to release the latches or dead-locking bolts, push the door open and jerk the door shut so that the latches or dead-locking bolts operate as in service. The rate of operation or number of cycles shall be approximately ten per minute. For the test the assembly is to have only the lubrication which is provided at the factory or as recommended by the manufacturer in his installation instructions.
+
+Note: Mechanisms involving dead-locking bolts may require modification in the test procedure in order to simulate the intended in-service condition. Modifications in the test procedure shall be filed for evaluation and approval before proceeding with the test.
+
+(d)Releasing pressure. The motor-driven mechanism shall be arranged to apply not to exceed 15 pounds pressure against the cross-bar to release the door latch(es) or dead-locking bolts before the door is pushed open.
+
+(e)Cycle test. The release mechanism and latches or dead-locking bolts shall function as intended for 100,000 cycles of operation without failure or excessive wear of the parts.
+
+EMERGENCY OPERATION TEST
+
+Sec. 12-10-305.
+
+(a)Releasing pressure. The release mechanism shall be so designed that a horizontal force of 50 pounds or less will actuate the release bar and latches or dead-locking bolt when the latched or locked door is subjected to outward pressure as described in Sections 12-10-305 (c) and (d). The horizontal force shall be applied at any point along the cross-bar perpendicular to the door in the direction of swing.
+
+(b)Test specimen. The test specimen for the emergency operation test shall be the sample which has been previously subjected to the cycle test specified in Section 12-10-304.
+
+(c)Testing instrument. The horizontal force applied to the cross-bar shall be measured with a calibrated spring scale or other approved means.
+
+(d)Outward pressure, single door. A hydraulic loading device or load dynamometer shall be used to apply a horizontal force of 250 pounds against the latching edge in the direction in which the door opens. The thrust load shall be applied to the stile immediately above the latching mechanism.
+
+(e)Outward pressure, double doors. A hydraulic loading device or load dynamometer shall be used to apply a horizontal force of 250 pounds against the lock stile of each door of doors in pairs 2 inches (51 mm) in from the edge at mid-point between top and bottom of each door leaf in the direction of door swing.
+
+(f)Release bar deformation. The cross-bar on a 36-inch (914 mm) wide door shall not be permanently set or deformed in excess of 1/4 inch (6 mm), by the test; a spacing of at least 1 inch (25 mm) is to be provided and maintained between the cross-bar and the face of the door when the horizontal force is applied against the cross-bar.
+
+MARKING
+
+Sec. 12-10-306.
+
+The listee’s name (or approved symbol), type or model designation shall be plainly marked on the releasing assembly. Devices and assemblies which are not listed by an approved listing agency for the intended purpose shall bear a label or other identifying markings as approved by the State Fire Marshal.
+

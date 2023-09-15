@@ -1,0 +1,40 @@
+Chapter 14 Process Piping
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X		X					X	X	X	X	X	X	X	X								
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1401.0 General
+1401.1 Applicability
+1402.0 Permit
+1402.1 General
+1403.0 Plans Required
+1403.1 General
+1404.0 Workmanship
+1404.1 General
+1405.0 Inspections
+1405.1 General
+1405.2 Required Inspections
+1405.2.1 Rough Piping Inspection
+1405.2.2 Final Piping Inspection
+1405.3 Other Inspections
+1406.0 Pipe, Tubing, and Fittings
+1406.1 General
+1406.2 Hazardous Process Piping (HPP)
+1406.2.1 Installation in Exit Corridors and Above Other Occupancies
+1406.2.1.1 Automatic Sprinklers
+1406.2.1.2 Ventilation
+1406.2.1.3 Receptor
+1406.2.1.4 Separation
+1406.2.1.5 Emergency Shutoff Valves
+1406.2.1.6 Electrical Wiring
+1406.3 Special Requirements for HPP Gases
+1406.3.1 Special Provisions
+1406.3.2 Piping and Tubing Installation
+1406.3.3 Gas-Detection System

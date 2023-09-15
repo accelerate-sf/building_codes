@@ -1,0 +1,243 @@
+Chapter 6 Duct Systems
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X																						
+Adopt Entire Chapter asamended (amended sections listed below)			X	X	X			X	X	X	X	X	X	X	X								
+Adopt only those sectionsthat are listed below																				X			
+Chapter/Section																							
+601.2.1																				X			
+602.1										X	X	X	X	X	X								
+602.1, Exception										X	X	X	X	X	X								
+602.2.1				X	X																		
+603.3.1				X	X																		
+603.4.1										X	X	X	X	X	X								
+603.4.1.1										X	X	X	X	X	X								
+603.9.2				†	†																		
+603.9.2.1																				X			
+605.1										X	X	X	X	X	X								
+605.2										X	X	X	X	X	X								
+605.3										X	X	X		X	X								
+606.1				X	X																		
+606.8			X					X	X														
+607.1				X	X																		
+607.1.1										X	X	X	X	X	X								
+609.1			X					X	X														
+
+601.2.1
+
+X
+
+603.4.1.1
+
+603.9.2.1
+
+X
+
+605.2
+
+605.3
+
+606.1
+
+606.8
+
+607.1.1
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+601.0 General
+601.1 Applicability
+601.2 Sizing Requirements
+601.2.1 California Energy Code Residential Return Duct Sizing Requirements
+California Energy Code Residential Return Duct Sizing Requirements
+
+California Energy Code Tables 150.0-B and 150.0-C specify return duct sizing requirements for single return and multiple return duct systems, respectively, that are applicable as an alternative to confirming system airflow via field verification and diagnostic testing. See California Energy Code Section 150.0(m)13 for provisions applicable to newly constructed buildings, and Section 150.2(b)(1)(F)(ii)(a) for alterations.
+
+602.0 Material
+602.1 General
+Exception: [OSHPD 1, 1R, 2, 3, 4 & 5] See Section 407.4.1.3.
+
+[Not permitted for OSHPD 1, 1R, 2, 3, 4 & 5]
+
+602.2 Combustibles Within Ducts or Plenums
+602.2.1 Electrical
+the California Electrical Code
+
+602.2.2 Fire Sprinkler Piping
+602.2.3 Pneumatic Tubing
+602.2.4 Discrete Products in Plenums
+602.3 Metallic
+602.4 Nonmetallic Ducts
+602.4.1 Phenolic
+602.4.2 Gypsum
+602.4.3 Air Dispersion Systems
+602.4.4 Other Materials
+602.5 Vibration Isolators
+602.6 Corridors
+603.0 Installation of Ducts
+603.1 General
+603.1.1 Pressure Classification
+603.1.2 Air Temperature
+603.1.3 Protection
+603.1.4 Vertical Risers
+603.1.5 Penetrations
+603.2 Under Floor or Crawl Space
+603.3 Metal Ducts
+603.3.1 Earthquake Loads
+the California Building Code
+
+California Residential Code
+
+603.4 Flexible Air Ducts
+603.4.1 Length Limitation
+[Not permitted for OSHPD 1, 1R, 2, 3, 4 & 5]
+
+603.4.1.1 Flexible Ducts
+Flexible Ducts
+
+[OSHPD 1, 1R, 2, 3,4 & 5] In hospital building projects and all other health-care facilities, including clinics and correctional treatment centers, flexible ducts of not more than 10 feet (3048 mm) in length may be used to connect supply, return or exhaust-air terminal devices to rigid duct systems. Where constant volume, variable volume or mixing boxes are utilized, flexible duct of not more than 10 feet (3048 mm), may be used on the inlet side for alignment. An internal impervious liner shall be provided to isolate insulation material from conditioned air.
+
+603.4.2 Flexible Air Connectors
+603.5 Plastic Ducts
+603.6 Protection of Ducts
+603.7 Support of Ducts
+603.7.1 Metal Ducts
+603.7.1.1 Rectangular Ducts
+603.7.1.2 Horizontal Round Ducts
+603.7.1.3 Tight-Fitting Around the Perimeter
+603.7.1.4 Size of Circular Bands
+603.7.1.5 Connection
+603.7.2 Flexible Air Ducts
+603.7.3 Other Ducts
+603.8 Protection Against Flood Damage
+603.9 Joints and Seams of Ducts
+603.9.1 Closure Systems
+TYPE OF DUCTWORK	STANDARD	TYPE OF CLOSURE SYSTEM	MARKING
+Rigid Metallic orRigid Fiberglass	UL 181A	Pressure Sensitive Tape	181A-P
+Rigid Metallic orRigid Fiberglass	UL 181A	Mastic Tape	181A-M
+Rigid Metallic orRigid Fiberglass	UL 181A	Heat Sensitive Tape	181A-H
+Flexible Air Ducts	UL 181B	Pressure Sensitive Tape*	181B-FX*
+Flexible Air Ducts	UL 181B	Mastic*	181B-M*
+
+603.9.2 Duct Leakage Tests
+[Not adopted by HCD]
+
+Lmax
+
+CLP0.65
+
+Lmax	=	maximum permitted leakage, (ft3/min)/100 square feet [0.0001 (m3/s)/m2] duct surface area.
+CL	=	six, duct leakage class, (ft3/min)/100 square feet [0.0001 (m3/s)/m2] duct surface area at 1 inch water column (0.2 kPa).
+P	=	test pressure, which shall be equal to the design duct pressure class rating, inch water column (kPa).
+
+Lmax
+
+CL
+
+P
+
+603.9.2.1 Duct Leakage Tests for Buildings That Meet Air Distribution System Duct Leakage Sealing Criteria  in Title 24, Part 6
+Duct Leakage Tests for Buildings That Meet Air Distribution System Duct Leakage Sealing Criteria  in Title 24, Part 6
+
+For duct leakage testing, see California Energy Code Sections 150.0(m)(11) for single family buildings, Section 160.3(b) for multifamily buildings, and Section
+
+120.4(g) for nonresidential and Hotel Motel buildings.
+
+603.10 Cross Contamination
+603.11 Underground Installation
+603.12 Air Dispersion Systems
+603.13 Clearances
+603.13.1 General
+603.13.2 Supply Air Ducts to Listed Furnaces
+603.13.3 Supply Air Ducts to Unlisted Furnaces
+603.13.4 Furnace Plenums and Air Ducts
+603.13.5 Duct Furnaces
+603.13.6 Fuel-Burning Kilns
+604.0 Furnace Plenums and Ducts Used in Fuel-Gas Appliances
+604.1 Furnace Plenums and Air Ducts
+604.2 Supplied as a Part of Furnace
+604.3 Not Supplied With the Furnace
+604.4 Return Air
+605.0 Insulation of Ducts
+605.1 General
+[OSHPD 1, 1R, 2, 3, 4 & 5] Cold air ducts shall be insulated wherever necessary or to prevent condensation.
+
+605.1.1 Within Ducts or Plenums
+605.1.2 Duct Coverings and Linings
+605.2
+[OSHPD 1, 1R, 2, 3 (Surgical Clinics), 4 & 5] Thermal acoustical lining materials shall not be installed within ducts, terminal boxes, sound traps, and other in-duct systems serving areas such as operating, cesarean operating rooms, delivery rooms, post anesthesia care units, cystoscopy, cardiac catheterization labs, nurseries, intensive care units, newborn intensive care units, and airborne infection isolation rooms unless filters with 90 percent average efficiency based on ASHRAE Standard 52.2 or minimum efficiency rating value (MERV) of 14 are installed downstream of the duct lining.
+
+605.3
+[OSHPD 1, 1R, 2, 4 & 5] Thermal or acoustical lining
+materials shall not be installed within ducts which are downstream
+of the 99.97 percent high-efficiency particulate air
+(HEPA) filter or with minimum efficiency rating value (MERV)
+of 17 required in Section 408.2.1 for protective environment
+rooms.
+
+606.0 Smoke Dampers, Fire Dampers, and Ceiling Dampers
+606.1 Smoke Dampers
+the California Building Code
+
+California Residential Code
+
+606.2 Fire Dampers
+606.3 Ceiling Radiation Dampers
+606.4 Multiple Arrangements
+606.5 Access and Identification
+606.6 Freedom From Interference
+606.7 Temperature Classification of Operating Elements
+606.8
+When the automatic activation of a smoke damper or a combination smoke-fire damper occurs, the HVAC system serving such dampers shall immediately shut down.
+
+Exceptions:
+
+HVAC systems that are part of an engineered smoke evacuation system.
+
+Where the automatic activation causes all the smoke dampers and combination smoke-fire dampers to close in the enclosed space having a common atmosphere where openings are required to be protected.
+
+Where analysis demonstrates shutoff would create a greater hazard.
+
+The HVAC system shall not be restarted again until all the dampers are reset and fully opened.
+
+607.0 Ventilating Ceilings
+607.1 General
+California Building Code
+
+607.1.1
+[OSHPD 1, 1R, 2, 3, 4 & 5] Ventilating ceilings
+are not permitted in health facilities.
+
+607.2 Requirements
+608.0 Use of Under-Floor Space as Supply Plenum for Dwelling Units
+608.1 General
+608.2 Dwelling Units
+608.3 Enclosed
+608.4 Flammable Materials
+608.5 Access
+608.6 Automatic Control
+608.7 Temperature Limit
+608.8 Noncombustible Receptacle
+608.8.1 Location
+608.8.2 Area
+608.8.3 Perimeter
+608.9 Floor Registers
+608.10 Exterior Wall and Interior Stud Partitions
+608.11 Wall Register
+608.12 Distance From Combustible
+608.13 Vapor Barrier
+608.14 Prohibited
+609.0 Automatic Shutoffs
+609.1 Air-Moving Systems and Smoke Detectors
+shall be labeled
+by an approved agency, approved and listed by California State
+Fire Marshal
+
+and installed in accordance with NFPA 72 and the
+California Building and Fire Codes
+
+the California Fire Code
+

@@ -1,0 +1,854 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLEAPPENDIX AS – STRAWBALE CONSTRUCTION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+	Adopt entire chapter																							
+	Adopt entire chapter as amended (amendedsections listed below)				X																			
+	Adopt only those sections that are listed below																				X			
+	Chapter / Section																							
+>	AS Note																				X			
+
+APPENDIX AS STRAWBALE CONSTRUCTION
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+Note: The IECC climate zones used by this section differ from those used by the California Energy Code to determine applicability of energy efficiency measures. Comparison of IECC and California Energy Code climate zones is shown in Table R702.7(5).
+
+User note:
+
+About this appendix: The use of strawbale construction has steadily increased since the 1980s such that there are now buildings of strawbale construction in every state in the United States and in more than 50 countries around the globe. Estimates are that there are over 1,000 buildings of strawbale construction in California alone, including both residential and commercial buildings. Appendix AS provides prescriptive requirements for the construction of exterior and interior walls, both structural and nonstructural, in buildings that are under the scope of this code.
+
+SECTION AS101 GENERAL
+
+AS101.1 Scope.
+
+This appendix provides prescriptive and performance-based requirements for the use of baled straw as a building material. Other methods of strawbale construction shall be subject to approval in accordance with Section R104.11 of this code. Buildings using strawbale walls shall comply with this code except as otherwise stated in this appendix.
+
+AS101.2 Strawbale wall systems.
+
+Strawbale wall systems include those shown in Figure AS101.2 and approved variations.
+
+Note: See Figures AS105.1(1) through AS105.1(4) for detailed views and section references. Other strawbale wall systems or variations are permitted as approved.
+
+FIGURE AS101.2
+
+TYPICAL STRAWBALE WALL SYSTEMS
+
+SECTION AS102 DEFINITIONS
+
+AS102.1 Definitions.
+
+The following words and terms shall, for the purposes of this appendix, have the meanings shown herein. Refer to Chapter 2 of the California Residential Code for general definitions.
+
+BALE. Equivalent to straw bale.
+
+BRACED WALL PANEL, STRAWBALE. A strawbale wall designed and constructed to resist in-plane shear loads through the interaction of the stacked straw bales, the reinforced plaster and its connections to the top plate, sill plates and foundation. The panel’s length meets the requirements for the particular wall type and contributes toward the total amount of bracing required along its braced wall line in accordance with Sections AS106.13 and R602.10.1.
+
+CLAY. Inorganic soil with particle sizes less than 0.00008 inch (0.002 mm) having the characteristics of high to very high dry strength and medium to high plasticity, used as the binder of other component materials in clay plaster and strawclay.
+
+CLAY SLIP. A suspension of clay or clay subsoil particles in water.
+
+CLAY SUBSOIL. Subsoil sourced directly from the earth, containing clay, sand, silt and not more than trace amounts of organic matter.
+
+FINISH. Completed combination of materials on the interior or exterior faces of stacked bales.
+
+FLAKE. An intact section of compressed straw removed from an untied bale.
+
+LAID FLAT. The orientation of a bale with its largest faces horizontal, its longest dimension parallel with the wall plane, its ties concealed in the unfinished wall and its straw lengths oriented predominantly across the thickness of the wall. See Figure AS102.1.
+
+LOAD-BEARING WALL. A strawbale wall that supports more than 100 pounds per linear foot (1459 N/m) of vertical load in addition its own weight.
+
+MESH. An openwork fabric of linked strands of metal, plastic, or natural or synthetic fiber.
+
+NONSTRUCTURAL WALL. Walls other than load-bearing walls or shear walls.
+
+ON-EDGE. The orientation of a bale with its largest faces vertical, its longest dimension parallel with the wall plane, its ties on the face of the wall and its straw lengths oriented predominantly vertically. See Figure AS102.1.
+
+ON-END. The orientation of a bale with its longest dimension vertical. For use in nonstructural strawbale walls only. See Figure AS102.1.
+
+PIN. A vertical metal rod, wood dowel or bamboo, driven into the center of stacked bales, or placed on opposite surfaces of stacked bales and through-tied.
+
+PLASTER. Clay, soil-cement, gypsum, lime, clay-lime, limecement or cement plaster, as described in Section AS104.
+
+PRECOMPRESSION. Permanent vertical compression of stacked bales before the application of finish.
+
+REINFORCED PLASTER. A plaster containing mesh reinforcement.
+
+ROOF-BEARING ASSEMBLY. In load-bearing strawbale walls, a structural assembly at the top of the wall that bears and distributes roof loads to the wall.
+
+RUNNING BOND. The placement of straw bales such that the head joints in successive courses are offset not less than one-quarter the bale length.
+
+SHEAR WALL. A strawbale wall designed and constructed to resist in-plane lateral seismic and wind forces in accordance with Section AS106.13. This term is synonymous with “Braced wall panel.”
+
+SKIN. The compilation of plaster and reinforcing, if any, applied to the surface of stacked bales.
+
+STACK BOND. The placement of straw bales such that head joints in successive courses are vertically aligned.
+
+STRAW. The dry stems of cereal grains after the seed heads have been removed.
+
+STRAW BALE. A rectangular compressed block of straw, bound by ties.
+
+STRAWBALE. The adjective form of straw bale.
+
+STRAW-CLAY. Loose straw mixed and coated with clay slip.
+
+STRUCTURAL WALL. A wall that meets the definition for a load-bearing wall or shear wall.
+
+TIE. A synthetic fiber, natural fiber or metal wire used to confine a straw bale.
+
+TRUTH WINDOW. An area of a strawbale wall left without its finish, to allow view of the straw otherwise concealed by its finish.
+
+Note: Illustrations also show the predominant direction of the lengths of straw in a typical straw bale. However, some randomness of direction is normal.
+
+FIGURE AS102.1
+
+BALE ORIENTATIONS
+
+SECTION AS103 BALES
+
+AS103.1 Shape.
+
+Bales shall be rectangular in shape, except for partial bales made to fill nonrectangular spaces in accordance with Section AS103.6.
+
+AS103.2 Size.
+
+Bales shall have a height and thickness of not less than 12 inches (305 mm), except as otherwise permitted or required in this appendix. Bales used within a continuous wall shall be of consistent height and thickness to ensure even distribution of loads within the wall system. See Figure AS103.2 for approximate dimensions of common straw bales.
+
+For SI: 1 inch = 25.4 mm.
+
+FIGURE AS103.2
+
+APPROXIMATE DIMENSIONS OF COMMON STRAW BALES
+
+AS103.3 Ties.
+
+Bales shall be confined by synthetic fiber, natural fiber or metal ties sufficient to maintain required bale density. Ties shall be not less than 3 inches (76 mm) and not more than 6 inches (152 mm) from the two untied faces and shall be spaced not more than 12 inches (305 mm) apart. Bales with broken ties shall be retied with sufficient tension to maintain required bale density.
+
+AS103.4 Moisture content.
+
+The moisture content of bales at the time of application of the first coat of plaster or the installation of another finish shall not exceed 20 percent of the weight of the bale. The moisture content of bales shall be determined with a moisture meter designed for use with baled straw or hay, equipped with a probe of sufficient length to reach the center of the bale. Not less than 5 percent and not fewer than 10 bales shall be randomly selected and tested.
+
+AS103.5 Density.
+
+Bales shall have a dry density of not less than 6.5 pounds per cubic foot (104 kg/cubic meter). The dry density shall be calculated by subtracting the weight of the moisture in pounds (kg) from the actual bale weight and dividing by the volume of the bale in cubic feet (cubic meters). Not less than 2 percent and not fewer than five bales shall be randomly selected and tested on-site.
+
+AS103.6 Partial bales.
+
+Partial bales made after original fabrication shall be retied with ties complying with Section AS103.3.
+
+AS103.7 Types of straw.
+
+Bales shall be composed of straw from wheat, rice, rye, barley or oat. The dry stems of other cereal grains or similar crops shall be acceptable where approved by the building official. Bales shall not be composed of hay.
+
+AS103.8 Orientation of bales.
+
+Straw bales shall be placed laid flat, on-edge or on end in accordance with this appendix.
+
+SECTION AS104 FINISHES
+
+AS104.1 General.
+
+Finishes applied to strawbale walls shall comply with this section and with Chapters 3 and 7 unless stated otherwise in this section.
+
+AS104.1.1 Exterior wall finishes.
+
+Exterior wall finishes shall be plasters in accordance with Section AS104.4, or nonplaster exterior wall coverings in accordance with Section R703 and other finish systems complying with all of the following:
+
+1.With approved specifications and details showing the finish system’s means of attachment to the wall or its independent support, and a means of draining or evaporating water that penetrates the exterior finish to the exterior.
+
+2.The vapor permeance of the combination of finish materials shall be 5 perms or greater to allow the transpiration of water vapor through the wall.
+
+3.Finish systems with weights greater than 10 or less than or equal to 20 pounds per square foot (> 48.9 and ≤ 97.8 kg/m) of wall area require a factor of 1.2 for minimum total length of braced wall panels in Table AS106.13(3).
+
+4.Finish systems with weights greater than 20 pounds per square foot (97.8 kg/m) of wall area require an engineered design.
+
+AS104.2 Purpose, and where required.
+
+Strawbale walls shall be finished so as to provide mechanical protection, fire resistance and protection from weather and to restrict the passage of air through the bales, in accordance with this appendix and this code. Vertical strawbale wall surfaces shall receive a coat of plaster not less than 3/8 inch (10 mm) thick, or greater where required elsewhere in this appendix, or shall fit tightly against a solid wall panel or dense-packed cellulose insulation with a density of not less than 3.5 pounds per cubic foot (56 kg/m3) blown into an adjacent framed wall. The tops of strawbale walls shall receive a coat of plaster not less than 3/8 inch (10 mm) thick or be tightly covered by gypsum board or a roof-bearing assembly.
+
+Exception: Truth windows shall be permitted where a fire-resistance rating is not required. Weather-exposed truth windows shall be fitted with a weather-tight cover. Interior truth windows in Climate Zones 5, 6, 7, 8 and Marine 4 shall be fitted with an airtight cover.
+
+
+
+AS104.3 Vapor retarders.
+
+Class I and II vapor retarders shall not be used on a strawbale wall, nor shall any other material be used that has a vapor permeance rating of less than 5 perms, except as permitted or required elsewhere in this appendix.
+
+AS104.4 Plaster.
+
+Plaster applied to bales shall be any type described in this section, and as required or limited in this appendix. Plaster thickness shall not exceed 2 inches (51 mm).
+
+AS104.4.1 Plaster and membranes.
+
+Plaster shall be applied directly to strawbale walls to facilitate transpiration of moisture from the bales, and to secure a mechanical bond between the skin and the bales, except where a membrane is allowed or required elsewhere in this appendix.
+
+AS104.4.2 Lath and mesh for plaster.
+
+The surface of the straw bales functions as lath, and other lath or mesh shall not be required, except as required for out-of-plane resistance by Table AS105.4 or for structural walls by Tables AS106.12 and AS106.13(1).
+
+AS104.4.3 Clay plaster.
+
+Clay plaster shall comply with Sections AS104.4.3.1 through AS104.4.3.6.
+
+AS104.4.3.1 General.
+
+Clay plaster shall be any plaster having a clay or clay subsoil binder. Such plaster shall contain sufficient clay to fully bind the sand or other aggregate, and shall be permitted to contain reinforcing fibers. Acceptable reinforcing fibers include chopped straw, sisal and animal hair.
+
+AS104.4.3.2 Clay subsoil requirements.
+
+The suitability of clay subsoil shall be determined in accordance with the Figure 2 Ribbon Test and the Figure 3 Ball Test in the appendix of ASTM E2392/E2392M.
+
+AS104.4.3.3 Thickness and coats.
+
+Clay plaster shall be not less than 1 inch (25 mm) thick, except where required to be thicker for structural walls as described elsewhere in this appendix, and shall be applied in not less than two coats.
+
+AS104.4.3.4 Rain-exposed.
+
+Clay plaster, where exposed to rain, shall be finished with lime wash, lime plaster, linseed oil or other approved erosion-resistant finish.
+
+AS104.4.3.5 Prohibited finish coat.
+
+Plaster containing Portland cement shall not be permitted as a finish coat over clay plasters.
+
+AS104.4.3.6 Plaster additives.
+
+Additives shall be permitted to increase plaster workability, durability, strength or water resistance.
+
+AS104.4.4 Soil-cement plaster.
+
+Soil-cement plaster shall comply with Sections AS104.4.4.1 through AS104.4.4.3.
+
+AS104.4.4.1 General.
+
+Soil-cement plaster shall be composed of clay subsoil, sand and not less than 10 percent and not more than 20 percent Portland cement by volume, and shall be permitted to contain reinforcing fibers.
+
+AS104.4.4.2 Lath and mesh.
+
+Soil-cement plaster shall use any corrosion-resistant lath or mesh permitted by this code, or as required in Section AS106 where used on structural walls.
+
+AS104.4.4.3 Thickness.
+
+Soil-cement plaster shall be not less than 1 inch (25 mm) thick.
+
+AS104.4.5 Gypsum plaster.
+
+Gypsum plaster shall comply with Section R702.2.1. Gypsum plaster shall be limited to use on interior surfaces of nonstructural walls, and as an interior finish coat over a structural plaster that complies with this appendix.
+
+AS104.4.6 Lime plaster.
+
+Lime plaster shall comply with Sections AS104.4.6.1 through AS104.4.6.3.
+
+AS104.4.6.1 General.
+
+Lime plaster is any plaster with a binder that is composed of calcium hydroxide (CaOH) including Type N or S hydrated lime, hydraulic lime, natural hydraulic lime or slaked quicklime. Hydrated lime shall comply with ASTM C206. Hydraulic lime shall comply with ASTM C1707. Natural hydraulic lime shall comply with ASTM C141 and CEN EN 459. Quicklime shall comply with ASTM C5.
+
+AS104.4.6.2 Thickness and coats.
+
+Lime plaster shall be not less than 7/8 inch (22 mm) thick, and shall be applied in not less than three coats.
+
+AS104.4.6.3 On structural walls.
+
+Lime plaster on strawbale structural walls in accordance with Table AS106.12 or AS106.13.1) shall use hydraulic or natural hydraulic lime.
+
+AS104.4.7 Clay-lime plaster.
+
+Clay-lime plaster shall be composed of refined clay or clay subsoil, sand, and lime, and shall be permitted to contain reinforcing fibers.
+
+AS104.4.8 Cement-lime plaster.
+
+Cement-lime plaster shall be plaster mixes CL, F or FL, as described in ASTM C926.
+
+AS104.4.9 Cement plaster.
+
+Cement plaster shall conform to ASTM C926 and shall comply with Sections R703.7.4 and R703.7.5, except that the amount of lime in plaster coats shall be not less than 1 part lime to 4 parts cement to allow a minimum acceptable vapor permeability. The combined thickness of plaster coats shall be not more than 11/2 inches (38 mm).
+
+SECTION AS105 STRAWBALE WALLS—GENERAL
+
+AS105.1 General.
+
+Strawbale walls shall be designed and constructed in accordance with this section and with Figures AS105.1(1) through AS105.1(4) or an approved alternative design. Strawbale structural walls shall be in accordance with the additional requirements of Section AS106.
+
+For SI: 1 inch = 25.4 mm.
+
+FIGURE AS105.1(1)
+
+TYPICAL BASE OF PLASTERED STRAWBALE WALL ON CONCRETE SLAB AND FOOTING
+
+For SI: 1 inch = 25.4 mm.
+
+FIGURE AS105.1(2)
+
+TYPICAL BASE OF PLASTERED STRAWBALE WALL OVER RAISED FLOOR
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound = 2.2 kg.
+
+FIGURE AS105.1(3)
+
+TYPICAL TOP OF LOAD-BEARING STRAWBALE WALL
+
+For SI: 1 inch = 25.4 mm.
+
+FIGURE AS105.1(4)
+
+TYPICAL TOP OF POST-AND-BEAM WALL WITH PLASTERED STRAWBALE INFILL
+
+AS105.2 Building limitations and requirements for use of strawbale nonstructural walls.
+
+Buildings using strawbale nonstructural walls shall be subject to the following limitations and requirements:
+
+1.Number of stories: not more than one, except that two stories shall be allowed with an approved engineered design.
+
+2.Building height: not more than 25 feet (7620 mm), except that greater heights shall be allowed with an approved engineered design.
+
+3.Wall height: in accordance with Table AS105.4.
+
+4.Braced wall panel lengths: in accordance with Section R602.10.3, with the additional requirements that Table R602.10.3(3) shall apply to all buildings in Seismic Design Category C, and the minimum total length of braced wall panels in Table R602.10.3(3) shall be increased by 60 percent for buildings in Seismic Design Categories C, D0, D1 and D2.
+
+AS105.3 Sill plates.
+
+Sill plates shall be installed in accordance with Figure AS105.1(1) or AS105.1(2). Sill plates shall support and be flush with each face of the straw bales above and shall be of naturally durable or preservative-treated wood where required by this code. Sill plates shall be not less than nominal 2 inches by 4 inches (51 mm by 102 mm) with anchoring complying with Section R403.1.6 and the additional requirements of Table AS105.4, where applicable, and Sections AS106.13.2 and AS106.13.3 for strawbale braced wall panels.
+
+AS105.3.1 Exterior sill plate flashing.
+
+Exterior sill plates shall receive flashing across the plate to slab or foundation joints.
+
+AS105.4 Out-of-plane resistance methods and unrestrained wall dimension limits.
+
+Strawbale walls shall employ a method of out-of-plane load resistance in accordance with Table AS105.4, and comply with its associated limits and requirements.
+
+TABLE AS105.4
+
+OUT-OF-PLANE RESISTANCE METHODS AND UNRESTRAINED WALL DIMENSION LIMITS
+
+METHOD OF OUT-OF-PLANE LOAD RESISTANCEa	FOR ULTIMATE DESIGN WIND SPEEDS (mph)	FOR SEISMIC DESIGN CATEGORIES	UNRESTRAINED WALL DIMENSIONS, Hb	MESH STAPLE SPACING AT BOUNDARY RESTRAINTS
+Absolute limit in feet	Limit based on bale thickness Tc in feet (mm)
+Nonplaster finish or unreinforced plaster	≤ 130	A, B, C, D0	H ≤ 8	H ≤ 5T	None required
+Pins per Section AS105.4.2	≤ 130	A, B, C, D0	H ≤ 12	H ≤ 8T	None required
+Pins per Section AS105.4.2	≤ 140	A, B, C,D0, D1, D2	H ≤ 10	H ≤ 7T	None required
+Reinforcedd clay plaster	≤ 140	A, B, C,D0, D1, D2	H ≤ 10	H ≤ 8T0.5(H ≤ 140T0.5)	≤ 6 inches
+Reinforcedd clay plaster	≤ 140	A, B, C,D0, D1, D2	10 < H ≤ 12	H ≤ 8T0.5(H ≤ 140T0.5)	≤ 4 inchese
+Reinforcedd cement, cement-lime, limeor soil-cement plaster	≤ 140	A, B, C,D0, D1, D2	H ≤ 10	H ≤ 9T0.5(H ≤ 157T0.5)	≤ 6 inches
+Reinforcedd cement, cement-lime, limeor soil-cement plaster	≤ 155	A, B, C,D0, D1, D2	H ≤ 12	H ≤ 9T0.5(H ≤ 157T0.5)	≤ 4 inchese
+2×6 load-bearing wood studsf at max. 6′ o.c.	≤ 140	A, B, C,D0, D1, D2	Hg ≤ 9	NA	None required
+2×6 load-bearing wood studsf at max. 4′ o.c.	≤ 140	A, B, C,D0, D1, D2	Hg ≤ 10	NA	None required
+2×6 load-bearing wood studsf at max. 2′ o.c.	≤ 140	A, B, C,D0, D1, D2	Hg ≤ 12	NA	None required
+2×4 load-bearing wood studsf at max. 2′ o.c.	≤ 140	A, B, C,D0, D1, D2	Hg ≤ 10	NA	None required
+2×6 nonload-bearing wood studsf at max. 6′ o.c.	≤ 140	A, B, C,D0, D1, D2	Hg ≤ 12	NA	None required
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 mile per hour = 0.447 m/s.
+
+NA = Not Applicable.
+
+a.Finishes applied to both sides of stacked bales. Where different finishes are used on opposite sides of a wall, the more restrictive requirements shall apply.
+
+b.H = Stacked bale height in feet (mm) between sill plate and top plate or other approved horizontal restraint, or the horizontal distance in feet (mm) between approved vertical restraints. For load-bearing walls, H refers to vertical height only.
+
+c.T = Bale thickness in feet (mm).
+
+d.Plaster reinforcement shall be any mesh allowed in Table AS106.13(1) for the matching plaster type, and with staple spacing in accordance with this table. Mesh shall be installed in accordance with Section AS106.9.
+
+e.Sill plate attachment shall be with 5/8-inch anchor bolts or approved equivalent at not more than 48 inches on center where staple spacing is required to be ≤ 4 inches.
+
+f.Bales shall be attached to the studs by an approved method. Horizontal framing and attachment at top and bottom of studs shall be in accordance with Section R602 or an approved alternative. Table R602.7(1) shall be used to determine the top framing member where load-bearing stud spacing exceeds 24 inches o.c.
+
+g.H is vertical height only.
+
+AS105.4.1 Determination of out-of-plane loading.
+
+Out-of-plane loading for the use of Table AS105.4 shall be in terms of the ultimate design wind speed and seismic design category as determined in accordance with Sections R301.2.1 and R301.2.2. An engineered design in accordance with Section R301.2.1 shall be required where the building is located in a special wind region or where wind design is required in accordance with Figure R301.2(2) and Section R301.2.1.1, respectively.
+
+AS105.4.2 Pins.
+
+Pins used for out-of-plane resistance shall comply with the following or shall be in accordance with an approved engineered design. Pins shall be external, internal or a combination of the two.
+
+1.Pins shall be 1/2-inch-diameter (12.7 mm) steel, 3/4-inch-diameter (19.1 mm) wood or 1/2-inch-diameter (12.7 mm) bamboo.
+
+2.External pins shall be installed vertically on both sides of the wall at a spacing of not more than 24 inches (610 mm) on center. External pins shall have full lateral bearing on the sill plate and the top plate or roof-bearing element, and shall be tightly tied through the wall to an opposing pin with ties spaced not more than 32 inches (813 mm) apart and not more than 8 inches (203 mm) from each end of the pins.
+
+3.Internal pins shall be installed vertically within the center third of the bales, at spacing of not more than 24 inches (610 mm) and shall extend from top course to bottom course. The bottom course shall be connected to its support and the top course shall be connected to the roof- or floor-bearing member above with pins or other approved means. Internal pins shall be continuous or shall overlap through not less than one bale course.
+
+AS105.5 Connection of light-frame walls to strawbale walls.
+
+Light-frame walls perpendicular to, or at an angle to a strawbale wall assembly, shall be fastened to the bottom and top wood members of the strawbale wall in accordance with requirements for wood or cold-formed steel light-frame walls in this code, or the abutting stud shall be connected to alternating strawbale courses with a 1/2-inch diameter (12.7 mm) steel, 3/4-inch-diameter (19.1 mm) wood or 5/8-inch-diameter (15.9 mm) bamboo dowel, with not less than 8-inch (203 mm) penetration.
+
+AS105.6 Moisture control.
+
+Strawbale walls shall be protected from moisture intrusion and damage in accordance with Sections AS105.6.1 through AS105.6.9.
+
+AS105.6.1 Water-resistant barriers and vapor permeance ratings.
+
+Plastered bale walls shall be constructed without any membrane barrier between straw and plaster to facilitate transpiration of moisture from the bales, and to secure a structural bond between straw and plaster, except as permitted or required elsewhere in this appendix. Where a water-resistant barrier is placed behind an exterior finish, it shall have a vapor permeance rating of not less than 5 perms, except as permitted or required elsewhere in this appendix.
+
+AS105.6.2 Vapor retarders.
+
+Wall finishes shall have an equivalent vapor permeance rating of a Class III vapor retarder on the interior side of exterior strawbale walls in Climate Zones 5, 6, 7, 8 and Marine 4, as defined in Chapter 11. Bales in walls enclosing showers or steam rooms shall be protected on the interior side by a Class I or Class II vapor retarder.
+
+AS105.6.3 Penetrations in exterior strawbale walls.
+
+Penetrations in exterior strawbale walls shall be sealed with an approved sealant or gasket on the exterior side of the wall in all climate zones, and on the interior side of the wall in Climate Zones 5, 6, 7, 8 and Marine 4, as defined in Chapter 11.
+
+AS105.6.4 Horizontal surfaces.
+
+Bale walls and other bale elements shall be provided with a water-resistant barrier at weather-exposed horizontal surfaces. The water-resistant barrier shall be of a material and installation that will prevent water from entering the wall system. Horizontal surfaces shall include exterior window sills, sills at exterior niches and buttresses. Horizontal surfaces shall be sloped not less than 1 unit vertical in 12 units horizontal (8-percent slope) and shall drain away from bale walls and elements. Where the water-resistant barrier is below the finish material, it shall be sloped not less than 1 unit vertical in 12 units horizontal (8-percent slope) and shall drain to the outside surface of the bale wall’s vertical finish.
+
+AS105.6.5 Separation of bales and concrete.
+
+A sheet or liquid-applied Class II vapor retarder shall be installed between bales and supporting concrete or masonry. The bales shall be separated from the vapor retarder by not less than 3/4 inch (19.1 mm), and that space shall be filled with an insulating material such as wood or rigid insulation, or a material that allows vapor dispersion such as gravel, or other approved insulating or vapor dispersion material. Sill plates shall be installed at this interface in accordance with Section AS105.3. Where bales abut a concrete or masonry wall that retains earth, a Class II vapor retarder shall be provided between such wall and the bales.
+
+AS105.6.6 Separation of bales and earth.
+
+Bales shall be separated from earth by not less than 8 inches (203 mm).
+
+AS105.6.7 Separation of exterior plaster and earth.
+
+Exterior plaster applied to straw bales shall be located not less than 6 inches (102 mm) above earth or 3 inches (51 mm) above paved areas.
+
+AS105.6.8 Separation of wood and plaster.
+
+Where wood framing or wood sheathing occurs at the exterior face of strawbale walls, such wood surfaces shall be separated from exterior plaster with two layers of Grade D paper, No. 15 asphalt felt or other approved material in accordance with Section R703.7.3, extending not less than 1 inch (25 mm) past the edges of the framing member.
+
+Exceptions:
+
+1.Where the wood is preservative treated or naturally durable and is not greater than 11/2 inches (38 mm) in width.
+
+2.Clay plaster shall not be required to be separated from untreated wood that is not greater than 11/2 inches (38 mm) in width.
+
+AS105.6.9 Separation of exterior plaster and foundation.
+
+Exterior plaster shall be separated from the building foundation with a moisture barrier.
+
+AS105.7 Inspections.
+
+The building official shall inspect the following aspects of strawbale construction in accordance with Section R109.1:
+
+1.Sill plate anchors, as part of and in accordance with Section R109.1.1.
+
+2.Mesh placement and attachment, where mesh is required by this appendix.
+
+3.Pins, where required by and in accordance with Section AS105.4.
+
+AS105.8 Voids and stuffing.
+
+Voids between bales and between bales and framing members shall not exceed 4 inches (102 mm) in width, and such voids shall be tightly stuffed with flakes, loose straw or straw-clay before application of finish.
+
+SECTION AS106 STRAWBALE WALLS—STRUCTURAL
+
+AS106.1 General.
+
+Plastered strawbale walls shall be permitted to be used as structural walls in accordance with the prescriptive provisions of this section.
+
+AS106.2 Building limitations and requirements for use of strawbale structural walls.
+
+Buildings using strawbale structural walls shall be subject to the following limitations and requirements:
+
+1.Number of stories: Not more than one, except that two stories shall be allowed with an approved engineered design.
+
+2.Building height: Not more than 25 feet (7620 mm), except that greater heights shall be allowed with an approved engineered design.
+
+3.Wall height: In accordance with Table AS105.4, AS106.13(2) or AS106.13(3) as applicable, whichever is most restrictive.
+
+4.Braced wall panel lengths: The greater of the values determined in accordance with Tables AS106.13(2) and AS106.13(3) for buildings using strawbale braced wall panels, or in accordance with Item 4 of Section AS105.2 for buildings with load-bearing strawbale walls that do not use strawbale braced wall panels.
+
+AS106.3 Loads and other limitations.
+
+Live and dead loads and other limitations shall be in accordance with Section R301. Strawbale wall dead loads shall not exceed 60 psf (2872 N/m2) per face area of wall.
+
+AS106.4 Foundations.
+
+Foundations for plastered strawbale walls shall be in accordance with Chapter 4, Figure AS105.1(1), Figure AS105.1(2) or an approved engineered design.
+
+AS106.5 Orientation and configuration of bales.
+
+Bales in strawbale structural walls shall be laid flat or on-edge and in a running bond or stack bond, except that bales in structural walls with unreinforced plasters shall be laid in a running bond only.
+
+AS106.6 Plaster on structural walls.
+
+Plaster on load-bearing walls shall be in accordance with Table AS106.12. Plaster on shear walls shall be in accordance with Table AS106.13(1).
+
+AS106.6.1 Compressive strength.
+
+For plaster on strawbale structural walls, the building official is authorized to require a 2-inch (51mm) cube test conforming to ASTM C109 to demonstrate a minimum compressive strength in accordance with Table AS106.6.1.
+
+TABLE AS106.6.1
+
+MINIMUM COMPRESSIVE STRENGTH FOR PLASTERS ON STRUCTURAL WALLS
+
+PLASTER TYPE	MINIMUM COMPRESSIVE STRENGTH (psi)
+Clay	100
+Soil-cement	1,000
+Lime	600
+Cement-lime	1,000
+Cement	1,400
+
+For SI: 1 pound per square inch = 6894.76 N/m2.
+
+AS106.7 Straightness of plaster.
+
+Plaster on strawbale structural walls shall be straight, as a function of the bale wall surfaces they are applied to, in accordance with all of the following:
+
+1.As measured across the face of a bale, straw bulges shall not protrude more than 3/4 inch (19.1 mm) across 2 feet (610 mm) of its height or length.
+
+2.As measured across the face of a bale wall, straw bulges shall not protrude from the vertical plane of a bale wall more than 2 inches (51 mm) over 8 feet (2438 mm).
+
+3.The vertical faces of adjacent bales shall not be offset more than 3/8 inch (9.5 mm).
+
+AS106.8 Plaster and membranes on structural walls.
+
+Strawbale structural walls shall not have a membrane between straw and plaster, or shall have attachment through the bale wall from one plaster skin to the other in accordance with an approved engineered design.
+
+AS106.9 Mesh.
+
+Mesh in plasters on strawbale structural walls, and where required by Table AS105.4, and where used to resist wind uplift in accordance with Section AS106.14, shall be installed in accordance with Sections AS106.9.1 through AS106.9.4.
+
+AS106.9.1 Mesh laps.
+
+Mesh required by Table AS105.4 or AS106.12 shall be installed with not less than 4-inch (102 mm) laps. Mesh required by Table AS106.13(1) or in walls designed to resist wind uplift of more than 100 plf (1459 N/m) in accordance with Section AS106.14, shall run continuous vertically from sill plate to the top plate or roof-bearing element, or shall lap not less than 8 inches (203 mm). Horizontal laps in such mesh shall be not less than 4 inches (102 mm).
+
+AS106.9.2 Mesh attachment.
+
+Mesh shall be attached with staples to top plates or roof-bearing elements and to sill plates in accordance with all of the following:
+
+1.Staples. Staples shall be pneumatically driven, stainless steel or electro-galvanized, 16 gage with 11/2-inch (38 mm) legs, 7/16-inch (11.1 mm) crown; or manually driven, galvanized, 15 gage with 1-inch (25 mm) legs. Other staples shall be as designed by a registered design professional. Staples into preservative-treated wood shall be stainless steel.
+
+2.Staple orientation. Staples shall be firmly driven diagonally across mesh intersections at the required spacing.
+
+3.Staple spacing. Staples shall be spaced not more than 4 inches (102 mm) on center, except where a lesser spacing is required by Table AS106.13(1) or Section AS106.14, as applicable.
+
+AS106.9.3 Steel mesh.
+
+Steel mesh shall be galvanized, and shall be separated from preservative-treated wood by Grade D paper, No. 15 roofing felt or other approved barrier.
+
+AS106.9.4 Mesh in plaster.
+
+Required mesh shall be embedded in the plaster except where staples fasten the mesh to horizontal boundary elements.
+
+AS106.10 Support of plaster skins.
+
+Plaster skins on strawbale structural walls shall be continuously supported along their bottom edge. Acceptable supports include: a concrete or masonry stem wall, a concrete slab-on-grade, a wood-framed floor in accordance with Figure AS105.1(2) and an approved engineered design or a steel angle anchored with an approved engineered design. A weep screed as described in Section R703.7.2.1 is not an acceptable support.
+
+AS106.11 Transfer of loads to and from plaster skins.
+
+Where plastered strawbale walls are used to support superimposed vertical loads, such loads shall be transferred to the plaster skins by continuous direct bearing in accordance with Figure AS105.1(3) or by an approved engineered design. Where plastered strawbale walls are used to resist in-plane lateral loads, such loads shall be transferred to the reinforcing mesh from the structural member or assembly above in accordance with Figure AS105.1(3) or AS105.1(4) and to the sill plate in accordance with Figure AS105.1(1) or AS105.1(2) and with Table AS106.13(1).
+
+AS106.12 Load-bearing walls.
+
+Bearing capacities for plastered strawbale walls used as load-bearing walls in one-story buildings to support vertical loads imposed in accordance with Section R301 shall be in accordance with Table AS106.12.
+
+TABLE AS106.12
+
+ALLOWABLE SUPERIMPOSED VERTICAL LOADS (LBS/FOOT) FOR PLASTERED LOAD-BEARING STRAWBALE WALLS
+
+WALL DESIGNATION	PLASTERa (both sides) Minimum thickness in inches each side	MESHb	STAPLESc	ALLOWABLE BEARING CAPACITYd (plf)
+A	Clay 11/2	None required	None required	400
+B	Soil-cement 1	Required	Required	800
+C	Limee 7/8	Required	Required	500
+D	Cement-lime 7/8	Required	Required	800
+E	Cement 7/8	Required	Required	800
+
+For SI: 1 inch = 25.4mm, 1 pound per foot = 14.5939 N/m.
+
+a.Plasters shall conform to Sections AS104.4.3 through AS104.4.9, AS106.7 and AS106.10.
+
+b.Any metal mesh allowed by this appendix and installed in accordance with Section AS106.9.
+
+c.In accordance with Section AS106.9.2, except as required to transfer roof loads to the plaster skins in accordance with Section AS106.11.
+
+d.For walls with a different plaster on each side, the lower value shall be used. For walls with plaster on only one side, half of the tabular value shall be used.
+
+e.Shall use hydraulic or natural hydraulic lime.
+
+AS106.12.1 Precompression of load-bearing strawbale walls.
+
+Prior to application of plaster, walls designed to be load-bearing shall be precompressed by a uniform load of not less than 100 plf (1459 N/m).
+
+AS106.12.2 Concentrated loads.
+
+Concentrated loads shall be distributed by structural elements capable of distributing the loads to the bearing wall within the allowable bearing capacity listed in Table AS106.12 for the plaster type used.
+
+AS106.12.3 Roof-bearing assembly.
+
+Roof-bearing assemblies shall be of nominal 2-inch by 6-inch (51 mm by 152 mm) lumber with 15/32-inch (12 mm) plywood or OSB panels fastened with 8d nails at 6 inches (152 mm) on center in accordance with Figure AS105.1(3) and Items 1 through 6, or be of an approved engineered design.
+
+1.Assembly shall be a box assembly on the top course of bales, with the panels horizontal.
+
+2.Assembly shall be the width of the strawbale wall and shall comply with Section AS106.11.
+
+3.Discontinuous lumber shall be spliced with a metal strap with not less than a 500-pound (2224 N) allowable wind or seismic load tension capacity. Where the wall line includes a braced wall panel the strap shall have not less than a 2,000-pound (8896 N) capacity.
+
+4.Panel joints shall be blocked.
+
+5.Roof and ceiling framing shall be attached to the roof-bearing assembly in accordance with Table R602.3(1), Items 2 and 6.
+
+6.Where the roof-bearing assembly spans wall openings, it shall comply with Section AS106.12.3.1
+
+AS106.12.3.1 Roof-bearing assembly spanning openings.
+
+Roof-bearing assemblies that span openings in strawbale walls shall comply with the following at each opening:
+
+1.Lumber on each side of the assembly shall be of the dimensions and quantity required to span each opening in accordance with Table R602.7(1).
+
+2.The required lumber in the assembly shall be supported at each side of the opening by the number of jack studs required by Table R602.7(1), or shall extend beyond the opening on both sides a distance, D, using the following equation:
+
+where:
+
+D = Minimum distance (in feet) for required spanning lumber to extend beyond the opening
+
+S = Span in feet
+
+R = BL/BC
+
+BL = Design load on the wall (in pounds per lineal foot) in accordance with Sections R301.4 and R301.6
+
+BC = Allowable bearing capacity of the wall in accordance with Table AS106.12
+
+AS106.13 Braced wall panels.
+
+Plastered strawbale walls used as braced wall panels for one-story buildings shall be in accordance with Section R602.10 and Tables AS106.13(1), AS106.13(2) and AS106.13(3). Wind design criteria shall be in accordance with Section R301.2.1. Seismic design criteria shall be in accordance with Section R301.2.2. An approved engineered design in accordance with Section R301.2.1 shall be required where the building is located in a special wind region or where wind design is required in accordance with Figure R301.2(2) and Section R301.2.1.1, respectively.
+
+TABLE AS106.13(1)
+
+PLASTERED STRAWBALE BRACED WALL PANEL TYPES
+
+WALL DESIGNATION	PLASTERa (both sides)	SILL PLATESb (nominal size in inches)	ANCHOR BOLTc SPACING (inches on center)	MESHd (inches)	STAPLE SPACINGe (inches on center)
+Type	Thickness (minimum in inches each side)
+A1	Clay	1.5	2 × 4	32	None	None
+A2	Clay	1.5	2 × 4	32	2 × 2 high-density polypropylene	2
+A3	Clay	1.5	2 × 4	32	2 × 2 × 14 gage	4
+B	Soil-cement	1	4 × 4	24	2 × 2 × 14 gage	2
+C1	Limef	7/8	2 × 4	32	17-gage woven wire	3
+C2	Limef	7/8	4 × 4	24	2 × 2 × 14 gage	2
+D1	Cement-lime	7/8	4 × 4	32	17 gage woven wire	2
+D2	Cement-lime	7/8	4 × 4	24	2 × 2 × 14 gage	2
+E1	Cement	7/8	4 × 4	32	2 × 2 × 14 gage	2
+E2	Cement	1.5	4 × 4	24	2 × 2 × 14 gage	2
+
+For SI: 1 inch = 25.4 mm.
+
+a.Plasters shall comply with Sections AS104.4.3 through AS104.4.9, AS106.7, AS106.8 and AS106.12.
+
+b.Sill plates shall be Douglas fir-larch or southern pine and shall be preservative treated where required by the California Residential Code.
+
+c.Anchor bolts shall be in accordance with Section AS106.13.3 at the spacing shown in this table.
+
+d.Installed in accordance with Section AS106.9.
+
+e.Staples shall be in accordance with Section AS106.9.2 at the spacing shown in this table.
+
+f.Shall use hydraulic or natural hydraulic lime.
+
+TABLE AS106.13(2)
+
+BRACING REQUIREMENTS FOR STRAWBALE BRACED WALL PANELS BASED ON WIND SPEED
+
+• EXPOSURE CATEGORY Bd• 25-FOOT MEAN ROOF HEIGHT• 10-FOOT EAVE-TO-RIDGE HEIGHTd• 10-FOOT WALL HEIGHTd• 2 BRACED WALL LINESd	MINIMUM TOTAL LENGTH (FEET) OF STRAWBALE BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d
+Ultimate design windspeed (mph)	Story location	Braced wall line spacing (feet)	Strawbale braced wall panele A2, A3	Strawbale braced wall panele C1, C2, D1	Strawbale braced wall panele B, D2, E1, E2
+≤ 110	One-story building	10	6.4	3.8	3.0
+20	8.5	5.1	4.0
+30	10.2	6.1	4.8
+40	13.3	6.9	5.5
+50	16.3	7.7	6.1
+60	19.4	8.3	6.6
+≤ 115	One-story building	10	6.4	3.8	3.0
+20	8.5	5.1	4.0
+30	11.2	6.4	5.1
+40	14.3	7.2	5.7
+50	18.4	8.1	6.5
+60	21.4	8.8	7.0
+≤ 120	One-story building	10	7.1	4.3	3.4
+20	9.0	5.4	4.3
+30	12.2	6.6	5.3
+40	16.3	7.7	6.1
+50	19.4	8.3	6.6
+60	23.5	9.2	7.3
+≤ 130	One-story building	10	7.1	4.3	3.4
+20	10.2	6.1	4.8
+30	14.3	7.2	5.7
+40	18.4	8.1	6.5
+50	22.4	9.0	7.1
+60	26.5	9.8	7.8
+≤ 140	One-story building	10	7.8	4.7	3.7
+20	11.2	6.4	5.1
+30	16.3	7.7	6.1
+40	21.4	8.8	7.0
+50	26.5	9.8	7.8
+60	30.6	11.0	8.3
+
+For SI: 1 foot = 305 mm, 1 mile per hour = 0.447 m/s.
+
+a.Linear interpolation shall be permitted.
+
+b.All braced wall panels shall be without openings and shall have an aspect ratio (H:L) ≤ 2:1.
+
+c.Tabulated minimum total lengths are for braced wall lines using single-braced wall panels with an aspect ratio (H:L) ≤ 2:1, or using multiple braced wall panels with aspect ratios (H:L) ≤ 1:1. For braced wall lines using two or more braced wall panels with an aspect ratio (H:L) > 1:1, the minimum total length shall be multiplied by the largest aspect ratio (H:L) of braced wall panels in that line.
+
+d.Subject to applicable wind adjustment factors associated with “All methods” in Table AS106.13(2)
+
+e.Strawbale braced panel types indicated shall comply with Sections AS106.13.1 through AS106.13.3 and with Table AS106.13(1).
+
+TABLE AS106.13(3)
+
+BRACING REQUIREMENTS FOR STRAWBALE BRACED WALL PANELS BASED ON SEISMIC DESIGN CATEGORY
+
+• SOIL CLASS Df• WALL HEIGHT = 10 FEETd• 15 PSF ROOF-CEILING DEAD LOADd• BRACED WALL LINE SPACING ≤ 25 FEETd	MINIMUM TOTAL LENGTH (FEET) OF STRAWBALE BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d
+Seismic Design Category	Story location	Braced wall line length(feet)	Strawbale braced wall paneleA2, A3g, C1, C2, D1	Strawbale braced wall panele B, D2, E1, E2
+C	One-story building	10	5.7	4.6
+20	8.0	6.5
+30	9.8	7.9
+40	12.9	9.1
+50	16.1	10.4
+D0	One-story building	10	6.0	4.8
+20	8.5	6.8
+30	10.9	8.4
+40	14.5	9.7
+50	18.1	11.7
+D1	One-story building	10	6.3	5.1
+20	9.0	7.2
+30	12.1	8.8
+40	16.1	10.4
+50	20.1	13.0
+D2	One-story building	10	7.1	5.7
+20	10.1	8.1
+30	15.1	9.9
+40	20.1	13.0
+50	25.1	16.3
+
+For SI: 1 inch = 25.4 mm, 1 foot = 305 mm, 1 pound per square foot = 0.0479 kPa.
+
+a.Linear interpolation shall be permitted.
+
+b.Braced wall panels shall be without openings and shall have an aspect ratio (H:L) ≤ 2:1.
+
+c.Tabulated minimum total lengths are for braced wall lines using single braced wall panels with an aspect ratio (H:L) ≤ 2:1, or using multiple braced wall panels with aspect ratios (H:L) ≤ 1:1. For braced wall lines using two or more braced wall panels with an aspect ratio (H:L) > 1:1, the minimum total length shall be multiplied by the largest aspect ratio (H:L) of braced wall panels in that line.
+
+d.Subject to applicable seismic adjustment factors associated with “All methods” in Table R602.10.3(4), except “Wall dead load.”
+
+e.Strawbale braced wall panel types indicated shall comply with Sections AS106.13.1 through AS106.13.3 and Table AS106.13(1).
+
+f.Wall bracing lengths are based on a soil site class “D.” Interpolation of bracing lengths between Sds values associated with the seismic design categories is allowable where a site-specific Sds value is determined in accordance with Section 1613.3 of the California Building Code.
+
+g.Where using wall Type A3, the minimum total length of braced wall panels in this column shall be multiplied by 1.25.
+
+AS106.13.1 Bale wall thickness.
+
+The thickness of strawbale braced wall panels without their plaster shall be not less than 15 inches (381 mm).
+
+AS106.13.2 Sill plates.
+
+Sill plates shall be in accordance with Table AS106.13(1).
+
+AS106.13.3 Sill plate fasteners.
+
+Sill plates shall be fastened with not less than 5/8-inch-diameter (15.9 mm) steel anchor bolts with 3-inch by 3-inch by 3/16-inch (76.2 mm by 76.2 mm by 4.8 mm) steel washers, with not less than 7-inch (177.8 mm) embedment in a concrete or masonry foundation, or shall be an approved equivalent, with the spacing shown in Table AS106.13(1). Anchor bolts or other fasteners into framed floors shall be of an approved engineered design.
+
+AS106.14 Resistance to wind uplift forces.
+
+Plaster mesh in skins of strawbale walls that resist uplift forces from the roof assembly, as determined in accordance with Section R802.11, shall be in accordance with all of the following:
+
+1.Plaster shall be any type and thickness allowed in Section AS104.
+
+2.Mesh shall be any type allowed in Table AS106.13(1), and shall be attached to top plates or roof-bearing elements and to sill plates in accordance with Section AS106.9.2.
+
+3.Sill plates shall be not less than nominal 2-inch by 4-inch (51 mm by 102 mm) with anchoring complying with Section R403.1.6.
+
+4.Mesh attached with staples at 4 inches (51 mm) on center shall be considered to be capable of resisting uplift forces of 100 plf (1459 N/m) for each plaster skin.
+
+5.Mesh attached with staples at 2 inches (51 mm) on center shall be considered to be capable of resisting uplift forces of 200 plf (2918 N/m) for each plaster skin.
+
+AS106.15 Post-and-beam with strawbale infill.
+
+Post-and-beam with strawbale infill systems shall be in accordance with Figure AS105.1(4) and Items 1 through 7, or be of an approved engineered design.
+
+1.Beams shall be of the dimensions and number of members in accordance with Table R602.7(1), where the space between posts equals the span in the table.
+
+2.Beam ends shall bear over posts not less than 11/2 inches (38 mm) or be supported by a framing anchor in accordance with Table R602.7(1).
+
+3.Discontinuous beam ends shall be spliced with a metal strap with not less than 1,000-pound (454 kg) wind or seismic load tension capacity. Where the wall line includes a braced wall panel, the strap shall have not less than a 4,000-pound (1814 kg) capacity.
+
+4.Each post shall equal NJ + 1 in accordance with Table R602.7(1), where the space between posts equals the span in the table.
+
+5.Posts shall be connected to the beam by an approved means.
+
+6.Roof and ceiling framing shall be attached to the beam in accordance with Table R602.3(1), Items 2 and 6.
+
+7.Posts shall be supported by the sill plate of the bale wall in accordance with Section AS105.3 or AS106.13.2, with fastening in accordance with Table R602.3(1), Item 16, or shall be supported and fastened at their base by an approved means.
+
+SECTION AS107 FIRE RESISTANCE
+
+AS107.1 Fire-resistance rating.
+
+Strawbale walls shall not be considered to exhibit a fire-resistance rating, except for walls constructed in accordance with Section AS107.1.1 or AS107.1.2. Alternately, fire-resistance ratings of strawbale walls shall be determined in accordance with Section R302.
+
+AS107.1.1 One-hour-rated clay-plastered wall.
+
+One-hour fire-resistance-rated nonload-bearing clay plastered strawbale walls shall comply with all of the following:
+
+1.Bales shall be laid flat or on-edge in a running bond.
+
+2.Bales shall maintain thickness of not less than 18 inches (457 mm).
+
+3.Bales shall have a minimum dry density of 7.25 pounds per cubic foot (116 kg/m3).
+
+4.Gaps shall be stuffed with straw-clay.
+
+5.Clay plaster on each side of the wall shall be not less than 1 inch (25 mm) thick and shall be composed of a mixture of 3 parts clay, 2 parts chopped straw and 6 parts sand, or an alternative approved clay plaster.
+
+6.Plaster application shall be in accordance with Section AS104.4.3.3 for the number and thickness of coats.
+
+AS107.1.2 Two-hour-rated cement-plastered wall.
+
+Two-hour fire-resistance-rated nonload-bearing cement-plastered strawbale walls shall comply with all of the following:
+
+1.Bales shall be laid flat or on-edge in a running bond.
+
+2.Bales shall maintain a thickness of not less than 14 inches (356 mm).
+
+3.Bales shall have a minimum dry density of 7.25 pounds per cubic foot (116 kg/m3).
+
+4.Gaps shall be stuffed with straw-clay.
+
+5.A single section of 1/2-inch (38 mm) by 17-gage galvanized woven wire mesh shall be attached to wood members with 11/2-inch (38 mm) staples at 6 inches (152 mm) on center. 9 gage U-pins with not less than 8-inch (203 mm) legs shall be installed at 18 inches (457 mm) on center to fasten the mesh to the bales.
+
+6.Cement plaster on each side of the wall shall be not less than 1 inch (25 mm) thick.
+
+7.Plaster application shall be in accordance with Section AS104.4.9 for the number and thickness of coats.
+
+AS107.2 Openings in rated walls.
+
+Openings and penetrations in bale walls required to have a fire-resistance rating shall satisfy the same requirements for openings and penetrations as prescribed in this code.
+
+AS107.3 Clearance to fireplaces and chimneys.
+
+Strawbale surfaces adjacent to fireplaces or chimneys shall be finished with not less than 3/8-inch-thick (10 mm) plaster of any type permitted by this appendix. Clearance from the face of such plaster to fireplaces and chimneys shall be maintained as required from fireplaces and chimneys to combustibles in Chapter 10, or as required by manufacturer’s instructions, whichever is more restrictive.
+
+SECTION AS108 THERMAL INSULATION
+
+AS108.1 R-value.
+
+The unit R-value of a strawbale wall with bales laid flat is R-1.55 for each inch of bale thickness. The unit R-value of a strawbale wall with bales on-edge is R-1.85 for each inch of bale thickness.
+
+AS108.2 Compliance with Section R302.10.1.
+
+Straw bales meet the requirements for insulation materials in Section R302.10.1 for flame spread index and smoke-developed index as tested in accordance with ASTM E84.
+
+SECTION AS109 REFERENCED STANDARDS
+
+AS109.1 General.
+
+See Table AS109.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, the standard title and the section or sections of this appendix that reference the standard.
+
+TABLE AS109.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASTM C5—10	Standard Specification for Quicklime for Structural Purposes	AS104.4.6.1
+ASTM C109/C109M—2015el	Standard Test Method forCompressive Strength ofHydraulic Cement Mortars	AS106.6.1
+ASTM C141/C141M—14	Standard Specification forHydrated Hydraulic Limefor Structural Purposes	AS104.4.6.1
+ASTM C206—14	Standard Specification forFinishing Hydrated Lime	AS104.4.6.1
+ASTM C926—15B	Standard Specification for Application of Portland Cement Based Plaster	AS104.4.8, AS104.4.9
+ASTM C1707—11	Standard Specificationfor Pozzolanic HydraulicLime for Structural Purposes	AS104.4.6.1
+ASTM E2392/ASTM E2392M—10	Standard Guide for Designof Earthen WallBuilding Systems	AS104.4.3.2
+CEN EN 459—2015	Part 1: Building Lime.Definitions, Specificationsand Conformity Criteria;Part 2: Test Methods	AS104.4.6.1
+

@@ -1,0 +1,457 @@
+Chapter 17 Referenced Standards
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X			X	X																		
+Adopt Entire Chapter as
+amended (amended sections listed below)			X					X	X	X	X	X	X	X	X								
+Adopt only those sections
+that are listed below																							
+Chapter/Section																							
+Table 1701.1	X		X				X	X	X	X	X	X	X	X									
+
+This state agency does not adopt sections identified with the following symbol: † The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1701.0 General
+1701.1 Standards
+STANDARD NUMBER	STANDARD TITLE	APPLICATION	REFERENCEDSECTION
+49 CFR 192.281	Plastic Pipe	Piping, Plastic	1308.5.4.2.2
+49 CFR 192.283	Plastic Pipe: Qualifying Joining Procedures	Piping, Plastic	1308.5.4.2.2
+AABC-2016	Total System Balance, 7th Edition	Balancing	314.1(1)
+ACCA Manual B-2009	Balancing and Testing Air and Hydronic Systems	Balancing	314.1(1)
+ACCA Manual D-2016	Residential Duct Systems	Ducts, Balancing	601.2
+ACCA Manual J-2016	Residential Load Calculations	Ducts	1105.1
+ACCA Manual S-2014	Residential Equipment Selection	Equipment	1105.1
+ACCA Manual Zr-2018	Residential Zoning	Ducts	601.2
+ACCA 4 QM-2019	Maintenance of Residential HVAC Systems	HVAC Systems	102.3.2
+AHRI 700-2017a	Specifications for Refrigerants	Refrigerants	1104.7, 1104.7.3
+AMCA 540-2013	Louvers Impacted by Wind Borne Debris	Louvers	315.1.2
+AMCA 550-2015	Test Method for High Velocity Wind Driven Rain Resistant Louvers	Louvers	315.1.1
+ASHRAE 15-2016	Safety Standard for Refrigeration Systems	Refrigeration Systems	1102.1, 1106.1, Table 1113.5
+ASHRAE 34-2016	Designation and Safety Classification of Refrigerants	Refrigeration Classifications	1102.3, 1103.1, Table 1102.3, Table 1106.2.5.2
+ASHRAE 62.1-2016	Ventilation for Acceptable Indoor Air Quality	Indoor Air Quality Ventilation	402.4.1
+ASHRAE 111-2008	Measurement, Testing, Adjusting, and Balancing of Building HVAC Systems	Balancing	314.1(3)
+ASHRAE 129-1997 (R2002)	Measuring Air-Change Effectiveness	Air Change Effectiveness	Table 403.2.2
+ASHRAE 154-2016	Ventilation for Commercial Cooking Operations	Commercial Kitchens	510.5.6
+ASHRAE 170-2013	Ventilation of Health Care Facilities	Ventilation	402.1.2
+ASHRAE/ACCA 180-2018	Inspection and Maintenance of Commercial Building HVAC Systems	Maintenance	102.3.1, 1013.3
+ASHRAE Handbook-2017	Fundamentals	Climatic Conditions	Figure 803.1.2(6)
+ASME B1.20.1-2013	Pipe Threads, General Purpose (Inch)	Joints	1211.2(3), 1211.4(7), 1211.12(3), 1211.13(2), 1308.5.6
+ASME B16.1-2015	Gray Iron Pipe Flanges and Flanged Fittings: Classes 25, 125, and 250	Fittings	1308.5.9
+ASME B16.3-2016	Malleable Iron Threaded Fittings: Classes 150 and 300	Fittings	Table 1210.1
+ASME B16.5-2017	Pipe Flanges and Flanged Fittings: NPS 1/2 through NPS 24 Metric/Inch	Fittings	Table 1210.1, 1308.5.9.1(1)
+ASME B16.9-2018	Factory-Made Wrought Buttwelding Fittings	Fittings	Table 1210.1
+ASME B16.11-2016	Forged Fittings, Socket-Welding and Threaded	Fittings	Table 1210.1
+ASME B16.15-2018	Cast Copper Alloy Threaded Fittings: Classes 125 and 250	Fittings	Table 1210.1
+ASME B16.18-2018	Cast Copper Alloy Solder Joint Pressure Fittings	Fittings	Table 1210.1
+ASME B16.20-2017	Metallic Gaskets for Pipe Flanges	Joints	1308.5.10.2
+ASME B16.21-2016	Nonmetallic Flat Gaskets for Pipe Flanges	Fuel Gas Piping	1308.5.10.3
+ASME B16.22-2018	Wrought Copper and Copper Alloy Solder-Joint Pressure Fittings	Fittings	Table 1210.1
+ASME B16.23-2016	Cast Copper Alloy Solder Joint Drainage Fittings: DWV	Fittings	Table 1210.1
+ASME B16.24-2016	Cast Copper Alloy Pipe Flanges, Flanged Fittings, and Valves: Classes 150, 300, 600, 900, 1500, and 2500	Fittings	Table 1210.1, 1308.5.9.2
+ASME B16.26-2018	Cast Copper Alloy Fittings for Flared Copper Tubes	Fittings	Table 1210.1
+ASME B16.29-2017	Wrought Copper and Wrought Copper Alloy Solder-Joint Drainage Fittings — DWV	Fittings	Table 1210.1
+ASME B16.42-2016	Ductile Iron Pipe Flanges and Flanged Fittings: Classes 150 and 300	Fuel Gas Piping	1308.5.9.3
+ASME B16.47-2017	Large Diameter Steel Flanges: NPS 26 Through NPS 60 Metric/Inch	Fuel Gas Piping	1308.5.9.1(2)
+ASME B16.51-2018	Copper and Copper Alloy Press-Connect Pressure Fittings	Fittings	Table 1210.1
+ASME B31.3-2016	Process Piping	Process Piping	1406.1
+ASME B31.5-2016	Refrigeration Piping and Heat Transfer Components	Refrigeration Piping	1109.1.1, 1109.1.3
+ASME B36.10M-2018	Welded and Seamless Wrought Steel Pipe	Fuel Gas Piping	1308.5.2.1
+ASME BPVC Section I-2017	Rules for Construction of Power Boilers	Boilers	1002.1(1), Table 1003.2.1
+ASME BPVC Section IV-2017	Rules for Construction of Heating Boilers	Boilers	1002.1(2)
+ASME BPVC Section VIII.1-2017	Rules for Construction of Pressure Vessels Division 1	Pressure Vessels	1002.1, 1004.3, 1112.10.1, 1112.13, 1113.1, 1115.4, 1115.4.1, 1117.1(2), 1117.1(3), 1117.2, 1209.4
+ASME CSD-1-2018	Controls and Safety Devices for Automatically Fired Boilers	Boilers	1003.2.1
+ASSE 1013-2011	Reduced Pressure Principle Backflow Preventers and Reduced Pressure Principle Fire Protection Backflow Preventers	Backflow Protection	1202.2
+ASSE 1017-2009	Temperature Actuated Mixing Valves for Hot Water Distribution Systems	Valves	1207.3.1
+ASSE 1061-2015	Push-Fit Fittings	Fittings	1211.2(1), 1211.4(5), Table 1210.1
+ASSE 1079-2012	Dielectric Pipe Fittings	Fittings	1211.14.1
+ASSE Z359.1-2016	The Fall Protection Code	Miscellaneous	303.8.4.1
+ASTM A53/A53M-2018	Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless	Piping	1308.5.2.1(1), Table 1210.1
+ASTM A106/A106M-2018	Seamless Carbon Steel Pipe for High-Temperature Service	Piping	1308.5.2.1(2), Table 1210.1
+ASTM A126-2004 (R2014)	Gray Iron Castings for Valves, Flanges, and Pipe Fittings	Piping	Table 1210.1
+ASTM A254/A254M-2012	Copper-Brazed Steel Tubing	Piping	1308.5.3.2, Table 1210.1
+ASTM A268/A268M-2010 (R2016)	Seamless and Welded Ferritic and Martensitic Stainless Steel Tubing for General Service	Tubing	1308.5.3.1(1)
+ASTM A269/A269M-2015a	Seamless and Welded Austenitic Stainless Steel Tubing for General Service	Piping, Tubing	1308.5.3.1(2), Table 1210.1
+ASTM A312/A312M-2018a	Seamless, Welded, and Heavily Cold Worked Austenitic Stainless Steel Pipes	Piping Ferrous	1308.5.2.1(3), Table 1210.1
+ASTM A420/A420M-2016	Piping Fittings of Wrought Carbon Steel and Alloy Steel for Low-Temperature Service	Fittings	Table 1210.1
+ASTM A554-2016	Welded Stainless Steel Mechanical Tubing	Piping	Table 1210.1
+ASTM A778/A778M-2016	Welded, Unannealed Austenitic Stainless Steel Tubular Products	Piping	Table 1210.1
+ASTM B32-2008 (R2014)	Solder Metal	Joints	1211.4(6)
+ASTM B42-2015a	Seamless Copper Pipe, Standard Sizes	Piping	Table 1210.1
+ASTM B43-2015	Seamless Red Brass Pipe, Standard Sizes	Piping	Table 1210.1
+ASTM B75/B75M-2011	Seamless Copper Tube	Piping	Table 1210.1
+ASTM B88-2016	Seamless Copper Water Tube	Piping	1308.5.3.2, Table 1210.1
+ASTM B135/B135M-2017	Seamless Brass Tube	Piping	Table 1210.1
+ASTM B210-2012	Aluminum and Aluminum-Alloy Drawn Seamless Tubes	Piping	1308.5.3.4
+ASTM B241/B241M-2016	Aluminum and Aluminum-Alloy Seamless Pipe and Seamless Extruded Tube	Piping	1308.5.2.3, 1308.5.3.4
+ASTM B251/B251M-2017	General Requirements for Wrought Seamless Copper and Copper-Alloy Tube	Piping	Table 1210.1
+ASTM B280-2018	Seamless Copper Tube for Air Conditioning and Refrigeration Field Service	Piping	1109.1.2, 1308.5.3.3
+ASTM B302-2017	Threadless Copper Pipe, Standard Sizes	Piping	Table 1210.1
+ASTM B447-2012a	Welded Copper Tube	Piping	Table 1210.1
+ASTM B813-2016	Liquid and Paste Fluxes for Soldering of Copper and Copper Alloy Tube	Joints	1211.4(6)
+ASTM B828-2016	Making Capillary Joints by Soldering of Copper and Copper Alloy Tube and Fittings	Joints	1211.4(6)
+ASTM B1003-2016	Seamless Copper Tube for Linesets	Piping	1109.1.2
+ASTM C315-2007 (R2016)	Clay Flue Liners and Chimney Pots	Venting Systems	803.1.11.1
+ASTM C411-2017	Hot-Surface Performance of High-Temperature Thermal Insulation	Duct Coverings and Linings	605.1.2
+ASTM D1693-2015	Environmental Stress-Cracking of Ethylene Plastics	Piping	Table 1210.1
+ASTM D1785-2015e1	Poly (Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120	Piping	Table 1210.1
+ASTM D2241-2015	Poly (Vinyl Chloride) (PVC) Pressure-Rated Pipe (SDR Series)	Piping	Table 1210.1
+ASTM D2464-2015	Threaded Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80	Fittings	Table 1210.1
+ASTM D2466-2017	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 40	Fittings	Table 1210.1
+ASTM D2467-2015	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80	Fittings	Table 1210.1
+ASTM D2513-2018a	Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings	Piping	1308.5.4, 1308.5.4.2.2, 1308.5.8.2, 1310.1.7.1(1), Table 1210.1
+ASTM D2564-2012 (R2018)	Solvent Cements for Poly (Vinyl Chloride) (PVC) Plastic Piping Systems	Joints	1211.12(2)
+ASTM D2609-2015	Plastic Insert Fittings for Polyethylene (PE) Plastic Pipe	Fittings	Table 1210.1
+ASTM D2683-2014	Socket-Type Polyethylene Fittings for Outside Diameter-Controlled Polyethylene Pipe and Tubing	Fittings	Table 1210.1
+ASTM D2737-2012a	Polyethylene (PE) Plastic Tubing	Piping, Plastic	Table 1210.1
+ASTM D2846/D2846M-2017be1	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Hot- and Cold-Water Distribution Systems	Piping	1211.2(2), 1211.3(2), Table 1210.1
+ASTM D3035-2015	Polyethylene (PE) Plastic Pipe (DR-PR) Based on Controlled Outside Diameter	Piping	Table 1210.1
+ASTM D3139-1998 (R2011)	Joints for Plastic Pressure Pipes Using Flexible Elastomeric Seals	Joints	1211.12(1)
+ASTM D3261-2016	Butt Heat Fusion Polyethylene (PE) Plastic Fittings for Polyethylene (PE) Plastic Pipe and Tubing	Fittings	Table 1210.1
+ASTM D3350-2014	Polyethylene Plastics Pipe and Fittings Materials	Piping, Fittings	Table 1210.1
+ASTM E84-2018b	Surface Burning Characteristics of Building Materials	Miscellaneous	508.3.4, 602.2, 605.1.1, 605.1.2, 1201.2
+ASTM E779-2019	Determining Air Leakage Rate by Fan Pressurization	Air Ducts	405.2.1
+ASTM E814-2013a (R2017)	Fire Tests of Penetration Firestop Systems	Miscellaneous	507.4.4, 507.4.5
+ASTM E2231-2018	Specimen Preparation and Mounting of Pipe and Duct Insulation Materials to Assess Surface Burning Characteristics	Insulation of Ducts	605.1.2
+ASTM E2336-2016	Fire Resistive Grease Duct Enclosure Systems	Grease Ducts	507.4.2.2, 507.4.5
+ASTM F437-2015	Threaded Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe Fittings, Schedule 80	Fittings	Table 1210.1
+ASTM F438-2017	Socket-Type Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe Fittings, Schedule 40	Fittings	Table 1210.1
+ASTM F439-2013	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe Fittings, Schedule 80	Fittings	Table 1210.1
+ASTM F441/F441M-2015	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe, Schedules 40 and 80	Piping	Table 1210.1
+ASTM F442/442M-2013e1	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe (SDR-PR)	Piping	Table 1210.1, 1211.2(2)
+ASTM F493-2014	Solvent Cements for Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe and Fittings	Joints	1211.2(2), 1211.3(2)
+ASTM F656-2015	Primers for Use in Solvent Cement Joints of Poly (Vinyl Chloride) (PVC) Plastic Pipe and Fittings	Joints	1211.2(2), 1211.3(2), 1211.12(2)
+ASTM F714-2013	Polyethylene (PE) Plastic Pipe (DR-PR) Based on Outside Diameter	Piping, Plastic	Table 1210.1
+ASTM F876-2017	Crosslinked Polyethylene (PEX) Tubing	Piping	1211.5, Table 1210.1
+ASTM F877-2018a	Crosslinked Polyethylene (PEX) Hot- and Cold-Water Distribution Systems	Piping	Table 1210.1
+ASTM F1055-2016a	Electrofusion Type Polyethylene Fittings for Outside Diameter Controlled Polyethylene and Crosslinked Polyethylene (PEX) Pipe and Tubing	Fittings	Table 1210.1
+ASTM F1281-2017	Crosslinked Polyethylene/Aluminum/Crosslinked Polyethylene (PEX-AL-PEX) Pressure Pipe	Piping	Table 1210.1
+ASTM F1282-2017	Polyethylene/Aluminum/Polyethylene (PE-AL-PE) Composite Pressure Pipe	Piping	Table 1210.1
+ASTM F1476-2007 (R2013)	Performance of Gasketed Mechanical Couplings for Use in Piping Applications	Fittings	Table 1210.1
+ASTM F1548-2001 (R2018)	Performance of Fittings for Use with Gasketed Mechanical Couplings Used in Piping Applications	Fittings	Table 1210.1
+ASTM F1807-2018a	Metal Insert Fittings Utilizing a Copper Crimp Ring for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethylene of Raised Temperature (PE-RT) Tubing	Fittings	Table 1210.1
+ASTM F1960-2018a	Cold Expansion Fittings with PEX Reinforcing Rings for Use with Cross-linked Polyethylene (PEX) and Polyethylene of Raised Temperature (PE-RT) Tubing	Fittings	Table 1210.1
+ASTM F1970-2012e1	Special Engineered Fittings, Appurtenances or Valves for Use in Poly (Vinyl Chloride) (PVC) or Chlorinated Poly (Vinyl Chloride) (COPE) Systems	Piping	Table 1210.1
+ASTM F1973-2013 (R2018)	Factory Assembled Anodeless Risers and Transition Fittings in Polyethylene (PE) and Polyamide 11 (PA11) and Polyamide 12 (PA12) Fuel Gas Distribution Systems	Fuel Gas	1310.1.7.1(2)
+ASTM F1974-2009 (R2015)	Metal Insert Fittings for Polyethylene/Aluminum/Polyethylene and Crosslinked Polyethylene/Aluminum/ Crosslinked Polyethylene Composite Pressure Pipe	Fittings	1211.6(1), 1211.9(1), Table 1210.1
+ASTM F2080-2018	Cold-Expansion Fittings with Metal Compression-Sleeves for Crosslinked Polyethylene (PEX) Pipe and SDR9 Polyethylene of Raised Temperature (PE-RT) Pipe	Fittings	Table 1210.1
+ASTM F2098-2018	Stainless Steel Clamps for Securing SDR9 Cross-linked Polyethylene (PEX) Tubing to Metal Insert and Plastic Insert Fittings	Joints	Table 1210.1
+ASTM F2158-2008 (R2016)	Residential Central-Vacuum Tube and Fittings	Exhaust Systems	506.1(3), 506.2(2)
+ASTM F2159-2018a	Plastic Insert Fittings Utilizing a Copper Crimp Ring for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethylene of Raised Temperature (PE-RT) Tubing	Fittings	Table 1210.1
+ASTM F2389-2017a	Pressure-Rated Polypropylene (PP) Piping Systems	Piping	1211.11(1), Table 1210.1
+ASTM F2434-2018	Metal Insert Fittings Utilizing a Copper Crimp Ring for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Cross-linked Polyethylene/Aluminum/Cross-linked Polyethylene (PEX-AL-PEX) Tubing	Fittings	1211.6(1), Table 1210.1
+ASTM F2509-2015	Field-Assembled Anodeless Riser Kits for Use on Outside Diameter Controlled Polyethylene and Polyamide-11 (PA11) Gas Distribution Pipe and Tubing	Fuel Gas	1310.1.7.1(3)
+ASTM F2620-2013	Standard Practice for Heat Fusion Joining of Polyethylene Pipe and Fittings	Joints	1211.8(1), 1211.8(3)
+ASTM F2623-2014	Polyethylene of Raised Temperature (PE-RT) SDR9 Tubing	Piping	Table 1210.1
+ASTM F2735-2018	Plastic Insert Fittings for SDR9 Cross-linked Polyethylene (PEX) and Polyethylene of Raised Temperature (PE-RT) Tubing	Fittings	Table 1210.1
+ASTM F2769-2018	Polyethylene of Raised Temperature (PE-RT) Plastic Hot and Cold-Water Tubing and Distribution Systems	Piping, Fittings	Table 1210.1
+ASTM F2855-2012	Specification for Chlorinated Poly (Vinyl Chloride)/ Aluminum/Chlorinated Poly (Vinyl Chloride) (CPVC-AL-CPVC) Composite Pressure Tubing	Piping, Plastic	Table 1210.1
+ASTM F2945-2018	Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings	Tubing, Fittings	1308.5.4
+ASTM F3226/F3226M- 2016e1	Metallic Press-Connect Fittings for Piping and Tubing Systems	Fittings	Table 1210.1
+ASTM F3253-2018	Crosslinked Polyethylene (PEX) Tubing with Oxygen Barrier for Hot- and Cold-Water Hydronic Distribution Systems	Piping	Table 1210.1
+AWS A5.8M/A5.8-2011- AMD 1	Filler Metals for Brazing and Braze Welding	Joints	1211.4(1)
+AWWA C110-2012	Ductile-Iron and Gray-Iron Fittings	Fittings	Table 1210.1
+AWWA C111-2017	Rubber-Gasket Joints for Ductile-Iron Pressure Pipe and Fittings	Joints	1211.7(1), 1211.7(2)
+AWWA C115-2011	Flanged Ductile-Iron Pipe with Ductile-Iron or Gray-Iron Treaded Flanges	Piping	Table 1210.1
+AWWA C151-2017	Ductile-Iron Pipe, Centrifugally Cast	Piping, Ferrous	Table 1210.1
+AWWA C153-2011	Ductile-Iron Compact Fittings	Fittings	Table 1210.1
+AWWA C901-2017	Polyethylene (PE) Pressure Pipe and Tubing, 3/4 in. (19 mm) Through 3 in. (76 mm) for Water Service	Piping, Plastic	Table 1210.1
+CSA B137.1-2017	Polyethylene (PE) Pipe, Tubing, and Fittings for Cold-Water Pressure Services	Piping	Table 1210.1
+CSA B137.2-2017	Polyvinylchloride (PVC) Injection-Moulded Gasketed Fittings for Pressure Applications	Piping, Plastic	Table 1210.1
+CSA B137.3-2017	Rigid Polyvinylchloride (PVC) Pipe and Fittings for Pressure Applications	Piping, Plastic	Table 1210.1
+CSA B137.5-2017	Crosslinked Polyethylene (PEX) Tubing Systems for Pressure Applications	Piping	Table 1210.1
+CSA B137.6-2017	Chlorinated Polyvinylchloride (CPVC) Pipe, Tubing, and Fittings for Hot- and Cold-Water Distribution Systems	Piping, Plastic	Table 1210.1
+CSA B137.9-2017	Polyethylene/Aluminum/Polyethylene (PE-AL-PE) Composite Pressure-Pipe Systems	Piping	Table 1210.1
+CSA B137.10-2017	Crosslinked Polyethylene/Aluminum/Crosslinked Polyethylene (PEX-AL-PEX) Composite Pressure-Pipe Systems	Piping	Table 1210.1
+CSA B137.11-2017	Polypropylene (PP-R) Pipe and Fittings for Pressure Applications	Piping	1211.11(1), Table 1210.1
+CSA B137.18-2017	Polyethylene of Raised Temperature Resistance (PE-RT) Tubing Systems for Pressure Applications	Piping, Plastic	Table 1210.1
+CSA FC 1-2014	Fuel Cell Technologies-Part 3-100: Stationary Fuel Cell Power Systems-Safety	Fuel Cell Power Plants	1601.1
+CSA LC 1-2018	Fuel Gas Piping Systems Using Corrugated Stainless Steel Tubing (same as CSA 6.26)	Fuel Gas	1308.5.3.5, 1310.4.1(4), 1311.3
+CSA LC 4a-2013 (R2017)	Press-Connect Metallic Fittings For Use in Fuel Gas Distribution Systems (same as CSA 6.32a)	Fuel Gas	1308.5.7.1, 1308.5.7.2, 1308.5.7.3, 1310.4.1(3)
+CSA NGV 5.1-2016	Residential Fueling Appliances	Appliances	938.1
+CSA Z21.8-1994 (R2017)	Installation of Domestic Gas Conversion Burners	Fuel Gas, Appliances	909.1
+CSA Z21.10.1-2017	Gas Water Heaters, Volume I, Storage Water Heaters with Input Ratings of 75,000 Btu Per Hour or Less (same as CSA 4.1)	Fuel Gas, Appliances	Table 1203.2
+CSA Z21.10.3-2017	Gas-Fired Water Heaters, Volume III, Storage Water Heaters with Input Ratings Above 75,000 Btu Per Hour, Circulating and Instantaneous (same as CSA 4.3)	Fuel Gas, Appliances	Table 1203.2
+CSA Z21.24-2015	Connectors for Gas Appliances (same as CSA 6.10)	Fuel Gas	1312.1(3), 1312.2
+CSA Z21.41-2014	Quick Disconnect Devices for Use with Gas Fuel Appliances (same as CSA 6.9)	Fuel Gas	1312.7
+CSA Z21.54-2014	Gas Hose Connectors for Portable Outdoor Gas-Fired Appliances (same as CSA 8.4)	Fuel Gas	1312.3.2
+CSA Z21.69-2015	Connectors for Moveable Gas Appliances (same as CSA 6.16)	Fuel Gas	1312.1.1
+CSA Z21.75-2016	Connectors for Outdoor Gas Appliances and Manufactured Homes (same as CSA 6.27)	Appliances	1312.1(4)
+CSA Z21.80a-2012	Line Pressure Regulators (same as CSA 6.22a)	Fuel Gas	1308.7.1, 1308.7.4(1)
+CSA Z21.90-2015	Gas Convenience Outlets and Optional Enclosures (same as CSA 6.24)	Gas Outlets	1312.8
+CSA Z21.93-2017	Excess Flow Valves for Natural and Propane Gas with Pressures up to 5 psig (same as CSA 6.30)	Fuel Gas	1309.1
+CSA Z83.4-2017	Non-Recirculating Direct Gas-Fired Heating and Forced Ventilation Appliances for Commercial and Industrial Application (same as CSA 3.7)	Air Heaters, Non-Recirculating, Non-Recirculating Heaters	914.1
+CSA Z83.18-2017	Recirculating Direct Gas-Fired Heating and Forced Ventilation Appliances for Commercial and Industrial Applications	Air Heaters, Industrial Heaters, Recirculating	915.1
+IAPMO PS 117-2017	Press and Nail Connections	Fittings	Table 1210.1
+IIAR 2-2014	Standard for Safe Design of Closed-Circuit Ammonia Refrigeration Systems	Ammonia Refrigeration Systems	1102.2
+IIAR 3-2017	Ammonia Refrigeration Valves	Ammonia Refrigeration Systems	1102.2
+IIAR 4-2015	Installation of Closed-Circuit Ammonia Refrigeration Systems	Ammonia Refrigeration	1102.2
+IIAR 5-2013	Start-Up and Commissioning of Closed Circuit Ammonia Refrigeration Systems	Ammonia Refrigeration Systems	1102.2
+MSS SP-58-2018	Pipe Hangers and Supports-Materials, Design, Manufacture, Selection, Application, and Installation	Miscellaneous	1310.3.5
+NEBB-2015	Procedural Standard for Testing, Adjusting and Balancing of Environmental Systems, 8th Edition	Balancing	314.1(4)
+NFPA 2-2019	Hydrogen Technologies Code	Gaseous Hydrogen Systems	937.1
+NFPA 10-2021	Portable Fire Extinguishers	Fire Extinguishing	513.10, 513.10.1, 513.11, 517.7.4
+NFPA 12-2018	Carbon Dioxide Extinguishing Systems	Fire Extinguishing	513.2.3(1)
+NFPA 13-2022 *See California Fire Code for amendments	Installation of Sprinkler Systems	Miscellaneous	513.2.3(2), 517.7.6
+NFPA 17-2020	Dry Chemical Extinguishing Systems	Fire Extinguishing	513.2.3(3), 513.3.5
+NFPA 17A-2020	Wet Chemical Extinguishing Systems	Fire Extinguishing	513.2.3(4), 513.2.5.6, 513.3.5
+NFPA 30A-2021	Motor Fuel Dispensing Facilities and Repair Garages	Miscellaneous	303.11.1
+NFPA 31-2016	Installation of Oil-Burning Equipment	Fuel Gas, Appliances	301.5, 1002.2.2, 1301.1
+NFPA 37-2018	Installation and Use of Stationary Combustion Engines and Gas Turbines	Generators	1602.1, 1602.3
+NFPA 51-2018	Design and Installation of Oxygen-Fuel Gas Systems for Welding, Cutting, and Allied Processes	Fuel Gas Systems	902.7
+NFPA 52-2019	Vehicular Natural Gas Fuel Systems Code	CNG Vehicle Fuel Systems	938.1
+NFPA 54/Z223.1-2018	National Fuel Gas Code	Fuel Gas	516.2.1
+NFPA 58-2020	Liquefied Petroleum Gas Code	Fuel Gas	303.7, 516.2.1, 1308.5.4.2.3, 1308.5.8.4, 1310.6(7), 1312.11
+NFPA 68-2018	Explosion Protection by Deflagration Venting	Product Conveying Ducts	505.3.3
+NFPA 69-2019	Explosion Prevention Systems	Explosion Prevention	505.3.1
+NFPA 70-2020 *See California Electrical Code for amendments	National Electrical Code	Miscellaneous	301.4(1), 301.4(3), 511.1.6, 512.2.5, 516.2.7, 516.2.9(4), 602.2.1, 905.8.2, 1104.4(5), 1107.1.7, 1107.1.8, 1217.8.1, 1310.14.5(2), 1311.2.4, 1311.7
+NFPA 80-2019	Fire Doors and Other Opening Protectives	Fire Doors	510.7.7
+NFPA 82-2019	Incinerators and Waste and Linen Handling Systems and Equipment	Incinerator Chutes	802.2.8, Table 802.4, 925.1
+NFPA 85-2019	Boiler and Combustion Systems Hazards Code	Appliances	1002.1(3), 1011.1, Table 1003.2.1
+NFPA 86-2019	Ovens and Furnaces	Product Conveying Ducts	505.3.2
+NFPA 88A-2019	Parking Structures	Miscellaneous	303.11
+NFPA 90A-2018	Installation of Air-Conditioning and Ventilating Systems	HVAC	604.1
+NFPA 90B-2018	Installation of Warm Air Heating and Air-Conditioning Systems	HVAC	604.1
+NFPA 211-2019	Chimneys, Fireplaces, Vents, and Solid Fuel-Burning Appliances	Fuel Gas Appliances	517.7, 517.7.1, 801.2, 801.3, 802.5.2, 802.5.3, 802.5.7.1, 802.5.7.3, 902.10
+NFPA 262-2019	Standard Method of Test for Flame Travel and Smoke of Wires and Cables for Use in Air-Handling Spaces	Certification	602.2.1
+NFPA 409-2016	Aircraft Hangars	Miscellaneous	303.12
+NFPA 654-2020	Prevention of Fire and Dust Explosions from the Manufacturing, Processing, and Handling of Combustible Particulate Solids	Dust Explosion Prevention, Gutters	506.6, Table 505.9
+NFPA 780-2017	Installation of Lightning Protection Systems	Fuel Gas	1311.5
+NFPA 853-2020	Installation of Stationary Fuel Cell Power Systems	Fuel Cell Power Plants, Fuel Cells	1601.1
+NFPA 1192-2018	Recreational Vehicles	Fuel Gas Piping	1302.3(18)
+NSF 358-1-2017	Polyethylene Pipe and Fittings for Water-Based Ground-Source "Geothermal" Heat Pump Systems	Piping, Plastic	Table 1210.1
+NSF 358-2-2017	Polypropylene Pipe and Fittings for Water-Based Ground-Source "Geothermal" Heat Pump Systems	Piping, Plastic	Table 1210.1
+NSF 358-3-2016	Cross-linked polyethylene (PEX) pipe and fittings for water-based ground-source (geothermal) heat pump systems	Piping, Plastic	Table 1210.1
+SMACNA-2002	HVAC Systems Testing, Adjusting and Balancing, 3rd Edition	Balancing	314.1(5)
+SMACNA-2017	HVAC Duct Construction Standards Metal and Flexible, 4th Edition	Ducts, Metal and Flexible	504.4.5, 506.2, 602.3, 603.3, 603.4, 603.7.1, 603.9, 603.11, 605.1
+SMACNA-2012	HVAC Air Duct Leakage Test Manual, 2nd Edition	Ducts	603.9.2, 603.10
+SMACNA-2015	Phenolic Duct Construction Standards	Duct Systems	602.4.1
+UL 17-2008	Vent or Chimney Connector Dampers for Oil-Fired Appliances (with revisions through September 25, 2013)	Vent Dampers	802.15.1
+UL 103-2010	Factory-Built Chimneys for Residential Type and Building Heating Appliances (with revisions through March 15, 2017)	Fuel Gas, Appliances	802.5.1, 802.5.1.1
+UL 127-2011	Factory-Built Fireplaces (with revisions through July 27. 2016)	Fireplaces	802.5.1.1, 913.1, 913.1.1
+UL 181-2013	Factory-Made Air Ducts and Air Connectors (with revisions through April 18, 2017)	Air Connectors, Air Ducts	602.3, 602.4.1, 602.4.4, 603.1.4, 603.1.5, 603.4, 603.9.1, 605.1.1, Table 603.9.1
+UL 181A-2013	Closure Systems for Use with Rigid Air Ducts (with revisions through March 22, 2017)	Air Ducts	603.9.1, Table 603.9.1
+UL 181B-2013	Closure Systems for Use with Flexible Air Ducts and Air Connectors (with revisions through March 21, 2017)	Air Connectors, Air Ducts	603.9.1, Table 603.9.1
+UL 197-2010	Commercial Electric Cooking Appliances (with revisions through January 26, 2018)	Appliances, Commercial Cooking, Electric Appliances	921.1
+UL 207-2009	Refrigerant-Containing Components and Accessories, Nonelectrical (with revisions through June 27, 2014)	Refrigeration Components	1109.2
+UL 268A-2008	Smoke Detectors for Duct Application (with revisions through August 12, 2016)	Smoke Detectors	609.1
+UL 295-2017	Commercial-Industrial Gas Burners	Gas Burners	910.2
+UL 296-2017	Oil Burners (with revisions through November 29, 2017)	Fuel Gas, Appliances	910.1
+UL 300-2005	Fire Testing of Fire Extinguishing Systems for Protection of Commercial Cooking Equipment (with revisions through December 16, 2014)	Certification	513.2.2, 513.2.5, 517.3.1.1(6)
+UL 378-2006	Draft Equipment (with revisions through September 17, 2013)	Fuel Gas, Appliances	802.3.3, 802.15.1
+UL 391-2010	Solid-Fuel and Combination-Fuel Central and Supplementary Furnaces (with revisions through June 12, 2014)	Furnaces, Solid Fuel	904.10
+UL 412-2011	Refrigeration Unit Coolers (with revisions through August 28, 2018)	Refrigeration	934.2
+UL 427-2011	Refrigerating Units (with revisions through February 10, 2017)	Refrigeration Systems	934.3
+UL 441-2016	Gas Vents (with revisions through July 27, 2016)	Fuel Gas	802.1
+UL 467-2013	Grounding and Bonding Equipment	Grounding and Bonding	1311.2.5
+UL 471-2010	Commercial Refrigerators and Freezers (with revisions through November 8, 2018)	Freezers, Refrigerators	934.1
+UL 499-2014	Electric Heating Appliances (with revisions through February 23, 2017)	Kilns	931.4
+UL 555-2006	Fire Dampers (with revisions through October 21, 2016)	Dampers	606.2
+UL 555C-2014	Ceiling Dampers (with revisions through May 1, 2017)	Dampers	606.3
+UL 555S-2014	Smoke Dampers (with revisions through October 27, 2016)	Dampers	606.1
+UL 641-2010	Type L Low-Temperature Venting Systems (with revisions through April 23, 2018)	Equipment	802.1
+UL 651-2011	Schedule 40, 80, Type EB and A Rigid PVC Conduit and Fittings (with revisions through June 15, 2016)	Piping, Plastic	1308.5.4.1
+UL 705-2017	Power Ventilators (with revisions through October 8, 2018)	Power Ventilators	504.4.2.3
+UL 710-2012	Exhaust Hoods for Commercial Cooking Equipment (with revisions through June 25, 2018)	Exhaust Hoods, Hoods	507.3.1, 508.2, 508.2.1
+UL 710B-2011	Recirculating Systems (with revisions through August 14, 2014)	Exhaust Hoods	508.1, 513.2.2, 516.2.2, 516.2.3
+UL 710C-2006	Ultraviolet Radiation Systems For Use In The Ventilation Control of Commercial Cooking Operations	Exhaust Hoods, Hoods	508.2.1
+UL 723-2018	Test for Surface Burning Characteristics of Building Materials	Miscellaneous	508.3.4, 602.2, 605.1.1, 605.1.2, 1201.2
+UL 726-1995	Oil-Fired Boiler Assemblies (with revisions through October 9, 2013)	Fuel Gas, Appliances	1002.2.1
+UL 727-2018	Oil-Fired Central Furnaces	Fuel Gas, Appliances	904.11
+UL 729-2003	Oil-Fired Floor Furnaces (with revisions through November 22, 2016)	Furnaces, Floor, Oil Fired Furnaces	906.13
+UL 730-2003	Oil-Fired Wall Furnaces (with revisions through November 22, 2016)	Furnaces, Wall, Oil Fired	907.4
+UL 731-2018	Oil-Fired Unit Heaters	Heaters, Oil Fired	917.6
+UL 737-2011	Fireplace Stoves (with revisions through August 19, 2015)	Fireplace Stoves	913.2
+UL 762-2013	Power Roof Ventilators for Restaurant Exhaust Appliances	Ventilators	511.1
+UL 778-2016	Motor Operated Water Pumps (with revisions through October 20, 2017)	Pumps	1208.1
+UL 791-2006	Residential Incinerators (with revisions through November 7, 2014)	Incinerators	925.3
+UL 795-2016	Commercial-Industrial Gas Heating Equipment	Heating Equipment, Gas Fired	904.12
+UL 834-2004	Heating, Water Supply, and Power Boilers - Electric (with revisions through September 24, 2018)	Appliances	1002.3, Table 1203.2
+UL 858-2014	Household Electric Ranges (with revisions through June 4, 2018)	Electric Ranges, Ranges	920.1
+UL 867-2011	Electrostatic Air Cleaners (with revisions through August 7, 2018)	Filters	936.1
+UL 896-1993	Oil-Burning Stoves (with revisions through November 22, 2016)	Stoves, Oil Fired	921.3
+UL 900-2015	Air Filter Units	Air Filters, Filters	311.2
+UL 907-2016	Fireplace Accessories	Fireplace Accessories	913.3
+UL 921-2016	Commercial Dishwashers (with revisions through September 20, 2017)	Appliances	519.1
+UL 923-2013	Microwave Cooking Appliances (with revisions through July 19, 2017)	Microwaves	920.3.2(3), 920.4.2(3)
+UL 959-2010	Medium Heat Appliance Factory-Built Chimneys (with revisions through June 12, 2014)	Fuel Gas, Appliances	802.5.1
+UL 1046-2010	Grease Filters for Exhaust Ducts (with revisions through April 17, 2017)	Filters-Grease	509.1, 509.1.1, 518.1(4)
+UL 1240-2005	Electric Commercial Clothes-Drying Equipment (with revisions through March 16, 2018)	Clothes Dryers, Commercial	908.1
+UL 1479-2015	Fire Tests of Penetration Firestops	Miscellaneous	507.4.4, 507.4.5
+UL 1482-2011	Solid-Fuel Type Room Heaters (with revisions through August 19, 2015)	Room Heaters, Solid Fuel Heaters	802.5.1.1, 916.3
+UL 1738-2010	Venting Systems for Gas-Burning Appliances Categories II, III, and IV (with revisions through November 7, 2014)	Fuel Gas, Appliances	802.4.1, 802.4.2, 802.4.3
+UL 1777-2015	Chimney Liners	Chimneys, Liners	802.5.3(2), 803.1.11.2
+UL 1812-2013	Ducted Heat Recovery Ventilators (with revisions through July 19, 2018)	Heat Recovery Ventilators	504.5
+UL 1815-2012	Nonducted Heat Recovery Ventilators (with revisions through July 19, 2018)	Heat Recovery Ventilators	504.5
+UL 1820-2004	Fire Test of Pneumatic Tubing for Flame and Smoke Characteristics (with revisions through July 13, 2017)	Surface Burning Test, Pneumatic Tubing	602.2.3
+UL 1887-2004	Fire Test of Plastic Sprinkler Pipe for Visible Flame and Smoke Characteristics (with revisions through July 13, 2017)	Surface Burning Test, Fire Sprinkler Pipe	602.2.2
+UL 1963-2011	Refrigerant Recovery/Recycling Equipment (with revisions through October 11, 2013)	Refrigerant Equipment	1101.2
+UL 1978-2010	Grease Ducts (with revisions through April 28, 2017)	Ducts, Grease	507.3.1, 510.4.1, 510.5.2, 510.5.3
+UL 1995-2015	Heating and Cooling Equipment	HVAC, Electric	903.1, 904.13
+UL 1996-2009	Electric Duct Heaters (with revisions through July 15, 2016)	Duct Heaters	905.8
+UL 2021-2015	Fixed and Location-Dedicated Electric Room Heaters (with revisions through December 14, 2016)	Product, Heating, Electric	916.1
+UL 2043-2013	Fire Test for Heat and Visible Smoke Release For Discrete Products and Their Accessories Installed in Air-Handling Spaces (with revisions through July 13, 2018)	Surface Burning Test, Discrete Products	602.2.4
+UL 2158-2018	Electric Clothes Dryers	Clothes Dryers, Electric	908.1
+UL 2158A-2013	Clothes Dryer Transition Duct (with revisions through April 18, 2017)	Clothes Dryer Exhaust	504.4
+UL 2162-2014	Commercial Wood-Fired Baking Ovens-Refractory Type	Baking Ovens	921.2
+UL 2200-2012	Stationary Engine Generator Assemblies (with revisions through July 29, 2015)	Assemblies	1602.3
+UL 2221-2010	Tests of Fire Resistive Grease Duct Enclosure Assemblies	Duct Wrap, Grease Duct Enclosure	507.4.4.1
+UL 2518-2016	Air Dispersion Systems	Duct Systems	602.4.3, 603.12
+UL 2523-2009	Solid Fuel-Fired Hydronic Heating Appliances, Water Heaters, and Boilers (with revisions through March 16, 2018)	Appliances	1002.4, Table 1203.2
+UL 2561-2016	1400 Degree Fahrenheit Factory-Built Chimneys (with revisions through April 19, 2018)	Chimneys	802.5.1
+UL 2790-2010	Commercial Incinerators (with revisions through October 8, 2014)	Incinerators	925.2
+UL 60335-2-40-2017	Household and Similar Electrical Appliances — Safety — Part 2-40: Particular Requirements for Electrical Heat Pumps, Air-Conditioners and Dehumidifiers	Appliances	903.1, 904.13
+UL 60335-2-89-2017	Household and Similar Electrical Appliances — Safety — Part 2-89; Particular Requirements for Commercial Refrigerating Appliances with an Incorporated or Remote Refrigerant Unit or Compressor	Appliances	934.1, 934.2, 934.3
+
+*See California Fire Code for amendments
+
+*See California Electrical Code for amendments
+
+1701.2 Standards, Publications, Practices, and Guides
+DOCUMENT NUMBER	DOCUMENT TITLE	APPLICATION
+ACCA Manual N-2012	Commercial Load Calculations	Ducts
+ACCA Manual Q-1990	Low Pressure, Low Velocity Duct System Design	Ducts
+AHRI 870-2016	Performance Rating of Direct Geoexchange Heat Pumps	Heat Pumps
+AHRI 1200-2013	Performance Rating of Commercial Refrigerated Display Merchandisers and Storage Cabinets	Commercial Refrigerated Display Merchandisers and Storage Cabinets
+AHRI 1230-2014a	Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment	Refrigerants
+AMCA 500-D-2018	Laboratory Methods of Testing Dampers for Rating	Dampers
+ASCE 25-2016	Earthquake-Actuated Automatic Gas Shutoff Devices	Fuel Gas
+ASHRAE 52.2-2012	General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size	Cleaning Devices
+ASHRAE 55-2017	Thermal Environmental Conditions for Human Occupancy	Miscellaneous
+ASHRAE 62.2-2016	Ventilation and Acceptable Indoor Air Quality in Residential Buildings	Ventilation
+ASHRAE/IES 90.1-2016	Energy Standard for Buildings Except Low-Rise Residential Buildings	Energy
+ASHRAE/IES 90.2-2018	Energy-Efficient Design of Low-Rise Residential Buildings	Energy, Dwellings
+ASHRAE 127-2012	Method of Testing for Rating Computer and Data Processing Room Unitary Air Conditioners	Air Conditioners
+ASHRAE/ACCA 183-2007 (R2017)	Peak Cooling and Heating Load Calculations in Buildings Except Low-Rise Residential Buildings	Cooling and HeatingLoad, Miscellaneous
+ASHRAE 194-2012	Method of Test for Direct-Expansion Ground-Source Heat Pumps	Ground-Source Heat Pumps
+ASHRAE Handbook-2016	HVAC Systems and Equipment	Design
+ASME A13.1-2015	Scheme for the Identification of Piping Systems	Piping
+ASME A112.18.6/CSAB125.6-2017	Flexible Water Connectors	Piping
+ASME B1.20.3-1976 (R2018)	Dryseal Pipe Threads (Inch)	Joints
+ASME B16.33-2012 (R2017)	Manually Operated Metallic Gas Valves for Use in Gas Piping Systems up to 175 psi (Sizes NPS 1/2 through NPS 2)	Valves
+ASME B16.50-2018	Wrought Copper and Copper Alloy Braze-Joint Pressure Fittings	Fittings
+ASTM A568/A568M-2017a	Steel, Sheet, Carbon, Structural, and High-Strength, Low-Alloy, Hot-Rolled and Cold-Rolled, General Requirements for	Piping
+ASTM A653/A653M-2017	Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process	Piping, Ferrous
+ASTM A733-2016	Welded and Seamless Carbon Steel and Austenitic Stainless Steel Pipe Nipples	Piping, Ferrous
+ASTM B370-2012	Standard Specification for Copper Sheet and Strip for Building Construction	Miscellaneous
+ASTM B687-1999 (R2016)	Brass, Copper, and Chromium-Plated Pipe Nipples	Piping, Copper Alloy
+ASTM C518-2017	Steady-State Thermal Transmission Properties by Means of the Heat FlowMeter Apparatus	Certification: Calibration, Error Analysis, Heat Flow Meter Apparatus, Heat Flux, Instrument Verification, Thermal Conductivity, Thermal Resistance, Thermal Testing, Tunnel Test
+ASTM D93-2018	Flash Point by Pensky-Martens Closed Cup Tester	Certification
+ASTM D396-2018a	Fuel Oils	Boiler
+ASTM D2517-2018	Reinforced Epoxy Resin Gas Pressure Pipe and Fittings	Piping, Plastic
+ASTM E96/E96M-2016	Water Vapor Transmission of Materials	Miscellaneous
+ASTM E136-2016a	Behavior of Materials in a Vertical Tube Furnace at 750°C	Furnace
+AWS B2.4-2012	Welding Procedure and Performance Qualification for Thermoplastics	Joints, Certification
+CSA/IGSHPA C448-2016	Design and Installation of Ground Source Heat Pump Systems for Commercialand Residential Buildings	Miscellaneous
+CSA C448.1-2016	Design and Installation of Ground Source Heat Pump Systems for Commercialand Institutional Buildings	Ground-Source HeatPumps
+CSA C448.2-2016	Design and Installation of Ground Source Heat Pump Systems for Residentialand Other Small Buildings	Ground-Source HeatPumps
+CSA Z21.1-2016	Household Cooking Gas Appliances	Household Cooking Appliances, Gas Fired
+CSA Z21.5.1-2017	Gas Clothes Dryers, Volume I, Type 1 Clothes Dryers (same as CSA 7.1)	Fuel Gas, Appliances
+CSA Z21.5.2-2016	Gas Clothes Dryers, Volume II, Type 2 Clothes Dryers (same as CSA 7.2)	Fuel Gas, Appliances
+CSA Z21.11.2-2016	Gas-Fired Room Heaters, Volume II, Unvented Room Heaters	Room Heaters, Unvented Heaters
+CSA Z21.12b-1994 (R2015)	Draft Hoods	Fuel Gas, Appliances
+CSA Z21.13-2017	Gas-Fired Low Pressure Steam and Hot Water Boilers (same as CSA 4.9)	Fuel Gas, Appliances
+CSA Z21.15b-2013 (R2014)	Manually Operated Gas Valves for Appliances, Appliance Connector Valves andHose End Valves (same as CSA 9.1b)	Fuel Gas
+CSA Z21.17a-2008 (R2014)	Domestic Gas Conversion Burners (same as CSA 2.7a)	Conversion Burner Installation, Gas Burners
+CSA Z21.18b-2012(R2016)	Gas Appliance Pressure Regulators (same as CSA 6.3b)	Appliance Regulators,Gas Refrigerators, Pressure Regulators
+CSA Z21.19-2014	Refrigerators Using Gas Fuel (same as CSA 1.4)	Gas Refrigerators, Refrigerators
+CSA Z21.20a-2008(R2016)	Automatic Gas Ignition Systems and Components	Automatic Ignition, Gas Ignition, Ignition
+CSA Z21.21-2015	Automatic Valves for Gas Appliances (same as CSA 6.5)	Appliance Valves, Automatic Gas Valves, Valves
+CSA Z21.22-2015	Relief Valves for Hot Water Supply Systems (same as CSA 4.4)	Valves
+CSA Z21.40.1a-1997/CGA 2.91a-M97(R2017)	Gas-Fired, Heat Activated Air-Conditioning and Heat Pump Appliances	Gas Fired Air Conditioning, Gas Fired Heat Pump
+CSA Z21.42-2013	Gas-Fired Illuminating Appliances	Illuminating Appliances
+CSA Z21.47-2016	Gas-Fired Central Furnaces (same as CSA 2.3)	Fuel Gas, Appliances
+CSA Z21.50-2016	Vented Decorative Gas Appliances (same as CSA 2.22)	Appliances, Decorative Appliances
+CSA Z21.56-2017	Gas-Fired Pool Heaters (same as CSA 4.7)	Fuel Gas, Swimming Pools, Spas, and Hot Tubs
+CSA Z21.58-2018	Outdoor Cooking Gas Appliances (same as CSA 1.6)	Cooking Appliances
+CSA Z21.60-2017	Decorative Gas Appliances for Installation in Solid-Fuel Burning Fireplaces(same as CSA 2.26)	Decorative Appliances, Decorative Fireplace Appliances
+CSA Z21.61-1983 (R2013)	Gas-Fired Toilets	Toilets
+CSA Z21.66-2015	Automatic Damper Devices for Use with Gas-Fired Appliances (same as CSA 6.14)	Vent Dampers, Automatic Dampers
+CSA Z21.71a-2005(R2016)	Automatic Intermittent Pilot Ignition Systems for Field Installation	Automatic Pilot Ignition,Pilot Ignition
+CSA Z21.86-2016	Vented Gas-Fired Space Heating Appliances (same as CSA 2.32)	Fuel Gas Appliances
+CSA Z21.88-2017	Vented Gas Fireplace Heaters (same as CSA 2.33)	Fireplace Heaters
+CSA Z83.8-2016	Gas Unit Heaters, Gas Packaged Heaters, Gas Utility Heaters, and Gas-Fired Duct Furnaces (same as CSA 2.6)	Fuel Gas Appliances
+CSA Z83.11-2016	Gas Food Service Equipment (same as CSA 1.8)	Fuel Gas, Appliances
+CSA Z83.19-2017	Gas-Fired High-Intensity Infrared Heaters (same as CSA 2.35)	High Intensity Heaters, Infrared Heaters
+CSA Z83.20-2016	Gas-Fired Low-Intensity Infrared Heaters (same as CSA 2.34)	Infrared Heaters, Low Intensity Heaters
+IAPMO IGC 293-2012	Tubing and Fittings for Special Hydronic Radiant Drywall Panels	HVAC, Fittings, Tubing
+IAPMO IGC 315-2016	Water Manifold Systems	Fittings
+IAPMO IGC 327-2016	Flexible Metallic Expansion Joints for Pressure Systems	Joints
+IAPMO IGC 332-2017a	Hydronic Radiators	Miscellaneous
+IAPMO PS 120-2004	Flashing and Stand Combination for Air Conditioning Units (Residential or Commercial Unit Curb)	Air Conditioning Flashing Stand
+ISO 13256-1-1998 (R2012)	Water Source Heat Pumps-Testing and Rating for Performance-Water-to-Air and Brine-to-Air Heat Pumps	Water-Source Heat Pumps
+ISO 13256-2-1998	Water Source Heat Pumps-Testing and Rating for Performance-Water-to-Water and Brine-to-Water Heat Pumps	Water-Source Heat Pumps
+MSS SP-67-2017	Butterfly Valves	Valves
+MSS SP-80-2013	Bronze Gate, Globe, Angle, and Check Valves	Valves
+MSS SP-104-2018	Wrought Copper Solder-Joint Pressure Fittings	Fittings
+MSS SP-106-2012	Cast Copper Alloy Flanges and Flanged Fittings: Class 125, 150, and 300	Fittings
+MSS SP-109-2018	Weld-Fabricated Copper Solder-Joint Pressure Fittings	Fittings
+NFPA 30-2018	Flammable and Combustible Liquids Code	Combustible Liquids, Flammable Liquids
+NFPA 91-2015	Exhaust Systems for Air Conveying of Vapors, Gases, Mists, and Particulate Solids	Product Conveying Ducts
+NFPA 96-2017	Ventilation Control and Fire Protection of Commercial Cooking Operations	Commercial Cooking
+NFPA 221-2018	High Challenge Fire Walls, Fire Walls, and Fire Barrier Walls	Building Fire Walls, Fire Barrier
+NFPA 259-2018	Test Method for Potential Heat of Building Materials	Testing, Building Materials
+NFPA 274-2018	Test Method to Evaluate Fire Performance Characteristics of Pipe Insulation	Pipe Insulation
+NFPA 501A-2017	Fire Safety Criteria for Manufactured Home Installations, Sites, and Communities	Miscellaneous
+NFPA 5000-2018	Building Construction and Safety Code	Miscellaneous
+NGWA-01-2014	Water Well Construction Standard	Water Wells
+NSF 60-2017	Drinking Water Treatment Chemicals - Health Effects	Miscellaneous
+NSF 358-4-2018	Polyethylene of Raised Temperature (PE-RT) Tubing and Fittings for Water-Based Ground-Source (Geothermal) Heat Pump Systems	Ground-Source Heat Pumps
+SAE J512-1997	Automotive Tube Fittings	Fittings
+SMACNA-2003	Fibrous Glass Duct Construction Standard, 7th Edition	Fiberglass Ducts
+SMACNA-2008	IAQ Guidelines for Occupied Buildings Under Construction, 2nd Edition	Ventilation
+UL 21-2014	LP-Gas Hose (with revisions through July 28, 2017)	Hose, LPG Hose
+UL 33-2010	Heat Responsive Links for Fire-Protection Service (with revisions through April 14, 2015)	Fusible Links
+UL 51-2013	Power-Operated Pumps and Bypass Valves for Anhydrous Ammonia, LP-Gas, and Propylene (with revisions through October 5, 2018)	Ammonia Pumps, LP-Gas Pumps, Pumps
+UL 80-2007	Steel Tanks for Oil-Burner Fuels and Other Combustible Liquids (with revisions through January 16, 2014)	Fuel Gas
+UL 125-2014	Flow Control Valves for Anhydrous Ammonia and LP-Gas (with revisions through January 12, 2018)	Fuel Gas
+UL 132-2015	Safety Relief Valves for Anhydrous Ammonia and LP-Gas (with revisions through January 12, 2018)	Fuel Gas
+UL 144-2012	LP-Gas Regulators (with revisions through November 05, 2014)	Fuel Gas
+UL 174-2004	Household Electric Storage Tank Water Heaters (with revisions through December 15, 2016)	Appliances
+UL 180-2012	Liquid-Level Gauges for Oil Burner Fuels and other combustible liquids (with revisions through May 12, 2017)	Gauges, Level Gauges
+UL 252-2017	Compressed Gas Regulators (with revisions through August 10, 2018)	Fuel Gas
+UL 343-2008	Pumps for Oil-Burning Appliances (with revisions through December 14, 2017)	Fuel Gas, Appliances
+UL 353-1994	Limit Controls (with revisions through November 8, 2011)	Controls
+UL 404-2010	Gauges, Indicating Pressure, for Compressed Gas Service (with revisions through February 11, 2015)	Fuel Gas
+UL 429-2013	Electrically Operated Valves	Valves
+UL 443-2006	Steel Auxiliary Tanks for Oil-Burner Fuel (with revisions through March 8, 2013)	Fuel Gas
+UL 525-2008	Flame Arresters (with revisions through October 13, 2017)	Flame Arrestors
+UL 565-2013	Liquid-Level Gauges for Anhydrous Ammonia and LP-Gas (with revisions through February 23, 2018)	Fuel Gas
+UL 569-2013	Pigtails and Flexible Hose Connectors for LP-Gas (with revisions through July 28, 2017)	Fuel Gas
+UL 732-2018	Oil-Fired Storage Tank Water Heaters (with revisions through August 9, 2018)	Fuel Gas, Appliances
+UL 733-1993	Oil-Fired Air Heaters and Direct-Fired Heaters (with revisions through October 9, 2013)	Water Heaters, Direct Fired, Oil Fired
+UL 842-2015	Valves for Flammable Fluids (with revisions through October 27, 2017)	Valves
+UL 984-1996	Hermetic Refrigerant Motor-Compressors (with revisions through September 23, 2005)	Compressors, Refrigeration
+UL 1453-2016	Electric Booster and Commercial Storage Tank Water Heaters (with revisions through May 18, 2018)	Appliances
+UL 1746-2007	External Corrosion Protection Systems for Steel Underground Storage Tanks (with revisions through December 19, 2014)	Tanks
+
+AABC	Associated Air Balance Council, 1220 19th Street NW, Suite 410, Washington, DC 20036.
+ACCA	Air Conditioning Contractors of America Association, Inc., 2800 S Shirlington Road, Suite 300, Arlington, VA 22206.
+AHRI	Air-Conditioning, Heating, and Refrigeration Institute, 2311 Wilson Boulevard, Suite 400, Arlington, VA 22201.
+AMCA	Air Movement and Control Association, 30 West University Drive, Arlington Heights, IL 60004-1806.
+ANSI	American National Standards Institute, Inc., 25 W. 43rd Street, 4th Floor, New York, NY 10036.
+ASCE	American Society of Civil Engineers, 1801 Alexander Bell Drive, Reston, VA 20191-4400.
+ASHRAE	American Society of Heating, Refrigerating, and Air Conditioning Engineers, Inc., 1791 Tullie Circle, NE,Atlanta, GA 30329-2305.
+ASME	American Society of Mechanical Engineering, Two Park Avenue, New York, NY 10016-5990.
+ASSE	American Society of Sanitary Engineering, 18927 Hickory Creek Drive, Suite 220, Mokena, IL 60448.
+ASTM	ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
+AWS	American Welding Society, 8669 NW 36 Street, #130, Miami, FL 33166-6672.
+AWWA	American Water Works Association, 6666 W. Quincy Avenue, Denver, CO 80235.
+CFR	Code of Federal Regulations, U.S Government Publishing Office, 723 North Capitol Street, N.W. Washington,DC 20401-001.
+CGA	Canadian Gas Association, 243 Consumers Road, Suite 1200, North York, Ontario, Canada M2J 5E3.
+CSA	Canadian Standards Association, 178 Rexdale Boulevard, Toronto, Ontario, Canada M9W 1R3.
+e1	An editorial change since the last revision or reapproval.
+IAPMO	International Association of Plumbing and Mechanical Officials, 4755 E. Philadelphia Street, Ontario, CA 91761.
+IES	Illuminating Engineering Society, 120 Wall St. Fl 17, New York, NY 10005-4026.
+IGSHPA	International Ground Source Heat Pump Association, 1723 W. Tyler Ave. Stillwater, OK 74078.
+IIAR	International Institute of Ammonia Refrigeration, 1001 N. Fairfax Street, Suite 503, Alexandria, VA 22314.
+ISO	International Organization for Standardization, 1 ch. de la Voie-Creuse, Casa Postale 56, CH-1211 Geneva 20, Switzerland.
+MSS	Manufacturers Standardization Society of the Valve and Fittings Industry, 127 Park Street NE, Vienna, VA 22180.
+NEBB	National Environmental Balancing Bureau, 8575 Grovemont Circle, Gaithersburg, MD 20877.
+NFPA	National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471.
+NGWA	National Ground Water Association, 601 Dempsey Road, Westerville, Ohio 43081-8978.
+NSF	NSF International, 789 N. Dixboro Road, Ann Arbor, MI 48105.
+SAE	Society of Automotive Engineers, 400 Commonwealth Drive, Warrendale, PA 15096.
+SMACNA	Sheet Metal and Air Conditioning Contractors National Association, 4201 Lafayette Center Drive, Chantilly,VA 20151-1219.
+UL	Underwriters Laboratories, Inc., 333 Pfingsten Road, Northbrook, IL 60062.
+

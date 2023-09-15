@@ -1,0 +1,215 @@
+CHAPTER 8-8 ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION
+
+TABLE 8-8A
+
+STRENGTH VALUES FOR EXISTING MATERIALS
+
+EXISTING MATERIALS OR CONFIGURATIONS OF MATERIALS1	STRENGTH LEVEL CAPACITY x14.594 for N/m
+1. Horizontal diaphragms2	
+1.1 Roofs with straight sheathing and roofing applied directly to the sheathing	300 lbs per foot for seismic shear
+1.2 Roofs with diagonal sheathing and roofing applied directly to the sheathing	750 lbs per foot for seismic shear
+1.3 Floors with straight tongue-and-groove sheathing	300 lbs per foot for seismic shear
+1.4 Floors with straight sheathing and finished wood flooring with board edges offset or perpendicular	1,500 lbs per foot for seismic shear
+1.5 Floors with diagonal sheathing and finished	1,800 lbs per foot for seismic shear
+2. Crosswalls2,3	
+2.1 Plaster on wood or metal lath	Per side: 600 lbs per foot for seismic shear
+2.2 Plaster on gypsum lath	550 lbs per foot for seismic shear
+2.3 Gypsum wallboard, unblocked edges	200 lbs per foot for seismic shear
+2.4 Gypsum wallboard, blocked edges	400 lbs per foot for seismic shear
+3. Existing footings, wood framing, structural steel and reinforcing steel	
+3.1 Plain concrete footings	f′c = 1,500 psi (10.34 MPa) unless otherwise shown by tests3
+3.2 Douglas fir wood	Allowable stress same as D.F. No. 13
+3.3 Reinforcing steel	ft = 40,000 lbs per square inch (124.1 N/mm2) maximum
+3.4 Structural steel	ft = 33,000 lbs per square inch (137.9 N/mm2) maximum1 Material must be sound and in good condition.
+
+2 Shear values of these materials may be combined, except the total combined value shall not exceed 900 pounds per foot (13,140 N/m).
+
+3 Stresses given may be increased for combinations of loads as specified in the regular code.
+
+TABLE 8-8B
+
+STRENGTH VALUES OF NEW MATERIALS USED IN CONNECTION WITH EXISTING CONSTRUCTION
+
+NEW MATERIALS OR CONFIGURATIONS OF MATERIALS	STRENGTH LEVEL CAPACITY1
+1. Horizontal diaphragms2	
+1.1 15/32 inch minimum plywood sheathing fastened directly over existing straight sheathing with edges of plywood located on center of individual sheathing boards and fastened with minimum #8x 11/4 inch wood screws or nails with helical threads 0.13 inch min. diameter and 11/4 inch min. length at 4 inch centers all panel edges and 12 inch centers each way in field.	1,500 lbs per foot
+1.2 Same plywood and attachments as 1.1 fastened directly over existing diagonal sheathing.	1,800 lbs per foot
+1.3 3/8 inch plywood sheathing fastened directly over existing straight or diagonal sheathing with ends and edges on centers of individual sheathing boards and fastened with #6 wood screws or nails with helical threads 0.13 inch minimum diameter and 11/4 inch min. length at 6 inch centers tall panel edges and 12 inch centers each way in field.	900 lbs per foot
+2. Shear walls:	
+Plywood sheathing applied directly over wood studs. No value shall be given to plywood applied over existing plaster or wood sheathing	100 percent of the value specified in the regular code for shear walls
+3. Crosswalls: (special procedure only)	133 percent of the value specified in the regular code for shear walls
+3.1 Plywood sheathing applied directly over wood studs. No value shall be given to plywood applied over existing plaster or wood sheathing
+3.2 Drywall or plaster applied directly over wood studs	100 percent of the values in the regular code
+3.3 Drywall or plaster applied to sheathing over existing wood studs	50 percent of the values specified in the regular code
+4. Tension bolts	
+a. Bolts extending entirely through unreinforced masonry walls secured with bearing plates on far side of a three-wythe- minimum wall with at least 30 square inches (19 350 mm2) of area4,5	5,400 lbs (24,010 N) per bolt62,700 lbs (12,009 N) per bolt for two-wythe walls6
+b. All thread rod extending to the exterior face of the wall installed in adhesive9	3,600 lbs (16,014 N) per bolt
+5. Shear bolts	
+Bolts embedded a minimum of 8 inches (203 mm) into unreinforced masonry walls and centered in a 21/2-inch-diameter (63.5 mm) hole filled with dry-pack or nonshrink grout. Through bolts with first 8 inches (203 mm) as noted above and embedded all thread rod as noted in Item 4.b5,7,9	1/2 inch (12.7 mm) diameter = 1050 lbs (4671 N)65/8 inch (15.9 mm) diameter = 1500 lbs (6672 N)63/4 inch (19 mm) diameter = 2250 lbs (10,008 N)6
+6. Infilled walls	
+Reinforced masonry infilled openings in existing unreinforced masonry walls. Provide keys or dowels to match reinforcing.	Same as values specified for unreinforced masonry walls
+7. Reinforced masonry	
+Masonry piers and walls reinforced per the regular code	Same as values specified in the regular code8
+8. Reinforced concrete	
+Concrete footings, walls and piers reinforced as specified in the regular code and designed for tributary loads	Same as values specified in the regular code81 Values are for strength level loads as defined in regular code standards.
+
+2 Values may be adjusted for other fasteners when approved by the enforcing authority.
+
+3 In addition to existing sheathing value.
+
+4 Bolts to be 1/2-inch (12.7 mm) minimum diameter.
+
+5 Other bolt sizes, values and installation methods may be used provided a testing program is conducted in accordance with regular code standards. Bolt spacing shall not exceed 6 feet. (1830 mm) on center and shall not be less than 12 inches (305) mm) on center.
+
+6 Other masonry based on tests or other substantiated data.
+
+7 Embedded bolts to be tested as specified in regular code standards.
+
+8 Stresses given may be increased for combinations of loads as specified in the regular code.
+
+9 Adhesives shall be approved by the enforcing agency and installed in accordance with the manufacturer’s recommendations. All drilling dust shall be removed from drilled holes prior to installation.
+
+SECTION 8-801 PURPOSE, INTENT AND SCOPE
+
+8-801.1 Purpose.
+
+The purpose of the CHBC is to provide regulations for the use of historical methods and materials of construction that are at variance with regular code requirements or are not otherwise codified, in buildings or structures designated as qualified historical buildings or properties. The CHBC require enforcing agencies to accept any reasonably equivalent alternatives to the regular code when dealing with qualified historical buildings or properties.
+
+8-801.2 Intent.
+
+It is the intent of the CHBC to provide for the use of historical methods and materials of construction that are at variance with specific code requirements or are not otherwise codified.
+
+8-801.3 Scope.
+
+Any construction type or material that is, or was, part of the historical fabric of a structure is covered by this chapter. Archaic materials and methods of construction present in a historical structure may remain or be reinstalled or be installed with new materials of the same class to match existing conditions.
+
+SECTION 8-802 GENERAL ENGINEERING APPROACHES
+
+Strength values for archaic materials shall be assigned based upon similar conventional codified materials, or on tests as hereinafter indicated. The archaic materials and methods of construction shall be thoroughly investigated for their details of construction in accordance with Section 8-703. Testing shall be performed when applicable to evaluate existing conditions. The architect or structural engineer in responsible charge of the project shall assign allowable stresses or strength levels to archaic materials. Such assigned strength values shall not be greater than those provided for in the following sections without adequate testing, and shall be subject to the concurrence of the enforcing agency.
+
+SECTION 8-803 NONSTRUCTURAL ARCHAIC MATERIALS
+
+Where nonstructural historical materials exist in uses which do not meet the requirements of the regular code, their continued use is allowed by this code, provided that any public health and life-safety hazards are mitigated subject to the concurrence of the enforcing agency.
+
+SECTION 8-804 ALLOWABLE CONDITIONS FOR SPECIFIC MATERIALS
+
+Archaic materials which exist and are to remain in qualified historical buildings or structures shall be evaluated for their condition and for loads required by this code. The structural survey required in Section 8-703 of the CHBC shall document existing conditions, reinforcement, anchorage, deterioration and other factors pertinent to establishing allowable stresses, strength levels and adequacy of the archaic materials. The remaining portion of this chapter provides additional specific requirements for commonly encountered archaic materials.
+
+SECTION 8-805 MASONRY
+
+For adobe, see Section 8-806.
+
+8-805.1 Existing solid masonry.
+
+Existing solid masonry walls of any type, except adobe, may be allowed, without testing, a maximum ultimate strength of nine pounds per square inch (62.1 kPa) in shear where there is a qualifying statement by the architect or engineer that an inspection has been made, that mortar joints are filled and that both brick and mortar are reasonably good. The shear stress above applies to unreinforced masonry, except adobe, where the maximum ratio of unsupported height or length to thickness does not exceed 13, and where minimum quality mortar is used or exists. Wall height or length is measured to supporting or resisting elements that are at least twice as stiff as the tributary wall. Stiffness is based on the gross section. Shear stress may be increased by the addition of 10 percent of the axial direct stress due to the weight of the wall directly above. Higher-quality mortar may provide a greater shear value and shall be tested in accordance with Appendix A, Chapter A1 of the California Existing Building Code (CEBC) 2010 edition, and as modified by the CHBC.
+
+8-805.2 Stone masonry.
+
+8-805.2.1 Solid-backed stone masonry.
+
+Stone masonry solidly backed with brick masonry shall be treated as solid brick masonry as described in Section 8-805.1 and in the 2009 IEBC, provided representative testing and inspection verifies solid collar joints between stone and brick and that a reasonable number of stones lap with the brick wythes as headers or that steel anchors are present. Solid stone masonry where the wythes of stone effectively overlap to provide the equivalent header courses may also be treated as solid brick masonry.
+
+8-805.2.2 Independent wythe stone masonry.
+
+Stone masonry with independent face wythes may be treated as solid brick masonry as described in Section 8-805.1 and the CEBC, provided representative testing and inspection verify that the core is essentially solid in the masonry wall and that steel ties are epoxied in drilled holes between outer stone wythes at floors, roof and not to exceed 4 feet (1219 mm) on center in each direction, between floors and roof. A reinforcing element shall exist or be provided at or near the top of all stone masonry walls.
+
+8-805.2.3 Testing of stone masonry.
+
+Testing of stone masonry shall be similar to the 2010 CEBC requirements for brick masonry, except that representative stones which are not interlocked shall be pulled outward from the wall and shear area appropriately calculated after the test.
+
+8-805.3 Reconstructed walls.
+
+Totally reconstructed walls utilizing original brick or masonry, constructed similar to original, shall be constructed in accordance with the regular code. Repairs or infills may be constructed in a similar manner to the original walls without conforming to the regular code.
+
+SECTION 8-806 ADOBE
+
+8-806.1 General.
+
+Unburned clay masonry may be constructed, reconstructed, stabilized or rehabilitated subject to this chapter. Alternative approaches which provide an equivalent or greater level of safety may be used, subject to the concurrence of the enforcing agency.
+
+8-806.2 Moisture protection.
+
+Provisions shall be in-place to protect adobe structures from deterioration due to moisture penetration. Adobe shall be maintained in reasonably good condition. Particular attention shall be given to moisture content of adobe walls. Unmaintained walls or ruins shall be evaluated for safety based on their condition and stability. Additional protection measures may be appropriate subject to the concurrence of the enforcing agency.
+
+8-806.3 Height to thickness ratio.
+
+Unreinforced new or existing adobe walls meeting these criteria need not be evaluated for out of plane failure. Where existing dimensions do not meet these conditions, additional strengthening measures, such as a bond beam, may be appropriate. Existing sod or rammed earth walls shall be considered similar to the extent these provisions apply.
+
+1.One-story adobe load-bearing walls shall not exceed a height-to-thickness ratio of 6.
+
+2.Two-story adobe buildings or structures’ height- to-thickness wall ratio shall not exceed 6 at the ground floor and 5 at the second floor, and shall be measured at floor-to-floor height when the second floor and attic ceiling/roof are connected to the wall as described below.
+
+8-806.4 Nonload-bearing adobe.
+
+Nonload-bearing adobe partitions and gable end walls shall be evaluated for stability and anchored against out-of-plane failure if necessary.
+
+8-806.5 Bond beam.
+
+Where provided, a bond beam or equivalent structural element shall be located at the top of all adobe walls, and at the second floor for two-story buildings or structures. The size and configuration of the structural element shall be sufficient to provide an effective brace for the wall, to tie the building together and to connect the wall to the floor or roof.
+
+8-806.6 Repair or reconstruction.
+
+Repair or reconstruction of wall area may utilize unstabilized brick or adobe masonry designed to be compatible with the constituents of the existing adobe materials.
+
+8-806.7 Shear values.
+
+Existing adobe may be allowed a maximum strength level of twelve pounds per square inch (82.7 kPa) for shear.
+
+8-806.8 Mortar.
+
+Mortar may be of the same soil composition as that used in the existing wall, or in new walls as necessary to be compatible with the adobe brick.
+
+SECTION 8-807 WOOD
+
+8-807.1 Existing wood diaphragms or walls.
+
+Existing wood diaphragms or walls of straight or diagonal sheathing shall be assigned shear resistance values appropriate with the fasteners and materials functioning in conjunction with the sheathing. The structural survey shall determine fastener details and spacings and verify a load path through floor construction. Shear values of Tables 8-8-A and 8-8-B.
+
+8-807.2 Wood lath and plaster.
+
+Wood lath and plaster walls and ceilings may be utilized using the shear values referenced in Section 8-807.1.
+
+8-807.3 Existing wood framing.
+
+Existing wood framing members may be assigned allowable stresses consistent with codes in effect at the time of construction. Existing or new replacement wood framing may be of archaic types originally used if properly researched, such as balloon and single wall. Wood joints such as dovetail and mortise and tenon types may be used structurally, provided they are well made. Lumber selected for use and type need not bear grade marks, and greater or lesser species such as low-level pine and fir, boxwood and indigenous hardwoods and other variations may be used for specific conditions where they were or would have been used.
+
+Wood fasteners such as square or cut nails may be used with a maximum increase of 50 percent over wire nails for shear.
+
+SECTION 8-808 CONCRETE
+
+8-808.1 Materials.
+
+Natural cement concrete, unreinforced rubble concrete and similar materials may be utilized wherever that material is used historically. Concrete of low strength and with less reinforcement than required by the regular code may remain in place. The architect or engineer shall assign appropriate values of strength based on testing of samples of the materials. Bond and development lengths shall be determined based on historical information or tests.
+
+8-808.2 Detailing.
+
+The architect or engineer shall carefully evaluate all detailing provisions of the regular code which are not met and shall consider the implications of these variations on the ultimate performance of the structure, giving due consideration to ductility and reserve strength.
+
+SECTION 8-809 STEEL AND IRON
+
+The hand-built, untested use of wrought or black iron, the use of cast iron or grey iron, and the myriad of joining methods that are not specifically allowed by code may be used wherever applicable and wherever they have proven their worth under the considerable span of years involved with most qualified historical buildings or structures. Uplift capacity should be evaluated and strengthened where necessary. Fixed conditions or midheight lateral loads on cast iron columns that could cause failure should be taken into account. Existing structural wrought, forged steel or grey iron may be assigned the maximum working stress prevalent at the time of original construction.
+
+SECTION 8-810 HOLLOW CLAY TILE
+
+The historical performance of hollow clay tile in past earthquakes shall be carefully considered in evaluating walls of hollow clay tile construction. Hollow clay tile bearing walls shall be evaluated and strengthened as appropriate for lateral loads and their ability to maintain support of gravity loads. Suitable protective measures shall be provided to prevent blockage of exit stairways, stairway enclosures, exit ways and public ways as a result of an earthquake.
+
+SECTION 8-811 VENEERS
+
+8-811.1 Terra cotta and stone.
+
+Terra cotta, cast stone and natural stone veneers shall be investigated for the presence of suitable anchorage. Steel anchors shall be investigated for deterioration or corrosion. New or supplemental anchorage shall be provided as appropriate.
+
+8-811.2 Anchorage.
+
+Brick veneer with mechanical anchorage at spacings greater than required by the regular code may remain, provided the anchorages have not corroded. Nail strength in withdrawal in wood sheathing may be utilized to its capacity in accordance with code values.
+
+SECTION 8-812 GLASS AND GLAZING
+
+8-812.1 Glazing subject to human impact.
+
+Historical glazing material located in areas subject to human impact may be approved subject to the concurrence of the enforcing agency when alternative protective measures are provided. These measures may include, but not be limited to, additional glazing panels, protective film, protective guards or systems, and devices or signs which would provide adequate public safety.
+
+8-812.2 Glazing in fire-rated systems.
+
+See Section 8-402.3.
+

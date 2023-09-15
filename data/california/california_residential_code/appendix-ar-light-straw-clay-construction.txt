@@ -1,0 +1,229 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLEAPPENDIX AR – LIGHT STRAW-CLAY CONSTRUCTION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AR LIGHT STRAW-CLAY CONSTRUCTION
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: While heavier forms of straw-clay construction have been used in various parts of the world for thousands of years, light forms of straw-clay construction began to appear in Europe in 1950 and in the United States in 1990. These lighter forms of straw-clay construction are intended as infill materials in nonload-bearing walls. The advantages of light straw-clay construction, such as regulated by Appendix AR, include thermal performance and low environmental impact.
+
+SECTION AR101 GENERAL
+
+AR101.1 Scope.
+
+This appendix shall govern the use of light straw-clay as a nonbearing building material and wall infill system in Seismic Design Categories A and B. Use of light straw-clay in Seismic Design Categories C, D0, D1 and D2 shall require an approved engineered design by a registered design professional in accordance with Section R301.1.3.
+
+SECTION AR102 DEFINITIONS
+
+AR102.1 General.
+
+The following words and terms shall, for the purposes of this appendix, have the meanings shown herein. Refer to Chapter 2 for general definitions.
+
+CLAY. Inorganic soil with particle sizes of less than 0.00008 inch (0.002 mm) having the characteristics of high to very high dry strength and medium to high plasticity.
+
+CLAY SLIP. A suspension of clay or clay subsoil particles in water.
+
+CLAY SUBSOIL. Subsoil sourced directly from the earth or refined, containing clay and not more than trace amounts organic matter.
+
+INFILL. Light straw-clay that is placed between the structural and nonstructural members of a building.
+
+LIGHT STRAW-CLAY. A mixture of straw and clay slip compacted and dried to form insulation and plaster substrate between or around structural and nonstructural members in a wall.
+
+NONBEARING. Not bearing the weight of the building other than the weight of the light straw-clay itself and its finish.
+
+STRAW. The dry stems of cereal grains after the seed heads have been removed.
+
+VOID. Any space in a light straw-clay wall wider than 1/4 inch (6 mm), greater than 2 inches (51 mm) in horizontal length and greater than 2 inches (51 mm) in depth.
+
+SECTION AR103 NONBEARING LIGHT STRAW-CLAY CONSTRUCTION
+
+AR103.1 General.
+
+Light straw-clay shall be limited to infill between or around structural and nonstructural wall framing members.
+
+AR103.2 Structure.
+
+The structure of buildings using light straw-clay shall be in accordance with the California Residential Code or shall be in accordance with an approved design by a registered design professional.
+
+AR103.2.1 Number of stories.
+
+Use of light straw-clay infill shall be limited to buildings that are not more than one story above grade plane.
+
+Exception: Buildings using light straw-clay infill that are greater than one story above grade plane shall be in accordance with an approved design by a registered design professional.
+
+AR103.2.2 Bracing.
+
+Bracing for buildings with light straw-clay infill shall be in accordance with Section R602.10. Walls with light straw-clay infill shall use Method LIB and shall not be sheathed with solid sheathing. Walls without light straw-clay infill shall comply with any bracing method prescribed by this code.
+
+AR103.2.3 Requirements and properties of light straw-clay mixtures.
+
+The requirements and properties of light straw-clay mixtures shall be in accordance with Table AR103.2.3.
+
+TABLE AR103.2.3
+
+REQUIREMENTS AND PROPERTIES OF LIGHT STRAW-CLAY MIXTURESa
+
+Density (pcf)	Straw (pcf)	Subsoil (pcf)	Water (gal/cf)b	Min. % clay in subsoil	Minimum clay: silt ratio	Subsoil testing methodc, d	Max. wall thickness, inches	R-value (hr/F°/cf/BTU/inch)
+10	6.7	3.3	1.55	70	3.5:1	A	15	1.80
+12	6.7	5.3	1.63	46	1.7:1	A	15	1.72
+13	6.7	6.3	1.67	40	1.33:1	A	15	1.69
+15	6.7	8.3	1.74	35	0.95:1	A	15	1.63
+20	6.7	13.3	1.93	30	0.60:1	A	12	1.48
+30	6.7	23.3	2.31	NA	NA	B	12	1.22
+40	6.7	33.3	2.70	NA	NA	B	12	1.01
+50	6.7	43.3	3.08	NA	NA	B	12	0.84
+
+©Douglas Piltingsrud and StrawClay.org. Used by permission.
+
+a.Interpolation permitted. Extrapolation not permitted.
+
+b.Water mixed with subsoil equals clay slip.
+
+c.Subsoil Testing Methods:
+
+1.Lab test for percent of clay, silt and sand via hydrometer method.
+
+2. The Figure 2 Ribbon Test and the Figure 3 Ball Test in the Appendix of ASTM E2392/E2392M.
+
+d.Trace amounts of organic materials are acceptable.
+
+AR103.2.4 Stabilization of light straw-clay.
+
+Light straw-clay shall be stabilized as follows, or shall be in accordance with an approved design by a registered design professional:
+
+1.Vertical stabilization shall be of structural or nonstructural wood framing in accordance with Figure AR103.2.4(1), AR103.2.4(2) or AR103.2.4(3). Framing members that are both load-bearing and stabilization members shall meet the requirements of Section R602 and this section. Nonstructural stabilization members shall be not more than 32 inches (813 mm) on center.
+
+2.Horizontal stabilization shall be installed at not more than 24 inches (610 mm) on center and in accordance with Figure AR103.2.4(1), AR103.2.4(2) or AR103.2.4(3). Horizontal stabilization shall be of any of the following with the stated minimum dimensions: 3/4-inch (19.1 mm) bamboo, 1/2-inch (12.7 mm) fiberglass rod, 1-inch (25 mm) wood dowel or nominal 1-inch by 2-inch (25 mm by 51 mm) wood.
+
+For SI: 1 inch = 25.4 mm.
+
+FIGURE AR103.2.4(1)
+
+LIGHT STRAW-CLAY WALL WITH LARSEN TRUSSES
+
+FIGURE AR103.2.4(2)
+
+LIGHT STRAW-CLAY WALL SINGLE STUD WIDTH
+
+FIGURE AR103.2.4(3)
+
+LIGHT STRAW-CLAY WALL WITH BLIND STUDS
+
+AR103.3 Materials.
+
+The materials used in light straw-clay construction shall be in accordance with Sections AR103.3.1 through AR103.3.3.
+
+AR103.3.1 Straw requirements.
+
+Straw shall be stems of wheat, rye, oats, rice or barley, and shall be free of visible decay, insects and green plant material.
+
+AR103.3.2 Clay subsoil requirements.
+
+Suitability of clay subsoil shall be determined in accordance with Table AR103.2.3.
+
+AR103.3.3 Light straw-clay mixture.
+
+A light straw-clay mixture shall consist of loose straw mixed and coated with clay slip such that there is not more than 5 percent uncoated straw, and shall be in accordance with Table AR103.2.3.
+
+AR103.4 Wall construction.
+
+Light straw-clay wall construction shall be in accordance with the requirements of Sections AR103.4.1 through AR103.4.7.
+
+AR103.4.1 Light straw-clay maximum thickness.
+
+The maximum thickness of light straw-clay shall be in accordance with Table AR103.2.3.
+
+AR103.4.2 Distance above grade.
+
+Light straw-clay and its exterior finish shall be not less than 8 inches (203 mm) above exterior finished grade.
+
+AR103.4.3 Moisture barrier.
+
+An approved moisture barrier shall separate the bottom of light straw-clay walls from any masonry or concrete foundation or slab that directly supports the walls. Penetrations and joints in the barrier shall be sealed with an approved sealant.
+
+AR103.4.4 Contact with wood members.
+
+Light straw-clay shall be permitted to be in contact with untreated wood members.
+
+AR103.4.5 Contact with nonwood structural members.
+
+Nonwood structural members in contact with light straw-clay shall be resistant to corrosion or shall be coated to prevent corrosion with an approved coating.
+
+AR103.4.6 Installation.
+
+Light straw-clay shall be installed in accordance with the following:
+
+1.Formwork shall be sufficiently strong to resist bowing where the light straw-clay is compacted into the forms.
+
+2.Light straw-clay shall be uniformly placed into forms and evenly tamped to achieve stable walls free of voids. Light straw-clay shall be placed in lifts of not more than 6 inches (152 mm) and shall be thoroughly tamped before additional material is added.
+
+3.Temporary formwork shall be removed from walls within 24 hours after tamping, and walls shall remain exposed until moisture content is in accordance with Section AR103.5.1. Visible voids shall be filled with light straw-clay or other insulative material prior to plastering.
+
+AR103.4.7 Openings in walls.
+
+Openings in walls shall be in accordance with the following:
+
+1.Rough framing for doors and windows shall be fastened to structural members in accordance with the California Residential Code. Windows and doors shall be flashed in accordance with the California Residential Code.
+
+2.An approved moisture barrier shall be installed at window sills in light straw-clay walls prior to installation of windows.
+
+AR103.5 Wall finishes.
+
+The interior and exterior surfaces of light straw-clay walls shall be protected with a finish in accordance with Sections AR103.5.1 through AR103.5.5.
+
+AR103.5.1 Dimensional stability of light straw-clay prior to application of plaster finish.
+
+Light straw-clay infill having a density of 30 pounds per cubic foot (480.6 kg/m3) or greater shall be dry to a moisture content of not more than 20 percent at a depth of 4 inches (102 mm), as measured from each side of the wall. Light straw-clay infill having a density of less than 30 pounds per cubic foot (480.6 kg/m3) shall be sufficiently dry such that the overall shrinkage of the light straw-clay is dimensionally stable.
+
+AR103.5.2 Plaster finish.
+
+Exterior plaster shall be clay plasters or lime plasters. Interior plasters shall be clay plasters, lime plasters or gypsum plasters. Plasters shall be permitted to be applied directly to the surface of the light straw-clay walls without reinforcement, except that the juncture of dissimilar substrates shall be in accordance with Section AR103.5.4. Plasters shall have a thickness of not less than 1/2 inch (12.7 mm) and not more than 1 inch (25 mm) and shall be installed in not less than two coats. Rain-exposed clay plasters shall be finished with a lime-based or silicate-mineral coating.
+
+AR103.5.3 Separation of wood and plaster.
+
+Where wood framing occurs in light straw-clay walls, such wood surfaces shall be separated from exterior plaster with No.15 asphalt felt, Grade D paper or other approved material except where the wood is preservative treated or naturally durable.
+
+Exception: Exterior clay plasters shall not be required to be separated from wood.
+
+AR103.5.4 Bridging across dissimilar substrates.
+
+Bridging shall be installed across dissimilar substrates prior to the application of plaster. Acceptable bridging materials include expanded metal lath, woven wire mesh, welded wire mesh, fiberglass mesh, reed matting or burlap. Bridging shall extend not less than 4 inches (102 mm), on both sides of the juncture.
+
+AR103.5.5 Exterior cladding.
+
+Exterior cladding shall be spaced not less than 1/2 inch (12.7 mm) from the light straw-clay such that a ventilation space is created to allow for moisture diffusion. Furring strips that create this ventilation space shall be securely fastened to the stabilization members or framing. The cladding shall be fastened to the wood furring strips in accordance with the manufacturer’s instructions. Insect screening shall be provided at the top and bottom of the ventilation space.
+
+SECTION AR104 THERMAL PERFORMANCE
+
+AR104.1 Thermal characteristics.
+
+Walls with light straw-clay infill of densities of greater than or equal to 20 pounds per cubic foot (480.6 kg/m3) shall be classified as mass walls in accordance with Section N1102.2.5 (R402.2.5) and shall meet the R-value requirements for mass walls in Table N1102.1.3 (R402.1.2). Walls with light straw-clay infill of densities less than 20 pounds per cubic foot (480.6 kg/m3) shall meet the R-value requirements for wood frame walls in Table N1102.1.3 (R402.1.2).
+
+AR104.2 Thermal resistance.
+
+Light straw-clay shall be deemed to have a thermal resistance as specified in Table AR103.2.3.
+
+SECTION AR105 REFERENCED STANDARDS
+
+AR105.1 General.
+
+See Table AR105.1 for standards that are referenced in various section of this appendix. Standards are listed by the standard identification with the effective date, the standard title, and the section or sections of this appendix that reference this standard.
+
+TABLE AR105.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASTM E2392/E2392M—10	Standard Guide for Design of Earthen Wall Building Systems	Table AR103.2.3
+

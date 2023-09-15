@@ -1,0 +1,846 @@
+Chapter 13 Health Care Facilities and Medical Gas and Medical Vacuum Systems
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below										X	X	X	X	X	X								
+Chapter/Section																							
+1304.1.1										X	X	X	X	X	X								
+1304.1.2										X	X	X	X	X	X								
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+Part I — General Requirements
+1301.0 General Requirements
+1301.1 Applicability
+1301.2 Where Not Applicable
+1301.3 Conflict of Requirements
+1301.4 Where Required
+1301.5 Existing Systems
+1302.0 Design Requirements
+1302.1 Risk Categories
+1302.1.1 Processes and Operations
+1302.1.1.1 Risk Categories
+1302.1.2 Risk Assessment
+1302.1.2.1 Documents to the Authority Having Jurisdiction
+1302.1.3 Documented Risk Assessment
+1302.2 Patient Care Spaces
+1302.3 Anesthesia
+1302.4 Wet Procedure Locations
+1303.0 Health Care Facilities
+1303.1 Drinking Fountain Control Valves
+1303.2 Psychiatric Patient Rooms
+1303.3 Locations for Ice Storage
+1303.4 Sterilizers and Bedpan Steamers
+1303.4.1 Drainage Connections
+1303.4.2 Vapor Vents and Stacks
+1303.5 Aspirators
+1303.6 Drains
+1303.7 Clinical Sinks
+1303.7.1 Drainage Connection
+1303.8 Water Supply for Hospitals
+1303.9 Work Performed in Occupied Healthcare Facilities
+1304.0 Medical Gas and Medical Vacuum Piping Systems
+1304.1 General
+1304.1.1
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+Medical gas systems for health care facilities that are regulated by OSHPD (hospitals, skilled nursing facilities, and intermediate care facilities, licensed clinics, and correctional treatment centers) shall be in accordance with NFPA 99, Standard for Health Care Facilities. See California Fire Code Referenced Standards (Chapter 80) for applicable version of the Standard. See California Building Code Table 1224.4.6.1 for location and number of station outlets for oxygen, vacuum, and medical air.
+
+1304.1.2
+[OSHPD 1, 1R, 2, 3, 4 & 5]
+
+A medical gas source system serving an OSHPD 1, 2, 3 or 5 building shall not be located in an OSHPD 1R or OSHPD 3 building. OSHPD 1R buildings may be served by an individual main supply line from other OSHPD buildings, with a main line valve as per NFPA 99. [NFPA 99:5.1.4.2.1, 5.1.4.2.2, 5.1.4.3.1, 5.1.4.3.2] Valves shall be accessible and clearly labeled.
+
+1304.2 Certification of Systems
+1304.3 Construction Documents
+1304.3.1 Requirements
+1304.4 Extent of Work
+1304.5 Record
+1305.0 System Performance
+1305.1 Required Operating Pressures
+GAS SERVICE	ABBREVIATEDNAME	COLORS(BACKGROUND/TEXT)	STANDARD GAUGEPRESSURE
+Medical air	Med Air	Yellow/black	50-55 psi
+Carbon dioxide	CO2	Gray/black or gray/white	50-55 psi
+Helium	He	Brown/white	50-55 psi
+Nitrogen	N2	Black/white	160-185 psi
+Nitrous oxide	N2O	Blue/white	50-55 psi
+Oxygen	O2	Green/white or white/green	50-55 psi
+Oxygen/carbon dioxide mixtures	O2/CO2 n% (n = % of CO2)	Green/white	50-55 psi
+Medical-surgical vacuum	Med Vac	White/black	15 inch to 30 inch HgV
+Waste anesthetic gas disposal	WAGD	Violet/white	Varies with system type
+Other mixtures	Gas A% / Gas B%	Colors as above; major gas forbackground/minor gas for text	None
+Nonmedical air (Category 3gas-powered device)	—	Yellow-and-white diagonal stripe/black	None
+Nonmedical and Category 3 vacuum	—	White-and-black diagonal stripe/black boxed	None
+Laboratory air	—	Yellow-and-white checker board/black	None
+Laboratory vacuum	—	White-and-black checker-board/black boxed	None
+Instrument air	—	Red/White	160-185 psi
+
+n
+
+n
+
+1305.2 Minimum Flow Rates
+MEDICAL SYSTEM	FLOW RATE
+Oxygen	0.71 CFM per outlet1
+Nitrous Oxide	0.71 CFM per outlet1
+Medical Compressed Air	0.71 CFM per outlet1
+Nitrogen	15 CFM free air per outlet
+Vacuum	1 SCFM per inlet2
+Carbon Dioxide	0.71 CFM per outlet1
+Helium	0.71 CFM per outlet
+
+1 A room designed for a permanently located respiratory ventilator or anesthesia machine shall have an outlet capable of a flow rate of 6.36 CFM (3.0 L/s) at the station outlet.
+
+2 For testing and certification purposes, individual station inlets shall be capable of a flow rate of 3 SCFM (1.4 L/s), while maintaining a system pressure of not less than 12 inches of mercury (41 kPa) at the nearest adjacent vacuum inlet.
+1305.3 Minimum Station Outlets and Inlets
+LOCATION	OXYGEN	MEDICALVACUUM	MEDICALAIR	NITROUSOXIDE	NITROGEN	HELIUM	CARBONDIOXIDE
+Patient rooms for medical/surgical,obstetrics, and pediatrics	1/bed	1/bed	1/bed	—	—	—	—
+Examination/treatment for nursing units	1/bed	1/bed	—	—	—	—	—
+Intensive care (all)	3/bed	3/bed	2/bed	—	—	—	—
+Nursery1	2/bed	2/bed	1/bed	—	—	—	—
+General operating rooms	2/room	3/room4	2/room	1/room	1/room	—	—
+Cystoscopic and special invasiveprocedures	2/room	3/room4	2/room	—	—	—	—
+Recovery delivery andlabor/delivery/recovery rooms2	2/bed2/room	2/bed3/room4	1/bed1/room	—	—	—	—
+Labor rooms	1/bed	1/bed	1/bed	—	—	—	—
+First aid and emergency treatment3	1/bed	1/bed4	1/bed	—	—	—	—
+Autopsy	—	1/station	1/station	—	—	—	—
+Anesthesia workroom	1/station	—	1/station	—	—	—	—
+
+1 Includes pediatric nursery.
+
+2 Includes obstetric recovery.
+
+3 Emergency trauma rooms used for surgical procedures shall be classified as general operating rooms.
+
+4 Vacuum inlets required are in addition to inlets used as part of a scavenging system for removal of anesthetizing gases.
+1306.0 System Certification
+1306.1 Certification
+1306.2 Certification Tests
+1306.3 Report Items
+1306.4 Components
+Part II — Category 1 Piped Gas and Vacuum Systems
+1307.0 Central Supply Systems
+1307.1 Terms
+1307.2 Nature of Hazards of Gas and Vacuum Systems
+1307.3 Permitted Locations for Medical Gases
+1307.4 Materials
+1308.0 Pressure-Regulating Equipment
+1308.1 Where Required
+1308.2 Pressure Relief Valves
+1308.3 Pressure-Relief Valve Requirements
+1309.0 Oxygen Concentrator Supply Units
+1309.1 Oxygen Requirements
+1309.2 Particulate Size
+1309.3 Suitability
+1309.4 Compatible Materials
+1309.5 Oxygen Concentrator Components
+1309.6 Supply Air Quality
+1309.7 Electrical Components
+1309.8 Vent Valve
+1309.8.1 Venting of Relief Valves
+1309.9 Valved Sample Port
+1309.10 Suitable Filter
+1309.11 Check Valve
+1309.12 Outlet Valve
+1309.13 Oxygen Concentration Monitor
+1310.0 Category 1 Medical Air Central Supply Systems
+1310.1 Quality of Medical Air
+1310.2 Uses of Medical Air
+1310.3 Medical Air Compressors
+1310.3.1 Category 1 Medical Air Compressor
+1310.3.2 Required Components
+1310.4 Medical Air Receivers
+1310.5 Valves
+1311.0 Compressor Intake
+1311.1 Air Sources
+1311.2 Medical Air Compressor Source
+1311.3 Air Intakes
+1311.4 Location
+1311.5 Separate Compressors
+1311.6 Screening
+1312.0 Medical Surgical Vacuum Central Supply Systems
+1312.1 General
+1312.2 Medical-Surgical Vacuum Sources
+1312.3 Vacuum Receivers
+1312.4 Vacuum Filtration
+1312.5 Piping Arrangement and Redundancies
+1312.6 Piping Serviceability
+1312.7 Shutoff Valve
+1313.0 Medical-Surgical Vacuum Exhaust
+1313.1 Vacuum Source Exhausts
+1313.2 Location
+1313.3 Screening
+1313.4 Dips and Loops
+1313.5 Multiple Pumps
+1314.0 Valves
+1314.1 Gas and Vacuum Shutoff Valves
+1314.2 Security
+1314.3 Labeled
+1314.4 Accessibility
+1314.4.1 Flammable Gases
+1314.5 Valve Types
+VALVE SIZE(inch)	MINIMUM Cv (full open)
+1/2	17
+3/4	31
+1	60
+11/4	110
+11/2	169
+2	357
+21/2	390
+3	912
+4	1837
+
+1314.6 Source Valves
+1314.6.1 Location
+1314.7 Main Line Valve
+1314.7.1 Location
+1314.8 Riser Valves
+1314.9 Service Valves
+1314.9.1 Branch Piping
+1314.10 Zone Valves
+1314.10.1 Readily Accessible
+1314.10.2 Arrangement
+1314.10.3 Indicators
+1314.11 In-Line Shutoff Valves
+1314.12 Valves for Future Connections
+1314.12.1 Downstream Piping
+1315.0 Station Outlets and Inlets
+1315.1 General
+1315.2 Required Valves
+1315.3 Secondary Valve
+1315.4 Identification
+1315.5 Threaded Outlets/Fittings
+1315.6 Gas-Specific Station Outlet/Inlet
+1315.7 Common Parts
+1315.8 Marking of Components
+1315.9 Components Not Specific to a Vacuum
+1315.10 Factory-Installed Copper Inlet Tubes
+1315.11 Factory-Installed Copper Outlet Tubes
+1315.12 Protection From Damage
+1315.13 Multiple Wall Outlets/Inlets
+1315.14 Nonstandard Operation Pressures
+1315.15 Post Installation
+1316.0 Pressure and Vacuum Indicator Locations
+1316.1 Isolation
+1316.2 Pressure and Vacuum Indicator Locations
+1317.0 Warning Systems
+1317.1 Category 1
+1317.1.1 Master Alarms
+1317.1.2 Master Alarm Signal
+1318.0 Piping Materials for Field-Installed Positive Pressure Medical Gas Systems
+1318.1 General
+1318.2 Cleaning
+1318.3 Delivery
+1318.4 Tubes for Medical Gas Systems
+1318.5 Manufacturer Markings
+1318.6 Documentation
+1319.0 Piping Materials for Field-Installed Medical-Surgical Vacuum Systems
+1319.1 Tubes for Medical Vacuum Systems
+1319.1.1 Where Not Required
+1320.0 Joints and Connections
+1320.1 General
+1320.2 Changes in Direction
+1320.2.1 Medical Vacuum Systems
+1321.0 Brazed Joints
+1321.1 Brazed Joints and Fittings
+1321.2 Tube Joints
+1321.3 Filler Metals
+1321.4 Copper-to-Copper Joints
+1321.5 Accessible
+1321.6 Purging
+1321.7 Tube Ends
+1321.7.1 Cutting Wheels
+1321.7.2 Cut Ends
+1321.8 Cleaning Procedures
+1321.8.1 Exterior Surfaces
+1321.8.2 Interior Surfaces
+1321.8.3 Abrasive Pads
+1321.8.4 Prohibited
+1321.8.5 Wiped
+1321.8.6 Examination
+1321.8.7 On-Site Recleaning
+1321.8.8 Contaminated Materials
+1321.8.9 Timeframe for Brazing
+1321.9 Brazing Dissimilar Metals
+1321.9.1 Surface Cleaning
+1321.9.2 Flux
+1321.9.3 Short Sections of Copper
+1321.9.4 Flux-Coated Brazing Rods
+1321.10 Nitrogen Purge
+1321.10.1 Source
+1321.10.2 Flow Rate Control
+1321.10.3 Oxygen Analyzer
+1321.10.4 During Installation
+1321.10.5 Discharge Opening
+1321.10.6 Temperature of Joint
+1321.10.7 Opening to Be Sealed
+1321.10.8 Final Brazed Connection
+1321.10.9 Final Tie-in Test
+1321.10.10 Autogenous Orbital Welding Process
+1321.11 Assembling and Heating Brazed Joints
+1321.11.1 Heating of Joint
+1321.12 Inspection of Brazed Joints
+1321.12.1 Where Flux Is Used
+1321.12.2 Visually Inspected
+1321.12.3 Prohibited Brazed Joints
+1321.12.4 Defective Brazed Joints
+1322.0 Welded Joints
+1322.1 Welded Joints Procedure
+1322.1.1 Welder Qualification Procedure
+1322.1.2 Welding Procedure Specification
+1322.1.3 Purging of Joints
+1322.1.4 Shield Gas
+1322.1.5 Test Coupons
+1322.2 Welding for Stainless Tube
+1322.2.1 Qualifications
+1322.3 Memory Metal Fittings
+1322.4 Axially Swaged Fittings
+1322.5 Threaded Fittings
+1322.6 Other Types of Fittings
+1322.6.1 Dielectric Fittings
+1322.7 Prohibited Joints
+1323.0 Installation of Piping and Equipment
+1323.1 Required Pipe Sizing
+1323.1.1 Mains and Branches
+1323.1.2 Drops to Individual Stations
+1323.1.3 Runouts and Connecting Tubing
+1323.1.4 Maximum Demand
+FLOW RATE (SCFM)1	PRESSURE DROP (psi) PER 100 FEET2
+1/2 INCH PIPE	3/4 INCH PIPE	1 INCH PIPE
+0.35	0.004	0.001	—
+0.71	0.012	0.003	—
+1.06	0.023	0.005	—
+1.41	0.037	0.007	—
+1.77	0.055	0.011	—
+2.12	0.075	0.015	—
+2.47	0.097	0.019	—
+2.82	0.123	0.024	—
+3.18	0.151	0.029	—
+3.53	0.181	0.035	—
+4.24	0.249	0.048	—
+4.94	0.326	0.063	—
+5.65	0.413	0.080	—
+6.36	0.507	0.098	—
+7.06	0.611	0.118	0.030
+7.77	0.723	0.139	0.035
+8.47	0.843	0.162	0.041
+9.18	0.969	0.187	0.047
+9.89	1.108	0.212	0.053
+10.59	1.252	0.240	0.060
+12.36	1.647	0.315	0.079
+14.12	2.090	0.398	0.100
+15.89	2.580	0.490	0.123
+17.66	3.116	0.591	0.148
+19.42	—	0.701	0.176
+21.19	—	0.818	0.205
+22.95	—	0.944	0.236
+24.72	—	1.078	0.268
+28.25	—	1.369	0.341
+31.78	—	1.690	0.421
+35.31	—	2.043	0.509
+38.84	—	2.425	0.603
+42.37	—	2.838	0.705
+45.90	—	3.280	0.814
+49.43	—	3.751	0.929
+52.97	—	4.249	1.052
+56.50	—	—	1.181
+60.03	—	—	1.318
+63.56	—	—	1.461
+67.09	—	—	1.611
+70.62	—	—	1.768
+81.21	—	—	2.276
+88.28	—	—	2.647
+95.34	—	—	3.044
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 55 psig (379 kPa) at 68°F (20°C).
+FLOW RATE (SCFM)1	PRESSURE DROP (psi) PER 100 FEET2
+1/2 INCH PIPE	3/4 INCH PIPE	1 INCH PIPE
+5.30	0.126	0.024	—
+10.59	0.430	0.082	—
+15.89	0.886	0.168	—
+21.19	1.485	0.281	—
+26.48	2.220	0.419	—
+31.78	3.089	0.581	—
+37.08	4.087	0.766	—
+42.37	—	0.975	—
+47.67	—	1.206	—
+52.97	—	1.460	0.361
+58.26	—	1.736	0.429
+63.56	—	2.033	0.502
+68.85	—	2.352	0.580
+74.15	—	2.692	0.663
+79.45	—	3.054	0.752
+84.74	—	3.436	0.845
+90.04	—	3.840	0.943
+95.34	—	4.264	1.046
+100.63	—	4.709	1.154
+105.93	—	—	1.267
+116.52	—	—	1.508
+127.12	—	—	1.768
+137.71	—	—	2.046
+148.30	—	—	2.344
+158.90	—	—	2.660
+169.49	—	—	2.994
+180.08	—	—	3.347
+190.67	—	—	3.719
+201.27	—	—	4.108
+211.86	—	—	4.516
+222.45	—	—	4.942
+233.05	—	—	—
+243.64	—	—	—
+254.23	—	—	—
+264.83	—	—	—
+275.42	—	—	—
+286.01	—	—	—
+296.60	—	—	—
+307.20	—	—	—
+317.79	—	—	—
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 55 psig (379 kPa) at 68°F (20°C).
+FLOW RATE (SCFM)1	PRESSURE DROP (psi) PER 100 FEET2
+1/2 INCH PIPE	3/4 INCH PIPE	1 INCH PIPE
+0.35	0.004	—	—
+0.71	0.014	—	—
+1.06	0.029	—	—
+1.41	0.047	—	—
+1.77	0.070	—	—
+2.12	0.096	—	—
+2.47	0.125	—	—
+2.82	0.159	—	—
+3.18	0.195	—	—
+3.53	0.235	0.045	—
+4.24	0.324	0.062	—
+4.94	0.425	0.081	—
+5.65	0.539	0.103	—
+6.36	0.664	0.127	—
+7.06	0.802	0.153	0.038
+7.77	0.950	0.181	0.045
+8.47	1.110	0.211	0.053
+9.18	1.281	0.243	0.061
+9.89	1.463	0.278	0.070
+10.59	1.656	0.314	0.079
+12.36	2.186	0.413	0.103
+14.12	2.752	0.525	0.131
+15.89	3.442	0.648	0.162
+17.66	4.166	0.783	0.195
+19.42	—	0.929	0.231
+21.19	—	0.744	0.270
+22.95	—	0.858	0.312
+24.72	—	0.980	0.356
+28.25	—	1.244	0.453
+31.78	—	1.537	0.560
+35.31	—	1.858	0.677
+38.84	—	2.205	0.804
+42.37	—	2.581	0.941
+45.90	—	2.982	1.088
+49.43	—	3.411	1.245
+52.97	—	4.249	1.411
+56.50	—	—	1.587
+60.03	—	—	1.772
+63.56	—	—	1.967
+67.09	—	—	2.174
+70.62	—	—	2.385
+79.45	—	—	2.959
+88.28	—	—	3.589
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 55 psig (379 kPa) at 68°F (20°C).
+FLOW RATE (SCFM)1	PRESSURE DROP (psi) PER 100 FEET2
+1/2 INCH PIPE	3/4 INCH PIPE	1 INCH PIPE
+0.35	0.004	—	—
+0.71	0.013	0.003	—
+1.06	0.025	0.005	—
+1.41	0.041	0.008	—
+1.77	0.060	0.012	—
+2.12	0.082	0.016	—
+2.47	0.107	0.021	—
+2.82	0.135	0.026	—
+3.18	0.166	0.032	—
+3.53	0.199	0.038	—
+4.24	0.274	0.053	—
+4.94	0.359	0.069	—
+5.65	0.454	0.087	—
+6.36	0.558	0.107	—
+7.06	0.672	0.129	0.033
+7.77	0.795	0.153	0.039
+8.47	0.927	0.179	0.045
+9.18	1.066	0.205	0.052
+9.89	1.218	0.233	0.059
+10.59	1.377	0.263	0.066
+12.36	1.811	0.346	0.087
+14.12	2.298	0.438	0.110
+15.89	2.837	0.539	0.135
+17.66	3.456	0.650	0.163
+19.42	—	0.771	0.193
+21.19	—	0.900	0.225
+22.95	—	1.038	0.260
+24.72	—	1.185	0.295
+28.25	—	1.505	0.375
+31.78	—	1.859	0.463
+35.31	—	2.247	0.559
+38.84	—	2.667	0.663
+42.37	—	3.121	0.775
+45.90	—	3.607	0.895
+49.43	—	4.125	1.022
+52.97	—	—	1.157
+56.50	—	—	1.299
+60.03	—	—	1.449
+63.56	—	—	1.607
+67.09	—	—	1.772
+70.62	—	—	1.944
+81.21	—	—	2.503
+91.81	—	—	3.127
+102.40	—	—	3.813
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 55 psig (379 kPa) at 68°F (20°C).
+FLOW RATE (SCFM)1	VACUUM LOSS (inch of mercury)PER 100 FEET FOR COPPER TUBE2
+3/4 INCH TUBE	1 INCH TUBE	11/4 INCH TUBE	11/2 INCH TUBE	2 INCH TUBE
+0.35	0.019	—	—	—	—
+0.71	0.061	—	—	—	—
+1.06	0.120	—	—	—	—
+1.41	0.194	—	—	—	—
+1.77	0.284	—	—	—	—
+2.12	0.387	—	—	—	—
+2.47	0.504	—	—	—	—
+2.82	0.634	—	—	—	—
+3.18	0.777	—	—	—	—
+3.53	0.932	0.238	—	—	—
+4.24	1.277	0.325	—	—	—
+4.94	1.669	0.424	—	—	—
+5.65	2.106	0.534	—	—	—
+6.36	2.586	0.655	—	—	—
+7.06	3.110	0.787	0.272	—	—
+7.77	3.674	0.929	0.321	—	—
+8.47	4.280	1.081	0.373	—	—
+9.18	4.927	1.243	0.429	—	—
+9.89	—	1.416	0.488	—	—
+10.59	—	1.597	0.551	0.242	—
+11.30	—	1.789	0.616	0.270	—
+12.01	—	1.990	0.685	0.300	—
+12.71	—	2.200	0.757	0.332	—
+13.42	—	2.419	0.832	0.365	—
+14.12	—	2.648	0.911	0.399	—
+14.83	—	2.886	0.992	0.435	—
+15.54	—	3.132	1.077	0.471	—
+16.24	—	3.388	1.164	0.510	—
+16.95	—	3.652	1.254	0.549	—
+17.66	—	3.925	1.348	0.590	—
+18.36	—	4.207	1.444	0.632	0.167
+19.07	—	4.498	1.543	0.675	0.179
+19.77	—	4.797	1.646	0.720	0.190
+20.48	—	—	1.751	0.766	0.202
+21.19	—	—	1.859	0.813	0.214
+24.72	—	—	2.441	1.066	0.281
+28.25	—	—	3.092	1.350	0.356
+31.78	—	—	3.811	1.662	0.438
+35.31	—	—	4.596	2.004	0.527
+38.84	—	—	—	2.373	0.624
+42.37	—	—	—	2.770	0.728
+45.90	—	—	—	3.194	0.838
+49.43	—	—	—	3.645	0.956
+52.97	—	—	—	4.122	1.081
+56.50	—	—	—	4.626	1.212
+63.56	—	—	—	—	1.495
+70.62	—	—	—	—	1.803
+77.68	—	—	—	—	2.138
+84.74	—	—	—	—	2.497
+91.81	—	—	—	—	2.882
+98.87	—	—	—	—	3.291
+105.93	—	—	—	—	3.724
+112.99	—	—	—	—	4.181
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 19 inches of mercury gauge vacuum (64 kPa) at 68°F (20°C).
+FLOW RATE (SCFM)1	VACUUM LOSS (inch of mercury)PER 100 FEET FOR PLASTIC TUBE2
+3/4 INCH TUBE	1 INCH TUBE	11/4 INCH TUBE	11/2 INCH TUBE	2 INCH TUBE
+0.35	0.005	—	—	—	—
+0.71	0.010	—	—	—	—
+1.06	0.015	—	—	—	—
+1.41	0.021	—	—	—	—
+1.77	0.026	—	—	—	—
+2.12	0.060	0.010	—	—	—
+2.47	0.077	0.020	—	—	—
+2.82	0.096	0.025	—	—	—
+3.18	0.118	0.031	0.011	—	—
+3.53	0.141	0.036	0.013	—	—
+4.24	0.192	0.050	0.017	—	—
+4.94	0.249	0.064	0.023	0.010	—
+5.65	0.313	0.081	0.028	0.012	—
+6.36	0.383	0.099	0.035	0.015	—
+7.06	0.459	0.118	0.041	0.018	—
+7.77	0.541	0.139	0.049	0.021	—
+8.47	0.628	0.161	0.056	0.024	—
+9.18	0.722	0.185	0.065	0.027	—
+9.89	0.821	0.210	0.073	0.031	—
+10.59	0.925	0.237	0.083	0.035	—
+11.30	1.035	0.265	0.092	0.039	0.010
+12.01	1.151	0.294	0.102	0.043	0.011
+12.71	1.270	0.324	0.113	0.048	0.012
+13.42	1.396	0.356	0.124	0.052	0.014
+14.12	1.525	0.389	0.135	0.057	0.015
+14.83	1.662	0.424	0.147	0.062	0.016
+15.54	1.803	0.460	0.160	0.068	0.017
+16.24	1.948	0.496	0.172	0.073	0.019
+16.95	2.099	0.535	0.186	0.078	0.020
+17.66	2.256	0.574	0.199	0.084	0.022
+18.36	2.415	0.615	0.213	0.090	0.023
+19.07	2.581	0.657	0.228	0.096	0.025
+19.77	2.750	0.699	0.243	0.102	0.026
+20.48	2.925	0.744	0.258	0.109	0.028
+21.19	3.106	0.790	0.274	0.115	0.030
+24.72	4.074	1.034	0.358	0.151	0.039
+28.25	—	1.307	0.452	0.190	0.049
+31.78	—	1.608	0.556	0.234	0.060
+35.31	—	1.936	0.669	0.281	0.072
+38.84	—	2.291	0.791	0.332	0.085
+42.37	—	2.672	0.922	0.387	0.099
+45.90	—	3.078	1.062	0.446	0.113
+49.43	—	3.510	1.211	0.508	0.129
+52.97	—	3.969	1.368	0.574	0.146
+56.50	—	4.450	1.534	0.643	0.163
+63.56	—	—	1.890	0.792	0.201
+70.62	—	—	2.278	0.954	0.242
+77.68	—	—	2.699	1.130	0.286
+84.74	—	—	3.151	1.318	0.334
+91.81	—	—	3.634	1.520	0.385
+98.87	—	—	4.148	1.734	0.439
+105.93	—	—	4.691	1.961	0.496
+112.99	—	—	—	2.200	0.556
+
+1 Based on the pressure of 14.7 psig (101 kPa) at 68°F (20°C).
+
+2 Based on the pressure of 19 inches of mercury gauge vacuum (64 kPa) at 68°F (20°C).
+1323.1.5 Sizing Procedures
+NUMBER OFOUTLETS ANDINLETSTERMINALUNITS PERFACILITY	DIVERSITYPERCENTAGE OF AVERAGE FLOWPER OUTLETSAND INLETSTERMINAL UNITS	MINIMUM PERMISSIBLE SYSTEM FLOW OF ALLPRESSURIZED MEDICALGAS SYSTEMS2(standard cubic feet per minute)
+1—10	100%	Actual Demand
+11—25	75%	7.0
+26—50	50%	13.1
+51—100	50%	17.5
+
+1 Flow rates of station outlets and inlets in accordance with Table 1305.2.
+
+2 The minimum system flow is the average outlets and inlets flow times the number of station outlets and inlets times the diversity percentage.
+TYPE OF SYSTEM	MAXIMUM ALLOWABLE SYSTEMPRESSURE LOSS (psi)
+Medical Air	5
+Nitrogen	15
+Nitrous Oxide	5
+Carbon Dioxide	5
+Oxygen	5
+Medical Vacuum	4 inches of mercury
+
+1323.1.6 Engineering Methods
+1323.2 Pipe Protection
+1323.2.1 Exposed Piping
+1323.2.2 Underground Piping
+1323.3 Location of Piping
+1323.3.1 Prohibited Locations
+California Electrical Code
+
+1323.3.2 Approved Locations
+1323.3.3 Prohibited Contact With Oil
+1323.4 Pipe Support
+1323.4.1 Hangers and Supports
+1323.4.2 Copper Tube
+1323.4.3 Damp Locations
+1323.4.4 Maximum Spacing
+PIPE SIZE	HANGER SPACING (feet)
+DN8	(NPS 1/4)	(3/8 of an inch O.D.)	5
+DN10	(NPS 3/8)	(1/2 of an inch O.D.)	6
+DN15	(NPS 1/2)	(5/8 of an inch O.D.)	6
+DN20	(NPS 3/4)	(7/8 of an inch O.D.)	7
+DN25	(NPS 1)	(11/8 of an inch O.D.)	8
+DN32	(NPS 11/4)	(13/8 of an inch O.D.)	9
+DN40 and larger	(NPS 11/2)	(15/8 of an inch O.D.)	10
+Vertical risers, all sizes, every floor, but not to exceed:	15
+
+1323.4.5 Seismic Provisions
+1323.5 Frost Protection
+1323.5.1 Backfilling and Trenching
+1323.5.2 Conduit, Cover, or Enclosure
+1323.5.3 Excessive Stresses
+1323.5.4 Minimum Backfill
+1323.5.5 Trenches
+1323.5.6 Composition of Backfill
+1323.5.7 Marker
+1323.5.8 Warning
+1323.5.9 Wall Sleeve
+1323.6 Connectors
+1323.6.1 Flexible Connectors
+1323.6.2 Metallic Flexible Joints
+1323.7 Prohibited System Interconnections
+1323.7.1 Medical Gas and Medical Vacuum
+1323.7.2 Leak Testing
+1323.8 Manufacturer's Instructions
+1323.9 Changes in System Use
+1323.9.1 Medical Vacuum System
+1323.10 Qualifications of Installers
+1323.10.1 Brazing
+1323.10.2 Documentation
+1323.10.3 Health Care Organization Personnel
+1323.11 Qualification of Brazing Procedures and Brazing
+1323.11.1 Examination
+1323.11.2 Brazing Procedure Specification
+1323.11.3 Documentation
+1323.11.4 Procedures
+1323.11.5 Conditions of Acceptance
+1323.11.6 Qualifications
+1323.12 Breaching or Penetrating Medical Gas Piping
+1323.13 Labeling, Identification and Operating Pressure
+1323.13.1 Pipe Labeling
+1323.13.2 Location of Pipe Labeling
+1323.13.3 Paint
+1323.14 Identification of Shutoff Valves
+1323.14.1 Nonstandard Operating Pressures
+1323.14.2 Source Valves
+1323.14.3 Main Line Valves
+1323.14.4 Riser Valves
+1323.14.5 Service Valves
+1323.14.6 Zone Valve Box
+1323.15 Identification
+1324.0 Performance Criteria and Testing Category 1 (Gases, Medical Surgical Vacuum)
+1324.1 Where Required
+1324.2 Breached Systems
+1324.2.1 Reports
+1324.3 Test Gas
+1324.4 Initial Piping Blowdown
+1324.5 Initial Pressure Tests — Medical Gas and Vacuum Systems
+1324.5.1 Shutoff Valve
+1324.5.1.1 Required Test Pressure
+1324.5.1.2 Leaks
+1324.5.2 Initial Cross-Connection Test
+1324.5.2.1 Atmospheric Pressure
+1324.5.2.2 Sources of Test Gas
+1324.5.2.3 System to Be Charged
+1324.5.2.4 Check Outlets and Inlets
+1324.5.2.5 Repeat Test
+1324.5.2.6 Identification of System
+1324.5.3 Initial Piping Purge Tests
+1324.5.3.1 Procedure
+1324.5.3.2 Location
+1324.5.4 Standing Pressure Tests — For Positive Pressure Medical Gas Piping Systems
+1324.5.4.1 Time Frame for Testing
+1324.5.4.2 Source Valve
+1324.5.4.3 Length of Testing
+1324.5.4.4 Test Pressure
+1324.5.4.5 Conclusion of Test
+1324.5.4.6 Leaks
+1324.5.4.7 Proof of Testing
+1324.5.5 Standing Pressure Tests — Medical Vacuum Piping Systems
+1324.5.5.1 Timeframe for Testing
+1324.5.5.2 Length of Testing
+1324.5.5.3 Test Pressure
+1324.5.5.4 Disconnection of Testing Source
+1324.5.5.5 Conclusion of Test
+1324.5.5.6 Proof of Testing
+1324.5.5.7 Leaks
+1324.5.6 System Inspection
+1324.5.6.1 Test Gas
+1324.5.6.2 Inspection Qualification
+1324.5.6.3 Inspection Personnel
+1324.5.6.4 Qualifications
+1324.5.6.5 Inspections
+1324.5.7 System Verification
+1324.5.7.1 Test Gas
+1324.5.7.2 Approved Tester
+1324.5.7.3 Cryogenic Fluid Testing
+1324.5.8 Particulate Matter
+1324.5.9 Final Tie-in Test
+1324.5.9.1 Vacuum Joints
+1324.5.9.2 Pressure Gases
+1324.5.9.3 Positive Pressure Gases
+1324.5.9.4 Permanent Records
+1324.5.10 Operational Flow Pressure Drop Test
+1324.5.10.1 Medical-Surgical Vacuum Inlets
+1324.5.10.2 Oxygen and Medical Air Outlets
+1324.5.11 Medical Gas Concentration Test
+MEDICAL GAS	CONCENTRATION
+Oxygen USP	≥99% oxygen
+Oxygen 93 USP	≥90% oxygen ≤96%
+Nitrous oxide USP	≥99% nitrous oxide
+Nitrogen NF	≤1% oxygen or ≥99% nitrogen
+Medical air USP	19.5% - 23.5% oxygen
+Other gases	Named gases by ±1%, or per specification
+
+Part III — Category 2 Piped Gas and Vacuum Systems
+1325.0 Category 2 Piped Gas and Vacuum Systems
+1325.1 General
+1325.2 Nature of Hazards of Gas and Vacuum Systems
+1325.3 Central Supply Systems
+1325.4 Category 2 Medical Air Supply Systems
+1325.5 Oxygen Concentrators
+1325.6 Category 2 Medical-Surgical Vacuum
+1325.7 Valves
+1325.8 Station Outlets and Inlets
+1325.9 Pressure and Vacuum Indicators
+1325.10 Warning Systems (Category 2)
+1325.11 Category 2 Distribution
+1325.12 Labeling and Identification
+1325.13 Performance Criteria and Testing — Category 2 (Gas, Medical—Surgical and Vacuum)
+Part IV — Category 3 Piped Gas and Vacuum Systems
+1326.0 Category 3 Piped Gas and Vacuum Systems
+1326.1 General
+1326.2 Nature of Hazards of Gas and Vacuum Systems
+1326.3 Medical Air Supply Systems
+1326.4 Oxygen Central Supply Systems Using Concentrators
+1326.5 Medical—Surgical Vacuum
+1326.6 Valves
+1326.7 Station Outlets and Inlets
+1326.8 Pressure and Vacuum Indicators
+1326.9 Warning Systems
+1326.10 Distribution
+1326.11 Labeling and Identification
+Part V — Dental Gas and Vacuum Systems
+1327.0 Dental Gas and Vacuum Systems
+1327.1 General
+1327.2 Emergency Shutoff Valves (Oxygen and Nitrous Oxide)
+1327.3 Warning Systems (Oxygen and Nitrous Oxide)
+1327.4 Initial Pressure Test
+1327.4.1 Pressure Test
+1327.4.2 Source Shutoff Valve
+1327.4.3 Test Pressure
+1327.4.4 Examine for Leaks
+1327.4.5 Leaks Located
+1327.5 Maximum Copper Tube Support Spacing
+PIPE SIZE	HANGER SPACING (feet)
+DN8	(NPS 1/4)	(3/8 of an inch O.D.)	5
+DN10	(NPS 3/8)	(1/2 of an inch O.D.)	6
+DN15	(NPS 1/2)	(5/8 of an inch O.D.)	6
+DN20	(NPS 3/4)	(7/8 of an inch O.D.)	7
+DN25	(NPS 1)	(11/8 of an inch O.D.)	8
+DN32	(NPS 11/4)	(13/8 of an inch O.D.)	9
+DN40 and larger	(NPS 11/2)	(15/8 of an inch O.D.)	10
+Vertical risers, all sizes, every floor, but not to exceed:	15
+
+1327.6 Maximum Plastic Pipe Support Spacing
+PIPE SIZE	HANGER SPACING (feet)
+DN15	(NPS 1/2)	(5/8 of an inch O.D.)	4
+DN20	(NPS 3/4)	(7/8 of an inch O.D.)	4
+DN25	(NPS 1)	(11/8 of an inch O.D.)	4.33
+DN32	(NPS 11/4)	(13/8 of an inch O.D.)	4.33
+DN40	(NPS 11/8)	(15/8 of an inch O.D.)	4.66
+DN50	(NPS 2)	(23/8 of an inch O.D.)	4.66
+DN65 and larger	(NPS 21/2)	(27/8 of an inch O.D.)	5
+Vertical risers, all sizes, every floor, but not to exceed:	10
+
+1327.7 Standing Pressure Tests for Oxygen and Nitrous Oxide Piping
+1327.7.1 Tests Required
+1327.7.2 Source Valve
+1327.7.3 Piping Systems
+1327.7.4 Test Pressure
+1327.7.5 Change in Test Pressure
+1327.7.6 Leaks
+1327.8 Verifier Operational Pressure Test
+1327.8.1 Test Gas
+1327.8.2 Medical Gas Outlets

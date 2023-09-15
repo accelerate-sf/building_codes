@@ -1,0 +1,312 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 49 – REQUIREMENTS FOR WILDLAND-URBAN INTERFACE FIRE AREAS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 49 REQUIREMENTS FOR WILDLAND-URBANINTERFACE FIRE AREAS
+
+User note:
+
+About this chapter: In addition to the building construction requirements in the California Building Code and California Residential Code, this chapter contains requirements for development and construction in Local Responsibility Areas (LRA) designated as Very High Fire Hazard Severity Zones and areas designated by the Board of Forestry and Fire Protection as State Responsibility Areas (SRA). While many of these provisions are found in Title 14 and Title 19 of the California Code of Regulations, they are replicated here for the code user. The local jurisdiction has the authority to apply the same regulations to LRA when the regulations are adopted by local ordinance.
+
+The requirements in this chapter reference the process for adoption of Very High Fire Hazard Severity Zones in the LRA; criteria for evaluating existing subdivisions that are at significant fire risk and are without an adequate secondary egress; and criteria for fire safety provisions required in the Safety Element of a city or county General Plan.
+
+The chapter includes mitigation strategies to reduce the hazards of fire originating within a structure spreading to wildland and fire originating in wildland spreading to structures. These strategies are included in the following requirements:
+
+1.Development of fire protection plans.
+
+2.Development of landscape plans and long-term vegetation management.
+
+3.Creation and maintenance of defensible space to protect structures and subdivisions.
+
+SECTION 4901 GENERAL
+
+4901.1 Scope.
+
+This chapter contains minimum requirements to mitigate conditions that might cause a fire originating in a structure to ignite vegetation in the Wildland-Urban Interface Fire Area, and conversely, a wildfire burning in vegetative fuels to transmit fire to buildings and threaten to destroy life, overwhelm fire suppression capabilities or result in large property losses.
+
+4901.2 Purpose.
+
+The purpose of this chapter is to provide minimum standards to reduce the likelihood of life and property loss due to a wildfire through the use of performance and prescriptive requirements for construction and development in State Responsibility Areas (SRA) and Local Responsibility Areas (LRA) designated as a Moderate, High or Very High Fire Hazard Severity Zone.
+
+SECTION 4902 DEFINITIONS
+
+4902.1 General.
+
+For the purpose of this chapter, certain terms are defined as follows:
+
+DIRECTOR. Director of the California Department of Forestry and Fire Protection (CAL FIRE).
+
+FIRE PROTECTION PLAN. A document prepared for a specific project or development proposed for a Wildland-Urban Interface (WUI) Fire Area. It describes ways to minimize and mitigate potential for loss from wildfire exposure.
+
+FIRE HAZARD SEVERITY ZONES. Geographical areas designated pursuant to California Public Resources Codes, Sections 4201 through 4204 and classified as Very High, High or Moderate in State Responsibility Areas or as Local Agency Very High Fire Hazard Severity Zones designated pursuant to California Government Code, Sections 51175 through 51189.
+
+The California Code of Regulations, Title 14, Section 1280 entitles the maps of these geographical areas as “Maps of the Fire Hazard Severity Zones in the State Responsibility Area of California.”
+
+FIRE-RESISTANT VEGETATION. Plants, shrubs, trees and other vegetation that exhibit properties, such as high moisture content, little accumulation of dead vegetation, and low sap or resin content, that make them less likely to ignite or contribute heat or spread flame in a fire than native vegetation typically found in the region.
+
+[Note: The following sources contain examples of types of vegetation that can be considered fire-resistant vegetation. (Fire-resistant Plants for Home Landscapes, A Pacific Northwest Extension publication; Home Landscaping for Fire, University of California Division of Agriculture and Natural Resources; Sunset Western Garden Book)]
+
+IGNITION-RESISTANT MATERIAL. A type of building material that complies with the requirements in Section 704A.2 in the California Building Code.
+
+LOCAL RESPONSIBILITY AREAS (LRA). Areas of the state in which the financial responsibility of preventing and suppressing fires is the primary responsibility of a city, county, city and county, or district.
+
+STATE RESPONSIBILITY AREAS (SRA). Lands that are classified by the Board of Forestry pursuant to Public Resources Code Section 4125 where the financial responsibility of preventing and suppressing wildfires is primarily the responsibility of the state.
+
+WILDFIRE.  Any uncontrolled fire spreading through vegetative fuels that threatens to destroy life, property or resources as defined in Public Resources Code, Sections 4103 and 4104.
+
+WILDFIRE EXPOSURE.  One or a combination of radiant heat, convective heat, direct flame contact and burning embers being projected by vegetation fire to a structure and its immediate environment.
+
+WILDLAND-URBAN INTERFACE (WUI). A geographical area identified by the state as a “Fire Hazard Severity Zone” in accordance with the Public Resources Code, Sections 4201 through 4204, and Government Code, Sections 51175 through 51189, or other areas designated by the enforcing agency to be at a significant risk from wildfires.
+
+SECTION SECTION 4903 4903 PLANS PLANS
+
+4903.1 General.
+
+The fire code official is authorized to require the owner or owner’s authorized agent to provide a fire protection plan. The fire protection plan shall be prepared to determine the acceptability of fire protection and life safety measures designed to mitigate wildfire hazards presented for the property under consideration.
+
+The fire protection plan shall be prepared by a registered design professional, qualified landscape architect, qualified fire safety specialist or similar specialist acceptable to the fire code official and shall analyze the wildfire risk of the building, project, premises or region to recommend necessary changes.
+
+The fire code official is authorized to require a preliminary fire protection plan prior to the submission of a final fire protection plan.
+
+4903.2 Contents.
+
+The fire protection plan shall be based on a project-specific wildfire hazard assessment that includes considerations of location, topography, aspect, and climatic and fire history.
+
+The plan shall identify conformance with all applicable state wildfire protection regulations, statutes and applicable local ordinances, whichever are more restrictive.
+
+The plan shall address fire department access, egress, road and address signage, water supply in addition to fuel reduction in accordance with Public Resources Code (PRC) 4290; the defensible space requirements in accordance with PRC 4291 or Government Code 51182; and the applicable building codes and standards for wildfire safety. The plan shall identify mitigation measures to address the project’s specific wildfire risk and shall include the information required in Section 4903.2.1.
+
+4903.2.1 Project information.
+
+The final fire protection plan shall be reviewed and approved prior to start of construction.
+
+4903.2.1.1 Preliminary fire protection plan.
+
+When a preliminary fire protection plan is submitted, it shall include, at a minimum, the following:
+
+1.Total size of the project.
+
+2.Information on the adjoining properties on all sides, including current land uses, and if known, existing structures and densities, planned construction, natural vegetation, environmental restoration plans, roads and parks.
+
+3.A map with all project boundary lines, property lines, slope contour lines, proposed structure foundation footprints, and proposed roads and driveways. The map shall identify project fuel modification zones and method of identifying the fuel modification zone boundaries.
+
+4903.2.1.2 Final fire protection plan.
+
+The final fire protection plan shall include items listed in Section 4903.2.1.1 and the following:
+
+1.A map identifying all proposed plants in the fuel modification zones with a legend that includes a symbol for each proposed plant species. The plan shall include specific information on each species proposed, including but not limited to:
+
+a.The plant life-form;
+
+b.The scientific and common name; and
+
+c.The expected height and width for mature growth.
+
+2.Identification of irrigated and non-irrigated zones.
+
+3.Requirements for vegetation reduction around emergency access and evacuation routes.
+
+4.Identification of points of access for equipment and personnel to maintain vegetation in common areas.
+
+5.Legally binding statements regarding community responsibility for maintenance of fuel modification zones.
+
+6.Legally binding statements to be included in covenants, conditions and restrictions regarding property owner responsibilities for vegetation maintenance.
+
+SECTION 4904 FIRE HAZARD SEVERITY ZONES
+
+4904.1 General.
+
+Lands in the state are classified by the Director in accordance with the severity of wildfire hazard expected to prevail in those areas and the responsibility for fire protection, so that measures may be identified which will reduce the potential for losses to life, property and resources from wildfire.
+
+4904.2 Classifications.
+
+The Director classifies lands into fire hazard severity zones in accordance with California Public Resources Code, Sections 4201 through 4204 for State Responsibility Areas and accordance with Government Code, Sections 51175 through 51189 for areas where a local agency is responsible for fire protection.
+
+4904.3 Local agency requirements.
+
+Within 30 days after receiving a transmittal from the director that identifies Very High Fire Hazard Severity Zones, a local agency shall make the information available for public review. The information shall be presented in a format that is understandable and accessible to the general public, including, but not limited to, maps. A local agency shall post a notice at the office of the county recorder, county assessor and county planning agency identifying the location of the map provided by the director pursuant to Government Code, Section 51178. If the agency amends the map, pursuant to subdivision (b) or (c) of Section 51179, the notice shall instead identify the location of the amended map.
+
+4904.3.1 Local agency ordinances.
+
+A local agency shall designate, by ordinance, Very High Fire Hazard Severity Zones in its jurisdiction within 120 days of receiving recommendations from the director pursuant to Section 51178. The local agency shall transmit a copy of an ordinance adopted pursuant to Section 51179 (a) to the State Board of Forestry and Fire Protection within 30 days of adoption, as specified in Title 14, Division 1.5, Chapter 7, Subchapter 3, Article 1.
+
+4904.3.2 Local agency discretion.
+
+A local agency may, at its discretion, include areas within the jurisdiction of the local agency, not identified as Very High Fire Hazard Severity Zones by the director, as Very High Fire Hazard Severity Zones following a finding supported by substantial evidence in the record that the requirements of Government Code Section 51182 are necessary for effective fire protection within the area.
+
+SECTION 4905 WILDFIRE PROTECTION BUILDING CONSTRUCTION
+
+4905.1 General.
+
+Materials and construction methods for exterior wildfire exposure protection shall be applied within geographical areas where a wildfire burning in vegetative fuels may readily transmit fire to buildings and threaten to destroy life, overwhelm fire suppression capabilities or result in large property losses.
+
+4905.2 Construction methods and requirements within established limits.
+
+Within the limits established by law, construction methods intended to mitigate wildfire exposure shall comply with the wildfire protection building construction requirements contained in the California Building Standards Code, including the following:
+
+1.California Building Code, Chapter 7A,
+
+2.California Residential Code, Section R337,
+
+3.California Referenced Standards Code, Chapter 12-7A.
+
+4905.3 4905.3 Establishment of limits. Establishment of limits.
+
+The establishment of limits for the Wildland-Urban Interface (WUI) Fire Area’s required construction methods shall be designated pursuant to the California Public Resources Code for State Responsibility Areas and California Government Code for Local Responsibility Areas (LRA) in Very High Severity Zones or by a local agency following a finding supported by substantial evidence in the record that the requirements of this section are necessary for effective fire protection within the area.
+
+SECTION 4906 VEGETATION MANAGEMENT
+
+4906.1 General.
+
+Planting of vegetation for new landscaping shall be selected to reduce non-fire-resistant vegetation in proximity to a structure and to maintain vegetation as it matures.
+
+4906.2 Application.
+
+All new plantings of vegetation in State Responsibility Areas (SRA) and Local Responsibility Areas (LRA) designated as a Very High Fire Hazard Severity Zone shall comply with Sections 4906.3 through 4906.5.3.
+
+4906.3 Landscape plans.
+
+Landscape plans shall be provided when required by the enforcing agency. The landscape plan shall include development and maintenance requirements for the vegetation management zone adjacent to structures and roadways, and to provide significant fire hazard reduction benefits for public and firefighting safety.
+
+4906.3.1 Contents.
+
+Landscape plans shall contain the following:
+
+1.Delineation of the 30-foot (9144 mm) and 100-foot (30.5 m) fuel management zones from all structures.
+
+2.Identification of existing vegetation to remain and proposed new vegetation.
+
+3.Identification of irrigated areas.
+
+4.A plant legend with both botanical and common names, and identification of all plant material symbols.
+
+5.Identification of ground coverings within the 30-foot (9144 mm) zone.
+
+4906.4 Vegetation.
+
+All new vegetation shall be fire-resistant vegetation in accordance with this section.
+
+Exception: Trees classified as non-fire-resistant vegetation complying with Section 4906.4.2.1.
+
+To be considered fire-resistant vegetation, it must meet at least one of the following:
+
+1.Be identified as fire-resistant vegetation in an approved book, journal or listing from an approved organization.
+
+2.Be identified as fire-resistant vegetation by a licensed landscape architect with supporting justification.
+
+3.Plants considered fire-resistant vegetation and approved by the local enforcing agency.
+
+4906.4.1 Shrubs.
+
+All new plantings of shrubs shall comply with the following:
+
+1.Shrubs shall not exceed 6 feet (1829 mm) in height.
+
+2.Groupings of shrubs are limited to a maximum aggregate diameter of 10 feet (3048 mm).
+
+3.Shrub groupings shall be separated from other groupings a minimum of 15 feet (4572 mm).
+
+4.Shrub groupings shall be separated from structures a minimum of 30 feet (9144 mm).
+
+5.Where shrubs are located below or within a tree’s drip line, the lowest tree branch shall be a minimum of three times the height of the understory shrubs or 10 feet (3048 mm), whichever is greater.
+
+4906.4.2 Trees.
+
+Trees shall be managed as follows within the 30-foot (9144 mm) zone of a structure:
+
+1.New trees shall be planted and maintained so that the tree’s drip line at maturity is a minimum of 10 feet (3048 mm) from any combustible structure.
+
+2.The horizontal distance between crowns of new trees and crowns of adjacent trees shall not be less than 10 feet (3048 mm).
+
+3.Existing trees shall be trimmed to provide a minimum separation of 10 feet (3048 mm) away from chimney and stovepipe outlets per Title 14, Section 1299.03.
+
+4906.4.2.1 Non-fire-resistant vegetation.
+
+New trees not classified as fire-resistant vegetation, such as conifers, palms, pepper trees and eucalyptus species, shall be permitted provided the tree is planted and maintained so that the tree’s drip line at maturity is a minimum 30 feet (9144 mm) from any combustible structure.
+
+SECTION 4907 DEFENSIBLE SPACE
+
+4907.1 General.
+
+Hazardous vegetation and fuels shall be managed to reduce the severity of potential exterior wildfire exposure to buildings and to reduce the risk of fire spreading to buildings as required by applicable laws and regulations.
+
+Defensible space will be managed around all buildings and structures in State Responsibility Areas (SRA) as required in Public Resources Code 4291.
+
+4907.2 Application.
+
+Buildings and structures located in the following areas shall maintain the required hazardous vegetation and fuel management:
+
+1.All unincorporated lands designated by the State Board of Forestry and Fire Protection as a State Responsibility Area (SRA).
+
+2.Land designated as a Very High Fire Hazard Severity Zone by the Director.
+
+3.Land designated in ordinance by local agencies as a Very High Fire Hazard Severity Zone pursuant to Government Code Section 51179.
+
+4907.3 Requirements.
+
+Hazardous vegetation and fuels around all buildings and structures shall be maintained in accordance with the following laws and regulations:
+
+1.Public Resources Code, Section 4291.
+
+2.California Code of Regulations, Title 14, Division 1.5, Chapter 7, Subchapter 3, Article 3, Section 1299.03.
+
+3.California Government Code, Section 51182.
+
+4.California Code of Regulations, Title 19, Division 1, Chapter 7, Subchapter 1, Section 3.07.
+
+SECTION 4908 FIRE SAFE DEVELOPMENT REGULATIONS
+
+4908.1 General.
+
+Pursuant to PRC 4290 all residential, commercial and industrial building construction within state responsibility areas approved after January 1, 1991, and within lands classified and designated as an LRA Very High Fire Hazard Severity Zone, as defined in subdivision (i) of Section 51177 of the Government Code after July 1, 2021, shall comply with the SRA Fire Safe Development Regulations as specified in Title 14, Division 1.5, Chapter 7, Subchapter 2.
+
+4908.2 Subdivision map findings.
+
+Pursuant to Government Code (GC), Section 66474.02, before approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in an SRA or an LRA Very High Fire Hazard Severity Zone, as both are defined in GC Section 51177, a legislative body of a county, except as provided in GC Subsection 66474.02(c), shall make findings regarding compliance with the SRA Fire Safe Regulations and the availability of structural fire protection and suppression services. These findings and accompanying map shall be transmitted to the Board of Forestry and Fire Protection and comply with the requirements in Title 14, Division 1.5, Chapter 7, Subchapter 1, Article 1.
+
+SECTION 4909 SUBDIVISION REVIEW SURVEY
+
+4909.1 Subdivision identification.
+
+Pursuant to Public Resources Code Section 4290.5 and Title 14, Division 1.5, Chapter 7, Subchapter 1, Article 2, the Board, in consultation with the Office of the State Fire Marshal, shall survey local governments to identify existing subdivisions, as defined in Article 2, located in an SRA area or an LRA Very High Fire Hazard Severity Zone without a secondary egress route that is at significant fire risk.
+
+4909.2 Fire safety recommendations.
+
+The Board, in consultation with the Office of the State Fire Marshal and the local government that identified the subdivision, shall develop recommendations to improve the subdivision’s fire safety. The Board shall provide the final recommendations to the local government that identified the subdivision and to the residents of the subdivision.
+
+4909.3 Implementation.
+
+The Board shall maintain a list of the subdivisions identified and the status of the implementation of the recommendations provided.
+
+4909.4 Re-survey.
+
+Beginning July 1, 2021, the Board shall conduct this survey every 5 years.
+
+SECTION 4910 GENERAL PLAN SAFETY ELEMENT
+
+4910.1 General.
+
+Pursuant to Government Code Section 65302(g)(3), the safety element of a city or county’s General Plan shall be reviewed and updated as necessary to address the risk of fire for land classified as SRA, as defined in Section 4102 of the Public Resources Code, and land classified as an LRA Very High Fire Hazard Severity Zone, as defined in Section 51177.
+
+4910.2 Submission to the Board of Forestry and Fire Protection and local fire agencies.
+
+Pursuant to Government Code Section 65302.5(b)(1), the draft element of, or draf amendment to, the safety element of a county or a city’s general plan shall be submitted to the State Board of Forestry and Fire Protection and to every local agency that provides fire protection to territory in the city or county at least 90 days prior to either of the following: the adoption or amendment to the safety element of its general plan for each county that contains state responsibility areas; or the adoption or amendment to the safety element of its general plan for each city or county that contains a Very High Fire Hazard Severity Zone as defined pursuant to subdivision (i) of Section 51177.
+
+4910.3 Review by the Board of Forestry and Fire Protection and local fire agencies.
+
+The State Board of Forestry and Fire Protection shall, and a local agency may, review the draft or an existing safety element and recommend changes to the planning agency within 60 days of its receipt regarding the requirements in Government Code Section 65302.5(b)(2). The review by the Board of Forestry and Fire Protection is governed by Title 14, Division 1.5, Chapter 7, Article 6.
+
+4910.4 Adoption of the safety element.
+
+Prior to the adoption of its draft element or draft amendment, the board of supervisors of the county or the council of a city shall consider the recommendations, if any, made by the State Board of Forestry and Fire Protection and any local agency that provides fire protection to territory in the city or county. The board of supervisors or city council shall respond to the Board of Forestry and Fire Protection and any local agency providing fire protection in compliance with Government Code Section 65302.5(b)(3) and (b)(4) and Title 14, Division 1.5, Chapter 7, Article 6.
+

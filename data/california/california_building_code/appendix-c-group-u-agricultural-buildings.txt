@@ -1,0 +1,87 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE APPENDIX C – GROUP U – AGRICULTURAL BUILDINGS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							APPENDIX C GROUP U—AGRICULTURAL BUILDINGS
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Agricultural buildings are given special consideration in Appendix C. Often such buildings have unique uses and structural needs. Where an agricultural building is surrounded by 60 feet of open area on all sides, size limits are waived. Automatic sprinkler protection may be required.
+
+SECTION C101 GENERAL
+
+C101.1 Scope.
+
+The provisions of this appendix shall apply exclusively to agricultural buildings. Such buildings shall be classified as Group U and shall include the following uses:
+
+1.Livestock shelters or buildings, including shade structures and milking barns.
+
+2.Poultry buildings or shelters.
+
+3.Barns.
+
+4.Storage of equipment and machinery used exclusively in agriculture.
+
+5.Horticultural structures, including detached production greenhouses and crop protection shelters.
+
+6.Sheds.
+
+7.Grain silos.
+
+8.Stables.
+
+SECTION C102 ALLOWABLE HEIGHT AND AREA
+
+C102.1 General.
+
+Buildings classified as Group U Agricultural shall not exceed the area or height limits specified in Table C102.1.
+
+TABLE C102.1
+
+BASIC ALLOWABLE AREA FOR A GROUP U, ONE STORY IN HEIGHT AND MAXIMUM HEIGHT OF SUCH OCCUPANCY
+
+I	II	III and IV	V
+A	B	A	B	III A and IV	III B	A	B
+ALLOWABLE AREA (square feet)a
+Unlimited	60,000	27,100	18,000	27,100	18,000	21,100	12,000
+MAXIMUM HEIGHT IN STORIES
+Unlimited	12	4	2	4	2	3	2
+MAXIMUM HEIGHT IN FEET
+Unlimited	160	65	55	65	55	50	40For SI: 1 square foot = 0.0929 m2.
+
+a.See Section C102 for unlimited area under certain conditions.
+
+C102.2 One-story unlimited area.
+
+The area of a one-story Group U agricultural building shall not be limited if the building is surrounded and adjoined by public ways or yards not less than 60 feet (18 288 mm) in width.
+
+C102.3 Two-story unlimited area.
+
+The area of a two-story Group U agricultural building shall not be limited if the building is surrounded and adjoined by public ways or yards not less than 60 feet (18 288 mm) in width and is provided with an approved automatic sprinkler system throughout in accordance with Section 903.3.1.1.
+
+SECTION C103 MIXED OCCUPANCIES
+
+C103.1 Mixed occupancies.
+
+Mixed occupancies shall be protected in accordance with Section 508.
+
+SECTION C104 EXITS
+
+C104.1 Exit facilities.
+
+Exits shall be provided in accordance with Chapter 11A or 11B as applicable.
+
+Exceptions:
+
+1.The maximum travel distance from any point in the building to an approved exit shall not exceed 300 feet (91 440 mm).
+
+2.One exit is required for each 15,000 square feet (1393.5 m2) of area or fraction thereof.
+

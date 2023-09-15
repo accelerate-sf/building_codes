@@ -1,0 +1,856 @@
+Appendix I Installation Standards
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter										X	X	X	X	X	X								
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below	X			X	X			X	X														
+Chapter/Section																							
+IAPMO IS 26-2019																							
+lAPMO IS 31-2014	X			X	X			X	X														
+IAPMO IS 33-2019																							
+TCNA Handbook-2018																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+California Plumbing Code
+
+California Plumbing Code
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+1 Scope
+1.1 General
+1.2 Terminology
+2 Reference Publications
+ASTM D3261Standard Specification for Butt Heat Fusion Polyethylene (PE) Plastic Fittings for Polyethylene (PE) Plastic Pipe and Tubing
+ASTM F714Standard Specification for Polyethylene (PE) Plastic Pipe (DR-PR) Based on Outside Diameter
+ASTM F894Standard Specification for Polyethylene (PE) Large Diameter Profile Wall Sewer and Drain Pipe
+ASTM F1055Standard Specification for Electrofusion Type Polyethylene Fittings for Outside Diameter Controlled Polyethylene and Crosslinked Polyethylene (PEX) Pipe and Tubing
+ASTM F2620Standard Practice for Heat Fusion Joining of Polyethylene Pipe and Fittings
+
+3 Abbreviations
+PE	—	Polyethylene
+HDPE	—	High Density Polyethylene
+
+4 General
+4.1 Product Requirements
+4.2 HDPE Materials
+4.3 Protection of Pipe
+4.4 Joining Methods
+4.4.1 Butt-Fusion Joints [2021 UPC 705.5.1.1]
+4.4.2 Electro-Fusion Joints [2021 UPC 705.5.1.2]
+4.4.3 Socket-Fusion Joints [2021 UPC 705.5.1.3]
+4.5 Trenchless Installation of Sewers
+4.6 Cleanouts
+4.6.1 Plug
+NPS	SIZE OF CLEANOUT(inches)	THREADS PER INCH
+1.5	1.5	11.5
+2	1.5	11.5
+2.5	2.5	8
+3	2.5	8
+4 & larger	3.5	8
+
+4.6.2 Approved
+4.6.3 Watertight and Gastight
+5 Testing and Inspection Requirements
+5.1 Media
+5.2 Water Test
+5.3 Inspections
+Uniform Plumbing Code References
+105.2	Required Inspections
+105.2.2	Other Inspections
+105.3	Testing of Systems
+301.2	Minimum Standards
+309.0	Workmanship
+312.0	Protection of Piping, Materials, and Structures
+314.0	Trenching, Excavation, and Backfill
+701.3	Drainage Fittings
+705.5.1.1	Butt Fusion Joints
+705.5.1.2	Electro-Fusion Joints
+705.5.1.3	Socket-Fusion Joints
+723.0	Building Sewer Test
+
+ASTM D2239	Polyethylene (PE) Plastic Pipe (SIDR-PR) Based on Controlled Inside Diameter
+ASTM D2683	Socket-Type Polyethylene Fittings for Outside Diameter-Controlled Polyethylene Pipe and Tubing
+ASTM D3261	Butt Heat Fusion Polyethylene (PE) Plastic Fittings for Polyethylene (PE) Plastic Pipe and Tubing
+ASTM F714	Polyethylene (PE) Plastic Pipe (DR-PR) Based on Outside Diameter
+ASTM F894	Polyethylene (PE) Large Diameter Profile Wall Sewer and Drain Pipe
+ASTM F1055	Electrofusion Type Polyethylene Fittings for Outside Diameter Controlled Polyethylene and Crosslinked Polyethylene (PEX) Pipe and Tubing
+ASTM F2620	Heat Fusion Joining of Polyethylene Pipe and Fittings
+
+ASTM D2657	Heat Fusion Joining of Polyolefin Pipe and Fittings
+IAPMO PS 25	Metallic Fittings for Joining Polyethylene Pipe for Water Service and Yard Piping
+
+Installation Standard for PEX Tubing Systems for Hot- And Cold-Water Distribution
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+1.0 Scope
+1.1 General
+1.1.1
+1.1.2
+1.2 Terminology
+1.3 Amendments
+2.0 Reference Publications
+ASTM F876	Standard Specification for Crosslinked Polyethylene (PEX) Tubing
+ASTM F877	Standard Specification for Crosslinked Polyethylene (PEX) Hot- and Cold-Water Distribution Systems
+ASTM F1807	Standard Specification for Metal Insert Fittings Utilizing a Copper Crimp Ring for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethylene of Raised Temperature (PE-RT) Tubing
+ASTM F1960	Standard Specification for Cold Expansion Fittings with PEX Reinforcing Rings for Use with Cross-linked Polyethylene (PEX) Tubing
+ASTM F2080	Standard Specification for Cold-Expansion Fittings With Metal Compression-Sleeves for Cross-Linked Polyethylene (PEX) Pipe
+ASTM F2159	Standard Specification for Plastic Insert Fittings Utilizing a Copper Crimp Ring for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethylene of Raised Temperature (PE-RT) Tubing
+ASTM F2657	Standard Test Method for Outdoor Weathering Exposure of Crosslinked Polyethylene (PEX) Tubing
+AWWA C904	Cross-Linked Polyethylene (PEX) Pressure Tubing, 1/2 In. (12 mm) Through 3 In. (76 mm) for Water Service
+IAPMO/ANSI UPC-1	Uniform Plumbing Code
+PPI TR-3	Policies and Procedures for Developing Hydrostatic Design Basis (HDB), Pressure Design Basis (PDB), Strength Design Basis (SDB), and Minimum Required Strength (MRS) Ratings for Thermoplastic Tubing Materials or Tubing
+
+3.0 Abbreviations
+CTS	—	copper tube size
+HDPE	—	high density polyethylene
+IC	—	insulation contact
+NTS	—	nominal tubing size
+PEX	—	crosslinked polyethylene
+SDR	—	standard dimension ratio
+UV	—	ultraviolet light
+
+4.0 General
+4.1 Tubing
+4.1.1
+4.1.2
+4.1.3
+4.2 Fittings
+4.2.1 Cold-Expansion Fittings
+4.2.2 Crimp or Press Insert Fittings
+4.2.3 Compression Fittings
+4.3 Installation
+4.4 Tools
+4.5 Tubing Protection
+4.5.1 Abrasion
+4.5.2 Puncture
+5.0 Handling
+5.1 Receiving
+5.2 Storage and UV Exposure
+5.2.1
+5.2.2
+5.3 Exposure to Heat
+5.3.1
+5.3.2
+5.4 Exposure to Chemicals
+5.4.1
+5.4.2
+6.0 Thermal Expansion and Contraction
+6.1 Horizontal Tubing Runs
+6.2 Vertical Tubing Runs
+6.3 Clearance
+6.4 Expansion Arms and Expansion Loops
+6.4.1 Expansion Arms (See Figure 1)
+Note:
+LB	=	C   x   √(D   x   ΔL)
+where
+LB	=	length of flexible arm
+C	=	material constant (12 for PEX)
+D	=	nominal outside diameter of tubing
+ΔL	=	thermal expansion length
+
+LB
+
+=
+
+C   x   √(D   x   ΔL)
+
+where
+
+LB
+
+=
+
+length of flexible arm
+
+C
+
+=
+
+material constant (12 for PEX)
+
+D
+
+=
+
+nominal outside diameter of tubing
+
+ΔL
+
+=
+
+thermal expansion length
+
+6.4.1.1
+6.4.1.2
+LB	=	length of flexible arm
+C	=	material constant (12 for PEX)
+D	=	nominal outside diameter of tubing
+ΔL	=	thermal expansion length
+
+LB
+
+C
+
+D
+
+ΔL
+
+6.4.2 Expansion Loops (See Figure 2)
+LB shall be calculated as specified in Figure 2 and divided into three sections, as follows:
+
+
+  LB   =   L1 + (2 x L2)
+
+where
+
+
+L1   =   LB ÷ 5; and
+
+L2   =   L1 x 2.
+
+6.4.2.1
+6.4.2.2
+LB
+
+L1
+
+LB
+
+L2
+
+L1
+
+7.0 Hangers and Supports
+7.1 Vertical Tubing
+7.2 Horizontal Tubing
+7.3 Anchors
+8.0 Joints and Connections
+8.1 Assembly Procedure
+8.2 Concealed Joints
+9.0 Clearances
+9.1 Gas Vents
+9.2 Recessed Light Fixtures
+9.3 Fluorescent Lighting
+10.0 Other Considerations
+10.1 Hot-Work Joints
+10.2 Bending Radius
+10.2.1
+10.2.2
+10.3 Directional Fittings
+10.4 Direct Burial
+10.5 Fire-Resistive Construction
+10.6 Sizing and Flow Velocities
+10.6.1
+10.6.2
+10.6.3
+NOMINAL TUBINGSIZE	FLOW VELOCITY: 3.0 m/s (10 ft/s)	FLOW VELOCITY: 2.4 m/s (8 ft/s)
+FLOW VOLUME,L/min (gpm)	FLUSH TANKFIXTURE UNITS	FLUSH VALVEFIXTURE UNITS	FLOW, L/min (gpm)	FLUSH TANKFIXTURE UNITS	FLUSH VALVEFIXTURE UNITS
+1/2	20.8 (5.5)	6	—	16.7 (4.4)	4	—
+3/4	41.6 (11.0)	15	—	33.3 (8.8)	11	—
+1	68.9 (18.2)	26	—	55.3 (14.6)	20	—
+11/4	103.0 (27.2)	46	10	82.5 (21.8)	33	5
+11/2	143.5 (37.9)	77	24	114.7 (30.3)	54	13
+2	246.1 (65.0)	200	91	196.8 (52.0)	135	52
+3	533.0 (140.8)	590	495	426.2 (112.6)	443	310
+
+10.6.4
+NOMINAL TUBING SIZE	FLOW VELOCITY m/s (ft/s)	FLOW VOLUME L/min (gpm)	FRICTION LOSSES AT 49°C (120°F) kPa/m (psi/ft)
+1/2	0.6 (2)	4.2 (1.1)	0.4411 (0.0195)
+3/4	0.6 (2)	8.3 (2.2)	0.2850 (0.0126)
+1	0.6 (2)	13.6 (3.6)	0.2081 (0.0092)
+1 1/4	0.6 (2)	20.4 (5.4)	0.1629 (0.0072)
+1 1/2	0.6 (2)	28.4 (7.5)	0.1335 (0.0059)
+2	0.6 (2)	48.8 (12.9)	0.0950 (0.0042)
+
+10.7 Installation Testing
+Thrust Blocking for Rubber Gasketed and Solvent Cement Joints
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the
+adopting ordinance.
+
+1 Scope
+1.1 General
+1.1.1
+1.1.2
+1.2 Terminology
+1.3 Amendments
+2 Reference Publications
+IAPMO/ANSI UPC-1	Uniform Plumbing Code
+
+3 Abbreviations
+PVC	—	polyvinyl chloride
+
+4 General
+4.1 Thrust Blocking for Rubber Gasket Joints
+4.2 Sizing
+4.3 Flow Velocity
+4.4 Deflection
+4.5 Maximum Working Pressure
+MAXIMUM WORKING PRESSURE kPa (psi)	SIZES	PIPE	FITTINGS
+NPS	DN
+1103 kPa (160 psi)	1/2 to 8	15 to 200	SDR 26	Schedule 40
+Schedule 80
+1379 kPa (200 psi)	1/2 to 4	15 to 100	SDR 21	Schedule 40
+1/2 to 8	15 to 200	Schedule 80
+1724 kPa (250 psi)	1/2 to 3	15 to 80	SDR 17	Schedule 40
+1/2 to 8	15 to 200	Schedule 80
+2172 kPa (315 psi)	1/2 to 1-1/2	15 to 40	SDR 13.5	Schedule 40
+1/2 to 4	15 to 100	Schedule 80
+1103 kPa (160 psi)	5 to 8	125 to 200	Schedule 40	Schedule 40
+1517 kPa (220 psi)	2 to 4	50 to 100	Schedule 40	Schedule 40
+Schedule 80
+2206 kPa (320 psi)	1/2 to 1-1/2	15 to 40	Schedule 40	Schedule 40
+Schedule 80
+1103 kPa (160 psi)	5 to 8	125 to 200	Schedule 80	Schedule 40
+1517 kPa (220 psi)	2 to 4	50 to 100	Schedule 80	Schedule 40
+2206 kPa (320 psi)	1/2 to 1-1/2	15 to 40	Schedule 80	Schedule 40
+1724 kPa (250 psi)	5 to 8	125 to 200	Schedule 80	Schedule 80
+2206 kPa (320 psi)	1/2 to 4	15 to 100	Schedule 80	Schedule 80
+
+5 Thrust Blocking Sizing and Calculations
+5.1 Sizes
+5.2 Calculation Examples
+5.2.1 Thrust
+5.2.1.1 Example 1
+PIPE SIZE NPS	90°BENDS	45°BENDS	22-1/2°BENDS	DEAD ENDS AND TEES
+1-1/2	415	225	115	295
+2	645	350	180	455
+2-1/2	935	510	260	660
+3	1395	755	385	985
+3-1/2	1780	962	495	1260
+4	2,295	1245	635	1620
+5	3,500	1900	975	2,490
+6	4,950	2,710	1385	3,550
+8	8,300	4,500	2,290	5,860
+10	12,800	6,900	3,540	9,050
+12	18,100	9,800	5,000	12,800
+
+5.2.1.2 Example 2
+5.2.1.3 Example 3
+PIPE SIZE DN	90°BENDS	45°BENDS	22-1/2°BENDS	DEAD ENDS AND TEES
+40	1847	1000	515	1315
+50	2870	1560	800	2025
+65	4160	2270	1160	3940
+80	6210	3360	1715	4385
+90	7925	4280	2205	5610
+100	10,215	5540	2815	7210
+125	15,575	8455	4340	11,080
+150	22,030	12,060	6165	15,800
+200	36,935	20,025	10,190	26,080
+250	56,960	30,705	15,755	40,275
+300	80,545	43,610	22,250	56,960
+
+5.2.1.4 Example 4
+5.2.2 Thrust Block Bearing Area
+5.2.2.1 Example 5
+	Safe Bearing Load
+SOIL	lbs/ft2 (psf)	kN/m2 (kPa)
+Mulch, Peat, etc.	0	0
+Soft Clay	1000	48
+Sand	2000	96
+Sand and Gravel	3000	143
+Sand and Gravel Cement with Clay	4000	191
+Hard Shale	10,000	478
+
+5.2.2.2 Example 6
+5.2.2.3 Example 7
+5.2.2.4 Example 8
+6 Testing Requirements
+6.1 Rubber Gasketed Joints
+6.2 Solvent Cement Joints
+	DN 15 TO 32(NPS 1/2 TO 1-1/4)	DN 40 TO 80(NPS 1-1/2 TO 3)	DN 80 TO 200(NPS 3-1/2 TO 8)
+DN 15(NPS 1/2)	DN 32(NPS 1-1/2)	DN 40(NPS 1-1/2)	DN 80(NPS 1-1/2)	DN 90(NPS 3-1/2)	DN 200(NPS 8)
+TEMPERATURE RANGE DURING CURE PERIOD	UP TO 1240 kPa(180 PSI)	ABOVE 1240 TO 2549 kPa(180 TO 370 psi)	UP TO 1240 kPa(180 PSI)	ABOVE 1240 TO 2549 kPa(180 TO 370 psi)	UP TO 1240 kPa(180 PSI)	ABOVE 1240 TO 2549 kPa(180 TO 370 psi)
+60°F - 100°F(16°C-38°C)	1 h	6 h	2 h	12 h	6 h	24 h
+40°F-60°F(4°C-16°C)	2 h	12 h	4 h	24 h	12 h	48 h
+10°F-40°F(-12°C+4°C)	8 h	48 h	16 h	96 h	48 h	8 days
+*If gaps or loose fits are encountered in the system, double these cure times.
+
+7 Identification
+Uniform Plumbing Code References for Ductile Iron and PVC Pressure Building Supply and Exterior Cold-Water Piping
+Chapter 3	General Regulations
+309.0	Workmanship
+312.0	Protection of Piping, Materials, and Structures
+313.0	Hangers and Supports
+314.0	Trenching, Excavation, and Backfill
+
+Chapter 6	Water Supply and Distribution
+604.0	Materials (water piping)
+Table 604.1	Materials for Building Supply and WaterDistribution Piping and Fittings
+605.4	Ductile Iron Pipe and Joints
+605.12	PVC Plastic Pipe and Joints
+605.16.2	Plastic Pipe to Other Materials
+609.0	Installation, Testing, Unions, and Location
+
+IAPMO	International Association of Plumbing and Mechanical Officials
+UPC	Uniform Plumbing Code published by IAPMO
+AWWA	American Water Works Association
+CSA	Canadian Standards Association
+
+ASME B16.4	Gray Iron Threaded Fittings Classes 125 and 250
+ASTM D1785	Poly (Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120
+ASTM D2241	Poly (Vinyl Chloride) (PVC) Pressure-Rated Pipe (SDR Series)
+ASTM D2466	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 40
+ASTM D2467	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80
+ASTM F1970	Special Engineered Fittings, Appurtenances or Valves for use in Poly (Vinyl Chloride) (PVC) or Chlorinated Poly (Vinyl Chloride) (CPVC) Systems
+AWWA C110	Ductile Iron and Gray-Iron Fittings
+AWWA C111	Rubber-Gasket Joints for Ductile-Iron Pressure Pipe and Fittings
+AWWA C151	Ductile-Iron Pipe, Centrifugally Cast
+AWWA C153	Ductile-Iron Compact Fitting
+AWWA C900	Polyvinyl Chloride (PVC) Pressure Pipe and Fabricated Fittings, 4 in. through 12 in. (100 mm through 300 mm)
+AWWA C904	Crosslinked Polyethylene (PEX) Pressure Tubing, 1/2 in. through 3 In. (13 mm through 76 mm), for Water Service
+AWWA C907	Injection-Molded Polyvinyl Chloride (PVC) Pressure Fittings, 4 In, through 12 in (100 mm through 300 mm) for Water, Wastewater and Reclaimed Water Service
+IAPMO/ ANSI UPC-1	Uniform Plumbing Code
+
+TCNA Handbook-2018 for Ceramic, Glass, and Stone Tile Installation
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the
+adopting ordinance.
+
+B414-18
+For showers that do not have prefabricated receptors.
+
+For areas where wall flatness is critical, such as when tiles with any edge longer than 15" are specified.
+Res1, 2, 3, 5; Com1, 2, 3, 5.
+
+For Res4 and Com4, see SR614.
+
+For installations that may be exposed to staining, specify tile and grout suitable for exposure. Consult product manufacturers; see also "Product Selection Guides."
+
+For installations that may be exposed to mild chemical attack, specify epoxy grout and tile suitable for exposure.
+For greater resistance to chemical exposure, also specify an epoxy bonding material. Consult product manufacturers; see also "Product Selection Guides."
+Maximum mortar bed thickness (walls)—1" for metal studs, 11/2" for wood studs.
+
+Maximum stud spacing 16" on center.
+A waterproof membrane (A 118.10) or vapor retarder membrane (A 108.02-3.8) must be specified for walls to prevent moisture intrusion and protect adjacent building materials. Specifier shall indicate if complete waterproofing of walls is required, including treatment at termination points.
+
+If a waterproof membrane is applied over the mortar bed walls, membrane over framing members may not be required.
+
+Check with membrane manufacturer for suitability for applicable conditions, as not all membranes are suitable for steam, high-temperature and/or chemical exposure, or exterior use.
+
+When glass tile is used, consult glass tile manufacturer for membrane options and recommendations.
+Wood studs—dry and well-braced, minimum depth 31/2".
+
+Metal studs—well-braced; 20 gauge (0.033") or heavier; minimum depth 31/2" for residential applications or 35/8" for commercial applications.
+
+Mortar bed thickness—3/4" minimum to 1" maximum (metal studs) or 11/2" maximum (wood studs)
+
+Membrane behind mortar bed, when used, must lap over shower pan membrane.
+
+Slope shower pan membrane 1/4" per foot to weep holes in drain.
+
+Turn shower pan membrane up walls a minimum of 3" above shower curb (6" above floor in showers without curbs).
+
+Surround drain with pea gravel or other weep protection to prevent mortar from blocking weep holes.
+Multiple options exist for membranes, mortars, grouts, and other materials and must be clearly specified to be included. If not specifically indicated, optional materials are not included and mortar/grout choice defaults to minimum performance specification indicated. Consider each system component and intended use to determine minimum requirements and to specify options.
+
+Ceramic tile—ANSI A137.1.
+
+Glass tile, when used—ANSI A137.2; see also "Glass Tile Selection and Installation Guide," and consult tile manufacturer for environmental exposure classification recommendations. Not all glass tiles are suitable.
+
+Cementitious grout—ANSI A118.6 or better or ISO CG1 or better. When glass tile is used, specify grout designated by tile and grout manufacturers.
+
+Epoxy grout, when used—ANSI A118.3 or ISO RG.
+
+Cementitious bond coat—portland cement paste on a mortar bed that is still workable. For a cured mortar bed, follow recommendations below to select appropriate bonding mortar:
+
+• When a waterproof membrane is not used—ANSI A118.1 or better or ISO C1 or better.
+• When a waterproof membrane is used—ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+• When porcelain tile is used—ANSI A118.4 or better or ISO C2 or better.
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+• When a waterproof membrane is not used—ANSI A118.1 or better or ISO C1 or better.
+
+• When a waterproof membrane is used—ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+
+• When porcelain tile is used—ANSI A118.4 or better or ISO C2 or better.
+
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+Epoxy bond coat, when used—ANSI A118.3 or ISO R1 or better.
+
+• When glass tile is used, specify epoxy bond coat designated by tile and bond coat manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+• When glass tile is used, specify epoxy bond coat designated by tile and bond coat manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+Vapor retarder membrane, when used—ANSI A108.02-3.8.
+
+Waterproof membrane, when used—ANSI A118.10.
+
+Mortar bed, metal lath, and cleavage membrane—ANSI A108.1A.
+
+Flexible mildew-resistant sealant—ASTM C920.
+
+Shower pan membrane—local building code.
+
+Metal studs—ASTM C645.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+Wall framing shall meet the general framing requirements of ANSI A108.11-4.0—4.3.
+
+Apply blocking between the studs to support the shower pan membrane.
+Movement joints—mandatory according to EJ171.
+
+When glass tile is used, adhere to more frequent placement recommendations within the ranges listed in EJ171.
+Shower pan membrane—ANSI A108.01-3.6.
+
+Tile—ANSI A108.1A, .1B, or .1C. A108.1B required if waterproof membrane or epoxy bond coat to be used.
+
+Glass tile—ANSI A108.14,.15, .16, or manufacturer's directions.
+
+Cementitious grout—ANSI A108.10.
+
+Epoxy mortar/grout—ANSI A108.6.
+
+Waterproof membrane—ANSI A108.13.
+
+Movement Joints—EJ171 and ASTM C1193.
+Test shower pan membrane and drainage fitting for leaks before commencing tilework.
+
+Materials adversely affected by moisture in areas immediately adjacent to showers, tubs, and roman tubs should be properly protected.
+
+A sloped portland cement mortar fill or approved preformed slope may be used under shower pan membrane when subfloor is not sloped to drain.
+
+All horizontal surfaces, for example shower seats, sills, curbs, etc., must slope towards drain or other surface sloped toward drain. Where present, waterproofing also must be sloped.
+
+When glass tile is used, see "Glass Tile Selection and Installation Guide," and consult manufacturer for recommendations and requirements.
+
+For curbless shower receptor, see B421C and B422C.
+B417-18
+Waterproof membrane—slope membrane 1/4" per foot to weep holes in drain.
+
+Wood framing, when used, should be pressure treated and designed to resist deflection and movement.
+Test tank, membrane, and drainage fittings for leaks before starting tilework.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+Attach metal lath only above water line.
+
+Floor—follow F121.
+
+Walls—follow W221.
+Tile—ANSI A108.1 A.
+
+Grout—ANSI A108.10.
+
+Movement Joints—EJ171 and ASTM C1193.
+B421C-18
+For construction of a shower without a curb.
+Res1, 2, 3; Com1, 2
+
+May be suitable for Com3, Res5, and Com5 as determined by membrane and backing material manufacturers.
+
+For Res4 and Com4, see SR613 and SR614.
+
+For installations that may be exposed to staining, specify tile and grout suitable for exposure. Consult product manufacturers; see also "Product Selection Guides."
+
+For installations that may be exposed to mild chemical attack, specify epoxy grout and tile suitable for exposure. Consult product manufacturers; see also "Product Selection Guides."
+Facilitates construction of a curbless shower without adding floor height at restroom entryway, but does not inherently comply with Americans with Disabilities Act (ADA) Standards for Accessible Design. Follow ADA where ADA compliance is required or desired.
+
+Refer to appropriate wall method for applicable limitations based on type of backing used—W201, W202E, W2021, W211, W221, W222, W231/W241, W243, W244C, W244E, W244F, W245, W246, and W247.
+When glass tile is used, consult glass tile manufacturer for tile suitability over non-absorptive surface.
+
+Bonded waterproof membrane must be continuous, including at changes in plane. Follow membrane manufacturer's requirements for comers, seaming, and overlap.
+
+Waterproof membrane inside shower area must extend to full height of tile assembly. Also, the floor and wall waterproofing must continue outside the immediate shower area one foot beyond the high point of the floor, but not beyond the tiled area. Additional waterproofing of floor and/or walls outside the shower area may be needed to effectively contain and evacuate shower water and splash water and to protect building materials. When additional waterproofing of floor and/or walls outside the shower area is desired or required, the building design professional must specify all areas to be waterproofed and indicate membrane termination points.
+
+A secondary drain may be required outside the immediate shower area to facilitate evacuation of shower water and splash water that is not contained in the shower area due to curbless design. When required or desired, building design professional must specify type and location of secondary drain.
+
+High point of the floor must be outside the shower area, i.e., beyond shower door or curtain, to facilitate evacuation of shower water and splash water that is not contained in the shower area due to curbless design. Location of the high point of the floor is especially critical when secondary drain is not included outside the shower area.
+
+Surround drain with pea gravel or other weep protection to prevent mortar from blocking weep holes.
+
+Refer to appropriate wall method for applicable requirements based on type of backing used.
+
+Slope mortar bed 1/4" per foot toward drain and follow membrane manufacturer's instructions for connecting membrane to drain.
+Multiple options exist for membranes, mortars, grouts, and other materials and must be clearly specified to be included. If not specifically indicated, optional materials are not included and mortar/grout choice defaults to minimum performance specification indicated. Consider each system component and intended use to determine minimum requirements and to specify options.
+
+Ceramic tile—ANSI A137.1.
+
+Glass tile, when used—ANSI A137.2; see also "Glass Tile Selection and Installation Guide," and consult tile manufacturer for environmental exposure classification recommendations. Not all glass tiles are suitable.
+
+Cementitious grout—ANSI A118.6 or better or ISO CG1 or better. When glass tile is used, specify grout designated by tile and grout manufacturers.
+
+Epoxy grout, when used—ANSI A118.3 or ISO RG.
+
+Cementitious bond coat:
+
+• ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+• ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+Waterproof membrane—ANSI A118.10 and recommended by manufacturer of membrane for use over backing type in intended application.
+
+Flexible mildew-resistant sealant—ASTM C920.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+Depressed slab by others. Depressed area must extend beyond shower area to facilitate a finished floor installation that effectively evacuates shower water and splash water, which are often difficult to contain within a curbless shower.
+
+Refer to appropriate wall method for applicable preparations by other trades and backer board installers.
+
+Maximum allowable variation in the tile substrate—for tiles with all edges shorter than 15", maximum allowable variation is 1/4" in 10' from the required plane, with no more than 1/16" variation in 12" when measured from the high points in the surface. For tiles with at least one edge 15" in length, maximum allowable variation is 1/8" in 10' from the required plane, with no more than 1/16" variation in 24" when measured from the high points in the surface.
+
+Center backer board end or edge joints on framing and stagger joints in adjacent rows so four comers do not come together within the same plane. Space panel ends and edges in accordance with manufacturer's recommendations.
+Movement joints—mandatory according to EJ171.
+
+When glass tile is used, adhere to more frequent placement recommendations within the ranges listed in EJ171.
+Waterproof membrane—ANSI A108.13.
+
+Tile—ANSI A108.5.
+
+Glass tile—manufacturer's directions.
+
+Cementitious grout—ANSI A108.10.
+
+Epoxy grout—ANSI A108.6.
+
+Movement Joints—EJ171 and ASTM C1193.
+Test shower pan membrane/waterproof membrane and drainage fitting for leaks before commencing tilework.
+
+Materials adversely affected by moisture in areas immediately adjacent to showers, tubs, and roman tubs should be properly protected.
+
+All horizontal surfaces, for example shower seats, sills, curbs, etc., must slope towards drain or other surface sloped toward drain. Where present, waterproofing also must be sloped.
+
+When glass tile is used, see "Glass Tile Selection and Installation Guide," and consult manufacturer for recommendations and requirements.
+
+Follow applicable plumbing and building codes.
+B422C-18
+For construction of a shower without a curb.
+Res1, 2, 3; Com1, 2
+
+May be suitable for Com3, Res5, and Com5 as determined by membrane and backing material manufacturers.
+
+For Res4 and Com4, see SR613 and SR614.
+
+For installations that may be exposed to staining, specify tile and grout suitable for exposure. Consult product manufacturers; see also "Product Selection Guides."
+
+For installations that may be exposed to mild chemical attack, specify epoxy grout and tile suitable for exposure. Consult product manufacturers; see also "Product Selection Guides."
+Facilitates construction of a curbless shower without adding floor height at restroom entryway, but does not inherently comply with Americans with Disabilities Act (ADA) Standards for Accessible Design. Follow ADA where ADA compliance is required or desired.
+
+Refer to appropriate wall method for applicable limitations based on type of backing used—W201, W202E, W2021, W211, W221, W222, W231/W241, W243, W244C, W244E, W244F, W245, W246, and W247.
+When glass tile is used, consult glass tile manufacturer for tile suitability over non-absorptive surface.
+
+Bonded waterproof membrane must be continuous, including at changes in plane. Follow membrane manufacturer's requirements for comers, seaming, and overlap.
+
+Waterproof membrane inside shower area must extend to full height of tile assembly. Also, the floor and wall waterproofing must continue outside the immediate shower area one foot beyond the high point of the floor, but not beyond the tiled area. Additional waterproofing of floor and/or walls outside the shower area may be needed to effectively contain and evacuate shower water and splash water and to protect building materials. When additional waterproofing of floor and/or walls outside the shower area is desired or required, the building design professional must specify all areas to be waterproofed and indicate membrane termination points.
+
+A secondary drain may be required outside the immediate shower area to facilitate evacuation of shower water and splash water that is not contained in the shower area due to curbless design. When required or desired, building design professional must specify type and location of secondary drain.
+
+High point of the floor must be outside the shower area, i.e., beyond shower door or curtain, to facilitate evacuation of shower water and splash water that is not contained in the shower area due to curbless design. Location of the high point of the floor is especially critical when secondary drain is not included outside the shower area.
+
+Refer to appropriate wall method for applicable requirements based on type of backing used.
+
+Slope mortar bed 1/4" per foot toward drain and follow membrane and integrated bonding flange manufacturer's instructions for connecting membrane to integrated bonding flange.
+Multiple options exist for membranes, mortars, grouts, and other materials and must be clearly specified to be included. If not specifically indicated, optional materials are not included and mortar/grout choice defaults to minimum performance specification indicated. Consider each system component and intended use to determine minimum requirements and to specify options.
+
+Ceramic tile—ANSI A137.1.
+
+Glass tile, when used—ANSI A137.2; see also "Glass Tile Selection and Installation Guide," and consult tile manufacturer for environmental exposure classification recommendations. Not all glass tiles are suitable.
+
+Cementitious grout—ANSI A118.6 or better or ISO CG1 or better. When glass tile is used, specify grout designated by tile and grout manufacturers.
+
+Epoxy grout, when used—ANSI A118.3 or ISO RG.
+
+Cementitious bond coat:
+
+• ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+• ANSI A118.4 or better or ISO C2S1 or better unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+
+• When glass tile is used, specify mortar designated by tile and mortar manufacturers. Bond coat color will impact the final appearance of translucent glass tile. Specifier shall confirm bond coat color is acceptable.
+
+Waterproof membrane—ANSI A118.10 and recommended by manufacturer of membrane for use over backing type in intended application.
+
+Flexible mildew-resistant sealant—ASTM C920.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+Depressed slab by others. Depressed area must extend beyond shower area to facilitate a finished floor installation that effectively evacuates shower water and splash water, which are often difficult to contain within a curbless shower.
+
+Refer to appropriate wall method for applicable preparations by other trades and backer board installers.
+
+Maximum allowable variation in the tile substrate—for tiles with all edges shorter than 15", maximum allowable variation is 1/4 in 10' from the required plane, with no more than 1/16" variation in 12" when measured from the high points in the surface. For tiles with at least one edge 15" in length, maximum allowable variation is 1/8" in 10' from the required plane, with no more than 1/16" variation in 24" when measured from the high points in the surface.
+
+Center backer board end or edge joints on framing and stagger joints in adjacent rows so four corners do not come together within the same plane. Space panel ends and edges in accordance with manufacturer's recommendations.
+Movement joints—mandatory according to EJ171.
+
+When glass tile is used, adhere to more frequent placement recommendations within the ranges listed in EJ171.
+Waterproof membrane—ANSI A108.13.
+
+Tile—ANSI A108.5.
+
+Glass tile—manufacturer's directions.
+
+Cementitious grout—ANSI A108.10.
+
+Epoxy grout—ANSI A108.6.
+
+Movement Joints—EJ171 and ASTM C1193.
+Test shower pan membrane/waterproof membrane and drainage fitting for leaks before commencing tilework.
+
+Materials adversely affected by moisture in areas immediately adjacent to showers, tubs, and roman tubs should be properly protected.
+
+All horizontal surfaces, for example shower seats, sills, curbs, etc., must slope towards drain or other surface sloped toward drain. Where present, waterproofing also must be sloped.
+
+When glass tile is used, see "Glass Tile Selection and Installation Guide," and consult manufacturer for recommendations and requirements.
+
+Follow applicable plumbing and building codes.
+SR614-18
+For steam showers and steam rooms framed with wood or metal studs. Specify mortar bed walls option when wall flatness is critical, such as when tiles with any edge longer than 15" are specified.
+Res4.
+
+For installations that may be exposed to staining, specify tile and grout suitable for exposure. Consult product manufacturers; see also Notes and "Product Selection Guides."
+Duration of use as a steam shower or steam room as determined by membrane and cement backer board (when used) manufacturers; lower membrane water vapor permeance decreases water vapor transmission.
+
+Maximum stud spacing 16" on center.
+Steam rooms are highly specialized applications. Design and installation are critical to avoid damage to adjoining materials from vapor migration. Design criteria must include consideration of necessary insulation and temperature and humidity differential.
+
+Use a tile contractor knowledgeable in steam applications and experienced with the materials specified.
+
+Bonded waterproof membrane (sheet, liquid, and trowel-on) must be continuous and must adequately limit vapor transmission into adjacent spaces and building materials, according to intended duration of use as a steam shower.
+
+Steam showers designed for continuous use applications should specify a low perm waterproof membrane (a waterproof membrane meeting ANSI A118.10 and with a water vapor permeance rating of 0.5 perms or less when tested per ASTM E96 Procedure E, tested at 90% relative humidity). When a waterproof membrane with a water vapor permeance rating greater than 0.5 perms is specified, a vapor retarder behind the wall assembly is required, and vapor retarder must have a water vapor permeance rating of 0.1 perm or less when tested per ASTM E96 Procedure A, tested at 50% relative humidity. Consult waterproof membrane manufacturer for water vapor permeance rating and vapor retarder requirements.
+
+Specifier shall indicate how waterproofing and vapor retarding is to be achieved, including details for membrane penetrations such as penetrations for plumbing, lighting fixtures, fasteners, etc. Specifier shall also indicate where and how to waterproof curbs and jambs and where membrane terminates. Area outside steam shower door is a wet area and should be treated accordingly.
+
+Check with membrane manufacturer for suitability for applicable conditions, as not all membranes are suitable for steam, high temperature and/or chemical exposure.
+
+Some waterproof membrane manufacturers require use of a vapor retarder membrane in addition to the waterproof membrane. Consult membrane manufacturer for requirements. When used, vapor retarder membrane must weather lap itself and lap into the shower pan membrane.
+
+If vapor retarder membrane is required, integrated bonding flange cannot be used.
+
+Follow waterproof membrane manufacturers' directions for interface between drain and membrane(s).
+
+Design professional to specify adequate insulation on walls and ceilings to reduce condensation. Consult insulation manufacturer for application suitability.
+
+Seal all membrane penetrations with appropriate sealant according to membrane manufacturer's requirements.
+
+Specify slip joints at change in plane, such as where walls and ceiling meet.
+
+Slope ceiling minimum 2" per foot to avoid condensate dripping onto occupants; sloping ceiling from center can minimize rundown on walls.
+
+When mortar bed walls, studs must provide firm anchorage for metal lath.
+
+When mortar bed walls, mortar bed wall thickness—3/4" minimum to 11/2" maximum.
+
+When mortar bed walls, cut lath at all slip joints.
+
+Slope shower pan membrane minimum 1/4" per foot to weep holes in drain.
+
+Turn shower pan membrane up walls a minimum of 3" above shower curb (6" above floor in showers without curbs).
+
+Surround drain with pea gravel or other weep protection to prevent mortar from blocking weep holes. (Does not apply if integrated bonding flange is used.)
+
+Wood studs, when used—dry and well braced, minimum depth 31/2".
+
+Metals studs, when used—well-braced; 20 gauge (0.033") or heavier; minimum depth 31/2" for residential applications or 35/8" for commercial applications.
+Maximum allowable variation in the tile substrate—for tiles with all edges shorter than 15", maximum allowable variation is 1/4" in 10' from the required plane, with no more than 1/16" variation in 12" when measured from the high points in the surface. For tiles with at least one edge 15" in length, maximum allowable variation is 1/4" in 10' from the required plane, with no more than 1/16" variation in 24" when measured from the high points in the surface.
+
+Horizontal joints—1/8" spacing filled solid and taped with latex-portland cement mortar and 2" alkali-resistant glass fiber mesh tape.
+
+Vertical joints—fill any space and tape with latex-portland cement mortar and 2" alkali-resistant glass fiber mesh tape.
+
+Corners—leave space between backer units. Tape joints using skim coat of latex-portland cement mortar, but do not fill.
+
+Center backer board end or edge joints on framing and stagger joints in adjacent rows so four corners do not come together within the same plane. Space panel ends and edges in accordance with manufacturer's recommendations.
+Multiple options exist for membranes, mortars, grouts, and other materials and must be clearly specified to be included. If not specifically indicated, optional materials are not included and mortar/grout choice defaults to minimum performance specification indicated. Consider each system component and intended use to determine minimum requirements and to specify options.
+
+Ceramic tile—ANSI A137.1 and recommended by manufacturer for use in steam showers.
+
+Cementitious grout—ANSI A118.6 or better or ISO CG1 or better.
+
+Epoxy grout, when used—ANSI A118.3 or ISO RG.
+
+Cementitious bond coat:
+
+• ANSI A118.15 or better or ISO C2S1 or better, unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+
+• ANSI A118.15 or better or ISO C2S1 or better, unless ANSI A118.1 or ISO C1 is recommended by membrane manufacturer.
+
+Cement backer board, when used—ANSI A118.9 or ASTM C1325 (Type A).
+
+Fasteners—noncorrosive and nonoxidizing.
+
+Hot dipped fasteners meeting ASTM F2329-05 required in wet areas.
+
+2" alkali-resistant glass fiber mesh tape.
+
+Waterproof membrane—ANSI A118.10 and recommended by membrane manufacturer for use in specific application. For continuous use applications, see Requirements for water vapor permeance.
+
+Vapor retarder membrane, when used—recommended by manufacturer for use in specific application.
+
+Metal studs, when used—ASTM C645.
+
+Shower pan membrane—ANSI A118.10, ASTM D4068, or D4551 and meeting applicable building code.
+
+Mortar bed and reinforcing—ANSI A108.1A.
+
+Flexible mildew-resistant sealant—ASTM C920 and recommended by manufacturer for use in steam showers.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+Wall framing shall meet the general framing requirements of ANSI A108.11-4.0-4.3.
+Movement joints—mandatory according to EJ171.
+
+Slip joints at changes in plane, such as where walls and ceiling meet.
+Shower pan membrane—ANSI A108.01-3.6.
+
+Mortar bed and reinforcing—ANSI A108.1A, .1B, and .1C.
+
+Tile—ANSI A108.5.
+
+Cementitious grout—A108.10.
+
+Epoxy grout—A108.6.
+
+Waterproof membrane and slip joint—ANSI A108.13 and membrane manufacturer's slip joint directions.
+
+Movement Joints—EJ171 and ASTM C1193.
+Use of softened water in steam showers and steam rooms helps reduce grout and tile staining due to iron and/or hard water. Such stains may require harsh chemicals for removal. Select products suitable for water type and maintenance practices that will be used.
+
+Standard grouts will need to be periodically maintained over the life of the steam shower.
+
+Steam unit design must take into consideration the affect of Moisture Vapor Transmission (MVT) on opposite side of steam unit walls. MVT can cause efflorescence and can affect paints and other adhered finishes.
+TR418-18
+For use where old shower pan has failed.
+Remove existing shower receptor, shower pan, and wall tile, as required, to install new shower pan.
+
+Replace any damaged wall and floor substrate materials.
+
+New shower pan—slope 1/4" per foot to weep holes in drain.
+
+New shower pan to turn up wall a minimum of 3" above curb (6" above floor in showers without curbs).
+
+New wall membrane/flashing (ANSI A108.02-3.8) placed behind existing wall membrane, out over new shower pan, and fastened to studs.
+
+Place continuous bead of sealant on existing wall mortar with new wall mortar brought up tight against it.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials.
+See B414 for complete specifications.
+TR420-18
+For use where old shower pan has failed.
+Remove existing shower receptor, shower pan, and wall tile, as required, to install new shower pan.
+
+Replace any damaged wall and floor substrate materials.
+
+New shower pan—slope 1/4" per foot to weep holes in drain.
+
+New shower pan to turn up wall a minimum of 3" above curb (6" above floor in showers without curbs).
+
+New wall membrane/flashing (ANSI A108.02-3.8) placed behind existing wall membrane, out over new shower pan, and fastened to studs.
+
+Place continuous bead of sealant on existing wall substrate material with new wall substrate material brought up tight against it.
+See "Green Building Standards and Green Product Selection Guide" and consult manufacturers and suppliers for product sustainability and contribution to green building design.
+
+Consider specifying tile and installation materials that meet ANSI A138.1, the American National Standard Specifications for Sustainable Ceramic Tiles, Glass Tiles, and Tile Installation Materials
+See B415, B420, B426, or B431 for complete specifications based on wall backing type.

@@ -1,0 +1,760 @@
+APPENDIX 1-A STANDARDS AND DOCUMENTS REFERENCED IN THE ENERGY CODE
+
+The following documents are incorporated by reference to the extent they are referenced in the Energy Code.
+
+AIR-CONDITIONING, HEATING AND REFRIGERATION INSTITUTE
+
+AHRI 210/240-2017
+
+Performance Rating of Unitary Air Conditioning and Air-Source Heat Pump Equipment (2017 with Addendum 1)
+
+AHRI 310/380-2017
+
+Packaged Terminal Air-Conditioners and Heat Pumps (2017)
+
+AHRI 340/360 (I-P)-2019
+
+Performance Rating of Commercial and Industrial Unitary Air-Conditioning and Heat Pump Equipment (2019)
+
+ANSI/AHRI 365 (I-P)-2009
+
+Performance Rating of Commercial and Industrial Unitary Air-Conditioning Condensing Units (2009)
+
+ANSI/AHRI 390-2003
+
+Performance Rating of Single Package Vertical Air Conditioners and Heat Pumps (2003)
+
+ANSI/AHRI 400 (I-P)-2015
+
+Performance Rating of Liquid to Liquid Heat Exchangers (2015)
+
+AHRI 430 (I-P)-2020
+
+Performance Rating of Central Station Air-handling Unit Supply Fans (2020)
+
+AHRI 440 (I-P)-2019
+
+Performance Rating of Fan-coil Units (2019)
+
+ANSI/AHRI 460-2005
+
+Performance Rating of Remote Mechanical-Draft Air-Cooled Refrigerant Condensers (2005)
+
+AHRI 550/590 (I-P)-2020
+
+Performance Rating of Water-Chilling and Heat Pump Water-heating Packages Using the Vapor Compression Cycle (2020)
+
+AHRI 560-2000
+
+Absorption Water Chilling and Water Heating Packages (2000)
+
+AHRI 680 (I-P)-2017
+
+Performance Rating of Residential Air Filter Equipment (2017)
+
+AHRI 920 (I-P)-2020
+
+Performance Rating of Direct Expansion-Dedicated Outdoor Air System Units (2020)
+
+AHRI 1060 (I-P)-2018
+
+Performance Rating of Air-to-Air Exchangers for Energy Recovery Ventilation Equipment (2018)
+
+AHRI 1230-2014
+
+Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment (w/Addendum 1)
+
+AHRI 1360 (I-P)-2017
+
+Performance Rating of Computer and Data Processing Room Air Conditioners (2017)
+
+Available from:
+
+Air-Conditioning, Heating and Refrigeration Institute 2311 Wilson Blvd., Suite 400 Arlington, VA 22203 (703) 524-8800
+
+AIR-CONDITIONING CONTRACTORS OF AMERICA
+
+ANSI/ACCA 2 Manual J-2016
+
+Manual J—Residential Load Calculation, Eighth Edition (2016)
+
+Available from:
+
+Air-Conditioning Contractors of America, Inc. 2800 Shirlington Road, Suite 300 Arlington, VA 22206 www.acca.org (703) 575-4477
+
+AMERICAN ARCHITECTURAL MANUFACTURERS ASSOCIATION
+
+CANADIAN STANDARDS ASSOCIATION
+
+WINDOW AND DOOR MANUFACTURERS ASSOCIATION
+
+AAMA/WDMA/CSA 101/I.S.2/A440-17
+
+North American Fenestration Standard/Specification for Windows, Doors, and Skylights (2017)
+
+Available from:
+
+AAMA 1827 Walden Office Square, Suite 550 Schaumburg, IL 60173-4268 (847) 303-5664 www.aamanet.org
+
+
+
+CSA 5060 Spectrum Way, Suite 100 Mississauga, ON, Canada L4W 5N6 (800) 463-6727 www.csagroup.org
+
+
+
+WDMA 2025 M Street, NW, Suite 800 Washington, DC 20036-3309 (202) 367-1157 www.wdma.com
+
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENISTS
+
+2021 TLVs and BEIs
+
+Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices
+
+Available from:
+
+ACGIH 1330 Kemper Meadow Drive Cincinnati, Ohio 45240 (513) 742-2020 www.acgih.org
+
+AMERICAN NATIONAL STANDARDS INSTITUTE
+
+ANSI/AMCA 208-18
+
+Calculation of the Fan Energy Index (2018)
+
+ANSI/AMCA 210-16
+
+Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating (2016)
+
+ANSI/AMCA 500-D-18
+
+Laboratory Methods Of Testing Dampers For Rating (2018)
+
+ANSI/ASABE S640 JUL2017
+
+Quantities and Units of Electromagnetic Radiation for Plants (Photosynthetic Organisms)
+
+ANSI/ASSP Z9.5-2012
+
+Laboratory Ventilation (2012)
+
+ANSI/CTA-2045-B2021
+
+Modular Communications Interface for Energy Management (2018)
+
+ANSI C82.6-2015 (R2020)
+
+American National Standard for Lamp Ballasts—Ballasts for High-Intensity Discharge Lamps—Methods of Measurement (2020)
+
+ANSI/NEMA WD 6-2016
+
+American National Standard for Wiring Devices—Dimensional Specifications (2016)
+
+ANSI Z21.40.4a-1998
+
+(R2017)/CGA 2.94a-M98 (R2017) Performance Testing and Rating of Gas-Fired, Air-Conditioning and Heat Pump Appliances (2017)
+
+ANSI Z21.47-2021/CSA 2.3:21
+
+Gas-Fired Central Furnaces (2021)
+
+ANSI Z83.8-2016/CSA 2.6-2016 (R2021)
+
+Gas Unit Heaters, Gas Packaged Heaters, Gas Utility Heaters and Gas-Fired Duct Furnaces (2016)
+
+Available from:
+
+American National Standards Institute 25 West 43rd Street, 4th floor New York, NY 10036 (212) 642-4900
+
+ANSI/APSP/ICC-5-2011
+
+American National Standard For Residential Inground Swimming Pools (2011 w/Addendum A)
+
+Available from:
+
+Association of Pool & Spa Professionals 2111 Eisenhower Ave. Alexandria, VA 22314 (703) 838-0083
+
+AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (NATIONAL PUBLICATIONS)
+
+ANSI/ASHRAE Standard 52.2-2017
+
+Method of Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size (2017)
+
+ANSI/ASHRAE Standard 55-2020
+
+Thermal Environment Conditions for Human Occupancy (2020)
+
+ANSI/ASHRAE Standard 62.1-2019
+
+Ventilation for Acceptable Indoor Air Quality (2019)
+
+ANSI/ASHRAE Standard 62.2-2019
+
+Ventilation and Acceptable Indoor Air Quality in Residential Buildings (2019)
+
+ANSI/ASHRAE Standard 84-2020
+
+Method of Testing Air-to-Air Heat/Energy Exchangers (2020)
+
+ANSI/ASHRAE/IES Standards 90.1-2019
+
+Energy Standards for Buildings Except Low-Rise Residential Buildings (2019)
+
+ANSI/ASHRAE Standard 154-2016
+
+Ventilation for Commercial Cooking Operations (2016)
+
+ANSI/ASHRAE 193-2010 (RA2014)
+
+Method of Test for Determining the Airtightness of HVAC Equipment (RA2014)
+
+ASHRAE Handbooks
+
+HVAC Applications (I-P) (2019)
+
+HVAC Systems and Equipment (I-P) (2020)
+
+Fundamentals (I-P) (2017)
+
+Available from:
+
+American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) 1791 Tullie Circle N.E. Atlanta, GA 30329 www.ashrae.org
+
+AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR-CONDITIONING ENGINEERS (REGIONAL PUBLICATION)
+
+ASHRAE Climatic Data for Region X Arizona, California, Hawaii, Nevada, Publication SPCDX, 1982, ISBN #20002196 and Supplement, 1994, ISBN #20002596
+
+Available from:
+
+Order Desk Building News 10801 National Boulevard Los Angeles, CA 90064 (800) 873-6397 or (310) 474-7771 www.bnibooks.com/
+
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS
+
+ASME A17.1-2019/CSA B44:19
+
+Safety Code for Elevators and Escalators (2019)
+
+ASME A112.18.1-2018/CSA B125.1-18
+
+Plumbing Supply Fittings
+
+Available from:
+
+ASME Two Park Avenue New York, NY 10016-5990 (800) 843-2763 http://www.asme.org/
+
+ASSOCIATION OF HOME APPLIANCE MANUFACTURERS
+
+AHAM HRH-2-2020
+
+Residential Kitchen Range Hood Performance Test Procedures (2020)
+
+AHAM RKRH-CPPG-2020
+
+Residential Kitchen Range Hood Certification Program Procedural Guide (2020) Version 3.0
+
+Available from:
+
+Association of Home Appliance Manufacturers 1111 19th Street, NW, Suite 402 Washington, DC 20036 (202) 872-5955 www.aham.org
+
+AMERICAN SOCIETY FOR TESTING AND MATERIALS/ASTM INTERNATIONAL
+
+ASTM C55-17
+
+Standard Specification for Concrete Building Brick (2017)
+
+ASTM C177-19
+
+Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded Hot Plate Apparatus (2019)
+
+ASTM C272/C272M-18
+
+Standard Test Method for Water Absorption of Core Materials for Sandwich Constructions (2018)
+
+ASTM C335/C335M-17
+
+Standard Test Method for Steady-State Heat Transfer Properties of Horizontal Pipe Insulation (2017)
+
+ASTM C518-17
+
+Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus (2017)
+
+ASTM C731-15
+
+Standard Test Method for Extrudability, After Package Aging, of Latex Sealants (2015)
+
+ASTM C732-17
+
+Standard Test Method for Aging Effects of Artificial Weathering on Latex Sealants (2017)
+
+ASTM C836/C836M-18
+
+Standard Specification for High Solids Content, Cold Liquid-Applied Elastomeric Waterproofing Membrane for Use with Separate Wearing Course (2018)
+
+ASTM C1167-11 (2017)
+
+Standard Specification for Clay Roof Tiles (2017)
+
+ASTM C1371-15
+
+Standard Test Method for Determination of Emittance of Materials Near Room Temperature Using Portable Emissometers (2015)
+
+ASTM C1492-03 (2016)
+
+Standard Specification for Concrete Roof Tile (2016)
+
+ASTM C1549-16
+
+Standard Test Method for Determination of Solar Reflectance Near Ambient Temperature Using a Portable Solar Reflectometer (2016)
+
+ASTM C1583/C1583M-20
+
+Standard Test Method for Tensile Strength of Concrete Surfaces and the Bond Strength or Tensile Strength of Concrete Repair and Overlay Materials by Direct Tension (Pull-off Method) (2020)
+
+ASTM D448-12 (2017)
+
+Standard Classification for Sizes of Aggregate for Road and Bridge Construction (2017)
+
+ASTM D522/D522M-17
+
+Standard Test Methods for Mandrel Bend Test of Attached Organic Coatings (2017)
+
+ASTM D822/D822M-13 (2018)
+
+Standard Practice for Filtered Open-Flame Carbon-Arc Exposures of Paint and Related Coatings (2018)
+
+ASTM D1003-21
+
+Standard Test Method for Haze and Luminous Transmittance of Transparent Plastics (2021)
+
+ASTM D1653-21
+
+Standard Test Methods for Water Vapor Transmission of Organic Coating Films (2021)
+
+ASTM D1863/D1863M-05 (2018)
+
+Standard Specification for Mineral Aggregate Used on Built-Up Roofs (2018)
+
+ASTM D2202-00 (2019)
+
+Standard Test Method for Slump of Sealants (2019)
+
+ASTM D2370-16
+
+Standard Test Method for Tensile Properties of Organic Coatings (2016)
+
+ASTM D2824/D2824M-18
+
+Standard Specification for Aluminum-Pigmented Asphalt Roof Coatings, Nonfibered and Fibered without Asbestos (2018)
+
+ASTM D3468/D3468M-99 (2020)
+
+Standard Specification for Liquid-Applied Neoprene and Chlorosulfonated Polyethylene Used in Roofing and Waterproofing (2020)
+
+ASTM D3805/D3805M-16
+
+Standard Guide for Application of Aluminum-Pigmented Asphalt Roof Coatings (2016)
+
+ASTM D4798/D4798M-11 (2021)
+
+Standard Practice for Accelerated Weathering Test Conditions and Procedures for Bituminous Materials (Xenon-Arc Method) (2021)
+
+ASTM D5870-16
+
+Standard Practice for Calculating Property Retention Index of Plastics (2016)
+
+ASTM D6083/D6083M-21
+
+Standard Specification for Liquid-Applied Acrylic Coating Used in Roofing (2021)
+
+ASTM D6694/D6694M-15
+
+Standard Specification for Liquid-Applied Silicone Coating Used in Spray Polyurethane Foam Roofing Systems (2015)
+
+ASTM E96/E96M-16
+
+Standard Test Methods for Water Vapor Transmission of Materials (2016)
+
+ASTM E283/E283M-19
+
+Standard Test Method for Determining the Rate of Air Leakage Through Exterior Windows, Skylights, Curtain Walls, and Doors Under Specified Pressure Differences Across the Specimen (2019)
+
+ASTM E408-13 (2019)
+
+Standard Test Methods for Total Normal Emittance of Surfaces Using Inspection-Meter Techniques (2019)
+
+ASTM E779-19
+
+Standard Test Method for Determining Air Leakage Rate by Fan Pressurization (2019)
+
+ASTM E903-20
+
+Standard Test Method for Solar Absorptance, Reflectance, and Transmittance of Materials Using Integrating Spheres (2020)
+
+ASTM E972-96 (2021)
+
+Standard Test Method for Solar Photometric Transmittance of Sheet Materials Using Sunlight (2021)
+
+ASTM E1175-87 (2015)
+
+Standard Test Method for Determining Solar or Photopic Reflectance, Transmittance, and Absorptance of Materials Using a Large Diameter Integrating Sphere (2015)
+
+ASTM E1677-19
+
+Standard Specification for Air Barrier (AB) Material or Assemblies for Low-Rise Framed Building Walls (2019)
+
+ASTM E1680-16
+
+Standard Test Method for Rate of Air Leakage through Exterior Metal Roof Panel Systems (2016)
+
+ASTM E1918-16
+
+Standard Test Method for Measuring Solar Reflectance of Horizontal and Low-Sloped Surfaces in the Field (2016)
+
+ASTM E1980-11 (2019)
+
+Standard Practice for Calculating Solar Reflectance Index of Horizontal and Low-Sloped Opaque Surfaces (2019)
+
+ASTM E2178-21
+
+Standard Test Method for Determining Air Leakage Rate and Calculation of Air Permeance of Building Materials (2021)
+
+ASTM E2357-18
+
+Standard Test Method for Determining Air Leakage Rate of Air Barrier Assemblies (2018)
+
+ASTM E3087-18
+
+Standard Test Method for Measuring Capture Efficiency of Domestic Range Hoods (2018)
+
+Available from:
+
+ASTM International 100 Barr Harbor Drive West Conshohocken, PA 19428-2959 (800) 262-1373 or (610) 832-9500
+
+ASSOCIATION OF HOME APPLIANCE MANUFACTURERS
+
+AHAM HRH-2-2020
+
+Residential Kitchen Range Hood Performance Test Procedures (2020)
+
+AHAM RKRH-CPPG-2020
+
+Residential Kitchen Range Hood Certification Program Procedural Guide (2020) Version 3.0
+
+Available from:
+
+Association of Home Appliance Manufacturers 1111 19th Street, NW, Suite 402 Washington, DC 20036 (202) 872-5955 www.aham.org
+
+CALIFORNIA HISTORICAL BUILDING CODE
+
+
+
+2022 California Building Code
+
+
+
+2022 California Electrical Code
+
+
+
+2022 California Fire Code
+
+
+
+2022 California Mechanical Code
+
+
+
+2022 California Plumbing Code
+
+Available from:
+
+California Building Standards Commission 2525 Natomas Park Drive, Suite 130 Sacramento, CA 95833-2936 (916) 263-0916 www.bsc.ca.gov
+
+CALIFORNIA ENERGY COMMISSION
+
+Appliance Efficiency Regulations
+
+Alternative Calculation Method (ACM) Manual
+
+Available from:
+
+California Energy Commission 1516 Ninth Street Sacramento, CA 95814 (916) 654-5106 or (800) 772-3300 (in California) www.energy.ca.gov/title24
+
+CALIFORNIA DEPARTMENT OF CONSUMER AFFAIRS
+
+Standards for Insulating Material
+
+Available from:
+
+California Department of Consumer Affairs Bureau of Household Goods and Services 4244 South Market Court, Suite D Sacramento, California 95834-1243 (916) 999-2041
+
+CERTIFYING ORGANIZATION
+
+CIE 13.3-1995
+
+Method of Measuring and Specifying Colour Rendering Properties of Light Sources (1995)
+
+CIE 015-2018
+
+Technical Report: Colorimetry (2018)
+
+COOLING TECHNOLOGY INSTITUTE
+
+CTI ATC-105 (19)
+
+Acceptance Test Code for Cooling Towers (2019)
+
+CTI ATC-105DS (18)
+
+Acceptance Test Code for Dry Fluid Coolers (2018)
+
+CTI ATC-105S (11)
+
+Acceptance Test Code for Closed-Circuit Cooling Towers (2011)
+
+CTI ATC-106 (11)
+
+Acceptance Test Code for Mechanical Draft Evaporative Vapor Condensers (2011)
+
+CTI STD-201 RS (17)
+
+Standard for the Certification of Water-Cooling Tower Thermal Performance (2017)
+
+Available from:
+
+Cooling Technology Institute 2611 FM 1960 West, Suite A101 Houston, Texas 77068-3730 PO Box 73383 Houston, TX 77273-3383 (281) 583-4087
+
+COOL ROOF RATING COUNCIL
+
+CRRC-1
+
+Product Rating Program Manual (2021)
+
+Available from:
+
+Cool Roof Rating Council 2435 N. Lombard Street Portland, OR 97217 (866) 465-2523 www.coolroofs.org
+
+HOME VENTILATING INSTITUTE
+
+HVI Publication 915-2020
+
+HVI Loudness Testing and Rating Procedure (2020)
+
+HVI Publication 916-2020
+
+HVI Airflow Test Procedure (2020)
+
+HVI Publication 920-2020
+
+HVI Product Performance Certification Procedure Including Verification and Challenge (2020)
+
+Available from:
+
+Home Ventilating Institute 1740 Dell Range Blvd., Suite H, PMB 450 Cheyenne, WY 82009 (855) 484-8368 www.hvi.org
+
+ILLUMINATING ENGINEERING SOCIETY
+
+The IES Lighting LibraryTM
+
+ANSI/IES LM-79-19
+
+Approved Method: Optical and Electrical Measurements of Solid-State Lighting Products (2019)
+
+ANSI/IES LS-1-20
+
+Lighting Science: Nomenclature and Definitions for Illuminating Engineering (2020)
+
+ANSI/IES TM-15-20
+
+Technical Memorandum: Luminaire Classification System for Outdoor Luminaires (2020)
+
+Available from:
+
+Illuminating Engineering Society 120 Wall Street, 17th Floor New York, NY 10005-4026 (212) 248-5000 www.ies.org
+
+INTERNATIONAL ASSOCIATION OF PLUMBING AND MECHANICAL OFFICIALS
+
+California Mechanical Code
+
+Available from:
+
+International Association of Plumbing and Mechanical Officials 4755 E. Philadelphia St. Ontario, CA 91761 (800) 85-IAPMO (854-2766) www.iapmo.org
+
+INTERNATIONAL CODE COUNCIL
+
+California Building Code
+
+Available from:
+
+International Code Council Western Regional Office 3060 Saturn St. Brea, CA 92821 (888) 422-7233 www.iccsafe.org
+
+INTERNATIONAL ORGANIZATION FOR STANDARDIZATION
+
+ISO 5801:2017
+
+Fans—Performance testing using standardized airways (2017)
+
+ISO 13256-1:1998 (RA 2012)
+
+Water-Source Heat Pumps—Testing and Rating for Performance—Part 1: Water-to-Air and Brine-to-Air Heat Pumps (2012)
+
+ISO 13256-2:1998 (RA 2012)
+
+Water-Source Heat pumps—Testing and rating for Performance—Part 2: Water-to-Water and Brine-to-Water Heat Pumps (2012)
+
+ISO/IEC 17025:2017
+
+General Criteria for the Competence of Testing and Calibration Laboratories (2017)
+
+Available from:
+
+ISO Chemin de Blandonnet 8 CP 401 1214 Vernier Geneva, Switzerland
+
+INTERNATIONAL WINDOW FILM ASSOCIATION
+
+Architectural Visual Inspection Standard Window Film (reendorsed 2018)
+
+Available from:
+
+International Window Film Association P.O. Box 3871 Martinsville, VA 24115-3871 276-666-4932
+
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION
+
+NEMA LSD 57-2018
+
+Polyurethane Foam Application: Lighting Equipment (2018)
+
+NEMA SSL 7A-2015
+
+Phase Cut Dimming for Solid State Lighting: Basic Compatibility (2015)
+
+Available from:
+
+1300 North 17th Street, Suite 1752 Rosslyn, VA 22209 708-841-3200 www.nema.org
+
+NATIONAL FENESTRATION RATING COUNCIL
+
+ANSI/NFRC 100-2020
+
+Procedure for Determining Fenestration Product U-factors (2020)
+
+ANSI/NFRC 200-2020
+
+Procedure for Determining Fenestration Product Solar Heat Gain Coefficients and Visible Transmittance at Normal Incidence (2020)
+
+ANSI/NFRC 202-2020
+
+Procedure for Determining Translucent Fenestration Product Visible Transmittance at Normal Incidence (2020)
+
+ANSI/NFRC 203-2020
+
+Procedure for Determining Visible Transmittance of Tubular Daylighting Devices (2020)
+
+ANSI/NFRC 400-2020
+
+Procedure for Determining Fenestration Product Air Leakage (2020)
+
+Available from:
+
+National Fenestration Rating Council 6035 Ivy Lane, Suite 140 Greenbelt, MD 20770 (301) 589-1776 www.NFRC.org Email: info@nfrc.org
+
+NSF INTERNATIONAL (FORMERLY NATIONAL SANITATION FOUNDATION)
+
+NSF/ANSI/CAN 50-2020
+
+Equipment and Chemicals for Swimming Pools, Spas, Hot Tubs, and Other Recreational Water Facilities (2020)
+
+Available from:
+
+NSF International PO Box 130140 Ann Arbor, MI 48113 (735) 769-8010
+
+RESIDENTIAL ENERGY SERVICES NETWORK
+
+ANSI/RESNET/ICC 380-2019
+
+Standard for Testing Airtightness of Building Enclosures, Dwelling Unit, and Sleeping Unit Enclosures, Airtightness of Heating and Cooling Air Distribution Systems, and Airflow of Mechanical Ventilation Systems (2019)
+
+Available from:
+
+Residential Energy Services Network, Inc. (RESNET) P.O. Box 4561 Oceanside, CA 92052-4561 http://resnet.us/
+
+SAE INTERNATIONAL
+
+SAE J1772_201710
+
+SAE Electric Vehicle and Plug in Hybrid Electric Vehicle Conductive Charge Coupler (2017)
+
+SHEET METAL AND AIR-CONDITIONING CONTRACTORS’ NATIONAL ASSOCIATION
+
+Residential Comfort System Installation Standards Manual, Eighth Edition (2016)
+
+ANSI/SMACNA 006-2006
+
+HVAC Duct Construction Standards—Metal and Flexible (2006)
+
+Available from:
+
+Sheet Metal and Air-Conditioning Contractors’ National Association (SMACNA) 4201 Lafayette Center Drive Chantilly, VA 20151-1209 (703) 803-2980 www.smacna.org
+
+UNDERWRITERS LABORATORIES / UL
+
+UL 181
+
+Standard for Safety for Factory-made Air Ducts and Connectors (2017)
+
+UL 181A
+
+Standard for Safety for Closure Systems for Use with Rigid Air Ducts (2017)
+
+
+
+UL 181B
+
+Standard for Safety for Closure Systems for Use with Flexible Air Ducts and Air Connectors (2017)
+
+UL 723
+
+Standard for Safety for Test for Surface Burning Characteristics of Building Materials (2018)
+
+UL 727
+
+Standard for Safety for Oil-Fired Central Furnaces (2018)
+
+UL 731
+
+Standard for Safety for Oil-Fired Unit Heaters (2018)
+
+UL 1077
+
+Standard for Safety for Supplementary Protectors for Use in Electrical Equipment (2016)
+
+UL 1574
+
+Standard for Safety for Track Lighting Systems (2020)
+
+UL 1598
+
+Standard for Safety for Luminaires (2021)
+
+UL 1741
+
+Standard for Safety for Inverters, Converters, Controllers and Interconnection System Equipment for Safety for Use With Distributed Energy Resources (2021)
+
+UL 1973
+
+Standard for Safety for Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER) Applications (2018)
+
+UL 2108
+
+Standard for Safety for Low Voltage Lighting Systems (2019)
+
+UL 8750
+
+Standard for Safety for Light Emitting Diode (LED) Equipment for Use in Lighting Products (2021)
+
+UL 9540
+
+Standard for Safety for Energy Storage Systems and Equipment (2021)
+
+Available from:
+
+UL LLC 333 Pfingsten Road Northbrook, IL 60062-2096 (847) 272-8800
+

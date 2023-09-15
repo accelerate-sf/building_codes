@@ -1,0 +1,1052 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE CHAPTER 2 – DEFINITIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+	Adopting agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/ CC	1	1R	2	3	4	5
+	Adopt entire chapter																							
+	Adopt entire chapter as amended (amended sections listed below)				X	X																		
+	Adopt only those sections that are listed below			X																				
+	Chapter / Section																							
+	R201			X																				
+	R201.1			X																				
+	R201.2			X																				
+	R201.3			X	X																			
+	R201.4			X																				
+	ACCESSORY DWELLING UNIT				X	X																		
+	ACCESSORY STRUCTURE			X																				
+	ADDITION			X	X																			
+	AGED HOME OR INSTITUTION			X																				
+	AIR-IMPERMEABLE INSULATION				X																			
+	ALTERATION			X	X																			
+	APPROVED			X	X																			
+	APPROVED AGENCY			X	X																			
+	APPROVED LISTING AGENCY			X	X																			
+	APPROVED TESTING AGENCY			X	X																			
+	ATTIC			X																				
+	ATTIC, HABITABLE			X																				
+	BASEMENT			X																				
+	BEDRIDDEN PERSON			X																				
+	BUILDING			X	X																			
+	BUILDING OFFICIAL			X	X																			
+	BUILT-UP ROOF COVERING			X																				
+	CARE AND SUPERVISION			X																				
+	CATASTROPHICALLY INJURED			X																				
+	CEILING HEIGHT			X																				
+	CHILD CARE			X																				
+	CHILD-CARE CENTER			X																				
+	CHILD OR CHILDREN			X																				
+	CHRONICALLY ILL			X																				
+>	CLOSET			X																				
+	COMBUSTIBLE MATERIAL			X																				
+	CONGREGATE LIVING HEALTH-FACILITY (CLHF)			X																				
+	CONGREGATE RESIDENCE			X																				
+	CONSTRUCTION DOCUMENTS			X																				
+	DAY-CARE			X																				
+	DAY-CARE HOME, FAMILY			X																				
+	DAY-CARE HOME, LARGE FAMILY			X																				
+	DAY-CARE HOME, SMALL FAMILY			X																				
+	DEPARTMENT				X																			
+	DESIGN PROFESSIONAL			X																				
+	DRAFT STOP			X																				
+	DUCT SYSTEM				X																			
+	DWELLING			X																				
+	DWELLING UNIT			X	X																			
+	EMERGENCY ESCAPE AND RESCUE OPENING			X																				
+	ENERGY STORAGE SYSTEMS (ESS)			X																				
+	ENFORCEMENT				X																			
+	ENFORCEMENT AGENCY				X																			
+	ENFORCING AGENCY			X	X																			
+	ENTRY LEVEL				X																			
+	EXTERIOR WALL			X																				
+	EXTERIOR WALL ASSEMBLY			X																				
+	EXTERIOR WALL COVERING			X																				
+	FAMILY				X																			
+	FENESTRATION				X																			
+	FENESTRATION, VERTICAL				X																			
+	FIREBLOCKING			X																				
+	FIRE-RETARDANT-TREATED WOOD			X																				
+	FIRE SEPARATION DISTANCE			X																				
+	FLAME SPREAD			X																				
+	FLAME SPREAD INDEX			X																				
+	FULL-TIME CARE			X																				
+	GRADE			X																				
+	GRADE FLOOR OPENING			X																				
+	GRADE PLANE			X																				
+	GUARD OR GUARDRAIL				X																			
+	HABITABLE SPACE			X																				
+	HANDRAIL			X																				
+	HAZARDOUS LOCATION			X																				
+	HEIGHT, BUILDING			X																				
+	HEIGHT, STORY			X																				
+	IGNITION SOURCE			X																				
+	INFANT			X																				
+	INFLATABLE AMUSEMENT DEVICE			X																				
+	INSULATING SHEATHING				X																			
+	LABEL			X																				
+	LABELED			X	X																			
+	LIMITED-DENSITY OWNER-BUILT RURAL DWELLINGS				X																			
+	LISTED			X	X																			
+	LISTING AGENCY				X	X																		
+>	LIVE/WORK UNIT					X																		
+	LIVING SPACE			X																				
+	LODGING HOUSE				X																			
+	LOT			X																				
+	LOT LINE			X																				
+	MARK			X																				
+	MASONRY UNIT				X																			
+	METAL ROOF PANEL			X																				
+	METAL ROOF SHINGLE			X																				
+	MEZZANINE, LOFT			X																				
+	MULTIPLE STATION SMOKE ALARM			X																				
+	NONAMBULATORY PERSONS			X																				
+	NONCOMBUSTIBLE MATERIAL			X																				
+	OCCUPIED SPACE			X																				
+	OWNER			X																				
+	PASSIVE SOLAR ENERGY COLLECTOR				X																			
+	PERSONS WITH INTELLECTUAL DISABILITIES, PROFOUNDLY OR SEVERELY			X																				
+	PHOTOVOLTAIC (PV) PANEL SYSTEM, GROUND MOUNTED			X																				
+	PHOTOVOLTAIC (PV) SUPPORT STRUCTURE, ELEVATED			X																				
+	PROTECTIVE SOCIAL CARE FACILITY			X																				
+	PUBLIC WAY			X																				
+	RAMP			X																				
+	REPAIR			X	X																			
+	REROOFING			X	X																			
+	RESIDENTIAL CARE FACILITY FOR THE CHRONICALLY ILL (RCF/CI)			X																				
+	RESIDENTIAL CARE FACILITY FOR THE ELDERLY (RCFE)			X																				
+	RESIDENTIAL FACILITY (RF)			X																				
+	RESTRAINT			X																				
+>	ROOF ASSEMBLY			X																				
+	ROOF COVERING			X																				
+	ROOF COVERING SYSTEM			X																				
+	ROOFDECK			X																				
+	ROOF RECOVER			X	X																			
+	ROOF REPAIR			X	X																			
+	ROOF REPLACEMENT				X																			
+	ROOFTOP STRUCTURE			X																				
+	SHALL			X																				
+	SINGLE STATION SMOKE ALARM			X																				
+	SKYLIGHTS AND SLOPED GLAZING				X																			
+	SMOKE-DEVELOPED INDEX			X																				
+	STAIR			X																				
+	STAIRWAY			X																				
+	STATE-OWNED/LEASED BUILDING			X																				
+	STORY			X																				
+	STORY ABOVE GRADE PLANE			X																				
+	STRUCTURE			X																				
+	SUNROOM				X																			
+	TERMINALLY ILL			X																				
+	TESTING AGENCY				X																			
+	TODDLER			X																				
+	TOWNHOUSE			X																				
+	VENTILATION				X																			
+	WILDLAND-URBAN INTERFACE (WUI)			X																				
+
+The state agency does not adopt sections identified with the following symbol: †
+
+CHAPTER 2 DEFINITIONS
+
+User notes:
+
+About this chapter: Codes, by their very nature, are technical documents. Every word, term and punctuation mark can add to or change the meaning of a technical requirement. It is necessary to maintain a consensus on the specific meaning of each term contained in the code. Chapter 2 performs this function by stating clearly what specific terms mean for the purpose of the code.
+
+Code development reminder: Code change proposals to definitions in this chapter preceded by a bracketed letter are considered by the IRC—Building Code Development Committee [RB], the IRC—Mechanical/Plumbing Code Development Committee [MP] or the IECC—Residential Code Development Committee [RE] during the Group B (2022) Code Development Cycle.
+
+SECTION R201 GENERAL
+
+R201.1 Scope.
+
+Unless otherwise expressly stated, the following words and terms shall, for the purposes of this code, have the meanings indicated in this chapter.
+
+R201.2 Interchangeability.
+
+Words used in the present tense include the future; words in the masculine gender include the feminine and neuter; the singular number includes the plural and the plural, the singular.
+
+R201.3 Terms defined in other codes.
+
+Where terms are not defined in this code such terms shall have the meanings ascribed in the California Building Standards Code, Title 24, California Code of Regulations.
+
+R201.4 Terms not defined.
+
+Where terms are not defined through the methods authorized by this section, such terms shall have ordinarily accepted meanings such as the context implies.
+
+For applications listed in Section 1.11 regulated by the Office of the State Fire Marshal, where terms are not defined through the methods authorized by this section, such terms shall have ordinarily accepted meanings such as the context implies. Webster’s Third New International Dictionary of the English Language, Unabridged, shall be considered as providing ordinarily accepted meanings.
+
+SECTION R202 DEFINITIONS
+
+[RB] ACCESS (TO). That which enables a device, an appliance or equipment to be reached by ready access or by a means that first requires the removal or movement of a panel, door or similar obstruction.
+
+ACCESSORY DWELLING UNIT. [HCD 1 & HCD 2] An attached or detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. Accessory dwelling units shall include permanent provisions for living, sleeping, eating, cooking and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. (See Government Code Section 65852.2)
+
+[RB] ACCESSORY STRUCTURE. A structure that is accessory to and incidental to that of the dwelling(s) and that is located on the same lot.
+
+[RB] ADDITION. An extension or increase in floor area, number of stories or height of a building or structure.
+
+[RB] ADHERED STONE OR MASONRY VENEER. Stone or masonry veneer secured and supported through the adhesion of an approved bonding material applied to an approved backing.
+
+AGED HOME OR INSTITUTION. A facility used for the housing of persons 65 years of age or older in need of care and supervision. (See definition of “care and supervision.”)
+
+[RB] AIR-IMPERMEABLE INSULATION. An insulation having an air permanence equal to or less than 0.02 L/s-m2 at 75 Pa pressure differential as tested in accordance with ASTM E283 or E2178.
+
+[RB] ALTERATION. Any construction, retrofit or renovation to an existing structure other than repair or addition that requires a permit. Also, a change in a building, electrical, gas, mechanical or plumbing system that involves an extension, addition or change to the arrangement, type or purpose of the original installation that requires a permit.
+
+[RB] ALTERNATING TREAD DEVICE. A device that has a series of steps between 50 and 70 degrees (0.87 and 1.22 rad) from horizontal, usually attached to a center support rail in an alternating manner so that the user does not have both feet on the same level at the same time.
+
+[RB] ANCHORED STONE OR MASONRY VENEER. Stone or masonry veneer secured with approved mechanical fasteners to an approved backing.
+
+[RB] APPROVED. Acceptable to the building official.
+
+APPROVED. (HCD 1) Meeting the approval of the enforcing agency, except as otherwise provided by law, when used in connection with any system, material, type of construction, fixture or appliance as the result of investigations and tests conducted by the agency, or by reason of accepted principles or tests by national authorities or technical, health or scientific organizations or agencies.
+
+Notes:1.See Health and Safety Code Section 17920 for “Approved” as applied to residential construction and buildings or structures accessory thereto, as referenced in Section 1.8.2.1.1.2.See Health and Safety Code Section 17921.1 for “Approved” as applied to the use of hotplates in residential construction referenced in Section 1.8.2.1.1.3.See Health and Safety Code Section 19966 for “Approved” as applied to factory-built housing as referenced in Section 1.8.3.2.5.4.See Health and Safety Code Section 18201 for “Approved” as applied to mobilehome parks as referenced in Section 1.8.3.2.2.5.See Health and Safety Code Section 18862.1 for “Approved” as applied to special occupancy parks as referenced in Section 1.8.3.2.3.
+
+1.See Health and Safety Code Section 17920 for “Approved” as applied to residential construction and buildings or structures accessory thereto, as referenced in Section 1.8.2.1.1.
+
+2.See Health and Safety Code Section 17921.1 for “Approved” as applied to the use of hotplates in residential construction referenced in Section 1.8.2.1.1.
+
+3.See Health and Safety Code Section 19966 for “Approved” as applied to factory-built housing as referenced in Section 1.8.3.2.5.
+
+4.See Health and Safety Code Section 18201 for “Approved” as applied to mobilehome parks as referenced in Section 1.8.3.2.2.
+
+5.See Health and Safety Code Section 18862.1 for “Approved” as applied to special occupancy parks as referenced in Section 1.8.3.2.3.
+Notes:
+
+1.See Health and Safety Code Section 17920 for “Approved” as applied to residential construction and buildings or structures accessory thereto, as referenced in Section 1.8.2.1.1.
+
+2.See Health and Safety Code Section 17921.1 for “Approved” as applied to the use of hotplates in residential construction referenced in Section 1.8.2.1.1.
+
+3.See Health and Safety Code Section 19966 for “Approved” as applied to factory-built housing as referenced in Section 1.8.3.2.5.
+
+4.See Health and Safety Code Section 18201 for “Approved” as applied to mobilehome parks as referenced in Section 1.8.3.2.2.
+
+5.See Health and Safety Code Section 18862.1 for “Approved” as applied to special occupancy parks as referenced in Section 1.8.3.2.3.
+
+[RB] APPROVED AGENCY. An established and recognized agency that is regularly engaged in conducting tests, furnishing inspection services or furnishing product certification, and has been approved by the building official. (HCD 1) “Approved agency” shall mean “Listing agency” and “Testing agency.”
+
+APPROVED LISTING AGENCY. Any agency approved by the enforcing agency, unless otherwise provided by statute, which is in the business of listing and labeling and which makes available at least an annual published report of such listings in which specific information is included that the product has been tested to recognized standards and found to comply.
+
+[MP] APPROVED SOURCE. An independent person, firm or corporation, approved by the building official, who is competent and experienced in the application of engineering principles to materials, methods or systems analyses.
+
+APPROVED TESTING AGENCY. Any agency which is determined by the enforcing agency, except as otherwise provided by statute, to have adequate personnel and expertise to carry out the testing of systems, materials and construction fixtures or appliances.
+
+[RB] ASPECT RATIO. The ratio of longest to shortest perpendicular dimensions, or for wall sections, the ratio of height to length.
+
+[RB] ATTIC. The unfinished space between the ceiling assembly and the roof assembly.
+
+[RB] ATTIC, HABITABLE. A finished or unfinished habitable space within an attic.
+
+[RB] BASEMENT. A story that is not a story above grade plane (see “Story above grade plane”).
+
+[RB] BASIC WIND SPEED. Three-second gust speed at 33 feet (10 058 mm) above the ground in Exposure C (see Section R301.2.1) as given in Figure R301.2(2).
+
+BEDRIDDEN PERSON. A person, requiring assistance in turning and repositioning in bed, or being unable to independently transfer to and from bed, except in facilities with appropriate and sufficient care staff, mechanical devices if necessary and safety precautions as determined in Title 22 regulations, by the Director of Social Services or his or her designated representative. Persons who are unable to independently transfer to and from bed, but who do not need assistance to turn or reposition in bed, shall be considered nonambulatory.
+
+The Director of Social Services or his or her designated representative shall make the determination of the bedridden status of persons with developmental disabilities, in consultation with the Director of Developmental Services or his or her designated representative.
+
+The Director of Social Services or his or her designated representative shall make the determination of the bedridden status of all other persons with disabilities who are not developmentally disabled.
+
+[RB] BOND BEAM. A horizontal grouted element within masonry in which reinforcement is embedded.
+
+[RB] BRACED WALL LINE. A straight line through the building plan that represents the location of the lateral resistance provided by the wall bracing.
+
+[RB] BRACED WALL LINE, CONTINUOUSLY SHEATHED. A braced wall line with structural sheathing applied to all sheathable surfaces including the areas above and below openings.
+
+[RB] BRACED WALL PANEL. A full-height section of wall constructed to resist in-plane shear loads through interaction of framing members, sheathing material and anchors. The panel’s length meets the requirements of its particular bracing method and contributes toward the total amount of bracing required along its braced wall line in accordance with Section R602.10.1.
+
+[RB] BUILDING. Any one- or two-family dwelling or townhouse, or portion thereof, used or intended to be used for human habitation, for living, sleeping, cooking or eating purposes or any combination thereof, or any accessory structure.
+
+Exceptions: For applications listed in Section 1.8.2 regulated by the Department of Housing and Community Development, “Building” shall not include the following:
+
+1.Any mobilehome as defined in Health and Safety Code Section 18008.
+
+2.Any manufactured home as defined in Health and Safety Code Section 18007.
+
+3.Any commercial modular as defined in Health and Safety Code Section 18001.8 or any special purpose commercial modular as defined in Section 18012.5.
+
+4.Any recreational vehicle as defined in Health and Safety Code Section 18010.
+
+5.Any multifamily manufactured home as defined in Health and Safety Code Section 18008.7.
+
+For additional information, see Health and Safety Code Section 18908.
+
+Note: Building shall have the same meaning as defined in Health and Safety Code Sections 17920 and 18908 for the applications specified in Section 1.11.
+
+[RB] BUILDING, EXISTING. Existing building is a building erected prior to the adoption of this code, or one for which a legal building permit has been issued.
+
+[RB] BUILDING LINE. The line established by law, beyond which a building shall not extend, except as specifically provided by law.
+
+[RB] BUILDING OFFICIAL. The officer or other designated authority charged with the administration and enforcement of this code, or a duly authorized representative.
+
+[RB] BUILDING-INTEGRATED PHOTOVOLTAIC PRODUCT. A building product that incorporates photovoltaic modules and functions as a component of the building envelope.
+
+[RB] BUILDING-INTEGRATED PHOTOVOLTAIC ROOF PANEL (BIPV Roof Panel). A photovoltaic panel that functions as a component of the building envelope.
+
+[RB] BUILT-UP ROOF COVERING. Two or more layers of felt cemented together and surfaced with a cap sheet, mineral aggregate, smooth coating or similar surfacing material.
+
+[RB] CAP PLATE. The top plate of the double top plates used in structural insulated panel (SIP) construction. The cap plate is cut to match the panel thickness such that it overlaps the wood structural panel facing on both sides.
+
+[RB] CARBON MONOXIDE ALARM. A single- or multiple-station alarm intended to detect carbon monoxide gas and alert occupants by a distinct audible signal. It incorporates a sensor, control components and an alarm notification appliance in a single unit.
+
+[RB] CARBON MONOXIDE DETECTOR. A device with an integral sensor to detect carbon monoxide gas and transmit an alarm signal to a connected alarm control unit.
+
+CARE AND SUPERVISION. Any one or more of the following activities provided by a person or facility to meet the needs of the clients:
+
+Assistance in dressing, grooming, bathing and other personal hygiene
+
+Assistance with taking medication
+
+Central storing and/or distribution of medications
+
+Arrangement of and assistance with medical and dental care
+
+Maintenance of house rules for the protection of clients
+
+Supervision of client schedules and activities
+
+Maintenance and/or supervision of client cash resources or property
+
+Monitoring food intake or special diets
+
+Providing basic services required by applicable law and regulation to be provided by the licensee in order to obtain and maintain a community-care facility license
+Assistance in dressing, grooming, bathing and other personal hygiene
+
+Assistance with taking medication
+
+Central storing and/or distribution of medications
+
+Arrangement of and assistance with medical and dental care
+
+Maintenance of house rules for the protection of clients
+
+Supervision of client schedules and activities
+
+Maintenance and/or supervision of client cash resources or property
+
+Monitoring food intake or special diets
+
+Providing basic services required by applicable law and regulation to be provided by the licensee in order to obtain and maintain a community-care facility license
+
+CATASTROPHICALLY INJURED. A person whose origin of disability was acquired through trauma or nondegenerative neurologic illness, for whom it has been determined by the Department of Health Services Certification and Licensing that active rehabilitation would be beneficial.
+
+[RB] CEILING HEIGHT. The clear vertical distance from the finished floor to the finished ceiling.
+
+[RB] CEMENT PLASTER. A mixture of Portland or blended cement, Portland cement or blended cement and hydrated lime, masonry cement or plastic cement and aggregate and other approved materials as specified in this code.
+
+[RB] CHANGE OF OCCUPANCY. A change in the use of a building or portion of a building that involves a change in the application of the requirements of this code.
+
+CHILD CARE. For the purposes of these regulations, child care means the care of children during any period of a 24- hour day where permanent sleeping accommodations are not provided. The time-period shall not be more than 24 hours. Note: “Child care” shall not be construed to preclude the use of cots or mats for napping purposes, provided all employees, attendants and staff personnel are awake and on duty in the area where napping occurs.
+
+CHILD OR CHILDREN. A person or persons under the age of 18 years.
+
+CHILD-CARE CENTER. Any facility of any capacity other than a large or small family day-care home as defined in these regulations in which less than 24-hour-per-day nonmedical supervision is provided for children in a group setting.
+
+[MP] CHIMNEY. A primary vertical structure containing one or more flues, for the purpose of carrying gaseous products of combustion and air from a fuel-burning appliance to the outside atmosphere.
+
+CHRONICALLY ILL. See “TERMINALLY ILL.”
+
+[RB] CLADDING. The exterior materials that cover the surface of the building envelope that is directly loaded by the wind.
+
+[RB] CLOSET. A small room or chamber used for storage.
+
+[RB] COLLAPSIBLE SOILS. Soils that exhibit volumetric reduction in response to partial or full wetting under load.
+
+[RB] COMBUSTIBLE MATERIAL. Any material not defined as noncombustible.
+
+[MP] COMBUSTION AIR. The air provided to fuel-burning equipment including air for fuel combustion, draft hood dilution and ventilation of the equipment enclosure.
+
+[RB] COMPRESSIBLE SOILS. Soils that exhibit volumetric reduction in response to the application of load even in the absence of wetting or drying.
+
+[MP] CONDENSATE. The liquid that separates from a gas due to a reduction in temperature; for example, water that condenses from flue gases and water that condenses from air circulating through the cooling coil in air conditioning equipment.
+
+[RB] CONDITIONED AIR. Air treated to control its temperature, relative humidity or quality.
+
+CONGREGATE LIVING HEALTH FACILITY (CLHF) means a residential home with a capacity, except as provided in paragraph (3), of no more than 12 beds, that provides inpatient care, including the following basic services: medical supervision, 24-hour skilled nursing and supportive care, pharmacy, dietary, social, recreational and at least one type of service specified in paragraph (1). The primary need of congregate living health facility residents shall be for availability of skilled nursing care on a recurring, intermittent, extended or continuous basis. This care is generally less intense than that provided in general acute care hospitals but more intense than that provided in skilled nursing facilities.
+
+(1)Congregate living health facilities shall provide one of the following services:
+
+(A)Services for persons who are mentally alert, persons with physical disabilities, who may be ventilator dependent.
+
+(B)Services for persons who have a diagnosis of terminal illness, a diagnosis of a life-threatening illness, or both. Terminal illness means the individual has a life expectancy of six months or less as stated in writing by his or her attending physician and surgeon. A “life-threatening illness” means the individual has an illness that can lead to a possibility of a termination of life within five years or less as stated in writing by his or her attending physician and surgeon.
+
+(C)Services for persons who are catastrophically and severely disabled. A person who is catastrophically and severely disabled means a person whose origin of disability was acquired through trauma or nondegenerative neurologic illness, for whom it has been determined that active rehabilitation would be beneficial and to whom these services are being provided. Services offered by a congregate living health facility to a person who is catastrophically disabled shall include, but not be limited to, speech, physical and occupational therapy.
+
+(2)A congregate living health facility license shall specify which of the types of persons described in paragraph (1) to whom a facility is licensed to provide services.
+
+(3)(A) A facility operated by a city and county for the purposes of delivering services under this section may have a capacity of 59 beds.
+
+(B)A congregate living health facility not operated by a city and county servicing persons who are terminally ill, persons who have been diagnosed with a life-threatening illness, or both, that is located in a county with a population of 500,000 or more persons, or located in a county of the 16th class pursuant to Section 28020 of the Government Code, may have not more than 25 beds for the purpose of serving persons who are terminally ill.
+
+(C)A congregate living health facility not operated by a city and county serving persons who are catastrophically and severely disabled, as defined in subparagraph (C) of paragraph (1) that is located in a county of 500,000 or more persons may have not more than 12 beds for the purpose of serving persons who are catastrophically and severely disabled.
+
+(4)A congregate living health facility shall have a noninstitutional, homelike environment.
+
+CONGREGATE RESIDENCE. Any building or portion thereof that contains facilities for living, sleeping and sanitation, as required by this code and may include facilities for eating and cooking, for occupancy by other than a family. A congregate residence may be a shelter, convent, monastery, dormitory, fraternity or sorority house, but does not include jails, hospitals, nursing homes, hotels or lodging houses.
+
+[RB] CONSTRUCTION DOCUMENTS. Written, graphic and pictorial documents prepared or assembled for describing the design, location and physical characteristics of the elements of a project necessary for obtaining a building permit. Construction drawings shall be drawn to an appropriate scale.
+
+
+
+[RB] CORE. The lightweight middle section of a structural insulated panel, composed of foam plastic insulation, that provides the link between the two facing shells.
+
+[RB] CORROSION RESISTANCE. The ability of a material to withstand deterioration of its surface or its properties where exposed to its environment.
+
+[RB] COURT. A space, open and unobstructed to the sky, located at or above grade level on a lot and bounded on three or more sides by walls or a building.
+
+[RB] CRAWL SPACE. An underfloor space that is not a basement.
+
+[RB] CRIPPLE WALL. A framed wall extending from the top of the foundation to the underside of the floor framing of the first story above grade plane.
+
+[RB] CRIPPLE WALL CLEAR HEIGHT. The vertical height of a cripple wall from the top of the foundation to the underside of floor framing above.
+
+[RB] CROSS-LAMINATED TIMBER. A prefabricated engineered wood product consisting of not less than three layers of solid-sawn lumber or structural composite lumber where the adjacent layers are cross-oriented and bonded with structural adhesive to form a solid wood element.
+
+[RB] DALLE GLASS. A decorative composite glazing material made of individual pieces of glass that are embedded in a cast matrix of concrete or epoxy.
+
+DAY-CARE shall, for the purposes of these regulations, mean the care of persons during any period of a 24-hour day where permanent sleeping accommodations are not provided. The time-period shall not be more than 24 hours.
+
+Note: “Day-care” shall not be construed to preclude the use of cots or mats for napping purposes, provided all employees, attendants and staff personnel are awake and on duty in the area where napping occurs.
+Note: “Day-care” shall not be construed to preclude the use of cots or mats for napping purposes, provided all employees, attendants and staff personnel are awake and on duty in the area where napping occurs.
+
+DAY-CARE HOME, FAMILY. A home that regularly provides care, protection and supervision for 14 or fewer children, in the provider’s own home, for periods of less than 24 hours per day, while the parents or guardians are away and is either a large family day-care home or a small family day-care home.
+
+DAY-CARE HOME, LARGE FAMILY. A provider’s own home which is licensed to provide day care for periods less than 24 hours per day for nine to 14 persons, including children under the age of 10 years who reside at the home.
+
+DAY-CARE HOME, SMALL FAMILY. A home which provides family day-care to eight or fewer children, including children under the age of 10 years who reside at the home, in the provider’s own home, for periods of less than 24 hours per day. Small family day-care homes are exempted from state fire and life safety regulations other than those state and local standards applicable to Group R-3 Occupancies. [See Health and Safety Code, Section 13143 (b).]
+
+[RB] DEAD LOADS. The weight of the materials of construction incorporated into the building, including but not limited to walls, floors, roofs, ceilings, stairways, built-in partitions, finishes, cladding and other similarly incorporated architectural and structural items, and fixed service equipment.
+
+[RB] DECORATIVE GLASS. A carved, leaded or Dalle glass or glazing material with a purpose that is decorative or artistic, not functional; with coloring, texture or other design qualities or components that cannot be removed without destroying the glazing material; and with a surface, or assembly into which it is incorporated, that is divided into segments.
+
+
+
+DEPARTMENT. The Department of Housing and Community Development.
+
+[MP] DESIGN PROFESSIONAL. See “Registered design professional.”
+
+
+
+[MP] DIAMETER. Unless specifically stated, the term “diameter” is the nominal diameter as designated by the approved material standard.
+
+[RB] DIAPHRAGM. A horizontal or nearly horizontal system acting to transmit lateral forces to the vertical resisting elements. Where the term “diaphragm” is used, it includes horizontal bracing systems.
+
+
+
+[RB] DRAFT STOP. A material, device or construction installed to restrict the movement of air within open spaces of concealed areas of building components such as crawl spaces, floor-ceiling assemblies, roof-ceiling assemblies and attics.
+
+
+
+[MP] DUCT SYSTEM. All ducts, duct fittings, plenums and fans when assembled to form a continuous passageway for the distribution of air.
+
+[RB] DWELLING. Any building that contains one or two dwelling units used, intended, or designed to be built, used, rented, leased, let or hired out to be occupied, or that are occupied for living purposes.
+
+[RB] DWELLING UNIT. A single unit providing complete independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking and sanitation.
+
+
+
+
+
+[RB] EMERGENCY ESCAPE AND RESCUE OPENING. An operable exterior window, door or other similar device that provides for a means of escape and access for rescue in the event of an emergency. (See also “Grade floor emergency escape and rescue opening.”)
+
+
+
+[RB] ENERGY STORAGE SYSTEM (ESS). One or more devices, assembled together, capable of storing energy in order to supply electrical energy at a future time.
+
+ENFORCEMENT. Notwithstanding other provisions of law, the applicable section of the Health and Safety Code, Section 17920, is repeated here for clarity:
+
+“Enforcement” means diligent effort to secure compliance, including review of plans and permit applications, response to complaints, citation of violations and other legal process. Except as otherwise provided in this part, “enforcement” may, but need not, include inspections of existing buildings on which no complaint or permit application has been filed, and effort to secure compliance as to these existing buildings.
+
+ENFORCEMENT AGENCY. See “ENFORCING AGENCY.”
+
+ENFORCING AGENCY. The designated department or agency as specified by statute or regulation.
+
+[RB] ENGINEERED WOOD RIM BOARD. A full-depth structural composite lumber, wood structural panel, structural glued laminated timber or prefabricated wood I-joist member designed to transfer horizontal (shear) and vertical (compression) loads, provide attachment for diaphragm sheathing, siding and exterior deck ledgers and provide lateral support at the ends of floor or roof joists or rafters.
+
+
+
+ENTRY LEVEL. For the purposes of Section R327, entry level is the floor or level of the dwelling unit on which an entry is located.
+
+[RB] ESCARPMENT. With respect to topographic wind effects, a cliff or steep slope generally separating two levels or gently sloping areas.
+
+
+
+[RB] EXPANSIVE SOILS. Soils that exhibit volumetric increase or decrease (swelling or shrinking) in response to partial or full wetting or drying under load.
+
+
+
+[RB] EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS). EIFS are nonstructural, nonload-bearing exterior wall cladding systems that consist of an insulation board attached either adhesively or mechanically, or both, to the substrate; an integrally reinforced base coat; and a textured protective finish coat.
+
+[RB] EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS) WITH DRAINAGE. An EIFS that incorporates a means of drainage applied over a water-resistive barrier.
+
+
+
+EXTERIOR WALL ASSEMBLY. A system or assembly of exterior wall components, including exterior wall covering materials, that provides protection of the building structural members, including framing and sheathing materials, and conditioned interior space, from the detrimental effects of the exterior environment.
+
+EXTERIOR WALL COVERING. A material or assembly of materials applied on the exterior side of exterior walls for the purpose of providing a weather-resisting barrier, insulation or for aesthetics, including but not limited to, veneers, siding, exterior insulation and finish systems, architectural trim and embellishments such as cornices, soffits, facias, gutters and leaders.
+
+[RB] FACING. The wood structural panel facings that form the two outmost rigid layers of the structural insulated panel.
+
+[MP] FACTORY-BUILT CHIMNEY. A listed and labeled chimney composed of factory-made components assembled in the field in accordance with the manufacturer’s instructions and the conditions of the listing.
+
+
+
+FAMILY. (HCD 1) An individual or two or more persons who are related by blood or marriage; or otherwise live together in a dwelling unit.
+
+[RE] FENESTRATION. See “Fenestration Product” as defined in the California Energy Code.
+
+[RE] FENESTRATION, VERTICAL. Windows that are fixed or movable, opaque doors, glazed doors, glazed block and combination opaque and glazed doors installed in a wall at less than 15 degrees (0.26 rad) from vertical.
+
+
+
+[RB] FIBER-CEMENT (BACKERBOARD, SIDING, SOFFIT, TRIM AND UNDERLAYMENT) PRODUCTS. Manufactured thin section composites of hydraulic cementitious matrices and discrete nonasbestos fibers.
+
+[RB] FIRE SEPARATION DISTANCE. The distance measured from the building face to one of the following:
+
+1.To the closest interior lot line.
+
+2.To the centerline of a street, an alley or public way.
+
+3.To an imaginary line between two buildings on the lot.
+
+The distance shall be measured at a right angle from the face of the wall.
+
+[RB] FIREBLOCKING. Building materials or materials approved for use as fireblocking, installed to resist the free passage of flame to other areas of the building through concealed spaces.
+
+[RB] FIREPLACE. An assembly consisting of a hearth and fire chamber of noncombustible material and provided with a chimney, for use with solid fuels.
+
+Factory-built fireplace. A listed and labeled fireplace and chimney system composed of factory-made components, and assembled in the field in accordance with manufacturer’s instructions and the conditions of the listing.
+
+Masonry fireplace. A field-constructed fireplace composed of solid masonry units, bricks, stones or concrete.
+
+[MP] FIREPLACE STOVE. A free-standing, chimney-connected solid-fuel-burning heater designed to be operated with the fire chamber doors in either the open or closed position.
+
+[RB] FIREPLACE THROAT. The opening between the top of the firebox and the smoke chamber.
+
+[RB] FIRE-RETARDANT-TREATED WOOD. Wood products that, when impregnated with chemicals by a pressure process or other means during manufacture, exhibit reduced surface burning characteristics and resist propagation of fire.
+
+Other means during manufacture. A process where the wood raw material is treated with a fire-retardant formulation while undergoing creation as a finished product.
+
+Pressure process. A process for treating wood using an initial vacuum followed by the introduction of pressure above atmospheric.
+
+
+
+[RB] FLAME SPREAD. The propagation of flame over a surface.
+
+[RB] FLAME SPREAD INDEX. A comparative measure, expressed as a dimensionless number, derived from visual measurements of the spread of flame versus time for a material tested in accordance with ASTM E84 or UL 723.
+
+
+
+[RB] FLIGHT. A continuous run of rectangular treads or winders or combination thereof from one landing to another.
+
+
+
+[RB] FOAM BACKER BOARD. Foam plastic used in siding applications where the foam plastic is a component of the siding.
+
+[RB] FOAM PLASTIC INSULATION. A plastic that is intentionally expanded by the use of a foaming agent to produce a reduced-density plastic containing voids consisting of open or closed cells distributed throughout the plastic for thermal insulating or acoustic purposes and that has a density less than 20 pounds per cubic foot (320 kg/m3) unless it is used as interior trim.
+
+[RB] FOAM PLASTIC INTERIOR TRIM. Exposed foam plastic used as picture molds, chair rails, crown moldings, baseboards, handrails, ceiling beams, door trim and window trim and similar decorative or protective materials used in fixed applications.
+
+[RB] FUEL CELL POWER SYSTEM, STATIONARY. A stationary energy generation system that converts the chemical energy of a fuel and oxidant to electric energy (DC or AC electricity) by an electrochemical process.
+
+Field-fabricated fuel cell power system. A stationary fuel cell power system that is assembled at the job site and is not a preengineered or prepackaged factoryassembled fuel cell power system.
+
+Preengineered fuel cell power system. A stationary fuel cell power system consisting of components and modules that are produced in a factory, and shipped to the job site for assembly.
+
+Prepackaged fuel cell power system. A stationary fuel cell power system that is factory assembled as a single, complete unit and shipped as a complete unit for installation at the job site.
+
+
+
+FULL-TIME CARE shall mean the establishment and routine care of persons on an hourly, daily, weekly, monthly, yearly or permanent basis, whether for 24-hours per day or less, and where sleeping accommodations are provided.
+
+[RB] GLASS MAT GYPSUM PANEL. A gypsum panel consisting of a noncombustible core primarily of gypsum, surfaced with glass mat partially or completely embedded in the core.
+
+[RB] GLAZING AREA. The interior surface area of all glazed fenestration, including the area of sash, curbing or other framing elements, that enclose conditioned space. Includes the area of glazed fenestration assemblies in walls bounding conditioned basements.
+
+[RB] GRADE. The finished ground level adjoining the building at all exterior walls.
+
+
+
+[RB] GRADE FLOOR EMERGENCY ESCAPE AND RESCUE OPENING. An emergency escape and rescue opening located such that the bottom of the clear opening is not more than 44 inches (1118 mm) above or below the finished ground level adjacent to the opening. (See also “Emergency escape and rescue opening.”)
+
+[RB] GRADE PLANE. A reference plane representing the average of the finished ground level adjoining the building at all exterior walls. Where the finished ground level slopes away from the exterior walls, the reference plane shall be established by the lowest points within the area between the building and the lot line or, where the lot line is more than 6 feet (1829 mm) from the building between the structure and a point 6 feet (1829 mm) from the building.
+
+
+
+[RB] GROSS AREA OF EXTERIOR WALLS. The normal projection of all exterior walls, including the area of all windows and doors installed therein.
+
+
+
+[RB] GUARD OR GUARDRAIL. A building component or a system of building components located near the open sides of elevated walking surfaces that minimizes the possibility of a fall from the walking surface to the lower level.
+
+[RB] GUESTROOM. Any room or rooms used or intended to be used by one or more guests for living or sleeping purposes.
+
+[RB] GYPSUM BOARD. The generic name for a family of sheet products consisting of a noncombustible core primarily of gypsum with paper surfacing. Gypsum wallboard, gypsum sheathing, gypsum base for gypsum veneer plaster, exterior gypsum soffit board, predecorated gypsum board and water-resistant gypsum backing board complying with the standards listed in Section R702.3 and Part IX of this code are types of gypsum board.
+
+[RB] GYPSUM PANEL PRODUCT. The general name for a family of sheet products consisting essentially of gypsum.
+
+[RB] GYPSUM SHEATHING. Gypsum panel products specifically manufactured with enhanced water resistance for use as a substrate for exterior surface materials.
+
+[RB] GYPSUM WALLBOARD. A gypsum board used primarily as interior surfacing for building structures.
+
+[RB] HABITABLE SPACE. A space in a building for living, sleeping, eating or cooking. Bathrooms, toilet rooms, closets, halls, storage or utility spaces and similar areas are not considered habitable spaces.
+
+[RB] HANDRAIL. A horizontal or sloping rail intended for grasping by the hand for guidance or support.
+
+
+
+[RB] HEIGHT, BUILDING. The vertical distance from grade plane to the average height of the highest roof surface.
+
+[RB] HEIGHT, STORY. The vertical distance from top to top of two successive tiers of beams or finished floor surfaces; and, for the topmost story, from the top of the floor finish to the top of the ceiling joists or, where there is not a ceiling, to the top of the roof rafters.
+
+
+
+[RB] HILL. With respect to topographic wind effects, a land surface characterized by strong relief in any horizontal direction.
+
+
+
+[RB] HURRICANE-PRONE REGIONS. Areas vulnerable to hurricanes, defined as the US Atlantic Ocean and Gulf of Mexico coasts where the ultimate design wind speed, Vult, is greater than 115 miles per hour (51 m/s), and Hawaii, Puerto Rico, Guam, Virgin Islands and America Samoa.
+
+
+
+[RB] IMPACT PROTECTIVE SYSTEM. Construction that has been shown by testing to withstand the impact of test missiles and that is applied, attached, or locked over exterior glazing.
+
+
+
+INFANT, for the purpose of these regulations, shall mean any child who because of age only, is unable to walk and requires the aid of another person to evacuate the building. In no case shall the term “infant” mean a child 2 years of age or older.
+
+
+
+INFLATABLE AMUSEMENT DEVICE. A device made of flexible fabric or other combustible materials that is inflated by one or more air-blowers providing internal air pressure to maintain its shape. Such a device is designed for recreational activities that allow occupants to bounce, climb, slide, negotiate an obstacle course or participate in interactive play.
+
+[RB] INSULATED SIDING. A type of continuous insulation, with manufacturer-installed insulating material as an integral part of the cladding product, having a minimum R-value of R-2.
+
+
+
+[RB] INSULATED VINYL SIDING. A vinyl cladding product, with manufacturer-installed foam plastic insulating material as an integral part of the cladding product, having a thermal resistance of not less than R-2.
+
+[RB] INSULATING CONCRETE FORM (ICF). A concrete forming system using stay-in-place forms of rigid foam plastic insulation, a hybrid of cement and foam insulation, a hybrid of cement and wood chips or other insulating material for constructing cast-in-place concrete walls.
+
+[RB] INSULATING SHEATHING. A rigid panel or board insulation material having a thermal resistance of not less than R-2 of the core material with properties suitable for use on walls, floors, roofs or foundations.
+
+
+
+[RB] INTERMODAL SHIPPING CONTAINER. A sixsided steel unit originally constructed as a general cargo container used for the transport of goods and materials.
+
+[RB] JURISDICTION. The governmental unit that has adopted this code.
+
+[RB] KITCHEN. An area used, or designated to be used, for the preparation of food.
+
+[RB] LABEL. An identification applied on a product by the manufacturer that contains the name of the manufacturer, the function and performance characteristics of the product or material, and the name and identification of an approved agency and that indicates that the representative sample of the product or material has been tested and evaluated by an approved agency. (See also “Manufacturer’s designation” and “Mark.”)
+
+[RB] LABELED. Equipment, materials or products to which have been affixed a label, seal, symbol or other identifying mark of a nationally recognized testing laboratory, approved agency or other organization concerned with product evaluation that maintains periodic inspection of the production of such labeled items and whose labeling indicates either that the equipment, material or product meets identified standards or has been tested and found suitable for a specified purpose.
+
+
+
+LABELED. (HCD 1) Labeled means equipment or materials to which has been attached a label, symbol or other identifying mark of an organization, approved by the Department, that maintains a periodic inspection program of production of labeled products, installations, equipment or materials and by whose labeling the manufacturer indicates compliance with appropriate standards or performance in a specified manner.
+
+[RB] LIGHT-FRAME CONSTRUCTION. Construction whose vertical and horizontal structural elements are primarily formed by a system of repetitive wood or cold-formed steel framing members.
+
+LIMITED-DENSITY OWNER-BUILT RURAL DWELLINGS. Any structure consisting of one or more habitable rooms intended or designed to be occupied by one family with facilities for living or sleeping, with use restricted to rural areas designated by local jurisdiction. Notwithstanding other sections of law, the applicable section of Health and Safety Code Section 17958.2 is repeated here for clarification purposes.
+
+Section 17958.2. (a) Notwithstanding Section 17958, regulations of the department adopted for limited-density owner-built rural dwellings, which are codified in Article 8 (commencing with Section 74) of Subchapter 1 of Chapter 1 of Title 25 of the California Code of Regulations, shall not become operative within any city or county unless and until the governing body of the city or county makes an express finding that the application of those regulations within the city or county is reasonably necessary because of local conditions and the city or county files a copy of that finding with the department.
+
+(b)In adopting ordinances or regulations for limited-density owner-built rural dwellings, a city or county may make such changes or modifications in the requirements contained in Article 8 (commencing with Section 74) of Subchapter 1 of Chapter 1 of Title 25 of the California Code of Regulations that it determines are reasonably necessary because of local conditions, if the city or county files a copy of the changes or modifications and the express findings for the changes or modifications with the department. No change or modification of that type shall become effective or operative for any purpose until the finding and the change or modification has been filed with the department.
+
+LISTED. (HCD 1) All products that appear in a list published by an approved testing or listing agency. For additional information, see Health and Safety Code Section 17920(h).
+
+[RB] LISTED. (SFM) Equipment, materials, products or services included in a list published by an organization acceptable to the code official and concerned with evaluation of products or services that maintains periodic inspection of production of listed equipment or materials or periodic evaluation of services and whose listing states either that the equipment, material, product or service meets identified standards or has been tested and found suitable for a specified purpose. For applications listed in Section 1.11 regulated by the Office of the State Fire Marshal, “listed” shall also mean equipment or materials accepted by the state fire marshal as conforming to the provisions of the State Fire Marshal’s regulations and which are included in a list published by the State Fire Marshal.
+
+LISTING AGENCY. (HCD 1 & HCD 2) An agency approved by the department that is in the business of listing and labeling products, materials, equipment and installations tested by an approved testing agency, and that maintains a periodic inspection program on current production of listed products, equipment and installations, and that, at least annually, makes available a published report of these listings. For additional information, see Health and Safety Code Section 17920(i).
+
+[RB] LIVE LOADS. Those loads produced by the use and occupancy of the building or other structure and do not include construction or environmental loads such as wind load, snow load, rain load, earthquake load, flood load or dead load.
+
+[RB] LIVE/WORK UNIT. A dwelling unit or sleeping unit in which a significant portion of the space includes a non-residential use that is operated by the tenant or building owner.
+
+[MP] LIVING SPACE. Space within a dwelling unit utilized for living, sleeping, eating, cooking, bathing, washing and sanitation purposes.
+
+[MP] LOCAL EXHAUST. An exhaust system that uses one or more fans to exhaust air from a specific room or rooms within a dwelling.
+
+
+
+[RB] LODGING HOUSE. (HCD 1) Any building or portion thereof containing not more than five guest rooms where rent is paid in money, goods, labor or otherwise, and that is occupied by the proprietor as the residence of such proprietor.
+
+[RB] LOT. A measured portion or parcel of land considered as a unit having fixed boundaries.
+
+[RB] LOT LINE. The line that bounds a plot of ground described as a lot in the title to the property.
+
+
+
+[RB] MANUFACTURER’S DESIGNATION. An identification applied on a product by the manufacturer indicating that a product or material complies with a specified standard or set of rules. (See also “Mark” and “Label.”)
+
+[RB] MANUFACTURER’S INSTALLATION INSTRUCTIONS. Printed instructions included with equipment as part of the conditions of their listing and labeling.
+
+[RB] MARK. An identification applied on a product by the manufacturer indicating the name of the manufacturer and the function of a product or material. (See also “Manufacturer’s designation” and “Label.”)
+
+[RB] MASONRY, SOLID. Masonry consisting of solid masonry units laid contiguously with the joints between the units filled with mortar.
+
+[RB] MASONRY CHIMNEY. A field-constructed chimney composed of solid masonry units, bricks, stones or concrete.
+
+[RB] MASONRY HEATER. A masonry heater is a solid fuel burning heating appliance constructed predominantly of concrete or solid masonry having a mass of not less than 1,100 pounds (500 kg), excluding the chimney and foundation. It is designed to absorb and store a substantial portion of heat from a fire built in the firebox by routing exhaust gases through internal heat exchange channels in which the flow path downstream of the firebox includes not less than one 180-degree (3.14-rad) change in flow direction before entering the chimney and that deliver heat by radiation through the masonry surface of the heater.
+
+[RB] MASONRY UNIT. 
+Brick, tile, stone, architectural cast stone, glass block or concrete block conforming to the requirements specified in Section 2103 of the California Building Code.
+
+Clay. A building unit larger in size than a brick, composed of burned clay, shale, fire clay or mixtures thereof.
+
+Concrete. A building unit or block larger in size than 12 inches by 4 inches by 4 inches (305 mm by 102 mm by 102 mm) made of cement and suitable aggregates.
+
+Glass. Nonload-bearing masonry composed of glass units bonded by mortar.
+
+Hollow. A masonry unit with a net cross-sectional area in any plane parallel to the loadbearing surface that is less than 75 percent of its gross cross-sectional area measured in the same plane.
+
+Solid. A masonry unit with a net cross-sectional area in every plane parallel to the loadbearing surface that is 75 percent or more of its cross-sectional area measured in the same plane.
+
+[RB] MEAN ROOF HEIGHT. The average of the roof eave height and the height to the highest point on the roof surface, except that eave height shall be used for roof angle of less than or equal to 10 degrees (0.18 rad).
+
+
+
+[RB] METAL ROOF PANEL. An interlocking metal sheet having an installed weather exposure of not less than 3 square feet (0.28 m2) per sheet.
+
+[RB] METAL ROOF SHINGLE. An interlocking metal sheet having an installed weather exposure less than 3 square feet (0.28 m2) per sheet.
+
+[RB] MEZZANINE. An intermediate level or levels between the floor and ceiling of any story.
+
+MEZZANINE, LOFT. An intermediate level or levels between the floor and ceiling of any story with an aggregate floor area of not more than one-third of the area of the room or space in which the level or levels are located.
+
+[RB] MODIFIED BITUMEN ROOF COVERING. One or more layers of polymer modified asphalt sheets. The sheet materials shall be fully adhered or mechanically attached to the substrate or held in place with an approved ballast layer.
+
+[RB] MULTIPLE-STATION SMOKE ALARM. Two or more single-station alarm devices that are capable of interconnection such that actuation of one causes all integral or separate audible alarms to operate.
+
+[RB] NAILABLE SUBSTRATE. A product or material such as framing, sheathing or furring, composed of wood or wood-based materials or other materials and fasteners providing equivalent fastener withdrawal resistance.
+
+
+
+[RB] NATURALLY DURABLE WOOD. The heartwood of the following species with the exception that an occasional piece with corner sapwood is permitted if 90 percent or more of the width of each side on which it occurs is heartwood.
+
+Decay resistant. Redwood, cedar, black locust and black walnut.
+
+Termite resistant. Alaska yellow cedar, redwood, Eastern red cedar and Western red cedar including all sapwood of Western red cedar.
+
+NONAMBULATORY PERSONS are persons unable to leave a building unassisted under emergency conditions. It includes, but is not limited to, persons who depend on mechanical aids such as crutches, walkers and wheelchairs and any person who is unable to physically and mentally respond to a sensory signal approved by the state fire marshal or an oral instruction relating to fire danger.
+
+The determination of ambulatory or nonambulatory status of persons with developmental disabilities shall be made by the Director of Social Services or his or her designated representative, in consultation with the director of Developmental Services or his or her designated representative. The determination of ambulatory or nonambulatory status of all other disabled persons placed after January 1, 1984, who are not developmentally disabled shall be made by the Director of Social Services or his or her designated representative.
+
+[RB] NONCOMBUSTIBLE MATERIAL. Noncombustible as applied to building construction material means a material which, in the form in which it is used, is either one of the following:
+
+1.Material of which no part will ignite and burn when subjected to fire. Any material passing ASTM E136 shall be considered noncombustible.
+
+2.Material having a structural base of noncombustible material as defined in Item 1 above, with a surfacing material not over 1/8 inch (3.2 mm) thick which has a flame-spread index of 50 or less.
+
+“Noncombustible” does not apply to surface finish materials. Material required to be noncombustible for reduced clearances to flues, heating appliances or other sources of high temperature shall refer to material conforming to Item 1. No material shall be classed as noncombustible which is subject to increase in combustibility or flame-spread index, beyond the limits herein established, through the effects of age, moisture or other atmospheric condition.
+
+[RB] NOSING. The leading edge of treads of stairs and of landings at the top of stairway flights.
+
+[RB] OCCUPIED SPACE. The total area of all buildings or structures on any lot or parcel of ground projected on a horizontal plane, excluding permitted projections as allowed by this code.
+
+
+
+[RB] OWNER. Any person, agent, firm or corporation having a legal or equitable interest in the property.
+
+[RB] PAN FLASHING. Corrosion-resistant flashing at the base of an opening that is integrated into the building exterior wall to direct water to the exterior and is premanufactured, fabricated, formed or applied at the job site.
+
+[RB] PANEL THICKNESS. Thickness of core plus two layers of structural wood panel facings.
+
+PASSIVE SOLAR ENERGY COLLECTOR. Uses architectural components, rather than mechanical components, to provide heating or cooling for a building interior.
+
+[MP] PELLET FUEL-BURNING APPLIANCE. A closed combustion, vented appliance equipped with a fuel feed mechanism for burning processed pellets of solid fuel of a specified size and composition.
+
+
+
+[RB] PERFORMANCE CATEGORY. A designation of wood structural panels as related to the panel performance used in Chapters 4, 5, 6 and 8.
+
+[RB] PERMIT. An official document or certificate issued by the building official that authorizes performance of a specified activity.
+
+[RB] PERSON. An individual, heirs, executors, administrators or assigns, and a firm, partnership or corporation, its or their successors or assigns, or the agent of any of the aforesaid.
+
+PERSONS WITH INTELLECTUAL DISABILITIES, PROFOUNDLY OR SEVERELY. Shall mean any persons with intellectual disabilities who is unable to evacuate a building unassisted during emergency conditions.
+
+Note: The determination as to such incapacity shall be made by the Director of the State Department of Public Health or his or her designated representative pursuant to Health and Safety Code Section 13131.3.
+Note: The determination as to such incapacity shall be made by the Director of the State Department of Public Health or his or her designated representative pursuant to Health and Safety Code Section 13131.3.
+
+[RB] PHOTOVOLTAIC MODULE. A complete, environmentally protected unit consisting of solar cells, optics and other components, exclusive of a tracker, designed to generate DC power where exposed to sunlight.
+
+[RB] PHOTOVOLTAIC PANEL. A collection of photovoltaic modules mechanically fastened together, wired and designed to provide a field-installable unit.
+
+[RB] PHOTOVOLTAIC PANEL SYSTEM. A system that incorporates discrete photovoltaic panels that convert solar radiation into electricity, including rack support systems.
+
+PHOTOVOLTAIC (PV) PANEL SYSTEM, GROUND-MOUNTED. An independent photovoltaic (PV) panel system without useable space underneath, installed directly on the ground.
+
+PHOTOVOLTAIC (PV) SUPPORT STRUCTURE, ELEVATED. An independent photovoltaic (PV) panel support structure designed with useable space underneath with minimum clear height of 7 feet 6 inches (2286 mm), intended for secondary use such as providing shade or parking of motor vehicles.
+
+[RB] PHOTOVOLTAIC SHINGLES. A roof covering that resembles shingles and that incorporates photovoltaic modules.
+
+
+
+[RB] PLASTIC COMPOSITE. A generic designation that refers to wood-plastic composites and plastic lumber.
+
+[RB] PLATFORM CONSTRUCTION. A method of construction by which floor framing bears on load bearing walls that are not continuous through the story levels or floor framing.
+
+[MP] PLENUM. A chamber that forms part of an air-circulation system other than the occupied space being conditioned.
+
+
+
+[RB] POLYPROPYLENE SIDING. A shaped material, made principally from polypropylene homopolymer, or copolymer, that in some cases contains fillers or reinforcements, that is used to clad exterior walls or buildings.
+
+
+
+[RB] POSITIVE ROOF DRAINAGE. The drainage condition in which consideration has been made for the loading deflections of the roof deck, and additional slope has been provided to ensure drainage of the roof within 48 hours of precipitation.
+
+
+
+[RB] PRECAST CONCRETE. A structural concrete element cast elsewhere than its final position in the structure.
+
+[RB] PRECAST CONCRETE FOUNDATION WALLS. Preengineered, precast concrete wall panels that are designed to withstand specified stresses and used to build below-grade foundations.
+
+PROTECTIVE SOCIAL CARE FACILITY. A facility housing persons, who are referred, placed or caused to be placed in the facility, by any governmental agency and for whom the services, or a portion thereof, are paid for by any governmental agency. These occupancies shall include, but are not limited to, those commonly referred to as “assisted living facilities,” “social rehabilitation facilities,” “certified family care homes,” “out-of-home placement facilities” and “halfway houses.”
+
+
+
+[RB] PUBLIC WAY. Any street, alley or other parcel of land open to the outside air leading to a public street, that has been deeded, dedicated or otherwise permanently appropriated to the public for public use and that has a clear width and height of not less than 10 feet (3048 mm).
+
+
+
+[MP] PUSH-FIT FITTING. A mechanical fitting that joins pipes or tubes and achieves a seal by mating the pipe or tube into the fitting.
+
+[RB] RAMP. A walking surface that has a running slope steeper than 1 unit vertical in 20 units horizontal (5-percent slope).
+
+
+
+[RB] READY ACCESS (TO). That which enables a device, appliance or equipment to be directly reached, without requiring the removal or movement of any panel, door or similar obstruction.
+
+
+
+[RB] REGISTERED DESIGN PROFESSIONAL. An individual who is registered or licensed to practice their respective design profession as defined by the statutory requirements of the professional registration laws of the state or jurisdiction in which the project is to be constructed.
+
+
+
+[RB] REPAIR. The reconstruction, replacement or renewal of any part of an existing building for the purpose of its maintenance or to correct damage.
+
+[RB] REROOFING. The process of recovering or replacing an existing roof covering. See “Roof recover.”
+
+
+
+RESIDENTIAL CARE FACILITY FOR THE CHRONICALLY ILL (RCF/CI), as termed, means a housing arrangement with a maximum capacity of 25 residents that provides a range of services to residents who have chronic, life-threatening illnesses.
+
+RESIDENTIAL CARE FACILITY FOR THE ELDERLY (RCFE), as defined in Health and Safety Code Section 1569.2, shall mean a facility with a housing arrangement chosen voluntarily by persons 60 years of age or over, or their authorized representative, where varying levels and intensities of care and supervision, protective supervision or personal care are provided, based on their varying needs, as determined in order to be admitted and to remain in the facility. Persons under 60 years of age with compatible needs, as determined by the Department of Social Services in regulations, may be allowed to be admitted or retained in a residential-care facility for the elderly. Pursuant to Health and Safety Code Section 13133, regulations of the State Fire Marshal pertaining to Group R, Division 2 Occupancies classified as Residential Facilities (RF) and Residential-care Facilities for the Elderly (RCFE) shall apply uniformly throughout the state and no city, county, city and county, including a charter city or charter county or fire protection district shall adopt or enforce any ordinance or local rule or regulation relating to fire and panic safety which is in consistent with these regulations. A city, county, city and county, including a charter city or charter county may pursuant to Health and Safety Code Section 13143.5, or a fire protection district may pursuant to Health and Safety Code Section 13869.7, adopt standards more stringent than those adopted by the State Fire Marshal that are reasonably necessary to accommodate local climate, geological or topographical conditions relating to roof coverings for Residential-care Facilities for the Elderly.
+
+RESIDENTIAL FACILITY (RF), as defined in Section 1502 of the Health and Safety Code, shall mean any family home, group care facility or similar facility determined by the director of Social Services, for 24-hour nonmedical care of persons in need of personal services, supervision or assistance essential for sustaining the activities of daily living or for the protection of the individual. Such facilities include small family homes and social rehabilitation facilities. Pursuant to Health and Safety Code Section 13133, regulations of the State Fire Marshal pertaining to Group R Occupancies classified as Residential Facilities (RF) and Residential-care Facilities for the Elderly (RCFE) shall apply uniformly throughout the state and no city, county, city and county, including a charter city or charter county or fire protection district shall adopt or enforce any ordinance or local rule or regulation relating to fire and panic safety which is in consistent with these regulations. A city, county, city and county, including a charter city or charter county may pursuant to Health and Safety Code Section 13143.5, or a fire protection district may pursuant to Health and Safety Code Section 13869.7, adopt standards more stringent than those adopted by the State Fire Marshal that are reasonably necessary to accommodate local climate, geological or topographical conditions relating to roof coverings for Residential-care Facilities for the Elderly.
+
+RESTRAINT. The physical retention of a person within a room, cell or cell block by any means, or within the exterior walls of a building by means of locked doors inoperable by the person restrained. Restraint shall also mean the physical binding, strapping or similar restriction of any person in a chair, walker, bed or other contrivance for the purpose of deliberately restricting the free movement of ambulatory persons. Restraint shall not be construed to include nonambulatory persons nor shall it include the use of bandage material, strip sheeting or other fabrics or materials (soft ties) used to restrain persons in hospital-type beds or wheelchairs to prevent injury, provided an approved method of quick release is maintained. Facilities employing the use of soft ties, however, shall be classified as a building used to house nonambulatory persons. Restraint shall not be practiced in licensed facilities classified as Group R-3.1 and R-4 occupancies unless constructed as a Group I-3 occupancy. For Group I-3 Occupancies see Section 308.5 of the California Building Code.
+
+
+
+[RB] RIDGE. With respect to topographic wind effects, an elongated crest of a hill characterized by strong relief in two directions.
+
+[RB] RISER (STAIR). The vertical component of a step or stair.
+
+[RB] ROOF ASSEMBLY. A system designed to provide weather protection and resistance to design loads. The system consists of a roof covering and roof deck or a single component serving as both the roof covering and the roof deck. A roof assembly can include an underlayment, thermal barrier, ignition barrier, insulation or a vapor retarder.
+
+
+
+[RB] ROOF COATING. A fluid-applied, adhered coating used for roof maintenance or roof repair, or as a component of a roof covering system or roof assembly.
+
+[RB] ROOF COVERING. The covering applied to the roof deck for weather resistance, fire classification or appearance.
+
+[RB] ROOF COVERING SYSTEM. See “Roof assembly.”
+
+[RB] ROOF DECK. The flat or sloped surface not including its supporting members or vertical supports.
+
+[RB] ROOF RECOVER. The process of installing an additional roof covering over an existing roof covering without removing the existing roof covering.
+
+
+
+[RB] ROOF REPAIR. Reconstruction or renewal of any part of an existing roof for the purposes of its maintenance.
+
+
+
+[RB] ROOF REPLACEMENT. The process of removing the existing roof covering, repairing any damaged substrate and installing a new roof covering.
+
+
+
+[RB] RUNNING BOND. The placement of masonry units such that head joints in successive courses are horizontally offset not less than one-quarter the unit length.
+
+
+
+[RB] SCUPPER. An opening in a wall or parapet that allows water to drain from a roof.
+
+[RB] SEISMIC DESIGN CATEGORY (SDC). A classification assigned to a structure based on its occupancy category and the severity of the design earthquake ground motion at the site.
+
+
+
+[RB] SHALL. The term, where used in the code, is construed as mandatory.
+
+[RB] SHEAR WALL. A general term for walls that are designed and constructed to resist racking from seismic and wind by use of masonry, concrete, cold-formed steel or wood framing in accordance with Chapter 6 of this code and the associated limitations in Section R301.2 of this code.
+
+[RB] SHINGLE FASHION. A method of installing roof or wall coverings, water-resistive barriers, flashing or other building components such that upper layers of material are placed overlapping lower layers of material to provide drainage and protect against water intrusion at unsealed penetrations and joints or in combination with sealed joints.
+
+[RB] SINGLE-PLY MEMBRANE. A roofing membrane that is field applied using one layer of membrane material (either homogeneous or composite) rather than multiple layers.
+
+[RB] SINGLE-STATION SMOKE ALARM. An assembly incorporating the detector, control equipment and alarm sounding device in one unit that is operated from a power supply either in the unit or obtained at the point of installation.
+
+
+
+[RB] SKYLIGHT, UNIT. A factory assembled, glazed fenestration unit, containing one panel of glazing material, that allows for natural daylighting through an opening in the roof assembly while preserving the weather-resistant barrier of the roof.
+
+[RB] SKYLIGHTS AND SLOPED GLAZING. Glass or other transparent or translucent glazing material installed at a slope of 15 degrees (0.26 rad) or more from vertical. Unit skylights, tubular daylighting devices and glazing materials in solariums, sunrooms, roofs and sloped walls are included in this definition.
+
+
+
+[RB] SLEEPING UNIT. A single unit that provides rooms or spaces for one or more persons, includes permanent provisions for sleeping and can include provisions for living, eating and either sanitation or kitchen facilities but not both. Such rooms and spaces that are also part of a dwelling unit are not sleeping units.
+
+[RB] SMOKE-DEVELOPED INDEX. A comparative measure, expressed as a dimensionless number, derived from measurements of smoke obscuration versus time for a material tested in accordance with ASTM E84 or UL 723.
+
+
+
+[RB] SOLAR ENERGY SYSTEM. A system that converts solar radiation to usable energy, including photovoltaic panel systems and solar thermal systems.
+
+
+
+[MP] SOLAR THERMAL COLLECTOR. Components in a solar thermal system that collect and convert solar radiation to thermal energy.
+
+[MP] SOLAR THERMAL SYSTEM. A system that converts solar radiation to thermal energy for use in heating or cooling.
+
+[RB] SOLID MASONRY. Load-bearing or nonload-bearing construction using masonry units where the net cross-sectional area of each unit in any plane parallel to the bearing surface is not less than 75 percent of its gross cross-sectional area. Solid masonry units shall conform to ASTM C55, C62, C73, C145 or C216.
+
+[RB] SPLINE. A strip of wood structural panel cut from the same material used for the panel facings, used to connect two structural insulated panels. The strip (spline) fits into a groove cut into the vertical edges of the two structural insulated panels to be joined. Splines are used behind each facing of the structural insulated panels being connected as shown in Figure R610.8.
+
+
+
+[RB] STACK BOND. The placement of masonry units in a bond pattern is such that head joints in successive courses are vertically aligned. For the purpose of this code, requirements for stack bond shall apply to all masonry laid in other than running bond.
+
+
+
+[RB] STAIR. A change in elevation, consisting of one or more risers.
+
+[RB] STAIRWAY. One or more flights of stairs, either interior or exterior, with the necessary landings and connecting platforms to form a continuous and uninterrupted passage from one level to another.
+
+[RB] STAIRWAY, SPIRAL. A stairway with a plan view of closed circular form and uniform section-shaped treads radiating from a minimum-diameter circle.
+
+STATE-OWNED/LEASED BUILDING. A building or portion of a building that is owned, leased or rented by the state. State-leased buildings shall include all required exits to a public way serving such leased area or space. Portions of state-leased buildings that are not leased or rented by the state shall not be included within the scope of this section unless such portions present an exposure hazard to the state-leased area or space.
+
+
+
+[RB] STORM SHELTER. A building, structure or portion thereof, constructed in accordance with ICC 500 and designated for use during a severe wind storm event, such as a hurricane or tornado.
+
+[RB] STORY. That portion of a building included between the upper surface of a floor and the upper surface of the floor or roof next above.
+
+[RB] STORY ABOVE GRADE PLANE. Any story having its finished floor surface entirely above grade plane, or in which the finished surface of the floor next above is either of the following:
+
+1.More than 6 feet (1829 mm) above grade plane.
+
+2.More than 12 feet (3658 mm) above the finished ground level at any point.
+
+[RB] STRUCTURAL COMPOSITE LUMBER. Structural members manufactured using wood elements bonded together with exterior adhesives.
+
+Examples of structural composite lumber are:
+
+Laminated strand lumber (LSL). A composite of wood strand elements with wood fibers primarily oriented along the length of the member, where the least dimension of the wood strand elements is 0.10 inch (2.54 mm) or less and their average lengths are not less than 150 times the least dimension of the wood strand elements.
+
+Laminated veneer lumber (LVL). A composite of wood veneer elements with wood fibers primarily oriented along the length of the member, where the veneer element thicknesses are 0.25 inch (6.4 mm) or less.
+
+Oriented strand lumber (OSL). A composite of wood strand elements with wood fibers primarily oriented along the length of the member, where the least dimension of the wood strand elements is 0.10 inch (2.54 mm) or less and their average lengths are not less than 75 times and less than 150 times the least dimension of the wood strand elements.
+
+Parallel strand lumber (PSL). A composite of wood strand elements with wood fibers primarily oriented along the length of the member, where the least dimension of the wood strand elements is 0.25 inch (6.4 mm) or less and their average lengths are not less than 300 times the least dimension of the wood strand elements.
+
+[RB] STRUCTURAL INSULATED PANEL (SIP). A structural sandwich panel that consists of a lightweight foam plastic core securely laminated between two thin, rigid wood structural panel facings.
+
+[RB] STRUCTURE. That which is built or constructed.
+
+
+
+[RB] SUNROOM. A one-story structure attached to a dwelling with a glazing area in excess of 40 percent of the gross area of the structure’s exterior walls and roof.
+
+
+
+TERMINALLY ILL, as termed for an individual, means the individual has a life expectancy of six months or less as stated in writing by his or her attending physician and surgeon.
+
+
+
+[RB] TERMITE-RESISTANT MATERIAL. Pressure-preservative-treated wood in accordance with the AWPA standards in Section R317.1, naturally durable termite-resistant wood, steel, concrete, masonry or other approved material.
+
+TESTING AGENCY. An agency approved by the department as qualified and equipped for testing of products, materials, equipment and installations in accordance with nationally recognized standards. For additional information, see Health and Safety Code Section 17920(m).
+
+
+
+TODDLER. Any child between 18 months and 36 months of age.
+
+[RB] TOWNHOUSE. A building that contains three or more attached townhouse units.
+
+[RB] TOWNHOUSE UNIT. A single-family dwelling unit in a townhouse that extends from foundation to roof and that has a yard or public way on not less than two sides.
+
+
+
+[RB] TRIM. Picture molds, chair rails, baseboards, handrails, door and window frames and similar decorative or protective materials used in fixed applications.
+
+[RB] TRUSS DESIGN DRAWING. The graphic depiction of an individual truss, that describes the design and physical characteristics of the truss.
+
+[RB] TUBULAR DAYLIGHTING DEVICE (TDD). A nonoperable fenestration unit primarily designed to transmit daylight from a roof surface to an interior ceiling via a tubular conduit. The basic unit consists of an exterior glazed weathering surface, a light-transmitting tube with a reflective interior surface and an interior-sealing device such as a translucent ceiling panel. The unit may be factory assembled, or field assembled from a manufactured kit.
+
+[MP] TYPE L VENT. A listed and labeled vent conforming to UL 641 for venting oil-burning appliances listed for use with Type L vents or with gas appliances listed for use with Type B vents.
+
+
+
+[RB] UNDERLAYMENT. One or more layers of felt, sheathing paper, nonbituminous saturated felt, or other approved material over which a roof covering, with a slope of 2 units vertical in 12 units horizontal (17-percent slope) or greater, is applied.
+
+
+
+[RB] VAPOR DIFFUSION PORT. An assembly constructed or installed within a roof assembly at an opening in the roof deck to convey water vapor from an unvented attic to the outside atmosphere.
+
+[RB] VAPOR PERMEABLE. The property of having a moisture vapor permeance rating of 5 perms (2.9 × 10-10 kg/Pa × s × m2) or greater, where tested in accordance with Procedure A or Procedure B of ASTM E96. A vapor permeable material permits the passage of moisture vapor.
+
+[RB] VAPOR RETARDER CLASS. A measure of the ability of a material or assembly to limit the amount of moisture that passes through that material or assembly. Vapor retarder class shall be defined using the desiccant method with Procedure A of ASTM E96 as follows:
+
+Class I: ≤ 0.1 perm rating
+
+Class II: > 0.1 to ≤ 1.0 perm rating
+
+Class III: > 1.0 to ≤ 10 perm rating
+Class I: ≤ 0.1 perm rating
+
+Class II: > 0.1 to ≤ 1.0 perm rating
+
+Class III: > 1.0 to ≤ 10 perm rating
+
+[MP] VENT. A passageway for conveying flue gases from fuel-fired appliances, or their vent connectors, to the outside atmosphere.
+
+
+
+[RB] VENTILATION. The natural or mechanical process of supplying conditioned or unconditioned air to, or removing such air from, any space.
+
+
+
+[MP] VENTING. Removal of combustion products to the outdoors.
+
+
+
+[RB] VINYL SIDING. A shaped material, made principally from rigid polyvinyl chloride (PVC), that is used to cover exterior walls of buildings.
+
+
+
+[RB] WALL, RETAINING. A wall not laterally supported at the top, that resists lateral soil load and other imposed loads.
+
+[RB] WALLS. Walls shall be defined as follows:
+
+Load-bearing wall. A wall supporting any vertical load in addition to its own weight.
+
+Nonbearing wall. A wall which does not support vertical loads other than its own weight.
+
+
+
+[RB] WATER-RESISTIVE BARRIER. A material behind an exterior wall covering that is intended to resist liquid water that has penetrated behind the exterior covering from further intruding into the exterior wall assembly.
+
+
+
+WILDLAND-URBAN INTERFACE (WUI). A geographical area identified by the state as a “Fire Hazard Severity Zone” in accordance with the Public Resources Code Sections 4201 through 4204 and Government Code Sections 51175 through 51189, or other areas designated by the enforcing agency to be a significant risk from wildfires.
+
+[RB] WINDER. A tread with nonparallel edges.
+
+[RB] WOOD STRUCTURAL PANEL. A panel manufactured from veneers; or wood strands or wafers; bonded together with waterproof synthetic resins or other suitable bonding systems. Examples of wood structural panels are plywood, orientated strand board (OSB) or composite panels.
+
+[RB] YARD. An open space, other than a court, unobstructed from the ground to the sky, except where specifically provided by this code, on the lot on which a building is situated.
+
+
+

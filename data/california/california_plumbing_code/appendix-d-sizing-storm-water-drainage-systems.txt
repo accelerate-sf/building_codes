@@ -1,0 +1,327 @@
+Appendix D Sizing Storm Water Drainage Systems
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X			X	X			X	X	X	X	X	X	X	X								
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+D101.0 General
+D101.1 Applicability
+STATES AND CITIES	STORM DRAINAGE 60-MINUTE DURATION, 100-YEAR RETURN
+inches per hour	gallons per minute per square foot
+ALABAMA	-	-
+Birmingham	3.7	0.038
+Huntsville	3.3	0.034
+Mobile	4.5	0.047
+Montgomery	3.8	0.039
+
+ALASKA	-	-
+Aleutian Islands	1.0	0.010
+Anchorage	0.6	0.006
+Bethel	0.8	0.008
+Fairbanks	1.0	0.010
+Juneau	0.6	0.006
+
+ARIZONA	-	-
+Flagstaff	2.3	0.024
+Phoenix	2.2	0.023
+Tucson	3.0	0.031
+
+ARKANSAS	-	-
+Eudora	3.8	0.039
+Ft. Smith	3.9	0.041
+Jonesboro	3.5	0.036
+Little Rock	3.7	0.038
+
+CALIFORNIA	-	-
+Eureka	1.5	0.016
+Lake Tahoe	1.3	0.014
+Los Angeles	2.0	0.021
+Lucerne Valley	2.5	0.026
+Needles	1.5	0.016
+Palmdale	3.0	0.031
+Redding	1.5	0.016
+San Diego	1.5	0.016
+San Francisco	1.5	0.016
+San Luis Obispo	1.5	0.016
+
+COLORADO	-	-
+Craig	1.5	0.016
+Denver	2.2	0.023
+Durango	1.8	0.019
+Stratton	3.0	0.031
+
+CONNECTICUT	-	-
+Hartford	2.8	0.029
+New Haven	3.0	0.031
+
+DELAWARE	-	-
+Dover	3.5	0.036
+Rehobeth Beach	3.6	0.037
+
+DISTRICT OF COLUMBIA	-	-
+Washington	4.0	0.042
+
+FLORIDA	-	-
+Daytona Beach	4.0	0.042
+Ft. Myers	4.0	0.042
+Jacksonville	4.3	0.045
+Melbourne	4.0	0.042
+Miami	4.5	0.047
+Palm Beach	5.0	0.052
+Tampa	4.2	0.044
+Tallahassee	4.1	0.043
+
+GEORGIA	-	-
+Atlanta	3.5	0.036
+Brunswick	4.0	0.042
+Macon	3.7	0.038
+Savannah	4.0	0.042
+Thomasville	4.0	0.042
+
+HAWAII	-	-
+Rainfall rates in the Hawaiian Islands vary from 11/2 inches per hour to 8 inches per hour, depending on location and elevation. Consult local data.
+
+IDAHO	-	-
+Boise	1.0	0.010
+Idaho Falls	1.2	0.012
+Lewiston	1.0	0.010
+Twin Falls	1.1	0.011
+
+ILLINOIS	-	-
+Chicago	2.7	0.028
+Harrisburg	3.1	0.032
+Peoria	2.9	0.030
+Springfield	3.0	0.031
+		
+INDIANA	-	-
+Evansville	3.0	0.031
+Indianapolis	2.8	0.029
+Richmond	2.7	0.028
+South Bend	2.7	0.028
+
+IOWA	-	-
+Council Bluffs	3.7	0.038
+Davenport	3.0	0.031
+Des Moines	3.4	0.035
+Sioux City	3.6	0.037
+
+KANSAS	-	-
+Goodland	3.5	0.036
+Salina	3.8	0.039
+Topeka	3.8	0.039
+Wichita	3.9	0.041
+
+KENTUCKY	-	-
+Bowling Green	2.9	0.030
+Lexington	2.9	0.030
+Louisville	2.8	0.029
+Paducah	3.0	0.031
+
+LOUISIANA	-	-
+Monroe	3.8	0.039
+New Orleans	4.5	0.047
+Shreveport	4.0	0.042
+
+MAINE	-	-
+Bangor	2.2	0.023
+Kittery	2.4	0.025
+Millinocket	2.0	0.021
+
+MARYLAND	-	-
+Baltimore	3.6	0.037
+Frostburg	2.9	0.030
+Ocean City	3.7	0.038
+
+MASSACHUSETTS	-	-
+Adams	2.6	0.027
+Boston	2.7	0.028
+Springfield	2.7	0.028
+
+MICHIGAN	-	-
+Detroit	2.5	0.026
+Grand Rapids	2.6	0.027
+Kalamazoo	2.7	0.028
+Sheboygan	2.1	0.022
+Traverse City	2.2	0.023
+
+MINNESOTA	-	-
+Duluth	2.6	0.027
+Grand Forks	2.5	0.026
+Minneapolis	3.0	0.031
+Worthington	3.4	0.035
+
+MISSISSIPPI	-	-
+Biloxi	4.5	0.047
+Columbus	3.5	0.036
+Jackson	3.8	0.039
+
+MISSOURI	-	-
+Independence	3.7	0.038
+Jefferson City	3.4	0.035
+St. Louis	3.2	0.033
+Springfield	3.7	0.038
+
+MONTANA	-	-
+Billings	1.8	0.019
+Glendive	2.5	0.026
+Great Falls	1.8	0.019
+Missoula	1.3	0.014
+
+NEBRASKA	-	-
+Omaha	3.6	0.037
+North Platte	3.5	0.036
+Scotts Bluff	2.8	0.029
+
+NEVADA	-	-
+Las Vegas	1.5	0.016
+Reno	1.2	0.012
+Winnemucca	1.0	0.010
+
+NEW HAMPSHIRE	-	-
+Berlin	2.2	0.023
+Manchester	2.5	0.026
+
+NEW JERSEY	-	-
+Atlantic City	3.4	0.035
+Paterson	3.0	0.031
+Trenton	3.2	0.033
+
+NEW MEXICO	-	-
+Albuquerque	2.0	0.021
+Carlsbad	2.6	0.027
+Gallup	2.1	0.022
+
+NEW YORK	-	-
+Binghamton	2.4	0.025
+Buffalo	2.3	0.024
+New York City	3.1	0.032
+Schenectady	2.5	0.026
+Syracuse	2.4	0.025
+
+NORTH CAROLINA	-	-
+Asheville	3.2	0.033
+Charlotte	3.4	0.035
+Raleigh	4.0	0.042
+Wilmington	4.4	0.046
+
+NORTH DAKOTA	-	-
+Bismark	2,7	0.028
+Fargo	2.9	0.030
+Minot	2.6	0.027
+
+OHIO	-	-
+Cincinnati	2.8	0.029
+Cleveland	2.4	0.025
+Columbus	2.7	0.028
+Toledo	2.6	0.027
+Youngstown	2.4	0.025
+
+OKLAHOMA	-	-
+Boise City	3.4	0.035
+Muskogee	4.0	0.042
+Oklahoma City	4.1	0.043
+
+OREGON	-	-
+Medford	1.3	0.014
+Ontario	1.0	0.010
+Portland	1.3	0.014
+
+PENNSYLVANIA	-	-
+Erie	2.4	0.025
+Harrisburg	2.9	0.030
+Philadelphia	3.2	0.033
+Pittsburgh	2.5	0.026
+Scranton	2.8	0.029
+
+RHODE ISLAND	-	-
+Newport	3.0	0.031
+Providence	2.9	0.030
+
+SOUTH CAROLINA	-	-
+Charleston	4.1	0.043
+Columbia	3.5	0.036
+Greenville	3.3	0.034
+
+SOUTH DAKOTA	-	-
+Lemmon	2.7	0.028
+Rapid City	2.7	0.028
+Sioux Falls	3.4	0.035
+
+TENNESSEE	-	-
+Knoxville	3.1	0.032
+Memphis	3.5	0.036
+Nashville	3.0	0.031
+
+TEXAS	-	-
+Corpus Christi	4.6	0.048
+Dallas	4.2	0.044
+El Paso	2.0	0.021
+Houston	4.6	0.048
+Lubbock	3.3	0.034
+San Antonio	4.4	0.046
+
+UTAH	-	-
+Bluff	2.0	0.021
+Cedar City	1.5	0.016
+Salt Lake City	1.3	0.014
+
+VERMONT	-	-
+Bennington	2.5	0.026
+Burlington	2.3	0.024
+Rutland	2.4	0.025
+
+VlRGINIA	-	-
+Charlottesville	3.4	0.035
+Norfolk	4.0	0.042
+Richmond	4.0	0.042
+Roanoke	3.3	0.034
+
+WASHINGTON	-	-
+Seattle	1.0	0.010
+Spokane	1.0	0.010
+Walla Walla	1.0	0.010
+
+WEST VIRGINIA	-	-
+Charleston	2.9	0.030
+Martinsburg	3.0	0.031
+Morgantown	2.7	0.028
+
+WISCONSIN	-	-
+Green Bay	2.5	0.026
+Lacrosse	2.9	0.030
+Milwaukee	2.7	0.028
+Wausau	2.5	0.026
+
+WYOMING	-	-
+Casper	1.9	0.020
+Cheyenne	2.5	0.026
+Evanston	1.3	0.014
+Rock Springs	1.4	0.015
+
+D102.0 Sizing by Flow Rate
+D102.1 General
+D103.0 Sizing by Roof Area
+D103.1 General
+D104.0 Capacity of Rectangular Scuppers
+D104.1 General
+WATER HEAD (inches)	WIDTH OF SCUPPER (inches)
+6	12	18	24	30	36
+1/2	6	13	19	25	32	38
+1	17	35	53	71	89	107
+11/2	31	64	97	130	163	196
+2	-	98	149	200	251	302
+21/2	-	136	207	278	349	420
+3	-	177	271	364	458	551
+31/2	-	-	339	457	575	693
+4	-	-	412	556	700	844
+

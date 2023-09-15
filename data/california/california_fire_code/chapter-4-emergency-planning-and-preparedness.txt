@@ -1,0 +1,1243 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 4 – EMERGENCY PLANNING AND PREPAREDNESS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	CSA	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below			X																				
+[California Code of Regulations, Title 19, Division 1]				X																			
+Chapter / Section																							
+401 − 401.9			X																				
+402			X																				
+403.1			X																				
+403.2			X																				
+403.4 − 403.4.4			X																				
+[T-19 §3.13 (a)(1)]				X																			
+403.9.2.1.1			X																				
+403.10.6			X																				
+403.12 − 403.12.3			X																				
+[T-19 §3.13 (c)(1)]				X																			
+[T-19 §3.10]				X																			
+[T-19 §3.13 (a)(2)]				X																			
+[T-19 §3.13 (b)]				X																			
+404.5-404.6.6			X																				
+[T-19 §3.13 (a)(1)]				X																			
+[T-19 §3.13 (c)(2 & 3)]				X																			
+407				X																			* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 4 EMERGENCY PLANNING AND PREPAREDNESS
+
+User note:
+
+About this chapter: Chapter 4 addresses the human contribution to life safety in buildings when a fire or other emergency occurs. The requirements for continuous training and scheduled fire, evacuation and lockdown drills can be as important as the required periodic inspections and maintenance of built-in fire protection features. The level of preparation by the occupants also improves the emergency responders’ abilities during an emergency. The California Building Code focuses on built-in fire protection features, such as automatic sprinkler systems, fire-resistance-rated construction and properly designed egress systems, whereas this chapter fully addresses the human element.
+
+SECTION 401 GENERAL
+
+401.1 Scope.
+
+Reporting of emergencies, coordination with emergency response forces, emergency plans and procedures for managing or responding to emergencies shall comply with the provisions of this section.
+
+Exception: Firms that have approved on-premises fire-fighting organizations and that are in compliance with approved procedures for fire reporting.
+
+401.2 Approval.
+
+Where required by this code, fire safety plans, emergency procedures and employee training programs shall be approved by the fire code official.
+
+401.3 Emergency responder notification.
+
+Notification of emergency responders shall be in accordance with Sections 401.3.1 through 401.3.3.
+
+401.3.1 Fire events.
+
+In the event an unwanted fire occurs on a property, the owner or occupant shall immediately report such condition to the fire department.
+
+401.3.2 Alarm activations.
+
+Upon activation of a fire alarm signal, employees or staff shall immediately notify the fire department.
+
+401.3.3 Delayed notification.
+
+A person shall not, by verbal or written directive, require any delay in the reporting of a fire to the fire department.
+
+401.3.4 Group E fire alarm initiation.
+
+Every person and public officer managing, controlling or in charge of any public, private or parochial school shall cause the fire alarm signal to be sounded upon the discovery of fire.
+
+401.4 Required plan implementation.
+
+In the event an unwanted fire is detected in a building or a fire alarm activates, the emergency plan shall be implemented.
+
+401.5 Making false report.
+
+A person shall not give, signal or transmit a false alarm.
+
+401.6 Emergency evacuation drills.
+
+The sounding of a fire alarm signal and the carrying out of an emergency evacuation drill in accordance with the provisions of Section 405 shall be allowed.
+
+401.7 Unplanned evacuation.
+
+Evacuations made necessary by the unplanned activation of a fire alarm system or by any other emergency shall not be substituted for a required evacuation drill.
+
+401.8 Interference with fire department operations.
+
+It shall be unlawful to interfere with, attempt to interfere with, conspire to interfere with, obstruct or restrict the mobility of or block the path of travel of a fire department emergency vehicle in any way, or to interfere with, attempt to interfere with, conspire to interfere with, obstruct or hamper any fire department operation.
+
+401.9 Evacuation of buildings.
+
+Upon notification of fire, conduct of any fire drill, upon activation of the fire alarm, or upon orders of the fire authority having jurisdiction, buildings or structures within the scope of these regulations shall be immediately evacuated or occupants shall be relocated in accordance with established plans.
+
+SECTION 402 DEFINITIONS
+
+402.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+EMERGENCY EVACUATION DRILL.
+
+LOCKDOWN.
+
+SECTION 403 EMERGENCY PREPAREDNESS REQUIREMENTS
+
+403.1 General.
+
+In addition to the requirements of Section 401, occupancies, uses and outdoor locations shall comply with the emergency preparedness requirements set forth in Sections 403.2 through 403.11.3.3. Where a fire safety and evacuation plan is required by Sections 403.2 through 403.10.6, evacuation drills shall be in accordance with Section 405 and employee training shall be in accordance with Section 406.
+
+403.2 Group A occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group A occupancies, other than those occupancies used exclusively for purposes of religious worship with an occupant load less than 2,000, and for buildings containing both a Group A occupancy and an atrium. Group A occupancies shall comply with Sections 403.2.1 through 403.2.4.
+
+403.2.1 Seating plan.
+
+In addition to the requirements of Section 404.2, the fire safety and evacuation plans for assembly occupancies shall include a detailed seating plan, occupant load and occupant load limit. Deviations from the approved plans shall be allowed provided that the occupant load limit for the occupancy is not exceeded and the aisles and exit accessways remain unobstructed.
+
+403.2.2 Announcements.
+
+In theaters, motion picture theaters, auditoriums and similar assembly occupancies in Group A used for noncontinuous programs, an audible announcement shall be made not more than 10 minutes prior to the start of each program to notify the occupants of the location of the exits to be used in the event of a fire or other emergency.
+
+Exception: In motion picture theaters, the announcement is allowed to be projected on the screen in a manner approved by the fire code official.
+
+403.2.3 Fire watch personnel.
+
+Fire watch personnel shall be provided where required by Section 403.11.1.
+
+403.2.4 Crowd managers.
+
+Crowd managers shall be provided where required by Section 403.11.3.
+
+403.3 Group B occupancies.
+
+An approved fire safety and
+evacuation plan in accordance with Section 404 shall be
+prepared and maintained for buildings containing a Group B
+occupancy where the Group B occupancy has an occupant
+load of 500 or more persons or more than 100 persons above
+or below the lowest level of exit discharge and for buildings
+having an ambulatory care facility.
+
+403.3.1 Ambulatory care facilities.
+
+Ambulatory care facilities shall comply with the requirements of Sections 401, 403.3.1.1 through 403.3.1.2 and 404 through 406.
+
+403.3.1.1 Fire safety and evacuation plan.
+
+The fire safety and evacuation plan required by Section 404 shall include a description of special staff actions. This
+shall include procedures for stabilizing care recipients
+in a defend-in-place response, staged evacuation, or full
+evacuation in conjunction with the entire building if
+part of a multitenant facility.
+
+403.3.1.1.1 Fire safety plan.
+
+A copy of the fire safety plan shall be maintained at the facility at all times. The plan shall include all of the following in addition to the requirements of Section 404:
+
+1. Locations of care recipients who are rendered incapable of self-preservation.
+
+2.Maximum number of care recipients rendered incapable of self-preservation.
+
+3.Area and extent of each ambulatory care facility.
+
+4. Location of any special locking arrangements.
+
+403.3.1.2 Staff training.
+
+Staff shall be periodically
+instructed and kept informed of their duties and responsibilities under the plan. Records of instruction shall be
+maintained. Such instruction shall be reviewed by the staff at intervals not exceeding three months. Training
+of new staff shall be provided promptly on entrance to
+duty.
+
+Staff shall be instructed in the proper use of portable
+fire extinguishers and other manual fire suppression
+equipment.
+
+
+
+403.4 Group E occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group E occupancies and for buildings containing both a Group E occupancy and an atrium. Group E occupancies shall comply with Sections 403.4.1 through 403.4.4.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(a)(1)] Fire Drills. (Group E Occupancies)
+
+(a)Group E Occupancies.
+
+(1)General. Every person and public officer managing, controlling or in charge of any public, private or parochial school shall cause the fire alarm signal to be sounded upon the discovery of fire. Every person and public officer managing, controlling or in charge of any public, private or parochial school, other than a two-year community college, shall cause the fire alarm signal to be sounded not less than once every calendar month at the elementary and intermediate levels, and not less than twice yearly at the secondary level, in the manner prescribed in California Code of Regulations, Title 24, Part 2, Section 907.
+
+A fire drill shall be held at the secondary level not less than twice every school year.
+
+403.4.1 Group E Occupancies.
+
+Every person and public officer managing, controlling or in charge of any public, private or parochial school, other than a two-year community college, shall cause the fire alarm signal to be sounded not less than once every calendar month at the elementary and intermediate levels, and not less than twice yearly at the secondary level in the manner prescribed in Section 907. A fire drill shall be held at the secondary level not less than twice every school year.
+
+403.4.1.1 Emergency Pre-Fire Planning.
+
+Each school principal, district superintendent or day nursery manager shall, in cooperation with the enforcing agency, prepare procedures to be followed in case of fire or other emergency. They should include the following:
+
+1.Posting of the telephone number of the fire department in the office and/or at the main switchboard.
+
+2.Assignment of a responsible person to call the fire department upon notification of any fire or activation of the alarm system for any reason other than fire drills.
+
+3.Posting in a conspicuous place in each classroom or assembly area a plan showing paths of travel to evacuate the room in case of emergency and including an alternate route.
+
+4.Posting in each classroom instructions to be followed by the teacher. These should include:
+
+4.1. Maintaining of order during evacuation.
+
+4.2. Removal of roll call book and calling of roll when designated evacuation area is reached.
+
+403.4.2 403.4.2 First emergency evacuation drill.
+
+The first emergency evacuation drill of each school year shall be conducted within 10 days of the beginning of classes.
+
+403.4.3 403.4.3 Time of day.
+
+Emergency evacuation drills shall be conducted at different hours of the day or evening, during the changing of classes, when the school is at assembly, during the recess or gymnastic periods, or during other times to avoid distinction between drills and actual fires.
+
+403.4.4 403.4.4 Assembly points.
+
+Outdoor assembly areas shall be designated and shall be located a safe distance from the building being evacuated so as to avoid interference with fire department operations. The assembly areas shall be arranged to keep each class separate to provide accountability of all individuals.
+
+403.5 Group F occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for buildings containing a Group F occupancy where any of the following conditions apply:
+
+1.The Group F occupancy has an occupant load of 500 or more persons.
+
+2.The Group F occupancy has an occupant load of more than 100 persons above or below the lowest level of exit discharge.
+
+3.Group F pallet manufacturing and recycling facilities as required by Section 2810.
+
+403.6 Group H occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group H occupancies.
+
+403.6.1 Group H-5 occupancies.
+
+Group H-5 occupancies shall comply with Sections 403.6.1.1 through 403.6.1.4.
+
+403.6.1.1 Plans and diagrams.
+
+In addition to the requirements of Section 404 and Section 407.6, plans and diagrams shall be maintained in approved locations indicating the approximate plan for each area; the amount and type of HPM stored, handled and used; locations of shutoff valves for HPM supply piping; emergency telephone locations and locations of exits.
+
+403.6.1.2 Plan updating.
+
+The plans and diagrams required by Sections 404, 403.6.1.1 and 407.6 shall be maintained up-to-date and the fire code official and fire department shall be informed of major changes.
+
+403.6.1.3 Emergency response team.
+
+Responsible persons shall be designated as an on-site emergency response team and trained to be liaison personnel for the fire department. These persons shall aid the fire department in preplanning emergency responses, identifying locations where HPM is stored, handled and used, and be familiar with the chemical nature of such material. An adequate number of personnel for each work shift shall be designated.
+
+403.6.1.4 Emergency drills.
+
+Emergency drills of the on-site emergency response team shall be conducted on a regular basis but not less than once every three months. Records of drills conducted shall be maintained.
+
+403.7 Group I occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group I occupancies. Group I occupancies shall comply with Sections 403.7.1 through 403.7.3.6.
+
+403.7.1 Group R-2.1 occupancies. R-2.1
+
+Group R-2.1 occupancies shall comply with Sections 403.7.1.1 through 403.7.1.7.
+
+403.7.1.1 Fire safety and evacuation plan.
+
+The fire safety and evacuation plan required by Section 404 shall include a description of special staff actions. Plans shall include all of the following in addition to the requirements of Section 404:
+
+1. Procedures for full evacuation of care recipients.
+
+2. In Group R-2.1 procedures for staged evacuation
+of care recipients through a refuge area in an
+adjacent smoke compartment and then to an exterior assembly point.
+
+3. Shall be amended or revised upon admission of
+any resident care recipient with unusual needs.
+
+
+
+403.7.1.1.1 Fire safety plan.
+
+A copy of the fire safety plan shall be maintained at the facility at all times. The plan shall include the following in addition to the requirements of Section 404.2.2:
+
+1.Location and number of care recipient sleeping rooms.
+
+2.Location of special locking arrangements.
+
+403.7.1.2 Staff training.
+
+Staff shall be periodically
+instructed and kept informed of their duties and responsibilities under the plan. Records of instruction shall be
+maintained. Such instruction shall be reviewed by staff
+at intervals not exceeding three months. Training of
+new staff shall be provided promptly upon entrance to
+duty.
+
+Staff shall be instructed in the proper use of portable
+fire extinguishers and other manual fire suppression
+equipment.
+
+403.7.1.3 Resident training.
+
+Residents capable of assisting in their own evacuation shall be trained in the proper
+actions to take in the event of a fire. In Group R-2.1 occupancies, training shall include evacuation through an
+adjacent smoke compartment and then to an exterior
+assembly point. The training shall include actions to
+take if the primary escape route is blocked. Residents
+shall be trained to assist each other in case of fire to the
+extent their physical and mental abilities permit them to
+do so without additional personal risk.
+
+403.7.1.4 Drill frequency.
+
+In addition to the evacuation drills required in Section 405.3, staff shall
+participate in drills an additional two times a year on each shift. Twelve drills with all occupants shall be
+conducted in the first year of operation.
+
+
+
+403.7.2 Group I-2 occupancies.
+
+Group I-2 occupancies
+shall comply with Sections 403.7.2.1 through 403.7.2.4.
+
+403.7.2.1 Fire safety and evacuation plan.
+
+The fire
+safety and evacuation plans required by Section 404
+shall include a description of special staff actions. Plans
+shall include all of the following in addition to the
+requirements of Section 404:
+
+1.Procedures for evacuation for care recipients with needs for containment or restraint and post-evacuation containment, where present.
+
+2.A written plan for maintenance of the means of egress.
+
+3.Procedure for a defend-in-place strategy.
+
+4.Procedures for a full-floor or building evacuation, where necessary.
+
+5.In Group I-2, Condition 2, amendments or revisions upon admission of any care recipients with
+unusual needs.
+
+403.7.2.2 Fire safety plan.
+
+A copy of the fire safety
+plan shall be maintained at the facility at all times. The
+plan shall include all of the following in addition to the
+requirements of Section 404.2.2:
+
+1.Location and number of care recipient sleeping
+rooms and operating rooms.
+
+2.Location of special locking arrangements.
+
+403.7.2.3 Staff training.
+
+Staff shall be periodically
+instructed and kept informed of their duties and responsibilities under the plan. Records of instruction shall be
+maintained. Such instruction shall be reviewed by staff
+at intervals not exceeding three months. Training of
+new staff shall be provided promptly upon entrance to
+duty.
+
+Staff shall be instructed in the proper use of portable
+fire extinguishers and other manual fire suppression
+equipment.
+
+403.7.2.4 Emergency evacuation drills.
+
+Emergency evacuation drills shall comply with Section 405.
+
+
+
+403.7.2.5 Fire loss prevention in operating rooms.
+
+Fire protection features and procedures for fire loss prevention in surgical operating rooms shall comply with NFPA 99, Section 16.13.
+
+403.7.3 Group I-3 occupancies.
+
+Group I-3 occupancies
+shall comply with Sections 403.7.3.1 through 403.7.3.6.
+
+403.7.3.1 Fire safety and evacuation plans.
+
+The fire safety and evacuation plans required by Section 404 shall include a description of special staff actions. Plans shall include all of the following in addition to the requirements of Section 404:
+
+1.Procedures for evacuation of detainees with
+needs for containment or restraint and post-evacuation containment, where present.
+
+2.Procedures for a defend-in-place strategy.
+
+3.Procedures for a full-floor or building evacuation, where necessary.
+
+403.7.3.2 Fire safety plan.
+
+A copy of the fire safety plan shall be maintained at the facility at all times. The plan shall include both of the following in addition to the requirements of Section 404.2.2:
+
+1.Location and number of cells.
+
+2.Location of special locking arrangements.
+
+403.7.3.3 Staff training.
+
+Staff shall be periodically
+instructed and kept informed of their duties and responsibilities under the plan. Records of instruction shall be
+maintained. Such instruction shall be reviewed by staff
+at intervals not exceeding three months. Training of
+new staff shall be provided promptly upon entrance to
+duty.
+
+Staff shall be instructed in the proper use of portable
+fire extinguishers and other manual fire suppression
+equipment.
+
+403.7.3.4 Staffing.
+
+Group I-3 occupancies shall be provided with 24-hour staffing. A staff person shall be within three floors or 300 feet (91 440 mm) horizontal distance of the access door of each resident housing area. In Group I-3 Conditions 3, 4 and 5, as defined in Chapter 2, the arrangement shall be such that the staff involved can start release of locks necessary for emergency evacuation or rescue and initiate other necessary emergency actions within 2 minutes of an alarm.
+
+Exception: A staff person shall not be required to be within three floors or 300 feet (91 440 mm) horizontal distance of the access door of each resident housing area in areas in which all locks are unlocked remotely and automatically in accordance with Section 408.4 of the California Building Code.
+
+403.7.3.5 Notification.
+
+Provisions shall be made for
+residents in Group I-3 Conditions 3, 4 and 5, as defined
+in Chapter 2, to readily notify staff of an emergency.
+
+403.7.3.6 Keys.
+
+Keys necessary for unlocking doors installed in a means of egress shall be individually identifiable by both touch and sight.
+
+403.8 Group M occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for buildings containing a Group M occupancy where the Group M occupancy has an occupant load of 500 or more persons or more than 100 persons above or below the lowest level of exit discharge and for buildings containing both a Group M occupancy and an atrium.
+
+403.9 Group R occupancies.
+
+Group R occupancies shall comply with Sections 403.9.1 through 403.9.3.4.
+
+403.9.1 Group R-1 occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group R-1 occupancies. Group R-1 occupancies shall comply with Sections 403.9.1.1 through 403.9.1.3.
+
+403.9.1.1 Evacuation diagrams.
+
+A diagram depicting two evacuation routes shall be posted on or immediately adjacent to every required egress door from each hotel or motel sleeping unit.
+
+403.9.1.2 Emergency duties.
+
+Upon discovery of a fire or suspected fire, hotel and motel employees shall perform the following duties:
+
+1.Activate the fire alarm system, where provided.
+
+2.Notify the public fire department.
+
+3.Take other action as previously instructed.
+
+403.9.1.3 Fire safety and evacuation instructions.
+
+Information shall be provided in the fire safety and evacuation plan required by Section 404 to allow guests to decide whether to evacuate to the outside, evacuate to an area of refuge, remain in place, or any combination of the three.
+
+403.9.2 Group R-2 occupancies.
+
+Group R-2 occupancies shall comply with Sections 403.9.2.1 through 403.9.2.3.
+
+403.9.2.1 College and university buildings.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group R-2 college and university buildings. Group R-2 college and university buildings shall comply with Sections 403.9.2.1.1 through 403.9.2.1.3.
+
+403.9.2.1.1 College and University Pre-Fire Planning.
+
+The Chancellor, President, or his designated representative, shall, in cooperation with the enforcing agency, propose procedures to be followed in case of fire or other emergency. They should include the following:
+
+1.Posting the telephone number of the fire department in the office and/or at the main switchboard.
+
+2.Assignment of a responsible person to call the fire department upon notification of any fire or activation of the alarm system for any reason other than fire drills.
+
+3.Posting in a conspicuous place in each classroom or assembly area a plan showing paths of travel to evacuate the room in case of emergency and including an alternate route.
+
+4.Posting in each classroom instructions to be followed by the teacher. These should include:
+
+4.1. Maintaining order during evacuation.
+
+4.2. Removal of roll call book and calling of roll when designated evacuation area is reached.
+
+403.9.2.1.2 403.9.2.1.2 First emergency evacuation drill.
+
+The first emergency evacuation drill of each school year shall be conducted within 10 days of the beginning of classes.
+
+403.9.2.1.3 403.9.2.1.3 Time of day.
+
+Emergency evacuation drills shall be conducted at different hours of the day or evening, during the changing of classes, when school is at assembly, during recess or gymnastic periods or during other times to avoid distinction between drills and actual fires. One required drill shall be held during hours after sunset or before sunrise.
+
+403.9.2.2 Emergency guide.
+
+Fire emergency guides shall be provided for Group R-2 occupancies. Guide contents, maintenance and distribution shall comply with Sections 403.9.2.2.1 through 403.9.2.2.3.
+
+403.9.2.2.1 Guide contents.
+
+A fire emergency guide shall describe the location, function and use of fire protection equipment and appliances available for use by residents, including fire alarm systems, smoke alarms and portable fire extinguishers. Guides shall include an emergency evacuation plan for each dwelling unit.
+
+403.9.2.2.2 Emergency guide maintenance.
+
+Emergency guides shall be reviewed and approved by the fire code official.
+
+403.9.2.2.3 Emergency guide distribution.
+
+A copy of the emergency guide shall be given to each tenant prior to initial occupancy.
+
+403.9.2.3 Evacuation diagrams for dormitories.
+
+A diagram depicting two evacuation routes shall be posted on or immediately adjacent to every required egress door from each dormitory sleeping unit or dwelling unit. Evacuation diagrams shall be reviewed and updated as needed to maintain accuracy.
+
+403.9.3 Group R-4 occupancies.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for Group R-4 occupancies. Group R-4 occupancies shall comply with Sections 403.9.3.1 through 403.9.3.4.
+
+403.9.3.1 Fire safety and evacuation plan.
+
+The fire safety and evacuation plan required by Section 404 shall include a description of special staff actions. Plans shall include procedures necessary for full evacuation of care recipients, and shall be amended or revised upon admission of care recipients with unusual needs.
+
+403.9.3.1.1 Fire safety plan.
+
+A copy of the fire safety plan shall be maintained at the facility at all times. The plan shall include the following in addition to the requirements of Section 404.2.2:
+
+1. Location and number of care recipient sleeping rooms.
+
+2. Location of special locking arrangements.
+
+403.9.3.2 Staff training.
+
+Staff shall be periodically instructed and kept informed of their duties and responsibilities under the plan. Records of instruction shall be maintained. Such instruction shall be reviewed by staff at intervals not exceeding three months. Training of new staff shall be provided promptly upon entrance to duty.
+
+Staff shall be instructed in the proper use of portable fire extinguishers and other manual fire suppression equipment.
+
+403.9.3.3 Resident training.
+
+Residents capable of assisting in their own evacuation shall be trained in the proper actions to take in the event of a fire. The training shall include actions to take if the primary escape route is blocked. Residents shall be trained to assist each other in case of fire to the extent their physical and mental abilities permit them to do so without additional personal risk.
+
+403.9.3.4 Drill frequency.
+
+In addition to the evacuation drills required in Section 405.3, staff shall participate in drills an additional two times a year on each shift. Twelve drills with all occupants shall be conducted in the first year of operation.
+
+403.10 Special uses.
+
+Special uses shall be in accordance with Sections 403.10.1 through 403.10.6.
+
+403.10.1 Covered and open mall buildings.
+
+Covered and open mall buildings shall comply with the requirements of Sections 403.10.1.1 through 403.10.1.6.
+
+403.10.1.1 Malls and mall buildings exceeding 50,000 square feet.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for covered malls exceeding 50,000 square feet (4645 m2) in aggregate floor area and for open mall buildings exceeding 50,000 square feet (4645 m2) in aggregate area within the perimeter line.
+
+403.10.1.2 Lease plan.
+
+In addition to the requirements of Section 404.2.2, a lease plan that includes the following information shall be prepared for each covered and open mall building:
+
+1.Each occupancy, including identification of tenant.
+
+2.Exits from each tenant space.
+
+3.Fire protection features, including the following:
+
+3.1.Fire department connections.
+
+3.2.Fire command center.
+
+3.3.Smoke management system controls.
+
+3.4.Elevators, elevator machine rooms and controls.
+
+3.5.Hose valve outlets.
+
+3.6.Sprinkler and standpipe control valves.
+
+3.7.Areas protected with automatic sprinkler systems and automatic fire-extinguishing systems.
+
+3.8.Automatic fire detector zones.
+
+3.9.Fire barriers.
+
+403.10.1.3 Lease plan approval.
+
+The lease plan shall be submitted to the fire code official for approval, and shall be maintained on-site for immediate reference by responding fire service personnel.
+
+403.10.1.4 Lease plan revisions.
+
+The lease plans shall be revised annually or as often as necessary to keep them current. Modifications or changes in tenants or occupancies shall not be made without prior approval of the fire code official and building official.
+
+403.10.1.5 Tenant identification.
+
+Tenant identification shall be provided for secondary exits from occupied tenant spaces that lead to an exit corridor or directly to the exterior of the building. Tenant identification shall be posted on the exterior side of the exit or exit access door and shall identify the business name and address using plainly legible letters and numbers that contrast with their background.
+
+Exception: Tenant identification is not required for anchor stores.
+
+403.10.1.6 Unoccupied tenant spaces.
+
+The fire safety and evacuation plan shall provide for compliance with the requirements for unoccupied tenant spaces in Section 311.
+
+403.10.2 High-rise buildings.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for high-rise buildings.
+
+403.10.3 Underground buildings.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for underground buildings.
+
+403.10.4 Buildings using occupant evacuation elevators.
+
+In buildings using occupant evacuation elevators in accordance with Section 3008 of the California Building Code, the fire safety and evacuation plan and the training required by Sections 404 and 406, respectively, shall incorporate specific procedures for the occupants using such elevators.
+
+403.10.5 Buildings with high-piled storage.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared for buildings with high-piled combustible storage in any of the following situations:
+
+1.The high-piled storage area exceeds 500,000 square feet (46 450 m2) for Class I-IV commodities.
+
+2.The high-piled storage area exceeds 300,000 square feet (27 870 m2) for high-hazard commodities.
+
+3.The high-piled storage is located in a Group H occupancy.
+
+4.The high-piled storage is located in a Group F occupancy with an occupant load of 500 or more persons or more than 100 persons above or below the lowest level of exit discharge.
+
+5.The high-piled storage is located in a Group M occupancy with an occupant load of 500 or more persons or more than 100 persons above or below the lowest level of exit discharge.
+
+6.Where required by the fire code official for other high-piled storage areas.
+
+403.10.6 Lithium-ion and lithium metal batteries.
+
+An approved fire safety and evacuation plan in accordance with Section 404 shall be prepared and maintained for occupancies that involve activities for the research and development, testing, manufacturing, handling, storage of lithium-ion batteries or lithium metal batteries or the repair or servicing of vehicles powered by lithium-ion batteries or lithium metal batteries.
+
+Exceptions: A fire safety and evacuation plan is not
+required for the storage or merchandizing of any of the
+following:
+
+1. New or refurbished batteries installed for use in
+the equipment or vehicles they are designed to
+power.
+
+2. New or refurbished batteries packed for use with
+the equipment or vehicles they are designed to
+power for merchandizing purposes.
+
+3. New or refurbished lithium-ion batteries rated at
+no more than 300 watt-hours and lithium metal
+batteries containing no more than 25 grams of
+lithium metal in their original retail packaging.
+
+4. The storage, repair and charging activities in
+detached one- and two-family dwellings and
+townhouses, provided that such devices are for
+personal use.
+
+403.10.6.1 Mitigation planning.
+
+The approved fire
+safety and evacuation plan shall include thermal
+runaway event mitigation measures addressing activities undertaken to prevent thermal runaway, early
+detection of a thermal runaway event and mitigations
+measures to be undertaken to limit the size and impact
+of the event on occupants and the facility.
+
+403.11 Special requirements for public safety.
+
+Special requirements for public safety shall be in accordance with Sections 403.11.1 through 403.11.3.3.
+
+403.11.1 Fire watch personnel.
+
+Where, in the opinion of the fire code official, it is essential for public safety in a place of assembly or any other place where people congregate, because of the number of persons, or the nature of the performance, exhibition, display, contest or activity, the owner, agent or lessee shall provide one or more fire watch personnel, as required and approved. Fire watch personnel shall comply with Sections 403.11.1.1 and 403.11.1.2.
+
+403.11.1.1 Duty times.
+
+Fire watch personnel shall remain on duty while places requiring a fire watch are open to the public, or when an activity requiring a fire watch is being conducted.
+
+403.11.1.2 Duties.
+
+On-duty fire watch personnel shall have the following responsibilities:
+
+1.Keep diligent watch for fires, obstructions to means of egress and other hazards.
+
+2.Take prompt measures for remediation of hazards and extinguishment of fires that occur.
+
+3.Take prompt measures to assist in the evacuation of the public from the structures.
+
+403.11.2 Public safety plan for gatherings.
+
+Where the fire code official determines that an indoor or outdoor gathering of persons has an adverse impact on public safety through diminished access to buildings, structures, fire hydrants and fire apparatus access roads or where such gatherings adversely affect public safety services of any kind, the fire code official shall have the authority to order the development of or prescribe a public safety plan that provides an approved level of public safety and addresses the following items:
+
+1.Emergency vehicle ingress and egress.
+
+2.Fire protection.
+
+3.Emergency egress or escape routes.
+
+4.Emergency medical services.
+
+5.Public assembly areas.
+
+6.The directing of both attendees and vehicles, including the parking of vehicles.
+
+7.Vendor and food concession distribution.
+
+8.The need for the presence of law enforcement.
+
+9.The need for fire and emergency medical services personnel.
+
+10.The need for a weather monitoring person.
+
+403.11.3 Crowd managers.
+
+Where facilities or events involve a gathering of more than 500 people, crowd managers shall be provided in accordance with Sections 403.11.3.1 through 403.11.3.3.
+
+403.11.3.1 Number of crowd managers.
+
+Not fewer than two trained crowd managers, and not fewer than one trained crowd manager for each 250 persons or portion thereof, shall be provided for the gathering.
+
+Exceptions:
+
+1.Outdoor events with fewer than 1,000 persons in attendance shall not require crowd managers.
+
+2.Assembly occupancies used exclusively for religious worship with an occupant load not exceeding 1,000 shall not require crowd managers.
+
+3.The number of crowd managers shall be reduced where, in the opinion of the fire code official, the fire protection provided by the facility and the nature of the event warrant a reduction.
+
+403.11.3.2 Training.
+
+Training for crowd managers shall be approved.
+
+403.11.3.3 Duties.
+
+The duties of crowd managers shall include, but not be limited to:
+
+1.Conduct an inspection of the area of responsibility and identify and address any egress barriers.
+
+2.Conduct an inspection of the area of responsibility to identify and mitigate any fire hazards.
+
+3.Verify compliance with all permit conditions, including those governing pyrotechnics and other special effects.
+
+4.Direct and assist the event attendees in evacuation during an emergency.
+
+5.Assist emergency response personnel where requested.
+
+6.Other duties required by the fire code official.
+
+7.Other duties as specified in the fire safety plan.
+
+403.12 Organized camps.
+
+Group C occupancies shall comply with the requirements of Sections 403.12.1 through 403.12.3.
+
+403.12.1 Staff training and evacuation plan.
+
+Every organized camp shall institute fire training programs for all employees in the use of all fire extinguishing equipment and methods of evacuation, and shall establish procedures which shall, as far as possible, be followed in the event of fire or any other emergency. If located in a forest area a plan shall be prepared for the evacuation of the camp in case of an approaching forest fire or other emergency.
+
+403.12.2 Resident training.
+
+Within 24 hours after arrival, every group of persons attending an organized camp shall be made familiar with the method by which the fire alarm may be activated and with the procedures to be followed upon notification of fire.
+
+403.12.3 Fire drills.
+
+At least 1 fire drill shall be held within 24 hours of the commencement of each camping session. Additional drills shall be conducted at least once each week thereafter. When sessions exceed a 7-day period, at least 1 drill shall be held during night-time sleeping hours.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(c)(1)] Fire Drills. (Organized Camps)
+
+(c) Organized Camps.
+
+(1) Every organized camp shall institute fire training programs for all employees in the use of all fire extinguishing equipment and methods of evacuation, and shall establish procedures which shall, as far as possible, be followed in the event of fire or any other emergency. If located in a forest area a plan shall be prepared for the evacuation of the camp in case of an approaching forest fire or other emergency.
+
+SECTION 404 FIRE SAFETY, EVACUATION AND LOCKDOWN PLANS
+
+404.1 General.
+
+Where required by Section 403, fire safety, evacuation and lockdown plans shall comply with Sections 404.2 through 404.4.1.
+
+[California Code of Regulations, Title 19, Division 1, §3.10] Evacuation of Buildings.
+
+Upon notification of fire, conduct of any fire drill, upon activation of the fire alarm, or upon orders of the fire authority having jurisdiction, buildings or structures within the scope of California Code of Regulations, Title 19, Division 1 regulations shall be immediately evacuated or occupants shall be relocated in accordance with established plans.
+
+404.2 Contents.
+
+Fire safety, evacuation and lockdown plan contents shall be in accordance with Sections 404.2.1 through 404.2.3.2.
+
+404.2.1 Fire evacuation plans.
+
+Fire evacuation plans shall include the following:
+
+1.Emergency egress or escape routes and whether evacuation of the building is to be complete by selected floors or areas only or with a defend-in-place response.
+
+2.Procedures for employees who must remain to operate critical equipment before evacuating.
+
+3.Procedures for the use of elevators to evacuate the building where occupant evacuation elevators complying with Section 3008 of the California Building Code are provided.
+
+4.Procedures for assisted rescue for persons unable to use the general means of egress unassisted.
+
+5.Procedures for accounting for employees and occupants after evacuation has been completed.
+
+6.Identification and assignment of personnel responsible for rescue or emergency medical aid.
+
+7.The preferred and any alternative means of notifying occupants of a fire or emergency.
+
+8.The preferred and any alternative means of reporting fires and other emergencies to the fire department or designated emergency response organization.
+
+9.Identification and assignment of personnel who can be contacted for further information or explanation of duties under the plan.
+
+10.A description of the emergency voice/alarm communication system alert tone and preprogrammed voice messages, where provided.
+
+404.2.2 Fire safety plans.
+
+Fire safety plans shall include the following:
+
+1.The procedure for reporting a fire or other emergency.
+
+2.The life safety strategy including the following:
+
+2.1.Procedures for notifying occupants, including areas with a private mode alarm system.
+
+2.2.Procedures for occupants under a defend-in-place response.
+
+2.3.Procedures for evacuating occupants, including those who need evacuation assistance.
+
+3.Site plans indicating the following:
+
+3.1.The occupancy assembly point.
+
+3.2.The locations of fire hydrants.
+
+3.3.The normal routes of fire department vehicle access.
+
+4.Floor plans identifying the locations of the following:
+
+4.1.Exits.
+
+4.2.Primary evacuation routes.
+
+4.3.Secondary evacuation routes.
+
+4.4.Accessible egress routes.
+
+4.4.1.Areas of refuge.
+
+4.4.2.Exterior areas for assisted rescue.
+
+4.5.Refuge areas associated with smoke barriers and horizontal exits.
+
+4.6.Manual fire alarm boxes.
+
+4.7.Portable fire extinguishers.
+
+4.8.Occupant-use hose stations.
+
+4.9.Fire alarm annunciators and controls.
+
+5.A list of major fire hazards associated with the normal use and occupancy of the premises, including maintenance and housekeeping procedures.
+
+6.Identification and assignment of personnel responsible for maintenance of systems and equipment installed to prevent or control fires.
+
+7.Identification and assignment of personnel responsible for maintenance, housekeeping and controlling fuel hazard sources.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(a)(2)] Fire Drills. (Group E Occupancies)
+
+(a) Group E Occupancies.
+
+(2) Emergency Pre-Fire Planning. Each school principal, district superintendent or day nursery manager shall, in cooperation with the enforcing agency, prepare procedures to be followed in case of fire or other emergency. They should include the following:
+
+(A) Posting of the telephone number of the fire department in the office and/or at the main switchboard.
+
+(B) Assignment of a responsible person to call the fire department upon notification of any fire or activation of the alarm system for any reason other than fire drills.
+
+(C) Posting in a conspicuous place in each classroom or assembly area a plan showing paths of travel to evacuate the room in case of emergency and including an alternate route.
+
+(D) Posting in each classroom instructions to be followed by the teacher. These should include:
+
+1.Maintaining of order during evacuation.
+
+2.Removal of roll call book and calling of roll when designated evacuation area is reached.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(b)] Fire Drills. (College and University)
+
+(b) College and University Pre-Fire Planning. The Chancellor, President, or his designated representative, shall, in cooperation with the enforcing agency, propose procedures to be followed in case of fire or other emergency in accordance with the provisions of California Code of Regulations, Title 19, Division 1, Section 3.13 (a)(2).
+
+404.2.3 Lockdown plans.
+
+Lockdown plans shall only be permitted where such plans are approved by the fire code official and are in compliance with Sections 404.2.3.1 and 404.2.3.2.
+
+404.2.3.1 Lockdown plan contents.
+
+Lockdown plans shall include the following:
+
+1.Identification of individuals authorized to issue a lockdown order.
+
+2.Security measures used during normal operations, when the building is occupied, that could adversely affect egress or fire department operations.
+
+3.A description of identified emergency and security threats addressed by the plan, including specific lockdown procedures to be implemented for each threat condition.
+
+4.Means and methods of initiating a lockdown plan for each threat, including:
+
+4.1. The means of notifying occupants of a lockdown event, which shall be distinct from the fire alarm signal.
+
+4.2. Identification of each door or other access point that will be secured.
+
+4.3. A description of the means or methods used to secure doors and other access points.
+
+4.4. A description of how locking means and methods are in compliance with the requirements of this code for egress and accessibility.
+
+5.Procedures for reporting to the fire department any lockdown condition affecting egress or fire department operations.
+
+6.Procedures for determining and reporting the presence or absence of occupants to emergency response agencies during a lockdown.
+
+7.Means for providing two-way communication between a central location and each area subject to being secured during a lockdown.
+
+8.Identification of the prearranged signal for terminating the lockdown.
+
+9.Identification of individuals authorized to issue a lockdown termination order.
+
+10.Procedures for unlocking doors and verifying that the means of egress has been returned to normal operations upon termination of the lockdown.
+
+11.Training procedures and frequency of lockdown plan drills.
+
+404.2.3.2 Drills.
+
+Lockdown plan drills shall be conducted in accordance with the approved plan. Such drills shall not be substituted for fire and evacuation drills required by Section 405.3.
+
+404.3 Maintenance.
+
+Fire safety, evacuation and lockdown plans shall be reviewed or updated annually or as necessitated by changes in staff assignments, occupancy or the physical arrangement of the building.
+
+404.4 Availability.
+
+Fire safety evacuation and lockdown plans shall be available in the workplace for reference and review by employees, and copies shall be furnished to the fire code official for review on request.
+
+404.4.1 Distribution.
+
+The fire safety, evacuation and lockdown plans shall be distributed to the tenants and building service employees by the owner or owner’s agent. Tenants shall distribute to their employees applicable parts of the fire safety plan and lockdown plan affecting the employees’ actions in the event of a fire or other emergency.
+
+404.5 404.5 College and university pre-fire planning. College and university pre-fire planning.
+
+The Chancellor, President, or his designated representative, shall, in cooperation with the enforcing agency, propose procedures to be followed in case of fire or other emergency in accordance with the provisions of Section 403.9.2.1.1.
+
+404.6 404.6 Office buildings. Office buildings.
+
+All office buildings two or more stories in height, except high-rise buildings as defined by Health and Safety Code Section 13210, shall comply with this section.
+
+404.6.1 404.6.1
+
+Owner(s) or operator(s) shall employ either one of the following methods of providing emergency procedures and information to the building occupants:
+
+1.Emergency procedures information published in the form of a leaflet, brochure or pamphlet shall be available to all persons entering the building. Emergency procedures information shall be located immediately inside all entrances to the building, as determined by the authority having jurisdiction. Locations shall be clearly marked.
+
+2.A floor plan providing emergency procedures information shall be posted at every stairway landing at every elevator landing, and immediately inside all public entrances to the building. The information shall be posted so that it describes the represented floor level and can be easily seen immediately upon entering the floor level of the building. Emergency procedures information shall be printed with a minimum of 3/16-inch high nondecorative lettering providing a sharp contrast to the background.
+
+404.6.1.2 404.6.1.2
+
+Emergency procedures information shall provide all ambulatory, nonambulatory and the physically disabled instructions to be followed in the event of an emergency. Emergency procedures information shall include, but not be limited to, the following:
+
+1.Location of exits.
+
+2.Location of fire alarm initiating stations, if required.
+
+3.What the fire alarm, if required, sounds and looks like (audible and visual warning devices).
+
+4.Fire department emergency telephone number 911.
+
+5.The prohibition of elevator use during emergencies, if any.
+
+404.6.2 404.6.2 Hotels, motels and lodging houses. Hotels, motels and lodging houses.
+
+Every guestroom available for rental in a hotel, motel or lodging house shall have clearly visible emergency procedures information printed on a floor plan representative of the floor level and posted on the interior of each entrance door or immediately adjacent to such door. The owner/operator of a hotel, motel or lodging house may, in lieu of posting emergency procedures information in each guestroom, provide such information through the use of leaflets, brochures, pamphlets, videotapes or any other method as approved by the authority having jurisdiction. Oral communication in itself does not fulfill the intent of this section. However, oral communication can be incorporated as a part of the transfer of emergency procedures information. When emergency procedures information signage is posted on the interior of the guestroom entrance door, the bottom of the information shall not be located more than 4-feet above the floor level. Visually impaired persons shall receive instructions of a type they will understand, for example: taping of instructions, instructions in Braille, or other appropriate methods.
+
+404.6.2.1 404.6.2.1
+
+Each method of providing information shall include, but not be limited to that described in Section 404.6.1.2.
+
+404.6.2.2 404.6.2.2
+
+Hotels, motels and lodging houses shall maintain at the registration desk a list noting the guestrooms assigned to guests with disabilities when such guests have indicated that they have special emergency evacuation requirements. The innkeeper shall, at the innkeeper's option, do one of the following:
+
+1.Provide a place on the registration form for physically disabled guests who have such requirements to so identify themselves.
+
+2.Provide a notice on the room key jacket advising guests with disabilities who have special emergency evacuation requirements to so notify the front desk.
+
+3.Utilize such other means for allowing such guests with disabilities to so identify themselves as may be approved by the authority having jurisdiction.
+
+404.6.3 404.6.3 Stairways. Stairways.
+
+Hotels, motels, lodging houses, high-rise office buildings and Group I, Division 1 and 2 occupancies as defined in the California Building Code (except honor farms and conservation camps) shall comply with this section.
+
+404.6.3.1 404.6.3.1
+
+Emergency procedures information printed on a floor plan shall be posted at every stairway landing, at every elevator landing and immediately inside all public entrances to the building. The information shall be representative of the floor level and be posted so that the bottom edge of such information is not located more than 4-feet above the floor, where it can be easily identified. Emergency procedures information shall be printed with a minimum of 3/16-inch nondecorative lettering providing a sharp contrast to the background.
+
+404.6.3.1.1 404.6.3.1.1
+
+Emergency procedures information shall include, but not be limited to, that described in Section 404.6.1.2.
+
+404.6.4 404.6.4 Emergency Director. Emergency Director.
+
+Owner(s) and operator(s) of hotels, motels, lodging houses, high-rise office buildings and Group I, Division 1 and 2 occupancies as defined in the California Building Code (except honor farms and conservation camps) shall appoint a Fire Safety Director, who shall:
+
+1.Report to owner(s) or operator(s).
+
+2.Coordinate fire safety activities of the facility with the authority having jurisdiction.
+
+3.Conduct, or cause to be conducted, all training as described in Sections 404.6.5 through 404.6.5.3 for all building employees and maintain records of dates, subjects and attendance of each training session.
+
+4.Develop and maintain a written facility emergency plan acceptable to the authority having jurisdiction. Upon request, the facility emergency plan shall be made physically available at the respective facility to the authority having jurisdiction. Facility emergency plans shall include, but not be limited to the following:
+
+4.1.Fire department emergency telephone number 911.
+
+4.2.Other emergency response telephone numbers.
+
+4.3.Evacuation or relocation plan for the building occupants.
+
+4.4.Duties of the Fire Safety Director and other designated emergency personnel.
+
+4.5.Building employee responsibilities in case of emergency, including individual assignment and reporting responsibilities.
+
+4.6. Procedures to identify and assist the nonambulatory and physically disabled.
+
+5.Assure that the requirements of Section 404.6.4, item 4, subsection 4.6, procedures to identify and assist the nonambulatory and physically disabled are accomplished as follows:
+
+5.1.Hotels, motels and lodging houses shall comply with subsection (b)(3);
+
+5.2.Owner(s) or operator(s) of high-rise office buildings shall maintain a list of all permanent building tenants who have disabilities. Building owner(s) or operator(s) shall be notified in writing by those who have disabilities. Information provided in the list shall include any special emergency evacuation needs and permanent work location of such physically disabled persons. The list shall be located in the building manager’s office;
+
+5.3Group I, Division 1 and 2 occupancies as defined in the California Building Code (except honor farms and conservation camps) shall comply with normal hospital policies of assisting patients and guests during an emergency evacuation.
+
+404.6.5 404.6.5 Training. Training.
+
+Hotels, motels, lodging houses and high-rise office buildings shall conduct annually, emergency procedures training for all building employees. Group I, Division 1 and 2 occupancies as defined in the California Building Code (except honor farms and conservation camps) shall conduct quarterly fire emergency training for all building employees.
+
+404.6.5.1 404.6.5.1
+
+Fire Safety Directors and their designated emergency personnel shall receive training in the identification and use of facility fire safety equipment, communication procedures, people movement procedures, fire prevention practices and their duties outlined in their respective emergency plan. The training curriculum shall be approved by, and made available to the authority having jurisdiction.
+
+404.6.5.2 404.6.5.2
+
+All building employees shall receive training covering the identification and use of facility fire safety equipment, fire prevention practices and appropriate procedures to follow in the event of a fire.
+
+404.6.5.3 404.6.5.3
+
+Actual evacuation or relocation of building occupants pursuant to procedures contained in the emergency plan shall be conducted at least annually for all building employees. Appropriate records, including dates, floors or building involved, and persons conducting evacuation or relocation procedures shall be maintained and made immediately available to the authority having jurisdiction upon their request. The authority having jurisdiction shall be notified not less than 48 hours in advance of such planned evacuation or relocation.
+
+Exception: In hotels, motels, lodging houses, and Group I, Division 1 and 2 occupancies as defined in the California Building Code, guests and patients are not required to participate in evacuation or relocation of the building. In hotels, motels, lodging houses, Group I, Division 1 and 2 occupancies as defined in the California Building Code, and high-rise office buildings, on-duty personnel who have security or maintenance related responsibilities, and designated management personnel approved by the fire authority having jurisdiction shall not be required to participate in any drill but, they shall provide an alternate method approved by the authority having jurisdiction to measure their knowledge of their respective duties pursuant to the emergency plan.
+
+404.6.6 404.6.6
+
+Emergency procedures signage posted prior to the effective date of these regulations may be continued in use until one year after such effective date of these regulations.
+
+SECTION 405 EMERGENCY EVACUATION DRILLS
+
+405.1 General.
+
+Emergency fire and evacuation drills complying with Sections 405.3 through 405.10 shall be conducted not less than annually where fire safety and evacuation plans are required by Section 403 or where required by the fire code official. Lockdown plan drills shall be conducted in accordance with the approved plan. Such drills shall not be substituted for fire and evacuation drills required by Section 405.3. Drills shall be designed in cooperation with the local authorities.
+
+405.2 Occupant participation.
+
+Emergency fire and evacuation drills shall involve the actual evacuation of occupants to
+a selected assembly point and shall provide occupants with
+experience in exiting through required exits.
+
+Exceptions:
+
+1. In ambulatory care facilities and Group I-2, the
+movement of care recipients to a safe area or to the
+exterior of the building is not required.
+
+2. In Group I-1, Condition 2, the assembly point for
+residents is permitted to be within an adjacent
+smoke compartment.
+
+3. In Group R-4, actual exiting from emergency escape
+and rescue openings shall not be required. Opening
+the emergency escape and rescue openings and signaling for help shall be an acceptable alternative.
+
+4. In Group I-3, Conditions 2 through 5 where a
+defend-in-place response is permitted, the assembly
+point for detainees is permitted to be within an adjacent smoke compartment.
+
+5. In Group I-3, Conditions 2 through 5, movement of
+detainees is not required to an assembly point where
+there are security concerns.
+
+405.3 Frequency.
+
+Required emergency evacuation drills shall be held at the intervals specified in Table 405.3 or more frequently where necessary to familiarize all occupants with the drill procedure.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(a)(1)] Fire Drills. (Group E Occupancies)
+
+(a) Group E Occupancies.
+
+(1) General. Every person and public officer managing, controlling or in charge of any public, private or parochial school shall cause the fire alarm signal to be sounded upon the discovery of fire. Every person and public officer managing, controlling or in charge of any public, private or parochial school, other than a two-year community college, shall cause the fire alarm signal to be sounded not less than once every calendar month at the elementary and intermediate levels, and not less than twice yearly at the secondary level, in the manner prescribed in California Code of Regulations, Title 24, Part 2, Section 907.
+
+A fire drill shall be held at the secondary level not less than twice every school year.
+
+TABLE 405.3
+
+FIRE AND EVACUATION DRILL FREQUENCY AND PARTICIPATION
+
+	GROUP OR OCCUPANCY	FREQUENCY	PARTICIPATION
+	Group A	Quarterly	Staff
+	Group Ba	Annually	All occupants
+	Group B(Ambulatory care facilities)	Quarterly on each shift	Staff
+	Group Ba (Clinic, outpatient)	Annually	Staff
+	Group E	See Section 403.4	All occupants
+	Group F	Annually	Employees
+	Group I-2	Quarterly on each shift	Staff
+	Group I-3	Quarterly on each shifta	Staff
+	Group I-4	Monthly on each shift	All occupants
+	Group R-1	Quarterly on each shift	Employees
+	Group R-2b	See Section 403.9.2	All occupants
+	Group R-4	Semiannually on each shift	All occupantsa. Emergency evacuation drills are required in Group B buildings having an occupant load of 500 or more persons or more than 100 persons above or below the lowest level of exit discharge.
+
+b. Emergency evacuation drills in Group R-2 college and university buildings shall be in accordance with Section 403.9.2.1. Other Group R-2 occupancies shall be in accordance with Section 403.9.2.2.
+
+405.4 Leadership.
+
+Responsibility for the planning and conduct of drills shall be assigned to competent persons designated to exercise leadership.
+
+405.5 Time.
+
+Drills shall be held at unexpected times and under varying conditions to simulate the unusual conditions that occur in case of fire.
+
+Exceptions:
+
+1. In severe climates, the fire code official shall have
+the authority to modify the emergency evacuation
+drill termination points and frequency.
+
+2. In Groups I-1, I-2, I-3 and R-4, where staff-only
+emergency evacuation drills are conducted after visiting hours or where care recipients are expected to
+be asleep, a coded announcement shall be an acceptable alternative to audible alarms.
+
+405.6 Recordkeeping.
+
+Records shall be maintained of required emergency evacuation drills and include the following information:
+
+1.Identity of the person conducting the drill.
+
+2.Date and time of the drill.
+
+3.Notification method used.
+
+4.Employees on duty and participating.
+
+5.Number of occupants evacuated.
+
+6.Special conditions simulated.
+
+7.Problems encountered.
+
+8.Weather conditions when occupants were evacuated.
+
+9.Time required to accomplish complete evacuation.
+
+405.7 Notification.
+
+Where required by the fire code official, prior notification of emergency evacuation drills shall be given to the fire code official.
+
+405.8 Initiation.
+
+Where a fire alarm system is provided, emergency evacuation drills shall be initiated by activating the fire alarm system.
+
+405.9 Accountability.
+
+As building occupants arrive at the assembly point, efforts shall be made to determine if all occupants have been successfully evacuated or have been accounted for.
+
+Exception: In Group I-2 and ambulatory care facilities,
+the movement of care recipients to safe areas or to the
+exterior of the building is not required.
+
+405.10 Recall and reentry.
+
+An electrically or mechanically operated signal used to recall occupants after an evacuation shall be separate and distinct from the signal used to initiate the evacuation. The recall signal initiation means shall be manually operated and under the control of the person in charge of the premises or the official in charge of the incident. Persons shall not reenter the premises until authorized to do so by the official in charge.
+
+[California Code of Regulations, Title 19, Division 1, §3.13(c)(2) and (3)] Fire Drills. (Organized Camps)
+
+(c) Organized Camps.
+
+(2) Within 24 hours after arrival, every group of persons attending an organized camp shall be made familiar with the method by which the fire alarm may be activated and with the procedures to be followed upon notification of fire.
+
+(3) At least 1 fire drill shall be held within 24 hours of the commencement of each camping session. Additional drills shall be conducted at least once each week thereafter. When sessions exceed a 7 day period, at least 1 drill shall be held during night-time sleeping hours.
+
+SECTION 406 EMPLOYEE TRAINING AND RESPONSE PROCEDURES
+
+406.1 General.
+
+Where fire safety and evacuation plans are required by Section 403, employees shall be trained in fire emergency procedures based on plans prepared in accordance with Section 404.
+
+406.2 Frequency.
+
+Employees shall receive training in the contents of fire safety and evacuation plans and their duties as part of new employee orientation and not less than annually thereafter. Records of training shall be maintained.
+
+406.3 Employee training program.
+
+Employees shall be trained in fire prevention, evacuation and fire safety in accordance with Sections 406.3.1 through 406.3.4.
+
+406.3.1 Fire prevention training.
+
+Employees shall be apprised of the fire hazards of the materials and processes to which they are exposed. Each employee shall be instructed in the proper procedures for preventing fires in the conduct of their assigned duties.
+
+406.3.2 Evacuation training.
+
+Employees shall be familiarized with the fire alarm and evacuation signals, their assigned duties in the event of an alarm or emergency, evacuation routes, areas of refuge, exterior assembly areas and procedures for evacuation.
+
+406.3.3 Fire safety training.
+
+Employees assigned fire-fighting duties shall be trained to know the locations and proper use of portable fire extinguishers or other manual fire-fighting equipment and the protective clothing or equipment required for its safe and proper use.
+
+406.3.4 Emergency lockdown training.
+
+Where a facility has a lockdown plan, employees shall be trained on their assigned duties and procedures in the event of an emergency lockdown.
+
+SECTION 407 HAZARD COMMUNICATION
+
+407.1 General.
+
+The provisions of Sections 407.2 through 407.7 shall be applicable where hazardous materials subject to permits under Section 5001.5 are located on the premises or where required by the fire code official.
+
+407.2 Safety Data Sheets.
+
+Safety Data Sheets (SDS) for all hazardous materials shall be either readily available on the premises as a paper copy, or where approved, shall be permitted to be readily retrievable by electronic access.
+
+407.3 Identification.
+
+Individual containers of hazardous materials, cartons or packages shall be marked or labeled in accordance with applicable federal regulations. Buildings, rooms and spaces containing hazardous materials shall be identified by hazard warning signs in accordance with Section 5003.5.
+
+407.4 Training.
+
+Persons responsible for the operation of areas in which hazardous materials are stored, dispensed, handled or used shall be familiar with the chemical nature of the materials and the appropriate mitigating actions necessary in the event of a fire, leak or spill. Responsible persons shall be designated and trained to be liaison personnel for the fire department. These persons shall aid the fire department in preplanning emergency responses and identification of where hazardous materials are located, and shall have access to Safety Data Sheets and be knowledgeable in the site emergency response procedures.
+
+407.5 Hazardous Materials Inventory Statement.
+
+Where required by the fire code official, each application for a permit shall include a Hazardous Materials Inventory Statement (HMIS) in accordance with Section 5001.5.2.
+
+407.6 Hazardous Materials Management Plan.
+
+Where required by the fire code official, each application for a permit shall include a Hazardous Materials Management Plan (HMMP) in accordance with Section 5001.5.1. The fire code official is authorized to accept a similar plan required by other regulations.
+
+407.7 Facility closure plans.
+
+The permit holder or applicant shall submit to the fire code official a facility closure plan in accordance with Section 5001.6.3 to terminate storage, dispensing, handling or use of hazardous materials.
+

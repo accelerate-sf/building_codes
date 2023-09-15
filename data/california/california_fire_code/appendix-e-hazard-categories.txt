@@ -1,0 +1,367 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX E – HAZARD CATEGORIES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX E HAZARD CATEGORIES
+
+This appendix is for information purposes and is not intended for adoption.
+
+User note:
+
+About this appendix: Appendix E contains guidance for designers, engineers, architects, code officials, plans reviewers and inspectors in the classifying of hazardous materials so that proposed designs can be evaluated intelligently and accurately. The descriptive materials and explanations of hazardous materials and how to report and evaluate them on a Safety Data Sheet (SDS) are intended to be instructional as well as informative. Note that Safety Data Sheets also include the concept known as Material Safety Data Sheets (MSDS).
+
+SECTION E101 GENERAL
+
+E101.1 Scope.
+
+This appendix provides information, explanations and examples to illustrate and clarify the hazard categories contained in Chapter 50 of the California Fire Code. The hazard categories are based on the DOL 29 CFR. Where numerical classifications are included, they are in accordance with nationally recognized standards.
+
+This appendix should not be used as the sole means of hazardous materials classification.
+
+SECTION E102 HAZARD CATEGORIES
+
+E102.1 Physical hazards.
+
+Materials classified in this section pose a physical hazard.
+
+E102.1.1 Explosives and blasting agents.
+
+The current UN/DOT classification system recognized by international authorities, the Department of Defense and others classifies all explosives as Class 1 materials. They are then divided into six separate divisions to indicate their relative hazard. There is not a direct correlation between the designations used by the old DOT system and those used by the current system nor is there correlation with the system (high and low) established by the Bureau of Alcohol, Tobacco, Firearms and Explosives (BATF). Table 5604.3 provides some guidance with regard to the current categories and their relationship to the old categories. Some items appear in more than one division, depending on factors such as the degree of confinement or separation, type of packaging, storage configuration or state of assembly.
+
+In order to determine the level of hazard presented by explosive materials, testing to establish quantitatively their explosive nature is required. There are numerous test methods that have been used to establish the character of an explosive material. Standardized tests, required for finished goods containing explosives or explosive materials in a packaged form suitable for shipment or storage, have been established by UN/DOT and BATF. However, these tests do not consider key elements that should be examined in a manufacturing situation. In manufacturing operations, the condition and/or the state of a material may vary within the process. Potentially, material classification and the requirements used to determine that classification during manufacturing will differ from the classification of the same material found in finished goods. A classification methodology must be used that recognizes the hazards commensurate with the application to the variable physical conditions as well as potential variations of physical character and type of explosive under consideration.
+
+Test methods or guidelines for hazard classification of energetic materials used for in-process operations shall be approved by the fire code official. Test methods used shall be DOD, BATF, UN/DOT or other approved criteria. The results of such testing shall become a portion of the files of the jurisdiction and be included as an independent section of any Hazardous Materials Management Plan (HMMP) required by Section 5605.2.1. Also see Section 104.8.2.
+
+Examples of materials in various Divisions are as follows:
+
+1.Division 1.1 (High Explosives). Consists of explosives that have a mass explosion hazard. A mass explosion is one that affects almost the entire pile of material instantaneously. Includes substances that, where tested in accordance with approved methods, can be caused to detonate by means of a blasting cap where unconfined or will transition from deflagration to a detonation where confined or unconfined. Examples: dynamite, TNT, nitroglycerine, C-3, HMX, RDX, encased explosives, military ammunition.
+
+2.Division 1.2 (Low Explosives). Consists of explosives that have a projection hazard, but not a mass explosion hazard. Examples: nondetonating encased explosives, military ammunition and the like.
+
+3.Division 1.3 (Low Explosives). Consists of explosives that have a fire hazard and either a minor blast hazard or a minor projection hazard or both, but not a mass explosion hazard. The major hazard is radiant heat or violent burning, or both. Can be deflagrated where confined. Examples: smokeless powder, propellant explosives, display fireworks.
+
+4.Division 1.4. Consists of explosives that pose a minor explosion hazard. The explosive effects are largely confined to the package and no projection of fragments of appreciable size or range is expected. An internal fire must not cause virtually instantaneous explosion of almost the entire contents of the package. Examples: squibs (nondetonating igniters), explosive actuators, explosive trains (low-level detonating cord).
+
+5.Division 1.5 (Blasting Agents). Consists of very insensitive explosives. This division comprises substances that have a mass explosion hazard, but are so insensitive that there is very little probability of initiation or of transition from burning to detonation under normal conditions of transport. Materials are not cap sensitive; however, they are mass detonating where provided with sufficient input. Examples: oxidizer and liquid fuel slurry mixtures and gels, ammonium nitrate combined with fuel oil.
+
+6.Division 1.6. Consists of extremely insensitive articles that do not have a mass explosive hazard. This division comprises articles that contain only extremely insensitive detonating substances and that demonstrate a negligible probability of accidental initiation or propagation. Although this category of materials has been defined, the primary application is currently limited to military uses. Examples: Low vulnerability military weapons.
+
+Explosives in each division are assigned a compatibility group letter by the Associate Administrator for Hazardous Materials Safety (DOT) based on criteria specified by DOTn 49 CFR. Compatibility group letters are used to specify the controls for the transportation and storage related to various materials to prevent an increase in hazard that might result if certain types of explosives were stored or transported together. Altogether, there are 35 possible classification codes for explosives, for example, 1.1A, 1.3C, 1.4S.
+
+E102.1.2 Compressed gases.
+
+Examples include:
+
+1.Flammable: acetylene, carbon monoxide, ethane, ethylene, hydrogen, methane. Ammonia will ignite and burn although its flammable range is too narrow for it to fit the definition of “Flammable gas.”
+
+For binary mixtures where the hazardous component is diluted with a nonflammable gas, the mixture shall be categorized in accordance with CGA P-23.
+For binary mixtures where the hazardous component is diluted with a nonflammable gas, the mixture shall be categorized in accordance with CGA P-23.
+
+2.Oxidizing: oxygen, ozone, oxides of nitrogen, chlorine and fluorine. Chlorine and fluorine do not contain oxygen but reaction with flammables is similar to that of oxygen.
+
+3.Corrosive: ammonia, hydrogen chloride, fluorine.
+
+4.Highly toxic: arsine, cyanogen, fluorine, germane, hydrogen cyanide, nitric oxide, phosphine, hydrogen selenide, stibine.
+
+5.Toxic: chlorine, hydrogen fluoride, hydrogen sulfide, phosgene, silicon tetrafluoride.
+
+6.Inert (chemically unreactive): argon, helium, krypton, neon, nitrogen, xenon.
+
+7.Pyrophoric: diborane, dichloroborane, phosphine, silane.
+
+8.Unstable (reactive): butadiene (unstabilized), ethylene oxide, vinyl chloride.
+
+E102.1.3 Flammable and combustible liquids.
+
+Examples include:
+
+1.Flammable liquids.
+
+Class IA liquids shall include those having flash points below 73°F (23°C) and having a boiling point at or below 100°F (38°C).
+
+Class IB liquids shall include those having flash points below 73°F (23°C) and having a boiling point at or above 100°F (38°C).
+
+Class IC liquids shall include those having flash points at or above 73°F (23°C) and below 100°F (38°C).
+Class IA liquids shall include those having flash points below 73°F (23°C) and having a boiling point at or below 100°F (38°C).
+
+Class IB liquids shall include those having flash points below 73°F (23°C) and having a boiling point at or above 100°F (38°C).
+
+Class IC liquids shall include those having flash points at or above 73°F (23°C) and below 100°F (38°C).
+
+2.Combustible liquids.
+
+Class II liquids shall include those having flash points at or above 100°F (38°C) and below 140°F (60°C).
+
+Class IIIA liquids shall include those having flash points at or above 140°F (60°C) and below 200°F (93°C).
+
+Class IIIB liquids shall include those liquids having flash points at or above 200°F (93°C).
+Class II liquids shall include those having flash points at or above 100°F (38°C) and below 140°F (60°C).
+
+Class IIIA liquids shall include those having flash points at or above 140°F (60°C) and below 200°F (93°C).
+
+Class IIIB liquids shall include those liquids having flash points at or above 200°F (93°C).
+
+E102.1.4 Flammable solids.
+
+Examples include:
+
+1.Organic solids: camphor, cellulose nitrate, naphthalene.
+
+2.Inorganic solids: decaborane, lithium amide, phosphorous heptasulfide, phosphorous sesquisulfide, potassium sulfide, anhydrous sodium sulfide, sulfur.
+
+3.Combustible metals (except dusts and powders): cesium, magnesium, zirconium.
+
+E102.1.5 Combustible dusts and powders.
+
+Finely divided solids that could be dispersed in air as a dust cloud: wood sawdust, plastics, coal, flour, powdered metals (few exceptions).
+
+E102.1.6 Combustible fibers.
+
+See the definition of combustible fibers in Section 202.
+
+E102.1.7 Oxidizers.
+
+Examples include:
+
+1.Gases: oxygen, ozone, oxides of nitrogen, fluorine and chlorine (reaction with flammables is similar to that of oxygen).
+
+2.Liquids: bromine, hydrogen peroxide, nitric acid, perchloric acid, sulfuric acid.
+
+3.Solids: chlorates, chromates, chromic acid, iodine, nitrates, nitrites, perchlorates, peroxides.
+
+E102.1.7.1 Examples of liquid and solid oxidizers according to hazard.
+
+Examples include: Class 4: ammonium perchlorate (particle size greater than 15 microns), ammonium permanganate, guanidine nitrate, hydrogen peroxide solutions more than 91 percent by weight, perchloric acid solutions more than 72.5 percent by weight, potassium superoxide, tetranitromethane.
+
+Class 3: ammonium dichromate, calcium hypochlorite (over 50 percent by weight), chloric acid (10 percent maximum concentration), hydrogen peroxide solutions (greater than 52 percent up to 91 percent), mono-(trichloro)-tetra-(monopotassium dichloro)-penta-s-triazinetrione, nitric acid, (fuming—more than 86 percent concentration), perchloric acid solutions (60 percent to 72 percent by weight), potassium bromate, potassium chlorate, potassium dichloro-s-triazinetrione (potassium dichloro-isocyanurate), potassium perchlorate (99 percent), potassium permanganate (greater than 97.5 percent), sodium bromate, sodium chlorate and sodium chlorite (over 40 percent by weight).
+
+Class 2: barium bromate, barium chlorate, barium hypochlorite, barium perchlorate, barium permanganate, 1-bromo-3-chloro-5, 5-dimethylhydantoin, calcium chlorate, calcium chlorite, calcium hypochlorite (50 percent or less by weight), calcium perchlorate, calcium permanganate, calcium peroxide (75 percent), chromium trioxide (chromic acid), copper chlorate, halane (1, 3-dichloro-5, 5-dimethyl-hydantoin), hydrogen peroxide (greater than 27.5 percent up to 52 percent), lead perchlorate, lithium chlorate, lithium hypochlorite (more than 39 percent available chlorine), lithium perchlorate, magnesium bromate, magnesium chlorate, magnesium perchlorate, mercurous chlorate, nitric acid (more than 40 percent but less than 86 percent), perchloric acid solutions (more than 50 percent but less than 60 percent), potassium peroxide, potassium superoxide, silver peroxide, sodium chlorite (40 percent or less by weight), sodium dichloro-s-triazinetrione anhydrous (sodium dichloroisocyanurate anhydrous), sodium perchlorate, sodium perchlorate monohydrate, sodium permanganate, sodium peroxide, sodium persulfate (99 percent), strontium chlorate, strontium perchlorate, thallium chlorate, urea hydrogen peroxide, zinc bromate, zinc chlorate and zinc permanganate.
+
+Class 1: all inorganic nitrates (unless otherwise classified), all inorganic nitrites (unless otherwise classified), ammonium persulfate, barium peroxide, hydrogen peroxide solutions (greater than 8 percent up to 27.5 percent), lead dioxide, lithium hypochlorite (39 percent or less available chlorine), lithium peroxide, magnesium peroxide, manganese dioxide, nitric acid (40 percent concentration or less), perchloric acid solutions (less than 50 percent by weight), potassium dichromate, potassium monopersulfate (45 percent KHSO5 or 90 percent triple salt), potassium percarbonate, potassium persulfate, sodium carbonate peroxide, sodium dichloro-s-triazinetrione dihydrate, sodium dichromate, sodium perborate (anhydrous), sodium perborate monohydrate, sodium perborate tetra-hydrate, sodium percarbonate, strontium peroxide, trichloro-s-triazinetrione (trichloroisocyanuric acid) and zinc peroxide.
+
+E102.1.8 Organic peroxides.
+
+Organic peroxides contain the double oxygen or peroxy (-o-o) group. Some are flammable compounds and subject to explosive decomposition. They are available as:
+
+1.Liquids.
+
+2.Pastes.
+
+3.Solids (usually finely divided powders).
+
+E102.1.8.1 Classification of organic peroxides according to hazard.
+
+Examples include: Unclassified: Unclassified organic peroxides are capable of detonation and are regulated in accordance with Chapter 56.
+
+Class I: acetyl cyclohexane sulfonyl 60-65 percent concentration by weight, fulfonyl peroxide, benzoyl peroxide over 98 percent concentration, t-butyl hydroperoxide 90 percent, t-butyl peroxyacetate 75 percent, t-butyl peroxyisopropylcarbonate 92 percent, diisopropyl peroxydicarbonate 100 percent, di-n-propyl peroxydicarbonate 98 percent, and di-n-propyl peroxydicarbonate 85 percent.
+
+Class II: acetyl peroxide 25 percent, t-butyl hydroperoxide 70 percent (with DTBP and t-BuOH diluents), t-butyl peroxybenzoate 98 percent, t-butyl peroxy-2-ethylhexanoate 97 percent, t-butyl peroxyisobutyrate 75 percent, t-butyl peroxyisopropyl-carbonate 75 percent, t-butyl peroxypivalate 75 percent, dybenzoyl peroxydicarbonate 85 percent, di-sec-butyl peroxydicarbonate 98 percent, di-secbutyl peroxydicarbonate 75 percent, 1,1-di-(t-butylperoxy)-3,5,5-trimethyecyclohexane 95 percent, di-(2-ethythexyl) peroxydicarbonate 97 percent, 2,5-dymethyl-2-5 di (benzoylperoxy) hexane 92 percent, and peroxyacetic acid 43 percent.
+
+Class III: acetyl cyclohexane sulfonal peroxide 29 percent, benzoyl peroxide 78 percent, benzoyl peroxide paste 55 percent, benzoyl peroxide paste 50 percent peroxide/50 percent butylbenzylphthalate diluent, cumene hydroperoxide 86 percent, di-(4-butylcyclohexyl) peroxydicarbonate 98 percent, t-butyl peroxy-2-ethylhexanoate 97 percent, t-butyl peroxyneodecanoate 75 percent, decanoyl peroxide 98.5 percent, di-t-butyl peroxide 99 percent, 1,1-di-(t-butylperoxy)3,5,5-trimethylcyclohexane 75 percent, 2,4-dichlorobenzoyl peroxide 50 percent, diisopropyl peroxydicarbonate 30 percent, 2,-5-dimethyl-2,5-di-(2-ethylhexanolyperoxy)-hexane 90 percent, 2,5-dimethyl-2,5-di-(t-butylperoxy) hexane 90 percent and methyl ethyl ketone peroxide 9 percent active oxygen diluted in dimethyl phthalate.
+
+Class IV: benzoyl peroxide 70 percent, benzoyl peroxide paste 50 percent peroxide/15 percent water/35 percent butylphthalate diluent, benzoyl peroxide slurry 40 percent, benzoyl peroxide powder 35 percent, t-butyl hydroperoxide 70 percent, (with water diluent), t-butyl peroxy-2-ethylhexanoate 50 percent, decumyl peroxide 98 percent, di-(2-ethylhexal) peroxydicarbonate 40 percent, laurel peroxide 98 percent, p-methane hydroperoxide 52.5 percent, methyl ethyl ketone peroxide 5.5 percent active oxygen and methyl ethyl ketone peroxide 9 percent active oxygen diluted in water and glycols.
+
+Class V: benzoyl peroxide 35 percent, 1,1-di-t-butyl peroxy 3,5,5-trimethylcyclohexane 40 percent, 2,5-di-(t-butyl peroxy) hexane 47 percent and 2,4-pentanedione peroxide 4 percent active oxygen.
+Examples include: Unclassified: Unclassified organic peroxides are capable of detonation and are regulated in accordance with Chapter 56.
+
+Class I: acetyl cyclohexane sulfonyl 60-65 percent concentration by weight, fulfonyl peroxide, benzoyl peroxide over 98 percent concentration, t-butyl hydroperoxide 90 percent, t-butyl peroxyacetate 75 percent, t-butyl peroxyisopropylcarbonate 92 percent, diisopropyl peroxydicarbonate 100 percent, di-n-propyl peroxydicarbonate 98 percent, and di-n-propyl peroxydicarbonate 85 percent.
+
+Class II: acetyl peroxide 25 percent, t-butyl hydroperoxide 70 percent (with DTBP and t-BuOH diluents), t-butyl peroxybenzoate 98 percent, t-butyl peroxy-2-ethylhexanoate 97 percent, t-butyl peroxyisobutyrate 75 percent, t-butyl peroxyisopropyl-carbonate 75 percent, t-butyl peroxypivalate 75 percent, dybenzoyl peroxydicarbonate 85 percent, di-sec-butyl peroxydicarbonate 98 percent, di-secbutyl peroxydicarbonate 75 percent, 1,1-di-(t-butylperoxy)-3,5,5-trimethyecyclohexane 95 percent, di-(2-ethythexyl) peroxydicarbonate 97 percent, 2,5-dymethyl-2-5 di (benzoylperoxy) hexane 92 percent, and peroxyacetic acid 43 percent.
+
+Class III: acetyl cyclohexane sulfonal peroxide 29 percent, benzoyl peroxide 78 percent, benzoyl peroxide paste 55 percent, benzoyl peroxide paste 50 percent peroxide/50 percent butylbenzylphthalate diluent, cumene hydroperoxide 86 percent, di-(4-butylcyclohexyl) peroxydicarbonate 98 percent, t-butyl peroxy-2-ethylhexanoate 97 percent, t-butyl peroxyneodecanoate 75 percent, decanoyl peroxide 98.5 percent, di-t-butyl peroxide 99 percent, 1,1-di-(t-butylperoxy)3,5,5-trimethylcyclohexane 75 percent, 2,4-dichlorobenzoyl peroxide 50 percent, diisopropyl peroxydicarbonate 30 percent, 2,-5-dimethyl-2,5-di-(2-ethylhexanolyperoxy)-hexane 90 percent, 2,5-dimethyl-2,5-di-(t-butylperoxy) hexane 90 percent and methyl ethyl ketone peroxide 9 percent active oxygen diluted in dimethyl phthalate.
+
+Class IV: benzoyl peroxide 70 percent, benzoyl peroxide paste 50 percent peroxide/15 percent water/35 percent butylphthalate diluent, benzoyl peroxide slurry 40 percent, benzoyl peroxide powder 35 percent, t-butyl hydroperoxide 70 percent, (with water diluent), t-butyl peroxy-2-ethylhexanoate 50 percent, decumyl peroxide 98 percent, di-(2-ethylhexal) peroxydicarbonate 40 percent, laurel peroxide 98 percent, p-methane hydroperoxide 52.5 percent, methyl ethyl ketone peroxide 5.5 percent active oxygen and methyl ethyl ketone peroxide 9 percent active oxygen diluted in water and glycols.
+
+Class V: benzoyl peroxide 35 percent, 1,1-di-t-butyl peroxy 3,5,5-trimethylcyclohexane 40 percent, 2,5-di-(t-butyl peroxy) hexane 47 percent and 2,4-pentanedione peroxide 4 percent active oxygen.
+
+E102.1.9 Pyrophoric materials.
+
+Examples include:
+
+1.Gases: diborane, phosphine, silane.
+
+2.Liquids: diethylaluminum chloride, di-ethylberyllium, diethylphosphine, diethylzinc, dimethylarsine, triethylaluminum etherate, tri-ethylbismuthine, triethylboron, trimethylaluminum, trimethylgallium.
+
+3.Solids: cesium, hafnium, lithium, white or yellow phosphorous, plutonium, potassium, rubidium, sodium, thorium.
+
+E102.1.10 Unstable (reactive) materials.
+
+Examples include:
+
+Class 4: acetyl peroxide, dibutyl peroxide, dinitrobenzene, ethyl nitrate, peroxyacetic acid and picric acid (dry) trinitrobenzene.
+
+Class 3: hydrogen peroxide (greater than 52 percent), hydroxylamine, nitromethane, paranitroaniline, perchloric acid and tetrafluoroethylene monomer.
+
+Class 2: acrolein, acrylic acid, hydrazine, methacrylic acid, sodium perchlorate, styrene and vinyl acetate.
+
+Class 1: acetic acid, hydrogen peroxide 35 percent to 52 percent, paraldehyde and tetrahydrofuran.
+Class 4: acetyl peroxide, dibutyl peroxide, dinitrobenzene, ethyl nitrate, peroxyacetic acid and picric acid (dry) trinitrobenzene.
+
+Class 3: hydrogen peroxide (greater than 52 percent), hydroxylamine, nitromethane, paranitroaniline, perchloric acid and tetrafluoroethylene monomer.
+
+Class 2: acrolein, acrylic acid, hydrazine, methacrylic acid, sodium perchlorate, styrene and vinyl acetate.
+
+Class 1: acetic acid, hydrogen peroxide 35 percent to 52 percent, paraldehyde and tetrahydrofuran.
+
+E102.1.11 Water-reactive materials.
+
+Examples include:
+
+Class 3: aluminum alkyls such as triethylaluminum, isobutylaluminum and trimethylaluminum; bromine pentafluoride, bromine trifluoride, chlorodiethylaluminium and diethylzinc.
+
+Class 2: calcium carbide, calcium metal, cyanogen bromide, lithium hydride, methyldichlorosilane, potassium metal, potassium peroxide, sodium metal, sodium peroxide, sulfuric acid and trichlorosilane.
+
+Class 1: acetic anhydride, sodium hydroxide, sulfur monochloride and titanium tetrachloride.
+Class 3: aluminum alkyls such as triethylaluminum, isobutylaluminum and trimethylaluminum; bromine pentafluoride, bromine trifluoride, chlorodiethylaluminium and diethylzinc.
+
+Class 2: calcium carbide, calcium metal, cyanogen bromide, lithium hydride, methyldichlorosilane, potassium metal, potassium peroxide, sodium metal, sodium peroxide, sulfuric acid and trichlorosilane.
+
+Class 1: acetic anhydride, sodium hydroxide, sulfur monochloride and titanium tetrachloride.
+
+E102.1.12 Cryogenic fluids.
+
+The cryogenics listed will exist as compressed gases where they are stored at ambient temperatures.
+
+1.Flammable: carbon monoxide, deuterium (heavy hydrogen), ethylene, hydrogen, methane.
+
+2.Oxidizing: fluorine, nitric oxide, oxygen.
+
+3.Corrosive: fluorine, nitric oxide.
+
+4.Inert (chemically unreactive): argon, helium, krypton, neon, nitrogen, xenon.
+
+5.Highly toxic: fluorine, nitric oxide.
+
+E102.2 Health hazards.
+
+Materials classified in this section pose a health hazard.
+
+E102.2.1 Highly toxic materials.
+
+Examples include:
+
+1.Gases: arsine, cyanogen, diborane, fluorine, germane, hydrogen cyanide, nitric oxide, nitrogen dioxide, ozone, phosphine, hydrogen selenide, stibine.
+
+2.Liquids: acrolein, acrylic acid, 2-chloroethanol (ethylene chlorohydrin), hydrazine, hydrocyanic acid, 2-methylaziridine (propylenimine), 2-methyl-acetonitrile (acetone cyanohydrin), methyl ester isocyanic acid (methyl isocyanate), nicotine, tetranitromethane and tetraethylstannane (tetraethyltin).
+
+3.Solids: (aceto) phenylmercury (phenyl mercuric acetate), 4-aminopyridine, arsenic pentoxide, arsenic trioxide, calcium cyanide, 2-chloroacetophenone, aflatoxin B, decaborane(14), mercury (II) bromide (mercuric bromide), mercury (II) chloride (corrosive mercury chloride), pentachlorophenol, methyl parathion, phosphorus (white) and sodium azide.
+
+E102.2.2 Toxic materials.
+
+Examples include:
+
+1.Gases: boron trichloride, boron trifluoride, chlorine, chlorine trifluoride, hydrogen fluoride, hydrogen sulfide, phosgene, silicon tetrafluoride.
+
+2.Liquids: acrylonitrile, allyl alcohol, alpha-chlorotoluene, aniline, 1-chloro-2, 3-epoxypropane, chloroformic acid (allyl ester), 3-chloropropene (allyl chloride), o-cresol, crotonaldehyde, dibromomethane, diisopropylamine, diethyl ester sulfuric acid, dimethyl ester sulfuric acid, 2-furaldehyde (furfural), furfural alcohol, phosphorus chloride, phosphoryl chloride (phosphorus oxychloride) and thionyl chloride.
+
+3.Solids: acrylamide, barium chloride, barium (II) nitrate, benzidine, p-benzoquinone, beryllium chloride, cadmium chloride, cadmium oxide, chloroacetic acid, chlorophenylmercury (phenyl mercuric chloride), chromium (VI) oxide (chromic acid, solid), 2,4-dinitrotoluene, hydroquinone, mercury chloride (calomel), mercury (II) sulfate (mercuric sulfate), osmium tetroxide, oxalic acid, phenol, P-phenylenediamine, phenylhydrazine, 4-phenylmorpholine, phosphorus sulfide, potassium fluoride, potassium hydroxide, selenium (IV) disulfide and sodium fluoride.
+
+E102.2.3 Corrosives.
+
+Examples include:
+
+1.Acids: Examples: chromic, formic, hydrochloric (muriatic) greater than 15 percent, hydrofluoric, nitric (greater than 6 percent, perchloric, sulfuric (4 percent or more).
+
+2.Bases (alkalis): hydroxides-ammonium (greater than 10 percent), calcium, potassium (greater than 1 percent), sodium (greater than 1 percent); certain carbonates-potassium.
+
+3.Other corrosives: bromine, chlorine, fluorine, iodine, ammonia.
+
+Note: Corrosives that are oxidizers (for example, nitric acid, chlorine, fluorine), compressed gases (for example, ammonia, chlorine, fluorine), or water-reactive (for example, concentrated sulfuric acid, sodium hydroxide) are physical hazards in addition to being health hazards.
+
+SECTION E103 EVALUATION OF HAZARDS
+
+E103.1 Degree of hazard.
+
+The degree of hazard present depends on many variables that should be considered individually and in combination. Some of these variables are as shown in Sections E103.1.1 through E103.1.5.
+
+E103.1.1 Chemical properties of the material.
+
+Chemical properties of the material determine self reactions and reactions that could occur with other materials. Generally, materials within subdivisions of hazard categories will exhibit similar chemical properties. However, materials with similar chemical properties could pose very different hazards. Each individual material should be researched to determine its hazardous properties and then considered in relation to other materials that it might contact and the surrounding environment.
+
+E103.1.2 Physical properties of the material.
+
+Physical properties, such as whether a material is a solid, liquid or gas at ordinary temperatures and pressures, considered along with chemical properties will determine requirements for containment of the material. Specific gravity (weight of a liquid compared to water) and vapor density (weight of a gas compared to air) are both physical properties that are important in evaluating the hazards of a material.
+
+E103.1.3 Amount and concentration of the material.
+
+The amount of material present and its concentration must be considered along with physical and chemical properties to determine the magnitude of the hazard. Hydrogen peroxide, for example, is used as an antiseptic and a hair bleach in low concentrations (approximately 8 percent in water solution). Over 8 percent, hydrogen peroxide is classed as an oxidizer and is toxic. Above 90 percent, it is a Class 4 oxidizer “that can undergo an explosive reaction when catalyzed or exposed to heat, shock or friction,” a definition that, incidentally, places hydrogen peroxide over 90-percent concentration in the unstable (reactive) category. Small amounts at high concentrations could pose a greater hazard than large amounts at low concentrations.
+
+E103.1.3.1 Mixtures.
+
+Gases—toxic and highly toxic gases include those gases that have an LC50 of 2,000 parts per million (ppm) or less when rats are exposed for a period of 1 hour or less. To maintain consistency with the definitions for these materials, exposure data for periods other than 1 hour must be normalized to 1 hour. To classify mixtures of compressed gases that contain one or more toxic or highly toxic components, the LC50 of the mixture must be determined. Mixtures that contain only two components are binary mixtures. Those that contain more than two components are multicomponent mixtures. Where two or more hazardous substances (components) having an LC50 below 2,000 ppm are present in a mixture, their combined effect, rather than that of the individual substance components, must be considered. The effects of the hazards present must be considered as additive, except where there is a good reason to believe that the principal effects of the different harmful substances (components) are not additive.
+
+For binary mixtures where the hazardous component is diluted with a nontoxic gas such as an inert gas, the LC50 of the mixture is estimated by use of the methodology contained in CGA P-20. The hazard zones specified in CGA P-20 are applicable for DOTn purposes and shall not be used for hazard classification.
+
+E103.1.4 Actual use, activity or process involving the material.
+
+The definition of handling, storage and use in closed systems refers to materials in packages or containers. Dispensing and use in open containers or systems describes situations where a material is exposed to ambient conditions or vapors are liberated to the atmosphere. Dispensing and use in open systems, then, are generally more hazardous situations than handling, storage or use in closed systems. The actual use or process could include heating, electric or other sparks, catalytic or reactive materials and many other factors that could affect the hazard and must therefore be thoroughly analyzed.
+
+E103.1.5 Surrounding conditions.
+
+Conditions such as other materials or processes in the area, type of construction of the structure, fire protection features (for example, fire walls, sprinkler systems, alarms), occupancy (use) of adjoining areas, normal temperatures, exposure to weather, etc., must be taken into account in evaluating the hazard.
+
+E103.2 Evaluation questions.
+
+The following are sample evaluation questions:
+
+1.What is the material? Correct identification is important; exact spelling is vital. Checking labels and SDS and asking responsible persons should be among the highest priorities.
+
+2.What are the concentration and strength?
+
+3.What is the physical form of the material? Liquids, gases and finely divided solids have differing requirements for spill and leak control and containment.
+
+4.How much material is present? Consider in relation to permit amounts, maximum allowable quantity per control area (from Group H occupancy requirements), amounts that require detached storage and overall magnitude of the hazard.
+
+5.What other materials (including furniture, equipment and building components) are close enough to interact with the material?
+
+6.What are the likely reactions?
+
+7.What is the activity involving the material?
+
+8.How does the activity impact the hazardous characteristics of the material? Consider vapors released or hazards otherwise exposed.
+
+9.What must the material be protected from? (For example, other materials, temperature, shock, pressure.)
+
+10.What effects of the material must people and the environment be protected from?
+
+11.How can protection be accomplished? Consider:
+
+11.1.Proper containers and equipment.
+
+11.2.Separation by distance or construction.
+
+11.3.Enclosure in cabinets or rooms.
+
+11.4.Spill control, drainage and containment.
+
+11.5.Control system ventilation, special electrical, detection and alarm, extinguishment, explosion venting, limit controls, exhaust scrubbers and excess flow control.
+
+11.6.Administrative (operational) control signs, ignition source control, security, personnel training, established procedures, storage plans and emergency plans.
+
+Evaluation of the hazard is a strongly subjective process; therefore, the person charged with this responsibility must gather as much relevant data as possible so that the decision will be objective and within the limits prescribed in laws, policies and standards.
+
+It could be necessary to cause the responsible persons in charge to have tests made by qualified persons or testing laboratories to support contentions that a particular material or process is or is not hazardous. See Section 104.8.2.
+
+SECTION E104 REFERENCED STANDARDS
+
+E104.1 General.
+
+See Table E104.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE E104.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+CGA P-20—2009	Standard for Classification of Toxic Mixtures	E103.1.3.1
+CGA P-23—2008	Standard for Categorizing Gas Mixtures Containing Flammable and Nonflammable Components	E102.1.2

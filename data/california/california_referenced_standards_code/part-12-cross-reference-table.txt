@@ -1,0 +1,34 @@
+PART 12 CROSS REFERENCE TABLE
+
+(Cross reference table is nonregulatory, intended only as an aid to the code user.)
+
+	PART 12 STANDARD	SUBJECT	ADOPTING AGENCY	ASSOCIATED TITLE 24 BUILDING STANDARD
+>	Chapter 12-3	Releasing systems for security bars in dwellings	SFM	Part 2, Sections 402.8.8, 425.1.5, 1010.1.4.4.1, 1030.1.1, 1030.5
+ Part 2.5, Sections R310.1.1, R310.4
+ Part 9, Sections 1010.1.4.5.1, 1030.1.1, 1030.5, 1031.7,
+ Appendix 4 Section 452.1.5 and Title 19 provisions 4.1, 4.2,
+ 4.3, 4.4, 4.5, 4.6 reprinted in Part 9 Part 10, Section 505.4
+	Chapter 12-4A	Laboratory animal quarter standards	DPH	Part 2, Section 1236
+	Chapter 12-4-1	Stage and Platforms	SFM	Part 2, Sections 410.2.7, 410.2.7.1, 410.2.7.2 Part 9, Sections 105.6.51, 4809
+	Chapter 12-7-1	Fire-resistive standards. Fire tests of building construction and materials	SFM	Part 2, Section 703
+>	Chapter 12-7-2	Reserved		
+	Chapter 12-7-3	Fire-resistive standards. Fire testing furnaces	SFM	Part 9, Section 3001
+	Chapter 12-7-4	Fire-resistive standards. Fire door assembly tests.	SFM	Part 2, Section 716
+>	Chapter 12-7-5	Fire-resistive standards. Interior finish of decorative material	SFM	Part 2, Chapter 8Part 9, Chapter 8
+>	Chapter 12-7A	Materials and construction methods for exterior wildfire exposure	SFM	Part 2, Chapter 7A Part 2.5, Section R337 Part 9, Chapter 49
+	Chapter 12-8-1	Fire-resistive standards for fire protection	SFM	Part 2, Sections 408.14 and 425.6.2, Chapter 35 Part 9, Section 425.6.2
+	Appendix 12-8-1A	Calculation of the total rate of heat and carbon monoxide or carbon dioxide production	SFM	
+	Appendix 12-8-1B	Guide to mounting techniques for wall and ceiling interior finish material	SFM	
+	Chapter 12-10-1	Exits. Power-operated exit doors. 	SFM	Part 2, Sections 408.4.2, 1010.1.4.2, 1010.1.9.1
+>	Chapter 12-10-2	Exits. Single point latching or locking devices.	SFM	Part 2, Sections 407.4.1.1, 1010.1.4.4, 1010.1.9.1, 1010.1.9.4 Part 9, Section 1010.4.2
+	Chapter 12-10-3	Exits. Emergency exit and panic hardware.	SFM	Part 9, Section 1009.12
+	Chapter 12-11A, 12-11B	Detectable warning products and directional surfaces	DSA	Part 2, Sections 1112A.9, 1116A.5, 11B-247, 11B-406.5.12, 11B-705, 11B-810.5.2
+	Chapter 12-12	Reserved		
+>	Chapter 12-13	Standards for insulating material	CA/SFM	Part 2.5, Section R302.10.1 Part 6, Section 110.8 Part 9, Section 720, Table 721.1(1) Part 11, Section A5.504.4.8
+	Chapter 12-16-1	California standard for earthquakeactuated automatic gas shutoff systems	DSA	Part 2, Chapters 16 and 16A Part 5, Section 1211.7
+	Chapter 12-16-2	California standard for residential excess flow actuated automatic gas shutoff valves	DSA	Part 5, Section 1209.18
+	Chapter 12-31C	Radiation shielding	DPH	Part 2, Section 3102C
+	Chapter 12-71	Air filters	SFM	Part 4, Sections 401.2, 509.2.3, 509.2.3.4 Part 6, Section 120.1
+	Chapter 12-72-1	Protective signaling systems, standard test procedures	SFM	
+	Chapter 12-72-2	Protective signaling systems. Singleand multiple-station fire alarm devices mechanically operated type.	SFM	
+	Chapter 12-72-3	Protective signaling systems. Smoke detectors, combustion products type.	SFM	

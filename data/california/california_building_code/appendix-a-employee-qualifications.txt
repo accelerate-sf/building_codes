@@ -1,0 +1,53 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLEAPPENDIX A – EMPLOYEE QUALIFICATIONS
+
+(Not adopted by state agencies)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							APPENDIX A EMPLOYEE QUALIFICATIONS
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User notes:
+
+About this appendix: Appendix A provides optional criteria for the qualifications for jurisdictions to consider when hiring personnel to enforce the building code. Criteria for the building official, plan reviewers and inspectors are provided.
+
+Code development reminder: Code change proposals to this appendix will be considered by the Administrative Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION A101 BUILDING OFFICIAL QUALIFICATIONS
+
+[A] A101.1 Building official.
+
+The building official shall have not fewer than 10 years’ experience or equivalent as an architect, engineer, inspector, contractor or superintendent of construction, or any combination of these, 5 years of which shall have been supervisory experience. The building official should be certified as a building official through a recognized certification program. The building official shall be appointed or hired by the applicable governing authority.
+
+[A] A101.2 [A] Chief inspector.
+
+The building official can designate supervisors to administer the provisions of this code and the California Mechanical and Plumbing Codes and International Fuel Gas Code. Each supervisor shall have not fewer than 10 years experience or equivalent as an architect, engineer, inspector, contractor or superintendent of construction, or any combination of these, 5 years of which shall have been in a supervisory capacity. They shall be certified through a recognized certification program for the appropriate trade.
+
+[A] A101.3 [A] Inspector and plans examiner.
+
+The building official shall appoint or hire such number of officers, inspectors, assistants and other employees as shall be authorized by the jurisdiction. A person who has fewer than 5 years of experience as a contractor, engineer, architect, or as a superintendent, foreman or competent mechanic in charge of construction shall not be appointed or hired as inspector of construction or plans examiner. The inspector or plans examiner shall be certified through a recognized certification program for the appropriate trade.
+
+[A] A101.4 [A] Termination of employment.
+
+Employees in the position of building official, chief inspector or inspector shall not be removed from office except for cause after full opportunity has been given to be heard on specific charges before such applicable governing authority.
+
+SECTION A102 REFERENCED STANDARDS
+
+[A] A102.1 [A] General.
+
+See Table A102.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE A102.1
+
+REFERENCEDV STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+CBC—22	California Building Code	A101.2
+CMC—22	California Mechanical Code	A101.2
+CPC—22	California Plumbing Code	A101.2
+IFGC—21	International Fuel Gas Code	A101.2

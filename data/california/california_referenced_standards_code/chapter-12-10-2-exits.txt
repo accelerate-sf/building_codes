@@ -1,0 +1,140 @@
+CHAPTER 12-10-2 EXITS
+
+SINGLE-POINT LATCHING OR LOCKING DEVICES STANDARD 12-10-2
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-10-200.
+
+(a)Builders hardware, exit doors. These design requirements and testing procedures apply to builders hardware, single-point latches and locks, intended for use on required means of egress doors in other than Group R and M Occupancies with an occupant load of 10 or less. It is the intent that devices designed and tested in accordance with these procedures will develop data to enable the State Fire Marshal to determine the suitability of latches and locks on means of egress doors. Alternate designs and materials may be submitted with substantiating test data. If, after evaluation, devices are found to comply with the intent of these procedures, they may also be recognized for approval and listing by the State Fire Marshal.
+
+(b)Fire doors. Builders hardware single-point latches and locks intended for use on doors bearing a fire-retardant classification shall also conform to the construction standards and performance tests specified in Fire Door Assembly Tests, SFM 12-7-4, Section 12-7-400.
+
+(c)Listing by approved listing agency. Listing by an approved listing agency shall not be construed as necessarily indicating compliance in all respects with the requirements of these design requirements and test procedures for single-point latching or locking devices. The test report of the approved listing agency may be filed for review and after evaluation, if it is found to provide evidence of conformance, the single-point latching or locking device may be recognized for approval and listing.
+
+(d)Definitions.
+
+1.Inside knob. Inside knob means the knob, lever, bar or paddle on the side of the door which must be turned or depressed to unlatch or unlock the door to permit egress.
+
+2.Outside knob. Outside knob means the knob on the corridor side of room to corridor doors, or the knob on the exterior side of a door leading to the exterior.
+
+INSTRUCTIONS
+
+Sec. 12-10-201.
+
+Approved installation instructions shall be provided by the manufacturer. Instructions shall be illustrated and shall include directions and information adequate to ensure proper and safe installation of the device.
+
+DESIGN
+
+Sec. 12-10-202.
+
+(a)Finish. Builders hardware shall have a smooth finish with no sharp or burred edges. Knobs may be knurled or have an abrasive finish for ease of turning or identification as may be required. Strikes shall be plain with curved lip. Strike and lip extending beyond jamb have rounded corners.
+
+(b)Knob, lever or “T” handle actuated. Single-point latch bolts and/or dead bolts shall be retracted from the strike to release the door by a knob, lever or “T” handle with not to exceed 1/4 turn. A thumb piece or thumb turn is not acceptable for this purpose.
+
+(c)Tested design. Builders hardware single-point latching or locking devices shall be designed to retract the latch bolt and/or dead bolt after application of the horizontal forces and the endurance tests without exceeding the releasing torque specified in 12-10-204 (h).
+
+(d)Knobs. Knobs shall have a minimum diameter of 2 inches (51 mm) and a maximum diameter of 23/4 inches (70 mm).
+
+(e)“T” handle. “T” handles shall be oval-shaped and have minimum dimensions of 13/4 inch by 1 inch (44 mm by 25 mm) at center portion with 11/4 inch (32 mm) projection.
+
+(f)Levers. The lever of lever actuated latches or locks shall be curved with a return to within 1/2 inch (13 mm) of the door to prevent catching on the clothing of persons during egress.
+
+(g)Self-releasing knob. The inside knob shall be free at all times. Any locking, stopworks or shut-out mechanism shall not prevent retracting the latch bolt or dead bolt to release the door by turning of the inside knob, or “T” handle, or depressing the inside lever, bar or paddle.
+
+(h)Dead bolt operation. Operation of the inside knob shall retract both latch bolt and dead bolt simultaneously. The opening in the strike shall be of such dimensions that when the flat of the latch bolt is forced against the edge of the latch hole there shall be no pressure against the side of the dead bolt.
+
+(i)Springs. Retraction of the latch bolt and/or dead bolt shall not depend on springs.
+
+(j)Backset. Backset shall be not less than 23/4 inches (70 mm) or more than 5 inches (127 mm).
+
+(k)Throw. Latches shall have a minimum latch throw of 1/2 inch (13 mm). Latches intended for use on fire endurance rated doors shall also conform to the requirements of SFM 12-7-4, Section 12-7-400, Fire Door Assembly Tests.
+
+(l)Roller latches. Roller latches intended for use on room to corridor doors shall have a minimum projection of 3/8 inch (9.5 mm) excluding any coating or sound deadening material. Stops or staking shall be provided to provide a minimum projection of 1/8 inch (3 mm). Spring design shall be such as will require an opening force of 20 pounds when the roller projects 31/6 inch (72 mm) in a door and frame with 1/8-inch (3 mm) jamb clearance. Adjustment of the roller projection shall not be possible from the front of face plate.
+
+CONSTRUCTION MATERIALS
+
+Sec. 12-10-203.
+
+(a)Cases, interior working parts. Cases, latch or lock enclosures, and interior working parts shall be of brass, bronze, steel, monel, stainless steel or of materials equivalent in mechanical strength to brass or bronze. Cases of mortise locks may be of cast iron.
+
+(b)Latch bolts, strikes. Latch bolts and strikes shall be of brass, bronze, monel, stainless steel or materials equivalent in mechanical strength having corrosion resistance equivalent to brass or bronze.
+
+(c)Corrosion resistance. Cases, enclosures and internal working parts shall have corrosion resistance equivalent to cadmium plating not less than 0.00015 inch (0.004 mm) thick or zinc plating not less than 0.0004 inch (0.01 mm) thick, or processed to give equal corrosion resistance as determined by comparison in salt fog atmosphere per ASTM Method B-117.
+
+(d)Nonmetallic materials. Nonmetallic materials may be used as coatings or for wearing surfaces, rollers and finishes, and antifriction inserts, or for similar purpose if the material otherwise conforms to these requirements.
+
+(e)Springs. Component springs used in the assembly of a latch or lock shall be of material having spring properties equivalent to stainless steel conforming to ASTM A313.67.
+
+ENDURANCE AND PERFORMANCE TEST PROCEDURES
+
+Sec. 12-10-204.
+
+(a)Testing laboratory. Tests shall be conducted at a testing laboratory approved by the State Fire Marshal, or tests shall be conducted by a qualified independent fire protection engineer, acceptable to the State Fire Marshal, in testing facilities acceptable to the State Fire Marshal.
+
+(b)Report. The test report shall include a detailed description of the latch or lock and its intended function; engineering data, shop drawings and photographs; identification of materials as to source, composition, strength and corrosion resistance; the physical or chemical tests including dimensions of parts before and after the endurance tests establishing conformance of materials. The report shall include the manufacturer’s installation instructions. The report shall be verified by the laboratory or fire protection engineer responsible for the conduct of the test. The test report and evidence of listing by an approved listing agency may be provided for the applicable portions of these endurance and performance test procedures. Test reports prepared for other governmental agencies may be utilized to the extent that the test procedures contained herein have been duplicated.
+
+(c)Test latches or locks.
+
+1.Samples. Samples of the test latch or lock shall be selected by the testing agency or fire protection engineer at random from the manufacturer’s current production runs. The types tested shall be considered to represent, for purposes of approval and listing, all lock types of a series, except that when there are variations of basic mechanical design and/or materials for mechanical parts, each variation shall be tested for compliance with the minimum performance test procedures.
+
+2.Modifications in design or test procedure. Devices involving dead-locking bolts, lever handles, shear pins in the outside know or other variations in design may require modifications in the test procedure in order to simulate the intended in-service conditions. Requests for modifications in the design and test procedures shall be filed for evaluation and approval by the State Fire Marshal before proceeding with the test.
+
+(d)Test equipment.
+
+1.Static loading. The static loading apparatus used for the torque loading, axial load, vertical load and releasing torque tests shall consist of frame, test door and test block as detailed in Figure 12-10-2-1. Except as shown, materials shall be of steel, welded or bolted. The test apparatus may be of alternate design and construction having equivalent or greater rigidity.
+
+2.Endurance test. Apparatus for the endurance test shall consist of frame and test door as shown in Figure 12-10-2-2. An alternate design having equivalent or greater rigidity may be utilized. Alternate designs utilizing components of greater dimensions or greater rigidity may affect details of the approval and listing.
+
+3.Test equipment. Torque wrenches, spring scales, hydraulic or pneumatic pressure scales, or other instruments shall be calibrated in an approved manner.
+
+(e)Torque loading test. Each latch or lock shall be installed in a 13/4-inch (44 mm) thick test block in accordance with the manufacturer’s installation instructions. The test block shall be installed in the static loading test fixture. The torque load shall be applied to the inside door knob or lever. The knob or lever shall be turned or depressed to fully retract the latch bolt or dead bolt before application of the torque load. The applied torque load shall be 300 inch-pounds. After removal of the torque load the latch shall automatically return to its latch position, the dead bolt shall be extended to its locked position.
+
+Subsequent hand turning of the knob or depressing the lever shall retract the latch or dead bolt. Three representative latches and/or locks shall be tested and there shall be no failures.
+
+(f)Axial load. Each latch or lock shall be installed as described in Section 12-10-204 (e). A hydraulic loading device or load dynamometer shall be applied first to the outside knob and then to the inside knob or lever so that the force applied to the knob or lever is in line with the axis of the spindle. The axial load applied alternately to the outside knob and inside knob or lever shall be 500 pounds. Neither knob nor lever shall pull off under the axial load. Three representative latches and/or locks shall be tested and there shall be no failures.
+
+(g)Vertical load test. Each latch or lock shall be installed as described in Section 12-10-204 (e). Each latch or lock shall be subjected to a vertical downward force applied perpendicular to the spindle axis through a sling which shall conform to the knob shape. A vertical downward force of 350 pounds shall be applied first to the outside knob and then to the inside knob or lever. Neither knob nor lever shall break off under the downward force. Three latches or locks shall be tested and there shall be no failures.
+
+(h)Releasing torque test. A latch or lock set shall be installed as described in Section 12-10-204 (e). A hydraulic or pneumatic loading device shall be used to apply a horizontal force of 50 pounds against the latching edge of the test block 3 inches (76 mm) above and in the vertical center of the latch or lock spindle in such a direction that the flat of the latch bolt is forced against the edge of the latch hole in the strike. After not less than 25 unlatchings under the above-prescribed load not more than 30 inch-pounds of torque on the inside knob in either direction or 15 pounds of downward pressure on an inside lever shall be required to retract the latch bolt. After 100,000 cycles of the endurance test as described in Section 12-10-204 (i), the torque or downward pressure necessary to retract the latch bolt shall not exceed the above-prescribed limits.
+
+(i)Endurance test. Five latches or locks shall be subjected to an accelerated endurance test as provided in this subsection. The locks shall be installed in the door of the endurance testing apparatus in accordance with the manufacturer’s installation instructions. The latch or lock shall be operated to retract the latch, open the door, and close the door at a rate of approximately 10 cycles per minute. A cycle shall consist of the following:
+
+1.Turn the inside knob to retract the latch bolt.
+
+2.Open the door after the latch bolt is restricted to clear the strike.
+
+3.Release the knob allowing the latch bolt to return to its extended position by action of its own spring.
+
+After insertion of the latches or locks in the test door the torque in inch-pounds necessary to fully retract the latch bolts shall be recorded. The torque shall be the average recorded for the five latches or locks. Each sample shall be subjected to 800,000 operating cycles as described above. Each latch shall continue to extend itself per cycle 3 above throughout the test. At the end of the endurance test the torque to retract the latch bolts of any four latch bolts shall not exceed two times the initial average torque. If two latches fail to operate successfully at the end of the test or the torque of any four latches exceeds two times the initial average torque, an additional five latches or locks shall be subjected to the endurance test and the torque of any seven latches shall not exceed two times the initial average torque.
+
+(j)Roller latches.
+
+1.Fire test. Roller latches shall be installed in a composite test fire door in accordance with the manufacturer’s installation instructions and subjected to the fire test as described in SFM 12-7-4, for a period of 30 minutes. The latch shall be adjusted to an opening pressure of 20 pounds applied to the closing edge immediately above the latch. Throughout the test the latch shall require an applied pressure of 20 pounds to open the door.
+
+2.Endurance test. Five samples of the roller latch shall be subjected to the endurance test as described in Section 12-10-204 (i). The latch shall continue to extend the roller throughout the test without any failure. The opening pressure at the end of the test shall not be less than 15 pounds.
+
+3.Installation. Doors utilizing roller latches shall be installed in doors hung in steel frames only. Frame jambs shall be anchored to the floor to prevent spreading of the jambs. In other than concrete fill floors the jambs shall be anchored to a steel sill or steel floor plate extending between the jambs to prevent spreading of the frame. Horizontal bracing shall be provided in the wall in back of the strike.
+
+THICKNESS OF COATINGS TESTS
+
+Sec. 12-10-205.
+
+The thickness of cadmium, zinc or bronze plated coatings applied for corrosion resistance may be determined by either of the following methods:
+
+1.Cross sections of coated samples cut at 90 exposed edges polished and thickness measured with a suitable microscope and scale.
+
+2.Dropping test of a suitable reagent at a definite rate until coating is penetrated. The thickness is calculated from the known characteristics of the reagent at the observed temperature and time required for the end point to appear.
+
+Thickness testing shall not apply to other processes having equal corrosion resistance; acceptance shall be determined by comparison in salt fog atmosphere per ASTM Method B-117.
+
+MARKING
+
+Sec. 12-10-206.
+
+The name of the manufacturer, or trademark by which the manufacturer can be readily identified, shall be legibly marked on the latch or lock where it can be seen after installation. When the manufacturer produces similar devices, the type, model number or letter designation identifying the listed product shall be legibly marked on the latch or case. Such identification may be an approved marking or label on the case.
+
+FIGURE 12-10-2-1—STATIC LOADING FIXTURE
+
+FIGURE 12-10-2-2—ENDURANCE LIFE TESTING APPARATUS
+

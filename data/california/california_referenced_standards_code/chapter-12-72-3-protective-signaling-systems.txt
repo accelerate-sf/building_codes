@@ -1,0 +1,1141 @@
+CHAPTER 12-72-3 PROTECTIVE SIGNALING SYSTEMS
+
+SMOKE DETECTORS, COMBUSTION PRODUCTS TYPE STANDARD 12-72-3
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-72-300.
+
+(a)Basic. This standard represents the minimum basic requirements for the construction and performance of combustion products detectors of other than the photoelectric type to be employed in ordinary indoor locations and to be listed under this classification. The minimum design, construction and performance standards set forth herein are those deemed as minimum necessary to establish conformance to the regulations of the State Fire Marshal.
+
+(b)Definitions. For the purpose of this standard, the following definitions shall apply:
+
+1.Alarm signal. A signal intended to indicate an emergency fire condition.
+
+2.Annunciator. Integrally mounted or remotely connected visual indicating device intended to indicate an alarm or trouble condition.
+
+3.Ionization type detector. A device in which the presence of small combustion practices, often invisible to the eye, interfere with the normal ionization current resulting from radiation produced by a radioactive source in the detection chamber. A second chamber, employing a similar ionization source, may also be used to compensate for normal environmental ambient changes.
+
+4.Ionization-resistance bridge type detector. Employs both ionization and resistance bridge principles in one unit. Additive response from both detector elements is required for detector operation.
+
+5.Resistance-bridge type detector. Responds to an abnormal rate of increase of combustion products which change the impedance of second similar plate may be employed to compensate for normal ambient changes.
+
+6.Sensitivity. Relative degree of response of a detector. A high sensitivity denotes response to a lower concentration of combustion than a low sensitivity under identical fire test conditions.
+
+7.Trouble signal. A visual or audible signal intended to indicate a fault or trouble condition, such as an open or ground fault, occurring in the device or connected wiring.
+
+8.Voltage classification.
+
+A.Low voltage. A circuit classified as low voltage is one involving a potential of not more than 30 volts alternating current (42.4 peak) or direct current, and supplied from a circuit whose power is limited to a maximum of 100 volt amperes.
+
+B.High voltage. A circuit classified as high voltage is one having circuit characteristics in excess of those of a low-voltage circuit.
+
+TEST REPORTS
+
+Sec. 12-72-301.
+
+(a)The report shall include engineering data, and an analysis comparing the design against Sections 12-72-302 (a) through 12-72-302 (t); it shall include wiring diagrams, operating manuals and photographs; it shall set forth the tests performed in accordance with this standard and the results thereof and shall verify the correctness of the electrical rating.
+
+(b)Listed components. Electrical wiring, material, devices, combination of devices, fittings, appliances and equipment which have been tested and listed by an approved listing agency for the intended purpose and use need not be individually retested.
+
+The report shall include the catalog number or other readily identifiable marking; the name of the approved listing agency, the laboratory test report number and date. Such individually tested and listed component parts and devices shall be subjected to the performance standard tests to determine its suitability for use in combination with other component parts, devices, circuits or equipment.
+
+(c)Listed detectors. Detectors which have been tested to any other acceptable test standard may be evaluated provided such test incorporates all features of this standard.
+
+(d)Rejection for cause. Compliance with these standards will not necessarily mean approval and listing, if when examined and tested, it is found to have other features which may impair the result intended by these regulations. Unusual constructions may require application of additional performance tests. The State Fire Marshal may refuse to approve any item for cause. (See the California Electrical Code.)
+
+(e)Smoke detectors only.
+
+1.A combustion products detector, as covered by these requirements consists of an assembly of electrical components arranged to detect one or more products of combustion. The products of combustion may consist of but are not necessarily limited to gaseous combustion products, water vapor and visible as well as invisible smoke particles. The detector includes provision for the connection to a source of power, signaling and optional remote control circuits.
+
+2.These requirements cover the following types of detectors:
+
+A.Detectors intended for open area protection, intended for connection to a compatible power supply or control unit for operation as part of a fire alarm system.
+
+B.Detectors intended solely for control of releasing devices such as electromagnetic door holders, fire dampers, etc.
+
+C.Detectors suitable for Items A and B above.
+
+3.This standard does not cover the following:
+
+A.Detectors for monitoring the smoke density within flues or stacks.
+
+B.Duct detectors.
+
+C.Power supplies and control units to which the detectors are intended to be connected. These are covered under the Standard Test Procedures for Protective Signaling Systems, SFM 12-72-1.
+
+D.Smoke detectors of the photoelectric type which are covered by the Standard for Smoke Detectors, Photoelectric Type, for Fire-Protective Signaling Systems, UL 168.
+
+4.The manufacture, importation, distribution and disposal of smoke detectors containing radioactive material are subject to the safety requirements of state radiation control agencies and/or the U.S. Atomic Energy Commission.
+
+5.Verification of an acceptable evaluation by the regulating agency involved is required prior to the investigation of the smoke detector to ensure compliance with this standard.
+
+(f)Differing constructions. A detector having materials or forms of construction differing from this standard may be investigated and tested according to the intent of this standard, and if found to be substantially equivalent may be given recognition for approval and listing. The office of the State Fire Marshal shall be consulted for general requirements and performance standards.
+
+(g)Operating and installation instructions.
+
+1.A copy of the operating and installation instructions and related schematic wiring diagrams and installation drawings are to be furnished with the sample submitted for investigation to be used as a guide in the examination and test of the detector and for this purpose need not be in final printed form. The information may be included in a manual or technical bulletin.
+
+2.The instructions and drawings should include such directions and information as deemed by the manufacturer to be adequate for attaining proper and safe installation, maintenance and operation of the detector. See Section 12-72-302 (b).
+
+GENERAL
+
+12-72-302.
+
+(a)Construction.
+
+1.A detector shall be so constructed that it will be reliable and sufficiently durable for its intended installation and use.
+
+2.A component of a detector shall comply with the requirements for that component, except that such requirements may be modified if appropriate for the particular application.
+
+3.Except where specifically indicated otherwise, the construction requirements specified for a detector shall also apply for any remote accessories with which it is to be employed.
+
+4.Each detector is to be provided with a means for monitoring the relative sensitivity of the unit after it has been installed.
+
+5.The monitoring means may be by means of a jack or terminals for connection of a meter, or by a visual means which would be visible with the unit installed, or equivalent.
+
+6.The use of a plug-in type detector assembly, which may be removed readily for insertion of an adapter connected to metering equipment, would be acceptable.
+
+(b)Marking.
+
+1.A detector shall be permanently marked with the following information, except where it is indicated that the information may appear on an installation wiring diagram.
+
+A.Name or identifying symbol of the manufacturer or vendor.
+
+B.Model number or equivalent and serial number or equivalent.
+
+C.Electrical rating, in volts, amperes or watts, and frequency for each circuit. May appear on the installation wiring diagram.
+
+D.Sensitivity setting and reference to the region of sensitivity such as maximum, nominal or intermediate or minimum. If a detector is intended to be adjusted in the field, the range of sensitivity is to be indicated. The sensitivity shall be indicated as an instrument reading. A sensitivity indication other than an instrument reading may be employed if it provides an equivalent indication of the sensitivity of the detector. May appear on the installation wiring diagram.
+
+E.Correct mounting position if a unit is intended to be mounted in a definite position. This information may appear on the installation wiring diagram.
+
+F.Identification of lights, switches, meters, etc., regarding their function, unless their operation is obvious.
+
+G.Maximum rating of fuse in each fuseholder. Located adjacent to the fuseholder.
+
+H.Reference to an installation wiring diagram, if not attached to the detector, by drawing number and issue number of date.
+
+I.For a detector which employs a radioactive material, the following information shall be indicated directly on the unit: type, amount, radiation symbol (optional), safe disposal and a caution notice which shall read as follows:
+
+CAUTION—Contains Radioactive Material, or its equivalent wording.
+
+J.A reference to the Technical Bulletin. May appear on the installation wiring diagram.
+
+K.Reference to a specific model number or description of the instrument to be used for checking the sensitivity of the detector. May appear on the installation wiring diagram.
+
+L.A detector intended for permanent connection only to a wiring system other than metal-clad cable or conduit shall be marked to indicate the system or systems for which it is suitable. The marking shall be so located that it will be visible when power-supply connections to the detector are made or may appear on the installation wiring diagram.
+
+M.The State Fire Marshal’s listing label if required by Article 1.5.
+
+N.A detector which is not intended to be painted in the field shall be marked on the outside “DO NOT PAINT.”
+
+2.An installation wiring diagram shall be provided with each detector illustrating the field connections to be made. The drawing may be attached to the unit or, if separate, shall be referenced in the marking attached to the unit with the drawing number and issue number and/or date.
+
+3.The drawing shall show a pictorial view of the installation terminals or leads to which field connections are made as they would appear when viewed during an installation and the minimum internal dimensions of a back box, if not provided with the detector, shall be specified. The terminal numbers on the detector shall agree with the numbers on the drawing. A drawing not attached to the detector unit shall be marked with the name or identifying symbol of the manufacturer’s or vendor’s drawing number, and an issue number and/or date.
+
+4.The following marking information is required to appear on the detector or the installation wiring diagram for the applicable circuits to which field connections are made. Where an electrical rating is indicated, it may be omitted if reference is made for connection to a specific control unit or equivalent.
+
+A.Supply circuit. Voltage, current or watts, and frequency.
+
+B.Initiating device circuit connections. For detectors intended to be connected only to the initiating device circuit of a fire alarm system control unit, at least two detectors shall be shown connected to a typical initiating device circuit. For a detector intended only for releasing device service, a typical connection shall be shown. For a detector suitable for both application, typical connections representing both types of connections shall be illustrated.
+
+C.Supplementary circuits. Voltage, current or watts, and frequency rating.
+
+5.Technical bulletin. A technical bulletin shall be provided by the manufacturer for each installation to be used as a reference by the installer. The bulletin shall include the manufacturer’s recommendations regarding typical detector locations. The information shall include guidelines on detector location, spacings, maintenance, servicing tests, etc., under various environmental conditions and physical configurations. Some conditions for which guidelines are required are:
+
+A.Temperature
+
+B.Humidity
+
+C.Corrosive atmospheres
+
+D.Air movement (ventilating and air-conditioning systems)
+
+E.High ceilings
+
+F.Sloped ceilings
+
+G.Girder ceiling construction
+
+H.Small and large bays
+
+I.Open joist construction
+
+J.High stock piling
+
+K.Conditions produced by manufacturing processes
+
+6.Detailed information shall be provided regarding the use of the facilities provided on the detector to monitor the sensitivity. Typical information that shall be provided includes:
+
+A.Nominal reading under clear condition
+
+B.Nominal reading when close to alarm
+
+C.Nominal reading at alarm condition
+
+D.Guidelines on instrument use for an engineering survey, installation and maintenance
+
+7.Information regarding locations where not to install detectors shall also be provided to minimize the possibility of false alarms.
+
+8.Reference to the bulletin number and date is required either on the detector nameplate marking or on the installation drawing. If the installation drawing is included as part of the technical bulletin, reference to the bulletin is required to be indicated on the detector.
+
+(c)Frame, enclosure and metalware.
+
+1.A detector enclosure shall be so formed and assembled that it has the strength and rigidity necessary to resist the abuses to which it is likely to be subjected in service without adversely affecting its performance and without introducing a fire, shock or accident hazard due to total or partial collapse with resulting reduction of spacings, loosening or displacement of parts or other defects.
+
+2.Except as noted, all electrical parts of a detector shall be enclosed to provide protection against contact with uninsulated live parts. A separate enclosure for field wiring terminals that will be enclosed by a back box is not required.
+
+3.A detector shall have a suitable means for mounting, which shall be accessible without disassembling any operating part of the unit. Removal of a completely assembled panel or equivalent to mount the detector is not considered to be disassembly of an operating part.
+
+4.An assembled part intended to be removed during installation shall be protected against damage from handling.
+
+5.An enclosure shall have provision for the connection of metal-clad cable or conduit. An enclosure without provision for the connection of metal-clad cable or conduit may be acceptable if there are furnished with it definite instructions indicating the sections of the unit which are intended to be drilled in the field for the connection of raceways, or if the unit is intended for mounting on an outlet box.
+
+6.The thickness of cast metal for an enclosure shall be as indicated in Table 12-72-3A. Except that cast metal having a thickness 1/32 inch (0.8 mm) less than that indicated in the table may be employed if the surface under consideration is curved, ribbed or otherwise reinforced, or if the shape and/or size of the surface is such that equivalent mechanical strength is provided.
+
+7.If threads for the connection of conduit are tapped all the way through a hole in an enclosure wall, or if an equivalent construction is employed, there shall be not less than three and one-half nor more than five threads in the metal, and the construction shall be such that a standard conduit bushing can be properly attached.
+
+8.If threads for the connection of conduit are tapped only part of the way through a hole in an enclosure wall, there shall be not less than three and one-half full threads in the metal, and there shall be a smooth, rounded inlet hole for the conductors which shall afford protection to the conductors equivalent to that provided by a standard conduit bushing.
+
+9.Sheet metal enclosures. The thickness of sheet metal employed for the enclosure of a detector shall be not less than that indicated in Table 12-72-3B, except that sheet metal of two gauge sizes lesser thickness may be employed if the surface under consideration is curved, ribbed or otherwise reinforced, or if the shape and/or size of the surface is such that equivalent mechanical strength is provided.
+
+10.At any point where conduit or metal-clad cable is to be attached, sheet metal shall be of such thickness or shall be so formed or reinforced that it will have a stiffness at least equivalent to that of an uncoated flat sheet steel having a minimum thickness of 0.053 inch (1.3 mm) (No. 16 MSG).
+
+11.A plate or plug closure for an unused conduit opening or other hole in the enclosure shall have a thickness not less than:
+
+A.0.014 inch (0.3 mm) for steel or 0.019 inch (0.5 mm) for nonferrous metal for a hole having a 1/4-inch (6 mm) maximum dimension.
+
+B.0.027-inch (0.7 mm) steel or 0.032-inch (0.8 mm) nonferrous metal for a hole having a 13/8-inch (35 mm) maximum dimension.
+
+12.A closure for a hole larger than 13/8-inch (35 mm) diameter shall have a thickness equal to that required for the enclosure of the device or a standard knockout seal shall be used. Such plates or plugs shall be securely mounted.
+
+13.A knockout in a sheet metal enclosure shall be reliably secured but shall be capable of being removed without undue deformation of the enclosure.
+
+14.A knockout shall be provided with a surrounding surface adequate for proper seating of a conduit bushing, and shall be so located that installation of a bushing at any knockout likely to be used during installation will not result in spacings between uninsulated live parts and the bushing of less than those indicated under spacings.
+
+The figures in parentheses are the galvanized sheet gage numbers (GSG) (for zinc-coated steel), the manufacturers’ standard gage numbers (MSG) (for uncoated steel), and the American wire gage numbers (AWG) (for a nonferrous metal) which provide the required minimum thickness of metal.
+
+15.An enclosure or parts of an enclosure of nonmetallic material shall have the mechanical strength and durability and be so formed that parts will be protected against damage. The mechanical strength of an enclosure shall be at least equivalent to a sheet metal enclosure of the minimum thickness specified in Table 12-72-3B. See Section 12-72-205 for performance tests on plastic materials and enclosures.
+
+16.(No requirements.)
+
+17.The continuity of the grounding system shall not rely on the dimensional integrity of the nonmetallic material.
+
+18.Ventilating openings in an enclosure, including perforated holes, louvers and openings protected by means of wire screening, expanded metal or perforated covers, shall be of such size or shape that no opening will permit passage of a rod having a diameter of 33/64 inch (77 mm). An enclosure for fuses or other overload protective device and provided with ventilating openings shall afford adequate protection against the emission of flame or molten metal. The opening shall be designed to permit cleaning without damage to functional enclosed parts.
+
+19. Except as noted in the following paragraph, perforated sheet metal and sheet metal employed for expanded metal mesh shall be not less than 0.042 inch (1 mm) in average thickness, 0.046 inch (1.1 mm) if zinc coated.
+
+20. If the indentation of a guard or enclosure will not alter the clearance between uninsulated live parts and dead metal parts so as to affect performance adversely or reduce spacings below the minimum values given under spacings, 0.021 inch (0.5 mm) expanded metal mesh [0.024 inch (0.6 mm) if zinc coated] may be employed, provided that (1) the exposed mesh on any one side or surface of the device so protected has an area of not more than 72 square inches (46 451 mm2) and has no dimension greater than 12 inches (305 mm), or (2) the width of an opening so protected is not greater than 31/2 inches (89 mm).
+
+21. The wires forming a screen protecting current carrying parts shall be not smaller than No. 16 AWG and the screen openings shall be not greater than 1/2 square inch (322 mm2) in area.
+
+22. An enclosure cover shall be hinged, sliding, pivoted or similarly attached if (1) it provides ready access to fuses or any other overcurrent protective device the normal functioning of which requires renewal, or (2) it is necessary to open the cover in connection with the normal operation of the unit.
+
+23. With reference to the requirement of Item 22, normal operation is considered to be operation of a switch for testing or for silencing an audible signal appliance or operation of any other component of a unit which requires such action in connection with its intended performance.
+
+24. A hinged cover is not required where the only fuse(s) enclosed is intended to provide protection to portions of internal circuits, such as may be employed on a separate printed wiring board or circuit subassembly, to prevent excessive circuit damage resulting from a fault. The use of such a fuse(s) is acceptable if the following or equivalent marking is indicated on the cover of units employing high voltage circuits: Circuit Fuse(s) Inside—Disconnect Power Prior to Servicing.
+
+25. A hinged cover shall be provided with a latch, screw or catch to hold it closed. An unhinged cover shall be securely held in place by screws or the equivalent.
+
+26. Glass covering an observation opening shall be held securely in place so that it cannot be readily displaced in service and shall provide adequate mechanical protection of the enclosed parts. The thickness of a glass cover shall be not less than that indicated in Table 12-72-3C.
+
+27. A glass panel for an opening having an area of more than 144 square inches (92 903 mm2) or having any dimension greater than 12 inches (305 mm), shall be supported by a continuous groove not less than 3/16 inch (4.7 mm) deep along all four edges of the panel.
+
+28. A transparent material other than glass employed as a cover over an opening in an enclosure shall have mechanical strength equivalent to that of glass, not become a fire hazard or distort, or not become less transparent at the temperature to which it may be subjected under normal or abnormal service conditions.
+
+(d)Protection against corrosion.
+
+1.Except as indicated herein, iron and steel parts shall be suitably protected against corrosion by enameling, galvanizing, sheradizing, plating or other equivalent means.
+
+2.These requirements apply to all enclosures whether of sheet steel or cast iron, and to all springs and other parts upon which proper mechanical operation may depend. It does not apply to minor parts such as washers, screws, bolts and the like, if the failure of such unprotected parts would not be liable to result in a hazardous condition or adversely affect the operation of the unit. Parts made of stainless steel (properly polished or treated if necessary) do not require additional protection against corrosion. Bearing surfaces should be of such materials and design as to ensure against binding due to corrosion.
+
+(e)Insulating materials.
+
+1.Material for the mounting of current-carrying parts shall be porcelain, phenolic composition, cold-molded composition or material which is suitable for the particular application.
+
+2.Vulcanized fiber may be used for insulating bushings, washers, separators and barriers, but not as the sole support for uninsulated current-carrying parts of other than low-voltage circuits. Plastic materials may be used for the sole support of uninsulated live parts, if found to have adequate mechanical strength and rigidity, dielectric withstand, resistance to heat, flame propagation, arcing, creep and moisture, and other properties suitable for the application, without displaying a loss of these properties beyond the minimum acceptable level as a result of aging.
+
+3.Metal parts as described below need not comply with the requirement of Section 12-72-302 (d), Item 2.
+
+A.Adhesive attached metal foil markings, screws, handles, etc., which are located on the outside of the detector enclosure and isolated from electrical components or wiring by grounded metal parts so that they are not liable to become energized.
+
+4.A terminal block mounted on a metal surface which may be grounded shall be provided with an insulating barrier between the mounting surface and all live parts on the underside of the base which are not staked, upset, sealed or equivalently prevented from loosening so as to prevent such parts and the ends of replaceable terminal screws from coming in contact with the supporting surface.
+
+5.A countersunk part shall be covered with a waterproof insulating compound which will not melt at a temperature 15°C (27°F) higher than the maximum normal operating temperature of the assembly, and at not less than 65°C (149°F) in any case. The depth or thickness of sealing compound shall be not less than 1/8 inch (3 mm).
+
+(f)Mounting parts.
+
+1.All parts of a detector shall be securely mounted in position and prevented from loosening or turning if such motion may affect adversely the normal performance of the unit, or may affect the fire and accident hazard incident to the operation of the detector.
+
+2.A switch, lampholder, attachment-plug receptacle, plug connector or similar electrical component, shall be mounted securely and, except as noted in Items 3 and 4, shall be prevented from turning.
+
+3.The requirement that a switch be prevented from turning may be waived if all four of the following conditions are met:
+
+A.The switch is to be of a plunger or other type that does not tend to rotate when operated. A toggle switch is considered to be subject to forces that tend to turn the switch during normal operation of the switch.
+
+B.Isolated metal parts, such as small assembly screws, etc., which are positively separated from wiring and uninsulated live parts.
+
+C.Panels and covers which do not enclose uninsulated live parts if wiring is positively separated from the panel or cover so that it is not liable to become energized.
+
+D.Panels and covers which are insulated from electrical components and wiring by an insulating barrier of vulcanized fiber, varnished cloth, phenolic composition or similar material not less than 1/32-inch (0.8 mm) thick and reliably secured in place.
+
+4.A bonding conductor shall be of material suitable for use as an electrical conductor. If of ferrous metal, it shall be protected against corrosion by painting, plating or the equivalent. The conductor shall be not smaller than the maximum size wire employed in the circuit wiring of the component or part. A separate bonding conductor or strap shall be installed in such a manner that it is protected from mechanical damage.
+
+5.The bonding shall be by a positive means, such as by clamping, riveting, bolted or screwed connection, brazing or welding. The bonding connection shall reliably penetrate nonconductive coatings such as paint. Bonding around a resilient mount shall not depend on the clamping action of rubber or similar material.
+
+6.A bolted or screwed connection that incorporates a star washer under the screw head, is considered acceptable for penetrating nonconductive coatings.
+
+7.Where the bonding means depends upon screw threads, two or more screws or two fall threads of a single screw engaging metal is considered acceptable.
+
+8.Metal-to-metal hinge-bearing members for doors or covers may be considered as a means for bonding the door or cover for grounding providing a multiple-bearing, pin-type hinge is employed.
+
+9.Splices shall not be employed in conductors used to bond electrical enclosures or components.
+
+(g)Deleted.
+
+(h)Motors.
+
+1.All motors shall be protected by thermal or by overcurrent protective devices, or a combination thereof.
+
+2.A motor employing thermal protection which complies with the Standard for Thermal Protectors for Motors, UL 547, is considered to comply with the requirement of Item 1.
+
+3.Motors, such as direct-drive fan motors, which are not normally subjected to overloads, and which are determined to be adequately protected against overheating due to locked-rotor current by a thermal or overcurrent protective device may be accepted under this requirement, provided it is determined that the motor will not overheat under the performance requirements of this standard.
+
+4.Impedance protection may be accepted for motors which are determined to be adequately protected against overheating due to locked-rotor current, provided it is determined that the motor will not overheat under the performance requirements of this standard.
+
+(i)Current-carrying parts.
+
+1.A current-carrying part shall have adequate mechanical strength and current carrying capacity for the service, and shall be a metal such as silver, copper or copper alloy, or other material which will provide equivalent performance.
+
+2.Bearings, hinges, etc., are not acceptable for carrying current between interrelated fixed and moving parts.
+
+3.The insulation of coil windings of relays, transformers, etc., shall be such as to resist the absorption of moisture.
+
+4.Enameled wire is not required to be given additional treatment to prevent moisture absorption.
+
+(j)Supply connections. A detector shall be provided with wiring terminals or leads for the connection of conductors of at least the size required by the California Electrical Code, corresponding to the rating of the unit.
+
+(k)Terminal connections and leads.
+
+1.The parts to which wiring connections are made are to consist of binding screws with terminal plates having upturned lugs or the equivalent to hold the wires in position. Other terminal connections may be provided if found to be equivalent.
+
+2.If a wire binding screw is employed at a field wiring terminal, the screw shall be not smaller than No. 8, except that a No. 6 screw may be used for the connection of a No. 14 AWG or smaller conductor.
+
+3.Except as noted in the following paragraph, a terminal plate tapped for a wire binding screw shall be of metal not less than 0.050 inch (1.27 mm) in thickness for a No. 8 or larger screw, and not less than 0.030 inch (0.7 mm) in thickness for a No. 8 screw, and shall have not less than two full threads in the metal.
+
+4.A terminal plate may have the metal extruded at the tapped hole for the binding screw so as to provide two full threads. Other constructions may be employed if they provide equivalent security.
+
+5.Leads provided for field connections shall be not less than 6 inches (152 mm) long, provided with strain relief, shall be not smaller than No. 18 AWG, and the insulation, if of rubber or thermoplastic, shall be not less than 1/32 inch (0.8 mm) in thickness.
+
+6.The leads specified in Item 5 may be less than 6 inches (152 mm) in length if it is evident that the use of a longer lead might result in a hazard.
+
+7.In a detector intended for connection to a high- voltage source of supply by means of other than a metal-enclosed wiring system, such as nonmetallic sheathed cable:
+
+A.An equipment-grounding terminal or lead shall be provided.
+
+B.A marking shall be provided to indicate the system or systems for which it is suitable. (See Item 1, L of Section 12-72-302 (b).
+
+C.The grounding means shall be reliably connected to all exposed dead metal parts which are liable to become energized and all dead metal parts within the enclosure which are exposed to contact during servicing and maintenance.
+
+8.The surface of an insulated lead intended solely for the connection of an equipment-grounding conductor shall be green, with or without one or more yellow stripes and no other leads visible to the installer, other than grounding conductors, shall be so identified.
+
+9.A field-wiring terminal intended for connection of an equipment-grounding conductor shall be plainly identified, such as being marked G, GR, Ground, Grounding, or the equivalent, or by a suitable marking on a wiring diagram provided on the detector. The field-wiring diagram is provided on the detector. The field-wiring terminal shall be so located that it is unlikely to be removed during normal servicing of the detector.
+
+10.A field-wiring terminal for the connection of a grounded supply conductor shall be identified by means of a metallic plated coating substantially white in color and shall be readily distinguishable from the other terminals, or proper identification of the terminal for the connection of the grounded conductor shall be clearly shown in some other manner, such as on an attached wiring diagram.
+
+11.A field-wiring lead provided for connection of a grounded supply conductor shall be finished to show a white or natural gray color and shall be readily distinguishable from other leads and no other leads, other than grounded conductors, shall be so identified.
+
+12.A terminal or lead identified for the connection of the grounded supply conductor shall not be electrically connected to a single-pole manual switching device which has an off position or to a single-pole overcurrent (not thermal) protective device.
+
+(l)Field-wiring compartment.
+
+1.The field-wiring compartment area of a detector to which connections are to be made is to be of sufficient size for completing all wiring connections as specified by the installation wiring diagram.
+
+2.Protection for the internal components and wire insulation from sharp edges shall be provided by insulating or metal barriers having smoothly rounded edges or by the following or equivalent instructions located in the wiring area: “CAUTION—When making installation route field wiring away from sharp projections, corners and internal components.”
+
+3.The location of an outlet box or compartment in which field-wiring connections are to be made shall be such that these connections may be inspected after the detector is installed as intended. The removal of not more than two mounting screws, or an equivalent arrangement, to view the field connections, is considered as meeting the intent of this paragraph.
+
+(m)Internal wiring.
+
+1.The internal wiring of a unit shall consist of conductors of at least the size required by the Basic Electrical Regulations, corresponding to the current rating of the unit, and having insulation rated for the potential involved and the temperatures to which it may be subjected. The wiring shall be routed away from moving parts and sharp projections and held in place with clamps, string ties or equivalent, unless of sufficient rigidity to retain a shaped form.
+
+2.Leads or a cable assembly connected to parts mounted on a hinged cover shall be of sufficient length to permit the full opening of the cover without applying stress to the leads or their connections. The leads shall be secured or equivalently arranged to prevent abrasion of insulation and jamming between parts of the enclosure.
+
+3.If the use of a short length of insulated conductor is not feasible, e.g., a short coil lead or the like, electrical insulating tubing may be employed. The tubing is not to be subjected to sharp bends, tension, compression or repeated flexing, and is not to contact sharp edges, projections or corners. The wall thickness of the tubing is to conform to the requirements for such tubing, except that the wall thickness at any point for polyvinyl chloride tubing of 3/8-inch (9.5 mm) diameter or less, is to be not less than 0.017 inch (0.4 mm). For insulating tubing of other types, the wall thickness is to be not less than required to at least equal the mechanical strength, dielectric properties, heat and moisture resistant characteristics, etc. of polyvinyl chloride tubing having a wall thickness of 0.017 inch (0.4 mm).
+
+4.Internal wiring of circuits which operate at different potentials shall be reliably separated by barriers or shall be segregated, unless the conductors of the circuits of lower voltage are provided with insulation equivalent to that required for the highest voltage involved. Segregation of insulated conductors may be accomplished by clamping, routing or equivalent means which ensures permanent separation. See Item 10.
+
+5.Stranded conductors clamped under wire-binding screws or similar parts shall have the individual strands soldered together or be equivalently arranged to ensure reliable connections.
+
+6.Wireways shall be smooth and free from sharp edges, burrs, fins, moving parts, etc., which may cause abrasion of the conductor insulation.
+
+7.All splices and connections shall be mechanically secured and bonded electrically.
+
+8.A splice shall be provided with insulation equivalent to that of the wires involved if permanence of electrical spacing between the splice and uninsulated metal parts is not assured.
+
+9.Splices shall be located, enclosed and supported so that they are not subject to damage from flexing, motion or vibration.
+
+10.A metal barrier shall have a thickness at least equal to that required by Table 12-72-3B, based on the size of the barrier. A barrier of insulation material shall be not less than 0.028 inch (0.7 mm) in thickness and shall be of greater thickness if its deformation may be readily accomplished so as to defeat its purpose. Any clearance between the edge of a barrier and a compartment wall shall be not more than 1/16 inch (1.6 mm).
+
+11.Where a lead or wire harness passes through an opening in a wall, barrier or enclosing case, there shall be a metal or insulating type bushing, or the equivalent, which shall be substantial, reliably secured in place, and shall have a smooth rounded surface against which the wire may bear.
+
+12.If the opening is in a phenolic composition or other suitable nonconducting material or in metal of thickness greater than 0.042 inch (1 mm), a smooth surface having rounded edges is considered to be the equivalent of a bushing.
+
+13.Ceramic materials and some molded compositions are considered to be acceptable for insulating bushings, but separate buildings of wood and of hotmolded shellac are not acceptable.
+
+14.Fiber may be employed where it will not be subjected to a temperature higher than 90°C (194°F) under normal operating conditions, the bushing is not less than 1/16 inch (1.6 mm) in thickness with a minus tolerance of 1/64 inch (0.4 mm) for manufacturing variations, and it is so formed and secured in place that it will not be affected adversely by ordinary ambient conditions of humidity.
+
+15.If a soft-rubber bushing is employed in a hole in metal, the hole shall be free from sharp edges, burrs, projections, etc., which would be likely to cut into the rubber.
+
+16.An insulating metal grommet may be considered acceptable in lieu of an insulating bushing, provided that the insulating material used is not less than 1/32 inch (0.8 mm) in thickness and fills completely the space between the grommet and the metal in which it is mounted.
+
+17.A strain relief means shall be provided for the field supply leads, and all internally connected wires or cords which are subject to movement in conjunction with the installation, operation or normal servicing of a detector to prevent any mechanical stress from being transmitted to terminals and internal connections. Inward movement of the cord or leads provided with a ring-type strain relief means shall not damage internal connections or components, or result in a reduction of electrical spacings.
+
+18.Each lead employed for field connections or an internal lead subjected to movement or handling during installation and normal servicing shall be capable of withstanding for 1 minute a pull of 10 pounds without any evidence of damage or of transmitting the stress to internal connections.
+
+(n)Lampholders and lamps.
+
+1.Lampholders and lamps shall be rated for the circuit in which they are employed when the detector is operated under any condition of normal service.
+
+2.A lampholder employing a screw shell shall be so wired that the screw shell will be connected to an identified (grounded circuit) conductor.
+
+3.If more than one screw shell-type lampholder is provided, the screw shells of all such lampholders shall be connected to the same conductor unless there is no shock hazard present (30 volts RMS or less) when replacing the lamps.
+
+4.A lampholder shall be installed so that uninsulated live parts will not be exposed to contact by persons removing or replacing lamps in normal service.
+
+(o)Operating components.
+
+1.Operating components and assemblies, such as switches, relays and similar devices, shall be adequately protected by individual protection or dust-tight cabinets, against fouling by dust or by other material which may affect their normal operation.
+
+2.Moving parts shall have sufficient play at bearing surfaces to prevent binding.
+
+3.Provision shall be made to prevent adjusting screws and similar adjustable parts from loosening under the conditions of actual use.
+
+4.Manually operated parts shall have sufficient strength to withstand the stresses to which they will be subjected in operation.
+
+5.An electromagnetic device shall ensure reliable and positive electrical and mechanical performance under all conditions of normal operation.
+
+(p)Switches.
+
+1.A switch provided as part of a unit shall have a current and voltage rating not less than that of the circuit which it controls when the device is operated under any condition of normal service.
+
+2.If a reset switch is provided, it shall be of a self-restoring type.
+
+(q)Over-current protection. Fuseholders, fuses and circuit breakers provided on a detector unit shall be rated for the application.
+
+(r)Printed wiring boards. Printed wiring boards shall be acceptable for the application. The securing of components to the board shall be made in a reliable manner and the spacings between circuits shall comply with the spacings requirements. The board shall be reliably mounted so that deflection of the board during servicing shall not result in damage to the board or in a fire or shock hazard. (See SFM 12-72-1.)
+
+(s)Service and maintenance protection.
+
+1.An uninsulated live part and hazardous moving parts within the enclosure shall be located, guarded or enclosed so as to minimize the likelihood of accidental contact by persons performing service functions which may have to be performed with the equipment energized.
+
+2.Manual-switching devices may be located or oriented with respect to uninsulated live parts or hazardous moving parts so that manipulation of the mechanism can be accomplished in the normal direction of access if uninsulated live parts or hazardous moving parts are not located in front (in the direction of access) of the mechanism and are not located within 6 inches (152 mm) on any side or behind the mechanism, unless guarded.
+
+3.In determining compliance with Item 2, only uninsulated live parts in high-voltage circuits are to be considered.
+
+4.An electrical control component which may require examination, adjustment, servicing or maintenance while energized (excluding voltage measurements except for jacks or terminals specifically intended for that purpose) shall be located and mounted with respect to other components and with respect to grounded metal parts so that it is accessible for electrical service functions without subjecting persons to the likelihood of shock hazard from adjacent uninsulated live parts or to accident hazard from adjacent hazardous moving parts.
+
+5.Other arrangements of location of components and/or guarding are also acceptable where electrical components are accessible for service as indicated by Item 4.
+
+6.The following are not considered to be uninsulated live parts: (1) coils of controllers, relays and solenoids, and transformer windings, if the coils and windings are provided with suitable insulating over-wraps, (2) enclosed motor windings, (3) terminals and (4) splices with suitable insulation and insulated wire.
+
+(t)Spacings.
+
+1.A detector shall provide reliably maintained spacings between uninsulated live parts and dead metal parts and between uninsulated live parts of opposite polarity. The spacings shall be not less than those indicated in Table 12-72-3E.
+
+2.The spacing between an uninsulated live part and a wall or cover of a metal enclosure, a fitting for conduit or metal-clad cable, and any dead-metal part shall be not less than that indicated in Table 12-72-3E.
+
+3.The through air and over surface spacings at an individual component part are to be judged on the basis of the volt-amperes used and controlled by the individual component. However, the spacing from one component to another, and from any component to the enclosure or to other uninsulated dead metal parts excluding the component mounting surface, shall be judged on the basis of the maximum voltage and total volt-ampere rating of all components in the enclosure.
+
+4.The spacing requirements in Table 12-72-3E do not apply to the inherent spacings inside motors, except at wiring terminals, or to the inherent spacings of a component which is provided as part of the detector. Such spacings are judged on the basis of the requirements for the component. The electrical clearance resulting from the assembly of a component into the complete device, including clearances to dead metal or enclosures, shall be those indicated in Table 12-72-3E.
+
+5.The “to walls of enclosure” spacings are not to be applied to an individual enclosure of a component part within an outer enclosure.
+
+6.An insulating liner or barrier of vulcanized fiber, varnished cloth, mica, phenolic composition or similar material employed where spacings would otherwise be insufficient, shall be not less than 0.028 inch (0.7 mm) in thickness, except that a liner or barrier not less than 0.013 inch (0.3 mm) in thickness may be used in conjunction with an air spacing of not less than one-half of the through air spacing required. The liner shall be located so that it will not be affected adversely by arcing.
+
+7.Insulating material having a thickness less than that specified in Item 6 may be used, if upon investigation, it is found to be adequate for the particular application.
+
+8.Enamel-insulated wire is considered to be a bare current-carrying part in determining compliance of a device with the spacing requirements, but enamel is acceptable as turn-to-turn insulation in coils.
+
+PERFORMANCE
+
+Sec. 12-72-303.
+
+(a)General.
+
+1.Unless otherwise specified, detectors representative of production are to be used for each of the following tests.
+
+2.The devices employed for testing are to be those specified by the wiring diagram of the detector, except that substitute devices may be used if they produce functions and load conditions equivalent to those obtained with the devices intended to be used with the detector in service.
+
+3.Data on detector components, e.g., capacitors, resistors (other than carbon or wire wound), solid state devices, etc., shall be provided by the manufacturer for evaluation of the reliability of the components for the intended application. If a Mil-Spec. is referenced, a copy of the specification is to be provided for review. A failure rate of 0.5 failure per million hours for nonsupervised components would be acceptable.
+
+4.The data required in the preceding paragraph shall include the following:
+
+A.Component fault analysis. Effect of failure, open and short, particularly of capacitors, on operation of a detector.
+
+B.A description of any component screening and burn-in test, if available.
+
+C.Amount of derating of components under normal standby and alarm conditions. A derating of 50 percent or more is acceptable for all components except for electrolytic capacitors. See also Table 12-72-3F.
+
+D.Component failure rate data at rated values and derated values. This may be in the form of a reference to a Mil-Spec. handbook or equivalent.
+
+E.Maximum ratings for components.
+
+F.Any other data, not included above, which will provide an equivalent reliability analysis.
+
+DETECTOR RATED VOLTAGE, NAMEPLATE	TEST VOLTAGE
+110 to 120	120
+220 to 240	240
+Other	Marked Rating5.Unless specifically specified otherwise, the test voltage for each test of a detector shall be as follows at rated frequency:
+
+6.The following samples are used to perform the tests of this standard:
+
+A.At least 20 assembled detectors fully representative of production units.
+
+B.One additional unassembled detector fully representative of production units.
+
+C.Five additional samples of detectors employing a radioactive source. These may be partial assemblies illustrating the radioactive source installation.
+
+D.Three control units and/or power supplies if the detectors are intended specifically to be employed with a specific unit or power supply.
+
+E.The monitoring instrument or reference to a commonly available meter intended to monitor sensitivity of a detector.
+
+(b)Normal operation.
+
+1.A detector shall be capable of operating for all conditions of its intended performance at all sensitivity settings when employed in conjunction with any related power supply or control unit with which it is intended to be employed and indicating devices to form the system combination covered by the installation wiring diagram and any supplementary information provided.
+
+2.The test voltage shall be in accordance with Section 12-72-303 (a), Item 5, and the combustion products detector shall be in the normal circuit supervisory standby condition and prepared for normal signaling operation when it is connected to related devices and circuits.
+
+3.The introduction of combustion products into the detector chamber such as produced by a smoldering cotton lamp wick, rope or equivalent, shall result in the operation of the detector in its intended manner. Section 12-72-303 (p), Item 2.
+
+(c)Power input and output. The input or output current of each circuit of a combustion products detector shall not exceed the marked rating by more than 10 percent when the detector is operated under the conditions of normal use and with the detector connected to a source of supply in accordance with Section 12-72-303 (a), Item 5.
+
+(d) Electrical supervision.
+
+1.All nonreliable components such as electronic tube heaters, blower motors, capacitors, functional heating elements, etc., the failure of which may result in an open or shorted condition shall be electrically supervised. See Sections 12-72-302 (e); 12-72-303 (a), Item 3; 12-72-303 (e) and 12-72-303 (s).
+
+2.All electrical circuits formed by conductors extending from the installation wiring connections for interconnecting to a power supply or system control units the failure of which may result in an open or ground fault shall be electrically supervised either at the detector or at the control unit to which a detector would be connected. See Section 12-72-302 (e).
+
+3.The requirements of Sections 12-72-392 (d), Items 1 and 2, do not apply to the following:
+
+A.Trouble indicating circuits.
+
+B.The circuits of a detector employed only for releasing device service if the fault results in the same operation of the unit as that obtained by detection of combustion products.
+
+C.A circuit for a supplementary signal annunciator, signal sounding appliance, motor controller or similar appliance provided that a break or a ground fault in no way affects the normal operation of the unit except for omission of the supplementary feature.
+
+(e) Electrical supervision test.
+
+1. The electrical circuits formed by conductors extending from the installation wiring connections of a detector for interconnection to a power supply source or system control unit initiating device circuit shall be electrically supervised so that the detector trouble signal or circuit is energized under any of the following fault conditions if the fault prevents normal operation of the detector for fire alarm signals.
+
+A.Single open or single ground fault of the connecting field wiring.
+
+B.Failure of a nonreliable component. See Sections 12-72-303 (d), Item 1; 12-72-303 (a), Item 3; and 12-72-303 (s).
+
+2.A motor included in a detector, such as a blower motor which is required to operate continuously during normal operation, shall be supervised to indicate stalling or burnout.
+
+3.The heaters of all electronic tubes or other functional heating elements employed in a detector shall be electrically supervised to indicate an open circuit fault by an audible trouble signal if the fault prevents normal operation of the unit.
+
+4.Internal shorts between any two elements of an electronic tube shall be indicated by either a trouble signal or an alarm signal if such failure prevents normal operation of the unit. Such a failure shall not result in a fire hazard.
+
+5.Interruption and restoration of any source of electrical power connected to a detector unit shall not cause an alarm signal.
+
+6.The operation of any manual switching part of a detector unit to other than its normal position while the detector unit is in the normal standby condition shall be indicated by a trouble signal, if the off-normal position of the switch interferes with normal operation of the detector unit.
+
+7.To determine if a detector unit complies with the requirements for electrical supervision, see Section 12-72-303 (d). The detector is to be tested with the representative system combination in its normal supervisory condition, and the type of fault to be detected is then to be introduced. Each fault shall be applied separately, the results noted and the fault removed. The system combination is then to be restored to its normal supervisory condition prior to establishing the next fault.
+
+(f) Sensitivity test.
+
+1.A combustion products detector shall operate within the limits specified below when subjected to a smoldering smoke condition using the combustion products and test equipment described in the following paragraphs. If the detector employs a variable sensitivity setting, test measurements are to be made at maximum, minimum and nominal settings.
+
+A.Visible Smoke Obscuration Limits—
+
+0.0 percent per foot maximum (0.013)1
+
+0.2 percent per foot minimum (0.001)1
+0.0 percent per foot maximum (0.013)1
+
+0.2 percent per foot minimum (0.001)1
+
+B.Relative Combustion Products Measurement Limits—
+
+9.0 volts maximum
+
+1.0 volt minimum
+9.0 volts maximum
+
+1.0 volt minimum
+
+C.Monitoring Means—
+
+Within 25 percent of the operating limits of the detector rating.
+Within 25 percent of the operating limits of the detector rating.
+
+2.Combustion products. A mercerized cotton lamp wick, nominally 7/8 inch (22 mm) wide by 1/8 inch (3 mm) in cross section and secured by an alligator type clip 3 inches (76 mm) below a removable cover assembly is to be employed as the source of combustion products. The wick end is to be cut square and smoldering initiated by momentarily placing the wick end over a horizontally mounted resistive heater element energized to a dull red color. Smoldering may be promoted by passing a slow current of air over the wick end. The smoldering end is to be cut away approximately 1/4 inch (6 mm) above the charred section prior to conducting a succeeding trial. The smoldering rate of the wick is to be such that the visible smoke obscuration increases at an approximate uniform rate of 1.5 ± 0.2 percent per foot (0.0329 0.001 optical density per foot).
+
+(g)Test equipment and methods.
+
+1.The visible smoke obscuration (optical density) in the test compartment is to be measured by means of a direct current (DC) type microammeter having a maximum internal resistance of 100 ohms used with a barrier type selenium photovoltaic cell, enclosed in a hermetically sealed case. The meter and cell are used in conjunction with the light produced by a tungsten filament automotive type lamp rated 6 volts and energized from a regulated supply to provide a light beam of uniform flux density. The photoelectric cell and lamp are to be spaced 5 feet (1524 mm) apart. The following equations are to be used:
+
+A.At any distance, the percent obscuration per foot will be:
+
+where:
+
+Ou = Percent obscuration per foot.
+
+Ts = Smoke density meter reading with smoke.
+
+Tc = Smoke density meter reading with clear air.
+
+d = Distance in feet (m × 3.33).
+
+B.The percent obscuration of light for the full length beam at any distance will be:
+
+where:
+
+Od = Percent obscuration at distance d.
+
+Ts = Smoke density meter reading with smoke.
+
+Tc = Smoke density meter reading with clean air.
+
+C.When the percent obscuration per foot is known, the percent obscuration for the full length of any longer beam can be determined by the following:
+
+where:
+
+Od = Percent obscuration at distance d.
+
+Ou = Percent obscuration per foot.
+
+d = Distance in feet (m × 3.33).
+
+D.At any distance, the total optical density will be:
+
+where:
+
+ODt = Optical density.
+
+Tc = Smoke density meter reading with clear air.
+
+Ts = Smoke density meter reading with smoke.
+
+E.At any distance, the optical density per foot will be:
+
+where:
+
+ODf = Optical density per foot.
+
+Tc = Smoke density meter reading with clear air.
+
+Ts = Smoke density meter reading with smoke.
+
+d = Distance in feet (m × 3.33).
+
+2.A meter3 calibrated in volts is to be used to measure the relative buildup of primarily invisible products of combustion. The meter, used with an ionization detecting monitoring head without an alarm indicating circuit, has Americium 241 as the radioactive element. The monitoring head is to be located in the test chamber adjacent to the sample under test
+
+3.Test chamber. The following items refer to Figure 12-72-3-1.
+
+A.Cabinet. Plywood, 3/4 inch (19 mm) thick, except for 1/4 inch (6 mm) thick clear plastic front panel. Overall dimensions approximately 691/2 inches (1765 mm) long, 18 inches (457 mm) high, 11 inches (279 mm) deep. A center divider forms two equal 8 inches (203 mm) high by 10 inches (254 mm) deep interior compartments. Inside of lower left side of plastic front panel, as well as all interior surfaces of the cabinet are to be painted flat black. Plastic front assembled with rubber gasket.
+
+B.Combustible. Cotton wick. See Section 12-72-303 (f), Item 2. Secured by alligator type clip to removable cap which covers a 31/4-inch (82 mm) diameter hole in top of compartment. Cap measures approximately 4 inches square (2580 mm2). Center of hole located approximately 16 inches (406 mm) from left end.
+
+C.Air dispersing medium. Three-fourths inch (19 mm) nominal diameter solid glass beads to fill to capacity an expanded metal container, approximately 4 inches (101 mm) wide, 8 inches (203 mm) high, 10 inches (254 mm) deep. Any space between top surface of beads and compartment ceiling to be filled with foam plastic. Provides uniform flow of air and combustion products. Center of unit approximately 22 inches (559 mm) from right-hand side of compartment.
+
+D.Air circulating fan. Motor mounted on 1/4-inch (6 mm) plastic support which fits into slots of compartment and fills completely the upper chamber. Employs 5 inch (100 cfm) diameter fan.
+
+E.Opening. Rectangular hole, approximately 6 by 4 inches (152 mm by 101 mm), center of opening 4 inches (101 mm) from end of cabinet.
+
+F.Exhaust fan. Same as Item D. Mounted in end wall of compartment.
+
+G.Exhaust fan cover. Plastic, approximately 53/4 inches (146 mm) wide, 10 inches (254 mm) long, by 3/16 inch (4.7 mm) thick. Fitted in slots.
+
+H.Lamp. Low voltage automobile-type lamp. See Section 12-72-303 (g), Item 1.
+
+I.Monitoring head. Ionization detector mounted on back wall in test area. See Section 12-72-303 (g), Item 2. Employed with Item M.
+
+J.Photovoltaic cell. See Section 12-72-303 (g), Item 1. Mounted on Item K. Has a linear response up to 800 microamperes at 200 footcandles.
+
+K.Air dispersing medium. Same as Item C, except 3 inches (76 mm) wide.
+
+L.Opening. Rectangular, approximately 6 by 2 inches (152 mm by 51 mm), center of opening 3 inches (76 mm) from left end. Covered with perforated metal having approximately 50 percent openings.
+
+M.Combustion products meter. See Section 12-72-303 (g), Item 2. Meter is to have a 0–10 volts scale. Employed with ionization head (Item I). Provides indication of relative build-up of combustion products in test chamber.
+
+N.Control equipment. Includes fan and switch controls, lamp voltage control and terminals for connection of microammeter.
+
+O.Obscuration equipment meter. See Section 12-72-303 (g), Item 1. Meter is to have 0–100 or 0– 200 microamperes full scale.
+
+P.Access door for test sample. Plastic, approximately 111/2 by 71/2 by 1/4 inch (292 mm by 190 mm by 6 mm) thick. Secured by hinges and spring catch to front section. Center of door approximately 30 inches (762 mm) from right-hand side of cabinet. Fitted with rubber gasket to prevent air loss.
+
+4.Test method. The test is to be conducted in an ambient temperature of 23 ± 3°C (73.4 ± 5°F) at a relative humidity between 30–50 percent and a barometric pressure of not less than 700 millimeters of mercury. A minimum of 12 samples of the detector, previously energized for at least 16 hours or as recommended by the manufacturer from a source of supply in accordance with Section 12-72-303 (a), Item 5, are to be subjected to this test. The samples shall be momentarily disconnected from the source of supply, placed in the center of the lower section of the test chamber with the signaling contacts connected to an indicating circuit and re-energized from the specified source of supply.
+
+5.With the air velocity in the test compartment maintained at 30 to 35 feet per minute (fpm), as measured in the sample area, the wick is to be inserted into the upper chamber with the smoldering end facing downward. The air flow is to be parallel to the 1/8-inch (3 mm) thick end of the wick and the wick end is to be approximately 3 inches (76 mm) below the compartment roof. See Section 12-72-303 (r), Item 2. Operation is to be continued until the detector is actuated in an alarm condition. Five test trials shall be conducted on each sample with at least a 5-minute interval between each trial. The following readings are to be recorded for each trial at the moment of actuation: (1) visible smoke obscuration, (2) combustion products meter reading, (3) elapsed time of test trial and (4) the monitoring means. If a detector has a variable sensitivity setting, five trials are to be made at the maximum, minimum and nominal sensitivity settings.
+
+6.The detector shall be uniform in operation so that the average of the readings of the smoke density and combustion products meters of the mean three of five trials (highest and lowest not included) of one detector shall be within 50 percent of the mean average of all detectors. If a detector has a variable sensitivity setting, the requirement applies to each setting tested.
+
+7.There shall be no false alarms or effect on operation of a detector set at the maximum sensitivity setting when two representative samples are subjected to the following test conditions:
+
+A.Operation for three months in an ambient room temperature of approximately 25 ± 3°C (77 ± 5°F) and relative humidity of 30–50 percent, having a relatively clean atmosphere with minimum air movement.
+
+B.Operation for three months in a relatively clean atmosphere in laminal air stream having a velocity of 300 ± 25 fpm. in an ambient room temperature of approximately 25 ± 3°C (77 ± 5°F) and relative humidity of 30–50 percent.
+
+C.Ten cycles of humidity variation between 20 and 90 ± 5 percent at room temperature.
+
+D.Ten cycles of temperature variation between 17.8°C and 66°C (0°F and 150°F).
+
+E.Ten cycles of rapid change of air velocity from 0 to 300 ± 25 fpm.
+
+F.Ten cycles of a 2-inch (51 mm) drop of air pressure starting from 29-31 ± 0.5 inch (13 mm) of mercury.
+
+G.Fifty cycles of momentary interruption of the detector power supply at a rate of not more than 6 cycles per minute.
+
+8.Two detectors, employing a maximum sensitivity setting are to be mounted in a position of normal use, energized from a source of supply in accordance with Section 12-72-303 (a), Item 5, and subjected to each of the above test conditions.
+
+9.For tests, C, D and F of Section 12-72-303 (g), Item 5, the time of cycling from one extreme to the other shall be a maximum of 1 hour and a minimum of 5 minutes. For test E the air velocity is to be turned on and off abruptly with a maximum of 1 hour between applications. For test F the time of change from one pressure to the other is approximately one-half minute. The cycling is conducted at a rate not faster than once per 10 seconds. Each cycle is to start at one test condition, changing to the other extreme and returning to the original test condition.
+
+10.The test samples subjected to tests A-G of Section 12-72-303 (g), Item 5, are to be tested for sensitivity, see Sections 12-72-303 (f) following the completion of the test. The response of the detectors, when tested in accordance with the sensitivity test, shall not vary more than 50 percent from the value obtained prior to the test.
+
+(h)Deleted.
+
+(i)Fire test.
+
+1.At least two of the four detectors subjected to each of the following combustible tests shall operate for alarm when installed on 30-foot (9144 mm) spacings and exposed to the following four types of controlled test fires. The maximum response time shall be 2 minutes for tests A, B and C, and 4 minutes for test D.
+
+A.Paper. Combustible is to be 1/2 pound of shredded newsprint type paper, strips to be 1/4 to 3/8 inch (6 mm to 9 mm) wide, 6 to 24 inches (152 mm to 609 mm) long placed in a receptacle formed of 1/4-inch (6 mm) mesh hardware cloth. The receptacle is to be approximately 12 inches (305 mm) in diameter by 24 inches (609 mm) high with a hardware cloth bottom 6 inches (152 mm) above the base. The combustible is to be ignited at the bottom center. Paper is to be dried prior to test.
+
+B.Polystyrene. Combustible is to be 2 ounces of typical foam polystyrene type packing material, with no flame inhibitor, each piece 1/4 to 3/8 inch (6 mm to 9 mm) diameter, 3 to 10 inches (76 mm to 254 mm) long placed in the same type of receptacle as used for test A. Alternate shape of combustible is cylindrical, 3/4 inch (19 mm) diameter by 1/2 inch (13 mm) high having a 3/8-inch (9 mm) diameter hole. The combustible is to be ignited at the bottom center.
+
+C.Gasoline. Combustible is to be 200 cubic centimeters (cc) of regular leaded gasoline placed in a 9-inch (228 mm) diameter steel pan container 11/2 inches (38 mm) deep.
+
+D.Wood brand (Class A). Combustible is to be three layers of kiln dried fir strips, each strip 3/4 inch (19 mm) in cross section, 12 inches (305 mm) long with 12 strips in each layer. Strips are to be nailed or stapled together with adjacent layers at right angles to each other. Overall dimensions of wood brand is approximately 12 by 12 by 21/4 inches (305 mm by 305 mm by 57 mm) high. The brand is to be ignited by burning 100 cc of denatured alcohol consisting of 190 proof (95 percent) ethanol to which 5 percent methanol is added as a denaturant. The alcohol is placed in the same type of container as used for test C.
+
+2.The fire tests are to be conducted in a room having a smooth ceiling with no physical obstructions between the fire source and detectors and with minimum air movement. The room is to be provided with means for the removal of combustion products, such as vents or exhaust fans. Heaters are to be provided for maintaining the room temperature ambient, if necessary. The heaters are to be shut off during a test trial. The room shall be of sufficient cross-sectional area so that the detectors can be located in accordance with the spacing layout illustrated by Figure 12-72-3-2 and any reflection of combustion products is prevented from returning to the detectors from adjacent walls during the course of the test. The room height shall be such that the vertical distance from the base of the combustible to the ceiling is approximately 12 feet (3657 mm).
+
+3.The tests are to be conducted in an ambient temperature between 15.6°C and 26.7°C (60°F and 80°F) and a relative humidity of 50 ± 20 percent. The test samples are to be energized from a source of supply in accordance with Section 12-72-303 (a), Item 5.
+
+4.Four samples, each adjusted to their minimum sensitivity setting, are to be installed on the ceiling at a 30-foot (9144 mm) spacing schedule with relation to the test fire [21.2-foot (6462 mm) linear distance measured along the ceiling to a point directly over the center of the test fire]. See Figure 12-72-3-2. The time starts at the moment of ignition. At least two trials shall be conducted for each combustible. Each detector shall respond at least once to each of the four combustibles employed.
+
+5.Sensitivity monitoring instruments are to be employed to determine that the test room area is free of products of combustion prior to conducting a test.
+
+(j)Temperature test.
+
+1.The materials or components employed in a detector shall not be affected adversely by the temperatures attained under any condition of normal operation.
+
+2.A material or component will be considered as being adversely affected if it is subject to a temperature rise greater than that indicated in Table 12-72-3F.
+
+3.The classes of material used for electrical insulation referred to in Items 8 and 9 of Table 12-72-3F include the following:
+
+Class A — Impregnated cotton, paper and similar (Class 105) organic materials when impregnated, and enamel as applied to coil windings.
+
+Class B — Inorganic materials, such as mica and (Class 130) impregnated asbestos.
+Class A — Impregnated cotton, paper and similar (Class 105) organic materials when impregnated, and enamel as applied to coil windings.
+
+Class B — Inorganic materials, such as mica and (Class 130) impregnated asbestos.
+
+4.All values for temperature rises apply to equipment intended for use in ambient temperatures normally prevailing which usually are not higher than 25°C (77°F). If equipment is intended specifically for use with a prevailing ambient temperature constantly more than 25°C (77°F), the test of the equipment is made at the higher ambient temperature, and the allowable temperature rises specified in the table are to be reduced by the amount of the difference between that higher ambient temperature and 25°C (77°F).
+
+5.Temperature measurements on equipment intended for recessed mounting shall be made with the unit installed in an enclosure of nominal 3/4-inch (19 mm) wood having clearances of 2 inches (51 mm) on the top, sides and rear, and the front extended to be flush with the detector cover.
+
+6.A temperature is considered to be constant when three successive readings, taken at not less than 5 minute intervals, indicate no change.
+
+7.Temperatures are to be measured by means of thermocouples consisting of wires not larger than No. 24 AWG. The preferred method of measuring the temperature of a coil is the thermocouple method, but a temperature measurement by either the thermocouple or resistance method is acceptable, except that the thermocouple method is not to be employed for a temperature measurement at any point where supplementary thermal insulation is employed.
+
+8.If thermocouples are used in the determination of temperatures, it is standard practice to employ thermocouples consisting of No. 24-30 AWG iron and constantan wires and a potentiometer type indicating instrument. Such equipment will be used whenever referee temperature measurements by thermocouples are necessary.
+
+9.The thermocouple wire is to conform with the requirements for “special” thermocouples as listed in the Table of Limits of Error of Thermocouples in ANSI C96.1-1964 (R1969).
+
+10.The temperature of a copper coil winding is determined by the resistance method by comparing the resistance of the winding at the temperature to be determined with the resistance at a known temperature by means of the equation:
+
+where:
+
+T = is the temperature to be determined in degrees C.
+
+t = is the known temperature in degrees C.
+
+R = is the resistance in ohms at the temperature to be determined.
+
+r = is the resistance in ohms at the known temperature.
+
+11.As it is generally necessary to de-energize the winding before measuring R, the value of R at shutdown may be determined by taking several resistance measurements at short intervals, beginning as quickly as possible after the instant of shutdown. A curve of the resistance values and the time may be plotted and extrapolated to give the value of R at shutdown.
+
+12.To determine compliance with this test, a detector is to be connected to a source of supply in accordance with Section 12-72-303 (a), Item 5, and operated under the following conditions:
+
+A.Normal standby—(16 hours) constant temperatures.
+
+B.Alarm—(1 hour).
+
+C.Alarm— (7 hours) abnormal test.
+
+13.For test condition C the temperature limits may be exceeded but there shall be no manifestation of a fire hazard or approaching failure and the detector shall operate in a normal manner following the test.
+
+14.The detector is to be subjected to the Dielectric Withstand Test following the above test.
+
+(k)Over-and-under voltage operation.
+
+1.A detector shall withstand the continuous application of 110 percent of the test voltage specified by Section 12-72-303 (a), Item 5, in the normal standby condition at maximum and minimum sensitivity settings without being affected adversely and shall operate successfully for normal signaling performance at the specified increased voltage. Sensitivity measurements at the increased voltage shall be within 50 percent from the readings measured at rated voltage.
+
+2.For operation at the higher voltage four new detectors are to be subjected to the specified increased voltage in the normal standby condition for at least 16 hours and then tested for normal signaling operation and sensitivity.
+
+3.A detector shall operate for its normal signaling performance while energized from a supply of 85 percent of the test voltage specified by Section 12-72-303 (a), Item 5, for both maximum and minimum sensitivity settings. Sensitivity measurements at the reduced voltage shall be at 50 percent of the readings measured at rated voltage.
+
+4.For operation at the reduced voltage four new detectors are to be energized from a source of supply in accordance with Section 12-72-303 (a), Item 5, following which the voltage is to be reduced to 85 percent of nameplate rating and then tested for normal signaling operation and sensitivity.
+
+(l)Variable ambient temperature.
+
+1.A detector shall be capable of operating in a normal manner when tested in an ambient temperature of 0°C and 49°C (32°F and 120°F), at a relative humidity between 30-50 percent.
+
+2.Two detectors are to be maintained at each ambient temperature for a sufficient length of time to ensure that thermal equilibrium has been reached. The units are then to be tested for sensitivity while connected to a source of supply in accordance with Section 12-72-303 (a), Item 5.
+
+3.Sensitivity measurements shall be recorded before and during exposure to each ambient temperature in accordance with the sensitivity test.
+
+4.Each unit shall operate normally in each ambient. The sensitivity readings measured with the units in each ambient temperature shall be within 50 percent of the value recorded in the normal ambient condition.
+
+(m)Overload.
+
+1.A detector shall be capable of operating in a normal manner after being subjected to 50 cycles of alarm signal operation at a rate of not more than 6 cycles per minute with the supply circuit to the detector at 115 percent of rated nameplate voltage. Each cycle shall consist of starting with the detector energized in the normal standby condition, initiation of an alarm by smoke or electrical means, and restoration of the detector to normal standby condition.
+
+2.Rated test loads are to be connected to those output circuits of the detector which are energized from the detector power supply, such as remote indicators, relays, etc. The test loads shall be those devices, or the equivalent, normally intended for connection. If an equivalent load is employed for a device consisting of an inductive load, a power factor of 60 percent is to be employed. The rated loads are established initially with the detector connected to a source of supply in accordance with Section 12-72-303 (a), Item 5, following which the voltage is increased to 115 percent of rating.
+
+3.For direct current signaling circuits an equivalent inductive test load is to have the required direct current resistance for the test current and the inductance (calibrated) to obtain a power factor of 60 percent when connected to a 60 Hertz (Hz) alternating current potential equal to the rated direct current test voltage. When the inductive load has both the required direct current resistance and the required inductance, the current measured with the load connected to an alternating current circuit will be equal to 0.6 times the current measured with the load connected to a direct current circuit when the voltage of each circuit is the same.
+
+4.Separately energized circuits of a detector such as dry contacts shall be capable of operating in a normal manner after being subjected for 50 cycles of signal operation at a rate of not more than 6 cycles per minute while connected to a source of supply in accordance with Section 12-72-303 (a), Item 5, with 150 percent rated loads at 60 percent power factor applied to output circuits which do not receive energy from the detector. There shall be no electrical or mechanical failure of the switching circuit.
+
+5.The test loads shall be set at 150 percent of rated current while connected to a separate power source of supply in accordance with Section 12-72-303 (a), Item 5.
+
+(n)Endurance.
+
+1.A detector shall be capable of operating in a normal manner after being subjected to 6,000 cycles of alarm signal operation at a rate of not more than 10 cycles per minute with the detector connected to a source of supply in accordance with Section 12-72-303 (a), Item 5, and with related devices or equivalent loads connected to the output circuits. There shall be no electrical or mechanical failure or evidence of failure of the detector components. The same detector shall be tested that had been subjected previously to the overload test.
+
+2.Separately energized circuits of a detector shall be capable of performing acceptably when operated for 6,000 cycles at a rate of not more than 10 cycles per minute. When an electrical load is involved, the contacts of the device shall be caused to make and break the normal current at the voltage specified by Section 12-72-303 (a), Item 5. The load shall represent that which the device is intended to control. The endurance tests of the separately energized circuits may be conducted in conjunction with the endurance test of the detector. There shall be no electrical or mechanical failure of the detector nor undue pitting, burning or welding of any relay contacts.
+
+(o)Dielectric tests.
+
+1.A detector shall be capable of withstanding, without breakdown for a period of 1 minute, the application of a 60 Hz alternating potential between high-voltage, live parts and dead-metal parts, and between live parts of high- and low-voltage circuits, except as noted in Item 2. The test potential shall be:
+
+A.1,000 volts RMS plus twice rated voltage for high-voltage circuits.
+
+2.A detector employing a low-voltage circuit shall be capable of withstanding, for 1 minute without breakdown, a 60 Hz alternating potential of 500 volts RMS applied between low-voltage live parts and dead-metal parts.
+
+3.Any reference grounds shall be disconnected prior to the test applications.
+
+4.A transformer, the output voltage of which is essentially sinusoidal, can be varied and can maintain the specified high potential voltage at the equipment during the duration of the test and is to be used to determine compliance with the foregoing. The applied potential is to be increased gradually from zero until the required test value is reached and is to be held at that value for 1 minute.
+
+(p)Abnormal operation.
+
+1.A detector shall be capable of operating continuously under abnormal conditions without resulting in a fire hazard.
+
+2.To determine if a detector complies with the requirement of Item 1, it is to be operated under the most severe abnormal conditions liable to be encountered in service while connected to a source of supply in accordance with Section 12-72-303 (a), Item 5. Emission of flame or molten metal, or any other manifestation of a fire hazard, is considered to be a failure.
+
+3.In determining if a detector complies with the requirement with respect to circuit-fault conditions, the fault condition is to be maintained continuously until constant temperatures are attained, or until burnout occurs, if the fault does not result in the operation of an overload protective device. Shorting of electrolytic capacitors would represent a typical fault.
+
+(q)Transient tests.
+
+1.Two detectors shall be capable of operating in a normal manner after being subjected to 500 externally induced and 500 internally induced transients while energized from a source of supply in accordance with Section 12-72-303 (a), Item 5, and connected to the devices normally used with the unit.
+
+2.The primary of a 120/240 volt, 60 Hz, 2 kilovoltamperes (kVA) isolating power transformer, with the secondary open circuited, is to be connected to the same branch circuit as the detector. The input to the transformer is to be de-energized for approximately 1 second by an automatic switching device at a rate of not more than 6 cycles per minute for 500 cycles. During the test the detector is to be operated for normal signaling performance to determine whether transients, generated by the random collapse of the magnetic field of the transformer, resulted in a component failure or other adverse effect.
+
+3.The electrical characteristics of the testing transformer are as follows:
+
+	VOLTAGE	FREQUENCY	INDUCTANCE(L)MILLIHENRIES	QUALITY FACTORQ	DC RESISTANCE (R) OHMS (23°C)
+Primary winding	120	1,000	21.2	11.50	0.244
+Secondary winding	240	1,000	109.3	4.65	0.3714.Two detectors are to be energized in the normal standby condition while connected to a source of supply in accordance with Section 12-72-303 (a), Item 5, which is to be interrupted for approximately 1 second at a rate of not more than 6 cycles per minute for a total of 500 cycles. Following the test the detector is operated for normal signaling performance.
+
+(r) Humidity test.
+
+1.Two detectors shall be capable of operating in a normal manner while energized from a source of supply in accordance with Section 12-72-303 (a), Item 5, after having been exposed for 24 hours to moist air having a relative humidity of 85 + 5 percent at a temperature of 30 ± 2°C (86 ± 3°F). The sensitivity shall be determined with the detector connected to a source of supply in accordance with Section 12-72-303 (a), Item 5.
+
+2.Sensitivity measurements shall be recorded before and during exposure to the humidity condition in accordance with the sensitivity test.
+
+3.The sensitivity values measured with the unit in the humid atmosphere shall be within 50 percent of the value recorded in the normal ambient condition.
+
+(s) Component failure.
+
+1.Failure of electronic components of questionable reliability such as opening or shorting of electrolytic capacitors shall either have no adverse effect on normal operation or may be indicated by a trouble or an alarm signal.
+
+2.If failure of a questionable component cannot be indicated by a trouble or alarm signal, a reliable component shall be employed. The reliability may be based on derating or on reliability data recorded for the particular component. See Section 12-72-303 (a).
+
+(t)Dust test.
+
+1.The sensitivity of a detector shall either not be affected adversely by an accumulation of dust or may result in a false alarm.
+
+2.To determine compliance with Item 1 two samples in their normal mounting position, are to be placed, de-energized, in an air tight chamber having an internal volume of at least 3 cubic feet.
+
+3.Approximately 2 ounces of cement dust, capable of passing through a 200 mesh screen, is to be circulated for 15 minutes by compressed air or a blower under controlled velocity conditions not exceeding 50 rpm so as to completely envelop the sample in the chamber.
+
+4.Following the exposure to dust the detector is to be removed carefully, mounted in its intended position, energized from a source of supply in accordance with Section 12-72-303 (a), Item 5, and tested for sensitivity unless a false alarm is obtained. Sensitivity measurements after subjection to the dust test may be greater than 50 percent toward the more sensitive region but shall not be more than 50 percent toward the insensitive region.
+
+(u)Static discharge test.
+
+1.The components of a detector shall be shielded so that its operation is not affected adversely, or a false alarm obtained, when subjected to static electric discharges. Operation of the trouble circuit during this test is not considered a failure.
+
+2.Each of two detectors is to be mounted in its intended mounting position and connected to a source of supply in accordance with Section 12-72-303 (a), Item 5. A 250 picofarad low leakage capacitor rated 10,000 volts direct current, is to be connected to two high-voltage insulated leads, 3 feet (914 mm) long, stripped 1 inch (25 mm) at each end. The end of each lead is to be attached to a metal test probe mounted on a plastic insulating rod to permit manipulation and isolation from shock hazard. The test probes shall be metallic rods with a spherical end of 1/4-inch (6 mm) radius. The capacitors are to be charged by touching the ends of the test leads to a source of 10,000 volts direct current for at least 2 seconds for each discharge.
+
+3.Ten discharges with at least a 5 minute interval between discharges are to be applied to different points on the exposed surface of the detector, recharging the capacitors for each discharge. Five discharges are to be made with one probe connected to earth ground and the other probed on the detector surface followed by five discharges with the polarity reversed.
+
+4.Following the discharges, if a trouble or an alarm signal is not obtained, the detector is to be tested for sensitivity. Sensitivity measurements shall be within 25 percent of the average of the readings measured prior to the test.
+
+(v)Vibration test.
+
+1.A detector shall be capable of withstanding vibration without breakage or damage to parts. Following the vibration the detector shall be capable of operating in a normal manner.
+
+2.To determine compliance with Item 1, sensitivity measurements following the vibration shall be conducted in accordance with the sensitivity test and shall be within 50 percent of the value recorded in the normal ambient condition.
+
+3.Two samples, one at the maximum and one at the minimum sensitivity setting, are to be secured in their intended mounting position on a mounting board and the board, in turn, securely fastened to a variable speed vibration machine having an amplitude of 0.01 inch (0.2 mm). The frequency of vibration is to be varied from 10 to 35 cycles per second in increments of five cycles per second until a resonant frequency is obtained. The samples are then to be vibrated at the maximum resonant frequency for a period of one-fourth hour. If no resonant frequency is obtained, the samples are to be vibrated at 35 cycles per second for a period of 4 hours.
+
+4.For these tests, amplitude is defined as the maximum displacement of sinusoidal motion from a position of rest or one-half of the total table displacement. Resonance is defined as the maximum magnification of the applied vibration.
+
+(w) Jarring test.
+
+1.A detector shall be capable of withstanding jarring resulting from impact and vibration such as might be experienced in service, without affecting adversely its subsequent normal operation. A trouble signal resulting from the jarring may be permitted if the normal operation is not affected.
+
+2.The detector and associated equipment, if any, are to be mounted in a position of intended use to the center of a 6 by 4 foot (1829 mm by 1219 mm) nominal 3/4-inch (19 mm) thick plywood board which is secured in place at four corners. A 3-foot (914 mm) board impact is to be applied to the center of the reverse side of this board by means of a 1.18 pound, 2 inch (51 mm) diameter steel sphere either (1) swung through a pendulum arc from a sufficient height, (h) of 2.54 feet (774 mm) or (2) dropped from a sufficient height (h) of 2.54 feet to apply 3 foot-pounds of energy depending upon the mounting of the equipment. See Figure 12-72-3-3.
+
+3.Compliance with Item 1 is to be determined by supporting the detector in its intended mounting position and conducting the jarring while the unit is in the normal standby condition and connected to a rated source of supply in accordance with Section 12-72-303 (a), Item 5. Following the jarring the unit(s) shall be tested for sensitivity. Sensitivity measurements following the jarring shall be within 25 percent of the average of the readings measured prior to the test.
+
+(x) Corrosion test.
+
+1.A detector shall be capable of operating in a normal manner after being subjected to the corrosive atmosphere tests described in the following paragraphs.
+
+2.Two samples, one at maximum and one at minimum sensitivity setting, are to be exposed to an atmosphere containing approximately 1 percent hydrogen sulphide by volume in air saturated with water vapor at room temperature for 10 days. The units are not energized during the exposure.
+
+3.Two samples, one at maximum and one at minimum sensitivity settings are to be exposed to an atmosphere containing approximately 1 percent carbon dioxide and 0.5 percent sulfur dioxide by volume in air saturated with water vapor at room temperature for 10 days.
+
+4.The detectors are to be tested for sensitivity prior to exposure to the corrosive atmospheres. Twenty-four hours or more after the required exposure the detectors are to be again tested for sensitivity. Sensitivity measurements following the exposure to the corrosive atmospheres shall be within 50 percent of the value recorded in the sensitivity test, except as indicated in Item 5.
+
+5.The sensitivity following exposure to the corrosion atmospheres described in Item 3 may exceed 50 percent from the value measured prior to the corrosion exposure if the same units, set at their minimum sensitivity, are subjected to and comply with the fire test requirements described in Section 12-72-303 (i), Items 1-5.
+
+(y) Radioactive element measurement test.
+
+1.The total activity of the radioactive source(s) of a detector shall not exceed the maximum content specified in the marking on the detector by more than 10 percent.
+
+2.The measurement shall be made on at least five samples of the detector in the as-received condition using appropriate instrumentation and techniques.
+
+(z) Paint loading test.
+
+1.A detector shall operate in a normal manner and shall comply with the requirements of the sensitivity test after painting, if the detector assembly, screens, openings, etc., are likely to be clogged by painting. If a detector is marked prominently so it will be visible after the unit is installed which prohibits painting, then this test need not be conducted. See Section 12-72-303 (a) and (b).
+
+2.The exterior surfaces of two samples, including screened openings, etc., are to be coated with a leadoil base paint which is spread at approximately two times the paint manufacturer’s recommended spreading rate. The paint is to be allowed to dry, for 5 days at room temperature. Following this, the samples are to be given a second identical application of paint and again permitted to dry for 5 days. The detectors are to be tested for sensitivity, one at maximum and one at minimum sensitivity setting before and after the specified paint loading. Sensitivity measurements following the paint loading shall be within 25 percent of the average of the readings measured prior to the paint loading.
+
+1. Figure in parentheses denotes optical density per foot.
+
+2. A meter suitable for this purpose is Weston Instrument Model 622 in conjunction with a Model 594 RR Photronic Cell.
+
+3. A meter suitable for this purpose is a Pyrotronics, Inc., Type CPM-2 with monitoring head.
+
+TESTS ON THERMOPLASTIC MATERIALS
+
+Sec. 12-72-304.
+
+(a)General. Thermoplastic materials included for the sole support of current carrying parts or as an enclosure of an appliance shall be subjected to the tests included in Sections 12-72-304(b) - (i) inclusive. Where possible, the complete appliance shall be used.
+
+(b)Temperature test.
+
+1.There shall be no excessive warping or exposure of high-voltage uninsulated current carrying parts so as to impair operation when representative samples of a plastic material are aged for 7 hours in an air circulating oven maintained at 90°C (194°F).
+
+2.At least three representative samples shall be placed in the oven. At the end of the 7 hours, the samples shall be removed, permitted to cool and then examined for adverse distortion.
+
+(c)Flame test. A plastic material employed as part of an appliance for the sole support of current carrying parts or as an enclosure shall not continue to burn for more than 1 minute after the fifth 5-second application of a test flame, with an interval of 5 seconds between applications of the flame. There shall be do dripping of particles, complete consumption of the sample during the test and the material shall not be destroyed in the area of the test flame to such an extent that the integrity of the enclosure is affected. Three samples of the material or three test specimens consisting of a part or section of the polymeric enclosure shall be subjected to this test. Consideration may be given to leaving in place components and other parts which may influence the performance.
+
+(d)Two of the three test samples shall show acceptable performance. If one sample fails, the test shall be repeated on a new sample with the flame applied under the same conditions as for the failing sample. If the new specimen fails to comply with the requirements, the material is not acceptable. The following test equipment is employed.
+
+1.Test chamber. The test chamber consists of a sheet-metal cell 2 feet by 1 foot by 1 foot (609 mm by 305 mm by 305 mm), open at the top and on one long side. The chamber shall be located so that an ample supply of air is provided, but the sample is not subjected to drafts. The chamber may be placed in a hood, provided that the fan is turned off during the test and is allowed to run only between tests to remove fumes.
+
+2.A ring stand with a suitable clamp is used for supporting the specimens.
+
+3.Burner and mounting block. The test flame is to be obtained by means of a Tirrill Burner having a nominal bore of 3/8 inch (9 mm). The tube length above the primary air inlets is to be approximately 4 inches (101 mm). The burner is to be adjusted so that, while the burner is in a vertical position, the overall height of the flame is 5 inches (127 mm) and the height of the inner blue cone is 11/2 inches (38 mm). A mounting block is to be provided so that the burner may be positioned at an angle of 20 degrees from the vertical.
+
+4.A stopwatch or clock.
+
+5.Circulating-air oven.
+
+(e)Conditioning and mounting. The test samples are to be conditioned by placing them in a circulating-air oven maintained at a uniform temperature not less than 10°C higher than the maximum temperature of the material measured under normal operating conditions but not less than 70°C in any case. The samples are to remain in the oven for 7 days. Prior to test the samples are to be returned to room temperature. The test sample is to be mounted as intended in service in the test chamber. The test flame is to be applied at an angle of 20 degrees from the vertical to any portion of the interior of the enclosure judged as liable to be ignited by proximity to live or arcing parts, coils, wiring, etc. The test flame shall be applied to a different location on each of the three samples tested. The test flame is to be applied for 5 seconds and removed for 5 seconds. The operation is to be repeated until the specimen has been subjected to a total of five applications of the test flame.
+
+(f)Impact test. An appliance employing a thermoplastic enclosure shall withstand three 5 foot-pound impacts without exposure of live parts, impairment of the operation of the appliance or result in a shock hazard.
+
+Each of two units is to be mounted securely in a position of normal use on a surface representative of a typical installation. Three 5 foot-pound impacts are to be applied to each sample, each trial on a different section of the enclosure, by means of a 1.18 pound, 2-inch (51 mm) diameter steel sphere swung through a pendulum arc from a sufficient height to apply 5 foot-pounds of energy.
+
+Following the impacts, the unit is to be examined for damage and checked for normal operation by being energized from a source of rated voltage and frequency. Cracking of the enclosure is acceptable if it does not impair normal operation, but is not acceptable if a dust or moisture tight enclosure is required.
+
+(g)Infrared analysis of plastics. The basic composition of a plastic material employed for the sole support of current carrying parts or an enclosure is to be by infrared analysis.
+
+(h)Sample preparation. The general technique for preparing plastics for infrared analysis is to dissolve the sample in a suitable boiling hot solvent. The resulting solution is then to be placed on a sodium chloride plate from which the solvent is evaporated by gentle heating, thereby leaving a reasonably uniform thin film of the plastic on the sodium chloride plate. The salt plate is then mounted in a spectrometer and the infrared spectrum of the plastic is recorded.
+
+A suitable solvent is one which will dissolve the plastic without reacting with it and which can be readily evaporated on gentle heating.
+
+Examples of solvents suitable for certain polymer types are:
+
+acetone—for polymers of high oxygen content, e.g., polyesters and phenolic resins.
+
+o-dichlorobenzene—for simple vinyl type polymers e.g., polyvinylchlorides.
+
+n,n-dimethylformamide—for polymers of nitrogen content, e.g., polyamides.
+acetone—for polymers of high oxygen content, e.g., polyesters and phenolic resins.
+
+o-dichlorobenzene—for simple vinyl type polymers e.g., polyvinylchlorides.
+
+n,n-dimethylformamide—for polymers of nitrogen content, e.g., polyamides.
+
+Some high molecular weight or highly cross-linked polymers which are insoluble in all volatile solvents are to be prepared by the pressed halide-disk technique. A few milligrams of the plastic are to be removed from the surface of a sample by a fine file. These filings are to be ground in a mechanical vibrating ball mill for three to 5 minutes. Care must be taken to reduce the particle size to a size (approximately 2 micrometers) smaller than that of the shortest wave length to be scanned so as to minimize scattering effects. The appropriately ground sample is to be intimately mixed with spectroscopic grade potassium bromide and a sufficient amount of this mixture to produce a 1 mm thick, 1/2-inch (13 mm) diameter disk is to be placed in an evacuable die. The die is to be placed under vacuum and a pressure of 10,000-15,000 psi is to be applied. The pressed disk is removed from the die and mounted in a spectrometer, and the infrared spectrum of the plastic is recorded.
+
+(i)Instrumentation. The infrared spectrum from 2.0–15.0 micrometers (5000–667 cm-1) of a given plastic is to be obtained on an optical double beam recording infrared spectrometer, having either a grating or sodium chloride prism dispersing element.
+
+TABLE 12-72-3A—CAST-METAL ENCLOSURES
+
+USE OR DIMENSIONS OF AREA INVOLVED	MINIMUM THICKNESS IN INCHES
+Die-cast metal	Cast metal of other than the die-cast type
+Area of 24 square inches or less and having no dimension greater than 6 inches	1/16	1/8
+Area greater than 24 square inches or having any dimensions greater than 6 inches	3/32	1/8
+At a threaded conduit hole	1/4	1/4
+At an unthreaded conduit hole	1/8	1/8For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+TABLE 12-72-3B—SHEET METAL ENCLOSURES
+
+MAXIMUM ENCLOSURE DIMENSIONS	MINIMUM THICKNESS OF SHEET METAL IN INCHES	COPPER, BRASS OR ALUMINUM
+Steel
+Any linear dimension in inches	Area of any surface in square inches	Coated	Uncoated
+12	90	0.035	0.031	0.045
+(20)	(20)	(16)
+24	360	0.046	0.042	0.058
+(18)	(18)	(14)
+48	1,200	0.057	0.053	0.075
+(16)	(16)	(12)
+60	1,500	0.070	0.067	0.095
+(14)	(14)	(10)
+Over 60	Over 1,500	0.097	0.093	0.122
+(12)	(12)	(8)For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+TABLE 12-72-3C—THICKNESS OF GLASS COVERS
+
+MAXIMUM SIZE OF OPENING	MINIMUM THICKNESS OF GLASS IN INCHES
+Length or width in inches	Area in square inches
+4	16	1/16
+12	144	1/81
+Over 12	Over 144	1For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+1.One-eighth inch or more, depending upon the size, shape and mounting of the glass panel.
+
+TABLE 12-72-3D—THICKNESS OF INSULATING MATERIAL
+
+MAXIMUM DIMENSION IN INCHES	MAXIMUM AREA IN SQUARE INCHES	MINIMUM THICKNESS IN INCHES
+24	360	3/81
+48	1,152	1/2
+48	1,728	5/8
+Over 48	Over 1,728	3/4For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+1.Material less than 3/8 inch but not less than 1/8 inch in thickness may be employed for a panel if the panel is adequately supported or reinforced to provide rigidity not less than that of a 3/8-inch sheet. Material less than 1/8 inch may be employed for subassemblies, such as supports for terminals for internal wiring, resistors and other components.
+
+TABLE 12-72-3E—MINIMUM SPACINGS
+
+POINT OF APPLICATION	MINIMUM SPACING—INCHES1
+Voltage Range Volts	Through Air	Over Surface
+To walls of enclosure			
+Cast-metal enclosures	0–300	1/4	1/4
+Sheet metal enclosures	0–300	1/2	1/2
+Installation wiring terminals	0–30	1/8	3/16
+With barriers—see Section 12-72-302 (t),	31–150	1/8	1/4
+Item 6	151–300	1/4	3/8
+Without barriers	0–30	3/16	3/16
+31–150	1/4	1/4
+151–300	1/4	1/8
+Rigidly clamped assemblies2	0–30	1/323	1/323
+0–30	3/64	3/64
+100 volt-amperes maximum	31–150	1/16	1/16
+Over 100 volt amperes	151–300	3/32	3/32
+Other parts	0–30	1/16	1/8
+31–150	1/8	1/4
+151–300	1/4	3/8For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+1.Measurements are to be made with solid wire of adequate ampacity for the applied load connected to each terminal. In no case is the wire to be smaller than No. 18 AWG.
+
+2.Rigidly clamped assemblies include such parts as contact springs on relays or cam switches, printed wiring boards, etc.
+
+3.Spacings less than those indicated, but in no case less than 1/64 inch are acceptable for connection of integrated circuits and similar components where the spacing between the adjacent connecting wires on the component is less than 1/32 inch.
+
+TABLE 12-72-3F—MAXIMUM TEMPERATURE RISES
+
+DEVICE OR MATERIAL	DEGREES °C	DEGREES °F
+1. Any point on rectifiers:		
+A. Copper oxide	30	54
+B. Germanium	50	90
+C. Magnesium-copper sulphide	95	171
+D. Selenium	50	90
+E. Silicon	75	135
+2. Rubber or thermoplastic insulation	351	631
+3. Varnished cloth insulation	60	108
+4. Fuses	65	117
+5. Surfaces adjacent to or upon which the unit may be mounted in service	65	117
+6. Wood or other combustible material	65	117
+7. Fiber used as electrical insulation	65	117
+8. Class A (Class 105) insulation	653	1173
+9. Class B (Class 130) insulation	853	1533
+10. Phenolic composition used as electrical insulation	125	225
+11. Capacitors	40	72
+12. Solid state devices (transistors, silicon-controlled rectifiers, etc.) integrated circuits	See4	
+13. Wirewound resistor	1502	3022
+14. Carbon resistor	See4	
+15. Sealing compound	15	(27) less than the melting point2For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+1.This limitation does not apply to an insulated conductor or a material which has been investigated and accepted for a higher temperature.
+
+2.These are limiting temperatures, not temperature rises.
+
+3.10°C (18°F) higher on coil insulation if measured by the resistance method.
+
+4.The temperature of a solid-state device shall not exceed 50 percent of its rating during the normal standby condition. The temperature of a solid-state device shall not exceed 75 percent of its rated temperature under any other condition of operation of the complete unit which produces the maximum temperature dissipation of its components. For reference purposes 0°C (32°F) shall be considered as 0 percent. For integrated circuits the loading factor shall not exceed 50 percent of its rating under the normal standby condition and 75 percent under any condition of operation. Both solid-state components and integrated circuits may be operated up to the maximum ratings, under any one of the following conditions:
+
+4.1. All components comply with the requirements Mil-Std. 883C.
+
+4.2. A quality control program is established by the manufacturer consisting of inspection and test of 100 percent of all components, either on an individual basis, as part of a subassembly, or equivalent.
+
+4.3. Each assembled production unit is subjected to a burn in test while in an alarm condition for 24 hours while connected to a source of rated nameplate voltage and frequency in an ambient of at least 49°C (120°F) followed by an operational test the maximum temperature on a carbon resistor shall be not greater than 50°C during the normal standby condition and not greater than 75°C during the alarm condition.
+
+TABLE 12-72-3G—OBSCURATION—OPTICAL DENSITY CHART(Based on a 5-foot light beam)
+
+METER READING (Microamperes)	PERCENT PER FOOT OBSCURATION Ou	TOTAL OBSCURATION Od	TOTAL OPTICAL DENSITY ODt	OPTIC DENSITY PER FOOT ODf
+100.0	0.0000	0.0000	0.0000	0.0000
+99.5	0.1002	0.5001	0.0022	0.0004
+99.0	0.2008	1.0001	0.0044	0.0009
+98.5	0.3019	1.5001	0.0066	0.0013
+98.0	0.4033	2.0001	0.0088	0.0018
+97.5	0.5051	2.5002	0.0110	0.0022
+97.0	0.6074	3.0002	0.0132	0.0027
+96.5	0.7101	3.5002	0.0155	0.0031
+96.0	0.8132	4.0003	0.0177	0.0036
+95.5	0.9167	4.5003	0.0200	0.0040
+95.0	1.0227	5.0003	0.0223	0.0045
+94.5	1.1251	5.5004	0.0246	0.0049
+94.0	1.2300	6.0004	0.0296	0.0054
+93.5	1.3353	6.5004	0.0292	0.0058
+93.0	1.4410	7.0005	0.0315	0.0063
+92.5	1.5473	7.5005	0.0339	0.0068
+92.0	1.6539	8.0005	0.0362	0.0072
+91.5	1.7611	8.5005	0.0386	0.0077
+91.0	1.8687	9.0006	0.0410	0.0082
+90.5	1.9768	9.5006	0.0434	0.0087
+90.0	2.0853	10.0006	0.0458	0.0092
+89.5	2.1944	10.5007	0.0482	0.0096
+89.0	2.3039	11.0007	0.0506	0.0101
+88.5	2.4139	11.5007	0.0531	0.0106
+88.0	2.5244	12.0008	0.0555	0.0111
+87.5	2.6355	12.5008	0.0580	0.0116
+87.0	2.7470	13.0008	0.0605	0.0121
+86.5	2.8590	13.5008	0.0630	0.0126
+86.0	2.9716	14.0009	0.0655	0.0131
+85.5	3.0847	14.5009	0.0680	0.0136
+85.0	3.1984	15.0009	0.0706	0.0141
+84.5	3.3125	15.5010	0.0732	0.0146
+84.0	3.4272	16.0010	0.0757	0.0152
+83.5	3.5425	16.5010	0.0783	0.0157
+83.0	3.6583	17.0011	0.0809	0.0162
+82.5	3.7746	17.5011	0.0836	0.0167
+82.0	3.8916	18.0011	0.0862	0.0172
+81.5	4.0091	18.5011	0.0889	0.0178
+81.0	4.1271	19.0012	0.0915	0.0183
+80.5	4.2458	19.5012	0.0942	0.0188
+80.0	4.3651	20.0012	0.0969	0.0194FIGURE 12-72-3-1—SMOKE DETECTOR TEST CHAMBER
+
+FIGURE 12-72-3-2—FIRE TEST DETECTOR INSTALLATION
+
+FIGURE 12-72-3-3—JARRING TEST
+

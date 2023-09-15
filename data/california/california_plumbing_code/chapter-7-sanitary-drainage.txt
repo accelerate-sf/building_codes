@@ -1,0 +1,526 @@
+Chapter 7 Sanitary Drainage
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X										X												
+Adopt Entire Chapter asamended (amended sections listed below)				X	X			X	X	X		X	X	X	X			X					
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+701.2(2)								X	X														
+701.2(2) (a)				X	X																		
+701.2(2) (b)										X		X	X	X	X								
+Table 702.1				X	X																		
+705.1.2				X	X																		
+705.6.2				X	X																		
+705.9.4				X	X																		
+Table 707.2, Footnote 1				X	X																		
+710.3				X	X																		
+713.4				X																			
+717.2																		X					
+724.0 - 724.2																		X					
+725.0																		X					
+726.0 - 726.2																		X					
+727.0 - 727.1(a) (b)										X													
+
+Footnote 1
+
+717.2
+
+724.0 - 724.2
+
+725.0
+
+726.0 - 726.2
+
+727.0 - 727.1(a) (b)
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+Part I - Drainage Systems
+701.0 General
+701.1 Applicability
+701.2 Drainage Piping
+the fire stop protection requirements in the California Building Code
+
+[HCD 1 & HCD 2] ABS and PVC installations are limited to not more than two stories of areas of residential accommodation.
+
+[OSHPD 1, 2, 3, 4 & 5] ABS and PVC installations are not allowed.
+
+MATERIAL	UNDERGROUND
+DRAIN, WASTE,
+VENT PIPE AND
+FITTINGS	ABOVEGROUND
+DRAIN, WASTE,
+VENT PIPE AND
+FITTINGS	BUILDING SEWER
+PIPE AND FITTINGS	REFERENCED STANDARD(S) PIPE	REFERENCED
+STANDARD(S)
+FITTINGS
+ABS (Schedule 40)	X	X	X	ASTM D2661,
+ASTM D2680*	ASME A112.4.4,ASTM D2661,
+ASTM D2680*
+Cast-Iron	X	X	X	ASTM A74,
+ASTM A888,
+CISPI 301	ASME B16.12,
+ASTM A74,
+ASTM A888,
+CISPI 301
+Co-Extruded ABS (Schedule 40)	X	X	X	ASTM F628	ASME A112.4.4,ASTM D2661,
+ASTM D2680*
+Co-Extruded Composite(Schedule 40)	X	X	X	ASTM F1488	ASME A112.4.4,ASTM D2661,
+ASTM D2665,
+ASTM F794*,
+ASTM F1866
+Co-Extruded PVC (Schedule 40)	X	X	X	ASTM F891,
+ASTM F1760	ASME A112.4.4,ASTM D2665,
+ASTM F794*,
+ASTM F1336*,
+ASTM F1866
+Copper and Copper Alloys (Type DWV)	X	X	X	ASTM B43,
+ASTM B75,
+ASTM B251,
+ASTM B302,
+ASTM B306	ASME B16.23,
+ASME B16.29
+Galvanized Malleable Iron	—	X	—	—	ASME B16.3
+Galvanized Steel	—	X	—	ASTM A53	—
+Polyethylene	—	—	X	ASTM F714,
+ASTM F894	—
+PVC (Schedule 40)	X	X	X	ASTM D1785,
+ASTM D2665,
+ASTM F794*	ASME A112.4.4, ASTM D2665,
+ASTM F794*,
+ASTM F1866
+PVC (Sewer and Drain)	—	—	X	ASTM D2729	ASTM D2729
+PVC PSM	—	—	X	ASTM D3034	ASTM D3034
+Stainless Steel 304	—	X	—	ASME A112.3.1	ASME A112.3.1
+Stainless Steel 316L	X	X	X	ASME A112.3.1	ASME A112.3.1
+Vitrified Clay (Extra strength)	—	—	X	ASTM C700	ASTM C700
+
+701.3 Drainage Fittings
+701.3.1 Screwed Pipe
+701.3.2 Threads
+701.3.3 Type
+701.4 Continuous Wastes
+701.5 Lead
+701.6 Caulking Ferrules
+PIPE SIZE
+(inches)	INSIDE
+DIAMETER
+(inches)	LENGTH
+(inches)	MINIMUM WEIGHT EACH
+pounds	ounces
+2	21/4	41/2	1	0
+3	31/4	41/2	1	12
+4	41/4	41/2	2	8
+
+701.7 Soldering Bushings
+PIPE SIZE
+(inches)	MINIMUM WEIGHT
+EACH	PIPE SIZE
+(inches)	MINIMUM WEIGHT
+EACH
+pounds	ounces	pounds	ounces
+11/4	0	6	21/2	1	6
+11/2	0	8	3	2	0
+2	0	14	4	3	8
+
+702.0 Fixture Unit Equivalents
+702.1 Trap Size
+PLUMBING APPLIANCES, APPURTENANCES, OR FIXTURES	MINIMUM SIZE TRAP
+AND TRAP ARM7
+(inches)	PRIVATE	PUBLIC	ASSEMBLY8
+Bathtub or Combination Bath/Shower	11/2	2.0	2.0	—
+Bidet	11/4	1.0	—	—
+Bidet	11/2	2.0	—	—
+Clothes Washer, domestic, standpipe5	2	3.0	3.0	3.0
+Dental Unit, cuspidor	11/4	—	1.0	1.0
+Dishwasher, domestic, with independent drain2	11/2	2.0	2.0	2.0
+Drinking Fountain or Water Cooler	11/4	0.5	0.5	1.0
+Food Waste Disposer, commercial	2	—	3.0	3.0
+Floor Drain, emergency	2	—	0.0	0.0
+Floor Drain (for additional sizes see Section 702.0)	2	2.0	2.0	2.0
+Shower, single-head trap	29	2.0	2.0	2.0
+Multi-head, each additional	2	1.0	1.0	1.0
+Lavatory	11/4	1.0	1.0	1.0
+Lavatories in sets	11/2	2.0	2.0	2.0
+Washfountain	11/2	—	2.0	2.0
+Washfountain	2	—	3.0	3.0
+Mobilehome or Manufactured Home, trap10	3	6.0	—	—
+Receptor, indirect waste1,3	11/2	See footnote1,3
+Receptor, indirect waste1,4	2	See footnote1,4
+Receptor, indirect waste1	3	See footnote1
+Sinks	—	—	—	—
+Bar	11/2	1.0	—	—
+Bar2	11/2	—	2.0	2.0
+Clinical	3	—	6.0	6.0
+Commercial with food waste2	11/2	—	3.0	3.0
+Exam Room	11/2	—	1.0	—
+Special Purpose2	11/2	2.0	3.0	3.0
+Special Purpose	2	3.0	4.0	4.0
+Special Purpose	3	—	6.0	6.0
+Kitchen, domestic2 (with or without food waste disposer, dishwasher, or both)	11/2	2.0	2.0	—
+Laundry2 (with or without discharge from a clothes washer)	11/2	2.0	2.0	2.0
+Service or Mop Basin	2	—	3.0	3.0
+Service or Mop Basin	3	—	3.0	3.0
+Service, flushing rim	3	—	6.0	6.0
+Wash, each set of faucets	—	—	2.0	2.0
+Nonwater Urinal with Drain Cleansing Action	2	1.0	1.0	1.0
+Urinal, integral trap 1.0 GPF2	2	2.0	2.0	5.0
+Urinal, integral trap greater than 1.0 GPF	2	2.0	2.0	6.0
+Urinal, exposed trap2	11/2	2.0	2.0	5.0
+Water Closet, 1.6 GPF Gravity Tank6	3	3.0	4.0	6.0
+Water Closet, 1.6 GPF Flushometer Tank6	3	3.0	4.0	6.0
+Water Closet, 1.6 GPF Flushometer Valve6	3	3.0	4.0	6.0
+Water Closet, greater than 1.6 GPF Gravity Tank6	3	4.0	6.0	8.0
+Water Closet, greater than 1.6 GPF Flushometer Valve6	3	4.0	6.0	8.0
+
+6.0
+
+9   For a bathtub to shower retrofit, a 1 1/2 inch (40 mm) trap and trap arm shall be permitted with a maximum shower size of 36 inches (914 mm) in width and 60 inches (1524 mm) in length. See Section 408.5 and Section 408.6.
+
+10  For drainage fixture unit values related to lots within mobilehome parks in all parts of the State of California, see California Code of Regulations, Title 25, Division 1, Chapter 2, Article 5, Section 1268. For drainage fixture unit values related to lots within special occupancy parks in all parts of the State of California, see Califonia Code of Regulations, Title 25, Division 1, Chapter 2.2, Article 5, Section 2268.
+
+SIZE OF TRAP AND
+TRAP ARM (inches)	DRAINAGE FIXTURE UNIT
+VALUES (DFU)
+11/4	1 unit
+11/2	3 units
+2	4 units
+3	6 units
+4	8 units
+
+702.2 Intermittent Flow
+GPM	FIXTURE UNITS
+Up to 71/2	Equals 1 Fixture Unit
+Greater than 71/2 to 15	Equals 2 Fixture Units
+Greater than 15 to 30	Equals 4 Fixture Units
+Greater than 30 to 50	Equals 6 Fixture Units
+
+702.3 Continuous Flow
+703.0 Size of Drainage Piping
+703.1 Minimum Size
+703.2 Maximum Number of Fixture Units
+SIZE OF PIPE (inches)	11/4	11/2	2	3	4	5	6	8	10	12
+Maximum Units										
+Drainage Piping1										
+Vertical	1	22, 7	163	484	256	600	1380	3600	5600	8400
+Horizontal	1	17	83	354	2165	4285	7205	26405	46805	82005
+Maximum Length										
+Drainage Piping										
+Vertical, (feet)	45	65	85	212	300	390	510	750	—	—
+Horizontal (unlimited)										
+Vent Piping										
+Horizontal and Vertical6										
+Maximum Units	1	83	24	84	256	600	1380	3600	—	—
+Maximum Lengths, (feet)	45	60	120	212	300	390	510	750		
+
+703.3 Sizing Per Appendix C
+704.0 Fixture Connections (Drainage)
+704.1 Inlet Fittings
+704.2 Single Vertical Drainage Pipe
+704.3 Commercial Sinks
+705.0 Joints and Connections
+705.1 ABS and ABS Co-Extruded Plastic Pipe and Joints
+705.1.1 Mechanical Joints
+705.1.2 Solvent Cement Joints
+[HCD 1 &
+HCD 2] Plastic pipe and fittings joined with solvent
+cement shall utilize Low VOC primer(s), if a primer is
+required, and Low VOC cement(s) as defined in Section
+214.0.
+
+705.1.3 Threaded Joints
+705.2 Cast-Iron Pipe and Joints
+705.2.1 Caulked Joints
+705.2.2 Mechanical Joints and Compression Joints
+705.3 Copper or Copper Alloy Pipe (DWV) and Joints
+705.3.1 Brazed Joints
+705.3.2 Mechanical Joints
+705.3.3 Soldered Joints
+705.3.4 Threaded Joints
+705.4 Galvanized Steel Pipe and Joints
+705.4.1 Mechanical Joints
+705.4.2 Threaded Joints
+705.5 Polyethylene (PE) Sewer Pipe
+705.5.1 Heat-Fusion Joints
+705.5.1.1 Butt-Fusion Joints
+705.5.1.2 Electro-Fusion Joints
+705.5.1.3 Socket-Fusion Joints
+705.6 PVC and PVC Co-Extruded Plastic Pipe and  Joining Methods
+705.6.1 Mechanical Joints
+705.6.2 Solvent Cement Joints
+[HCD 1 & HCD 2] Plastic pipe and fittings joined
+with solvent cement shall utilize Low VOC primer(s), if a
+primer is required, and Low VOC cement(s) as defined in
+Section 214.0.
+
+705.6.3 Threaded Joints
+705.7 Stainless Steel Pipe and Joints
+705.7.1 Mechanical Joints
+705.7.2 Welded Joints
+705.8 Vitrified Clay Pipe and Joints
+705.8.1 Mechanical Joints
+705.9 Special Joints
+705.9.1 Slip Joints
+705.9.2 Expansion Joints
+705.9.3 Ground Joint, Flared, or Ferrule Connections
+705.9.4 Transition Joint
+[HCD 1 & HCD 2]
+Plastic pipe and fittings joined with solvent cement shall
+utilize Low VOC primer(s), if a primer is required, and
+Low VOC cement(s) as defined in Section 214.0.
+
+705.10 Joints Between Various Materials
+705.10.1 Copper or Copper Alloy Pipe to Cast-Iron Pipe
+705.10.2 Copper or Copper Alloy Pipe to Threaded Pipe Joints
+705.10.3 Plastic Pipe to Other Materials
+705.10.4 Stainless Steel Pipe to Other Materials
+706.0 Changes in Direction of Drainage Flow
+706.1 Approved Fittings
+706.2 Horizontal to Vertical
+706.3 Horizontal to Horizontal
+706.4 Vertical to Horizontal
+707.0 Cleanouts
+707.1 Plug
+SIZE OF PIPE
+(inches)	SIZE OF CLEANOUT
+(inches)	THREADS
+(per inches)
+11/2	11/2	111/2
+2	11/2	111/2
+21/2	21/2	8
+3	21/2	8
+4 & larger	31/2	8
+
+707.2 Approved
+MATERIAL	STANDARD
+ABS1	ASTM D2661, CSA B79,
+IAPMO IGC 78, IAPMO IGC 224
+Cast Iron	ASME A112.36.2, ASTM A888,
+CISPI 301, CSA B79,
+IAPMO IGC 224
+Copper or Copper Alloy	ASME A112.36.2, CSA B79
+Ductile Iron	CSA B79
+Elastomers	CSA B79, IAPMO PS  90
+Polyethylene (PE)	CSA B79
+Polypropylene (PP)	CSA B79
+PVC1	ASTM D2665, CSA B79,
+IAPMO IGC 78, IAPMO IGC 224
+Polyvinylidene Fluoride(PVDF)	CSA B79
+Stainless Steel	CSA B79
+
+1
+
+1
+
+[HCD 1 & HCD 2] ABS and PVC installations are limited to not more than two stories of areas of residential accommodation.
+
+707.3 Watertight and Gastight
+707.4 Location
+707.5 Cleaning
+707.6 Extension
+707.7 Interceptor
+707.8 Access
+707.9 Clearance
+707.10 Fittings
+707.11 Pressure Drainage Systems
+707.12 Countersunk Cleanout Plugs
+707.13 Hubless Blind Plugs
+707.14 Trap Arms
+708.0 Grade of Horizontal Drainage Piping
+708.1 General
+709.0 Gravity Drainage Required
+709.1 General
+710.0 Drainage of Fixtures Located Below the Next Upstream Manhole or Below the Main Sewer Level
+710.1 Backflow Protection
+710.2 Sewage Discharge
+710.3 Sewage Ejector and Pumps
+[HCD 1 & HCD 2] The minimum size of any pump or any
+discharge pipe from a sump having a water closet connected
+thereto shall be not less than 2 inches (50 mm).
+
+710.4 Discharge Line
+710.5 Size of Building Drains and Sewers
+710.6 Backwater Valves
+710.7 Drainage and Venting Systems
+710.8 Sump and Receiving Tank Construction
+710.9 Alarm
+710.10 Sump and Receiving Tank Covers and Vents
+710.11 Air Tanks
+710.12 Grinder Pump Ejector
+710.12.1 Discharge Piping
+710.13 Macerating Toilet Systems and Pumped Waste Systems
+710.13.1 Sumps
+710.13.2 Discharge Piping
+710.13.3 Venting
+711.0 Suds Relief
+711.1 General
+712.0 Testing
+712.1 Media
+712.2 Water Test
+712.3 Air Test
+Part II - Building Sewers
+713.0 Sewer Required
+713.1 Where Required
+713.2 Private Sewage Disposal System
+713.3 Public Sewer
+713.4 Public Sewer Availability
+[HCD 1] For residential occupancies, the public sewer may
+be considered as not being available by the Authority Having
+Jurisdiction.
+
+713.5 Permit
+713.6 Lot
+713.7 Installation
+714.0 Damage to Public Sewer or Private Sewage Disposal System
+714.1 Unlawful Practices
+714.2 Prohibited Water Discharge
+714.3 Prohibited Sewer Connection
+714.4 Commercial Food Waste Disposer
+714.5 Tanks
+715.0 Building Sewer Materials
+715.1 Materials
+715.2 Joining Methods and Materials
+715.3 Existing Sewers
+716.0 Markings
+716.1 General
+717.0 Size of Building Sewers
+717.1 General
+SIZE OF PIPE
+(inches)	SLOPE,
+(inches per foot)
+1/16	1/8	1/4
+6 and smaller	(As specified in Table 703.2/
+No minimum loading)
+8	1950/1500	2800/625	3900/275
+10	3400/1600	4900/675	6800/300
+12	5600/1700	8000/725	11 200/325
+
+717.2 [AGR] Meat and Poultry Processing Plants
+The
+sewer system shall have the capacity to remove all waste from
+the various processing and cleaning operations and to minimize
+or prevent stoppage and surcharging at the system.
+
+718.0 Grade, Support, and Protection of Building Sewers
+718.1 Slope
+718.2 Support
+718.3 Protection From Damage
+719.0 Cleanouts
+719.1 Locations
+719.2 No Additional Cleanouts
+719.3 Building Sewer Cleanouts
+719.4 Cleaning
+719.5 Access
+719.6 Manholes
+720.0 Sewer and Water Pipes
+720.1 General
+721.0 Location
+721.1 Building Sewer
+Buildings or structures1	2
+Property line adjoining private property	Clear2
+Water supply wells	503
+Streams	50
+On-site domestic water service line	14
+Public water main	105, 6
+
+721.2 Abutting Lot
+722.0 Abandoned Sewers and Sewage Disposal Facilities
+722.1 Building (House) Sewer
+722.2 Cesspools, Septic Tanks, and Seepage Pits
+722.3 Filling
+722.4 Ownership
+722.5 Disposal Facilities
+723.0 Building Sewer Test
+723.1 General
+724.0 [AGR] Meat and Poultry Processing Plant Drainage
+724.1
+The drainage and plumbing systems must permit the
+quick runoff of all water from plant buildings, and of surface
+water around the plant buildings, and of surface water around
+the plant and on the premises; and all such water shall be disposed
+of in such a manner as to prevent a nuisance or health
+hazard.
+
+724.2
+Toilet soil lines shall be separated from house drainage
+lines to a point outside the building unless an automatic backwater
+check valve is installed to prevent backflow. Drainage
+from toilet bowls and urinals shall not be discharged into a
+grease catch basin, nor shall such drainage be permitted to
+enter the sewer lines at a point where there might be a possibility
+of such drainage backing up and flooding the floor of
+the building.
+
+725.0 [AGR] Collection Center and Facilities Drainage
+Drainage and plumbing systems shall meet the
+requirements of Section 724.1.
+
+726.0 [AGR] Drainage and Plumbing, General
+726.1
+The outer premises of every official establishment,
+including docks, areas where cars and other vehicles are
+loaded, driveways, approaches, yards, pens and alleys, shall
+be drained.
+
+726.2
+Toilet soil lines shall be separated from house drainage
+lines to a point outside the building, and drainage from toilet
+bowls and urinals shall not be discharged into a grease catch
+basin.
+
+727.0 [OSHPD 1] Emergency Sanitary Drainage
+727.1
+For new acute care hospital buildings submitted after
+the effective date of this code, the hospital shall have an on-site
+holding tank[s] to store sewage and liquid waste sufficient
+to operate essential hospital utilities and equipment in the acute
+care hospital building, to support 72 hours of continuing operation
+in the event of an emergency. Any general acute care hospital
+in operation after January 1, 2030 shall have an on-site
+holding tank[s] to store sewage and liquid waste sufficient to
+operate essential hospital utilities and equipment in the acute
+care hospital buildings on the campus with an SPC-3, SPC-4,
+or SPC-5 rating, to support 72 hours of continuing operation
+in the event of an emergency. The emergency waste holding
+capacity shall be based on the Water Conservation/Water
+Rationing Plan required in Section 615.4.1. See also California
+Building Code, Part 2, Section 1616A.1.42.
+
+Exception: Hook-ups that allow for the use of transportable
+means of sewage and liquid waste disposal may be provided
+instead of on-site storage if the hospital has a plan for storage
+of sewage and liquid waste. This plan may include the
+use of leak-proof bags if adequate storage of these and other
+bags of waste are provided. These storage facilities shall comply
+with the appropriate local health and environmental
+authorities' requirements, California Department of Public
+Health requirements for medical waste management, and
+comply with the following minimum requirements:
+
+Location[s]. Location[s] shall be provided for waste collection
+and storage with sufficient space based upon the
+volume of projected waste and length of anticipated storage.
+
+Enclosure[s]. Lockable room[s] or lockable screened
+enclosure[s] of adequate capacity to store the quantity
+of waste anticipated shall be provided for the washing
+and cleaning of containers and for the storage of sewage
+and waste water.
+
+
+
+
+     The room[s] or screened enclosure[s] shall include
+the following:
+
+Floor and curb. A sealed concrete floor or other
+approved impervious flooring with a curb and with
+a drain connected to the sewer.
+
+Water. Steam or hot water and cold water supplies in
+accordance with the California Plumbing Code.
+

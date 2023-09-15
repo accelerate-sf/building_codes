@@ -1,0 +1,16 @@
+CHAPTER 12-31C RADIATION SHIELDING STANDARDS
+
+STANDARD 12-31C-1
+
+DEPARTMENT OF HEALTH SERVICES
+
+Authority: Sections 102, 208 and 25811.
+
+Reference: Sections 102, 208 and 436.5.
+
+ALL HEALING ARTS X-RAY INSTALLATIONS
+
+Sec. 12-31C-101.
+
+All radiation shielding barriers in rooms and enclosures housing radiation machines shall comply with the mandatory standards and appendices in Report No. 35, “DentalX-RAY Protection”; Report 49, “Structural Shielding Design and Evaluation for Medical use of X-rays and Gamma Rays of Energies up to 10 MeV”; and Report No. 51, “Radiation Protection Design Guidelines for 0.1-100 MeV Particle Accelerator Facilities.” Published by the National Council on Radiation Protection and Measurements, 7910 Woodmont Avenue, Bethesda, Maryland 20814.
+

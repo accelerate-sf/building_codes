@@ -1,0 +1,97 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX F – HAZARD RANKING
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX F HAZARD RANKING
+
+The provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance or legislation of the jurisdiction.
+
+User note:
+
+About this appendix: Appendix F is intended to be a companion to the specific requirements of Chapters 51 through 67, which regulate the storage, handling and use of all hazardous materials classified as either physical or health hazards. These materials pose diverse hazards, including instability, reactivity, flammability, oxidizing potential or toxicity; therefore, identifying them by hazard ranking is essential. This appendix lists the various hazardous material categories that are defined in this code, along with the NFPA 704 hazard ranking for each.
+
+SECTION F101 GENERAL
+
+F101.1 Scope.
+
+Assignment of levels of hazards to be applied to specific hazard classes as required by NFPA 704 shall be in accordance with this appendix. The appendix is based on application of the degrees of hazard as defined in NFPA 704 arranged by hazard class as for specific categories defined in Chapter 2 of the California Fire Code and used throughout.
+
+F101.2 General.
+
+The hazard rankings shown in Table F101.2 have been established by using guidelines found within NFPA 704. As noted in Section 4.2 of NFPA 704, there could be specific reasons to alter the degree of hazard assigned to a specific material; for example, ignition temperature, flammable range or susceptibility of a container to rupture by an internal combustion explosion or to metal failure while under pressure or because of heat from external fire. As a result, the degree of hazard assigned for the same material can vary when assessed by different people of equal competence.
+
+The hazard rankings assigned to each class represent reasonable minimum hazard levels for a given class based on the use of criteria established by NFPA 704. Specific cases of use or storage may dictate the use of higher degrees of hazard in certain cases.
+
+TABLE F101.2
+
+FIRE FIGHTER WARNING PLACARD DESIGNATIONS BASED ON HAZARD CLASSIFICATION CATEGORIES
+
+HAZARD CATEGORY	DESIGNATION
+Combustible liquid II	F2
+Combustible liquid IIIA	F2
+Combustible liquid IIIB	F1
+Combustible dust	F3 or F2a
+Combustible fiber	F3
+Cryogenic flammable	F4, H3
+Cryogenic oxidizing	OX, H3
+Explosive	R4
+Flammable solid	F2
+Flammable gas (gaseous)	F4
+Flammable gas (liquefied)	F4
+Flammable liquid IA	F4
+Flammable liquid IB	F3
+Flammable liquid IC	F3
+Organic peroxide, UD	R4
+Organic peroxide I	F4, R3
+Organic peroxide II	F3, R3
+Organic peroxide III	F2, R2
+Organic peroxide IV	F1, R1
+Organic peroxide V	None
+Oxidizing gas (gaseous)	OX
+Oxidizing gas (liquefied)	OX
+Oxidizer 4	OX4
+Oxidizer 3	OX3
+Oxidizer 2	OX2
+Oxidizer 1	OX1
+Pyrophoric gases	F4
+Pyrophoric solids, liquids	F3
+Unstable reactive 4D	R4
+Unstable reactive 3D	R4
+Unstable reactive 3N	R2
+Unstable reactive 2	R2
+Unstable reactive 1	None
+Water reactive 3	W3
+Water reactive 2	W2
+Corrosive	H3, COR
+Toxic	H3
+Highly toxic	H4a.F3 = Finely divided solids, typically less than 75 micrometers (μm) (200 mesh), that pose an elevated risk of forming an ignitable dust cloud, such as finely
+divided sulfur, NFPA 70 Group E dusts (for example, aluminum, zirconium and titanium) and bisphenol A. F2 = Finely divided solids less than 420 μm (40
+mesh) that pose an ordinary risk of forming an ignitable dust cloud.
+
+F—Flammable category.	COR—Corrosive.
+R—Reactive category.	UD—Unclassified detonable material.
+H—Health category.	4D—Class 4 detonable material.
+W—Special hazard: water reactive.	3D—Class 3 detonable material.
+OX—Special hazard: oxidizing properties.	3N—Class 3 nondetonable material.SECTION F102 REFERENCED STANDARDS
+
+F102.1 General.
+
+See Table F102.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE F102.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+NFPA 70—20	National Electrical Code	Table F101.2
+NFPA 704—17	Identification of the Hazards of Materials for Emergency Response	F101.1, F101.2

@@ -1,0 +1,146 @@
+CALIFORNIA EXISTING BUILDING CODE – MATRIX ADOPTION TABLECHAPTER 4A – REPAIRS [OSHPD 1]
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD		BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter										X													
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							The state agency does not adopt sections identified with the following symbol: †
+
+The Office of the State Fire Marshal’s adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+CHAPTER 4A A REPAIRS
+
+User note:
+
+About this chapter: Chapter 4 provides requirements for repairs of existing buildings. The provisions define conditions under which repairs may be made using materials and methods like those of the original construction or the extent to which repairs must comply with requirements for new buildings.
+
+SECTION 401A A GENERAL
+
+401A.1 A Scope.
+
+Repairs shall comply with the requirements of this chapter. The provisions of this chapter shall apply to existing structures for applications listed in Section 1.10.1 [OSHPD 1] regulated by the Office of Statewide Health Planning and Development (OSHPD).
+
+401A.1.1 A Bleachers, grandstands and folding and telescopic seating.
+
+Repairs to existing bleachers, grandstands and folding and telescopic seating shall comply with ICC 300.
+
+401A.2 A Compliance.
+
+The work shall not make the building less complying than it was before the repair was undertaken.
+
+[BS] 401A.3 A Flood hazard areas.
+
+For buildings and structures in flood hazard areas established in California Building Code Section 1612A.3, any repair that constitutes substantial improvement of the existing structure, as defined in Chapter 2 shall comply with the flood design requirements for new construction, and all aspects of the existing structure shall be brought into compliance with the requirements for new construction for flood design.
+
+For buildings and structures in flood hazard areas established in California Building Code Section 1612A.3, any  repairs that do not constitute substantial improvement or repair of substantial damage of the existing structure, as defined in Chapter 2, are not required to comply with the flood design requirements for new construction.
+
+SECTION 402A A BUILDING ELEMENTS AND MATERIALS
+
+402A.1 A Glass replacement. Glass replacement.
+
+The installation or replacement of glass shall be as required for new installations in accordance with the California Building Code.
+
+SECTION 403A A FIRE PROTECTION
+
+403A.1 A General.
+
+Fire protection shall comply with the California Building Standards Code.
+
+SECTION 404A A MEANS OF EGRESS
+
+404A.1 A General.
+
+Repairs shall be done in a manner that maintains the level of protection provided for the means of egress.
+
+SECTION 405A A STRUCTURAL
+
+[BS] 405A.1 A General.
+
+Buildings and structures, and parts thereof, shall be repaired in conformance with Section 405A.2. Work on nondamaged components that is necessary for the required repair of damaged components shall be considered part of the repair and shall not be subject to the requirements for alterations in Chapter 5A. Routine maintenance required by Chapter 3A, ordinary repairs exempt from permit in accordance with California Building Code Section 105.2, and abatement of wear due to normal service conditions shall not be subject to the requirements for repairs in this section.
+
+[BS] 405A.2 A Repairs to damaged buildings.
+
+Repairs to damaged buildings shall comply with this section.
+
+[BS] 405A.2.1 A Repairs for less than substantial structural damage.
+
+For damage less than substantial structural damage, repairs shall be allowed that restore the building to its predamage state. New structural members and connections used for this repair shall comply with the detailing provisions of this code for new buildings of similar structure, purpose and location.
+
+[BS] 405A.2.1.1 A Snow damage.
+
+Structural components whose damage was caused by or related to snow load effects shall be repaired, replaced or altered to satisfy the requirements of Section 1608 of the California Building Code.
+
+[BS] 405A.2.2 A Disproportionate earthquake damage.
+
+A building assigned to Seismic Design Category D, E or F that has sustained disproportionate earthquake damage shall be subject to the requirements for buildings with substantial structural damage to vertical elements of the lateral force-resisting system.
+
+[BS] 405A.2.3 A Substantial structural damage to vertical elements of the lateral force-resisting system.
+
+A building  that has sustained substantial structural damage to the vertical elements of its lateral force-resisting system shall be evaluated and repaired in accordance with the applicable provisions of Sections 405A.2.3.1 through 405A.2.3.3.
+
+[BS] 405A.2.3.1 A Evaluation.
+
+The building shall be  evaluated by a registered design professional, and the evaluation findings shall be submitted to the building official. The evaluation shall establish whether the damaged building, if repaired to its predamage state, would comply with the provisions of this code for wind and earthquake loads. Wind loads for this evaluation shall be those prescribed in California Building Code Section 1609A. Earthquake loads for this evaluation, if required, shall be permitted to be 75 percent of those prescribed in California Building Code Section 1613A. Alternatively, where the earthquake damage has not resulted in disproportionate earthquake damage or did not result in collapse, the earthquake load evaluation shall be permitted to be performed in accordance with Section 304A.3.4.4 for SPC-2 buildings and Section 304A.3.4.5 for buildings rated SPC-3, SPC-4D and SPC-4. SPC-5 buildings shall be evaluated in accordance with Section 304A.3.4.6, except that the seismic hazard may be reduced to BSE-1E and BSE-2E.
+
+[BS] 405A.2.3.2 A Extent of repair for compliant buildings.
+
+If the evaluation establishes that the building in its predamage condition complies with the provisions of Section 405.2.3.1, then the damaged elements shall be permitted to be restored to their predamage condition.
+
+[BS] 405A.2.3.3 A Extent of repair for noncompliant buildings.
+
+If the evaluation does not establish compliance of the predamage building in accordance with Section 405A2.3.1, then the building shall be rehabilitated to comply with applicable provisions of this code for load combinations, including wind or seismic loads. The wind loads for the repair shall be as required by the building code in effect at the time of original construction, unless the damage was caused by wind, in which case the wind loads shall be as required by this code. Earthquake loads for this rehabilitation design shall be those required for the design of the predamage building, but not less than 90 percent of those prescribed in California Building Code Section 1613A. Alternatively, where the earthquake damage has not resulted in disproportionate earthquake damage or did not result in collapse, the rehabilitation design shall be permitted to be performed in accordance with Section 304A.3.4.4 for SPC-2 buildings, Section 304A.3.4.5 for SPC-3, SPC-4D and SPC-4 buildings and Section 304A.3.4.6 for SPC-5 buildings. For SPC-5 buildings, the seismic hazard may be reduced to BSE-1E and BSE-2E. Use of Section 304A.3.4.5 to rehabilitate SPC-3, SPC-4D and SPC-4 buildings will result in re-classification of the building to SPC-4D. Noncompliant SPC-4 buildings may be rehabilitated to SPC-5 in accordance with Section 304A.3.4.6 using the reduced seismic hazard. New structural members and connections required by this rehabilitation design shall comply with the detailing provisions of this code for new buildings of similar structure, purpose and location.
+
+[BS] 405A.2.4 A Substantial structural damage to gravity load-carrying components.
+
+Gravity load-carrying components that have sustained substantial structural damage shall be rehabilitated to comply with the applicable provisions of this code for dead and live loads. Snow loads shall be considered if the substantial structural damage was caused by or related to snow load effects. Existing gravity load-carrying structural elements shall be permitted to be designed for live loads approved prior to the damage. If the approved live load is less than that required by California Building Code Section 1607A, the area designed for the nonconforming live load shall be posted with placards of approved design, indicating the approved live load. Nondamaged gravity load-carrying components that receive dead, live or snow loads from rehabilitated components shall also be rehabilitated or shown to have the capacity to carry the design loads of the rehabilitation design. New structural members and connections required by this rehabilitation design shall comply with the detailing provisions of this code for new buildings of similar structure, purpose and location.
+
+[BS] 405A.2.4.1 A Lateral force-resisting elements.
+
+Regardless of the level of damage to vertical elements of the lateral force-resisting system, if substantial structural damage to gravity load-carrying components was caused primarily by wind or seismic effects, then the building shall be evaluated in accordance with Section 405A.2.3.1 and, if noncompliant, rehabilitated in accordance with Section 405A.2.3.3.
+
+
+
+[BS] 405A.2.5 A Substantial structural damage to snow load-carrying components.
+
+Where substantial structural damage to any snow load-carrying components is caused by or related to snow load effects, any components required to carry snow loads on roof framing of similar construction shall be repaired, replaced or retrofitted to satisfy the requirements of Section 1608 of the California Building Code.
+
+[BS] 405A.2.6 A Flood hazard areas.
+
+For buildings and structures in flood hazard areas established in Section 1612A.3, any repair that constitutes substantial improvement of the existing structure, as defined in Chapter 2, shall comply with the flood design requirements for new construction, and all aspects of the existing structure shall be brought into compliance with the requirements for new construction for flood design.
+
+For buildings and structures in flood hazard areas established in California Building Code Section 1612A.3, any repairs that do not constitute substantial improvement or repair of substantial damage of the existing structure, as defined in Chapter 2, are not required to comply with the flood design requirements for new construction.
+
+SECTION 406A A ELECTRICAL
+
+406A.1 A General. General.
+
+Existing electrical wiring and equipment undergoing repair shall be in accordance with Title 24 Part 3 California Electrical Code (CEC).
+
+SECTION 407A A MECHANICAL
+
+407A.1 A General.
+
+Existing mechanical systems undergoing repair shall not make the building less complying than it was before the damaged occurred.
+
+
+
+SECTION 408A A PLUMBING
+
+408A.1 A Materials.
+
+Plumbing materials and supplies shall not be used for repairs that are prohibited in the Title 24 Part 5 California Plumbing Code (CPC).
+
+408A.2 A Water closet replacement.
+
+The maximum water consumption flow rates and quantities for all replaced water closets shall be 1.28 gallons (4.8 L) per flushing cycle.
+
+Exception:  Blowout-design water closets [3.5 gallons (13 L) per flushing cycle].
+
+408A.3 A Health care facilities.
+
+Portions of medical gas systems being repaired in Group I-2, ambulatory care facilities and outpatient clinics shall comply with NFPA 99 requirements for repairs.
+

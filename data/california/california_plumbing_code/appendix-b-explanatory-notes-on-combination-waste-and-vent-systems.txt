@@ -1,0 +1,24 @@
+Appendix B Explanatory Notes on Combination Waste and Vent Systems
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency, or referenced in the adopting ordinance.
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X							X	X	X	X	X	X	X	X								
+Adopt Entire Chapter asamended (amended sectionslisted below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified by the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+B101.0 General
+B101.1 Applicability
+B101.2 General Requirements
+B101.3 Caution
+B101.4 Pneumatics
+B101.5 Trap Sizes
+B101.6 Layout Drawings
+B101.6.1 Example of Sizing

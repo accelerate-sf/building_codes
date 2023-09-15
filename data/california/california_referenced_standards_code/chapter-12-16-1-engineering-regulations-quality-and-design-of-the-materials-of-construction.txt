@@ -1,0 +1,20 @@
+CHAPTER 12-16-1 ENGINEERING REGULATIONS—QUALITY AND DESIGN OF THE MATERIALS OF CONSTRUCTION
+
+STANDARD 12-16-1CALIFORNIA STANDARD FOR EARTHQUAKE-ACTUATED AUTOMATIC GAS SHUTOFF SYSTEMS(See CCR Title 24, Part 2, Chapters 16 and 16A, and CCR Title 24, Part 5, Chapter 12)
+
+DIVISION OF THE STATE ARCHITECT
+
+Authority: Sections 19180–19183, Health and Safety Code.
+
+Reference: Section 19182, Health and Safety Code.
+
+Division 1 —CONSTRUCTION SCOPE
+
+Sec. 12-16-101.
+
+The American Society of Civil Engineers (ASCE) requirements for “Earthquake-Actuated Automatic Gas Shutoff Devices,” ANSI/ASCE/SEI 25-16 (copyright 2016 by ASCE), shall be the applicable standard used by the Division of the State Architect for the certification of these devices.
+
+Sec. 12-16-101.1.
+
+Each installation of a customer-owned device that satisfies this standard shall be in accordance with the California Plumbing Code (CCR Title 24, Part 5).
+

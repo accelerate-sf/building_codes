@@ -1,0 +1,529 @@
+Introduction
+
+Article 89 General Code Provisions
+General Code Provisions
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH	CEC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5		
+Adopt Entire Article																	
+Adopt entire Article as amended (amended sections listed below)																	
+Adopt only those sections that are listed below	X		X	X	X	X	X	X	X	X	X	X	X	X	X	X	X
+Article/Section
+89.101	X		X	X	X	X		X	X	X	X	X	X	X	X	X	X
+89.101.8.2	X																
+89.102	X																
+89.107																X	
+89.108				X	X	X											
+89.109							X										
+89.109.1							X										
+89.109.2								X	X								
+89.110.1										X	X						
+89.110.2												X					
+89.110.3													X				
+89.110.4														X			
+89.110.5															X		
+89.111			X														
+
+89.101
+
+89.101.8.2
+
+89.102
+
+89.107
+
+89.108
+
+89.109
+
+89.109.1
+
+89.109.2
+
+89.110.1
+
+89.110.2
+
+89.110.3
+
+89.110.4
+
+89.110.5
+
+89.111
+
+Section 89.101 General
+General
+
+89.101.1 Title
+Title
+
+89.101.2 Purpose
+Purpose
+
+89.101.3 Scope
+Scope
+
+89.101.3.1 Nonstate-Regulated Buildings, Structures, and Applications
+Nonstate-Regulated Buildings, Structures, and Applications
+
+89.101.3.2 State-Regulated Buildings, Structures, and Applications
+State-Regulated Buildings, Structures, and Applications
+
+The model code, state amendments to the model code, and/or state amendments where there are no relevant model code provisions shall apply to the following buildings, structures, and applications regulated by state agencies and as specified in Sections 89.102 through 89.114, except where modified by local ordinance pursuant to Section 89.101.8. When adopted by a state agency, the provisions of this code shall be enforced by the appropriate enforcing agency, but only to the extent of authority granted to such agency by the state legislature.
+
+Note: See "How to Distinguish Between Model Code Language and California Amendments" in the front of the code.
+
+89.101.3.3 Exempted From This Code
+Exempted From This Code
+
+This code does not cover:
+
+89.101.4 Annexes
+Annexes
+
+89.101.5 Referenced Codes
+Referenced Codes
+
+89.101.6 Non-Building Standards, Orders and Regulations
+Non-Building Standards, Orders and Regulations
+
+89.101.7 Order of Precedence and Use
+Order of Precedence and Use
+
+89.101.7.1 Differences
+Differences
+
+89.101.7.2 Specific Provisions
+Specific Provisions
+
+89.101.7.3 Conflicts
+Conflicts
+
+89.101.7.3.1 Detached One- And Two-Family Dwellings
+Detached One- And Two-Family Dwellings
+
+Detached one- and two-family dwellings, lodging houses, live/work units, townhouses not more than three stories above grade plane in height with a separate means of egress, and their accessory structures, may be designed and constructed in accordance with the California Building Code or the California Residential Code, but not both, unless the proposed structure(s) or element(s) exceed the design limitations established in the California Residential Code, and the code user is specifically directed by the California Residential Code to use the California Building Code.
+
+89.101.8 City, County, or City and County Amendments, Additions or Deletions
+City, County, or City and County Amendments, Additions or Deletions
+
+Local modifications shall comply with Health and Safety Code Section 18941.5 for Building Standards Law, Health and Safety Code Section 17958 for State Housing Law or Health and Safety Code Section 13869.7 for Fire Protection Districts.
+
+89.101.8.1 Findings and Filings
+Findings and Filings
+
+89.101.8.2 California Energy Code Requirements for Locally Adopted Energy Standards
+California Energy Code Requirements for Locally Adopted Energy Standards
+
+In addition to the provisions of Section 89.101.8.1 of this part, local jurisdictions that adopt changes to energy conservation or insulation standards (including energy efficiency measures) may not enforce such changes until the California Energy Commission has made the findings required by Public Resources Code Section 25402.1(h)(2), following the process specified in Section 10-106 of the California Administrative Code.
+
+89.101.9 Effective Date of This Code
+Effective Date of This Code
+
+89.101.10 Availability of Codes
+Availability of Codes
+
+89.101.11 Format
+Format
+
+89.101.12 Validity
+Validity
+
+If any chapter, article, section, subsection, sentence, clause, or phrase of this code is for any reason held to be unconstitutional, contrary to statute, exceeding the authority of the state as stipulated by statutes, or otherwise inoperative, such decision shall not affect the validity of the remaining portion of this code.
+
+Section 89.102 Building Standards Commission
+Building Standards Commission
+
+89.102.1
+89.102.1.1 State Building
+State Building
+
+89.102.1.2 Enforcement
+Enforcement
+
+89.102.1.3 Enforcement, Reserved for DGS
+Enforcement, Reserved for DGS
+
+89.102.1.4 Adopting Agency Identification
+Adopting Agency Identification
+
+89.102.2 BSC-CG
+BSC-CG
+
+89.102.2.1 Green Buildings Standards for Nonresidential Occupancies
+Green Buildings Standards for Nonresidential Occupancies
+
+89.102.2.2 Graywater Systems for Nonresidential Occupancies
+Graywater Systems for Nonresidential Occupancies
+
+89.102.2.3 Adopting Agency Identification
+Adopting Agency Identification
+
+89.102.3 Alternative Materials, Design and Methods of Construction and Equipment
+Alternative Materials, Design and Methods of Construction and Equipment
+
+89.102.3.1 Research Reports
+Research Reports
+
+89.102.3.2 Tests
+Tests
+
+Section 89.103 Reserved for Board of State and Community Corrections
+Reserved for Board of State and Community Corrections
+
+Section 89.104 Reserved for the Department of Consumer Affairs
+Reserved for the Department of Consumer Affairs
+
+Section 89.105 Reserved for the California Energy Commission
+Reserved for the California Energy Commission
+
+Section 89.106 Reserved for the Department of Food
+Reserved for the Department of Food
+
+Section 89.107 California Department of Public Health
+California Department of Public Health
+
+89.107
+Section 89.108 Department of Housing and Community Development
+Department of Housing and Community Development
+
+89.108.1 Purpose
+Purpose
+
+89.108.2 Authority and Abbreviations
+Authority and Abbreviations
+
+89.108.2.1 General
+General
+
+89.108.2.1.1 Housing Construction
+Housing Construction
+
+89.108.2.1.2 Housing Accessibility
+Housing Accessibility
+
+89.108.2.1.3 Permanent Buildings in Mobilehome Parks and Special Occupancy Parks
+Permanent Buildings in Mobilehome Parks and Special Occupancy Parks
+
+89.108.3 Local Enforcing Agency
+Local Enforcing Agency
+
+89.108.3.1 Duties and Powers
+Duties and Powers
+
+89.108.3.2 Laws, Rules, and Regulations
+Laws, Rules, and Regulations
+
+89.108.3.2.1 State Housing Law
+State Housing Law
+
+89.108.3.2.2 Mobilehome Parks Act
+Mobilehome Parks Act
+
+89.108.3.2.3 Special Occupancy Parks Act
+Special Occupancy Parks Act
+
+89.108.3.2.4 Employee Housing Act
+Employee Housing Act
+
+89.108.3.2.5 Factory-Built Housing Law
+Factory-Built Housing Law
+
+89.108.4 Permits, Fees, Applications and Inspections
+Permits, Fees, Applications and Inspections
+
+89.108.4.1 Permits
+Permits
+
+89.108.4.2 Fees
+Fees
+
+89.108.4.3 Plan Review and Time Limitations
+Plan Review and Time Limitations
+
+89.108.4.3.1 Retention of Plans
+Retention of Plans
+
+89.108.4.4 Inspections
+Inspections
+
+89.108.5 Right of Entry for Enforcement
+Right of Entry for Enforcement
+
+89.108.5.1 General
+General
+
+89.108.6 Local Modification by Ordinance or Regulation
+Local Modification by Ordinance or Regulation
+
+89.108.6.1 General
+General
+
+89.108.6.2 Findings, Filings, and Rejections of Local Modifications
+Findings, Filings, and Rejections of Local Modifications
+
+89.108.7 Alternate Materials, Designs, Tests and Methods of Construction
+Alternate Materials, Designs, Tests and Methods of Construction
+
+89.108.7.1 General
+General
+
+89.108.7.2 Local Building Departments
+Local Building Departments
+
+89.108.7.2.1 Approval of Alternates
+Approval of Alternates
+
+89.108.7.3 Department of Housing and Community Development
+Department of Housing and Community Development
+
+89.108.8 Appeals Board
+Appeals Board
+
+89.108.8.1 General
+General
+
+89.108.8.2 Definitions
+Definitions
+
+89.108.8.3 Appeals
+Appeals
+
+89.108.9 Unsafe Buildings or Structures
+Unsafe Buildings or Structures
+
+89.108.9.1 Authority to Enforce
+Authority to Enforce
+
+89.108.9.2 Actions and Proceedings
+Actions and Proceedings
+
+89.108.10 Other Building Regulations
+Other Building Regulations
+
+89.108.10.1 Existing Structures
+Existing Structures
+
+89.108.10.2 Moved Structures
+Moved Structures
+
+Section 89.109 Division of the State Architect
+Division of the State Architect
+
+89.109.1 DSA-AC — Division of the State Architect — Access Compliance
+DSA-AC — Division of the State Architect — Access Compliance
+
+89.109.2 DSA-SS — Division of the State Architect — Structural Safety
+DSA-SS — Division of the State Architect — Structural Safety
+
+89.109.2.1 DSA-SS (Division of the State Architect — Structural Safety)
+DSA-SS (Division of the State Architect — Structural Safety)
+
+89.109.2.2 DSA-SS/CC (Division of the State Architect — Structural Safety/Community Colleges)
+DSA-SS/CC (Division of the State Architect — Structural Safety/Community Colleges)
+
+89.109.3 SHB — State Historical Building Safety Board
+SHB — State Historical Building Safety Board
+
+Section 89.110 Office of Statewide Health Planning and Development
+Office of Statewide Health Planning and Development
+
+89.110.1 OSHPD 1 and OSHPD 1R
+OSHPD 1 and OSHPD 1R
+
+89.110.1.1 Applicable Administrative Standards
+Applicable Administrative Standards
+
+89.110.1.2 Applicable Building Standards
+Applicable Building Standards
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 6, 9, 10 and 11.
+
+89.110.2 OSHPD 2
+OSHPD 2
+
+89.110.2.1 Applicable Administrative Standards
+Applicable Administrative Standards
+
+89.110.2.2 Applicable Building Standards
+Applicable Building Standards
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 6, 9, 10 and 11.
+
+89.110.3 OSHPD 3
+OSHPD 3
+
+89.110.3.1 Applicable Administrative Standards
+Applicable Administrative Standards
+
+89.110.3.2 Applicable Building Standards
+Applicable Building Standards
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 6, 9, 10 and 11.
+
+89.110.4 OSHPD 4
+OSHPD 4
+
+89.110.4.1 Applicable Administrative Standards
+Applicable Administrative Standards
+
+89.110.4.2 Applicable Building Standards
+Applicable Building Standards
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 9, 10 and 11.
+
+89.110.5 OSHPD 5
+OSHPD 5
+
+89.110.5.1 Applicable Administrative Standards
+Applicable Administrative Standards
+
+89.110.5.2 Applicable Building Standards
+Applicable Building Standards
+
+California Building Standards Code, Title 24, Parts 2, 3, 4, 5, 6, 9, 10 and 11.
+
+Section 89.111 Office of the State Fire Marshal
+Office of the State Fire Marshal
+
+89.111.1 SFM-Office of the State Fire Marshal
+SFM-Office of the State Fire Marshal
+
+89.111.2 Duties and Powers of the Enforcing Agency
+Duties and Powers of the Enforcing Agency
+
+89.111.2.1 Enforcement
+Enforcement
+
+89.111.2.1.1
+89.111.2.1.2
+89.111.2.1.3
+89.111.2.2 Right of Entry
+89.111.2.3 More Restrictive Fire and Panic Safety Building Standards
+More Restrictive Fire and Panic Safety Building Standards
+
+89.111.2.3.1
+89.111.2.3.2
+89.111.2.3.3
+89.111.2.4 Request for Alternate Means of Protection
+Request for Alternate Means of Protection
+
+89.111.2.5 Appeals
+Appeals
+
+89.111.3 Construction Documents
+Construction Documents
+
+89.111.3.1 Public Schools
+Public Schools
+
+89.111.3.2 Movable Walls and Partitions
+Movable Walls and Partitions
+
+89.111.3.3 New Construction High-Rise Buildings
+New Construction High-Rise Buildings
+
+89.111.3.4 Existing High-Rise Buildings
+Existing High-Rise Buildings
+
+89.111.3.5 Retention of Plans
+Retention of Plans
+
+89.111.4 Fees
+Fees
+
+89.111.4.1 Other Fees
+Other Fees
+
+89.111.4.2 Large Family Day Care
+Large Family Day Care
+
+89.111.4.4 Fire Clearance Preinspection
+Fire Clearance Preinspection
+
+89.111.4.5 Care Facilities
+Care Facilities
+
+89.111.4.6 Requests of the Office of the State Fire Marshal
+Requests of the Office of the State Fire Marshal
+
+89.111.5 Inspections
+Inspections
+
+89.111.5.1 Existing Group I-1 or R Occupancies
+Existing Group I-1 or R Occupancies
+
+89.111.6 Certificate of Occupancy
+Certificate of Occupancy
+
+89.111.7 Temporary Structures and Uses
+Temporary Structures and Uses
+
+See Title 24, Part 2, California Building Code, Section 108.
+
+89.111.8 Service Utilities
+Service Utilities
+
+See Title 24, Part 2, California Building Code Section 112.
+
+89.111.9 Stop Work Order
+Stop Work Order
+
+See Title 24, Part 2, California Building Code, Section 115.
+
+89.111.10 Unsafe Buildings, Structures and Equipment
+Unsafe Buildings, Structures and Equipment
+
+See Title 24, Part 2, California Building Code, Section 116.
+
+Section 89.112 Reserved for the State Librarian
+Reserved for the State Librarian
+
+Section 89.113 Reserved for the Department of Water Resources
+Reserved for the Department of Water Resources
+
+Section 89.114 Reserved for the California State Lands Commission
+Reserved for the California State Lands Commission
+
+Article 90 Introduction
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X				X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)				X	X										
+Adopt only those sections that are listed below															
+Article/Section
+Coordination (Selective)															
+90.2(B)(1)				X	X										
+
+90.2(B)(1)
+
+90.1 Purpose
+(A) Practical Safeguarding
+(B) Adequacy
+(C) Relation to Other International Standards
+90.2 Scope
+(A) Covered
+(B) Not Covered
+(C) Special Permission
+90.3 Code Arrangement
+90.4 Enforcement
+90.5 Mandatory Rules, Permissive Rules, and Explanatory Material
+(A) Mandatory Rules
+(B) Permissive Rules
+(C) Explanatory Material
+(D) Informative Annexes
+90.6 Formal Interpretations
+90.7 Examination of Equipment for Safety
+90.8 Wiring Planning
+(A) Future Expansion and Convenience
+(B) Number of Circuits in Enclosures
+90.9 Units of Measurement
+(A) Measurement System of Preference
+(B) Dual System of Units
+(C) Permitted Uses of Soft Conversion
+(1) Trade Sizes
+(2) Extracted Material
+(3) Industry Practice
+(4) Safety
+(D) Compliance

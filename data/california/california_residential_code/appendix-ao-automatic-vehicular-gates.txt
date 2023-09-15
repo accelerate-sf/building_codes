@@ -1,0 +1,58 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLEAPPENDIX AO – AUTOMATIC VEHICULAR GATES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AO AUTOMATIC VEHICULAR GATES
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Appendix AO provides requirements for automatic vehicular gates, including a definition of and references to standards that regulate such gates.
+
+SECTION AO101 GENERAL
+
+AO101.1 General.
+
+The provisions of this appendix shall control the design and construction of automatic vehicular gates installed on the lot of a one- or two-family dwelling.
+
+SECTION AO102 DEFINITION
+
+AO102.1 General.
+
+The following term shall, for the purposes of this appendix, have the meaning shown herein.
+
+VEHICULAR GATE. A gate that is intended for use at a vehicular entrance or exit to the lot of a one- or two-family dwelling, and that is not intended for use by pedestrian traffic.
+
+SECTION AO103 AUTOMATIC VEHICULAR GATES
+
+AO103.1 Vehicular gates intended for automation.
+
+Vehicular gates intended for automation shall be designed, constructed and installed to comply with the requirements of ASTM F2200.
+
+AO103.2 Vehicular gate openers.
+
+Vehicular gate openers, where provided, shall be listed in accordance with UL 325.
+
+SECTION AO104 REFERENCED STANDARDS
+
+AO104.1 General.
+
+See Table AO104.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, the standard title, and the section or sections of this appendix that reference the standard.
+
+TABLE AO104.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASTM F2200—14	Standard Specification for Automated Vehicular Gate Construction	AO103.1
+UL 325—02	Door, Drapery, Gate, Louver and Window Operations and Systems—with revisions through May 2015	AO103.2
+

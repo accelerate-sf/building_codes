@@ -1,0 +1,353 @@
+
+
+Before applying the requirements of the IFC, it is beneficial to understand its arrangement and format. The IFC, like other codes published by the ICC, is arranged and organized to follow sequential steps that generally occur during a plan review or inspection.
+
+The IFC is organized into seven parts. Each part represents a broad subject matter and includes the chapters that logically fit under the subject matter of each part. It is also foreseeable that additional chapters will need to be added in the future as regulations for new processes or operations are developed. Accordingly, the structure was designed to accommodate such future chapters by providing reserved (unused) chapters in several of the parts. This will allow the subject matter parts to be conveniently and logically expanded without requiring a major renumbering of the IFC chapters.
+
+CHAPTER TOPICS
+
+Parts and Chapters	Subjects
+Part I—Chapters 1 and 2	Administrative and definitions
+Part II—Chapters 3 and 4	General safety provisions
+Part III—Chapters 5 through 12	Building and equipment design features
+Part III—Chapters 13 through 19	Reserved for future use
+Part IV—Chapters 20 through 40	Special occupancies and operations
+Part IV—Chapters 41 through 49; 52	Reserved for future use
+Part V—Chapters 50, 51 and 53 through 67	Hazardous materials
+Part V—Chapters 68 through 79	Reserved for future use
+Part VI—Chapter 80	Referenced standards
+Part VII—Appendices A through N	Adoptable and informational appendicesThe IFC requirements for fire-resistance-rated construction, interior finish, fire protection systems, means of egress and construction safeguards are directly correlated to the chapters containing parallel requirements in the IBC, as follows:
+
+IFC/IBC CORRELATED TOPICS
+IFC Chapter/Section	IBC Chapter/Section	Subject
+Chapter 7	Chapter 7	Fire and smoke protection features (Fire-resistance-rated construction in the IBC)
+Chapter 8	Chapter 8	Interior finish, decorative materials and furnishings
+Chapter 9	Chapter 9	Fire protection and life safety systems
+Chapter 10	Chapter 10	Means of egress
+Section 1203	Chapter 27	Emergency and standby power
+Chapter 31	Section 3103	Temporary structures
+Chapter 33	Chapter 33	Construction fire safety
+Chapters 50–67	Sections 307, 414, 415	Hazardous materials and Group H requirementsPART I—ADMINISTRATIVE
+
+Chapter 1 Scope and Administration
+
+Chapter 1 contains provisions for the application, enforcement and administration of subsequent requirements of the code. In addition to establishing the scope of the code, Chapter 1 identifies which buildings and structures come under its purview. Chapter 1 is largely concerned with maintaining “due process of law” in enforcing the regulations contained in the body of the code. Only through careful observation of the administrative provisions can the code official reasonably expect to demonstrate that “equal protection under the law” has been provided.
+
+Chapter 2 Definitions
+
+All terms that are defined in the code are listed alphabetically in Chapter 2. While a defined term may be used in one chapter or another, the meaning provided in Chapter 2 is applicable throughout the code.
+
+Where understanding of a term’s definition is especially key to or necessary for understanding of a particular code provision, the term is shown in italics wherever it appears in the code. This is true only for those terms that have a meaning that is unique to the code. In other words, the generally understood meaning of a term or phrase might not be sufficient or consistent with the meaning prescribed by the code; therefore, it is essential that the code-defined meaning be known.
+
+Guidance regarding tense, gender and plurality of defined terms as well as guidance regarding terms not defined in this code are also provided.
+
+PART II—GENERAL SAFETY PROVISIONS
+
+Chapter 3 General Requirements
+
+The open burning, ignition source, vacant building, miscellaneous storage, roof gardens and landscaped roofs, artificial combustible vegetation on buildings, outdoor pallet storage, additive manufacturing, and hazards to fire fighters requirements and precautions, among other general regulations contained in this chapter, are intended to improve premises safety for everyone, including construction workers, tenants, operations and maintenance personnel, and emergency response personnel.
+
+Chapter 4 Emergency Planning and Preparedness
+
+Chapter 4 addresses the human contribution to life safety in buildings when a fire or other emergency occurs. The requirements for continuous training and scheduled fire, evacuation and lockdown drills can be as important as the required periodic inspections and maintenance of built-in fire protection features. The level of preparation by the occupants also improves the emergency responders’ abilities during an emergency. The IBC focuses on built-in fire protection features, such as automatic sprinkler systems, fire-resistance-rated construction and properly designed egress systems, whereas this chapter fully addresses the human element.
+
+PART III—BUILDING AND EQUIPMENT DESIGN FEATURES
+
+Chapter 5 Fire Service Features
+
+The requirements of Chapter 5 apply to all buildings and occupancies and pertain to access roads, access to building openings and roofs, premises identification, key boxes, fire protection water supplies, fire command centers, fire department access to equipment, and in-building emergency responder communication system coverage.
+
+Chapter 6 Building Services and Systems
+
+Chapter 6 focuses on building systems and services as they relate to potential safety hazards and when and how they should be installed. This chapter brings together building system- and servicerelated issues for convenience and provides a more systematic view of buildings. The following building services and systems are addressed: electrical equipment, wiring and hazards (Section 603); elevator recall and maintenance (Section 604); fuel-fired appliances (Section 605); commercial kitchen hoods (Section 606); commercial kitchen cooking oil storage (Section 607); mechanical refrigeration (Section 608); hyperbaric facilities (Section 609); and clothes dryer exhaust systems (Section 610). Note that building systems focused on energy systems and components are addressed by Chapter 12.
+
+Chapter 7 Fire and Smoke Protection Features
+
+The maintenance of assemblies required to be fire-resistance rated is a key component in a passive fire protection philosophy. Chapter 7 sets forth requirements to maintain required fire-resistance ratings of building elements and limit fire spread. Section 701 addresses the basics of what construction elements such as fire barriers and smoke barriers need to be maintained as well as defining the owner’s responsibility. The rest of the chapter, Sections 703 through 708, deals with various fire and smoke protection features that must also be maintained. These features include penetrations, joint protection, door and window openings, duct and air transfer opening protection, concealed spaces, and spray-applied fire-resistant and intumescent fire-resistant materials.
+
+Chapter 8 Interior Finish, Decorative Materials and Furnishings
+
+The overall purpose of Chapter 8 is to regulate interior finishes, decorative materials and furnishings in new and existing buildings so that they do not significantly add to or create fire hazards within buildings. The provisions tend to focus on occupancies with specific risk characteristics, such as vulnerability of occupants, density of occupants, lack of familiarity with the building and societal expectations of importance. This chapter is consistent with Chapter 8 of the IBC, which regulates the interior finishes of new buildings.
+
+Chapter 9 Fire Protection and Life Safety Systems
+
+Chapter 9 prescribes the minimum requirements for active systems of fire protection equipment to perform the functions of detecting a fire, alerting the occupants or fire department of a fire emergency, controlling smoke and controlling or extinguishing the fire. There are provisions relating to more general life safety systems such as gas detection and associated alarms. Mass notification systems are also addressed. Generally, the requirements are based on the occupancy, the height and the area of the building, because these are the factors that most affect fire-fighting capabilities and the relative hazard of a specific building or portion thereof. This chapter parallels and is substantially duplicated in Chapter 9 of the IBC; however, this chapter also contains periodic testing criteria that are not contained in the IBC. In addition, the special fire protection system requirements based on use and occupancy found in Chapter 4 of the IBC are duplicated in Chapter 9 of the IFC as a user convenience.
+
+Chapter 10 Means of Egress
+
+The general criteria set forth in Chapter 10 regulating the design of the means of egress are established as the primary method for protection of people in buildings by allowing timely relocation or evacuation of building occupants. Both prescriptive and performance language is utilized in this chapter to provide for a basic approach in the determination of a safe exiting system for all occupancies. It addresses all portions of the egress system (i.e., exit access, exits and exit discharge) and includes design requirements as well as provisions regulating individual components. The requirements detail the size, arrangement, number and protection of means of egress components. Functional and operational characteristics also are specified for the components that will permit their safe use without special knowledge or effort. The means of egress protection requirements work in coordination with other sections of the code, such as protection of vertical openings (see Chapter 7), interior finish (see Chapter 8), fire suppression and detection systems (see Chapter 9) and numerous others, all having an impact on life safety. Sections 1002 through 1031 duplicate text from Chapter 10 of the IBC; however, the IFC contains an additional Section 1032 on maintenance of the means of egress system in existing buildings. Retroactive minimum means of egress requirements for existing buildings are found in Chapter 11.
+
+Chapter 11 Construction Requirements for Existing Buildings
+
+Chapter 11 applies to existing buildings constructed prior to the adoption of the code and intends to provide a minimum degree of fire and life safety to persons occupying existing buildings by providing for alterations to such buildings that do not comply with the minimum requirements of the IBC. Prior to the 2009 edition, its content existed in the IFC but in a random manner that was neither efficient nor user-friendly. In the 2007/2008 code development cycle, a code change (F294-07/ 08) was approved that consolidated the retroactive elements of IFC into a single chapter for easier and more efficient reference and application to existing buildings. The provisions address general fire safety features such as requirements for fire alarm systems, CO detection and automatic sprinkler systems in some existing buildings, general means of egress, and finally, the chapter contains a section dedicated to existing Group I-2 occupancies.
+
+Chapter 12 Energy Systems
+
+Chapter 12 was added to address the current energy systems found in the IFC. The chapter covers a wide range of systems that generate and store energy in, on and adjacent to buildings and facilities. The expansion of such energy systems is related to meeting today’s energy, environmental and economic challenges. Ensuring appropriate criteria to address the safety of such systems in building and fire codes is an important part of protecting the public at large, building occupants and emergency responders. Previously, requirements for energy systems, such as standby power systems, PV systems and stationary battery systems, were scattered about in various locations in Chapter 6, which addresses building services and systems. However, with the addition of fuel cells, energy storage systems and portable generators to the IFC, a chapter dedicated to such related issues was necessary. This chapter provides an appropriate location for the addition of future energy-related issues.
+
+Chapters 13 through 19
+
+Reserved for future use.
+
+PART IV—SPECIAL OCCUPANCIES AND OPERATIONS
+
+Chapter 20 Aviation Facilities
+
+Chapter 20 specifies minimum requirements for the fire-safe operation of airports, heliports and helistops. The principal nonflight operational hazards associated with aviation involve fuel, facilities and operations. Therefore, safe use of flammable and combustible liquids during fueling and maintenance operations is emphasized. Availability of portable Class B:C-rated fire extinguishers for prompt control or suppression of incipient fires is required.
+
+Chapter 21 Dry Cleaning
+
+The provisions of Chapter 21 are intended to reduce hazards associated with the use of flammable and combustible dry cleaning solvents. These materials, like all volatile organic chemicals, generate significant quantities of static electricity and are thus readily ignitable. Many flammable and nonflammable dry cleaning solvents also create health hazards when involved in a fire.
+
+Chapter 22 Combustible Dust-producing Operations
+
+The requirements of Chapter 22 seek to reduce the likelihood of dust explosions by managing the hazards of ignitable suspensions of combustible dusts associated with a variety of operations, including woodworking, mining, food processing, agricultural commodity storage and handling, and pharmaceutical manufacturing, among others. Ignition source control and good housekeeping practices in occupancies containing dust-producing operations are emphasized.
+
+Chapter 23 Motor Fuel-dispensing Facilities and Repair Garages
+
+Chapter 23 provides provisions that regulate the storage and dispensing of both liquid and gaseous motor fuels at public and private automotive, marine and aircraft motor fuel-dispensing facilities, and fleet vehicle motor fuel-dispensing facilities. In addition, this chapter addresses the various hazards created by the use of both liquid and gaseous fuels within repair garages.
+
+Chapter 24 Flammable Finishes
+
+Chapter 24 requirements govern operations where flammable or combustible finishes are applied by spraying, dipping, powder coating or flow-coating processes. As with all operations involving flammable or combustible liquids and combustible dusts or vapors, controlling ignition sources and methods of reducing or controlling flammable vapors or combustible dusts at or near these operations are emphasized.
+
+Chapter 25 Fruit and Crop Ripening
+
+Chapter 25 provides guidance that is intended to reduce the likelihood of explosions resulting from improper use or handling of ethylene gas used for crop ripening and coloring processes. This is accomplished by regulating ethylene gas generation, storage, and distribution systems and controlling ignition sources. Design and construction of facilities for this use are regulated by the IBC to reduce the impact of potential accidents on people and buildings.
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+Chapter 26 regulates fumigation and insecticidal fogging operations that use toxic pesticide chemicals to kill insects, rodents and other vermin. Fumigants and insecticidal fogging agents pose little hazard if properly applied; however, the inherent toxicity of all these agents and the potential flammability of some makes special precautions necessary when they are used. Requirements of this chapter are intended to protect both the public and fire fighters from hazards associated with these products.
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+The requirements of Chapter 27 are intended to control hazards associated with the manufacture of electrical circuit boards or microchips, commonly called semiconductors. Though the finished product possesses no unusual hazards, materials commonly associated with semiconductor manufacturing are often quite hazardous and include flammable liquids, pyrophoric and flammable gases, toxic substances, and corrosives. The requirements of this chapter are concerned with both life safety and property protection. However, the fire code official should recognize that the risk of extraordinary property damages is far more common than the risk of personal injuries from fire.
+
+Chapter 28 Lumber Yards and Agro-industrial, Solid Biomass and Woodworking Facilities
+
+Provisions of Chapter 28 are intended to prevent fires and explosions, facilitate fire control and reduce exposures to and from facilities storing, selling or processing wood and forest products, including sawdust, wood chips, shavings, bark mulch, shorts, finished planks, sheets, posts, poles, timber and raw logs and the hazard they represent once ignited. Also included are solid biomass feedstock and raw products associated with agro-industrial facilities, the outdoor storage of pallets, and manufacturing and recycling facilities. This chapter requires active and passive fire protection features to reduce on- and off-site exposures, limit fire size and development, and facilitate fire fighting by employees and the fire service.
+
+Chapter 29 Manufacture of Organic Coatings
+
+Chapter 29 regulates materials and processes associated with the manufacture of paints as well as bituminous, asphaltic and other diverse compounds formulated to protect buildings, machines and objects from the effects of weather, corrosion and hostile environmental exposures. Paint for decorative, architectural and industrial uses comprises the bulk of organic coating production. Painting and processes related to the manufacture of nonflammable and noncombustible or water-based products are exempt from the provisions of this chapter. The application of organic coatings is covered by Chapter 24. Elimination of ignition sources, maintenance of fire protection equipment and isolation or segregation of hazardous operations are emphasized.
+
+Chapter 30 Industrial Ovens
+
+Chapter 30 addresses the fuel supply, ventilation, emergency shutdown equipment, fire protection and the operation and maintenance of industrial ovens, which are sometimes referred to as industrial heat enclosures or industrial furnaces. Compliance with this chapter is intended to reduce the likelihood of fires involving industrial ovens, which are usually the result of the fuel in use or volatile vapors given off by the materials being heated, or to manage the impact if a fire should occur.
+
+Chapter 31 Tents, Temporary Structures and Other Membrane Structures
+
+The requirements in Chapter 31 are intended to protect temporary as well as permanent tents and air-supported and other membrane structures and temporary special event structures from fire and similar hazards. These hazards are regulated through provisions related to structure location and access, anchorage, egress, heat-producing equipment, hazardous materials and operations, combustible vegetation, ignition sources, waste accumulation and requiring regular inspections and certifying continued compliance with fire safety regulations. This chapter also addresses outdoor assembly events, which are not limited to those events where tents or other membrane structures are used but are regulated due to the number of people, density of those people and hazards associated with large outdoor events related to egress, fire hazards from cooking and other related concerns.
+
+Chapter 32 High-piled Combustible Storage
+
+Chapter 32 provides guidance for reasonable protection of life from hazards associated with the storage of combustible materials in closely packed piles or on pallets, in racks, or on shelves where the top of storage is greater than 12 feet in height. It provides requirements for identifying various classes of commodities; general fire and life safety features, including storage arrangements, smoke and heat venting, and fire department access; and housekeeping and maintenance requirements. The chapter attempts to define the potential fire severity and, in turn, determine fire and life safety protection measures needed to control, and in some cases suppress, a potential fire. This chapter does not cover miscellaneous combustible materials storage regulated in Section 315.
+
+Chapter 33 Fire Safety during Construction and Demolition
+
+Chapter 33 outlines general fire safety precautions for all structures and all occupancies during construction and demolition operations. Most importantly, this chapter addresses owner responsibility and provides requirements for a site safety plan and requires a site safety director. Generally, these requirements seek to maintain required levels of fire protection, limit fire spread, establish the appropriate operation of equipment and promote prompt response to fire emergencies. Features regulated include fire protection systems, fire fighter access to the site and building, means of egress, hazardous materials storage and use, and temporary heating equipment and other ignition sources. This chapter is consistent with both Chapter 33 of the IBC and Chapter 15 of the IEBC.
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+The requirements of Chapter 34 are intended to prevent or control fires and explosions associated with the remanufacture and storage of tires and tire byproducts. Additionally, the requirements are intended to minimize the impact of indoor and outdoor tire storage fires by regulating pile volume and location, segregating the various operations, providing for fire department access and a water supply, and controlling ignition sources.
+
+Chapter 35 Welding and Other Hot Work
+
+Chapter 35 covers requirements for safety in welding and other types of hot work by reducing the potential for fire ignitions that often result in large losses. Several different types of hot work would fall under the requirements found in Chapter 35, including both gas and electric arc methods and any open-torch operations. Many of the activities of this chapter focus on the actions of the occupants.
+
+Chapter 36 Marinas
+
+Chapter 36 addresses the fire protection and prevention requirements for marinas. It was developed in response to the complications encountered by a number of fire departments responsible for the protection of marinas as well as fire loss history in marinas that lacked fire protection. Compliance with this chapter intends to establish safe practices in marina areas, provide an identification method for mooring spaces in the marina, and provide fire fighters with safe operational areas and fire protection methods to extend hose lines in a safe manner.
+
+Chapter 37 Combustible Fibers
+
+Chapter 37 establishes the requirements for storage and handling of combustible fibers, including animal, vegetable and synthetic fibers, whether woven into textiles, baled, packaged or loose. Operations involving combustible fibers are typically associated with salvage, paper milling, recycling, cloth manufacturing, carpet and textile mills and agricultural operations, among others. The primary hazard associated with these operations is the abundance of materials and their ready ignitability.
+
+Chapter 38 Higher Education Laboratories
+
+Chapter 38 is a chapter addressing the unique needs of laboratories in higher education academic institutions. The advancement of technologies, science, medicine and our knowledge of the world often relies on having vibrant and successful academic institutions. These academic institutions often have chemistry, biology, medical, engineering and other laboratories where hazardous materials are used. This chapter addresses both new and existing buildings and new and existing laboratories. Applying the general hazardous material provisions has proven to be difficult due to the way in which these laboratories operate. This chapter offers unique solutions for laboratories that allow the necessary quantities of hazardous materials while not requiring a Group H occupancy classification. This is achieved through a series of requirements to protect and separate the hazards, thus reducing risks. This chapter also provides more flexibility for laboratories in existing buildings by allowing the use of certain materials typically prohibited through method, such as the use of storage cabinets or fume hoods.
+
+Chapter 39 Processing and Extraction Facilities
+
+Chapter 39 focuses on the processing and extraction of oils and fats from various plants. This process includes the extraction by use of solvent, desolventizing of the raw material and production of the miscella, and distillation of the solvent from the miscella and solvent recovery. The processes used are not necessarily typical hazardous material processes and often the systems and equipment associated with such processes are not listed. This chapter provides the tools to appropriately enforce the IFC to meet the unique needs of industry while providing the appropriate level of safety. This chapter has provisions for a technical report prepared by a registered design professional. This chapter also requires site inspections to make sure equipment and systems are installed as designed and approved.
+
+Chapter 40 Storage of Distilled Spirits and Wines
+
+Chapter 40 is a new chapter that provides specific requirements for the storage of distilled spirits and wines. This chapter provides a package of safety requirements to address the unique hazards associated with the storage of distilled spirits and wines, including basic fire prevention requirements, fire protection features, storage configuration and signage. Additionally, in accordance with Section 307.1.1 of the IBC, these occupancies are not classified as a Group H occupancy. Instead, as listed in Sections 311.2 and 311.3 of the IBC, the storage of beverages that contain up to and including 16-percent alcohol are classified as a Group S-2 occupancy, and those that contain over 16-percent alcohol content are classified as a Group S-1 occupancy.
+
+Chapters 41 through 47
+
+Reserved for future use.
+
+Chapter 48 Motion Picture and Television Production Studio Stages, Approved Production Facilities and Production Locations
+
+On July 23, 1982, a Bell UH-1 Iroquois helicopter crashed at Indian Dunes in Valencia, Santa Clarita, California, during the making of Twilight Zone: The Movie. The crash killed three people on the ground and injured the six helicopter passengers. Those killed were actor Vic Morrow and child actors Myca Dinh Le and Renee Shin-Yi Chen. The incident led to years of civil and criminal action and was responsible for the introduction of new procedures and safety standards in the filmmaking industry.
+
+Chapter 49 Requirements for Wildland-Urban Interface Fire Areas
+
+This chapter regulates development and construction in areas designated by the Director of the Department of Forestry and Fire Protection as Very High Fire Hazard Severity Zones in any Local Responsibility Area (LRA) and areas designated by the Board of Forestry and Fire Protection as a State Responsibility Area (SRA). In addition to the building construction requirements in the California Building Code and California Residential Code, this chapter contains requirements for development and construction in the LRA designated as Very High Fire Hazard Severity Zones and areas designated as SRA. While many of these provisions are found in Title 14 of the California Code of Regulations, they are replicated here for the code user. The local jurisdiction has the authority to apply the same regulations to LRA when the regulations are adopted by local ordinance. The requirements in this chapter address the adoption of Very High Fire Hazard Severity Zones in the LRA; criteria for evaluating existing subdivisions that are at significant fire risk and are without an adequate secondary egress; and criteria for fire safety provisions required in the Safety Element of a city or county General Plan.
+
+PART V—HAZARDOUS MATERIALS
+
+Chapter 50 Hazardous Materials—General Provisions
+
+Chapter 50 contains the general requirements for all hazardous chemicals in all occupancies. Hazardous chemicals are defined as those that pose an unreasonable risk to the health and safety of operating or emergency personnel, the public and the environment if not properly controlled during handling, storage, manufacture, processing, packaging, use, disposal or transportation. The general provisions of this chapter are intended to be companion provisions with the specific requirements of Chapters 51 through 67 regarding a given hazardous material.
+
+Chapter 51 Aerosols
+
+Chapter 51 addresses the prevention, control and extinguishment of fires and explosions in facilities where retail aerosol products are displayed or stored. It is concerned with both life safety and property protection from a fire; however, historically, aerosol product fires have caused property loss more frequently than loss of life. Requirements for storing aerosol products are dependent on the level of aerosol product, level of sprinkler protection, type of storage condition and quantity of aerosol products.
+
+Chapter 52
+
+Reserved for future use.
+
+Chapter 53 Compressed Gases
+
+Chapter 53 regulates the storage, use and handling of all flammable and nonflammable compressed gases, such as those that are used in medical facilities, air separation plants, industrial plants, agricultural equipment facilities and similar occupancies. In addition, systems such as carbon dioxide beverage dispensing systems and carbon dioxide enrichment systems are addressed. Standards for the design, construction and marking of compressed gas cylinders and pressure vessels are referenced. Compressed gases used in welding and cutting, cryogenic liquids and liquefied petroleum gases are also regulated under Chapters 35, 55 and 61, respectively. Compressed gases that are classified as hazardous materials are also regulated in Chapter 50, which includes general requirements.
+
+Chapter 54 Corrosive Materials
+
+Chapter 54 addresses the hazards of corrosive materials that have a destructive effect on living tissues. Although corrosive gases exist, most corrosive materials are solid or liquid and classified as either acids or bases (alkalis). These materials may pose a wide range of hazards other than corrosivity, such as combustibility, reactivity or oxidizing hazards, and must conform to the requirements of this code with respect to all known hazards. The focus of this chapter is on materials whose primary hazard is corrosivity; that is, the ability to destroy or irreparably damage living tissue on contact.
+
+Chapter 55 Cryogenic Fluids
+
+Chapter 55 regulates the hazards associated with the storage, use and handling of cryogenic fluids through regulation of such things as pressure relief mechanisms and proper container storage. These hazards are in addition to the code requirements that address the other hazards of cryogenic fluids such as flammability and toxicity. These other characteristics are dealt with in Chapter 50 and other chapters, such as Chapter 58 dealing with flammable gases. Cryogens are hazardous because they are held at extremely low temperatures and high pressures. Many cryogenic fluids, however, are actually inert gases and would not be regulated elsewhere in this code. Cryogens are used for many applications but specifically have had widespread use in the biomedical field and in space programs.
+
+Chapter 56 Explosives and Fireworks
+
+Chapter 56 prescribes minimum requirements for the safe manufacture, storage, handling and use of explosives, ammunition and blasting agents for commercial and industrial occupancies. These provisions are intended to protect the general public, emergency responders and individuals who handle explosives. Chapter 56 also regulates the manufacturing, retail sale, display and wholesale distribution of fireworks, establishing the requirements for obtaining approval to manufacture, store, sell, discharge or conduct a public display, and references national standards for regulations governing manufacture, storage and public displays.
+
+Chapter 57 Flammable and Combustible Liquids
+
+The requirements of Chapter 57 are intended to reduce the likelihood of fires involving the storage, handling, use or transportation of flammable and combustible liquids. Adherence to these practices may also limit damage in the event of an accidental fire involving these materials. These liquids are used for fuel, lubricants, cleaners, solvents, medicine and even drinking. The danger associated with flammable and combustible liquids is that the vapors from these liquids, when combined with air in their flammable range, will burn or explode at temperatures near normal living and working environment. The protection provided by this code is to prevent the flammable and combustible liquids from being ignited.
+
+Chapter 58 Flammable Gases and Flammable Cryogenic Fluids
+
+Chapter 58 sets requirements for the storage and use of flammable gases. For safety purposes, there is a limit on the quantities of flammable gas allowed per control area. Exceeding these limitations increases the possibility of damage to both property and individuals. The principal hazard posed by flammable gas is its ready ignitability, or even explosivity, when mixed with air in the proper proportions. Consequently, occupancies storing or handling large quantities of flammable gas are classified as Group H- 2 (high hazard) by the IBC.
+
+Chapter 59 Flammable Solids
+
+Chapter 59 addresses general requirements for storage and handling of flammable solids, especially magnesium; however, it is important to note that several other solid materials, primarily metals including, but not limited to, titanium, zirconium, hafnium, calcium, zinc, sodium, lithium, potassium, sodium/potassium alloys, uranium, thorium and plutonium, can be explosion hazards under the right conditions. Some of these metals are almost exclusively laboratory materials but because of where they are used, fire service personnel must be trained to handle emergency situations. Because uranium, thorium and plutonium are also radioactive materials, they present still more specialized problems for fire service personnel.
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+The main purpose of Chapter 60 is to protect occupants, emergency responders and those in the immediate area of the building and facility from short-term, acute hazards associated with a release or general exposure to toxic and highly toxic materials. This chapter deals with all three states of toxic and highly toxic materials: solids, liquids and gases. This code does not address long-term exposure effects of these materials, which are addressed by agencies such as the Environmental Protection Agency (EPA) and Occupational Safety and Health Administration (OSHA).
+
+Chapter 61 Liquefied Petroleum Gases
+
+Chapter 61 establishes requirements for the safe handling, storing and use of LP-gas to reduce the possibility of damage to containers, accidental releases of LP-gas and exposure of flammable concentrations of LP-gas to ignition sources. LP-gas (notably propane) is well known as a camping fuel for cooking, lighting, heating and refrigerating and also remains a popular standby fuel supply for auxiliary generators as well as being widely used as an alternative motor vehicle fuel. Its characteristic as a clean-burning fuel has resulted in the addition of propane dispensers to service stations throughout the country.
+
+Chapter 62 Organic Peroxides
+
+Chapter 62 addresses the hazards associated with the storage, handling and use of organic peroxides and intends to manage the fire and oxidation hazards of organic peroxides by preventing their uncontrolled release. These chemicals possess the characteristics of flammable or combustible liquids and are also strong oxidizers. This unusual combination of properties requires special storage and handling precautions to prevent uncontrolled release, contamination, hazardous chemical reactions, fires or explosions. The requirements of this chapter pertain to industrial applications in which significant quantities of organic peroxides are stored or used; however, smaller quantities of organic peroxides still pose a significant hazard and, therefore, must be stored and used in accordance with the applicable provisions of this chapter and Chapter 50.
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+Chapter 63 addresses the hazards associated with solid, liquid, gaseous and cryogenic fluid oxidizing materials, including oxygen in home use, and establishes criteria for their safe storage and protection in indoor and outdoor storage facilities, minimizing the potential for uncontrolled releases and contact with fuel sources. Although oxidizers themselves do not burn, they pose unique fire hazards because of their ability to support combustion by breaking down and giving off oxygen.
+
+Chapter 64 Pyrophoric Materials
+
+Chapter 64 regulates the hazards associated with pyrophoric materials, which are capable of spontaneously igniting in the air at or below a temperature of 130°F (54°C). Many pyrophoric materials also pose severe flammability or reactivity hazards. This chapter addresses only the hazards associated with pyrophoric materials. Materials that pose multiple hazards must conform to the requirements of the code with respect to all hazards.
+
+Chapter 65 Pyroxylin (Cellulose Nitrate) Plastics
+
+Chapter 65 addresses the significant hazards associated with pyroxylin (cellulose nitrate) plastics, which are the most dangerous and unstable of all plastic compounds. The chemically bound oxygen in their structure permits them to burn vigorously in the absence of atmospheric oxygen at a rate 15 times greater than comparable common combustibles. Strict compliance with the provisions of this chapter, along with proper housekeeping and storage arrangements, helps to reduce the hazards associated with pyroxylin (cellulose nitrate) plastics in a fire or other emergencies.
+
+Chapter 66 Unstable (Reactive) Materials
+
+Chapter 66 addresses the hazards of unstable (reactive) liquid and solid materials as well as unstable (reactive) compressed gases. In addition to their unstable reactivity, these materials may pose other hazards, such as toxicity, corrosivity, explosivity, flammability or oxidizing potential. This chapter, however, intends to address those materials whose primary hazard is unstable reactivity. Materials that pose multiple hazards must conform to the requirements of the code with respect to all hazards. Strict compliance with the provisions of this chapter, along with proper housekeeping and storage arrangements, help reduce the exposure hazards associated with unstable (reactive) materials in a fire or other emergency.
+
+Chapter 67 Water-reactive Solids and Liquids
+
+Chapter 67 addresses the hazards associated with water-reactive materials that are solid or liquid at normal temperatures and pressures. In addition to their water reactivity, these materials may pose a wide range of other hazards, such as toxicity, flammability, corrosiveness or oxidizing potential. This chapter addresses only those materials whose primary hazard is water reactivity. Materials that pose multiple hazards must conform to the requirements of the code with respect to all hazards. Strict compliance with the requirements of this chapter, along with proper housekeeping and storage arrangements, helps to reduce the exposure hazards associated with water-reactive materials in a fire or other emergency.
+
+Chapters 68 through 79
+
+Reserved for future use.
+
+PART VI—REFERENCED STANDARDS
+
+Chapter 80 Referenced Standards
+
+This code contains several references to standards that are used to regulate materials and methods of construction. Chapter 80 contains a comprehensive list of all standards that are referenced in this code. The standards are part of the code to the extent of the reference to the standard (see Section 102.7). Compliance with the referenced standard is necessary for compliance with this code. By providing specifically adopted standards, the construction and installation requirements necessary for compliance with this code can be readily determined. The basis for code compliance is, therefore, established and available on an equal basis to the code official, contractor, designer and owner.
+
+Chapter 80 is organized in a manner that makes it easy to locate specific standards. It lists all of the referenced standards alphabetically by acronym of the promulgating agency of the standard. Each agency’s standards are then listed in either alphabetical or numeric order based on the standard identification. The list also contains the title of the standard, the edition (date) of the standard referenced, any addenda included as part of the ICC adoption, and the section or sections of this code that reference the standard.
+
+PART VII—APPENDICES
+
+Appendix Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+Appendix Chapter 4 provides detailed criteria for special uses and occupancies. The unique characteristics of a live/work unit as opposed to a 30-story high-rise building call for specific standards for each. Twenty-seven sections address covered and open mall buildings, atriums, hospitals, stages, buildings where hazardous materials are used and stored, jails and prisons, ambulatory care facilities and storm shelters, among other special occupancy issues.
+
+Appendix A Board of Appeals
+
+Appendix A contains optional criteria that, when adopted, provide jurisdictions with detailed appeals, board member qualifications and administrative procedures to supplement the basic requirements found in Section 111 of this code. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix B Fire-flow Requirements for Buildings
+
+Appendix B provides a tool for the use of jurisdictions in establishing a policy for determining fire-flow requirements in accordance with Section 507.3. The determination of required fire flow is not an exact science, but having some level of information provides a consistent way of choosing the appropriate fire flow for buildings throughout a jurisdiction. The primary tool used in this appendix is a table that presents fire flow based on construction type and building area based on the correlation of the Insurance Services Office (ISO) method and the construction types used in the IBC. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix BB Fire-flow Requirements for Buildings
+
+The procedures determining fire-flow requirements for any school buildings or portions of buildings hereafter constructed for which review and approval is required under Subdivision(a) of Section 17280 of the Government Code shall be in accordance with this appendix as amended by the state fire marshal.
+
+Appendix C Fire Hydrant Locations and Distribution
+
+Appendix C focuses on the location and spacing of fire hydrants, which is important to the success of fire-fighting operations. The difficulty with determining the spacing of fire hydrants is that every situation is unique and has unique challenges. Finding one methodology for determining hydrant spacing is difficult. This particular appendix gives one methodology based on the required fire flow that fire departments can work with to set a policy for hydrant distribution around new buildings and facilities in conjunction with Section 507.5. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix CC Fire Hydrant Locations and Distribution
+
+Fire hydrants shall be provided in accordance with this appendix for the protection of any school buildings, or portions thereof, hereafter constructed for which review and approval are required under Subdivision(a) of Section 17280 of the Government Code.
+
+Appendix D Fire Apparatus Access Roads
+
+Appendix D contains more detailed elements for use with the basic access requirements found in Section 503, which gives some minimum criteria, such as a maximum length of 150 feet and a minimum width of 20 feet, but in many cases does not state specific criteria. This appendix, like Appendices B and C, is a tool for jurisdictions looking for guidance in establishing access requirements and includes criteria for multiple-family residential developments, large one- and two-family subdivisions, specific examples for various types of turnarounds for fire department apparatus and parking regulatory signage. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix E Hazard Categories
+
+Appendix E contains guidance for designers, engineers, architects, code officials, plans reviewers and inspectors in the classifying of hazardous materials so that proposed designs can be evaluated intelligently and accurately. The descriptive materials and explanations of hazardous materials and how to report and evaluate them on a Safety Data Sheet (SDS) are intended to be instructional as well as informative. Note that this appendix is for information purposes and is not intended for adoption.
+
+Appendix F Hazard Ranking
+
+The information in Appendix F is intended to be a companion to the specific requirements of Chapters 51 through 67, which regulate the storage, handling and use of all hazardous materials classified as either physical or health hazards. These materials pose diverse hazards, including instability, reactivity, flammability, oxidizing potential or toxicity; therefore, identifying them by hazard ranking is essential. This appendix lists the various hazardous materials categories that are defined in this code, along with the NFPA 704 hazard ranking for each. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix G Cryogenic Fluids—Weight and Volume Equivalents
+
+Appendix G gives the fire code official and design professional a ready reference tool for the conversion of the liquid weight and volume of cryogenic fluid to their corresponding volume of gas and vice versa and is a companion to the provisions of Chapter 55 of this code. Note that this appendix is for information purposes and is not intended for adoption.
+
+Appendix H Hazardous Materials Management Plan (HMMP) and Hazardous Materials Inventory Statement (HMIS) Instructions
+
+Appendix H is intended to assist businesses in establishing a Hazardous Materials Management Plan (HMMP) and Hazardous Materials Inventory Statement (HMIS) based on the classification and quantities of materials that would be found on-site, in storage or in use. The sample forms and available Safety Data Sheets (SDS) provide the basis for the evaluations. It is also a companion to IFC Sections 407.5 and 407.6, which provide the requirement that the HMIS and HMMP be submitted when required by the fire code official. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix I Fire Protection Systems—Noncompliant Conditions
+
+The purpose of Appendix I, which was developed by the ICC Hazard Abatement in Existing Buildings Committee, is to provide the fire code official with a list of conditions that are readily identifiable by the inspector during the course of an inspection utilizing the IFC. The specific conditions identified in this appendix are primarily derived from applicable NFPA standards and pose a hazard to the proper operation of the respective systems. While these do not represent all of the conditions that pose a hazard or otherwise may impair the proper operation of fire protection systems, their identification in this adoptable appendix will provide a more direct path for enforcement by the fire code official. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix J Building Information Sign
+
+Appendix J provides design, installation and maintenance requirements for a Building Information Sign (BIS), a fire service tool to be utilized in the crucial, initial response of fire fighters to a structure fire. The BIS placard is designed to be utilized within the initial response time frame of an incident to assist fire fighters in their tactical size-up of a situation as soon as possible after arrival on the scene of a fire emergency. The BIS design is in the shape of a fire service Maltese Cross and includes five spaces (the four wings plus the centerpiece of the cross symbol) in which information is placed about the tactical considerations of construction type and hourly rating, fire protection systems, occupancy type, content hazards and special features that could affect tactical decisions and operations. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix K Construction Requirements for Existing Ambulatory Care Facilities
+
+Appendix K was created by the ICC Ad Hoc Committee on Healthcare (AHC) and its intent is to provide jurisdictions with an option for assessing minimum fire and life safety requirements for buildings containing ambulatory care facilities. While this appendix is written with the intent to apply retroactive minimum standards, the AHC recognized that the ambulatory care requirements are relatively recent additions to the IBC. For that reason, these requirements are presented as an appendix so that the adopting authority can exercise judgment in the adoption and application of this section. This appendix would also be useful for those local and state jurisdictions that are specifically focused on ensuring the safety for existing ambulatory care facilities by providing minimum criteria that could be used to bring older facilities into compliance with the current standards at the discretion of the adopting jurisdiction. The technical requirements are based on the current IBC language, which is consistent with the overall concept of the current federal requirements. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix L Requirements for Fire Fighter Air Replenishment Systems
+
+Appendix L provides for the design, installation and maintenance of permanently installed fire fighter breathing air systems in buildings designated by the jurisdiction. Breathing air is critical for fire-fighting operations. Historically, fire departments have supplied air bottles by means of a “bottle brigade,” whereby fire fighters manually transport air bottles up stairways, which is an extraordinarily fire fighter-intensive process and takes fire fighters away from their primary mission of rescue and fire fighting. Technology now exists to address the issue using in-building air supply systems. Fire fighter breathing air systems were introduced in the late 1980s and are now required in a number of communities throughout the United States. The system has been called a “standpipe for air” and consists of stainless steel, high-pressure piping that is supplied by on-site air storage or fire department air supply units. Air-filling stations are then strategically located throughout the building, allowing fire fighters to refill breathing air cylinders inside the fire building, negating the required “bottle brigade,” and making more fire fighters available for search, rescue and fire suppression operations. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix M High-rise Buildings—Retroactive Automatic Sprinkler Requirement
+
+Appendix M was created with the intent to provide an option for adoption by jurisdictions that choose to require existing high-rise buildings to be retrofitted with automatic sprinklers. Modern fire and building codes require complete automatic fire sprinkler protection and a variety of other safety features in new high-rise construction. Many older high-rise buildings lack automatic sprinkler protection and other basic fire protection features necessary to protect the occupants, emergency responders and the structure itself. Without complete automatic sprinkler protection, fire departments cannot provide the level of protection that high-rise buildings demand. Existing high-rise buildings that are not protected with automatic sprinklers represent a significant hazard to occupants and fire fighters, and can significantly impact a community’s infrastructure and economic viability in the event of a fire loss. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix N Indoor Trade Shows and Exhibitions
+
+Appendix N was created to address the hazards that are associated with larger, more complex trade shows and exhibitions. Although many of these requirements are already included in various locations in this code, some of the more important items, such as requirements for covered booths and multiple-story booths, are not. The intent is to have the requirements covering these events in a single location. The provisions are essentially a series of pointers to other locations within this code. This assists those organizing exhibitions and individual exhibitors unfamiliar with the fire code. The appendix can be adopted by jurisdictions looking for specific regulations on this subject or used as a guide where it is not. Note that the provisions contained in this appendix are not mandatory unless specifically referenced in the adopting ordinance.
+
+Appendix O Temporary Haunted Houses, Ghost Walks and Similar Amusement Uses
+
+These regulations shall apply to temporary haunted houses, ghost walks or similar amusement uses, where decorative materials and confusing sounds and/or visual effects are present and shall be in accordance with this appendix.
+
+Appendix P Community Wildland-Urban Interface (WUI) Fire Hazard Evaluation Framework
+
+Appendix P is meant to be a tool to enable communities to collect, assemble and represent the associated risks within the Wildland-Urban Interface (WUI) fire area. Community-level fire hazard data is not always readily available in a centralized location and not in a standard format. This framework enables communities’ leaders to collect their WUI fire hazard data in an immediately accessible format. This framework also allows the community WUI fire hazard area data to be an inclusive picture. Part of the data assembled in the framework layout will help first responders during an incident. This data may enhance situational awareness, facilitate ingress and egress routes, and increase structure survivability through targeted fire responder actions. The framework allows decision makers the ability to access WUI fire hazard risks across multiple communities when implemented in this standardized method. For example, a comparison can be made between a community of 5,000 residents to a community with 20,000 residents. They will be able to compare their overall fire hazard as well as the relative fire hazard. The information from the standardized framework may be used to assist with making the design and prioritizing resources at the community, county and state level. These resources may include funding for fuel treatment around communities in designated very high fire hazard severity zones. The proposed framework has the benefit of enabling communities, county and state to use a methodized approach to assess hazards, offer property solutions and inform first responders before and during incidents.
+

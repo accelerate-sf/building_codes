@@ -1,0 +1,68 @@
+APPENDIX 12-8-1B GUIDE TO MOUNTING TECHNIQUES FOR WALL AND CEILING INTERIOR FINISH MATERIAL
+
+GENERAL
+
+Sec. 12-8-1B.1.
+
+(a)Basic. This guide is intended as an aid in determining the method of mounting various building materials in the standard fire test room. These mountings are described for test method uniformity and good laboratory practice; they are not meant to imply restriction in the specific details of field installation. They are intended to be used for general material testing where the specific details of the field installation either have not been established or are so broad that any single installation method may not be representative of the full range of installation possibilities.
+
+(b)Mounting methods. The suggested mounting methods are grouped according to building materials to be tested which are broadly described either by usage or by form of the material. For some building materials, none of the methods described may be applicable. In such cases, other means of attachment may have to be devised. Wherever possible, these specimens shall be mounted using the same method of attachment as that contemplated in the field installation.
+
+(c)All backing materials, when used, shall be supported on a framed support system. A typical supporting framework is shown in Figure 12-8-1B-1.
+
+(d)Whenever calcium silicate board or gypsum wallboard is specified as a backing substrate in subsequent paragraphs, the material shall be 0.5-inch-thick (13 mm) calcium silicate board supplied in 4 feet by 8 feet (1219 mm by 2438 mm) sheets with a density of 46 lb/ft3, or 0.625-inch-thick (16 mm) gypsum wallboard “Type X” supplied in 4 feet by 8 feet (1219 mm by 2438 mm) sheets with a density of 42.2 lb/ft3, and they shall be uncoated. Where metal screws in combination with washers and wing nuts are specified for fastening, they shall be standard 0.25-inch (6 mm) by 20 TPl round head steel machine screws, 0.25-inch (6 mm) by 20 TPI steel wing nuts and 2 inch (51 mm) O.D. by 0.044-inch-thick (1 mm) flat steel washers with a 0.281-inch (7 mm) I.D. hole. Fastening screws shall be installed as shown in Figure 12-8-1B-2. The fastening pattern is shown in Figure 12-8-1B-3 for rigid wall materials and Figure 12-8-1B-4 for flexible wall materials. The fastening pattern for all ceiling materials is shown in Figure 12-8-1B-5.
+
+ACOUSTICAL MATERIALS AND OTHER BOARD MATERIALS
+
+Sec. 12-8-1B.2.
+
+(a)Depending on the type of field mounting required by the acoustical product, either wood furring strips or metal runners are to be used to support acoustical material.
+
+(b)Wood furring strips for mounting acoustical materials and other board materials are to be nominal 1-inch by 2-inch (25 mm by 51 mm) wood furring strips and attached to a gypsum wall board substrate to approximately the field installation.
+
+(c)Metal runners for mounting are to be attached to the 0.625-inch (16 mm) gypsum wallboard substrate to approximate the field suspension systems application.
+
+BATT OR BLANKET-TYPE INSULATING AND OTHER FLEXIBLE MATERIALS
+
+Sec. 12-8-1B.3.
+
+Batt or blanket and other flexible materials which do not have sufficient rigidity or strength to support themselves are to be supported by round head machine screws in combination with wing nuts and flat washers, as specified in Section 12-8-1B.1 (d), which are inserted through the material in such a way as to fasten the material to a substrate board.
+
+BUILDING UNITS
+
+Sec. 12-8-1B.4.
+
+Materials falling within this category include organic and/or inorganic materials formed or laminated into blocks, boards, planks, slabs or sheets of various sizes, thicknesses or shapes. If building units have sufficient structural integrity to support themselves, no additional mounting to a substrate board support is required. If the building units are of such construction as to require individual components and are not self-supporting, the component is to be fastened to the substrate board as specified in Section 12-8-1B.1 (d).
+
+COATINGS OR SPRAY APPLIED MATERIALS
+
+Sec. 12-8-1B.5.
+
+(a)Coating materials, such as cementitious mixtures, mastic coatings, sprayed fibers, etc., are to be mixed and applied to the substrate board as specified in the manufacturer’s instructions at the thickness, coverage rate or density recommended by the manufacturer.
+
+(b)Materials intended for application to a wood surface are to be applied to a substrate made of 1 inch by 4 inches (25 mm by 101 mm) nominal “C” and better VG Douglas fir flooring (FSC 70 to 90) or to other species for which the surface burning characteristic is to be measured.
+
+(c)Coating materials intended for application to particular combustible surfaces, but not wood, are to be applied to the specific surface for which they are intended. The coating material and combustible material are to be attached to the substrate board as specified in Section 12-8-1B.1 (d).
+
+(d)Coating materials intended only for field applications to nonflammable surfaces are to be applied to 0.5 in calcium silicate board.
+
+WALL COVERING MATERIAL
+
+Sec. 12-8-1B.6.
+
+Wall coverings such as vinyl coatings, wallpaper, etc., of various types are to be mounted on 0.625-inch (16 mm) gypsum wallboard or on the actual substrate to which they are to be applied, using the adhesive and application technique specified by the manufacturer.
+
+FIGURE 12-8-1B-1—TYPICAL STEEL FRAME SUPPORT SYSTEM
+
+FIGURE 12-8-1B-2—MATERIAL FASTENING TECHNIQUE
+
+FIGURE 12-8-1B-3—TYPICAL MOUNTING TECHNIQUE FOR RIGID WALL MATERIALS
+
+Note: When required, additional fasteners may be used to hold up the specimen flush to the wall.
+
+FIGURE 12-8-1B-4—TYPICAL MOUNTING TECHNIQUE FOR FLEXIBLE WALL MATERIALS
+
+Note: When required, additional fasteners may be used to hold up the specimen flush to the wall.
+
+FIGURE 12-8-1B-5—TYPICAL MOUNTING TECHNIQUE FOR CEILING MATERIALS
+

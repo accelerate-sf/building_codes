@@ -1,0 +1,21 @@
+
+
+Solid vertical lines in the margins within the body of the code indicate a technical change from the requirements of the 2018 edition. Deletion indicators in the form of an arrow (➨) are provided in the margin where an entire section, paragraph, exception or table has been deleted or an item in a list of items or a table has been deleted.
+
+A single asterisk [*] placed in the margin indicates that text or a table has been relocated within the code. A double asterisk [**] placed in the margin indicates that the text or table immediately following it has been relocated there from elsewhere in the code. The following table indicates such relocations in the 2020 edition of the International Existing Building Code.
+
+2021 LOCATION	2018 LOCATION
+303	1106
+307	502.6, 503.14, 803.4.3, 1104
+308	502.7, 503.15, 804, 1105
+1009.1	809.1
+1501.2.1	705.2Symbols in the margin indicate the status of code changes as follows:
+
+‖ This symbol indicates that a change has been made to a California amendment.
+
+> This symbol indicates deletion of California amendment language.
+
+| This symbol indicates that a change has been made to International Code Council model language.
+
+➨ This symbol indicates deletion of International Code Council model language.
+

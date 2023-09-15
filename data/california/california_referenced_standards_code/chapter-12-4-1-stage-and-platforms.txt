@@ -1,0 +1,64 @@
+CHAPTER 12-4-1 STAGE AND PLATFORMS
+
+SMOKE OR HEAT VENTILATORS STANDARD 12-4-1
+
+STATE FIRE MARSHAL SMOKE OR HEAT VENTILATORS
+
+Sec. 12-4-100.
+
+(a)Application. The minimum design, construction and performance standard set forth herein for stage and platform smoke or heat ventilators are those deemed necessary to establish conformance to the provisions of these regulations.
+
+(b)Scope. This standard covers ventilators and shutters designed to open under conditions of excessive smoke or heat to provide openings for the release to the atmosphere of accumulated smoke or heat.
+
+A smoke or heat ventilator covered by this standard consists of a prefabricated frame of metal or other noncombustible materials; a cover of noncombustible or plastic materials; an automatic releasing device; and the control rigging. The control rigging may include electrically operated units for normal opening and closing.
+
+(c)Tested and listed component parts. Component parts, devices, combinations of devices and electrical equipment which have been tested and listed by an approved testing agency for the intended purpose need not be individually retested. Such individually tested and listed component parts, devices and equipment shall be subjected to the performance standard tests to determine their suitability for use in the smoke or heat ventilator.
+
+(d)Alternate constructions. Ventilators having materials or forms of construction differing from this standard may be investigated and tested in accordance with these regulations, and if found to be substantially equivalent in performance may be given recognition for approval.
+
+(e)Marking. Units shall be provided with a manufacturers label or other permanent markings clearly identifying the manufacturer and model numbers. Plastics in dome-type ventilators shall be identified by brandmarkings, imprint or other markings acceptable to the State Fire Marshal.
+
+(f)Framing design. The unit and cover shall be so formed and assembled that they will have the strength and rigidity necessary to resist the abuses to which they are liable to be subject without adversely affecting their performance, and without operational failure due to partial collapse with the resulting reduction of spacings, loosening or displacement of parts, or other serious defects.
+
+(g)Curb design. The ventilator design shall include provisions for mounting on roof curbs or shall in themselves incorporate a design to provide the equivalent of roof curbs.
+
+(h)Corrosion resistant. Ventilators shall be constructed of corrosion-resistant materials. Iron and steel parts shall be protected against corrosion by enameling, galvanizing, plating or other equivalent means. This includes all parts upon which proper mechanical operation may depend. Bearings and hinge points shall be corrosion resistant or of such material and design as to ensure against binding due to corrosion.
+
+Ventilators designed and constructed in accordance with the above may be accepted without additional tests establishing the effects of frost, expansion by heat or warping of the framework.
+
+(i)Plastic covers. Plastic covers shall be of the dome type having a continuous curvature with the center not less in height than 10 percent of the span having the least dimension but not less than  5 inches (127 mm).
+
+(j)Area. The minimum dimension for an effective vent opening should not be less than 4 feet (1219 mm) in any direction. The effective venting area is the minimum crosssectional area through which smoke and gases must pass in route to the atmosphere. The effective venting area of monitors shall be the cross-sectional area of the throat or the area of the side lights on one side of the monitor, whichever is the lesser.
+
+Ventilators having plastic covers shall not exceed 100 square feet (9.3 m2) in area.
+
+(k)Fail-safe design. The ventilator cover, lid, sidelight or shutter shall be designed to fail safe in the event of fire and shall not fall back over the opening. It shall require a manual operation to reclose the cover, lid, sidelight or shutter.
+
+(l)Opening counterforce.
+
+1.Gravity-type ventilators shall have securely attached weights to provide a continuous excess counterweight of not less than 30 pounds throughout the opening arc of the lid or sidelight.
+
+2.Devices used to open ventilators shall be designed to exert a continuous opening force, at all times normal to the lid of not less than 30 pounds. When springs are used they shall not be stressed to more than 50 percent of their capacity when the lid is in a closed position.
+
+3.Louvered-type shutters intended for installation in gables shall be of the gravity type. The excess counter-weight shall be not less than 2 pounds per square foot of gross shutter area.
+
+(m)Automatic heat or smoke detectors shall be placed in the underside of the ventilator at or above the roof line.
+
+(n)Test procedure.
+
+1.Ventilators and shutters shall be mounted for the tests in a manner simulating their intended use. The lid, cover or sidelight shall be held in a closed position by a fusible link, or an automatic heat or smoke actuated detector or combination thereof, and the fusible link or detector controls.
+
+2.The opening counterforce shall be measured at the geometric center of the lid, cover or sidelight. The automatic detector shall be released and measurements of the counterforce taken at various points throughout the opening arc but at not less than at 30 inches (762 mm) and at 60 inches (1524 mm) from the plane of the lid when in a closed position, and at a point past 90 inches (2286 mm) from the horizontal.
+
+3.The opening force of gable-type shutter ventilators shall be measured from the top of the operating bar.
+
+(o)Test report. The test report shall include but is not limited to the following:
+
+1.A detailed description of the unit and its intended operation.
+
+2.Engineering data and shop drawings. Shop drawings shall bear the seal or stamp of a registered or licensed engineer or architect attesting to the structural integrity of the ventilator as it relates to the provisions of Section 12-4-100 (f).
+
+3.Photographs [4 inches by 5 inches (101 mm by 127 mm) or larger] of the unit with markings identifying component parts of the unit.
+
+4.Description and results of the tests performed.
+

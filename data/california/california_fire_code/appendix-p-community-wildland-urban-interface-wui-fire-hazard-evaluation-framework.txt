@@ -1,0 +1,107 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX P – COMMUNITY WILDLAND-URBAN INTERFACE (WUI) FIRE HAZARD EVALUATION FRAMEWORK
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)(Not adopted by the State Fire Marshal)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX APPENDIX P P COMMUNITY WILDLAND-URBAN INTERFACE (WUI) FIRE HAZARD EVALUATION FRAMEWORK COMMUNITY WILDLAND-URBAN INTERFACE (WUI) FIRE HAZARD EVALUATION FRAMEWORK
+
+Wildland-Urban Interface (WUI) fire spread has significant impact on communities well beyond the loss of structures, including community evacuation and incident response. Pre-fire planning and hazard mitigation impact how the fire develops, how the life safety of residents and first responders is impacted during evacuations, and the extent of structural and infrastructure losses. There is a need to document pre-fire hazard in a way that assesses the fire impact beyond potential structural losses.
+
+This appendix contains a preliminary Community WUI Fire Hazard Evaluation Framework as a suggested methodology to begin to support communities at risk in the identification of their unique hazards and to provide common metrics for comparisons between communities. This preliminary framework includes information on community size, population and fuels; on notification and evacuation; and on the community infrastructure and firefighting response potential. Aspects of this framework may already be included in various community-level documents, such as Community Wildfire Protection Plans or evacuation plans. Development of a standard framework will (1) consolidate relevant WUI fire hazard and planning information in one place, and (2) allow for cross-community comparisons.
+
+The evaluation required to implement this framework will support pre-fire hazard assessment and during-fire response operations. An increased understanding of fire-evacuation, fire-structural response and fire-defensive actions relationships is needed to assess the overall community WUI fire hazard. The quantification of these relationships will enable communities to optimize the community-level response to WUI fire hazards in a more integrated approach and result in increased life safety and reduced losses.
+
+Definitions
+
+The Community WUI Hazard Evaluation Framework presented here is intended for communities as small as a few hundred to tens of thousands of residents. The methodology is not intended for the documentation of single residences or large cities. It is intended to provide a community with an overview of the overall WUI fire-related hazards and to enable the authority having jurisdiction (AHJ) to compare the relative hazards and preparedness levels of different communities. The information collected can be used by first responders and community and county officials to prioritize hazard mitigation within and around the community and to develop “tabletop” responses to different WUI fire scenarios. In the event of an actual WUI fire, the information collected could be used by first responders and local officials to safely evacuate civilians, to reduce the risk of first responder injuries and to enhance fire containment. The following are defi nitions and uses of the different components of the Community WUI Fire Hazard Evaluation Framework. This framework may be expanded to include additional characteristics that are not specifically listed in this preliminary version.
+
+Community
+
+In the sense of WUI fire hazard, the community should be viewed in the context of evacuation arteries rather than jurisdictional boundaries. As such, the community may have parts that are incorporated or unincorporated. Community size is reported in acres, and the community boundary selected for this hazard evaluation can be provided for use in a geographic information system (GIS) layer in a number of formats, including but not limited to shapefile, geodatabase or Geo-Package. A topographic overview of the area (community) is used to describe the general conditions using one or more of the following key words: flat terrain, rolling hills, moderate slopes, valleys, steep slopes and/or plateau.
+
+Information about prevailing weather patterns, such as localized winds or significant wind events (strength and direction), should also be included in the community profile.
+
+Fuels
+
+The fuels section is intended to provide an overview of the structural, vegetative and other fuels present in the community. This is not a parcel-level assessment; however, if defensible space assessment data is available, it can be aggregated and utilized within this framework to provide higher resolution assessment of community fire hazard. Structure density is a simple metric to capture structure-to-structure spacing and provide insight on the potential structure-to-structure fire spread. For uniform communities, a representative structure separation distance (SSD) may be sufficient, whereas nonuniform communities will be better described using a histogram of SSD. The age of structures may also be a factor in structure vulnerability due to changes in building codes associated with structure hardening. Similarly, a community that was built over a short period of time can be represented by a single value representing the decade of construction, while a community that grew and expanded over long periods will be better represented by a histogram of structure ages.
+
+A database such as LANDFIRE1can provide the vegetative fuel type and fuel loading throughout the community. This data will be limited by the age of the last LANDFIRE overflight and the 100 feet (30 meters) pixel spatial resolution.
+
+1.Landfire website: https://www.landfire.gov/
+
+Natural and artificial fuel breaks, including fuel treatments within and around the community, should be represented in a geospatial format and should include the year the vegetative fuel treatment was conducted. Fuel treatments should also include any logging activities in the area surrounding the community. Fire history in and around the community will describe the last time the community experienced direct impacts from fire. Shapefiles of the fuel treatments and fire history will allow for spatial documentation of this data. Fuel treatments and fire history should be documented at least 10 miles (16 km) out from the edge of the community. Local conditions (e.g., fuel, topography, weather, evacuation routes) may require documentation well beyond 10 miles (16 km). The last large fire in the area of the community perimeter, together with the vegetative fuel loading, will provide information on the potential energy content of the vegetative fuels in the event of a short- or long-term drought.
+
+The documentation of other community hazards, such as hazmat or high fuel load facilities (e.g., fixed propane tanks, hazardous material storage and use facilities, ammunition facilities lumber yards, pallet storage, tire storage), is important as they can affect civilians and first responder safety during evacuations, fire containment and mop-up activities. The information should be provided in the form of a GIS layer and may then be used by first responders to develop “tabletop” responses for emergency preparedness, and to direct response actions during a WUI fire event.
+
+Population
+
+The population of the selected community will impact, among other factors, the minimum time required for evacuation. Population and population density, expressed as the number of residents per acre, are both important metrics that provide information that can be used for evacuation assessment. The permanent to transient population density ratio is intended to capture the fraction of the community that may be visiting for tourism and may not be aware of community evacuation and other fire related activities.
+
+Notification
+
+The notification section of the Community WUI Hazard Evaluation is designed to capture the presence and type of mass-notification tools available to emergency managers. It should be noted that reliance on individual notification methods may result in limited notifications. If a Reverse 911 system is in place, the percentage of the community that will potentially receive the notifications from this system will estimate the number of residents that may require different notification(s). Sirens or other fixed notification systems with power backup should also be listed in this section along with the fraction of the population covered by these systems. Additional notification systems that don’t require phone or internet are also captured in this section, since WUI events frequently result in power outages or other service interruptions.
+
+This section of the Community WUI Hazard Evaluation is not intended to replace a full community evacuation study or act as a community evacuation plan. The primary purpose of this section is to compute, given a number of assumptions, a Minimum Throughput Time (MTT), to provide an initial idealized order of magnitude time to be considered in the early stages of evacuation pre-planning. This information can be of value to first responders and community emergency planning personnel, as it may potentially highlight critical evacuation bottlenecks inside or outside the community.
+
+The MTT concept is a traffic engineering calculation of roadway capacity to provide an initial lower bound for planning community evacuation. The MTT is intended for isolated and partly isolated interface and intermix communities rather than a city setting with large populations and complex evacuation routes. A community should consider a detailed evacuation study to further enhance the community evacuation plan. There is a significant body of work associated with developing dynamic evacuation models.2
+
+2.An example of a framework which includes coupled fire and evacuation considerations, as well as background on the individual model components, is provided in Ronchi et al. (2019) “An open multi-physics framework for modelling WUI fire evacuations,” Safety Science 118:868-880.
+
+The MTT considers two significant factors: bottlenecks within and beyond town, and the total number of vehicles that must be accommodated. Bottlenecks slowing traffic through-put may be located within or outside of jurisdictional boundaries. Bottlenecks occurring well beyond the evacuating community may cause ripple effects significantly impacting community evacuation. In identifying the population for computing the MTT, consideration should be given to neighboring settlements/communities that may share the same evacuation route(s). The MTT should consider the minimum number of traffic lanes (i.e., 8 lanes merging into 2 lanes should be treated as 2 lanes) available for evacuation, the community population and the average speed limit of the egress routes. Contraflow, the implementation of reverse direction traffic flow, may be considered here, along with provisions for first responder access to the community. The computed Minimum Throughput Time (MTT) does not account for any of the numerous potential hindrances to evacuation traffic, such as road accidents, reduced speed due to smoke obscuration, merging of traffic in town to feed the primary arteries, large vehicles that occupy more space than cars and have reduced maneuverability, or fire activity impacts, such as burn overs, causing evacuation lane(s) closures and potential slowdowns associated with traffic redirections.
+
+The evacuation section is also used to identify vulnerabilities of egress arteries including vegetative fuel setbacks as well as any hazardous material facilities which might affect evacuation. Fuel setback information, collected in 0.15 miles (0.25 km) increments along egress routes, presented in the form of a histogram and a GIS layer, could help identify vulnerable spots that may potentially impact evacuation and identify candidate locations for fuel treatments.
+
+The presence of a Community Evacuation Plan, the presence and capacity of safety zones and other large crowd assembly areas, and whether evacuation drills are performed will contribute to the community evacuation preparedness overview. The number of hospitals and senior care facilities and their total capacity will provide further information to assess overall community evacuation needs.
+
+COMMUNITY WUI FIRE HAZARD EVALUATION FRAMEWORK
+COMMUNITY	DATA TYPE	DATA LAYER IN MDS
+Community shapefile, geodatabase or Geo-Package including topography and geographic attributes, and prevailing weather patterns (e.g., wind)	GIS layer 	x
+FUELS
+Structure Density (structure separation distances—SSD)	SSD histogram	
+Age of structures	Histogram	
+Vegetative Fuel Loading: - Fuel type - Fuel loading	Fuel type Tons/acre
+Natural and artificial fuel breaks (including fuel treatments within and around community and year built)	List, GIS layer	x
+Community hazards (e.g., hazmat and high fuel load facilities)	Specify, GIS layer	x
+Fire History	Frequency of, and most recent, fires in/around community	x
+POPULATION
+Population - Density - Permanent/transient ratio	Number, age distribution Number/acre p/t ratio
+NOTIFICATION
+Reverse 911 - Opt-in or Opt-out - Percent of population enrolled in Reverse 911	Opt-in/Opt-out %	
+Sirens or other notification with power backup
+- Percent of population within siren coverage range	List % population	
+Notification dissemination w/out phone or internet	y/n
+EVACUATION
+Egress Route Capacity (Minimum Throughput Time)	Time (hours)
+Vulnerability of egress arteries: - Fuel setbacks - Hazmat/high fuel load facilities affecting evacuation - Other	Fuel setback data, GIS layer Specify, GIS layer	xxx
+Hospitals and senior care facilities	Specify, number of persons	x
+Community evacuation plan Safety zones and large crowd assembly areas, capacity Evacuation drills	y/n, specify, GIS layer y/n, number, GIS layer y/n	xx
+Community in evacuation route of other communities, through-flow number	y/n, identify, number
+INFRASTRUCTURE / COOP / COG
+Location and needs of key facilities	List	x
+Public water, dependence on power, generator backup, community owned water	y/n, y/n, y/n, y/n
+Power lines around primary arteries (above ground or below)	Above or below	x
+Critical infrastructure that requires fuel to keep operating	Specify, GIS layer	x
+FIRE FIGHTING RESPONSE
+Volunteer vs Career (availability of first responder resources at station)	Volunteer/career/combination	
+Density of firefighting (ff) responder to number of structures (ff/structure ratio)	ff/structures	
+Mutual aid response (engines-hours histogram) and agreements with mutual aid	Engines-hours histogram	Infrastructure / COOP / COG
+
+The locations and needs of key facilities for maintaining continuity of operations (COOP) and continuity of government (COG), such as police, fire, EMS, hospitals, government buildings, cell towers, water sources, water provider infrastructure, electrical utility key infrastructure and natural gas key infrastructure should be listed and incorporated in this part of the evaluation framework.
+
+Infrastructure characteristics, particularly related to water supply and electric utilities, can impact response and potential pre-fire hazard reduction. The public water system dependence on power supply, including the availability of backup power sources (i.e., generator backup) will provide insight into the resilience of the water system. The location of power lines (i.e., above or below ground) can impact evacuation, as downed power lines can impact evacuation and mobility throughout the community.
+
+Fire Fighting Response
+
+The type of fire department, whether volunteer, career, or combined, may impact the likely availability and response time of first responder resources. The density of firefighting (ff) responders, as a ratio of the number of personnel on shift to the number of structures (number of ffs/number of structures) will provide information on the maximum possible coverage by the local resources.
+
+In this section, mutual aid resources should be counted only if mutual aid agreements are in place and can ensure rapid deployment. Mutual aid response is captured through a histogram in 1-, 2-, 3- and 4-hour travel times. This may also be approximated using a geographic radius of distance from the community. The purpose of this information is to provide insight into the minimum response times by mutual aid.
+

@@ -1,0 +1,873 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 31 – TENTS, TEMPORARY SPECIAL EVENT STRUCTURESAND OTHER MEMBRANE STRUCTURES
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt Entire Chapter																							
+	Adopt Entire Chapter as amended (amended sections listed below)			X																				
+	Adopt only those sections that are listed below																							
+	[California Code of Regulations, Title 19, Division 1]				X																			
+	Chapter / Section																							
+	3101.1			X																				
+	[T-19 §303 (a)(b)]				X																			
+	3101.2			X																				
+	3101.3			X																				
+	3103.3.1			X																				
+	3103.8.2			X																				
+>	3103.9.4				X																			
+	[T-19 §340]				X																			
+	[T-19 §341]				X																			
+	[T-19 §321]				X																			
+	[T-19 §315 (a)]				X																			
+	[T-19 §332 (a)]				X																			
+	[T-19 §334]				X																			
+	[T-19 §335 (a)(b)]				X																			
+	[T-19 §315 (d)]				X																			
+	3108			X																				
+	[T-19 §315 (b)]				X																			
+	[T-19 §326 (b)]				X																			
+	[T-19 §316]				X																			
+	[T-19 §317]				X																			
+	[T-19 §319 (a-c]				X																			
+	[T-19 §319 (d)(e)]				X																			
+	[T-19 §325]				X																			
+	[T-19 §324 (a)(b)]				X																			
+	[T-19 §320]				X																			
+	[T-19 §326 (a)]				X																			
+	[T-19 §326 (c)]				X																			
+	3107.20			X																				* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 31 TENTS, TEMPORARY SPECIAL EVENT STRUCTURES AND OTHER MEMBRANE STRUCTURES
+
+User note:
+
+About this chapter: Chapter 31 provides requirements that are intended to protect temporary as well as permanent tents and air-supported and other membrane structures and temporary stage special event structures from fire and similar hazards. The provisions regulate structure location and access, anchorage, egress, heat-producing equipment, hazardous materials and operations, combustible vegetation, ignition sources, and waste accumulation. This is accomplished through requiring regular inspections and certifying continued compliance with fire safety regulations. This chapter also addresses outdoor assembly events, which are not limited to those events with tents or other membrane structures, but are regulated due to the number of people, density of those people and hazards associated with large outdoor events related to egress, fire hazards from cooking and other related concerns.
+
+SECTION 3101 GENERAL
+
+3101.1 Scope.
+
+Tents, temporary special event structures and membrane structures shall comply with this chapter. The provisions of Section 3103 are applicable only to temporary tents and membrane structures. The provisions of Sections 3104 and 3106 are applicable to temporary and permanent tents and membrane structures. The provisions of Section 3105 are applicable to temporary special event structures. The provisions of Section 3106 are applicable to inflatable amusement devices. The provisions of Section 3107 are applicable to outdoor assembly events. Other temporary structures shall comply with the California Building Code.
+
+These building standards govern the use of tents, awnings or other fabric enclosures, including membrane (air-supported and air-inflated) structures and places of assemblage, in or under which 10 or more persons may gather for any lawful purpose.
+
+Exceptions:
+
+1.Tents, awnings or other fabric enclosures used to cover or enclose private swimming pools and similar facilities on the premises of private one- and two-family dwellings.
+
+2.Tents used to conduct committal services on the ground of a cemetery.
+
+3.Tents, awnings or other fabric enclosures erected and used within a sound stage, or other similar structural enclosure which is equipped with an overhead automatic sprinkler system.
+
+4.Tensioned membrane roof materials supported by rigid frames or installed on a mast and cable system provided such structures conform to the requirements of one of the types of construction as described in these regulations.
+
+5.Fabric structures which are part of mobile homes, recreational vehicles or commercial coaches governed by the provisions of Division 13, Part 2, Health and Safety Code (Department of Housing and Community Development).
+
+[California Code of Regulations, Title 19, Division 1, §303.(a) and (b)] Scope.
+
+(a) The provisions of California Code of Regulations, Title 19, Division 1, Chapter 2 apply to the sale, offering for sale, manufacture for sale, rental and use of tents within this state.
+
+(b) For building standards relating to tents and membrane structures, see California Code of Regulations, Title 24, Part 9.
+
+3101.2 Alternate means of protection.
+
+When approved by the enforcing agency, exceptions to the provisions of these building standards may be permitted, provided alternate means of protection which are at least equal to these regulations in quality, strength, effectiveness, fire resistance, durability and safety are provided.
+
+3101.3 Labor camps.
+
+Tents used in labor camps for the housing of employees shall have tight wooden floors raised at least 4 inches (102 mm) above ground level having baseboards on all sides to a height of at least 6 inches (152 mm) or shall have concrete slabs with finished surface at least 4 inches (102 mm) above grade having baseboards on all sides to a height of at least 6 inches (152 mm).
+
+Electrical installations serving and installed within tents shall comply with the applicable requirements of the California Electrical Code.
+
+Tents shall not be considered suitable sleeping places when it is found necessary to provide heating facilities in order to maintain a minimum temperature of 60°F (33.3°C) within such tent during the period of occupancy.
+
+Note: See Section 17008 of the Health and Safety Code for definition of labor camp.
+
+SECTION 3102 DEFINITIONS
+
+3102.1 Definitions.
+
+The following terms are defined in Chapter 2:
+
+AIR-INFLATED STRUCTURE.
+
+AIR-SUPPORTED STRUCTURE.
+
+MEMBRANE STRUCTURE.
+
+TEMPORARY SPECIAL EVENT STRUCTURE.
+
+TENT.
+
+SECTION 3103 TEMPORARY TENTS AND MEMBRANE STRUCTURES
+
+3103.1 General.
+
+Tents and membrane structures used for temporary periods shall comply with this section and Section 3106. Other temporary structures erected for a period of 180 days or less shall comply with the California Building Code.
+
+3103.2 Approval required.
+
+Tents and membrane structures having an area in excess of 400 square feet (37 m2) shall not be erected, operated or maintained for any purpose without first obtaining a permit and approval from the fire code official.
+
+Exceptions:
+
+1.Tents used exclusively for recreational camping purposes.
+
+2.Tents open on all sides that comply with all of the following:
+
+2.1.Individual tents having a maximum size of 700 square feet (65 m2).
+
+2.2. The aggregate area of multiple tents placed side by side without a fire break clearance of 12 feet (3658 mm), not exceeding 700 square feet (65 m2) total.
+
+2.3. A minimum clearance of 12 feet (3658 mm) to all structures and other tents.
+
+3103.3 Outdoor assembly event.
+
+For the purposes of this chapter, an outdoor assembly event shall include a circus, carnival, tent show, theater, skating rink, dance hall or other place of assembly in or under which persons gather for any purpose.
+
+3103.3.1 Special amusement area.
+
+Tents and other membrane structures erected as a special amusement area shall be equipped with an automatic sprinkler system in accordance with Section 914.7.1.
+
+3103.4 Permits.
+
+Permits shall be required as set forth in Sections 105.5 and 105.6.
+
+3103.5 Use period.
+
+Temporary tents, air-supported, air-inflated or tensioned membrane structures shall not be erected for a period of more than 180 days within a 12-month period on a single premises.
+
+3103.6 Construction documents.
+
+A detailed site and floor plan for tents or membrane structures with an occupant load of 50 or more shall be provided with each application for approval. The tent or membrane structure floor plan shall indicate details of the means of egress facilities, seating capacity, arrangement of the seating and location and type of heating and electrical equipment. The construction documents shall include an analysis of structural stability.
+
+3103.7 Inspections.
+
+The entire tent, air-supported, air-inflated or tensioned membrane structure system shall be inspected at regular intervals, but not less than two times per permit use period, by the permittee, owner or agent to determine that the installation is maintained in accordance with this chapter.
+
+Exception: Permit use periods of less than 30 days.
+
+3103.7.1 Inspection report.
+
+Where required by the fire code official, an inspection report shall be provided and shall consist of maintenance, anchors and fabric inspections.
+
+3103.8 Access, location and parking.
+
+Access, location and parking for temporary tents and membrane structures shall be in accordance with this section.
+
+3103.8.1 Access.
+
+Fire apparatus access roads shall be provided in accordance with Section 503.
+
+3103.8.2 Location.
+
+Tents or membrane structures shall not be located within 20 feet (6096 mm) of lot lines, buildings, other tents or membrane structures, parked vehicles or internal combustion engines. For the purpose of determining required distances, support ropes and guy wires shall be considered as part of the temporary membrane structure or tent.
+
+Exceptions:
+
+1.Separation distance between membrane structures and tents not used for cooking is not required where the aggregate floor area does not exceed 15,000 square feet (1394 m2).
+
+2.Membrane structures or tents need not be separated from buildings where all of the following conditions are met:
+
+2.1.The aggregate floor area of the membrane structure or tent shall not exceed 10,000 square feet (929 m2).
+
+2.2. The aggregate floor area of the building and membrane structure or tent shall not exceed the allowable floor area including increases as indicated in the California Building Code.
+
+2.3. Required means of egress are provided for both the building and the membrane structure or tent including travel distances.
+
+2.4. Fire apparatus access roads are provided in accordance with Section 503.
+
+3.When approved by the enforcing agency, tents may be located in or on permanent buildings provided such use does not constitute an undue hazard.
+
+3103.8.3 Location of structures in excess of 15,000 square feet in area.
+
+Membrane structures having an area of 15,000 square feet (1394 m2) or more shall be located not less than 50 feet (15 240 mm) from any other tent or structure as measured from the sidewall of the tent or membrane structure unless joined together by a corridor.
+
+3103.8.4 Membrane structures on buildings.
+
+Membrane structures that are erected on buildings, balconies, decks or other structures shall be regulated as permanent membrane structures in accordance with Section 3102 of the California Building Code.
+
+3103.8.5 Connecting corridors.
+
+Tents or membrane structures are allowed to be joined together by means of corridors. Exit doors shall be provided at each end of such corridor. On each side of such corridor and approximately opposite each other, there shall be provided openings not less than 12 feet (3658 mm) wide.
+
+3103.8.6 Fire break.
+
+An unobstructed fire break passageway or fire road not less than 12 feet (3658 mm) wide and free from guy ropes or other obstructions shall be maintained on all sides of all tents and membrane structures unless otherwise approved by the fire code official.
+
+3103.9 Structural stability and anchorage required.
+
+Tents or membrane structures and their appurtenances shall be designed and installed to withstand the elements of weather and prevent collapsing. Documentation of structural stability shall be furnished to the fire code official.
+
+3103.9.1 Tents and membrane structures greater than one story.
+
+Tents and membrane structures exceeding one story shall be designed and constructed to comply with Sections 1606 through 1609 of the California Building Code.
+
+3103.9.2 Tents and membrane structures greater than 7,500 square feet.
+
+Tents and membrane structures greater than 7,500 square feet (697 m2) shall be designed and constructed to comply with Sections 1606 through 1609 of the California Building Code.
+
+3103.9.3 Tents and membrane structures with an occupant load greater than 1,000.
+
+Tents and membrane structures with an occupant capacity greater than 1,000 persons shall be designed and constructed to comply with Sections 1606 through 1609 of the California Building Code.
+
+3103.9.4 3103.9.4 Water-filled vessels. Water-filled vessels.
+
+Water-filled vessels shall not be used to anchor a tent or membrane structure unless approved and in accordance with the tent or membrane structure manufacturer’s instructions.
+
+3103.10 Temporary air-supported and air-inflated membrane structures.
+
+Temporary air-supported and air-inflated membrane structures shall be in accordance with Sections 3103.10.1 through 3103.10.4.
+
+3103.10.1 Door operation.
+
+During high winds exceeding 50 miles per hour (22 m/s) or in snow conditions, the use of doors in air-supported structures shall be controlled to avoid excessive air loss. Doors shall not be left open.
+
+3103.10.2 Fabric envelope design and construction.
+
+Air-supported and air-inflated structures shall have the design and construction of the fabric envelope and the method of anchoring in accordance with Architectural Fabric Structures Institute FSAAS.
+
+3103.10.3 Blowers.
+
+An air-supported structure used as a place of assembly shall be furnished with not less than two blowers, each of which has adequate capacity to maintain full inflation pressure with normal leakage. The design of the blower shall be so as to provide integral limiting pressure at the design pressure specified by the manufacturer.
+
+3103.10.4 Auxiliary inflation systems.
+
+Places of public assembly for more than 200 persons shall be furnished with an auxiliary inflation system capable of powering a blower with the capacity to maintain full inflation pressure with normal leakage in accordance with Section 3103.10.3 for a minimum duration of 4 hours. The auxiliary inflation system shall be either a fully automatic auxiliary engine-generator set or a supplementary blower powered by an internal combustion engine that shall be automatic in operation. The system shall be capable of automatically operating the required blowers at full power within 60 seconds of a commercial power failure.
+
+3103.11 Seating arrangements.
+
+Seating in tents or membrane structures shall be in accordance with Chapter 10.
+
+3103.12 Means of egress.
+
+Means of egress for temporary tents and membrane structures shall be in accordance with Sections 3103.12.1 through 3103.12.8.
+
+3103.12.1 Distribution.
+
+Exits shall be spaced at approximately equal intervals around the perimeter of the tent or membrane structure, and shall be located such that all points are 100 feet (30 480 mm) or less from an exit.
+
+3103.12.2 Number.
+
+Tents or membrane structures or a usable portion thereof shall have not less than one exit and not less than the number of exits required by Table 3103.12.2. The total width of means of egress in inches (mm) shall be not less than the total occupant load served by a means of egress multiplied by 0.2 inches (5 mm) per person.
+
+TABLE 3103.12.2
+
+MINIMUM NUMBER OF MEANS OF EGRESS AND MEANS OF EGRESS WIDTHS FROM TEMPORARY MEMBRANE STRUCTURES AND TENTS
+
+OCCUPANT LOAD	MINIMUM NUMBER OF MEANS OF EGRESS	MINIMUM WIDTH OF EACH MEANS OF EGRESS (inches)	MINIMUM WIDTH OF EACH MEANS OF EGRESS (inches)
+Tent	Membrane Structure
+10 to 199	2	72	36
+200 to 499	3	72	72
+500 to 999	4	96	72
+1,000 to 1,999	5	120	96
+2,000 to 2,999	6	120	96
+Over 3,000a	7	120	96For SI: 1 inch = 25.4 mm.
+
+a.When the occupant load exceeds 3,000, the total width of means of egress (in inches) shall be not less than the total occupant load multiplied by 0.2 inch per person.
+
+3103.12.3 Exit openings from tents.
+
+Exit openings from tents shall remain open unless covered by a flame-resistant curtain. The curtain shall comply with the following requirements:
+
+1.Curtains shall be free sliding on a metal support. The support shall be not less than 80 inches (2032 mm) above the floor level at the exit. The curtains shall be so arranged that, when open, no part of the curtains obstructs the exit.
+
+2.Curtains shall be of a color, or colors, that contrasts with the color of the tent.
+
+3103.12.4 Doors.
+
+Exit doors shall swing in the direction of exit travel. To avoid hazardous air and pressure loss in air-supported membrane structures, such doors shall be automatic closing against operating pressures. Opening force at the door edge shall not exceed 15 pounds (66 N).
+
+3103.12.5 Aisle.
+
+The width of aisles without fixed seating shall be in accordance with the following:
+
+1.In areas serving employees only, the minimum aisle width shall be 24 inches (610 mm) but not less than the width required by the number of employees served.
+
+2.In public areas, smooth-surfaced, unobstructed aisles having a minimum width of not less than 44 inches (1118 mm) shall be provided from seating areas, and aisles shall be progressively increased in width to provide, at all points, not less than 1 foot (305 mm) of aisle width for each 50 persons served by such aisle at that point.
+
+3103.12.5.1 Arrangement and maintenance.
+
+The arrangement of aisles shall be subject to approval by the fire code official and shall be maintained clear at all times during occupancy.
+
+3103.12.6 Exit signs.
+
+Exits shall be clearly marked. Exit signs shall be installed at required exit doorways and where otherwise necessary to indicate clearly the direction of egress where the exit serves an occupant load of 50 or more.
+
+3103.12.6.1 Exit sign illumination.
+
+Exit signs shall be either listed and labeled in accordance with UL 924 as the internally illuminated type and used in accordance with the listing or shall be externally illuminated by luminaires supplied in either of the following manners:
+
+1.Two separate circuits, one of which shall be separate from all other circuits, for occupant loads of 300 or less.
+
+2.Two separate sources of power, one of which shall be an approved emergency system, shall be provided where the occupant load exceeds 300. Emergency systems shall be supplied from storage batteries or from the on-site generator set, and the system shall be installed in accordance with the California Electrical Code. The emergency system provided shall have a minimum duration of 90 minutes when operated at full design demand.
+
+3103.12.7 Means of egress illumination.
+
+Means of egress shall be illuminated with light having an intensity of not less than 1 foot-candle (11 lux) at floor level while the structure is occupied. Fixtures required for means of egress illumination shall be supplied from a separate circuit or source of power.
+
+3103.12.8 Maintenance of means of egress.
+
+The required width of exits, aisles and passageways shall be maintained at all times to a public way. Guy wires, guy ropes and other support members shall not cross a means of egress at a height of less than 8 feet (2438 mm). The surface of means of egress shall be maintained in an approved manner.
+
+SECTION 3104 TEMPORARY AND PERMANENT TENTS AND MEMBRANE STRUCTURES
+
+3104.1 General.
+
+Tents and membrane structures, both temporary and permanent, shall be in accordance with this section and Sections 3106 and 3107. Permanent tents and membrane structures shall also comply with the California Building Code.
+
+[California Code of Regulations, Title 19, Division 1, §340] Existing Small Tents.
+
+Existing small tents are exempt from California Code of Regulations, Title 19, Division 1, Chapter 2.
+
+[California Code of Regulations, Title 19, Division 1, §341] Existing Membrane Structures and Other (Large) Existing Tents.
+
+Existing membranes of membrane structures and large (10 or more capacity) existing tents may continue to be used provided evidence of satisfactory flame resistance is available to the enforcing authority. Such evidence may be in the form of certification that the fabric passes the standard small scale flame resistance test as set forth in California Code of Regulations, Title 19, Division 1, Chapter 8 regulations or through passage of effective field tests.
+
+[California Code of Regulations, Title 19, Division 1, §321] Abatement of Fire or Panic Hazards.
+
+Any condition that presents a fire hazard, would contribute to the rapid spread of fire, interfere with the rapid exit of persons from the tents, or interfere with or delay the extinguishment of a fire, shall be immediately corrected as ordered by the enforcing authority.
+
+[California Code of Regulations, Title 19, Division 1, §315.(a)] Flame Resistance Standards.
+
+(a) All tent fabrics and all interior decorative fabrics or materials shall be flame resistant in accordance with appropriate standards set forth in California Code of Regulations, Title 19, Division 1, Chapter 8.
+
+Tent tops and sidewalls shall be made either from fabric which has been flame resistant treated with an approved exterior chemical process by an approved application concern, or from inherently flame-resistant fabric approved and listed by the State Fire Marshal.
+
+[California Code of Regulations, Title 19, Division 1, §332.(a)] Flame Resistance.
+
+(a) All tents manufactured for sale, sold, rented, offered for sale or used in California shall be made from nonflammable material or one of the following flame-resistant fabrics or material approved by the State Fire Marshal:
+
+(1) Fabrics complying with the State Fire Marshal’s requirements for flame resistance for exterior use, as set forth in California Code of Regulations, Title 19, Division 1, Chapter 8, or
+
+(2) Fabrics complying with the flame-resistance requirements set forth in “A Specification for Flame-Resistance Materials Used in Camping Tentage” published in 1975 by Canvas Products Association International, hereinafter referred to as CPAI-84.
+
+Exceptions:
+
+(1) Tents used for committal services at cemeteries.
+
+(2) Tents or similar fabric enclosures used within a sound stage or equivalent enclosure equipped with an overhead automatic fire extinguishing system.
+
+3104.2 Flame propagation performance testing and certification.
+
+Before a permit is granted, the owner or agent shall file with the fire code official a certificate provided by the product manufacturer to verify that the materials have been tested and certified by an approved testing laboratory. The certificate shall indicate that the floor coverings, tents, membrane structures and their appurtenances, which include sidewalls, drops and tarpaulins, are composed of materials meeting the flame propagation performance of Test Method 2 of NFPA 701. Additionally, it shall indicate that the bunting and combustible decorative materials and effects are composed of material meeting the flame propagation performance criteria of Test Method 1 or Test Method 2 of NFPA 701, as applicable. Alternatively, the materials shall be treated with a flame retardant in an approved manner and meet the flame propagation performance criteria of the applicable test method of NFPA 701. The certificate shall indicate compliance with the testing requirements of NFPA 701, Chapter 16. The flame propagation performance criteria shall be effective for the period specified by the permit.
+
+3104.3 Label.
+
+Membrane structures or tents shall have a permanently affixed label bearing the following information:
+
+1.The identification of size and fabric or material.
+
+2.The names and addresses of the manufacturers of the tent or air-supported structure.
+
+3.A statement that the fabric or material meets the requirements of Section 3104.2.
+
+4.If treated, the date the fabric or material was last treated with flame-retardant solution, the trade name or kind of chemical used in treatment, name of person or firm treating the fabric or material, and name of testing agency and test standard by which the fabric or material was tested.
+
+5.If untreated, a statement that no treatment was applied when the fabric or material met the requirements of Section 3104.2.
+
+[California Code of Regulations, Title 19, Division 1, §334.] Requirements Pertaining to All Tents.
+
+All tents manufactured for sale in California shall be labeled in accordance with the appropriate provisions of California Code of Regulations, Title 19, Division 1, Section 335.
+
+[California Code of Regulations, Title 19, Division 1, §335.(a) and (b)] Labeling of Tents.
+
+(a) Each section of top and sidewall in large tents shall have a durable label, permanently affixed, bearing the following information:
+
+(1) The Seal of Registration.
+
+(2) If treated fabric, the name and registration number of the approved application concern and approved chemical used, and the date of treatment.
+
+(3) If registered fabric, the trade name and registration number of the approved fabric, and the date of production.
+
+In lieu of attached labels, the required information may be applied directly to the fabric by print, stamp or stencil.
+
+(b) Small tents shall have a permanently affixed label bearing the information in California Code of Regulations, Title 19, Division 1, Section 335, subsection (a), or shall comply with the provisions specified in CPAI-84 (1975) which reads as follows:
+
+(1) Certification. A statement that the materials used in the manufacture of the item meet the flame resistance requirements of CPAI-84.
+
+(2) Manufacturer Identification. An identification of the manufacturer of the item. If the item bears a private label, it shall identify the private labeler and shall also contain a code mark which will permit the seller of the item to identify the manufacturer to the purchaser upon request.
+
+(3) Code Number. A number enabling the manufacturer to identify from his records the suppliers and suppliers’ lot numbers of the certified materials used in the item. The manufacturer shall also maintain records identifying the parties to whom he sold camping tentage. Further, he shall maintain records identifying items manufactured from lots of certified material. Records shall be maintained for four (4) years.
+
+(4) Warning label.
+
+24 pt. typeWARNING16 pt. type KEEP ALL FLAMEAND HEAT SOURCESAWAY FROM THISTENT FABRIC12 pt. type
+
+This tent is made with flame-resistant fabric which meets CPAI-84 specifications. It is not fire proof. The fabric will burn if left in continuous contact with any flame source.
+
+The application of any foreign substance to the tent fabric may render the flame resistant properties ineffective.
+
+This warning label or its equivalent must be permanently affixed to the tent at one conspicuous location, and must block letters on a white background. The first paragraph of the body of the label must be placed in a conspicuous location on each carton containing the tent.
+
+3104.4 Affidavit.
+
+The affidavit required by Section 3104.2 shall contain all of the information specified in Section 3104.3.
+
+
+
+
+
+[California Code of Regulations, Title 19, Division 1, §315.(d)] Flame Resistance Standards.
+
+(d) Certificates of Flame Resistance or other documentation affirming the requirements of California Code of Regulations, Title 19, Division 1, Section 315, subsection (a) shall be made available upon request of the enforcement authority.
+
+SECTION 3105 TEMPORARY SPECIAL EVENT STRUCTURES
+
+3105.1 General.
+
+Temporary special event structures shall comply with Section 3104, Sections 3105.2 through 3105.9 and ANSI E1.21.
+
+3105.2 Approval.
+
+Temporary special event structures in excess of 400 square feet (37 m2) shall not be erected, operated or maintained for any purpose without first obtaining approval and a permit from the fire code official and the building official.
+
+3105.3 Permits.
+
+Permits shall be required as set forth in Sections 105.5 and 105.6.
+
+3105.4 Use period.
+
+Temporary special event structures erected in accordance with ANSI E1.21 shall not be erected for a period of more than six consecutive weeks.
+
+3105.5 Required documents.
+
+The following documents shall be submitted to the fire code official and the building official for review before a permit is approved:
+
+1.Construction documents: Construction documents shall be prepared by a registered design professional in accordance with the California Building Code and ANSI E1.21 where applicable. Construction documents shall include:
+
+1.1.A summary sheet showing the building code used, design criteria, loads and support reactions.
+
+1.2. Detailed construction and installation drawings.
+
+1.3. Design calculations.
+
+1.4. Operating limits of the structure explicitly outlined by the registered design professional including environmental conditions and physical forces.
+
+1.5. Effects of additive elements such as video walls, supported scenery, audio equipment, vertical and horizontal coverings.
+
+1.6. Means for adequate stability including specific requirements for guying and cross-bracing, ground anchors or ballast for different ground conditions.
+
+2.Designation of responsible party: The owner of the temporary special event structure shall designate in writing a person to have responsibility for the temporary special event structure on the site. The designated person shall have sufficient knowledge of the construction documents, manufacturer’s recommendations and operations plan to make judgments regarding the structure’s safety and to coordinate with the fire code official.
+
+3.Operations plan: The operations plan shall reflect manufacturer’s operational guidelines, procedures for environmental monitoring and actions to be taken under specified conditions consistent with the construction documents.
+
+3105.6 Inspections.
+
+Inspections shall comply with Section 107 and Sections 3105.6.1 and 3105.6.2.
+
+3105.6.1 Independent inspector.
+
+The owner of a temporary special event structure shall employ a qualified, independent approved agency or individual to inspect the installation of a temporary special event structure.
+
+3105.6.2 Inspection report.
+
+The inspecting agency or individual shall furnish an inspection report to the fire code official. The inspection report shall indicate that the temporary special event structure was inspected and was or was not installed in accordance with the approved construction documents. Discrepancies shall be brought to the immediate attention of the installer for correction. Where any discrepancy is not corrected, it shall be brought to the attention of the fire code official and the designated responsible party.
+
+3105.7 Means of egress.
+
+The means of egress for temporary special event structures shall comply with Chapter 10.
+
+3105.8 Location.
+
+Temporary special event structure shall be located a distance from property lines and buildings to accommodate distances indicated in the construction drawings for guy wires, cross-bracing, ground anchors or ballast. Location shall not interfere with egress from a building or encroach on fire apparatus access roads.
+
+3105.9 Portable fire extinguishers.
+
+Portable fire extinguishers shall be provided as required by Section 906.
+
+SECTION 3106 OUTDOOR ASSEMBLY EVENTS
+
+3106.1 Scope.
+
+Outdoor assembly events shall comply with this section.
+
+3106.2 General.
+
+Outdoor assembly events shall be in accordance with this section and Section 403.11. Temporary structures erected for outdoor assembly events shall comply with this chapter.
+
+3106.2.1 Approval required.
+
+Outdoor assembly events shall be approved by the fire code official.
+
+3106.2.2 Permits.
+
+An operational permit shall be required as set forth in Section 105.5.
+
+3106.2.3 Access.
+
+An approved means of fire apparatus access shall be provided.
+
+3106.2.3.1 Fire service features.
+
+Unobstructed access to fire hydrants, drafting sources and other fire protection features shall be maintained at all times.
+
+3106.3 Occupancy and means of egress.
+
+The number and location of emergency egress and escape routes shall be approved by the fire code official.
+
+3106.3.1 Occupant load.
+
+The fire code official shall establish an occupant load for the event site.
+
+3106.3.2 Maintenance of emergency egress and escape routes.
+
+Emergency egress and escape routes shall be maintained at all times.
+
+3106.4 Public safety for events.
+
+Outdoor assembly events shall comply with Sections 3106.4.1 through 3106.4.7.
+
+3106.4.1 Public safety plan for gatherings.
+
+A public safety plan shall be prepared where required by Section 403.11.2. The public safety plan shall be submitted to the fire code official with the application for an operational permit as required by Section 3106.2.2.
+
+3106.4.2 Weather monitoring person.
+
+Where required by the fire code official, the event operator or agent shall designate one qualified individual to continuously monitor local weather reports, forecasts and conditions. Said person shall be responsible for initiating weather-related event mitigation activities, ordering the suspension or cancellation of the outdoor assembly event and issuing the evacuation signal in accordance with the approved public safety plan.
+
+3106.4.3 Crowd managers.
+
+Where events involve a gathering of more than 1,000 people, trained crowd managers shall be provided in accordance with Section 403.11.3.
+
+3106.4.4 Portable fire extinguishers.
+
+Approved portable fire extinguishers complying with Section 906 shall be provided and placed in locations approved by the fire code official.
+
+3106.4.5 Smoking.
+
+Smoking shall be permitted only in designated areas. Other areas shall have approved “No Smoking” signs conspicuously posted and maintained in accordance with Section 310.
+
+[California Code of Regulations, Title 19, Division 1, §316] Smoking Prohibited.
+
+Smoking is not permitted in any tent and in any adjacent areas where hay or other highly flammable materials are kept. “No Smoking” signs shall be conspicuously posted in all tents open to the public and wherever otherwise specified by the enforcing authority.
+
+3106.4.6 Combustible vegetation.
+
+Combustible vegetation that could create a fire hazard shall be removed from the outdoor assembly event area.
+
+3106.4.7 Combustible refuse.
+
+Combustible refuse shall be kept in noncombustible containers with tight-fitting or self-closing lids. Combustible refuse shall be removed from the event site at regular intervals to prevent an unsafe accumulation within the event site.
+
+3106.5 Cooking appliances or devices.
+
+Outdoor assembly events with concession stands or booths using cooking appliances or devices shall comply with Sections 3106.5.1 through 3106.5.3.
+
+3106.5.1 Separation from tents or structures.
+
+Cooking appliances or devices that produce sparks or grease-laden vapors or flying embers (firebrands) shall not be used within 20 feet (6096 mm) of a tent or temporary structure.
+
+Exceptions:
+
+1.Designated cooking tents not occupied by the public when approved by the fire code official.
+
+2.Tents or structures where cooking appliances are protected with an automatic fire-extinguishing system in accordance with Section 904.13.
+
+3106.5.2 Protection.
+
+Cooking equipment using combustible oils or solids shall meet the following:
+
+1.A noncombustible lid shall be immediately available. The lid shall be of sufficient size to cover the cooking well completely.
+
+2.The equipment shall be placed on a noncombustible surface.
+
+3.An approved portable fire extinguisher for protection from cooking grease fires shall be provided at a location approved by the fire code official.
+
+3106.5.3 Liquefied petroleum gas (LP-gas).
+
+The use of liquefied petroleum gas (LP-gas) shall be in accordance with Chapter 61.
+
+3106.6 Electrical equipment and wiring.
+
+Outdoor assembly events with concession stands or booths using electrical equipment and temporary wiring for electrical power or lighting shall comply with the applicable provisions of the California Electrical Code and Sections 3106.6.1 through 3106.6.3.
+
+3106.6.1 Outdoor use.
+
+Electrical equipment and wiring shall be listed and labeled for outdoor use.
+
+3106.6.2 Generators.
+
+Generators shall be installed not less than 10 feet (3048 mm) from combustible materials, and shall be isolated from the public by physical guard, fence or enclosure installed not less than 3 feet (914 mm) away from the internal combustion power source.
+
+3106.6.3 Portable fire extinguishers.
+
+Each generator shall be provided with an approved portable fire extinguisher complying with Section 906.
+
+SECTION 3107 OPERATIONAL REQUIREMENTS
+
+3107.1 General.
+
+Temporary and permanent tents and membrane structures shall comply with this section.
+
+3107.2 Combustible materials.
+
+Hay, straw, shavings or similar combustible materials shall not be located within any tent or membrane structure containing an assembly occupancy, except the materials necessary for the daily feeding and care of animals. Sawdust and shavings utilized for a public performance or exhibit shall not be prohibited provided that the sawdust and shavings are kept damp. Combustible materials shall not be permitted under stands or seats at any time.
+
+[California Code of Regulations, Title 19, Division 1, §315.(b)] Flame Resistance Standards.
+
+(b) Sawdust, shavings or other combustible material used on the floor or ground shall be made flame resistant or when approved by the enforcing authority shall be kept adequately damp when tent is occupied.
+
+[California Code of Regulations, Title 19, Division 1, §326.(b)] Hazard Abatement.
+
+(b) Hay, straw, trash and other similar flammable material shall be stored more than 50 feet from any tent except upon approval of the enforcing authority.
+
+Exception: Tents to which the public is not admitted.
+
+3107.3 Smoking.
+
+Smoking shall not be permitted in tents or membrane structures. Approved “No Smoking” signs shall be conspicuously posted in accordance with Section 310.
+
+[California Code of Regulations, Title 19, Division 1, §316] Smoking Prohibited.
+
+Smoking is not permitted in any tent and in any adjacent areas where hay or other highly flammable materials are kept. “No Smoking” signs shall be conspicuously posted in all tents open to the public and wherever otherwise specified by the enforcing authority.
+
+3107.4 Open or exposed flame.
+
+Open flame or other devices emitting flame, fire or heat or any flammable or combustible liquids, gas, charcoal or other cooking device or any other unapproved devices shall not be permitted inside or located within 20 feet (6096 mm) of the tent or membrane structures while open to the public unless approved by the fire code official.
+
+[California Code of Regulations, Title 19, Division 1, §317] Fireworks and Open Flames.
+
+Fireworks, open flame or any device emitting flame or spark shall not be used in or immediately adjacent to any tent while open to the public, except when approved in writing by the enforcing authority.
+
+3107.5 Fireworks.
+
+Fireworks shall not be used within 100 feet (30 480 mm) of tents or membrane structures.
+
+3107.6 Spot lighting.
+
+Spot or effect lighting shall only be by electricity, and all combustible construction located within 6 feet (1829 mm) of such equipment shall be protected with approved noncombustible insulation not less than 91/4 inches (235 mm) thick.
+
+3107.7 Safety film.
+
+Motion pictures shall not be displayed in tents or membrane structures unless the motion picture film is safety film.
+
+3107.8 Clearance.
+
+There shall be a clearance of not less than 3 feet (914 mm) between the fabric envelope and all contents located inside membrane structures.
+
+3107.9 Portable fire extinguishers.
+
+Approved portable fire extinguishers complying with Section 906 shall be provided and placed in locations as required by the California Code of Regulations, Title 19, Division 1, Chapter 2, Article 3, Section 319.
+
+[California Code of Regulations, Title 19, Division 1, §319.(a) through (c)] Fire Extinguishers and Other Fire Protection Equipment.
+
+(a) One Class 2-A fire extinguisher shall be provided in every tent having a floor area between 500 square feet and 1,000 square feet plus one 2-A fire extinguisher in each auxiliary adjacent tent. One additional extinguisher shall be provided for each additional 2000 square feet or fraction thereof.
+
+(b) At least one Class 10 B-C fire extinguisher shall be provided with each generator or transformer.
+
+(c) At least one Class 10 B-C fire extinguisher shall be provided in kitchen, dining areas and at locations where flammable or combustible liquids or flammable gases are used, stored or dispensed.
+
+3107.10 Fire protection equipment.
+
+Fire hose lines, water supplies and other auxiliary fire equipment shall be maintained at the site in such numbers and sizes as required by the fire code official.
+
+[California Code of Regulations, Title 19, Division 1, §319.(d) and (e)] Fire Extinguishers and Other Fire Protection Equipment.
+
+(d) Tents having a capacity of 1,000 or more persons shall be protected on each of the long sides with fire hose lines of at least 11/2-inch internal diameter and of sufficient length to reach either end of the tent. The water supply shall be either from the public water mains or from tanks having a capacity of not less than 500 gallons. There shall be at least 65 pounds of flowing pressure at the nozzle of the hose line when a 1/2-inch tip is used.
+
+(e) The enforcing authority may modify or waive any of the requirements of this section [Title 19, Division 1, Section 319] and may accept other types of fire extinguishing equipment in lieu of that required by Title 19, Division 1 regulations if, in the authorities’ opinion, reasonable and adequate protection will be afforded.
+
+3107.11 Occupant load factors.
+
+The occupant load allowed in an assembly structure, or portion thereof, shall be determined in accordance with Chapter 10.
+
+3107.12 Heating and cooking equipment.
+
+Heating and cooking equipment shall be in accordance with Sections 3107.12.1 through 3107.12.7.
+
+3107.12.1 Installation.
+
+Heating or cooking equipment, tanks, piping, hoses, fittings, valves, tubing and other related components shall be installed as specified in the International Fuel Gas Code and the California Mechanical Code, and shall be approved by the fire code official.
+
+3107.12.2 Venting.
+
+Gas, liquid and solid fuel-burning equipment designed to be vented shall be vented to the outside air as specified in the International Fuel Gas Code and the California Mechanical Code. Such vents shall be equipped with approved spark arresters where required. Where vents or flues are used, all portions of the tent or membrane structure shall be not less than 12 inches (305 mm) from the flue or vent.
+
+3107.12.3 Location.
+
+Cooking and heating equipment shall not be located within 10 feet (3048 mm) of exits or combustible materials.
+
+3107.12.4 Operations.
+
+Operations such as warming of foods, cooking demonstrations and similar operations that use solid flammables, butane or other similar devices that do not pose an ignition hazard, shall be approved.
+
+3107.12.5 Cooking tents.
+
+Tents with sidewalls or drops where cooking is performed shall be separated from other tents or membrane structures by not less than 20 feet (6096 mm).
+
+3107.12.6 Outdoor cooking.
+
+Outdoor cooking that produces sparks or grease-laden vapors shall not be performed within 20 feet (6096 mm) of a tent or membrane structure.
+
+3107.12.7 Electrical heating and cooking equipment.
+
+Electrical cooking and heating equipment shall comply with the California Electrical Code.
+
+3107.13 LP-gas.
+
+The storage, handling and use of LP-gas and LP-gas equipment shall be in accordance with Sections 3107.13.1 through 3107.13.3.
+
+3107.13.1 General.
+
+LP-gas equipment such as containers, tanks, piping, hoses, fittings, valves, tubing and other related components shall be approved and in accordance with Chapter 61 and with the International Fuel Gas Code.
+
+[California Code of Regulations, Title 19, Division 1, §325] Liquefied Petroleum Gas.
+
+Liquefied petroleum gas shall not be stored or used in connection with any tent unless the storage containers, equipment, fittings, appliances, placement, use and operation complies with the provisions of California Code of Regulations, Title 8, Article 5, Subchapter 1, Chapter 4.
+
+3107.13.2 Location of containers.
+
+LP-gas containers and tanks shall be located outside in accordance with Table 6104.3. Pressure relief devices shall be pointed away from the tent or membrane structure.
+
+3107.13.3 Protection and security.
+
+Portable LP-gas containers, tanks, piping, valves and fittings that are located outside and are being used to fuel equipment inside a tent or membrane structure shall be adequately protected to prevent tampering, damage by vehicles or other hazards and shall be located in an approved location. Portable LP-gas containers shall be secured to prevent unauthorized movement.
+
+3107.14 Flammable and combustible liquids.
+
+The storage of flammable and combustible liquids and the use of flammable-liquid-fueled equipment shall be in accordance with Sections 3107.14.1 through 3107.14.3.
+
+3107.14.1 Use.
+
+Flammable-liquid-fueled equipment shall not be used in tents or membrane structures.
+
+3107.14.2 Flammable and combustible liquid storage.
+
+Flammable and combustible liquids shall be stored outside in an approved manner not less than 50 feet (15 240 mm) from tents or membrane structures. Storage shall be in accordance with Chapter 57.
+
+[California Code of Regulations, Title 19, Division 1, §324.(a) and (b)] Flammable and Combustible Liquids.
+
+(a) Liquids having a flash point below 200°F shall not be stored in any tent nor less than 50 feet from any tent.
+
+(b) Flammable or combustible liquids shall be stored and dispensed in accordance with the provisions of the California Fire Code. The enforcing authority may permit limited quantities of flammable or combustible liquids required for display and normal merchandising.
+
+3107.14.3 Refueling.
+
+Refueling shall be performed in an approved location not less than 20 feet (6096 mm) from tents or membrane structures.
+
+3107.15 Display of motor vehicles.
+
+Liquid- and gas-fueled vehicles and equipment used for display within tents or membrane structures shall be in accordance with Sections 3107.15.1 through 3107.15.5.3.
+
+3107.15.1 Batteries.
+
+Batteries shall be disconnected except where the fire code official requires that the batteries remain connected to maintain safety features.
+
+3107.15.2 Fuel.
+
+Vehicles or equipment shall not be fueled or defueled within the tent or membrane structure.
+
+3107.15.2.1 Quantity limit.
+
+Fuel in the fuel tank shall not exceed one-quarter of the tank capacity or 5 gallons (19 L), whichever is less.
+
+3107.15.2.2 Inspection.
+
+Fuel systems shall be inspected for leaks.
+
+3107.15.2.3 Closure.
+
+Fuel tank openings shall be locked and sealed to prevent the escape of vapors.
+
+3107.15.3 Location.
+
+The location of vehicles or equipment shall not obstruct means of egress.
+
+3107.15.4 Places of assembly.
+
+When a compressed natural gas (CNG) or liquefied petroleum gas (LP-gas) powered vehicle is parked inside a place of assembly, all of the following conditions shall be met:
+
+1.The quarter-turn shutoff valve or other shutoff valve on the outlet of the CNG or LP-gas container shall be closed and the engine shall be operated until it stops. Valves shall remain closed while the vehicle is indoors.
+
+2.The hot lead of the battery shall be disconnected.
+
+3.Dual-fuel vehicles equipped to operate on gasoline and CNG or LP-gas shall comply with this section and Sections 3107.15.1 through 3107.15.3 for gasoline-powered vehicles.
+
+3107.15.5 Competitions and demonstrations.
+
+Liquid- and gas-fueled vehicles and equipment used for competition or demonstration within a tent or membrane structure shall comply with Sections 3107.15.5.1 through 3107.15.5.3.
+
+3107.15.5.1 Fuel storage.
+
+Fuel for vehicles or equipment shall be stored in approved containers in an approved location outside of the structure in accordance with Section 3107.14.2.
+
+3107.15.5.2 Fueling.
+
+Refueling shall be performed outside of the structure in accordance with Section 3107.14.3.
+
+3107.15.5.3 Spills.
+
+Fuel spills shall be cleaned up immediately.
+
+3107.16 Separation of generators.
+
+Generators and other internal combustion power sources shall be separated from tents or membrane structures by not less than 20 feet (6096 mm) and shall be isolated from contact with the public by fencing, enclosure or other approved means.
+
+3107.17 Standby personnel.
+
+Where, in the opinion of the fire code official, it is essential for public safety in a tent or membrane structure used as a place of assembly or any other use where people congregate, because of the number of persons, or the nature of the performance, exhibition, display, contest or activity, the owner, agent or lessee shall employ one or more qualified persons, as required and approved, to remain on duty during the times such places are open to the public, or when such activity is being conducted.
+
+[California Code of Regulations, Title 19, Division 1, §320] Fire Safety Personnel.
+
+The owners or operators of any tent used as a place of assemblage shall provide at least one qualified fire safety person in every tent having a capacity of 500 persons and one additional qualified person for each 1,000 additional persons or fraction thereof. Such persons shall be on duty in the tent at all times when the tent is open to the public. They shall be proficient in the handling of fire extinguishers and equipment and shall be familiar with the fire and panic safety regulations. The individual designated under this section shall meet the approval of the fire authority having jurisdiction.
+
+Exception: The enforcing authority may waive or modify the provisions of this section if, in his opinion, public safety will not be jeopardized.
+
+3107.17.1 Duties.
+
+Before each performance or the start of such activity, standby personnel shall keep diligent watch for fires during the time such place is open to the public or such activity is being conducted and take prompt measures for extinguishment of fires that occur and assist in the evacuation of the public from the structure.
+
+3107.17.2 Crowd managers.
+
+There shall be trained crowd managers or trained crowd supervisors at a ratio of one crowd manager or supervisor for every 250 occupants, as approved.
+
+3107.18 Combustible vegetation.
+
+Combustible vegetation that could create a fire hazard shall be removed from the area occupied by a tent or membrane structure, and from areas within 30 feet (9144 mm) of such structures.
+
+[California Code of Regulations, Title 19, Division 1, §326.(a)] Hazard Abatement.
+
+(a) All flammable vegetation within 50 feet of any tent shall be removed.
+
+3107.19 Combustible waste material.
+
+The floor surface inside tents or membrane structures and the grounds outside and within a 30-foot (9144 mm) perimeter shall be kept free from combustible waste and other combustible materials that could create a fire hazard. Such waste shall be stored in approved containers and removed from the premises not less than once a day during the period the structure is occupied by the public.
+
+[California Code of Regulations, Title 19, Division 1, §326.(c)] Hazard Abatement.
+
+(c) Combustible waste shall not be permitted to accumulate on the grounds either inside or outside of tents. Such waste shall be stored in approved containers until removed from the premises.
+
+3107.20 Obstructions.
+
+Exits, aisles and passageways shall not be blocked or have their minimum clear width obstructed in any manner by ticket offices, turnstiles, concessions, chairs, equipment, animal chutes, poles or guy ropes, or anything whatsoever, nor shall they be blocked by persons for whom no seats are available.
+
+In occupancies having fixed seating, and on request of the owner or manager, the enforcing agency may permit modifications from the provisions of this code to accommodate seating for handicapped persons using mechanical aids such as, but not limited to, walkers and wheelchairs.
+
+SECTION 3108 INFLATABLE AMUSEMENT DEVICES
+
+3108.1 Scope.
+
+All inflatable amusement devices shall comply with this section.
+
+3108.2 General.
+
+Inflatable amusement devices shall be designed, anchored, operated and maintained in accordance with the manufacturer’s instructions and the requirements of ASTM F2374.
+
+3108.3 Combustible materials.
+
+The fabrics, textiles, containment netting and combustible small mesh materials used in the construction of the inflatable amusement device shall meet the flame propagation criteria of Test Method 2 of NFPA 701. Additionally, a label and affidavit containing the information required in Sections 3104.3 and 3104.4 of this code shall be permanently affixed to the device.
+
+3108.4 Electrical equipment and wiring.
+
+All electrical equipment, blower motors and temporary wiring for electrical power or lighting shall comply with Section 603 of this code.
+
+3108.5 Portable generators.
+
+Portable generators shall comply with the applicable provisions of NFPA 70 and with the portable generator requirements of this code.
+
+3108.6 Portable fire extinguishers.
+
+Each generator shall be provided with an approved portable fire extinguisher complying with Section 906 and placed in an approved location.
+

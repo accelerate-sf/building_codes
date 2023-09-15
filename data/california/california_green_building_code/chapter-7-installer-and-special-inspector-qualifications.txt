@@ -1,0 +1,61 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 7 – INSTALLER AND SPECIAL INSPECTOR QUALIFICATIONS
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter				X																		
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below		X																				
+Chapter/Section																						
+702.2		X																				
+703.1		X																				CHAPTER 7 INSTALLER AND SPECIAL INSPECTOR QUALIFICATIONS INSTALLER AND SPECIAL INSPECTOR QUALIFICATIONS
+
+SECTION 701 GENERAL
+
+(Reserved)
+
+SECTION 702 QUALIFICATIONS
+
+702.1 Installer training.
+
+HVAC system installers shall be trained and certified in the proper installation of HVAC systems including ducts and equipment by a nationally or regionally recognized training or certification program. Uncertified persons may perform HVAC installations when under the direct supervision and responsibility of a person trained and certified to install HVAC systems or contractor licensed to install HVAC systems. Examples of acceptable HVAC training and certification programs include but are not limited to the following:
+
+1.State certified apprenticeship programs.
+
+2.Public utility training programs.
+
+3.Training programs sponsored by trade, labor or statewide energy consulting or verification organizations.
+
+4.Programs sponsored by manufacturing organizations.
+
+5.Other programs acceptable to the enforcing agency.
+
+702.2 Special inspection.
+
+[HCD] When required by the enforcing agency, the owner or the responsible entity acting as the owner’s agent shall employ one or more special inspectors to provide inspection or other duties necessary to substantiate compliance with this code. Special inspectors shall demonstrate competence to the satisfaction of the enforcing agency for the particular type of inspection or task to be performed. In addition to other certifications or qualifications acceptable to the enforcing agency, the following certifications or education may be considered by the enforcing agency when evaluating the qualifications of a special inspector:
+
+1.Certification by a national or regional green building program or standard publisher.
+
+2.Certification by a statewide energy consulting or verification organization, such as HERS raters, building performance contractors and home energy auditors.
+
+3.Successful completion of a third party apprentice training program in the appropriate trade.
+
+4.Other programs acceptable to the enforcing agency.
+
+Notes:
+
+1.Special inspectors shall be independent entities with no financial interest in the materials or the project they are inspecting for compliance with this code.
+
+2.HERS raters are special inspectors certified by the California Energy Commission (CEC) to rate homes in California according to the Home Energy Rating System (HERS).
+
+[BSC-CG] When required by the enforcing agency, the owner or the responsible entity acting as the owner’s agent shall employ one or more special inspectors to provide inspection or other duties necessary to substantiate compliance with this code. Special inspectors shall demonstrate competence to the satisfaction of the enforcing agency for the particular type of inspection or task to be performed. In addition, the special inspector shall have a certification from a recognized state, national or international association, as determined by the local agency. The area of certification shall be closely related to the primary job function, as determined by the local agency.
+
+Note: Special inspectors shall be independent entities with no financial interest in the materials or the project they are inspecting for compliance with this code.
+
+SECTION 703 VERIFICATIONS
+
+703.1 Documentation.
+
+Documentation used to show compliance with this code shall include but is not limited to, construction documents, plans, specifications, builder or installer certification, inspection reports or other methods acceptable to the enforcing agency which demonstrate substantial conformance. When specific documentation or special inspection is necessary to verify compliance, that method of compliance will be specified in the appropriate section or identified in the application checklist.
+

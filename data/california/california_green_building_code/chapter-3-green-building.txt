@@ -1,0 +1,158 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 3 – GREEN BUILDING
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter																						
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below		X		X				X	X		X		X									
+Chapter/Section																						
+301		X		X					X				X									
+301.1				X				X														
+301.1.1				X																		
+301.2				X																		
+301.3		X																				
+301.3.1		X																				
+301.3.2		X																				
+301.4								X														
+301.5									X		X		X									
+302		X		X				X	X		X		X									
+303		X		X					X		X		X									
+303.1		X																				
+304		X		X					X		X		X									
+305									X													
+306								X														CHAPTER 3 GREEN BUILDING
+
+SECTION 301 GENERAL
+
+301.1 Scope.
+
+Buildings shall be designed to include the green building measures specified as mandatory in the application checklists contained in this code. Voluntary green building measures are also included in the application checklists and may be included in the design and construction of structures covered by this code, but are not required unless adopted by a city, county, or city and county as specified in Section 101.7.
+
+301.1.1 Additions and alterations.
+
+[HCD] The mandatory provisions of Chapter 4 shall be applied to additions or alterations of existing residential buildings where the addition or alteration increases the building’s conditioned area, volume or size. The requirements shall apply only to and/or within the specific area of the addition or alteration.
+
+The mandatory provisions of Section 4.106.4.2 may apply to additions or alterations of existing parking facilities or the addition of new parking facilities serving existing multifamily buildings. See Section 4.106.4.3 for application.
+
+NOTE: Repairs including, but not limited to, resurfacing, restriping, and repairing or maintaining existing lighting fixtures are not considered alterations for the purpose of this section.
+
+301.2 Low-rise and high-rise residential buildings.
+
+[HCD] The provisions of individual sections of CALGreen may apply to either low-rise residential buildings, high-rise residential buildings, or both. Individual sections will be designated by banners to indicate where the section applies specifically to low-rise only (LR) or high-rise only (HR). When the section applies to both low-rise and high-rise buildings, no banner will be used.
+
+301.3 Nonresidential additions and alterations.
+
+[BSC-CG] The provisions of individual sections of Chapter 5 apply to newly constructed buildings, building additions of 1,000 square feet or greater, and/or building alterations with a permit valuation of $200,000 or above (for occupancies within the authority of California Building Standards Commission). Code sections relevant to additions and alterations shall only apply to the portions of the building being added or altered within the scope of the permitted work.
+
+A code section will be designated by a banner to indicate where the code section only applies to newly constructed buildings [N] or to additions and/or alterations [A]. When the code section applies to both, no banner will be used.
+
+301.3.1 Nonresidential additions and alterations that cause updates to plumbing fixtures only:
+
+Note: On and after January 1, 2014, certain commercial real property, as defined in Civil Code Section 1101.3, shall have its noncompliant plumbing fixtures replaced with appropriate water-conserving plumbing fixtures under specific circumstances. See Civil Code Section 1101.1 et seq. for definitions, types of commercial real property affected, effective dates, circumstances necessitating replacement of noncompliant plumbing fixtures, and duties and responsibilities for ensuring compliance.
+
+301.3.2 Waste diversion.
+
+The requirements of Section 5.408 shall be required for additions and alterations whenever a permit is required for work.
+
+301.4 Mandatory measures for public schools and community colleges.
+
+[DSA-SS] New building construction and site work on a new or existing site shall comply with Section 301.4.
+
+301.4.1
+
+Building and site construction on a new site shall comply with Chapter 5 as adopted by DSA-SS.
+
+301.4.2
+
+Work on an existing site shall comply with Section 301.4.2.
+
+301.4.2.1
+
+Newly constructed site work shall comply with Chapter 5 as adopted by DSA-SS.
+
+301.4.2.2
+
+Newly constructed buildings shall comply with Chapter 5 as adopted by DSA-SS and Section 301.4.3.
+
+301.4.2.3
+
+Additions to existing buildings shall comply with Section 301.4.3.
+
+301.4.2.4
+
+Rehabilitated landscape areas shall comply with Sections 5.304.6 and 5.106.12.
+
+301.4.3 Minimum rehabilitated landscape area requirement.
+
+A minimum rehabilitated landscape area equal to 75 percent of the footprint area of the building shall comply with Section 5.304.6 and Section 5.106.12. New buildings or additions to existing buildings less than 1,600 square feet shall not be required to comply with Section 301.4.3.
+
+301.5 Health Facilities.
+
+[OSHPD 1, 2 & 4] Health facilities under the jurisdiction of the Office of Statewide Health Planning and Development (OSHPD) are required to comply with the mandatory measures prescribed in Section 5.304, Outdoor Water Use. Compliance with Section 5.304, as adopted by the Building Standards Commission, is enforced by the local agency having jurisdiction. Evidence of local approval shall be submitted to OSHPD prior to issuance of plan approval or a building permit.
+
+SECTION 302 MIXED OCCUPANCY BUILDINGS
+
+302.1 Mixed occupancy buildings.
+
+In mixed occupancy buildings, each portion of a building shall comply with the specific green building measures applicable to each specific occupancy.
+
+Exceptions:
+
+1.[HCD] Accessory structures and accessory occupancies serving residential buildings shall comply with Chapter 4 and Appendix A4, as applicable.
+
+2.[HCD] For the purposes of CALGreen, live/work units, complying with Section 508.5 of the California Building Code, shall not be considered mixed occupancies. Live/work units shall comply with Chapter 4 and Appendix A4, as applicable.
+
+SECTION 303 PHASED PROJECTS
+
+303.1 Phased projects.
+
+For shell buildings and others constructed for future tenant improvements, only those code measures relevant to the building components and systems considered to be new construction (or newly constructed) shall apply.
+
+303.1.1 Initial tenant improvements.
+
+The provisions of this code shall apply only to the initial tenant improvements to a project. Subsequent tenant improvements shall comply with the scoping provisions in Section 301.3 non-residential additions and alterations.
+
+SECTION 304 VOLUNTARY TIERS
+
+304.1 Purpose.
+
+Voluntary tiers are intended to further encourage building practices that improve public health, safety and general welfare by promoting the use of building concepts which minimize the building’s impact on the environment and promote a more sustainable design.
+
+304.1.1 Tiers.
+
+The provisions of Divisions A4.6 and A5.6 outline means, in the form of voluntary tiers, for achieving enhanced construction levels by incorporating additional measures for residential and nonresidential new construction. Voluntary tiers may be adopted by local governments and, when adopted, enforced by local enforcing agencies. Buildings complying with tiers specified for each occupancy contain additional prerequisite and elective green building measures necessary to meet the threshold of each tier. See Section 101.7 of this code for procedures and requirements related to local amendments, additions or deletions, including changes to energy standards.
+
+[BSC & HCD] Where there are practical difficulties involved in complying with the threshold levels of a tier, the enforcing agency may grant modifications for individual cases. The enforcing agency shall first find that a special individual reason makes the strict letter of the tier impractical and that modification is in conformance with the intent and purpose of the measure. The details of any action granting modification shall be recorded and entered in the files of the enforcing agency.
+
+SECTION 305 [OSHPD 1] [OSHPD 1] CALGreen TIER 1 AND CALGreen TIER 2 CALGreen TIER 1 AND CALGreen TIER 2
+
+305.1
+
+CALGreen Tier 1 and CALGreen Tier 2 buildings contain voluntary green building measures necessary to meet the threshold of each level.
+
+305.1.1 CALGreen Tier 1. CALGreen
+
+To achieve CALGreen Tier 1, buildings must comply with the latest edition of “Savings By Design, Healthcare Modeling Procedures” found online at http://www.energysoft.com/main/page_ downloads_ sbd_healthcare.html.
+
+305.1.2 CALGreen Tier 2. CALGreen
+
+To achieve CALGreen Tier 2, buildings must exceed the latest edition of “Savings By Design, Healthcare Modeling Procedures” by a minimum of 15 percent.
+
+SECTION 306 [DSA-SS] VOLUNTARY MEASURES
+
+306.1 Purpose.
+
+For public schools and community colleges, voluntary measures further encourage building practices that improve public health, safety and general welfare by promoting the use of building concepts which minimize the building’s impact on the environment and promote a more sustainable design.
+
+306.1.1
+
+Appendix A5, Divisions A5.1 through A5.5, outline means of achieving enhanced sustainable design and construction by incorporating voluntary measures that exceed the mandatory measures.
+
+306.1.2
+
+Chapter 5 Nonresidential Mandatory Measures that are not adopted as mandatory measures by DSA-SS are voluntary measures recommended and encouraged for the design, construction, verification and maintenance of non-energy systems.
+
+Note: The building commissioning requirements for energy efficiency specified in the California Energy Code are required.
+

@@ -1,0 +1,2292 @@
+SUBCHAPTER 5 NONRESIDENTIAL AND HOTEL/MOTEL OCCUPANCIES—  PERFORMANCE AND PRESCRIPTIVE COMPLIANCE APPROACHES FOR ACHIEVING ENERGY EFFICIENCY
+
+SECTION 140.0 PERFORMANCE AND  PRESCRIPTIVE COMPLIANCE APPROACHES
+
+Nonresidential and hotel/motel buildings shall comply with all of the following:
+
+(a) The requirements of Sections 100.0 through 110.12 applicable to the building project (mandatory measures for all buildings).
+
+(b) The requirements of Sections 120.0 through 130.5  (mandatory measures for nonresidential and hotel/ motel buildings).
+
+(c) Either the performance compliance approach (energy budgets) specified in Section 140.1 or the prescriptive compliance approach specified in Section 140.2 for the climate zone in which the building will be located. Climate zones are shown in Figure 100.1-A.
+
+Note to Section 140.0(c): The Commission periodically updates, publishes and makes available to interested persons and local enforcement agencies precise descriptions of the climate zones, which is available by zip code boundaries depicted in the Reference Joint Appendices along with a list of the communities in each zone.
+
+Note to Section 140.0: The requirements of Sections 140.1 through 140.10 apply to newly constructed buildings. Section 141.0 specifies which requirements of Sections 140.1 through 140.10 also apply to additions or alterations to existing buildings.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 140.1 PERFORMANCE APPROACH: ENERGY BUDGETS
+
+A building complies with the performance approach if the energy budget calculated for the proposed design building under Subsection (b) is no greater than the energy budget calculated for the standard design building under Subsection (a).
+
+(a) Energy budget for the standard design building. The energy budget for the Standard Design Building is determined by applying the mandatory and prescriptive requirements to the proposed design building. The energy budget is the sum of the source energy and TDV energy for space-conditioning, indoor lighting, mechanical ventilation, photovoltaic (PV) and battery storage systems, service water heating and covered process loads.
+
+(b) Energy budget for the proposed design building. The energy budget for a proposed design building is determined by calculating the source energy and TDV energy for the proposed design building. The energy budget is the sum of the source energy and TDV energy for space-conditioning, indoor lighting, mechanical ventilation, photovoltaic (PV) and battery storage systems, and service water heating and covered process loads.
+
+Exception to Section 140.1(b). A community shared solar electric generation system, or other renewable electric generation system, and/or community shared battery storage system, that provides dedicated power, utility energy reduction credits or payments for energy bill reductions to the permitted building and is approved by the Energy Commission as specified in Title 24, Part 1, Section 10-115, may offset part or all of the solar electric generation system or battery storage system TDV energy required to comply with the standards, as calculated according to methods established by the Commission in the Nonresidential ACM Reference Manual.
+
+(c) Calculation of energy budget. The TDV energy for both the standard design building and the proposed design building shall be computed by compliance software certified for this use by the Commission. The processes for compliance software approval by the Commission are documented in the ACM Approval Manual.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 140.2 PRESCRIPTIVE APPROACH
+
+To comply using the prescriptive approach a building shall be designed with and shall have constructed and installed systems and components meeting the applicable requirements of Sections 140.3 through 140.10.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 140.3 PRESCRIPTIVE REQUIREMENTS FOR BUILDING ENVELOPES
+
+A building complies with this section by being designed with and constructed to meet all prescriptive requirements in Subsection (a) and the requirements of Subsection (c) and (d) where they apply.
+
+(a)Envelope component requirements.
+
+1.Exterior roofs and ceilings. Exterior roofs and ceilings shall comply with each of the applicable requirements in this subsection:
+
+A.Roofing products. Shall meet the requirements of Section 110.8 and the applicable requirements of Subsections i through ii:
+
+i.Nonresidential buildings:
+
+a. Low-sloped roofs in climate zones 1 through 16 shall have:
+
+1. A minimum aged solar reflectance of 0.63 and a minimum thermal emittance of 0.75; or
+
+2. A minimum solar reflectance index (SRI) of 75.
+
+Exception 1 to Section 140.3(a)1Aia: Wood-framed roofs in climate zones 3 and 5 are exempt from the requirements of Section 140.3(a)1Aia if the roof assembly has a U-factor of 0.034 or lower.
+
+Exception2 to Section 140.3(a)1Aia: Roof constructions with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the requirements of Section 140.3(a)1Aia.
+
+Exception 3 to Section 140.3(a)1Aia: An aged solar reflectance less than 0.63 is allowed provided the maximum roof/ceiling U-factor in Table 140.3 is not exceeded.
+
+b. Steep-sloped roofs:
+
+1. in Climate Zones 1 and 3 shall have a minimum aged solar reflectance of 0.20 and a minimum thermal emittance of 0.75, or a minimum SRI of 16.
+
+2. in Climate Zones 2 and 4 through 16 shall have a minimum aged solar reflectance of 0.25 and a minimum thermal emittance of 0.80, or a minimum SRI of 23.
+
+ii. Guest rooms of hotel and motel buildings:
+
+a. Low-sloped roofs in Climate Zones 9, 10, 11, 13, 14 and 15 shall have a minimum aged solar reflectance of 0.55 and a minimum thermal emittance of 0.75, or a minimum SRI of 64.
+
+Exception to Section 140.3(a)1Aiia: Roof constructions with a weight of at least 25 lb/ft2 over the roof membrane.
+
+b. Steep-sloped roofs in Climate Zones 2 through 15 shall have a minimum aged solar reflectance of 0.20 and a minimum thermal emittance of 0.75, or a minimum SRI of 16.
+
+Exception to Section 140.3(a)1A: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels are not required to meet the minimum requirements for solar reflectance, thermal emittance, or SRI.
+
+B. Roof insulation. Roofs shall have an overall assembly U-factor no greater than the applicable value in Table 140.3-B, C or D, and where required by Section 110.8 and 120.7(a)3, insulation shall be placed in direct contact with a roof or drywall ceiling.
+
+2. Exterior walls. Exterior walls shall have an overall assembly U-factor no greater than the applicable value in Table 140.3-B, C or D.
+
+3. Demising walls. Demising walls shall meet the requirements of Section 120.7(b)7. Vertical windows in demising walls between conditioned and unconditioned spaces shall have an area-weighted average U-factor no greater than the applicable value in Table 140.3-B, C or D.
+
+4. Exterior floors and soffits. Exterior floors and soffits shall have an overall assembly U-factor no greater than the applicable value in Table 140.3-B, C or D.
+
+5. Exterior Windows. Vertical windows in exterior walls shall:
+
+A. Percent window area shall be limited in accordance with the applicable requirements of i and ii below:
+
+i. a west-facing area no greater than 40 percent of the gross west-facing exterior wall area, or 6 feet times the west-facing display perimeter, whichever is greater;
+
+ii. a total area no greater than 40 percent of the gross exterior wall area, or 6 feet times the display perimeter, whichever is greater; and
+
+NOTE: Demising walls are not exterior walls, and therefore demising wall area is not part of the gross exterior wall area or display perimeter and windows in demising walls are not part of the window area.
+NOTE: Demising walls are not exterior walls, and therefore demising wall area is not part of the gross exterior wall area or display perimeter and windows in demising walls are not part of the window area.
+
+Exception to Section 140.3(a)5A: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+B. Have an area-weighted average U-factor no greater than the applicable value in Table 140.3-B, C or D.
+
+Exception 1 to  Section 140.3(a)5B: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+Exception 2 to  Section 140.3(a)5B: For vertical windows containing chromogenic type glazing:
+
+i. The lower-rated labeled U-factor shall be used with automatic controls to modulate the amount of heat flow into the space in multiple steps in response to daylight levels or solar intensity; and
+
+ii. Chromogenic glazing shall be considered separately from other glazing; and
+
+iii.  Area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+C. Have an area-weighted average relative solar heat gain coefficient, RSHGC, excluding the effects of interior shading, no greater than the applicable value in Table 140.3-B, C or D.
+
+For purposes of this paragraph, the relative solar heat gain coefficient, RSHGC, of a vertical window is:i. The solar heat gain coefficient of the windows; orii. Relative solar heat gain coefficient is calculated using Equation 140.3-A, if the window has an overhang or exterior horizontal slats that extend beyond each side of the window jamb by a distance equal to the overhang’s horizontal projection.
+
+i. The solar heat gain coefficient of the windows; or
+
+ii. Relative solar heat gain coefficient is calculated using Equation 140.3-A, if the window has an overhang or exterior horizontal slats that extend beyond each side of the window jamb by a distance equal to the overhang’s horizontal projection.
+For purposes of this paragraph, the relative solar heat gain coefficient, RSHGC, of a vertical window is:
+
+i. The solar heat gain coefficient of the windows; or
+
+ii. Relative solar heat gain coefficient is calculated using Equation 140.3-A, if the window has an overhang or exterior horizontal slats that extend beyond each side of the window jamb by a distance equal to the overhang’s horizontal projection.
+
+Exception 1 to Section 140.3(a)5C: An area-weighted average relative solar heat gain coefficient of 0.56 or less shall be used for windows:
+
+a. That are in the first story of exterior walls that form a display perimeter; and
+
+b. For which codes restrict the use of overhangs to shade the windows.
+
+Exception 2 to Section 140.3(a)5C: For vertical glazing containing chromogenic type glazing:
+
+i. the lower-rate labeled RSHGC shall be used with automatic controls to modulate the amount of heat flow into the space in multiple steps in response to daylight levels or solar intensity; and
+
+ii. chromogenic glazing shall be considered separately from other glazing; and
+
+iii. area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+Exception 3 to Section 140.3(a)5C: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+NOTE: Demising walls are not exterior walls, and therefore windows in demising walls are not subject to SHGC requirements.
+NOTE: Demising walls are not exterior walls, and therefore windows in demising walls are not subject to SHGC requirements.
+
+D. Have an area-weighted average visible transmittance (VT) no less than the applicable value in Tables 140.3-B and C, or Equation 140.3-B, as applicable.
+
+Exception 1 to Section 140.3(a)5D: When the window’s primary and secondary sidelit daylit zones are completely overlapped by one or more skylit daylit zones, then the window need not comply with Section 140.3(a)5D.
+
+Exception 2 to Section 140.3(a)5D: If the window’s VT is not within the scope of NFRC 200, or ASTM E972, then the VT shall be calculated according to Reference Nonresidential Appendix NA6.
+
+Exception 3 to Section 140.3(a)5D: For vertical windows containing chromogenic type glazing:
+
+i. The higher-rate labeled VT shall be used with automatic controls to modulate the amount of light transmitted into the space in multiple steps in response to daylight levels or solar intensity; and
+
+ii. Chromogenic glazing shall be considered separately from other glazing; and
+
+iii. Area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+Exception 4 to Section 140.3(a)5D: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+NOTE: Demising walls are not exterior walls, and therefore windows in demising walls are not subject to VT requirements.
+
+where:
+
+ 	a	b	c
+Overhang	0.150	0.008727	5.67
+Exterior Horizonal Slat	0.144	0.008727	5.13RSHGC = Relative solar heat gain coefficient.
+
+SHGC = Solar heat gain coefficient of the vertical fenestration.
+
+Az = Azimuth of the vertical fenestration in degrees.
+
+PF =  Projection factor as calculated by Equation 140.3-C.
+
+where:
+
+WWR = Window wall ratio, the ratio of (i) the total window area of the entire building to (ii) the total gross exterior wall area of the entire building. If the WWR is greater than 0.40, then 0.40 shall be used as the value for WWR in Equation 140.3-B.
+
+VT = Visible transmittance of framed window.
+
+6. Skylights. Skylights shall:
+
+A. Have an area no greater than 5 percent of the gross exterior roof area Skylight Roof Ratio (SRR); and
+
+Exception 1 to Section 140.3(a)6A: Buildings with atria over 55 feet high shall have a skylight area no greater than 10 percent of the gross exterior roof area.
+
+Exception 2 to Section 140.3(a)6A: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+B. Have an area-weighted performance rating U-factor no greater than the applicable value in Table 140.3-B, C or D.
+
+Exception 1 to Section 140.3(a)6B: For skylights containing chromogenic type glazing:
+
+i. the lower-rate labeled U-factor shall be used with automatic controls to modulate the amount of heat flow into the space in multiple steps in response to daylight levels or solar intensity; and
+
+ii. chromogenic glazing shall be considered separately from other glazing; and
+
+iii. area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+Exception 2 to Section 140.3(a)6B: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+C. Have an area-weighted performance rating solar heat gain coefficient no greater than the applicable value in Table 140.3-B, C or D.
+
+Exception 1 to Section 140.3(a)6C: For skylights containing chromogenic type glazing:
+
+i. the lower-rated labeled SHGC shall be used to demonstrate compliance with this section; and
+
+ii. chromogenic glazing shall be considered separately from other glazing; and
+
+iii. area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+Exception 2 to Section 140.3(a)6C: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+D. Have an area-weighted performance rating VT no less than the applicable value in Table 140.3-B or C; and
+
+Exception 1 to Section 140.3(a)6D: For skylights containing chromogenic type glazing:
+
+i. the higher-rated labeled VT shall be used with automatic controls to modulate the amount of light transmitted into the space in multiple steps in response to daylight levels or solar intensity and;
+
+ii. chromogenic glazing shall be considered separately from other glazing; and
+
+iii. area-weighted averaging with other glazing that is not chromogenic shall not be permitted.
+
+Exception 2 to Section 140.3(a)6D: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+E. Have a glazing material or diffuser that has a measured haze value greater than 90 percent, determined according to ASTM D1003 or other test method approved by the Energy Commission.
+
+Exception 1 to Section 140.3(a)6E: Skylights designed and installed to exclude direct sunlight entering the occupied space by the use of fixed or automated baffles or the geometry of the skylight and light well.
+
+Exception 2 to Section 140.3(a)6E: Conditioned greenhouses. The requirements of Section 120.6(h)4 apply.
+
+7. Exterior doors. All exterior doors that separate conditioned space from unconditioned space or from ambient air shall have a U-factor not greater than the applicable value in Table 140.3-B, C or D. Doors that are more than one-quarter glass in area are considered glazed doors.
+
+8. Relocatable public school buildings. In complying with Sections 140.3(a)1 to 7 shall meet the following:
+
+A. Relocatable public school buildings shall comply with Table 140.3-B for a specific climate zone when the manufacturer or builder of the relocatable public school building certifies that the building is intended for use only in a specific climate zone; or
+
+B. Relocatable public school buildings shall comply with Table 140.3-D for any climate zone when the manufacturer or builder of the relocatable public school building certifies that the building is intended for use in any climate zone; and
+
+C. The manufacturer or builder of a relocatable public school building shall certify that components of the building comply with requirements of this section by:
+
+i. The placement of two (2) metal identification labels on the building, one mechanically fastened and visible from the exterior and the other mechanically fastened to the interior frame above the ceiling at the end of the module, both labels stating (in addition to any other information by the Division of the State Architect or other law) “Complies with Title 24, Part 6 for all climate zones”; and
+
+ii. Identification of the location of the two labels on the plans submitted to the enforcing agency.
+
+9. Air barrier. To meet the requirement of Table 140.3-B, all buildings shall have a continuous air barrier that is designed and constructed to control air leakage into, and out of, the building’s conditioned space.
+
+Exception to Section 140.3(a)9: Relocatable public school buildings.
+
+A. Design. Construction documents shall include air barrier boundaries, interconnections and penetrations, and associated square foot calculations for all sides of the air barrier.
+
+B.Acceptable materials and assemblies. The air barrier shall be sealed at all joints for its entire length and shall be composed of:
+
+i. Materials that have an air permeance not exceeding 0.004 cfm/ft2, under a pressure differential of 0.3 in. of water (1.57 psf) (0.02 L/ sec-m2) at 75 Pa), when tested in accordance with ASTM E2178; or
+
+ii. Assemblies of materials and components that have an average air leakage not exceeding 0.04 cfm/ft2, under a pressure differential of 0.3 in. of water (1.57 psf) (0.2 L/m2 at 75 Pa), when tested in accordance with ASTM E2357, ASTM E1677, ASTM E1680 or ASTM E283.
+
+Exception to Section 140.3(a)9 Bi: Materials in Table 140.3-A shall be deemed to comply with Section 140.3(a)9B provided that all joints are sealed and all of the materials are installed as air barriers in accordance with the manufacturer's instructions.
+
+Exception to Section 140.3(a)9Bii: The following materials shall be deemed to comply with Section 140.3(a)9B if all joints are sealed and all of the materials are installed as air barriers in accordance with the manufacturer’s instructions:
+
+a.Concrete masonry walls that have at least two coatings of paint or at least two coatings of sealer coating.
+
+b.Concrete masonry walls with integral rigid board insulation.
+
+c.Structurally insulated panels.
+
+d.Portland cement or Portland sand parge, or stucco, or a gypsum plaster, each with a minimum 1/2 inch thickness.
+
+C.Verification. Verification of the installed air barrier may be performed.
+
+i.If verification is performed the entire building shall meet one of the following requirements:
+
+a.  An air leakage rate not exceeding 0.40 cfm/ft2 at a pressure differential of 0.3 in. of water (1.57 psf) (2.0 L/m2 at 75 Pa). when the entire building is tested, after completion of construction, in accordance with NA 5, or another test method approved by the Commission; or
+
+b.For buildings that have more than 50,000 ft2 of conditioned floor area, a sectional test method of co-pressurizing representative test floors and taking data from the specific floors to achieve the requirement in Section 140.3(a)9Ci when following the procedures in Sections NA5.2 to NA5.7. Representative test floors must meet the following conditions:
+
+I.The entire floor area of all stories that have any spaces directly under a roof.
+
+II.The entire floor area of all stories that have a building entrance or loading dock.
+
+III.Representative above-grade wall sections of the building totaling at least 25 percent of the wall area enclosing the remaining conditioned space. Floor areas in Parts a and b above shall not be included in the 25 percent.
+
+ii.If the air leakage requirements of either Section 140.3(a)9Cia or 140.3(a)9Cib are not met, a visual inspection and diagnostic evaluation shall be completed in accordance with NA5.7, all observed leaks shall be sealed where such sealing can be made without destruction of existing building components, and buildings where the tested leakage rate exceeded 0.6 cfm/ft2 of building shell area at 75 Pa have been retested to confirm leakage is below 0.6 cfm/ft2of building shell at 75 Pa.
+
+(b) Reserved.
+
+(c) Minimum daylighting requirement for large enclosed spaces. In climate zones 2 through 15, conditioned enclosed spaces, and unconditioned enclosed spaces that are greater than 5,000 square feet and that are directly under a roof with ceiling heights greater than 15 feet, shall meet the following requirements:
+
+1. A combined total of at least 75 percent of the floor area, as determined in building floor plan (drawings) view, shall be within one or more of the following:
+
+A. Primary sidelit daylit zone in accordance with Section 130.1(d), or
+
+B. The total floor area in the space within a horizontal distance of 0.7 times the average ceiling height from the edge of rough opening of skylights.
+
+2. All skylit daylit zones and primary sidelit daylit zones shall be shown on building plans.
+
+3. General lighting in daylit zones shall be controlled in accordance with Section 130.1(d).
+
+4. The total skylight area is at least 3 percent of the total floor area in the space within a horizontal distance of 0.7 times the average ceiling height from the edge of rough opening of skylights; or the product of the total skylight area and the average skylight visible transmittance is no less than 1.5 percent of the total floor area in the space within a horizontal distance of 0.7 times the average ceiling height from the edge of rough opening of skylights.
+
+5. All skylights shall have a glazing material or diffuser that has a measured haze value greater than 90 percent, tested according to ASTM D1003 (notwithstanding its scope) or other test method approved by the Commission.
+
+6. Skylights for conditioned and unconditioned spaces shall have an area-weighted average visible transmittance (VT) no less than the applicable value required by Section 140.3(a)6D.
+
+Exception 1 to Section 140.3(c): Auditoriums, churches, movie theaters, museums and refrigerated warehouses.
+
+Exception 2 to Section 140.3(c): In buildings with unfinished interiors, future enclosed spaces for which there are plans to have:
+
+A. A floor area of less than or equal to 5,000 square feet, or
+
+B. Ceiling heights of less than or equal to 15 feet.
+
+This exception shall not be used for S-1 or S-2 (storage), or for F-1 or F-2 (factory) occupancies.
+
+Exception 3 to Section 140.3(c): Enclosed spaces having a designed general lighting system with a lighting power density less than 0.5 watts per square foot.
+
+Exception 4 to Section 140.3(c): Enclosed spaces where it is documented that permanent architectural features of the building, existing structures or natural objects block direct beam sunlight on at least half of the roof over the enclosed space for more than 1500 daytime hours per year between 8 a.m. and 4 p.m.
+
+(d)Daylighting Design Power Adjustment Factors (PAFs). To qualify for a Power Adjustment Factor (PAF) as specified in Section 140.6(a)2L, daylighting devices shall meet the following requirements:
+
+1. Clerestory fenestration. To qualify for a PAF, clerestory fenestration shall meet the following requirements:
+
+A. Shall be installed on east-, west-, or south-facing facades.
+
+B. Shall have a head height that is at least 10 feet above the finished floor.
+
+C. Shall have a glazing height that is greater than or equal to 10 percent of the head height.
+
+D. If operable shading is installed on the clerestory fenestration, then the clerestory fenestration shading shall be controlled separately from shading serving other vertical fenestration.
+
+2. Interior and exterior horizontal slats. To qualify for a PAF, horizontal slats shall meet the following requirements:
+
+A. Shall be installed adjacent to vertical fenestration on east- or west-facing facades with Window Wall Ratios between 20 and 30 percent.
+
+B. Exterior horizontal slats shall be level or sloped downwards from fenestration. Interior horizontal slats shall be level or sloped upwards from fenestration.
+
+C. Shall have a projection factor as specified in Table 140.3-E. The projection factor is calculated using Equation 140.3-C.
+
+D.Shall have a minimum distance factor of 0.3. The distance factor is calculated using Equation 140.3-C.
+
+Exception to Section 140.3(d)2D: Where it is documented that existing adjacent structures or natural objects within view of the vertical fenestration block direct sunlight onto the vertical fenestration between 8 a.m. and 5 p.m. for less than 500 daytime hours per year.
+
+E. Shall have a minimum Visible Reflectance of 0.50 when tested as specified in ASTM E903.
+
+F. Shall be opaque.
+
+Exception to Section 140.3(d)2F: Horizontal slats with a Visible Transmittance of 0.03 or less when tested as specified in ASTM E1175.
+
+G. Shall be permanently mounted and not adjustable.
+
+H. Shall extend the entire height of the vertical fenestration and beyond each side of the window jamb by a distance equal to or greater than their horizontal projection.
+
+Exception to Section 140.3(d)2H:Where the slats are located entirely within the vertical fenestration’s rough opening or a fin is located at the window jambs and extends vertically the entire height of the window jamb and extends horizontally the entire depth of the projection.
+
+I. Shall be shown on the plans with the dimensions for the slat projection and slat spacing as specified in Equation 140.3-C.
+
+J. Shall have a conspicuous factory installed label permanently affixed and prominently located on an attachment point of the device to the building envelope, stating the following: “NOTICE: Removal of this device will require re-submittal of compliance documentation to the enforcement agency responsible for compliance with California Title 24, Part 6”.
+
+3. Interior and Exterior Light Shelves. To qualify for a PAF, light shelves shall meet the following requirements:
+
+A. Where there is vertical fenestration area below the light shelf, both interior and exterior light shelves shall be installed.
+
+B. Shall be installed adjacent to clerestory fenestration on south-facing facades with Window Wall Ratios greater than 30 percent. The head height of the light shelves shall be no more than one foot below the finished ceiling. The clerestory fenestration shall meet the requirements of Section 140.3(d)1.
+
+C.  Exterior light shelves shall be level or sloped downwards from fenestration. Interior light shelves shall be level or sloped upwards from fenestration.
+
+D. Shall have a projection factor of the applicable value as specified in Table 140.3-E. The light shelf projection factor is calculated using Equation 140.3-C.
+
+E. Shall have a minimum Distance Factor of 0.3. The distance factor is calculated using Equation 140.3-C.
+
+Exception to Section 140.3(d)3E: Where it is documented that existing adjacent structures or natural objects within view of the vertical fenestration block direct sunlight onto the vertical fenestration between 8 a.m. and 5 p.m. for less than 750 daytime hours per year.
+
+F. Shall have a top surface with a minimum Visible Reflectance of 0.50 when tested as specified in ASTM E903.
+
+Exception to Section 140.3(d)3F: Where an exterior light shelf is installed greater than two feet below the clerestory sill.
+
+G. Shall extend beyond each side of the window jamb by a distance equal to or greater than their horizontal projection.
+
+H. Shall be shown on the plans with the dimensions for the light shelf projection and light shelf spacing as specified in Equation 140.3-C.
+
+where:
+
+Projection = The horizontal distance between the base edge and the projected edge of the overhang, slat or light shelf.
+
+Spacing = For overhangs, the vertical distance between the projected edge of the overhang and sill of the vertical fenestration below it.
+
+For horizontal slats, the vertical distance between the projected edge of a slat to the base edge of the slat below it.
+
+For interior light shelves, the vertical distance between the projected edge of the light shelf and head of the clerestory fenestration above it.
+
+For exterior light shelves, the vertical distance between the projected edge of the light shelf and sill of the vertical fenestration below it.
+For horizontal slats, the vertical distance between the projected edge of a slat to the base edge of the slat below it.
+
+For interior light shelves, the vertical distance between the projected edge of the light shelf and head of the clerestory fenestration above it.
+
+For exterior light shelves, the vertical distance between the projected edge of the light shelf and sill of the vertical fenestration below it.
+
+D = Distance between the existing structure or nature object and the fenestration.
+
+HAS = Height difference between the top of the existing structure or nature object and the bottom of the fenestration.
+
+NOTE: The base edge is the edge of an overhang, slat or light shelf that is adjacent to the vertical fenestration. The projected edge is the opposite edge from the base edge.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 140.3
+
+ROOF/CEILING INSULATION TRADEOFF FOR AGED SOLAR REFLECTANCE—NONRESIDENTIAL BUILDINGS
+
+Aged Solar Reflectance	Metal Building Climate Zone 1-16 U-factor	Wood Framed and Other Climate Zones 6-8 U-factor	Wood Framed and Other All Other Climate ZonesU-factor
+0.62-0.56	0.038	0.045	0.032
+0.55-0.46	0.035	0.042	0.030
+0.45-0.36	0.033	0.039	0.029
+0.35-0.25	0.031	0.037	0.028TABLE 140.3-A
+
+MATERIALS DEEMED TO COMPLY WITH SECTION 140.3(a)9B
+
+	MATERIALS	MINIMUM THICKNESS
+1	Plywood	Minimum 3/8 inch thickness
+2	Oriented strand board	Minimum 3/8 inch thickness
+3	Extruded polystyrene insulation board	Minimum 1/2 inch thickness
+4	Foil-backed polyisocyanurate insulation board	Minimum 1/2 inch thickness
+5	Closed cell spray foam with a minimum density of 2.0 pcf	Minimum 2 inch thickness
+6	Open cell spray foam with a density no less than 0.4 pcf and no greater than 1.5 pcf	Minimum 51/2 inch thickness
+7	Exterior and interior gypsum board	Minimum 1/2 inch thickness
+8	Cement board	Minimum 1/2 inch thickness
+9	Built-up roofing membrane	No minimum thickness
+10	Modified bituminous roof membrane	No minimum thickness
+11	Fully adhered single-ply roof membrane	No minimum thickness
+12	A Portland cement or Portland sand parge, or a gypsum plaster	Each with minimum 5/8 inch thickness
+13	Cast-in-place concrete, or precast concrete	No minimum thickness
+14	Fully grouted concrete block masonry	No minimum thickness
+15	Sheet steel or sheet aluminum	No minimum thicknessTABLE 140.3-B
+
+PRESCRIPTIVE ENVELOPE CRITERIA FOR NONRESIDENTIAL BUILDINGS (INCLUDING RELOCATABLE PUBLIC SCHOOL BUILDINGS WHERE MANUFACTURER CERTIFIES USE ONLY IN SPECIFIC CLIMATE ZONE; NOT INCLUDING HIGH-RISE RESIDENTIAL BUILDINGS AND GUESTROOMS OF HOTEL/MOTEL BUILDINGS)
+
+	CLIMATE ZONE
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+ENVELOPE	Maximum U-factor	Roofs/Ceilings	Metal building	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041
+Wood-framed and other	0.034	0.034	0.034	0.034	0.034	0.049	0.049	0.049	0.034	0.034	0.034	0.034	0.034	0.034	0.034	0.034
+Walls	Metal building	0.113	0.061	0.113	0.061	0.061	0.113	0.113	0.061	0.061	0.061	0.061	0.061	0.061	0.061	0.057	0.061
+Metal-framed	0.060	0.055	0.071	0.055	0.055	0.060	0.060	0.055	0.055	0.055	0.055	0.055	0.055	0.055	0.055	0.055
+Mass light1	0.196	0.170	0.278	0.227	0.440	0.440	0.440	0.440	0.440	0.170	0.170	0.170	0.170	0.170	0.170	0.170
+Mass heavy1	0.253	0.650	0.650	0.650	0.650	0.690	0.690	0.690	0.690	0.650	0.184	0.253	0.211	0.184	0.184	0.160
+Wood-framed and other	0.095	0.059	0.110	0.059	0.102	0.110	0.110	0.102	0.059	0.059	0.045	0.059	0.059	0.059	0.042	0.059
+Floors/Soffits	Raised mass	0.092	0.092	0.269	0.269	0.269	0.269	0.269	0.269	0.269	0.269	0.092	0.092	0.092	0.092	0.092	0.058
+Other	0.048	0.039	0.071	0.071	0.071	0.071	0.071	0.071	0.071	0.071	0.039	0.071	0.071	0.039	0.039	0.039
+Roofing Products	Low-sloped	Aged solar reflectance	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63	0.63
+Thermal emittance	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75
+Steep-sloped	Aged solar reflectance	0.20	0.25	0.20	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+Thermal emittance	0.75	0.80	0.75	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80	0.80
+Air Barrier	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ
+Exterior Doors, Maximum U-factor	Nonswinging	0.50	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	0.50
+Swinging	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70ENVELOPE	Fenestration				CLIMATE ZONE
+			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+Vertical			FIXED WINDOW
+Area-weighted Performance Rating	Max U-factor	0.36	0.36	0.36	0.36	0.36	0.36	0.36	0.36	0.34	0.36	0.34	0.34	0.34	0.34	0.34	0.36
+ Max RSHGC	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.22	0.25	0.22	0.22	0.22	0.22	0.22	0.25
+Min VT	0.42
+	CURTAINWALL OR STOREFRONT
+Max U-factor	0.38	0.41	0.41	0.41	0.41	0.41	0.38	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41	0.41
+Max RSHGC	0.25	0.26	0.26	0.26	0.26	0.26	0.25	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26	0.26
+Min VT 	0.46
+	OPERABLE WINDOW
+Max U-factor	0.46
+Max RSHGC 	0.22
+Min VT 	0.32
+	GLAZED DOORS
+Max U-factor	0.45
+Max RSHGC 	0.23
+Min VT	0.17
+Max WWR%		40%
+			ALL CLIMATE ZONES
+Skylights			Glass, Curb Mounted	Glass, Deck Mounted	Plastic, Curb Mounted	Tubular Daylighting Devices (TDDs)
+Area-weighted Performance Rating	Max U-factor	0.58	0.46	0.88	0.88
+Max SHGC	0.25	0.25	NR	NR
+Min VT	0.49	0.49	0.64	0.38
+(Min VTannual for TDDs)
+Max SRR%		5%TABLE 140.3-C
+
+PRESCRIPTIVE ENVELOPE CRITERIA FOR GUESTROOMS OF HOTEL/MOTEL BUILDINGS
+
+	CLIMATE ZONE
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+ENVELOPE	Maximum U-factor	Roofs/Ceilings	Metal building	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041	0.041
+Wood-framed and other	0.028	0.028	0.034	0.028	0.034	0.034	0.039	0.028	0.028	0.028	0.028	0.028	0.028	0.028	0.028	0.028
+Walls	Metal building	0.061	0.061	0.061	0.061	0.061	0.061	0.061	0.061	0.061	0.061	0.057	0.057	0.057	0.057	0.057	0.057
+Metal-framed	0.069	0.069	0.069	0.069	0.069	0.069	0.105	0.069	0.069	0.069	0.069	0.069	0.069	0.069	0.048	0.069
+Mass light1	0.170	0.170	0.170	0.170	0.170	0.227	0.227	0.227	0.196	0.170	0.170	0.170	0.170	0.170	0.170	0.170
+Mass heavy1	0.160	0.160	0.160	0.184	0.211	0.690	0.690	0.690	0.690	0.690	0.184	0.253	0.211	0.184	0.184	0.160
+Wood-framed and other	0.059	0.059	0.059	0.059	0.059	0.059	0.059	0.059	0.059	0.059	0.042	0.059	0.059	0.042	0.042	0.042
+Floors/Soffits	Raised mass	0.045	0.045	0.058	0.058	0.058	0.069	0.092	0.092	0.092	0.669	0.058	0.058	0.058	0.045	0.058	0.037
+Other	0.034	0.034	0.039	0.039	0.039	0.039	0.071	0.039	0.039	0.039	0.039	0.039	0.039	0.034	0.039	0.034
+Roofing Products	Low-sloped	Aged solar reflectance	NR	NR	NR	NR	NR	NR	NR	NR	0.55	0.55	0.55	NR	0.55	0.55	0.55	NR
+Thermal emittance	NR	NR	NR	NR	NR	NR	NR	NR	0.75	0.75	0.75	NR	0.75	0.75	0.75	NR
+Steep-sloped	Aged solar reflectance	NR	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	0.20	NR
+Thermal emittance	NR	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	0.75	NR
+Air barrier	REQ	REQ	REQ	REQ	REQ	REQ	NR	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ	REQ
+Exterior Doors, Maximum U-factor	Nonswinging	0.50	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	1.45	0.50
+Swinging	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70	0.70ENVELOPE	FENESTRATION		ALL CLIMATE ZONES
+	Fixed Window	Operable Window	Curtainwall or Storefront	Glazed2 Doors
+Vertical	Area-Weighted performance rating	Max U-factor	0.36	0.46	0.41	0.45
+Max RSHGC	0.25	0.22	0.26	0.23
+Area-Weighted performance rating	Min VT	0.42	0.32	0.46	0.17
+Maximum WWR%	40%
+Skylights			Glass, Curb Mounted	Glass, Deck Mounted	Plastic, Curb Mounted
+Area-Weighted performance rating	Max U-factor	0.58	0.46	0.88
+Max SHGC	0.25	0.25	NR
+Area-Weighted performance rating	Min VT	0.49	0.49	0.64
+Maximum SRR%	5%1. As defined in Section 100.1, light mass walls are walls with a heat capacity of at least 7.0 Btu/ft2 • °F and less than 15.0 Btu/ft2 • °F. Heavy mass walls are walls with a heat capacity of at least 15.0 Btu/ft2 • °F.
+
+2. Glazed doors applies to both site-built and to factory-assembled glazed doors.
+
+TABLE 140.3-D
+
+PRESCRIPTIVE ENVELOPE CRITERIA FOR RELOCATABLE PUBLIC SCHOOL BUILDINGS FOR USE IN ALL CLIMATE ZONES
+
+Roofs/Ceilings	Metal Buildings	Maximum U-factor	0.041
+Non-Metal Buildings	0.034
+Walls	Wood frame buildings	0.042
+Metal frame buildings	0.057
+Metal Buildings	0.057
+Mass/7.0 ≤ HC	0.170
+All Other Walls	0.059
+Floors and Soffits	Floors and Soffits	0.048
+Roofing Products	Low-Sloped	Aged Solar Reflectance	0.63
+Thermal Emittance	0.75
+Steep-Sloped	Aged Solar Reflectance	0.25
+Thermal Emittance	0.80
+Fenestration	Windows	Maximum U-factor	0.47
+Maximum SHGC	0.26
+Glazed Doors (Site-Built and Factory Assembled)	Maximum U-factor	0.45
+Maximum SHGC	0.23
+Skylights	Glass with Curb	Maximum U-factor	0.99
+Glass without Curb	0.57
+Plastic with Curb	0.87
+Glass Type	0-2% SRR	Maximum SHGC	0.46
+2.1-5% SRR	0.36
+Plastic Type	0-2% SRR	0.69
+2.1-5% SRR	0.57
+Exterior Doors	Non-Swinging doors	Maximum U-factor	0.50
+Swinging doors	0.70TABLE 140.3-E
+
+DAYLIGHTING DEVICES
+
+DAYLIGHTING DEVICE	ORIENTATION OF THE VERTICAL FENESTRATION	PROJECTION FACTOR
+Horizontal Slats	East or West	2.0 to 3.0
+Interior Light Shelf	South	1.0 to 2.0
+Exterior Light Shelf	South	0.25 to 1.25SECTION 140.4 PRESCRIPTIVE REQUIREMENTS  FOR SPACE-CONDITIONING SYSTEMS
+
+A building complies with this section by being designed with and having constructed and installed a space-conditioning system that meets the applicable prescriptive requirements of Subsections (a) through (q).
+
+(a) Sizing, equipment selection and type.
+
+1.Sizing and equipment selection. Mechanical heating and mechanical cooling equipment serving healthcare facilities shall be sized to meet the design heating and cooling loads as calculated according to the Subsection (b). Mechanical heating and mechanical cooling equipment  serving hotel/motel buildings and nonresidential buildings other than healthcare facilities shall be the smallest size, within the available options of the desired equipment line, necessary to meet the design heating and cooling loads of the building, as calculated according to Subsection (b).
+
+Exception 1 to Section 140.4(a)1: Where it can be demonstrated to the satisfaction of the enforcing agency that oversizing will not increase building TDV energy use.
+
+Exception 2 to Section 140.4(a)1:  Standby equipment with controls that allow the standby equipment to operate only when the primary equipment is not operating.
+
+Exception 3 to Section 140.4(a)1:  Multiple units of the same equipment type, such as multiple chillers and boilers, having combined capacities exceeding the design load, if they have controls that sequence or otherwise optimally control the operation of each unit based on load.
+
+2.Single zone space-conditioning system type. Single zone space-conditioning systems with direct expansion cooling with rated cooling capacity 240,000 Btu/hr or less serving the following spaces shall meet the applicable requirements in Items A–H, or shall meet the performance compliance requirements of Section 140.1. All other system types, including systems with rated cooling capacity greater than 240,000 Btu/hr, multizone systems and systems using central boilers or chillers, shall comply with the applicable requirements of Section 140.
+
+A.Retail and grocery building spaces in Climate Zones 2 through 15. The space-conditioning system shall be a heat pump.
+
+B.Retail and grocery building spaces in Climate Zones 1 and 16 with cooling capacity less than 65,000 Btu/hr. The space-conditioning system shall be an air conditioner with furnace.
+
+C.Retail and grocery building spaces in Climate Zones 1 and 16 with cooling capacity 65,000 Btu/hr or greater. The space-conditioning system shall be a dual-fuel heat pump.
+
+D.School building spaces. For Climate Zones 2 through 15, the space-conditioning system shall be a heat pump. For Climate Zones 1 and 16, the spaceconditioning system shall be a dual-fuel heat pump.
+
+E.Office, financial institution and library building spaces in Climate Zones 1 through 15. The spaceconditioning system shall be a heat pump.
+
+F.Office, financial institution and library building spaces in Climate Zone 16 with cooling capacity less than 65,000 Btu/hr. The space-conditioning system shall be an air conditioner with furnace.
+
+G.Office, financial institution and library building spaces in Climate Zone 16 with cooling capacity 65,000 Btu/hr or greater. The space-conditioning system shall be a dual-fuel heat pump.
+
+H.Office spaces in warehouses. The space-conditioning system shall be a heat pump in all climate zones.
+
+Exception to Section 140.4(a)2: Systems utilizing recovered heat for space heating.
+
+(b) Calculations. In making equipment sizing calculations under Subsection (a), all of the following rules shall apply:
+
+1. Heating and cooling loads. Heating and cooling system design loads shall be determined in accordance with the procedures described in Subsection A or B below:
+
+A. For systems serving hotel/motel buildings, and nonresidential buildings other than healthcare facilities, the method in the 2017 ASHRAE Handbook, Fundamentals shall be used or as specified in a method approved by the Commission.
+
+B. For system serving healthcare facilities the method in the California Mechanical Code shall be used.
+
+2. Indoor design conditions. Indoor design temperature and humidity conditions for comfort applications shall be determined in accordance with Subsection A or B below:
+
+A. For systems serving hotel/motel buildings, and nonresidential buildings other than healthcare facilities, ASHRAE Standard 55 or the 2017 ASHRAE Handbook, Fundamentals Volume, except that winter humidification and summer dehumidification shall not be required.
+
+B. For systems serving healthcare facilities the method in the California Mechanical Code shall be used.
+
+3. Outdoor design conditions. Outdoor design conditions shall be selected in accordance with Subsection A or B below:
+
+A. For systems serving hotel/motel buildings, and nonresidential buildings other than healthcare facilities the design conditions from Reference Joint Appendix JA2 shall be used, which is based on data from the ASHRAE Climatic Data for Region X. Heating design temperatures shall be no lower than the Heating Winter Median of Extremes values. Cooling design temperatures shall be no greater than the 0.5 percent Cooling Dry Bulb and Mean Coincident Wet Bulb values.
+
+B. For system serving healthcare facilities the method in Section 320.0 of the California Mechanical Code shall be used.
+
+Exception to Section 140.4(b)3: Cooling design temperatures for cooling towers shall be no greater than the 0.5 percent cooling design wet bulb values.
+
+4. Ventilation. Outdoor air ventilation loads shall be calculated using the ventilation rates required in Section 120.1(c)3.
+
+5. Envelope. Envelope heating and cooling loads shall be calculated using envelope characteristics, including square footage, thermal conductance, Solar Heat Gain Coefficient or shading coefficient, and air leakage, consistent with the proposed design.
+
+6. Lighting. Lighting heating and cooling loads shall be based on actual design lighting levels or power densities as specified in Section 140.6.
+
+7. People. Occupant density shall be based on the expected occupancy of the building and shall be the same as determined under Section 120.1(c)3A, if used. Sensible and latent heat gains shall be as listed in the 2017 ASHRAE Handbook, Fundamentals, Chapter 18.
+
+8. Process loads. Loads caused by a process shall be based upon actual information on the intended use of the building.
+
+9. Miscellaneous equipment. Equipment loads other than process loads shall be calculated using design data compiled from one or more of the following sources:
+
+A. Actual information based on the intended use of the building; or
+
+B. Published data from manufacturer’s technical publications or from technical societies, such as the ASHRAE Handbook, Applications Volume; or
+
+C. Other data based on the designer’s experience of expected loads and occupancy patterns.
+
+10. Internal heat gains. Internal heat gains may be ignored for heating load calculations.
+
+11. Safety factor. Calculated design loads based on 140.4(b)1 through 10 may be increased by up to 10 percent to account for unexpected loads or changes in space usage.
+
+12. Other loads. Loads such as warm-up or cool-down shall be calculated from principles based on the thermal capacity of the building and its contents, the degree of setback, and desired recovery time; or may be assumed to be no more than 30 percent for heating and 10 percent for cooling of the steady-state design loads. In addition, the steady-state load may include a safety factor in accordance with Section 140.4(b)11.
+
+(c)Fan systems. Each fan system moving air into, out of or between conditioned spaces or circulating air for the purpose of conditioning air within a space shall meet the requirements of Items 1, 2 and 3 below.
+
+1.Fan power budget. For each fan system that includes at least one fan or fan array with fan electrical input power ≥ 1 kW, fan system electrical input power (Fan kWdesign,system) determined per Section 140.4(c)1(B) at the fan system design airflow shall not exceed Fan kWbudget as calculated per Section 140.4(c)1(A).
+
+A. Calculation of fan power budget (Fan kWbudget). For each fan system:
+
+i.Determine the fan system airflow and choose the appropriate table(s) for fan power allowance.
+
+a.For single-cabinet fan systems, use the fan system airflow and the power allowances in both Table 140.4-A and Table 140.4-B.
+
+b.For supply-only fan systems, use the fan system airflow and power allowances in Table 140.4-A.
+
+c.For relief fan systems, use the design relief
+airflow and the power allowances in Table 140.4-B.
+
+d.For exhaust, return and transfer fan systems, use the fan system airflow and the power allowances in Table 140.4-B.
+
+e.For complex fan systems, separately calculate the fan power allowance for the supply and return/exhaust systems and sum them. For the supply airflow, use supply airflow at the fan system design conditions, and the power allowances in Table 140.4-A. For the return exhaust airflow, use return/exhaust airflow at the fan system design conditions, and the power allowances in Table 140.4-B.
+
+ii.For each fan system determine the components included in the fan system and sum the fan power allowances of those components. All fan systems shall include the system base allowance. If, for a given component, only a portion of the fan system airflow passes through the component, calculate the fan power allowance for that component per Equation 140.4-A:
+
+Where
+
+FPAadj = The corrected fan power allowance for the component in W/cfm.
+
+Qcomp = The airflow through component in cfm.
+
+Qsys =  The fan system airflow in cfm.
+
+FPAcomp= The fan power allowance of the component from Table 140.4A or Table 140.4B.
+
+iii.Multiply the fan system airflow by the sum of the fan power allowances for the fan system.
+
+iv.Divide by 1000 to convert to Fan kWbudget.
+
+v.For building sites at elevations greater than 3,000 feet, multiply Fan kWbudget by the correction factor in Table 140.4-C.
+
+B.Determining fan system electrical input power (Fan kWdesign,system). Fan kWdesign,system is the sum of Fan kWdesign for each fan or fan array included in the fan system with Fan kWdesign ≥ 1 kW. If variable speed drives are used, their efficiency losses shall be included. Fan input power shall be calculated with two times the clean filter pressure drop, which is the mean of the clean filter pressure drop and design final filter pressure drop. The Fan kWdesign for each fan or fan array shall be determined using one of the following methods. There is no requirement to use the same method for all fans in a fan system:
+
+i.Use the default Fan kWdesign in Table 140.4-D for one or more of the fans. This method cannot be used for complex fan systems.
+
+ii.Use the Fan kWdesign at fan system design conditions provided by the manufacturer of the fan, fan array, or equipment that includes the fan or fan array calculated per a test procedure included in USDOE 10 CFR Part 430, USDOE 10 CFR Part 431, ANSI/AMCA Standard 208-2018, ANSI/AMCA Standard 210-2016, AHRI Standard 430-2020, AHRI Standard 440-2019 or ISO 5801-2017.
+
+iii.Use the Fan kWdesign provided by the manufacturer, calculated at fan system design conditions per one of the methods listed in Section 5.3 of ANSI/AMCA 208-2018.
+
+iv.Determine the Fan kWdesign by using the maximum electrical input power provided on the motor nameplate.
+
+2. Variable air volume (VAV) systems.
+
+A. Static pressure sensor location. Static pressure sensors used to control variable air volume fans shall be placed in a position such that the controller set point is no greater than one-third the total design fan static pressure, except for systems with zone reset control complying with Section 140.4(c)2B. If this results in the sensor being located downstream of any major duct split, multiple sensors shall be installed in each major branch with fan capacity controlled to satisfy the sensor furthest below its setpoint; and
+
+B. Setpoint reset. For systems with direct digital control of individual zone boxes reporting to the central control panel, static pressure setpoints shall be reset based on the zone requiring the most pressure; i.e., the setpoint is reset lower until one zone damper is nearly wide open.
+
+3. Fractional HVAC motors for fans. HVAC motors for fans that are less than 1 hp and 1/12 hp or greater shall be electronically-commutated motors or shall have a minimum motor efficiency of 70 percent when rated in accordance with NEMA Standard MG 1-2006 at full load rating conditions. These motors shall also have the means to adjust motor speed for either balancing or remote control. Belt-driven fans may use sheave adjustments for airflow balancing in lieu of a varying motor speed.
+
+Exception 1 to Section 140.4(c)3: Motors in fancoils and terminal units that operate only when providing heating to the space served.
+
+Exception 2 to Section 140.4(c)3: Motors in space conditioning equipment certified under Section 110.1 or 110.2.
+
+Exception to Section 140.4(c): Fan system power caused solely by process loads.
+
+(d) Space-conditioning zone controls. Each space-conditioning zone shall have controls designed in accordance with 1 or 2:
+
+1. Each space-conditioning zone shall have controls that
+prevent:
+
+A. Reheating; and
+
+B. Recooling; and
+
+C. Simultaneous provisions of heating and cooling to the same zone, such as mixing or simultaneous supply of air that has been previously mechanically heated and air that has been previously cooled, either by cooling equipment or by economizer systems;
+or
+
+2. Zones served by variable air-volume systems that are
+designed and controlled to reduce, to a minimum, the
+volume of reheated, recooled, or mixed air are allowed
+only if the controls meet all of the following requirements:
+
+A. For each zone with direct digital controls (DDC):
+
+i. The volume of primary air that is reheated,
+recooled or mixed air supply shall not exceed
+the larger of:
+
+a. 50 percent of the peak primary airflow; or
+
+b. The design zone outdoor airflow rate as
+specified by Section 120.1(c)3.
+
+ii. The volume of primary air in the deadband shall not exceed the design zone outdoor airflow rate as specified by Section 120.1(c)3.
+
+iii. The first stage of heating consists of modulating the zone supply air temperature setpoint up to a maximum setpoint no higher than 95ºF while the airflow is maintained at the dead band flow rate.
+
+iv. The second stage of heating consists of modulating the airflow rate from the dead band flow rate up to the heating maximum flow rate.
+
+B. For each zone without DDC, the volume of primary
+air that is reheated, re-cooled, or mixed air supply
+shall not exceed the larger of the following:
+
+i. 30 percent of the peak primary airflow; or
+
+ii. The design zone outdoor airflow rate as specified
+by Section 120.1(c)3.
+
+Exception 1 to Section 140.4(d): Zones with special pressurization relationships or cross-contamination control needs.
+
+Exception 2 to Section 140.4(d): Zones served by space-conditioning systems in which at least 75 percent of the energy for reheating, or providing warm air in mixing systems, is provided from a site-recovered or site-solar energy source.
+
+Exception 3 to Section 140.4(d): Zones in which specific humidity levels are required to satisfy exempt process loads. Computer rooms or other spaces where the only process load is from IT equipment may not use this exception.
+
+Exception 4 to Section 140.4(d): Zones with a peak supply-air quantity of 300 cfm or less.
+
+Exception 5 to Section 140.4(d): Systems serving healthcare facilities.
+
+(e) Economizers.
+
+1. Each cooling air handler that has a design total mechanical cooling capacity over 33,000 Btu/hr or chilled-water cooling systems without a fan or that use induced airflow that has a cooling capacity greater than the systems listed in Table 140.4-C, shall include either:
+
+A. An air economizer capable of modulating outside-air and return-air dampers to supply 100 percent of the design supply air quantity as outside air; or
+
+B. A water economizer capable of providing 100 percent of the expected system cooling load at outside air temperatures of 50°F dry-bulb and 45°F wet-bulb and below.
+
+Exception 1 to Section 140.4(e)1: Where special outside air filtration and treatment, for the reduction and treatment of unusual outdoor contaminants, makes compliance infeasible.
+
+Exception 2 to Section 140.4(e)1: Where the use of outdoor air for cooling will affect other systems, such as humidification, dehumidification or supermarket refrigeration systems, so as to increase overall building TDV energy use.
+
+Exception 3 to Section 140.4(e)1: Systems serving hotel/motel guestrooms.
+
+Exception 4 to Section 140.4(e)1: Where comfort cooling systems have the cooling efficiency that meets or exceeds the cooling efficiency improvement requirements in Table 140.4-F.
+
+Exception 5 to Section 140.4(e)1: Fan systems primarily serving computer rooms. See Section 140.9(a) for computer room economizer requirements.
+
+Exception 6 to Section 140.4(e)1: In all climate zones, each air handler that has a design total mechanical cooling capacity less than 54,000 Btu/hr where ventilation is provided by a dedicated outdoor air system (DOAS) with exhaust air heat recovery in accordance with Section 140.4(p) and the following:
+
+A. The DOAS unit shall meet the exhaust air heat recovery ratio as specified in Section 140.4(q)1 and include bypass or control to disable energy recovery as specified in Section 140.4(q)2.
+
+B. The DOAS unit shall provide at least the minimum ventilation air flow rate as specified in Section 120.1(c)3 and provide no less than 0.3 cfm/ft2 during economizer conditions.
+
+Exception 7 to Section 140.4(e)1: Where the use of an air economizer in controlled environment horticulture spaces will affect carbon dioxide enrichment systems.
+
+2. If an economizer is required by Section 140.4(e)1, and an air economizer is used to meet the requirement, then it shall be:
+
+A. Designed and equipped with controls so that economizer operation does not increase the building heating energy use during normal operation; and
+
+Exception to Section 140.4(e)2A: Systems that provide 75 percent of the annual energy used for mechanical heating from site-recovered energy or a site-solar energy source.
+
+B. Capable of providing partial cooling even when additional mechanical cooling is required to meet the remainder of the cooling load.
+
+C. Designed and equipped with a device type and high limit shut off complying with Table 140.4-G.
+
+D. The air economizer and all air dampers shall have the following features:
+
+i. Warranty. 5-year manufacturer warranty of economizer assembly.
+
+ii. Damper reliability testing. Suppliers of economizers shall certify that the economizer assembly, including but not limited to outdoor air damper, return air damper, drive linkage and actuator, have been tested and are able to open and close against the rated airflow and pressure of the system for 60,000 damper opening and closing cycles.
+
+iii. Damper leakage. Economizer outdoor air and return air dampers shall have a maximum leakage rate of 10 cfm/sf at 250 Pascals (1.0 in. of water) when tested in accordance with AMCA Standard 500-D. The economizer outside air and return air damper leakage rates shall be certified to the Energy Commission in accordance with Section 110.0.
+
+iv. Adjustable setpoint. If the high-limit control is fixed dry bulb or fixed enthalpy + fixed dry bulb, then the control shall have an adjustable setpoint.
+
+v. Sensor accuracy. Outdoor air, return air, mixed air, and supply air sensors shall be calibrated within the following accuracies.
+
+1. Drybulb and wetbulb temperatures accurate to ±2°F over the range of 40°F to 80°F;
+
+2. Enthalpy accurate to ±3 Btu/lb over the range of 20 Btu/lb to 36 Btu/lb;
+
+3. Relative humidity (RH) accurate to ±5 percent over the range of 20 percent to 80 percent RH;
+
+vi. Sensor calibration data. Data used for control of the economizer shall be plotted on a sensor performance curve.
+
+vii. Sensor high limit control. Sensors used for the high limit control shall be located to prevent false readings, including but not limited to being properly shielded from direct sunlight.
+
+viii. Relief air system. Relief air systems shall be capable of providing 100 percent outside air without over-pressurizing the building.
+
+E. The space-conditioning system shall include the following:
+
+i.Unit controls shall have mechanical capacity controls interlocked with economizer controls such that the economizer is at 100 percent open position when mechanical cooling is on and does not begin to close until the leaving air temperature is less than 45°F.
+
+ii. Direct Expansion (DX) units greater than 65,000 Btu/hr that control the capacity of the mechanical cooling directly based on occupied space temperature shall have a minimum of two stages of mechanical cooling capacity.
+
+iii. DX units not within the scope of Section 140.4(e)2Eii shall comply with the requirements in Table 140.4-H, and have controls that do not false load the mechanical cooling system by limiting or disabling the economizer or by any other means except at the lowest stage of mechanical cooling capacity.
+
+3. Systems that include a water economizer to meet Section 140.4(e)1 shall include the following:
+
+A. Maximum pressure drop. Precooling coils and water-to-water heat exchangers used as part of a water economizer shall either have a waterside pressure drop of less than 15 feet of water, or a secondary loop shall be installed so that the coil or heat exchanger pressure drop is not contributing to pressure drop when the system is in the normal cooling (non-economizer) mode.
+
+B. Economizer systems shall be integrated with the mechanical cooling system so that they are capable of providing partial cooling even when additional mechanical cooling is required to meet the remainder of the cooling load. Controls shall not false load the mechanical cooling system by limiting or disabling the economizer or by any other means, such as hot gas bypass, except at the lowest stage of mechanical cooling.
+
+(f) Supply air temperature reset controls. Space-conditioning systems supplying heated or cooled air to multiple zones shall include controls that automatically reset supply air temperatures. Air distribution systems serving zones that  are likely to have constant loads shall be designed for the air flows resulting from the fully reset supply air temperature. Supply air temperature reset controls shall be:
+
+1. In response to representative building loads or to outdoor air temperature; and
+
+2. At least 25 percent of the difference between the design supply-air temperature and the design room air temperature.
+
+Exception 1 to Section 140.4(f): Systems that meet the requirements of Section 140.4(d)1, without using  Exception 1 to that section.
+
+Exception 2 to Section 140.4(f): Where supply-air temperature reset would increase overall building energy use.
+
+Exception 3 to Section 140.4(f): Systems supplying zones in which specific humidity levels are required to  satisfy process loads. Computer rooms or other spaces with only IT equipment may not use this exception.
+
+Exception 4 to Section 140.4(f): Systems serving healthcare facilities.
+
+(g) Electric resistance heating. Electric resistance heating systems shall not be used for space heating.
+
+Exception 1 to Section 140.4(g): Where an electric resistance heating system supplements a heating system in which at least 60 percent of the annual energy requirement is supplied by site-solar or recovered energy.
+
+Exception 2 to Section 140.4(g): Where an electric resistance heating system supplements a heat pump heating system, and the heating capacity of the heat pump is more than 75 percent of the design heating load calculated in accordance with Section 140.4(a) at the design outdoor temperature specified in Section 140.4(b)4.
+
+Exception 3 to Section 140.4(g): Where the total capacity of all electric resistance heating systems serving the entire building is less than 10 percent of the total design output capacity of all heating equipment serving the entire building.
+
+Exception 4 to Section 140.4(g): Where the total capacity of all electric resistance heating systems serving the entire building, excluding those allowed under Exception 2, is no more than 3 kW.
+
+Exception 5 to Section 140.4(g): Where an electric resistance heating system serves an entire building that is not a hotel/motel building; and has a conditioned floor area no greater than 5,000 square feet; and has no mechanical cooling; and is in an area where natural gas is not currently available.
+
+Exception 6 to Section 140.4(g): Heating systems serving as emergency backup to gas heating equipment.
+
+(h) Heat rejection systems. Heat rejection equipment used in comfort cooling systems, such as air-cooled condensers, open cooling towers, closed-circuit cooling towers and evaporative condensers shall include the following:
+
+1. Fan speed control. Each fan powered by a motor of 7.5 hp (5.6 kW) or larger shall have the capability to operate that fan at two thirds of full speed or less, and shall have controls that automatically change the fan speed to control the leaving fluid temperature or condensing temperature or pressure of the heat rejection device.
+
+Exception 1 to Section 140.4(h)1: Heat rejection devices included as an integral part of the equipment listed in Tables 110.2-A through 110.2-N.
+
+Exception 2 to Section 140.4(h)1: Condenser fans serving multiple refrigerant circuits.
+
+Exception 3 to Section 140.4(h)1: Condenser fans serving flooded condensers.
+
+Exception 4 to Section 140.4(h)1: Up to one third of the fans on a condenser or tower with multiple fans where the lead fans comply with the speed control requirement.
+
+2. Tower flow turndown. Open cooling towers configured with multiple condenser water pumps shall be designed so that all cells can be run in parallel with the larger of:
+
+A. The flow that is produced by the smallest pump, or
+
+B. 50 percent of the design flow for the cell.
+
+3. Limitation on centrifugal fan cooling towers. Open cooling towers with a combined rated capacity of 900 gpm and greater at 95°F condenser water return, 85°F condenser water supply and 75°F outdoor wet-bulb temperature shall use propeller fans and shall not use centrifugal fans.
+
+Exception 1 to Section 140.4(h)3: Cooling towers that are ducted (inlet or discharge) or have an external sound trap that requires external static pressure capability.
+
+Exception 2 to Section 140.4(h)3: Cooling towers that meet the energy efficiency requirement for propeller fan towers in Section 110.2, Table 110.2-F.
+
+4. Multiple cell heat rejection equipment. Multiple cell heat rejection equipment with variable speed fan drives shall:
+
+A. Operate the maximum number of fans allowed that comply with the manufacturer’s requirements for all system components, and
+
+B. Control all operating fans to the same speed. Minimum fan speed shall comply with the minimum allowable speed of the fan drive as specified by the manufacturer’s recommendation. Staging of fans is allowed once the fans are at their minimum operating speed.
+
+5. Cooling tower efficiency. Axial fan, open-circuit cooling towers serving condenser water loops for chilled water plants with a total of 900 gpm or greater, shall have a rated efficiency of no less than 60 gpm/hp when rated in accordance with the conditions as listed in Table 110.2-F.
+
+Exception 1 to Section 140.4(h)5: Replacement of existing cooling towers that are inside an existing building or on an existing roof.
+
+Exception 2 to Section 140.4(h)5: Cooling towers serving buildings in Climate Zone 1 or 16.
+
+(i) Minimum chiller efficiency. Chillers shall meet or exceed Path B from Table 110.2-D.
+
+Exception 1 to Section 140.4(i): Chillers with electrical service > 600V.
+
+Exception 2 to Section 140.4(i): Chillers attached to a heat recovery system with a design heat recovery capacity > 40 percent of the design chiller cooling capacity.
+
+Exception 3 to Section 140.4(i): Chillers used to charge thermal energy storage systems where the charging temperature is < 40°F.
+
+Exception 4 to Section 140.4(i): In buildings with more than three chillers, only three chillers are required to meet the Path B efficiencies.
+
+(j) Limitation of air-cooled chillers. Chilled water plants shall not have more than 300 tons provided by air-cooled chillers.
+
+Exception 1 to Section 140.4(j): Where the water quality at the building site fails to meet manufacturer’s specifications for the use of water-cooled chillers.
+
+Exception 2 to Section 140.4(j): Chillers that are used to charge a thermal energy storage system with a design temperature of less than 40°F (4°C).
+
+Exception 3 to Section 140.4(j): Systems serving healthcare facilities.
+
+(k) Hydronic system measures.
+
+1. Hydronic variable flow systems. HVAC chilled and hot water pumping shall be designed for variable fluid flow and shall be capable of reducing pump flow rates to no more than the larger of: a) 50 percent or less of the design flow rate; or b) the minimum flow required by the equipment manufacturer for the proper operation of equipment served by the system.
+
+Exception 1 to Section 140.4(k)1: Systems that include no more than three control valves.
+
+Exception 2 to Section 140.4(k)1: Systems having a total pump system power less than or equal to 1.5 hp.
+
+2. Chiller isolation. When a chilled water system includes more than one chiller, provisions shall be made so that flow through any chiller is automatically shut off when that chiller is shut off while still maintaining flow through other operating chiller(s). Chillers that are piped in series for the purpose of increased temperature differential shall be considered as one chiller.
+
+3. Boiler isolation. When a hot water plant includes more than one boiler, provisions shall be made so that flow through any boiler is automatically shut off when that boiler is shut off while still maintaining flow through other operating boiler(s).
+
+4. Chilled and hot water temperature reset controls. Systems with a design capacity exceeding 500,000 Btu/hr supplying chilled or heated water shall include controls that automatically reset supply water temperatures as a function of representative building loads or outside air temperature.
+
+Exception 1 to Section 140.4(k)4: Hydronic systems that use variable flow to reduce pumping energy in accordance with 140.4(k)1.
+
+Exception 2 to Section 140.4(k)4: Systems serving healthcare facilities.
+
+5. Water-cooled air conditioner and hydronic heat pump systems. Water circulation systems serving water-cooled air conditioners, hydronic heat pumps, or both that have total pump system power exceeding 5 hp shall have flow controls that meet the requirements of Section 140.4(k)6. Each such air conditioner or heat pump shall have a two-position automatic valve interlocked to shut off water flow when the compressor is off.
+
+6. Variable flow controls.
+
+A. Variable speed drives. Individual pumps serving variable flow systems and having a motor horsepower exceeding 5 hp shall have controls or devices (such as variable speed control) that will result in pump motor demand of no more than 30 percent of design wattage at 50 percent of design water flow. The pumps shall be controlled as a function of required differential pressure.
+
+B. Pressure sensor location and setpoint.
+
+i. For systems without direct digital control of individual coils reporting to the central control panel, differential pressure shall be measured at the most remote heat exchanger or the heat exchanger requiring the greatest differential pressure.
+
+ii. For systems with direct digital control of individual coils with a central control panel, the static pressure setpoint shall be reset based on the valve requiring the most pressure, and the setpoint shall be no less than 80 percent open. Pressure sensors may be mounted anywhere.
+
+Exception 1 to Section 140.4(k)6: Heating hot water systems.
+
+Exception 2 to Section 140.4(k)6: Condenser water systems serving only water-cooled chillers.
+
+7. Hydronic heat pump (WLHP) controls. Hydronic heat pumps connected to a common heat pump water loop with central devices for heat rejection and heat addition shall have controls that are capable of providing a heat pump water supply temperature dead band of at least 20°F between initiation of heat rejection and heat addition by the central devices.
+
+Exception to Section 140.4(k)7: Where a system loop temperature optimization controller is used to determine the most efficient operating temperature based on real-time conditions of demand and capacity, dead bands of less than 20°F shall be allowed.
+
+8. High capacity space heating gas boiler systems. In Climate Zones 1 through 6, 9 through 14, and 16, gas hot water boiler systems for space heating with a total system input of at least 1 MMBtu/h but no more than 10 MMBtu/h shall meet all of the following requirements.
+
+A.Boiler system efficiency. Gas hot water boilers shall have a minimum thermal efficiency of 90 percent. Systems with multiple boilers can meet this requirement if the space-heating input provided by equipment with thermal efficiencies above and below 90 percent has an input capacity-weighted average thermal efficiency of at least 90 percent. For boilers federally regulated by combustion efficiency, the calculation for the input capacity-weighted average thermal efficiency shall use the combustion efficiency value.
+
+B. Hot water distribution design. The hot water distribution system shall be designed to comply with Items i and ii.
+
+i. Coils and other heat exchangers shall be selected so that at design conditions the hot water return temperature entering the boilers is 120°F or less.
+
+ii. Under all operating conditions, the water temperature entering the boiler is 120°F or less or the flow rate of supply hot water that recirculates directly into the return system, such as by three-way valves or minimum flow bypass controls, shall be no greater than 20 percent of the design flow of the operating boilers.
+
+Exception 1 to Section 140.4(k)8: Where 25 percent of the annual space heating requirement is provided by on-site renewable energy, siterecovered energy or heat recovery chillers.
+
+Exception 2 to Section 140.4(k)8: Space heating boilers installed in individual dwelling units.
+
+Exception 3 to Section 140.4(k)8: Where 50 percent or more of the design heating load is served using perimeter convective heating, radiant ceiling panels or both.
+
+Exception 4 to Section 140.4(k)8: Individual gas boilers with input capacity less than 300,000 Btu/h shall not be included in the calculations of the total system input or total system efficiency.
+
+(l) Reserved.
+
+(m) Fan control. Each cooling system listed in Table 140.4-I shall be designed to vary the indoor fan airflow as a function of load and shall comply with the following requirements:
+
+1. DX and chilled water cooling systems that control the capacity of the mechanical cooling directly based on occupied space temperature shall (i) have a minimum of two stages of fan control with no more than 66 percent speed when operating on stage 1; and (ii) draw no more than 40 percent of the fan power at full fan speed, when operating at 66 percent speed.
+
+2. All other systems, including but not limited to DX cooling systems and chilled water systems that control the space temperature by modulating the airflow to the space, shall have proportional fan control such that at 50 percent air flow the power draw is no more than 30 percent of the fan power at full fan speed.
+
+3. Systems that include an air side economizer to meet Section 140.4(e)1 shall have a minimum of two speeds of fan control during economizer operation.
+
+Exception 1 to Section 140.4(m): Modulating fan control is not required for chilled water systems with all fan motors < 1 HP, or for evaporative systems with all fan motors < 1 HP, if the systems are not used to provide ventilation air and all indoor fans cycle with the load.
+
+Exception 2 to Section 140.4(m): Systems serving healthcare facilities.
+
+(n) Mechanical system shut-off. Any directly conditioned space with operable wall or roof openings to the outdoors shall be provided with interlock controls that disable or reset the temperature setpoint to 55°F for mechanical heating and disable or reset the temperature setpoint to 90°F for mechanical cooling to that space when any such opening is open for more than 5 minutes.
+
+Exception 1 to Section 140.4(n): Interlocks are not required on doors with automatic closing devices.
+
+Exception 2 to Section 140.4(n): Any space without a thermostatic control (thermostat or a space temperature sensor used to control heating or cooling to the space).
+
+Exception 3 to Section 140.4(n): Healthcare facilities.
+
+(o) Exhaust system transfer air. Conditioned supply air delivered to any space with mechanical exhaust shall not exceed the greater of:
+
+1. The supply flow required to meet the space heating or cooling load; or
+
+2. The ventilation rate required by the authority having jurisdiction, the facility Environmental Health and Safety Department, or by Section 120.1(c)3; or
+
+3. The mechanical exhaust flow minus the available transfer air. Available transfer air shall be from another conditioned space or return air plenums on the same floor and same smoke or fire compartment, and that at their closest point are within 15 feet of each other.
+
+Exception 1 to Section 140.4(o): Biosafety level classified laboratories 3 or higher.
+
+Exception 2 to Section 140.4(o): Vivarium spaces.
+
+Exception 3 to Section 140.4(o): Spaces that are required by applicable codes and standards to be maintained at a positive pressure differential relative to adjacent spaces.
+
+Exception 4 to Section 140.4(o): Spaces where the highest amount of transfer air that could be used for exhaust makeup may exceed the available transfer airflow rate and where the spaces have a required negative pressure relationship.
+
+Exception 5 to Section 140.4(o): Healthcare facilities.
+
+(p)Dedicated outdoor air systems (DOAS). HVAC systems that utilize a dedicated outdoor air system (DOAS) such as a DX-DOAS, HRV or ERV unit to condition, temper or filter 100 percent outdoor air separate from local or central space-conditioning systems serving the same space shall meet the following criteria:
+
+1.DOAS unit fan systems with input power less than 1 kW shall not exceed a total combined fan power of 1.0 W/cfm. DOAS with fan power greater than or equal to 1 kW shall meet the requirements of Section 140.4 (c).
+
+2.The DOAS supply air shall be delivered directly to the occupied space or at the outlet of any terminal heating or cooling coils and shall cycle off any zone heating and cooling equipment fans, circulation pumps and terminal unit fans when there is no call for heating or cooling in the zone.
+
+Exception 1 to Section 140.4(p)2: Active chilled beam systems.
+
+Exception 2 to Section 140.4(p)2: Sensible-only cooling terminal units with pressure-independent variableairflow regulating devices limiting the DOAS supply air to the greater of latent load or minimum ventilation requirements.
+
+Exception 3 to Section 140.4(p)2: Any configuration where a DOAS unit provides ventilation air to a downstream fan (a terminal box, air handling unit or other space-conditioning equipment) where the total system airflow can be reduced to ventilation minimum or the downstream fan power is no greater than 0.12 watts per cfm when space temperatures are within the thermostat deadband (at low speed per manuf	acturer’s literature).
+
+3.DOAS supply and exhaust fans shall have a minimum of three speeds to facilitate system balancing.
+
+4.DOAS with mechanical cooling providing ventilation to multiple zones and operating in conjunction with zone heating and cooling systems shall not use heating or heat recovery to warm supply air above 60°F when representative building loads or outdoor air temperature indicates that the majority of zones require cooling.
+
+(q)Exhaust air heat recovery. Fan systems designed to operate to the criteria listed in either Table 140.4-J or Table 140.4-K shall include an exhaust air heat recovery system that meets the following:
+
+1.A sensible energy recovery ratio of at least 60 percent or an enthalpy recovery ratio of at least 50 percent for both heating and cooling design conditions and a rating in accordance with AHRI 1060.
+
+2.Energy recovery bypass or control to disable energy recovery and to directly economize with ventilation air based on outdoor air temperature limits specified in Table 140.4-G. For energy recovery systems where the transfer of energy cannot be stopped, bypass shall prevent the total airflow rate of either outdoor air or exhaust air through the energy recovery exchanger from exceeding 10 percent of the full design airflow rate.
+
+Exception to Section 140.4(q)2: For DOAS units with the capability to shut off when a separate space-conditioning system serving the same space meets the economizer requirements in Section 140.4(e)1A.
+
+Exception 1 to Section 140.4(q): Systems meeting Section 140.9(c), Prescriptive requirements for laboratory and factory exhaust systems.
+
+Exception 2 to Section 140.4(q): Systems serving spaces that are not cooled and that are heated to less than 60°F.
+
+Exception 3 to Section 140.4(q): Where more than 60 percent of the outdoor air heating energy is provided from site-recovered energy in Climate Zone 16.
+
+Exception 4 to Section 140.4(q): Sensible recovery ratio requirements at heating design conditions are exempted for Climate Zone 15.
+
+Exception 5 to Section 140.4(q): Sensible recovery ratio requirements at cooling design conditions are exempted for Climate Zone 1.
+
+Exception 6 to Section 140.4(q): Where the sum of the airflow rates exhausted and relieved within 20 feet of each other is less than 75 percent of the design outdoor airflow rate, excluding exhaust air that is either:
+
+1.used for another energy recovery system,
+
+2.not allowed by the California Mechanical Code (Title 24, Part 4) (CMC) for use in energy recovery systems with leakage potential, or
+
+3.of Class 4 as specified in Section 120.1(g).
+
+Exception 7 to Section 140.4(q): Systems expected to operate less than 20 hours per week.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+TABLE 140.4-A
+
+SUPPLY FAN POWER ALLOWANCES (watts/cfm)
+
+AIRFLOW	MULTI-ZONE VAV SYSTEMS ≤5,000 cfm1	MULTI-ZONE VAV SYSTEMS >5,000 and ≤10,000 cfm1	MULTI-ZONE VAV SYSTEMS >10,000 cfm1	ALL OTHER FAN SYSTEMS ≤5,000 cfm	ALL OTHER FAN SYSTEMS >5,000 and ≤10,000 cfm	ALL OTHER FAN SYSTEMS >10,000 cfm1
+Supply system base allowance for AHU serving spaces ≤ 6 floors away)	0.395	0.453	0.413	0.232	0.256	0.236
+Supply system base allowance for AHU serving spaces > 6 floors away	0.508	0.548	0.501	0.349	0.356	0.325
+MERV 13 to MERV 16 filter upstream of thermal conditioning equipment (two times the clean filter pressure drop)2	0.136	0.114	0.105	0.139	0.120	0.107
+MERV 13 to MERV 16 final filter downstream of thermal conditioning equipment (two times the clean filter pressure drop)2	0.225	0.188	0.176	0.231	0.197	0.177
+Filtration allowance for > MERV 16 or HEPA filter (two times the clean filter pressure drop)2	0.335	0.280	0.265	0.342	0.292	0.264
+Central hydronic heating coil allowance	0.046	0.048	0.052	0.046	0.050	0.054
+Electric heat allowance	0.046	0.038	0.035	0.046	0.040	0.036
+Gas heat allowance	0.069	0.057	0.070	0.058	0.060	0.072
+Hydronic/DX cooling coil or heat pump coil (wet) allowance3	0.135	0.114	0.105	0.139	0.120	0.107
+Solid or liquid desiccant system allowance	0.157	0.132	0.123	0.163	0.139	0.124
+Reheat coil for dehumidification allowance	0.045	0.038	0.035	0.046	0.040	0.036
+Allowance for evaporative humidifier/cooler in series with a cooling coil. Value shown is allowed watts/cfm per 1.0 inch of water gauge (in. w.g.) Determine pressure loss (in. w.g.) at 400 fpm or maximum velocity allowed by the manufacturer, whichever is less. [Calculation required, see Note 4]	0.224	0.188	0.176	0.231	0.197	0.177
+Allowance for 100% outdoor air system5	0.000	0.000	0.000	0.070	0.100	0.107
+Energy recovery allowance for 0.50 ≤ ERR <0.556	0.135	0.114	0.105	0.139	0.120	0.107
+Energy recovery allowance for 0.55 ≤ ERR <0.606	0.160	0.134	0.124	0.165	0.141	0.126
+Energy recovery allowance for 0.60 ≤ ERR <0.656	0.184	0.155	0.144	0.190	0.163	0.146
+Energy recovery allowance for 0.65 ≤ ERR <0.706	0.208	0.175	0.163	0.215	0.184	0.165
+Energy recovery allowance for 0.70 ≤ ERR <0.756	0.232	0.196	0.183	0.240	0.205	0.184
+Energy recovery allowance for 0.75 ≤ ERR <0.806	0.257	0.216	0.202	0.264	0.226	0.203
+Energy recovery allowance for ERR ≥ 0.806	0.281	0.236	0.222	0.289	0.247	0.222
+Coil runaround loop	0.135	0.114	0.105	0.139	0.120	0.107
+Allowance for gas phase filtration. Value shown is allowed w/cfm per 1.0 in. w.g. air pressure drop. [Calculation required, see Note 4]	0.224	0.188	0.176	0.231	0.197	0.177
+Economizer return damper	0.045	0.038	0.035	0.046	0.040	0.036
+Air blender allowance	0.045	0.038	0.035	0.046	0.040	0.036
+Sound attenuation section [fans serving spaces with design background noise goals below NC35]	0.034	0.029	0.026	0.035	0.030	0.027
+Deduction for systems that feed a terminal unit with a fan with electrical input power < 1 kW	-0.100	-0.100	-0.100	-0.100	-0.100	-0.100
+Low-turndown single-zone VAV fan systems meeting the requirements in Note 7.	0.000	0.000	0.000	0.070	0.100	0.0891.See Section 100.1 for the definition of FAN SYSTEM, MULTI-ZONE VARIABLE AIR VOLUME (VAV).
+
+2.Filter fan power allowance can only be counted once per fan system, except fan systems in healthcare facilities, which can claim one of the MERV 13 to 16 filter allowances and the HEPA filter allowance if both are included in the fan system.
+
+3.Healthcare facilities can claim this fan power allowance twice per fan system where coil design leaving air temperature is less than 44°F.
+
+4. Power allowance requires further calculation by multiplying the actual inches of water gauge (in. w.g.) of the device/component by the watts/cfm in Table 140.4-A.
+
+5.The 100% outdoor air system must serve three or more HVAC zones and airflow during noneconomizer operating periods must not exceed 135% of minimum requirements in Section 120.1(c)(3).
+
+6. Enthalpy recovery ratio (ERR) calculated per ANSI/ASHRAE 84-2020.
+
+7. A low-turndown single-zone VAV fan system must be capable of and configured to reduce airflow to 50 percent of design airflow and use no more than 30 percent of the design wattage at that airflow. No more than 10 percent of the design load served by the equipment shall have fixed loads.
+
+TABLE 140.4-B
+
+EXHAUST, RETURN, RELIEF, TRANSFER FAN POWER ALLOWANCES (WATTS/CFM)
+
+AIRFLOW	MULTI-ZONE VAV SYSTEMS1 ≤5,000 cfm	MULTI-ZONE VAV SYSTEMS1 >5,000 and ≤10,000 cfm	MULTI-ZONE VAV SYSTEMS1 >10,000 cfm	ALL OTHER FAN SYSTEMS ≤5,000 cfm	ALL OTHER FAN SYSTEMS >5,000 and ≤10,000 cfm	ALL OTHER FAN SYSTEMS >10,000 cfm
+Exhaust system base allowance	0.221	0.246	0.236	0.186	0.184	0.190
+Filter (any MERV value)2	0.046	0.041	0.036	0.046	0.041	0.035
+Energy recovery allowance for 0.50 ≤ ERR < 0.553	0.139	0.120	0.107	0.139	0.123	0.109
+Energy recovery allowance for 0.55 ≤ ERR < 0.603	0.165	0.142	0.126	0.165	0.144	0.128
+Energy recovery allowance for 0.60 ≤ ERR < 0.653	0.190	0.163	0.146	0.191	0.166	0.148
+Energy recovery allowance for 0.65 ≤ ERR < 0.703	0.215	0.184	0.165	0.216	0.188	0.167
+Energy recovery allowance for 0.70 ≤ ERR < 0.753	0.240	0.206	0.184	0.241	0.209	0.186
+Energy recovery allowance for 0.75 ≤ ERR < 0.803	0.265	0.227	0.203	0.266	0.231	0.205
+Energy recovery allowance for ERR ≥ 0.803	0.289	0.248	0.222	0.291	0.252	0.225
+Coil runaround loop	0.139	0.120	0.107	0.139	0.123	0.109
+Return or exhaust systems required by code or accreditation standards to be fully ducted, or systems required to maintain air pressure differentials between adjacent rooms	0.116	0.100	0.089	0.116	0.102	0.091
+Return and/or exhaust airflow control devices required for space pressurization control	0.116	0.100	0.089	0.116	0.102	0.091
+Laboratory and vivarium exhaust systems in high-rise buildings for vertical duct exceeding 75 ft. Value shown is allowed W/cfm per 0.25 in. w.g. for each 100 ft exceeding 75 ft. [Calculation required, see Note 4]	0.058	0.051	0.045	0.058	0.052	0.046
+Biosafety cabinet. Value shown is allowed W/cfm per 1.0 in. w.g. air pressure drop. [Calculation required, see Note 4]	0.231	0.198	0.177	0.232	0.202	0.179
+Exhaust filters, scrubbers or other exhaust treatment required by code or standard. Value shown is allowed W/cfm per 1.0 in. w.g. air pressure drop. [Calculation required, see Note 4]	0.231	0.198	0.177	0.232	0.202	0.179
+Healthcare facility allowance5	0.231	0.198	0.177	0.232	0.202	0.179
+Sound attenuation section [fans serving spaces with design background noise goals below NC35]	0.035	0.030	0.027	0.035	0.031	0.0281.See FAN SYSTEM, MULTI-ZONE VARIABLE AIR VOLUME (VAV) in definitions for “Multi-zone” to be classified as a multi-zone VAV system.
+
+2.Filter pressure loss can only be counted once per fan system.
+
+3.Enthalpy recovery ratio (ERR) calculated per ANSI/ASHRAE 84-2020.
+
+4. Power allowance requires further calculation, multiplying the actual pressure drop (in. w.g.) of the device/component by the watts/cfm in Table 140.4-B.
+
+5. This allowance can only be taken for healthcare facilities.
+
+TABLE 140.4-C:
+
+AIR DENSITY CORRECTION FACTORS
+
+ALTITUDE (ft)	CORRECTION FACTOR
+<3,000	1.000
+≥3,000 and <4,000	0.896
+≥4,000 and <5,000	0.864
+≥5,000 and <6,000	0.832
+≥6,000	0.801TABLE 140.4-D:
+
+DEFAULT VALUES FOR FAN KWDESIGN BASED ON MOTOR NAMEPLATE HP
+
+MOTOR NAMEPLATE HP	DEFAULT FAN KWdesign WITH VARIABLE SPEED DRIVE (Fan kWdesign)	DEFAULT FAN KWdesign WITHOUT VARIABLE SPEED DRIVE (Fan kWdesign)
+<1	0.96	0.89
+≥1 and <1.5	1.38	1.29
+≥1.5 and <2	1.84	1.72
+≥2 and <3	2.73	2.57
+≥3 and <5	4.38	4.17
+≥5 and <7.5	6.43	6.15
+≥7.5 and <10	8.46	8.13
+≥10 and <15	12.47	12.03
+≥15 and <20	16.55	16.04
+≥20 and <25	20.58	19.92
+≥25 and <30	24.59	23.77
+≥30 and <40	32.74	31.70
+≥40 and <50	40.71	39.46
+≥50 and <60	48.50	47.10
+≥60 and <75	60.45	58.87
+≥75 and ≤100	80.40	78.171.This table cannot be used for motor nameplate horsepower values greater
+than 100.
+
+2.This table is to be used only with motors with a service factor ≤1.15. If the service factor is not provided, this table may not be used.
+
+TABLE 140.4-E
+
+CHILLED WATER SYSTEM COOLING CAPACITY
+
+CLIMATE ZONES	TOTAL BUILDING CHILLED WATER SYSTEM CAPACITY, MINUS CAPACITY OF THE COOLING UNITS WITH AIR ECONOMIZERS
+Building Water-Cooled Chilled Water System	Air-Cooled Chilled Water Systems or District Chilled Water Systems
+15	≥ 960,000 Btu/h (280 kW)	≥ 1,250,000 Btu/h (365 kW)
+1-14	≥ 720,000 Btu/h (210 kW)	≥ 940,000 Btu/h (275 kW)
+16	≥ 1,320,000 Btu/h (385 kW)	≥ 1,720,000 Btu/h (505 kW)TABLE 140.4-F
+
+ECONOMIZER TRADE-OFF TABLE FOR COOLING SYSTEMS
+
+CLIMATE ZONE	EFFICIENCY IMPROVEMENTa
+1	70%
+2	65%
+3	65%
+4	65%
+5	70%
+6	30%
+7	30%
+8	30%
+9	30%
+10	30%
+11	30%
+12	30%
+13	30%
+14	30%
+15	30%
+16	70%a. If a unit is rated with an annualized or part-load metric, then to eliminate the required economizer, only the applicable minimum cooling efficiency of the unit must be increased by the percentage shown. If the unit is only rated with a full load metric, like EER or COP cooling, then that metric must be increased by the percentage shown. To determine the efficiency required to eliminate the economizer, when the unit equipment efficiency is rated with an energy-input divided by workoutput metric, the metric shall first be converted to COP prior to multiplying by the efficiency improvement percentage and then converted back to the rated metric.
+
+TABLE 140.4-G
+
+AIR ECONOMIZER HIGH LIMIT SHUT OFF CONTROL REQUIREMENTS
+
+DEVICE TYPEa	CLIMATE ZONES	REQUIRED HIGH LIMIT (ECONOMIZER OFF WHEN):
+Equationb	Description
+Fixed dry bulb	1, 3, 5, 11–16	TOA > 75°F	Outdoor air temperature exceeds 75°F
+2, 4, 10	TOA > 73°F	Outdoor air temperature exceeds 73°F
+6, 8, 9	TOA > 71°F	Outdoor air temperature exceeds 71°F
+7	TOA > 69°F	Outdoor air temperature exceeds 69°F
+Differential dry bulb	1, 3, 5, 11–16	TOA > TRA°F	Outdoor air temperature exceeds return air temperature
+2, 4, 10	TOA > TRA-2°F	Outdoor air temperature exceeds return air temperature minus 2°F
+6, 8, 9	TOA > TRA-4°F	Outdoor air temperature exceeds return air temperature minus 4°F
+7	TOA > TRA-6°F	Outdoor air temperature exceeds return air temperature minus 6°F
+Fixed Enthalpyc + Fixed dry bulb	All	hOA > 28 Btu/lbc or TOA > 75°F	Outdoor air enthalpy exceeds 28 Btu/lb of dry airc or Outdoor air temperature exceeds 75°Fa. Only the high limit control devices listed are allowed to be used and at the setpoints listed. Others such as Dew Point, Fixed Enthalpy, Electronic Enthalpy, and Differential Enthalpy Controls may not be used in any climate zone for compliance with Section 140.4(e)1 unless approval for use is provided by the Energy Commission Executive Director.
+
+b. Devices with selectable (rather than adjustable) setpoints shall be capable of being set to within 2°F and 2 Btu/lb of the setpoint listed.
+
+c. At altitudes substantially different than sea level, the Fixed Enthalpy limit value shall be set to the enthalpy value at 75°F and 50% relative humidity. As an example, at approximately 6,000 foot elevation, the fixed enthalpy limit is approximately 30.7 Btu/lb.
+
+TABLE 140.4-H
+
+DIRECT EXPANSION (DX) UNIT REQUIREMENTS FOR COOLING STAGES AND COMPRESSOR DISPLACEMENT
+
+COOLING CAPACITY	MINIMUM NUMBER OF MECHANICAL COOLING STAGES	MINIMUM COMPRESSOR DISPLACEMENT
+≥ 65,000 Btu/h and < 240,000 Btu/h	3 stages	≤ 35% full load
+≥ 240,000 Btu/h	4 stages	≤ 25% full loadTABLE 140.4-I
+
+FAN CONTROL SYSTEMS
+
+COOLING SYSTEM TYPE	FAN MOTOR SIZE	COOLING CAPACITY
+DX cooling	Any	≥ 65,000 Btu/hr
+Chilled water and evaporative	≥ 1/4 HP	AnyTABLE 140.4-J:
+
+ENERGY RECOVERY REQUIREMENTS BY CLIMATE ZONE AND PERCENT OUTDOOR AIR AT FULL DESIGN AIRFLOW (<8,000 HOURS/YEAR)
+
+% OUTDOOR AIR AT FULLDESIGN AIRFLOW	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+ ≥10% and <20%	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR	NR
+≥20% and <30%	≥15,000	≥20,000	NR	NR	NR	NR	NR	NR	NR	NR	≥18,500	≥18,500	≥18,500	≥18,500	≥18,500	≥18,500
+≥30% and <40%	≥13,000	≥15,000	NR	NR	NR	NR	NR	NR	NR	NR	≥15,000	≥15,000	≥15,000	≥15,000	≥15,000	≥15,000
+≥40% and <50%	≥10,000	≥12,000	NR	NR	NR	NR	NR	NR	NR	≥22,000	≥10,000	≥10,000	≥10,000	≥10,000	≥10,000	≥10,000
+≥50% and <60%	≥9,000	≥10,000	NR	≥18,500	NR	NR	NR	NR	NR	≥17,000	≥8,000	≥8,000	≥8,000	≥8,000	≥8,000	≥8,000
+≥60% and <70%	≥7,000	≥7,500	NR	≥16,500	NR	NR	NR	NR	≥20,000	≥15,000	≥7,000	≥7,000	≥7,000	≥7,000	≥7,000	≥7,000
+≥70% and <80%	≥6,500	≥7,000	NR	≥15,000	NR	NR	NR	NR	≥17,000	≥14,000	≥5,000	≥5,000	≥5,000	≥5,000	≥5,000	≥5,000
+≥80%	≥4,500	≥6,500	NR	≥14,000	NR	NR	NR	NR	≥15,000	≥13,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,0001.Flow rates in Table 140.4-J represent the design supply fan airflow rate in cfm.
+
+2.For a DOAS unit providing outdoor air to another space-conditioning system, the full design supply fan airflow rate shall be the total airflow of only the DOAS unit.
+
+TABLE 140.4-K:
+
+ENERGY RECOVERY REQUIREMENTS BY CLIMATE ZONE AND PERCENT OUTDOOR AIR AT FULL DESIGN AIRFLOW (≥8,000 HOURS/YEAR)
+
+% OUTDOOR AIR AT FULLDESIGN AIRFLOW	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+≥10% and <20%	≥10,000	≥10,000	NR	NR	NR	NR	NR	NR	NR	≥40,000	≥40,000	≥20,000	≥10,000	≥10,000	≥10,000	≥10,000
+≥20% and <30%	≥2,000	≥5,000	≥13,000	≥9,000	≥9,000	NR	NR	NR	NR	≥15,000	≥15,000	≥5,000	≥5,000	≥5,000	≥5,000	≥5,000
+≥30% and <40%	≥2,000	≥3,000	≥10,000	≥6,500	≥6,500	NR	NR	NR	≥15,000	≥7,500	≥7,500	≥3,000	≥3,000	≥3,000	≥3,000	≥3,000
+≥40% and <50%	≥2,000	≥2,000	≥8,000	≥6,000	≥6,000	NR	NR	NR	≥12,000	≥6,000	≥6,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,000
+≥50% and <60%	≥2,000	≥2,000	≥7,000	≥6,000	≥6,000	NR	NR	≥20,000	≥10,000	≥5,000	≥5,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,000
+≥60% and <70%	≥2,000	≥2,000	≥6,000	≥6,000	≥6,000	NR	NR	≥18,000	≥9,000	≥4,000	≥4,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,000
+≥70% and <80%	≥2,000	≥2,000	≥6,000	≥5,000	≥5,000	NR	NR	≥15,000	≥8,000	≥3,000	≥3,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,000
+≥80%	≥2,000	≥2,000	≥6,000	≥5,000	≥5,000	NR	NR	≥12,000	≥7,000	≥3,000	≥3,000	≥2,000	≥2,000	≥2,000	≥2,000	≥2,0001.Flow rates in Table 140.4-K represent the design supply fan airflow rate in cfm.
+
+2.For a DOAS unit providing outdoor air to another space-conditioning system, the full design supply fan airflow rate shall be the total airflow of only the DOAS unit.
+
+SECTION 140.5 PRESCRIPTIVE REQUIREMENTS  FOR SERVICE WATER-HEATING SYSTEMS
+
+(a) Nonresidential occupancies. Service water-heating systems in nonresidential buildings shall meet the requirements of 1 or 2 below, or meet the performance compliance requirements of Section 140.1:
+
+1.School buildings less than 25,000 square feet and less than 4 stories in Climate Zones 2 through 15. A heat pump water-heating system that meets the applicable requirements of Sections 110.1, 110.3 and 120.3.
+
+2.All other occupancies. A service water-heating system that meets the applicable requirements of Sections 110.1, 110.3, 120.3 and 140.5(c).
+
+Exception to Section 140.5(a)1:  A water-heating system serving an individual bathroom space may be an instantaneous electric water heater.
+
+(b) Hotel/motel occupancies. A service water-heating system installed in hotel/motel buildings shall meet the requirements of Section 170.2(d).
+
+(c) High-capacity service water-heating systems. Gas service water-heating systems with a total installed gas waterheating input capacity of 1 MMBtu/h or greater shall have gas service water-heating equipment with a minimum thermal efficiency of 90 percent. Multiple units can meet this requirement if the water-heating input provided by equipment with thermal efficiencies above and below 90 percent averages out to an input capacity-weighted average of at least 90 percent.
+
+Exception 1 to Section 140.5(c): If 25 percent of the annual service water-heating requirement is provided by site-solar energy or site-recovered energy.
+
+Exception 2 to Section 140.5(c): Water heaters installed in individual dwelling units.
+
+Exception 3 to Section 140.5(c): Individual gas water heaters with input capacity at or below 100,000 Btu/h shall not be included in the calculations of the total system input or total system efficiency.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8, and 25943, Public Resources Code.
+
+SECTION 140.6 PRESCRIPTIVE REQUIREMENTS  FOR INDOOR LIGHTING
+
+A building complies with this section if:
+
+i. The calculation of adjusted indoor lighting power of all proposed building areas combined, calculated under Subsection (a) is no greater than the calculation of allowed indoor lighting power, specific methodologies calculated under Subsection (c); and
+
+ii. The calculation of allowed indoor lighting power, general rules comply with Subsection (b).
+
+The prescriptive limits on indoor lighting power are the smaller of the adjusted and allowed indoor lighting power values determined in accordance with Item i.
+
+(a)Calculation of adjusted indoor lighting power. The adjusted indoor lighting power of all proposed building areas is the total watts of all planned permanent and portable lighting systems in all areas of the proposed building; subject to the applicable adjustments under Subdivisions 1 through 4 of this subsection and the requirements of Subdivision 4 of this subsection.
+
+Exception to Section 140.6(a): Up to 0.3 watts per square foot of portable lighting for office areas shall not be required to be included in the calculation of actual indoor lighting power.
+
+1. Two interlocked lighting systems. No more than two lighting systems may be used for an area, and if there are two they must be interlocked. Where there are two interlocked lighting systems, the watts of the lower wattage system may be excluded from the adjusted indoor lighting power density if:
+
+A. An installation certificate detailing compliance with Section 140.6(a)1 is submitted in accordance with Sections 10-103 and 130.4; and
+
+B. The area or areas served by the interlocking systems is an auditorium, a convention center, a conference room, a multipurpose room or a theater; and
+
+C. The two lighting systems are interlocked with a nonprogrammable double-throw switch to prevent simultaneous operation of both systems.
+
+For compliance with Part 6 a nonprogrammable double-throw switch is an electrical switch commonly called a “single pole double throw” or “three-way” switch that is wired as a selector switch allowing one of two loads to be enabled. It can be a line voltage switch or a low voltage switch selecting between two relays. It cannot be overridden or changed in any manner that would permit both loads to operate simultaneously.
+
+2. Reduction of wattage through controls. In calculating adjusted indoor lighting power, the installed watts of a luminaire providing general lighting in an area listed in Table 140.6-A may be reduced by the product of (i) the number of watts controlled as described in Table 140.6-A, times (ii) the applicable power adjustment factor (PAF), if all of the following conditions are met:
+
+A. An installation certificate is submitted in accordance with Section 130.4(b), and
+
+B. Luminaires and controls meet the applicable requirements of Section 110.9, and Sections 130.0 through 130.5; and
+
+C. The controlled lighting is permanently installed general lighting systems and the controls are permanently installed nonresidential-rated lighting controls.
+
+When used for determining PAFs for general lighting in offices, furniture mounted luminaires that comply with all of the following conditions shall qualify as permanently installed general lighting systems:
+When used for determining PAFs for general lighting in offices, furniture mounted luminaires that comply with all of the following conditions shall qualify as permanently installed general lighting systems:
+
+i. The furniture mounted luminaires shall be permanently installed no later than the time of building permit inspection; and
+
+ii. The furniture mounted luminaires shall be permanently hardwired; and
+
+iii. The furniture mounted lighting system shall be designed to provide indirect general lighting; and
+
+iv. Before multiplying the installed watts of the furniture mounted luminaire by the applicable PAF, 0.2 watts per square foot of the area illuminated by the furniture mounted luminaires shall be subtracted from installed watts of the furniture mounted luminaires; and
+
+v. The lighting control for the furniture mounted luminaire complies with all other applicable requirements in Section 140.6(a)2.
+
+D. At least 50 percent of the light output of the controlled luminaire is within the applicable area listed in Table 140.6-A. Luminaires on lighting tracks shall be within the applicable area in order to qualify for a PAF.
+
+E. Only one PAF from Table 140.6-A may be used for each qualifying luminaire. PAFs shall not be added together unless allowed in Table 140.6-A.
+
+F. Only lighting wattage directly controlled in accordance with Section 140.6(a)2 shall be used to reduce the installed watts as allowed by Section 140.6(a)2 for calculating the Adjusted Indoor Lighting Power. If only a portion of the wattage in a luminaire is controlled in accordance with Section 140.6(a)2, then only that portion of controlled wattage may be reduced in calculating adjusted indoor lighting power.
+
+G. Lighting controls used to qualify for a PAF shall be designed and installed in addition to manual, multilevel, and automatic lighting controls required in Section 130.1, and in addition to any other lighting controls required by any provision of Part 6. PAFs shall not be available for lighting controls required by Part 6.
+
+H. To qualify for the PAF for daylight continuous dimming plus OFF control, the daylight control and controlled luminaires shall comply with Section 130.1(d), 130.4(a)3 and 130.4(a)7, and the daylight control shall be continuous dimming and shall additionally turn lights completely OFF when the daylight available in the daylit zone is greater than 150 percent of the illuminance received from the general lighting system at full power. The PAF shall apply to the luminaires in the primary sidelit daylit zone, secondary sidelit daylit zone and skylit daylit zone.
+
+I. To qualify for the PAF for an occupant sensing control controlling the general lighting in large office areas above workstations, in accordance with Table 140.6-A, the following requirements shall be met:
+
+i. The office area shall be greater than 250 square feet; and
+
+ii. This PAF shall be available only in office areas which contain workstations; and
+
+iii. Controlled luminaires shall only be those that provide general lighting directly above the controlled area, or furniture mounted luminaires that comply with Section 140.6(a)2 and provide general lighting directly above the controlled area; and
+
+iv. Qualifying luminaires shall be controlled by occupant sensing controls that meet all of the following requirements, as applicable:
+
+a. Infrared sensors shall be equipped by the manufacturer, of fitted in the field by the installer, with lenses or shrouds to prevent them from being triggered by movement outside of the controlled area.
+
+b. Ultrasonic sensors shall be tuned to reduce their sensitivity to prevent them from being triggered by movements outside of the controlled area.
+
+c. All other sensors shall be installed and adjusted as necessary to prevent them from being triggered by movements outside of the controlled area.
+
+J. To qualify for the PAF for an Institutional Tuning in Table 140.6-A, the tuned lighting system shall comply with all of the following requirements:
+
+i. The lighting controls shall limit the maximum output or maximum power draw of the controlled lighting to 85 percent or less of full light output or full power draw; and
+
+ii. The means of setting the limit is accessible only to authorized personnel; and
+
+iii. The setting of the limit is verified by the acceptance test required by Section 130.4(a)7; and
+
+iv. The construction documents specify which lighting systems shall have their maximum light output or maximum power draw set to no greater than 85 percent of full light output or full power draw.
+
+K. To qualify for the PAF for a demand responsive control in Table 140.6-A, the general lighting wattage receiving the PAF shall not be within the scope of Section 110.12(c) and a demand responsive control shall meet all of the following requirements:
+
+i.The controlled lighting shall be capable of being automatically reduced in response to a demand response signal; and
+
+ii.General lighting shall be reduced in a manner consistent with uniform level of illumination requirements in Table 130.1-A.
+
+L.  To qualify for the PAFs for clerestory fenestration, horizontal slats, or light shelves in Table 140.6-A, the daylighting design shall meet the requirements in Section 140.3(d). The PAFs shall only apply to lighting in a primary or secondary sidelit daylit zone where continuous dimming daylighting controls meeting the requirements of Section 130.1(d) are installed.
+
+3. Lighting wattage excluded. The watts of the following indoor lighting applications may be excluded from adjusted indoor lighting power. (Indoor lighting not listed below shall comply with all applicable nonresidential indoor lighting requirements in Part 6):
+
+A. In theme parks: lighting for themes and special effects;
+
+B. Studio lighting for film or photography, provided that these lighting systems are in addition to and separately switched from a general lighting system;
+
+C. Lighting for dance floors, lighting for theatrical and other live performances, and theatrical lighting used for religious worship, provided that these lighting systems are additions to a general lighting system and are separately controlled by a multiscene or theatrical cross-fade control station accessible only to authorized operators;
+
+Lighting intended for makeup, hair, and costume preparation in performing arts facility dressing rooms, provided that the lighting is separately switched from the general lighting system, switched independently at each dressing station, and is controlled with a vacancy sensor.
+Lighting intended for makeup, hair, and costume preparation in performing arts facility dressing rooms, provided that the lighting is separately switched from the general lighting system, switched independently at each dressing station, and is controlled with a vacancy sensor.
+
+D. In civic facilities, transportation facilities, convention centers and hotel function areas: lighting for temporary exhibits, if the lighting is in addition to a general lighting system, and is separately controlled from a panel accessible only to authorized operators;
+
+E. Lighting installed by the manufacturer in walk-in coolers or freezers, vending machines, food preparation equipment, and scientific and industrial equipment;
+
+F. Examination and surgical lights, low ambient night lights and lighting integral to medical equipment, provided that these lighting systems are additions to and separately switched from a general lighting system;
+
+G. Lighting for plant growth or maintenance in non-CEH spaces, if it is controlled by a multilevel astronomical time-switch control that complies with the applicable provisions of Section 110.9;
+
+H. Lighting equipment that is for sale;
+
+I. Lighting demonstration equipment in lighting education facilities;
+
+J. Lighting that is required for exit signs subject to the CBC. Exit signs shall meet the requirements of the Appliance Efficiency Regulations;
+
+K. Exitway or egress illumination that is normally off and that is subject to the CBC;
+
+L. In hotel/motel buildings, lighting in guest rooms (lighting in hotel/motel guestrooms shall comply with Section 130.0(b). (Indoor lighting not in guestrooms shall comply with all applicable nonresidential lighting requirements in Part 6.)
+
+M.  Reserved.
+
+N.  Temporary lighting systems.
+
+O. Lighting in occupancy group U buildings less than 1,000 square feet;
+
+P. Lighting in unconditioned agricultural buildings less than 2,500 square feet;
+
+Q. Lighting systems in qualified historic buildings, as defined in the California Historical Building Code (Title 24, Part 8), are exempt from the lighting power density allowances, if they consist solely of historic lighting components or replicas of historic lighting components. If lighting systems in qualified buildings contain some historic lighting components or replicas of historic components, combined with other lighting components, only those historic or historic replica components are exempt. All other lighting systems in qualified historic buildings shall comply with the lighting power density allowances;
+
+R. Lighting in nonresidential parking garages for seven or less vehicles: Lighting in nonresidential parking garages for seven or less vehicles shall comply with the applicable residential parking garage provisions of Section 150.0(k).
+
+S. Lighting for signs: Lighting for signs shall comply with Section 140.8.
+
+T. Lighting in refrigerated cases less than 3,000 square feet. (Lighting in refrigerated cases less than 3,000 square feet shall comply with the Title 20 Appliance Efficiency Regulations).
+
+U. Lighting in elevators where the lighting meets the requirements in Section 120.6(f).
+
+V.  Lighting connected to a Life Safety Branch or Critical Branch, as specified in Section 517 of the California Electrical Code.
+
+W.Horticultural lighting in CEH spaces (indoor growing and greenhouses) complying with Section 120.6(h).
+
+4. Luminaire classification and power adjustment.
+
+A. Luminaire classification and power shall be determined in accordance with Section 130.0(c).
+
+B. Small aperture tunable-white and dim-to-warm luminaires lighting power adjustment. For qualifying small aperture tunable-white and dim-towarm LED luminaires, the adjusted indoor lighting power of these luminaires shall be calculated by multiplying their maximum rated wattage by 0.80. Qualifying luminaires shall meet all of the following:
+
+i. Small aperture. Qualifying luminaires with a luminaire aperture length longer than 18 inches shall have a luminaire aperture no wider than four inches. Qualifying luminaires with a luminaire aperture length of 18 inches or less shall have a luminaire aperture no wider than eight inches.
+
+ii.  Color changing. qualifying tunable-white luminaires shall be capable of a color change greater than or equal to 2,000 Kelvin correlated color temperature (CCT). Qualifying dim-to-warm luminaires shall be capable of color change greater than or equal to 500 Kelvin CCT.
+
+iii.  Controls. Qualifying luminaires shall be connected to controls that allows color changing of the luminaires.
+
+C.  Tailored method display lighting mounting height lighting power adjustment. For wall display luminaires or floor display luminaires meeting Tailored Method Section 140.6(c)3G and H and where the bottom of luminaires are 10 feet 7 inches and greater above the finished floor, the adjusted indoor lighting power of these luminaires shall be calculated by multiplying their maximum rated wattage and the appropriated mounting height adjustment factor from Table 140.6-E. Luminaire mounting height is the distance from the finished floor to the bottom of the luminaire. General lighting shall not qualify for a mounting height multiplier.
+
+(b) Calculation of allowed indoor lighting power: general rules.
+
+1. The allowed indoor lighting power allotment for conditioned areas shall be calculated separately from the allowed lighting power allotment for unconditioned areas. Each allotment is applicable solely to the area to which it applies, and there shall be no trade-offs between conditioned and unconditioned area allotments.
+
+2. Allowed indoor lighting power allotment shall be calculated separately from the allowed outdoor lighting power allotment. Each allotment is applicable solely to the area to which it applies, and there shall be no trade-offs between the separate indoor and outdoor allotments.
+
+3. The allowed indoor lighting power density allotment for general lighting shall be calculated as follows:
+
+A. The complete building method, as described in Section 140.6(c)1, shall be used only for an entire building, except as permitted by Section 140.6(c)1. As described more fully in Section 140.6(c)1, and subject to the adjustments listed there, the allowed indoor lighting power allotment for general lighting for the entire building shall be calculated as follows:
+
+i. For a conditioned building, the product of the square feet of conditioned space of the building times the applicable allotment of watts per square foot described in Table 140.6-B.
+
+ii. For an unconditioned building, the product of the square foot of unconditioned space of the building times the applicable allotment of watts per square feet described in Table 140.6-B.
+
+B. The area category method, as described in Section 140.6(c)2, shall be used either by itself for all areas in the building, or when some areas in the building use the tailored method described in Section 140.6(c)3. Under the area category method (either by itself or in conjunction with the tailored method), as described more fully in Section 140.6(c)2, and subject to the adjustments listed there, the allowed indoor lighting power allotment for general lighting shall be calculated for each area in the building as follows:
+
+i.For conditioned areas, by multiplying the conditioned square feet of the area times the applicable allotment of watts per square foot for the area shown in Table 140.6-C (or Table 140.6-D if the tailored method is used for that area).
+
+ii.For unconditioned areas, by multiplying the unconditioned square feet of the area times the applicable allotment of watts per square foot for the area shown in Table 140.6-C (or Table 140.6-D if the tailored method is used for that area).
+
+The allowed indoor lighting power allotment for general lighting for one area for which the area category method was used may be increased up to the amount that the allowed indoor lighting power allotment for general lighting for another area using the area category method or tailored method is decreased, except that such increases and decreases shall not be made between conditioned and unconditioned space.
+The allowed indoor lighting power allotment for general lighting for one area for which the area category method was used may be increased up to the amount that the allowed indoor lighting power allotment for general lighting for another area using the area category method or tailored method is decreased, except that such increases and decreases shall not be made between conditioned and unconditioned space.
+
+C. The tailored method, as described in Section 140.6(c)3, shall be used either by itself for all areas in the building, or when some areas in the building use the area category method described in Section 140.6(c)2. Under the tailored method (either by itself or in conjunction with the area category method) as described more fully in Section 140.6(c)3, and subject to the adjustments listed there, allowed indoor lighting power allotment for general lighting shall be calculated for each area in the building as follows:
+
+i. For conditioned areas, by multiplying the conditioned square feet of the area times the applicable allotment of watts per square foot for the area shown in Table 140.6-D (or Table 140.6-C if the area category method is used for that area);
+
+ii. For unconditioned areas, by multiplying the unconditioned square feet of the area times the applicable allotment of watts per square foot for the area shown in Table 140.6-D (or Table 140.6-C if the area category method is used for that area);
+
+The allowed indoor lighting power allotment for general lighting for one area for which the tailored method was used may be increased up to the amount that the allowed indoor power lighting for general lighting for another area is decreased, but only if the tailored method or area category method was used for the other area, except that such increases and decreases shall not be made between conditioned and unconditioned space.
+
+D. If the area category method is used for an area, the tailored method may not be used for that area. If the tailored method is used for an area, the area category method may not be used for that area.
+
+4. Allowed indoor lighting power allotments for all lighting power allotments other than general lighting shall be restricted as follows:
+
+A. When using the area category method, allowed indoor lighting power allotments for specialized task work; precision commercial and industrial work; white board or chalk board; accent, display and feature; decorative; or videoconferencing studio; may not be increased as a result of, or otherwise traded off against, decreasing any other allotment; and
+
+B. When using the tailored method, allowed indoor lighting power allotments for wall display; floor display and task; decorative/special effect; or very valuable display case; may not be increased, or otherwise traded between any of the separate allotments.
+
+(c) Calculation of allowed indoor lighting power: specific methodologies. The allowed indoor lighting power for each building type, or each primary function area shall be calculated using only one of the methods in Subsection 1, 2 or 3 below as applicable.
+
+1. Complete building method. Requirements for using the complete building method include all of the following:
+
+A. The complete building method shall be used only for building types, as defined in Section 100.1, that are specifically listed in Table 140.6-B. (For example, retail and wholesale stores, hotel/motel, and highrise residential buildings shall not use this method.)
+
+B. The complete building method shall be used only on projects involving:
+
+i. Entire buildings with one type of use occupancy; or
+
+ii. Mixed occupancy buildings where one type of use makes up at least 90 percent of the entire building (in which case, when applying the complete building method, it shall be assumed that the primary use is 100 percent of the building); or
+
+iii. A tenant space where one type of use makes up at least 90 percent of the entire tenant space (in which case, when applying the complete building method, it shall be assumed that the primary use is 100 percent of the tenant space).
+
+C. The complete building method shall be used only when the applicant is applying for a lighting permit and submits plans and specifications for the entire building or the entire tenant space.
+
+D. Under the complete building method, the allowed indoor lighting power allotment is the lighting power density value times the floor area of the entire building.
+
+E.  For buildings including a parking garage plus another type of use listed in Table 140.6-B, the parking garage portion of the building and other type of use portion of the building shall each separately use the Complete Building Method.
+
+2. Area category method. Requirements for using the area category method include all of the following:
+
+A. The area category method shall be used only for primary function areas, as defined in Section 100.1, that are listed in Table 140.6-C. For primary function areas not listed, selection of a reasonably equivalent type shall be permitted.
+
+B. Primary function areas in Table 140.6-C shall not apply to a complete building. Each primary function area shall be determined as a separate area.
+
+C. For purposes of compliance with Section 140.6(c)2, an “area” shall be defined as all contiguous areas that accommodate or are associated with a single primary function area listed in Table 146.0-C.
+
+D. Where areas are bounded or separated by interior partitions, the floor area occupied by those interior partitions may be included in primary function area.
+
+E. If at the time of permitting for a newly constructed building, a tenant is not identified for a multitenant area, a maximum of 0.4 watts per square foot shall be allowed for the lighting in each area in which a tenant has not been identified. The area shall be classified as unleased tenant area.
+
+F. Under the area category method, the allowed indoor lighting power for each primary function area is the lighting power density value in Table 140.6-C times the square feet of the primary function area. The total allowed indoor lighting power density for the building is the sum of all allowed indoor lighting powers densities for all areas in the building.
+
+G. In addition to the allowed indoor lighting power calculated according to Sections 140.6(c)2A through F, the building may add additional lighting power allowances for qualifying lighting systems as specified in the Qualifying Lighting Systems column in Table 140.6-C under the following conditions:
+
+i. Only primary function areas having a lighting system as specified in the Qualifying Lighting Systems column in Table 140.6-C and in accordance with the corresponding footnote of the table shall qualify for the additional lighting power allowances; and
+
+ii. The additional lighting power allowances shall be used only if the plans clearly identify all applicable task areas and the lighting equipment designed to illuminate these tasks; and
+
+iii. Tasks that are performed less than two hours per day or poor quality tasks that can be improved are not eligible for the additional lighting power allowances; and
+
+iv. The additional lighting power allowances shall not utilize any type of luminaires that are used for general lighting in the building; and
+
+v. The additional lighting power allowances shall not be used when using the complete building method, or when the tailored method is used for any area in the building; and
+
+vi. The additional lighting power allowed is the smaller of:
+
+a.  the lighting power density listed in the “Allowed Additional Lighting LPD” column in Table 140.6-C, times the square feet of the primary function, or
+
+b.  the adjusted indoor lighting power of the applicable lighting; and
+
+vii. In addition to meeting Sections 140.6(c)2Gi through vi, additional lighting power for videoconferencing as specified in Table 140.6-C shall be allowed in a videoconferencing studio, as defined in Section 100.1, provided the following conditions are met:
+
+a. A completed and signed installation certificate is prepared and submitted in accordance with Section 130.4(b), specifically detailing compliance with the applicable requirements of Section 140.6(c)2Gvii; and
+
+b. The videoconferencing studio is a room with permanently installed videoconferencing cameras, audio equipment, and playback equipment for both audiobased and video-based two-way communication between local and remote sites; and
+
+c. General lighting is switched in accordance with Table 130.1-A; and
+
+d. Wall wash lighting is separately switched from the general lighting system; and
+
+e. All of the lighting in the studio, including general lighting and additional lighting power allowed by Section 140.6(c)2Gvii is controlled by a multiscene programmable control system (also known as a scene preset control system).
+
+3. Tailored method. Requirements for using the tailored method include all of the following:
+
+A. The tailored method shall be used only for primary function areas listed in Table 140.6-D, as defined in Section 100.1.
+
+B. Allowed indoor lighting power allotments for general lighting shall be determined according to Section 140.6(c)3F, as applicable.
+
+C.  For compliance with Section 140.6(c)3, an “area” shall be defined as all contiguous areas that accommodate or are associated with a single primary function area listed in Table 140.6-D.
+
+D. Where areas are bounded or separated by interior partitions, the floor area occupied by those interior partitions may be included in a primary function area.
+
+E. In addition to the allowed indoor lighting power allotments for general lighting calculated according to Sections 140.6(c)3F, as applicable, the building may add additional lighting power allowances for wall display lighting, floor display lighting and task lighting, decorative/special effects lighting, and very valuable display cases lighting according to Sections 140.6(c)3G through J.
+
+F.  Determine allowed indoor lighting power allotments for general lighting for primary function areas listed in Table 140.6-D as follows:
+
+i. Use the General Illumination Level (Lux) listed in Column 2 of Table 140.6-D to determine the allowed general lighting power density allotments for the area.
+
+ii. Determine the room cavity ratio (RCR) for the area. The RCR shall be calculated according to the applicable equation in Table 140.6-F.
+
+iii.  Find the allowed general lighting power density allotments in Table 140.6-G that is applicable to the general illuminance level (Lux) from Column 2 of Table 140.6-D (as described in Item i) and the RCR determined in accordance with Table 140.6-F (as described in Item ii).
+
+iv. Determine the square feet of the area in accordance with Section 140.6(c)3C and D.
+
+v. Multiply the allowed lighting power density allotment, as determined in accordance with Item iii by the square feet of each primary function area, as determined in accordance with Item iv. The product is the allowed indoor lighting power allotment for general lighting for the area.
+
+G. Determine additional allowed power for wall display lighting according to column 3 of Table 140.6-D for each primary function area as follows:
+
+i. Floor displays shall not qualify for wall display allowances.
+
+ii.  Qualifying wall lighting shall:
+
+a. Be mounted within 10 feet of the wall having the wall display. When track lighting is used for wall display, and where portions of that lighting track are more than 10 feet from the wall and other portions are within 10 feet of the wall, portions of track more than 10 feet from the wall shall not be used for the wall display allowance.
+
+b. Be a lighting system type appropriate for wall lighting. Lighting systems appropriate for wall lighting are lighting track adjacent to the wall, wall-washer luminaires, luminaires behind a wall valance or wall cove, or accent light. (Accent luminaires are adjustable or fixed luminaires with PAR, R, MR, AR or luminaires providing directional display light.)
+
+iii.Additional allowed power for wall display lighting is available only for lighting that illuminates walls having wall displays. The length of display walls shall include the length of the perimeter walls, including but not limited to closable openings and permanent full height interior partitions. Permanent full height interior partitions are those that (I) extend from the floor to within 2 feet of the ceiling or are taller than 10 feet and (II) are permanently anchored to the floor.
+
+iv. For wall display lighting where the bottom of the luminaire is greater than 10 feet 6 inches above the finished floor, the mounting height adjustment factor from Table 140.6-E can be used to adjust the installed luminaire wattage as specified in Section 140.6(a)4C.
+
+v. The allowed power for wall display lighting shall be the smaller of:
+
+a.  the “wall display lighting power density” determined in accordance with Table 140.6-D, multiplied by the wall display lengths determined in accordance with Item iii; and
+
+b.  The adjusted indoor lighting power used for the wall display lighting systems.
+
+vi.  Lighting internal to display cases that are attached to a wall or directly adjacent to a wall are counted as wall display lighting as specified in Section 140.6(c)3G. All other lighting internal to display cases are counted as floor display lighting as specified in Section 140.6(c)3H, or as very valuable display case lighting as specified in Section 140.6(c)3J.
+
+H.  Determine additional allowed power for floor display lighting and task lighting as follows:
+
+i.  Displays that are installed against a wall shall not qualify for the floor display lighting power allowances.
+
+ii.  Lighting internal to display cases that are not attached to a wall and not directly adjacent to a wall shall be counted as floor display lighting in accordance with Section 140.6(c)3H; or very valuable display case lighting in accordance with Section 140.6(c)3J.
+
+iii.  Additional allowed power for floor display lighting, and additional allowed power for task lighting, may be used by qualifying floor display lighting systems, qualifying task lighting systems, or a combination of both. For floor areas qualifying for both floor display and task lighting power allowances, the additional allowed power shall be used only once for the same floor area, so that the allowance shall not be additive.
+
+iv.  Qualifying floor display lighting shall:
+
+a. Be mounted no closer than 2 feet to a wall.
+
+b.  Consist of only (I) directional lamp types, such as PAR, R, MR, AR; or (II) luminaires providing directional display light.
+
+c. If track lighting is used, shall be only track heads that are classified as direction lighting types.
+
+v.  Qualifying task lighting shall:
+
+a. Be located immediately adjacent to and capable of illuminating the task for which it is installed.
+
+b. Be of a type different from the general lighting system.
+
+c. Be separately switched from the general lighting system.
+
+vi.  If there are illuminated floor displays, floor display lighting power shall be used only if allowed by Column 4 of Table 140.6-D.
+
+vii. The square footage of floor display or the square footage of task areas shall be determined in accordance with Section 140.6(c)3C and D, except that any floor area designed to not have floor displays or tasks, such as floor areas designated as a path of egress, shall not be included for the floor display allowance.
+
+viii.  For floor display lighting where the bottom of the luminaire is greater than 10.6 feet above the finished floor, multiply the floor display installed watts by the appropriate mounting height adjustment factor from Table 140.6-E to calculate the Adjusted Indoor Lighting Power as specified in Section 140.6(a)4C.
+
+ix.  The allowed power for floor display lighting for each applicable area shall be the smaller of:
+
+a.  the allowed floor display and task lighting power determined in accordance with Section 140.6(c)3Hvi multiplied by the floor square footage determined in accordance with Section 140.6(c)3Hvii; and
+
+b.  The Adjusted Indoor Lighting Power used for the floor display lighting systems.
+
+I.  Determine additional allowed power for decorative/special effects lighting as follows:
+
+i.  Qualifying decorative lighting includes luminaires such as chandeliers, sconces, lanterns, neon and cold cathode, light emitting diodes, theatrical projectors, moving lights and light color panels, when any of those lights are used in a decorative manner that does not serve as display lighting or general lighting.
+
+ii.  Additional lighting power for decorative/special effects lighting shall be used only if allowed by Column 5 of Table 140.6-D.
+
+iii.  Additional lighting power for decorative/special effects lighting shall be used only in areas having decorative/special effects lighting. The square footage of the floor area shall be determined in accordance with Section 140.6(c)3C and D, and it shall not include floor areas not having decorative/special effects lighting.
+
+iv.  The additional allowed power for decorative/special effects lighting for each applicable area shall be the smaller of:
+
+a.  The product of the allowed decorative/special effects lighting power determined in accordance with Section 140.6(c)3Iii, multiplied by the floor square footage determined in accordance with Section 140.6(c)3Iiii; and
+
+b.  The adjusted indoor lighting power of allowed decorative/special effects lighting.
+
+J.  Determine additional allowed power for very valuable display case lighting as follows:
+
+i.  Additional allowed power for very valuable display case lighting shall be available only for display cases in appropriate function areas in retail merchandise sales, museum and religious worship.
+
+ii.  To qualify for additional allowed power for very valuable display case lighting, a case shall contain jewelry, coins, fine china, fine crystal, precious stones, silver, small art objects and artifacts, and/or valuable collections the display of which involves customer inspection of very fine detail from outside of a locked case.
+
+iii. Qualifying lighting includes internal display case lighting or external lighting employing highly directional luminaires specifically designed to illuminate the case or inspection area without spill light, and shall not be fluorescent lighting unless installed inside of a display case.
+
+iv.  If there is qualifying very valuable display case lighting in accordance with Section 140.6(c)3Jii, the smallest of the following separate lighting power for display cases presenting very valuable display items is permitted:
+
+a. The product of the area of the primary  function and 0.50 watt per square foot; or
+
+b. The product of the area of the display case and 7 watts per square foot; or
+
+c.  The adjusted indoor lighting power of lighting for very valuable displays.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+TABLE 140.6-A
+
+LIGHTING POWER ADJUSTMENT FACTORS (PAF)
+
+	TYPE OF CONTROL	TYPE OF AREA	FACTOR
+	a. To qualify for any of the power adjustment factors in this table, the installation shall comply with the applicable requirements in Section 140.6(a)2. b. Only one PAF may be used for each qualifying luminaire unless combined below. c. Lighting controls that are required for compliance with Part 6 shall not be eligible for a PAF.
+>	1.Daylight Continuous Dimming plus OFF Control	Luminaires in skylit daylit zone or primary sidelit daylit zone or secondary sidelit daylit
+zone	0.10
+>	2.Occupant sensing controls in
+offices larger than 250 square feet	One sensor controlling an area that is:	No larger than 125 square feet	0.30
+From 126 to 250 square feet	0.20
+	3.Institutional Tuning	Luminaires in non-daylit areas: Luminaires that qualify for other PAFs in this table may also qualify for this tuning PAF.	0.10
+Luminaires in daylit areas: Luminaires that qualify for other PAFs in this table may also qualify for this tuning PAF.	0.05
+	4.Demand responsive control	General lighting luminaires not in the scope of Section 110.12(c).Luminaires that qualify for other PAFs in this table may also qualify for this demandresponsive control PAF.	0.05
+	5.Clerestory Fenestration	Luminaires in daylit areas adjacent to the clerestory.Luminaires that qualify for daylight dimming plus OFF control may also qualify for this PAF.	0.05
+	6.Horizontal Slats	Luminaires in daylit areas adjacent to vertical fenestration with interior or exterior horizontal slats. Luminaires that qualify for daylight dimming plus OFF control may also qualify for this PAF.	0.05
+	7.Light Shelves	Luminaires in daylit areas adjacent to clerestory fenestration with interior or exterior light shelves. This PAF may be combined with the PAF for clerestory fenestration. Luminaires that qualify for daylight dimming plus OFF control may also qualify for this PAF	0.10TABLE 140.6-B
+
+COMPLETE BUILDING METHOD LIGHTING POWER DENSITY VALUES
+
+	TYPE OF BUILDING	ALLOWED LIGHTING POWER DENSITY (WATTS PER SQUARE FOOT)
+	Assembly building	0.65
+	Bank or financial institution building	0.65
+>	Grocery store building	0.90
+	Gymnasium building	0.60
+	Healthcare facility	0.90
+	Industrial/manufacturing facility building	0.60
+	Library building	0.70
+	Motion picture theater building	0.60
+	Museum building	0.65
+	Office building	0.60
+	Parking garage building	0.13
+	Performing arts theater building	0.75
+	Religious facility building	0.70
+	Restaurant building	0.65
+	Retail store building	0.90
+	School building	0.60
+	Sports arena building	0.75
+>	All other buildings	0.40TABLE 140.6-C
+
+AREA CATEGORY METHOD—LIGHTING POWER DENSITY VALUES (WATTS/FT²)
+
+PRIMARY FUNCTION AREA	ALLOWED LIGHTING POWER DENSITY FOR GENERAL LIGHTING (W/ft2)	ADDITIONAL LIGHTING POWER1
+Qualified Lighting Systems	Additional Allowance (W/ft², unless noted otherwise)
+Aging Eye/Low-Vision11	Corridor Area	0.70	Decorative/display	0.30
+Dining	0.80	Decorative/display	0.30
+Tunable white or dim-to-warm10	0.10
+Lobby, Main Entry	0.85	Decorative/display	0.30
+Transition lighting OFF at night12	0.95
+Tunable white or dim-to-warm10	0.10
+Lounge/Waiting Area	0.80	Decorative/display	0.30
+Tunable white or dim-to-warm10	0.10
+Multipurpose Room	0.85	Decorative/display	0.30
+Tunable white or dim-to-warm10	0.10
+Religious Worship Area	1.00	Decorative/display	0.30
+Tunable white or dim-to-warm10	0.10
+Restroom	1.00	Decorative/display	0.20
+Stairwell	0.80	Decorative/display	0.30
+Audience Seating Area	0.50	Decorative/display	0.25
+Auditorium Area	0.70	Decorative/display	0.45
+Auto Repair / Maintenance Area	0.55	Detailed task work7	0.20
+Barber, Beauty Salon, Spa Area	0.70	Detailed task work7	0.30
+Decorative/display	0.25
+Civic Meeting Place Area	0.90	Decorative/display	0.25
+Classroom, Lecture, Training, Vocational Area	0.60	White or chalk board1	7 W/ft
+Concourse and Atrium Area	0.60	Decorative/display	0.25
+Convention, Conference, Multipurpose and Meeting Area	0.75	Decorative/display	0.25
+Copy Room	0.50	—	—
+Corridor Area	0.40	Decorative/display	0.25
+Dining Area	Bar/Lounge and Fine Dining	0.45	Decorative/display	0.35
+Cafeteria/Fast Food	0.45	0.25
+Family and Leisure	0.40	0.25
+Electrical, Mechanical, Telephone Rooms	0.40	Detailed task work7	0.20
+Exercise/Fitness Center and Gymnasium Area	0.50	—	—
+Financial Transaction Area	0.70	Decorative/display	0.25
+Healthcare Facility and Hospital	Exam/Treatment Room	1.15	—	—
+Imaging Room	0.60	Decorative/display	0.20
+Tunable white or dim-to-warm10	0.10
+Medical Supply Room	0.55	—	—
+Nursery	0.80	Tunable white or dim-to-warm10	0.10
+Nurse’s Station	0.85	Tunable white or dim-to-warm10	0.10
+Detailed task work7	0.20
+Operating Room	1.90	—	—
+Patient Room	0.70	Decorative/display	0.15
+Tunable white or dim-to-warm10	0.10
+Physical Therapy Room	0.75	Tunable white or dim-to-warm10	0.10
+Recovery Room	0.90	Tunable white or dim-to-warm10	0.10
+Hotel Function Area	0.85	Decorative/display	0.25
+Kitchen/Food Preparation Area	0.95	—	—
+Laboratory, Scientific	0.90	Specialized task work8	0.35
+Laundry Area	0.45	—	—
+Library	Reading Area	0.80	Decorative/display	0.25
+Stacks Area	1.00	—	—
+Lobby, Main Entry	0.70	Decorative/display	0.25
+Locker Room	0.45	—	—
+Lounge, Breakroom, or Waiting Area	0.55	Decorative/display	0.25
+Manufacturing, Commercial & Industrial Work Area	Low Bay	0.60	Detailed task work7	0.20
+High Bay	0.65	Detailed task work7	0.20
+Precision	0.85	Precision specialized work9	0.70
+Museum Area	Exhibition/Display	0.60	Decorative/display	0.45
+Restoration Room	0.70	Detailed task work7	0.35
+Office Area	> 250 square feet	0.60	Decorative/display and portable lighting for office areas6	0.20
+≤ 250 square feet	0.65
+Parking Garage Area	Parking Zone and Ramps	0.10	First ATM or ticket machine	100 W
+Daylight Adaptation Zones2	1.00	Additional ATM or ticket machine	50 W each
+Pharmacy Area	1.00	Specialized task work8	0.35
+Retail Sales Area	Grocery Sales	1.00	Decorative/display	0.35
+Retail Merchandise Sales	0.95	Decorative/display	0.35
+Fitting Room	0.60	External illuminated mirror5	40 W each
+Internal illuminated mirror5	120 W each
+Religious Worship Area	0.95	Decorative/display	0.25
+Restrooms	0.65	Decorative/display	0.35
+Stairwell	0.60	Decorative/display	0.35
+Storage, Commercial/Industrial	Warehouse	0.40	—	—
+Shipping & Handling	0.60
+Sports Arena—Playing Area	Class I Facility13	2.25	—	—
+Class II Facility13	1.45
+Class III Facility13	1.10
+Class IV Facility13	0.75
+Theater Area	Motion Picture	0.50	Decorative/display	0.25
+Performance	0.80
+Transportation Function	Baggage Area	0.40	—	—
+Ticketing Area	0.45	Decorative/display	0.20
+Videoconferencing Studio	0.90	Videoconferencing14	1.00
+All other	0.40	—	—1. White board or chalk board: directional lighting dedicated to a white board or chalk board.
+
+2. Daylight adaptation zones shall be no longer than 66 feet from the entrance to the parking garage.
+
+3. Reserved.
+
+4. Reserved.
+
+5. Illuminated mirrors: lighting shall be dedicated to the mirror.
+
+6. Portable lighting in office areas includes under-shelf or furniture-mounted supplemental task lighting when controlled by a time clock or an occupancy sensor.
+
+7. Detailed task work: lighting provides the high level of visual acuity needed for activities that require close attention to small elements and/or extreme close-up
+work.
+
+8. Specialized task work: lighting provides for small-scale, cognitive or fast-performance visual tasks; lighting required for operating specialized equipment
+associated with pharmaceutical/laboratorial activities.
+
+9. Precision specialized work: lighting for work performed within a commercial or industrial environment that entails working with low-contrast, finely detailed or
+fast-moving objects.
+
+10.Tunable white luminaires capable of color change greater than or equal to 2000K CCT, or dim-to-warm luminaires capable of color change greater than or equal
+to 500K CCT, connected to controls that allow color changing of the luminaires.
+
+11.Aging eye/low-vision areas can be documented as being designed to comply with the light levels in ANSI/IES RP-28 and are or will be licensed by local or state authorities for senior long-term care, adult day care, senior support and/or people with special visual needs.
+
+12.Transition lighting OFF at night. Lighting power controlled by astronomical time clock or other control to shut off lighting at night. Additional LPD only applies
+to area within 30 feet of an exit. Not applicable to lighting in daylit zones.
+
+13.Class I facility is used for competition play for 5000 or more spectators. Class II facility is used for competition play for up to 5000 spectators. Class III facility is used for competition play for up to 2000 spectators. Class IV facility is normally used for recreational play and there is limited or no provision for spectators.
+
+14.The additional videoconferencing lighting power shall be allowed provided the videoconferencing studio meets all the requirements of Section 140.6(c)2Gvii.
+
+TABLE 140.6-D
+
+TAILORED METHOD LIGHTING POWER ALLOWANCES
+
+1	2	3	4	5
+Primary Function Area	General Illumination Level (Lux)	Wall Display Lighting Power Density (W/ft)	Allowed Combined Floor Display Power and Task Lighting Power Density (W/ft2)	Allowed Decorative/Special Effect Lighting Power Density (W/ft2)
+Auditorium area	300	3.00	0.20	0.35
+Convention, conference, multipurpose, and meeting center areas	300	2.00	0.30	0.35
+Dining areas	200	1.25	0.45	0.35
+Exhibit, museum areas	150	11.20	0.70	0.35
+Hotel area:				
+ Ballroom/events	400	1.80	0.12	0.35
+ Lobby	200	3.40	0.20	0.35
+Lobby, Main entry	200	3.40	0.20	0.35
+Religious worship area	300	1.30	0.40	0.35
+Retail sales				
+ Grocery	600	6.60	0.60	0.35
+ Merchandise sales, and showroom areas	500	11.50	0.70	0.35
+Theater area:				
+ Motion picture	200	2.00	0.20	0.35
+ Performance	200	7.30	0.20	0.35TABLE 140.6-E
+
+TAILORED WALL AND FLOOR DISPLAY MOUNTING HEIGHT ADJUSTMENT FACTORS
+
+HEIGHT IN FEET ABOVE FINISHED FLOOR AND BOTTOM OF LUMINAIRE(S)	FLOOR DISPLAY OR WALL DISPLAY— MOUNTING HEIGHT ADJUSTMENT FACTOR
+≤ 10′-6″	1.00
+> 10′-6″ to 14′-0″	0.85
+> 14′-0″ to 18′-0″	0.75
+> 18′-0″	0.70TABLE 140.6-F
+
+ROOM CAVITY RATIO (RCR) EQUATIONS
+
+Determine the room cavity ratio for Table 140.6-G using one of the following equations.
+Room cavity ratio for rectangular rooms
+
+Room cavity ratio for irregular-shaped rooms
+
+Where: L = Length of room; W = Width of room; H = Vertical distance from the work plane to the centerline of the lighting fixture; P = Perimeter of room; and A = Area of roomTABLE 140.6-G
+
+TAILORED METHOD GENERAL LIGHTING POWER ALLOWED—BY ILLUMINANCE AND ROOM CAVITY RATIO
+
+	GENERAL LIGHTING POWER DENSITY (W/FT2) FOR THE FOLLOWING RCR VALUESb
+GENERAL ILLUMINANCE LEVEL (LUX)a	RCR ≤ 2.0	RCR > 2.0 AND ≤ 3.5	RCR > 3.5 AND ≤ 7.0	RCR > 7.0
+150	0.35	0.40	0.50	0.65
+200	0.40	0.50	0.65	0.85
+300	0.55	0.70	0.85	1.20
+400	0.65	0.80	1.05	1.25
+500	0.80	0.90	1.25	1.55
+600	0.90	1.05	1.40	2.00a. Illuminance values from Column 2 of Table 140.6-D.
+
+b. RCR values are calculated using applicable equations in Table 140.6-F.
+
+SECTION 140.7 PRESCRIPTIVE REQUIREMENTS  FOR OUTDOOR LIGHTING
+
+(a) An outdoor lighting installation complies with this section if it meets the requirements in Subsections (b) and (c), and the actual outdoor lighting power installed is no greater than the allowed outdoor lighting power calculated under Subsection (d). The allowed outdoor lighting shall be calculated according to outdoor lighting zone in Title 24, Part 1, Section 10-114.
+
+Exceptions to Section 140.7(a): When more than 50 percent of the light from a luminaire falls within one or more of the following applications, the lighting power for that luminaire shall be exempt from Section 140.7:
+
+1.Temporary outdoor lighting.
+
+2.Lighting required and regulated by the Federal Aviation Administration, and the Coast Guard.
+
+3.Lighting for public streets, roadways, highways and traffic signage lighting, including lighting for driveway entrances occurring in the public right-of-way.
+
+4.Lighting for sports and athletic fields, and children’s playgrounds.
+
+5.Lighting for industrial sites, including but not limited to, rail yards, maritime shipyards and docks, piers and marinas, chemical and petroleum processing plants, and aviation facilities.
+
+6.Lighting of public monuments.
+
+7.Lighting of signs complying with the requirements of Sections 130.3 and 140.8.
+
+8.Lighting of tunnels, bridges, stairs, wheelchair elevator lifts for American with Disabilities Act (ADA) compliance, and ramps that are other than parking garage ramps.
+
+9.Landscape lighting.
+
+10.In theme parks: outdoor lighting only for themes and special effects.
+
+11.Lighting for outdoor theatrical and other outdoor live performances, provided that these lighting systems are additions to area lighting systems and are controlled by a multiscene or theatrical cross-fade control station accessible only to authorized operators.
+
+12.Outdoor lighting systems for qualified historic buildings, as defined in the California Historic Building Code (Title 24, Part 8), if they consist solely of historic lighting components or replicas of historic lighting components. If lighting systems for qualified historic buildings contain some historic lighting components or replicas of historic components, combined with other lighting components, only those historic or historic replica components are exempt. All other outdoor lighting systems for qualified historic buildings shall comply with Section 140.7.
+
+(b)Outdoor lighting power trade-offs. Outdoor lighting power trade-offs shall be determined as follows:
+
+1. Allowed lighting power determined according to Section 140.7(d)1 for general hardscape lighting allowance may be traded to specific applications in Section 140.7(d)2, provided the hardscape area from which the lighting power is traded continues to be illuminated in accordance with Section 140.7(d)1A.
+
+2. Allowed lighting power determined according to Section 140.7(d)2 for additional lighting power allowances for specific applications shall not be traded between specific applications, or to hardscape lighting in Section 140.7(d)1.
+
+3. Trading of lighting power allowances between outdoor and indoor areas shall not be permitted.
+
+(c)Calculation of actual lighting power. The wattage of outdoor luminaires shall be determined in accordance with Section 130.0(c).
+
+(d)Calculation of allowed lighting power. The allowed lighting power shall be the combined total of the sum of the general hardscape lighting allowance determined in accordance with Section 140.7(d)1, and the sum of the additional lighting power allowance for specific applications determined in accordance with Section 140.7(d)2.
+
+1.General hardscape lighting allowance. Determine the general hardscape lighting power allowances as follows:
+
+A.The general hardscape area of a site shall include parking lot(s), roadway(s), driveway(s), sidewalk(s), walkway(s), bikeway(s), plaza(s), bridge(s), tunnel(s), and other improved area(s) that are illuminated. In plan view of the site, determine the illuminated hardscape area, which is defined as any hardscape area that is within a square pattern around each luminaire or pole that is ten times the luminaire mounting height with the luminaire in the middle of the pattern, less any areas that are within a building, beyond the hardscape area, beyond property lines or obstructed by a structure. The illuminated hardscape area shall include portions of planters and landscaped areas that are within the lighting application and are less than or equal to 10 feet wide in the short dimensions and are enclosed by hardscape or other improvement on at least three sides. Multiply the illuminated hardscape area by the area wattage allowance (AWA) from Table 140.7-A for the appropriate lighting zone.
+
+B.Determine the perimeter length of the general hardscape area. The total perimeter shall not include portions of hardscape that are not illuminated according to Section 140.7(d)1A. Multiply the hardscape perimeter by the linear wattage allowance (LWA) for hardscape from Table 140.7-A for the appropriate lighting zone. The perimeter length for hardscape around landscaped areas and permanent planters shall be determined as follows:
+
+i.Landscaped areas completely enclosed within the hardscape area, and which have a width or length less than 10 feet wide, shall not be added to the hardscape perimeter length.
+
+ii.Landscaped areas completely enclosed within the hardscape area, and which width or length is a minimum of 10 feet wide, the perimeter of the landscaped areas or permanent planter shall be added to the hardscape perimeter length.
+
+iii.Landscaped edges that are not abutting the hardscape shall not be added to the hardscape perimeter length.
+
+C. Determine the initial wattage allowance (IWA) for general hardscape lighting from Table 140.7-A for the appropriate lighting zone. The hardscape area shall be permitted one IWA per site.
+
+D. The general hardscape lighting allowance shall be the sum of the allowed watts determined from (A), (B) and (C) above.
+
+2.Additional lighting power allowance for specific applications. Additional lighting power for specific applications shall be the smaller of the additional lighting allowances for specific applications determined in accordance with Table 140.7-B for the appropriate lighting zone, or the actual installed lighting power meeting the requirements for the allowance.
+
+TABLE 140.7-A
+
+GENERAL HARDSCAPE LIGHTING POWER ALLOWANCE
+
+	TYPE OF POWER ALLOWANCE	LIGHTING ZONE 03	LIGHTING ZONE 13	LIGHTING ZONE 23	LIGHTING ZONE 33	LIGHTING ZONE 43
+>	Area wattage allowance (AWA)	No allowance1	0.016 W/ft2	0.019 W/ft2	0.021 W/ft2	0.024 W/ft2
+	Linear wattage allowance (LWA)	No allowance1	0.13 W/lf	0.15 W/lf	0.20 W/lf	0.29 W/lf
+	Initial wattage allowance (IWA)	No allowance1	150 W	200 W	250 W	320 W1. Continuous lighting is explicitly prohibited in Lighting Zone 0. A single luminaire of 15 watts or less may be installed at an entrance to a parking area, trail head, fee payment kiosk, outhouse or toilet facility; as required to provide safe navigation of the site infrastructure. Luminaires installed shall meet the maximum zonal lumen limits as specified in Section 130.2(b).
+
+2. Reserved.
+
+3. Narrow band spectrum light sources with a dominant peak wavelength greater than 580 nm—as mandated by local, state or federal agencies to minimize the impact on local, active professional astronomy or nocturnal habitat of specific local fauna—shall be allowed a 2.0 lighting power allowance multiplier.
+
+TABLE 140.7-B
+
+ADDITIONAL LIGHTING POWER ALLOWANCE FOR SPECIFIC APPLICATIONS
+
+All area and distance measurements in plan view unless otherwise noted.
+
+LIGHTING APPLICATION	LIGHTING ZONE 0	LIGHTING ZONE 1	LIGHTING ZONE 2	LIGHTING ZONE 3	LIGHTING ZONE 4
+WATTAGE ALLOWANCE PER APPLICATION. Use all that apply as appropriate.
+Building entrances or exits. Allowance per door. Luminaires qualifying for this allowance shall be within 20 feet of the door.	Not applicable	9 watts	15 watts	19 watts	21 watts
+Primary entrances to senior care facilities, police stations, healthcare facilities, fire stations and emergency vehicle facilities. Allowance per primary entrance(s) only. Primary entrances shall provide access for the general public and shall not be used exclusively for staff or service personnel. This allowance shall be in addition to the building entrance or exit allowance above. Luminaires qualifying for this allowance shall be within 100 feet of the primary entrance.	Not applicable	20 watts	40 watts	57 watts	60 watts
+Drive up windows. Allowance per customer service location. Luminaires qualifying for this allowance shall be within two mounting heights of the sill of the window.	Not applicable	16 watts	30 watts	50 watts	75 watts
+Vehicle service station uncovered fuel dispenser. Allowance per fueling dispenser. Luminaires qualifying for this allowance shall be within two mounting heights of the dispenser.	Not applicable	55 watts	77 watts	81 watts	135 watts
+ATM machine lighting. Allowance per ATM machine. Luminaires qualifying for this allowance shall be within 50 feet of the dispenser.	Not applicable	100 watts for first ATM machine, 35 watts for each additional ATM machine.
+WATTAGE ALLOWANCE PER UNIT LENGTH (W/linear ft). May be used for one or two frontage side(s) per site.
+Outdoor sales frontage. Allowance for frontage immediately adjacent to the principal viewing location(s) and unobstructed for its viewing length. A corner sales lot may include two adjacent sides, provided that a different principal viewing location exists for each side. Luminaires qualifying for this allowance shall be located between the principal viewing location and the frontage outdoor sales area.	Not applicable	No Allowance	11 W/linear ft	19 W/linear ft	25 W/linear ft
+WATTAGE ALLOWANCE PER HARDSCAPE AREA (W/ft2). May be used for any illuminated hardscape area on the site.
+Hardscape ornamental lighting. Allowance for the total site illuminated hardscape area. Luminaires qualifying for this allowance shall be rated for 50 watts or less as determined in accordance with Section 130.0(c), and shall be post-top luminaires, lanterns, pendant luminaires or chandeliers.	Not applicable	No Allowance	0.007 W/ft2	0.013 W/ft2	0.019 W/ft2
+WATTAGE ALLOWANCE PER SPECIFIC AREA (W/ft2).Use as appropriate, provided that none of the following specific applications shall be used for the same area.
+Building facades. Only areas of building facade that are illuminated shall qualify for this allowance. Luminaires qualifying for this allowance shall be aimed at the facade and shall be capable of illuminating it without obstruction or interference by permanent building features or other objects.	Notapplicable	No Allowance	0.100 W/ft2	0.170 W/ft2	0.225 W/ft2
+Outdoor sales lots. Allowance for uncovered sales lots used exclusively for the display of vehicles or other merchandise for sale. Driveways, parking lots or other nonsales areas shall be considered hardscape areas even if these areas are completely surrounded by sales lot on all sides. Luminaires qualifying for this allowance shall be within five mounting heights of the sales lot area.	Not applicable	0.060 W/ft2	0.210 W/ft2	0.280 W/ft2	0.485 W/ft2
+Vehicle service station hardscape. Allowance for the total illuminated hardscape area less area of buildings, under canopies, off property, or obstructed by signs or structures. Luminaires qualifying for this allowance shall be illuminating the hardscape area and shall not be within a building, below a canopy, beyond property lines or obstructed by a sign or other structure.	Not applicable	0.006 W/ft2	0.068 W/ft2	0.138 W/ft2	0.200 W/ft2
+Vehicle service station canopies. Allowance for the total area within the drip line of the canopy. Luminaires qualifying for this allowance shall be located under the canopy.	Not applicable	0.220 W/ft2	0.430 W/ft2	0.580 W/ft2	1.010 W/ft2
+Sales canopies. Allowance for the total area within the drip line of the canopy. Luminaires qualifying for this allowance shall be located under the canopy.	Not applicable	No Allowance	0.470 W/ft2	0.622 W/ft2	0.740 W/ft2
+Nonsales canopies and tunnels. Allowance for the total area within the drip line of the canopy or inside the tunnel. Luminaires qualifying for this allowance shall be located under the canopy or tunnel.	Not applicable	0.057 W/ft2	0.137 W/ft2	0.270 W/ft2	0.370 W/ft2
+Guard stations. Allowance up to 1,000 square feet per vehicle lane. Guard stations provide access to secure areas controlled by security personnel who stop and may inspect vehicles and vehicle occupants, including identification, documentation, vehicle license plates and vehicle contents. Qualifying luminaires shall be within two mounting heights of a vehicle lane or the guardhouse.	Not applicable	0.081 W/ft2	0.176 W/ft2	0.325 W/ft2	0.425 W/ft2
+Student pick-up/drop-off zone. Allowance for the area of the student pick-up/drop-off zone, with or without canopy, for preschool through 12th grade school campuses. A student pick-up/drop off zone is a curbside, controlled traffic area on a school campus where students are picked-up and dropped off from vehicles. The allowed area shall be the smaller of the actual width or 25 feet, times the smaller of the actual length or 250 feet. Qualifying luminaires shall be within two mounting heights of the student pick-up/drop-off zone.	Not applicable	No Allowance	0.056 W/ft2	0.200 W/ft2	No Allowance
+Outdoor dining. Allowance for the total illuminated hardscape of outdoor dining. Outdoor dining areas are hardscape areas used to serve and consume food and beverages. Qualifying luminaires shall be within two mounting heights of the hardscape area of outdoor dining.	Not applicable	0.004 W/ft2	0.030 W/ft2	0.050 W/ft2	0.075 W/ft2
+Special security lighting for retail parking and pedestrian hardscape. This additional allowance is for illuminated retail parking and pedestrian hardscape identified as having special security needs. This allowance shall be in addition to the building entrance or exit allowance.	Not applicable	0.004 W/ft2	0.005 W/ft2	0.010 W/ft2	No Allowance
+Security cameras. This additional allowance is for illuminated general hardscape area. This allowance shall apply when a security camera is installed within 2 mounting heights of the general hardscape area and mounted more than 10 feet away from a building.	Not applicable	No allowance	0.018 W/ft2	0.018 W/ft2	0.018 W/ft2SECTION 140.8 PRESCRIPTIVE REQUIREMENTS FOR SIGNS
+
+This section applies to all internally illuminated and externally illuminated signs, unfiltered light emitting diodes (LEDs) and unfiltered neon, both indoor and outdoor. Each sign shall comply with either Subsection (a) or (b), as applicable.
+
+(a)Maximum allowed lighting power.
+
+1.For internally illuminated signs, the maximum allowed lighting power shall not exceed the product of the illuminated sign area and 12 watts per square foot. For double-faced signs, only the area of a single face shall be used to determine the allowed lighting power.
+
+2.For externally illuminated signs, the maximum allowed lighting power shall not exceed the product of the illuminated sign area and 2.3 watts per square foot. Only areas of an externally lighted sign that are illuminated without obstruction or interference, by one or more luminaires, shall be used.
+
+3.Lighting for unfiltered light emitting diodes (LEDs) and unfiltered neon shall comply with Section 140.8(b).
+
+(b)Alternate lighting sources. The sign shall be equipped with one or more of the following light sources:
+
+1.High pressure sodium lamps; or
+
+2.Metal halide lamps that are:
+
+A.Pulse start or ceramic served by a ballast that has a minimum efficiency of 88 percent or greater, or
+
+B.Pulse start that are 320 watts or smaller, are not 250 watt or 175 watt lamps, and are served by a ballast that has a minimum efficiency of 80 percent.
+
+Ballast efficiency is the reference lamp power divided by the ballast input power when tested according to ANSI C82.6-2015.
+Ballast efficiency is the reference lamp power divided by the ballast input power when tested according to ANSI C82.6-2015.
+
+3.Neon or cold cathode lamps with transformer or power supply efficiency greater than or equal to the following:
+
+A.A minimum efficiency of 75 percent when the transformer or power supply rated output current is less than 50 mA; or
+
+B. A minimum efficiency of 68 percent when the transformer or power supply rated output current is 50 mA or greater.
+
+The ratio of the output wattage to the input wattage is at 100 percent tubing load.
+The ratio of the output wattage to the input wattage is at 100 percent tubing load.
+
+4. Fluorescent lighting systems meeting one of the following requirements:
+
+A.Use only lamps with a minimum color rendering index (CRI) of 80; or
+
+B.Use only electronic ballasts with a fundamental output frequency not less than 20 kHz.
+
+5.Light emitting diodes (LEDs) with a power supply having an efficiency of 80 percent or greater; or
+
+Exception to Section 140.8(b)5: Single voltage external power supplies that are designed to convert 120 volt AC input into lower voltage DC or AC output, and have a nameplate output power less than or equal to 250 watts, shall comply with the applicable requirements of the appliance efficiency regulations (Title 20).
+
+6.Compact fluorescent lamps that do not contain a medium screw base socket (E24/E26).
+
+Exception 1 to Section 140.8: Unfiltered incandescent lamps that are not part of an electronic message center (EMC), an internally illuminated sign or an externally illuminated sign.
+
+Exception 2 to Section 140.8: Exit signs. Exit signs shall meet the requirements of the appliance efficiency regulations.
+
+Exception 3 to Section 140.8: Traffic Signs. Traffic signs shall meet the requirements of the appliance efficiency regulations.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8, and 25943, Public Resources Code.
+
+SECTION 140.9 PRESCRIPTIVE REQUIREMENTS FOR COVERED PROCESSES
+
+(a)Prescriptive requirements for computer rooms.  Computer rooms with a power density greater than 20 W/ft2  shall comply with this section.
+
+1.Economizers. Each individual cooling system primarily serving computer room shall include either:
+
+A.An integrated air economizer capable of providing partial cooling even when additional mechanical cooling is required and capable of providing 100 percent of the expected system cooling load at 65°F to 80.6°F supply air temperature at outside air temperatures of 65°F dry-bulb and below or 50°F wetbulb and below, and be equipped with a fault detection and diagnostic system as specified by Section 120.2(i); or
+
+B.An integrated water economizer capable of providing partial cooling even when additional mechanical cooling is required and capable of providing 100 percent of the expected system cooling load at 65°F to 80.6°F supply air temperature at outside air temperatures of 50°F dry-bulb and below or 45°F wetbulb and below.
+
+Exception 1 to Section 140.9(a)1: Individual computer rooms with an ITE design load under 5 tons (18 kW) in a building that does not have any economizers.
+
+Exception 2 to Section 140.9(a)1: A computer room with an ITE design load less than 20 tons (70 kW) may be served by a second fan system without an economizer if it is also served by a fan system with an economizer that also serves other spaces within the building, provided that all of the following are met:
+
+i.The economizer system is sized to meet the design cooling load of the computer room when the other spaces within the building are at 50 percent of their design load at outside air temperatures of 65°F dry-bulb and below or 50°F wetbulb and below; and
+
+ii. The economizer system has the ability to serve only the computer rooms connected to it, e.g., shut off flow to other spaces within the building when unoccupied.
+
+2.Power consumption of fans. The total fan power at design conditions of each fan system shall not exceed 27 W/kBtu·h of net sensible cooling capacity.
+
+3.Air containment. Computer rooms with air-cooled computers in racks and with an ITE design load exceeding 10 kW (2.8 tons) per room shall include air barriers such that there is no significant air path for computer discharge air to recirculate back to computer inlets without passing through a cooling system.
+
+Exception 1 to Section 140.9(a)3: Expansions of existing computer rooms.
+
+Exception 2 to Section 140.9(a)3: Computer racks with a design load less than 1 kW (0.28 tons) per rack.
+
+Exception 3 to Section 140.9(a)3: Equivalent energy performance based on computational fluid dynamics or other analysis.
+
+4.Alternating current-output uninterruptible power supplies (UPS). Alternating current-output UPS systems serving a computer room shall meet or exceed minimum average efficiencies in Table 140.9-B. Minimum average efficiency for alternating current-output UPS shall meet or exceed calculation and testing requirements identified in ENERGY STAR Program Requirements for Uninterruptible Power Supplies (UPSs) – Eligibility Criteria Version 2.0.
+
+where:P is the rated output power in watts (W).E MOD is an allowance of 0.004 for modular UPSs applicable in the commercial 1,500–10,000 W range.ln is the natural logarithm.
+
+P is the rated output power in watts (W).
+
+E MOD is an allowance of 0.004 for modular UPSs applicable in the commercial 1,500–10,000 W range.
+
+ln is the natural logarithm.
+
+The requirement shall be rounded to the third decimal place for certification and reporting.
+where:
+
+P is the rated output power in watts (W).
+
+E MOD is an allowance of 0.004 for modular UPSs applicable in the commercial 1,500–10,000 W range.
+
+ln is the natural logarithm.
+P is the rated output power in watts (W).
+
+E MOD is an allowance of 0.004 for modular UPSs applicable in the commercial 1,500–10,000 W range.
+
+ln is the natural logarithm.
+
+The requirement shall be rounded to the third decimal place for certification and reporting.
+
+Exception to Section 140.9(a)4: Alternating current-output UPS that utilizes standardized NEMA 1-15P or NEMA 5-15P input plug, as specified in ANSI/NEMA WD-6-2016.
+
+(b) Prescriptive requirements for commercial kitchens.
+
+1.Kitchen exhaust systems.
+
+A.Replacement air introduced directly into the hood cavity of kitchen exhaust hoods shall not exceed 10 percent of the hood exhaust airflow rate.
+
+B.For kitchen/dining facilities having total Type I and Type II kitchen hood exhaust airflow rates greater than 5,000 cfm, each Type I hood shall have an exhaust rate that complies with Table 140.9-C. If a single hood or hood section is installed over appliances with different duty ratings, then the maximum allowable flow rate for the hood or hood section shall not exceed the Table 140.9-A values for the highest appliance duty rating under the hood or hood section. Refer to ASHRAE Standard 154-2011 for definitions of hood type, appliance duty and next exhaust flow rate.
+
+Exception 1 to Section 140.9(b)1B: 75 percent of the total Type I and Type II exhaust replacement air is transfer air that would otherwise be exhausted.
+
+Exception 2 to Section 140.9(b)1B: Existing hoods not being replaced as part of an addition or alteration.
+
+2.Kitchen ventilation.
+
+A.Mechanically cooled or heated makeup air delivered to any space with a kitchen hood shall not exceed the greater of:
+
+i.The supply flow required to meet the space heating and cooling load; or
+
+ii.The hood exhaust flow minus the available transfer air from adjacent spaces. Available transfer air is that portion of outdoor ventilation air serving adjacent spaces not required to satisfy other exhaust needs, such as restrooms, not required to maintain pressurization of adjacent spaces, and that would otherwise be relieved from the building.
+
+Exception to Section 140.9(b)2A: Existing kitchen makeup air units not being replaced as part of an addition or alteration.
+
+B.A kitchen/dining facility having a total Type I and Type II kitchen hood exhaust airflow rate greater than 5,000 cfm shall have one of the following:
+
+i.At least 50 percent of all replacement air is transfer air that would otherwise be exhausted; or
+
+ii.Demand ventilation system(s) on at least 75 percent of the exhaust air. Such systems shall:
+
+a.Include controls necessary to modulate airflow in response to appliance operation and to maintain full capture and containment of smoke, effluent and combustion products during cooking and idle; and
+
+b.Include failsafe controls that result in full flow upon cooking sensor failure; and
+
+c.Include an adjustable timed override to allow occupants the ability to temporarily override the system to full flow; and
+
+d.Be capable of reducing exhaust and replacement air system airflow rates to the larger of:
+
+(i)50 percent of the total design exhaust and replacement air system airflow rates; or
+
+(ii)The ventilation rate required as specified by Section 120.1(c)3.
+
+iii.Listed energy recovery devices with a sensible heat recovery effectiveness of not less than 40 percent on at least 50 percent of the total exhaust airflow; or
+
+iv. A minimum of 75 percent of makeup air volume that is:
+
+a.Unheated or heated to no more than 60°F; and
+
+b.Uncooled or cooled without the use of mechanical cooling.
+
+Exception to Section 140.9(b)2B: Existing hoods not being replaced as part of an addition or alteration.
+
+3.Kitchen exhaust system acceptance. Before an occupancy permit is granted for a commercial kitchen subject to Section 140.9(b), the following equipment and systems shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. A certificate of acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.11.
+
+Exception to Section 140.9(b): healthcare facilities.
+
+(c)Prescriptive requirements for laboratory and factory exhaust systems.
+
+1.Airflow reduction requirements. For buildings with laboratory exhaust systems where the minimum circulation rate to comply with code or accreditation standards is 10 ACH or less, the design exhaust airflow shall be capable of reducing zone exhaust and makeup airflow rates to the regulated minimum circulation rate, or the minimum required to maintain pressurization requirements, whichever is larger. Variable exhaust and makeup airflow shall be coordinated to achieve the required space pressurization at varied levels of demand and fan system capacity.
+
+Exception 1 to Section 140.9(c)1: Laboratory exhaust systems serving zones where constant volume is required by the authority having jurisdiction, facility environmental health & safety department or other applicable code.
+
+Exception 2 to Section 140.9(c)1: New zones on an existing constant volume exhaust system.
+
+2.Exhaust System Transfer Air. Conditioned supply air delivered to any space with mechanical exhaust shall comply with the requirements of Section 140.4(o).
+
+3.Fan System Power Consumption.  All newly installed fan exhaust systems serving a laboratory or factory greater than 10,000 cfm shall meet Subsection A and either B, C, or D:
+
+A.System shall meet all discharge requirements in ANSI Z9.5-2012.
+
+B.The exhaust fan system power shall not exceed 0.85 watts per cfm of exhaust air for systems with air filtration, scrubbers, or other air treatment devices. For all other exhaust fan systems the system power shall not exceed 0.65 watts per cfm of exhaust air. Exhaust fan system power equals the sum of the power of all fans in the exhaust system that are required to operate at normal occupied design conditions in order to exhaust air from the conditioned space to the outdoors. Exhaust air does not include entrained air, but does include all exhaust air from fume hoods, hazardous exhaust flows, or other manifolded exhaust streams.
+
+Exception to Section 140.9(c)3B: Laboratory exhaust systems where applicable local, state, or federal exhaust treatment requirements specify installation of air treatment devices that cause more than 1 in. of water pressure drop.
+
+C.The volume flow rate at the stack shall vary based on the measured 5-minute averaged wind speed and wind direction obtained from a calibrated local anemometer.
+
+i.At least one sonic anemometer or at least two anemometers of other types shall be installed in a location that experiences similar wind conditions to the free stream environment above the exhaust stacks and be at a height that is outside the wake region of nearby structures.
+
+ii.Look-up tables shall be used to define the required exhaust volume flow rate, as a function of at least eight wind speeds and eight wind directions, to maintain downwind concentrations below health and odor limits, as defined by the 2018 American Conference of Governmental Industrial Hygienists Threshold Limit Values and Biological Exposure Indices, for all contaminants, or as defined by applicable local, state, or federal jurisdictions, if more stringent.
+
+iii.Wind speed/direction sensors shall be certified by the manufacturer to be accurate within plus or minus 40 fpm (0.2 m/s) and 5.0 degrees when measured at sea level and 25°C, factory calibrated, and certified by the manufacturer to require calibration no more frequently than once every 5 years.
+
+iv.Upon detection of anemometer and/or signal failure, the system shall reset the exhaust volume flow rate to the value needed to maintain downwind concentrations below health and odor limits for all contaminants  at worst-case wind conditions and shall report the fault to an Energy Management Control System or fault management application which automatically provides notification of the fault to a remote system provider. The EMCS or fault management system shall log the error and the time when it occurred. The system shall have logic that automatically checks for anemometer failure by the following means.
+
+a.If any anemometer has not been calibrated within the manufacturer’s recommended calibration period, the anemometer has failed.
+
+b.During unoccupied periods the system compares the readings of all anemometers. If any anemometer is more than 30% above or below the average reading for a period of 4 hours, the anemometer has failed.
+
+c.Wind speed and wind direction readings shall be sampled at least 10 times per minute. If the difference between the maximum and minimum readings from the average of either the wind direction or the wind speed over a 1-minute period is less than 10% of the average value, the measurements shall be considered a signal failure.
+
+d. Other error signals sent by the anemometer.
+
+v.Before an occupancy permit is granted for a laboratory or process facility subject to Section 140.9(c)3C, the applicable equipment and systems shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7.16. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.16.
+
+D.The volume flow rate at the stack shall vary based on the measured contaminant concentration in the exhaust plenum from a calibrated contaminant sensor installed within each exhaust plenum.
+
+i.A contaminant-event threshold shall be established based on maintaining downwind concentrations below health and odor limits for all chemicals at worst-case wind conditions, as defined by the 2018 American Conference of Governmental Industrial Hygienists Threshold Limit Values and Biological Exposure Indices, or as defined by applicable local, state, or federal jurisdictions, if more stringent.
+
+ii.At least two contaminant concentration sensors shall be Photo Ionization Detectors (PID) certified by the manufacturer to be accurate within plus or minus 5% when measured at sea level and 25°C, factory calibrated, and certified by the manufacturer to require calibration no more frequently than once every 6 months.
+
+iii.Upon detection of sensor and/or signal failure, the system shall reset the exhaust volume flow rate to the value needed to maintain downwind concentrations below health and odor limits for all contaminants  at worst-case wind conditions and shall report the fault to an Energy Management Control System or fault management application which automatically provides notification of the fault to a remote system provider. The system shall have logic that automatically checks for sensor failure by the following means.
+
+a.If any sensor has not been calibrated within the manufacturer’s recommended calibration period, the sensor has failed.
+
+b.During unoccupied periods the system compares the readings of all sensors. If any sensor is more than 30% above or below the average reading for a period of 4 hours, the sensor has failed.
+
+iv.Before an occupancy permit is granted for a laboratory or process facility subject to Section 140.9(c)3D, the applicable equipment and systems shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7.16. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.16.
+
+4.Fume Hood Automatic Sash Closure. Variable air volume laboratory fume hoods with vertical only sashes located in fume hood intensive laboratories, as described in Table 140.9-D, shall have an automatic sash closure system that complies with the following:
+
+A.The automatic sash closure system shall be capable of the following:
+
+i.The automatic sash closure system shall have a dedicated zone presence sensor that detects people in the area near the fume hood sash and automatically closes the sash within 5 minutes of no detection.
+
+ii.The automatic sash closure system shall have controls to prevent the sash from automatic closing when a force of no more than 10 lbs is detected.
+
+iii.The automatic sash closure system shall be equipped with an obstruction sensor that prevents the sash from automatic closing with obstructions in the sash opening. Obstruction sensor shall be capable of sensing transparent materials such as laboratory glassware.
+
+iv.The automatic sash closure system shall be capable of being configured in a manual open mode where once the sash is closed, detection of people in the area near the fume hood by the zone presence sensor does not open the fume hood sash.
+
+B.Fume Hood Automatic Sash Closure Acceptance. Before an occupancy permit is granted for the fume hoods subject to 140.9(c)4, the equipment and systems shall be certified as meeting the Acceptance Requirement for Code Compliance as specified by the Reference Nonresidential Appendix NA7. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements specified in NA7.17.
+
+Exception to Section 140.9(c): healthcare facilities.
+
+Note: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8 and 25943, Public Resources Code.
+
+TABLE 140.9-B
+
+ALTERNATING CURRENT-OUTPUT UNINTERRUPTIBLE POWER SUPPLY MINIMUM AVERAGE EFFICIENCY
+
+	VOLTAGE AND FREQUENCY DEPENDENT	VOLTAGE INDEPENDENT	VOLTAGE AND FREQUENCY INDEPENDENT
+P < 350 W	5.71 × 10-5 × P + 0.962	5.71 × 10-5 × P + 0.964	0.011 × ln(P) + 0.824
+350 W < P <1,500 W	0.982	0.984	0.011 × ln(P) + 0.824
+1,500 W < P <10,000 W	0.981 – EMOD	0.980 – EMOD	0.0145 × ln(P) +0.800 – EMOD
+P >10,000 W	0.970	0.940	0.0058 × ln(P) + 0.886TABLE 140.9-C
+
+MAXIMUM NET EXHAUST FLOW RATE, CFM PER LINEAR FOOT OF HOOD LENGTH
+
+TYPE OF HOOD	LIGHT DUTY EQUIPMENT	MEDIUM DUTY EQUIPMENT	HEAVY DUTY EQUIPMENT	EXTRA HEAVY DUTY EQUIPMENT
+Wall-mounted canopy	140	210	280	385
+Single island	280	350	420	490
+Double island	175	210	280	385
+Eyebrow	175	175	Not allowed	Not allowed
+Backshelf/passover	210	210	280	Not allowedTABLE 140.9-D
+
+FUME HOOD INTENSIVE LABORATORIES
+
+Occupied Minimum Ventilation ACH	≤ 4	> 4 and ≤ 6	> 6 and ≤8	> 8 and ≤ 10	> 10 and ≤ 12	> 12 and ≤ 14
+Hood Density (linear feet per 10,000 ft3 of laboratory space)	≥ 6	≥ 8	≥ 10	≥ 12	≥ 14	≥ 16SECTION 140.10 PRESCRIPTIVE REQUIREMENTS FOR PHOTOVOLTAIC AND BATTERY STORAGE SYSTEMS
+
+(a)Photovoltaic requirements. All newly constructed building types specified in Table 140.10-A, or mixed occupancy buildings where one or more of these building types constitute at least 80 percent of the floor area of the building, shall have a newly installed photovoltaic (PV) system meeting the minimum qualification requirements of Reference Joint Appendix JA11. The PV size in kWdc shall be not less than the smaller of the PV system size determined by Equation 140.10-A, or the total of all available solar access roof area (SARA) multiplied by 14 W/ft².
+
+1.SARA includes the area of the building’s roof space capable of structurally supporting a PV system, and the area of all roof space on covered parking areas, carports and all other newly constructed structures on the site that are compatible with supporting a PV system per Title 24, Part 2, Section 1511.2.
+
+2.SARA does NOT include:
+
+A.Any area that has less than 70 percent annual solar access. Annual solar access is determined by dividing the total annual solar insolation (accounting for shading obstructions) by the total annual solar insolation if the same areas were unshaded by those obstructions. For all roofs, all obstructions, including those that are external to the building, and obstructions that are part of the building design and elevation features may be considered for the annual solar access calculations.
+
+B. Occupied roofs as specified by CBC Section 503.1.4.
+
+C.Roof space that is otherwise not available due to compliance with other building code requirements if confirmed by the Executive Director.
+
+where:
+
+kWPVdc = Size of the PV system in kW.
+
+CFA = Conditioned floor area in square feet.
+
+A = PV capacity factor specified in Table 140.10-A for the building type.
+
+Where the building includes more than one of the space types listed in Table 140.10-A, the total PV system capacity for the building shall be determined by applying Equation 140.10-A to each of the listed space types and summing the capacities determined for each.
+Where the building includes more than one of the space types listed in Table 140.10-A, the total PV system capacity for the building shall be determined by applying Equation 140.10-A to each of the listed space types and summing the capacities determined for each.
+
+Exception 1 to Section 140.10(a): No PV system is required where the total of all available SARA is less than 3 percent of the conditioned floor area.
+
+Exception 2 to Section 140.10(a): No PV system is required where the required PV system size is less than 4 kWdc.
+
+Exception 3 to Section 140.10(a): No PV system is required if the SARA contains less than 80 contiguous square feet.
+
+Exception 4 to Section 140.10(a): Buildings with enforcement-authority-approved roof designs, where the enforcement authority determines it is not possible for the PV system, including panels, modules, components, supports and attachments to the roof structure, to meet ASCE 7-16, Chapter 7, Snow Loads.
+
+Exception 5 to Section 140.10(a): Multitenant buildings in areas where a load-serving entity does not provide either a virtual net metering (VNEM) or community solar program.
+
+(b) Battery storage system requirements. All buildings that are required by Section 140.10(a) to have a PV system shall also have a battery storage system meeting the minimum qualification requirements of Reference Joint Appendix JA12. The rated energy capacity and the rated power capacity shall be not less than the values determined by Equation 140.10-B and Equation 140.10-C. Where the building includes more than one of the space types listed in Table 140.10-B, the total battery system capacity for the building shall be determined by applying Equations 140.10-B and 140.10-C to each of the listed space types and summing the capacities determined for each space type and equation.
+
+where:
+
+kWhbatt=  Rated useable energy capacity of the battery storage system in kWh.
+
+kWPVdc=  PV system capacity required by Section 140.10(a) in kWdc.
+
+B =  Battery energy capacity factor specified in Table 140.10-B for the building type.
+
+D =  Rated single charge-discharge cycle AC to AC (round-trip) efficiency of the battery storage system.
+
+where:
+
+kWbatt = Power capacity of the battery storage system in kWdc.
+
+kWPVdc= PV system capacity required by Section 140.10(a) in kWdc.
+
+C =  Battery power capacity factor specified in Table 140.10-B for the building type.
+
+Exception 1 to Section 140.10(b): No battery storage system is required if the installed PV system size is less than 15 percent of the size determined by Equation 140.10-A.
+
+Exception 2 to Section 140.10(b): No battery storage system is required in buildings with battery storage system requirements with less than 10 kWh rated capacity.
+
+Exception 3 to Section 140.10(b): For multitenant buildings, the energy capacity and power capacity of the battery storage system shall be based on the tenant spaces with more than 5,000 square feet of conditioned floor area. For singletenant buildings with less than 5,000 square feet of conditioned floor area, no battery storage system is required.
+
+Exception 4 to Section 140.10(b): In Climate Zone 1, no battery storage system is required for offices, schools and warehouses.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.8 and 25943, Public Resources Code.
+
+TABLE 140.10-A
+
+PV CAPACITY FACTORS
+
+	FACTOR A—MINIMUM PV CAPACITY (W/ft² of conditioned floor area)
+CLIMATE ZONE	1, 3, 5, 16	2, 4, 6–14	15
+Grocery	2.62	2.91	3.53
+High-Rise Multifamily	1.82	2.21	2.77
+Office, Financial Institutions, Unleased Tenant Space	2.59	3.13	3.80
+Retail	2.62	2.91	3.53
+School	1.27	1.63	2.46
+Warehouse	0.39	0.44	0.58
+Auditorium, Convention Center, Hotel/Motel, Library, Medical Office Building/Clinic, Restaurant, Theater	0.39	0.44	0.58TABLE 140.10-B
+
+BATTERY STORAGE CAPACITY FACTORS
+
+	FACTOR B— ENERGY CAPACITY	FACTOR C— POWER CAPACITY
+Storage-to-PV Ratio	Wh/W	W/W
+Grocery	1.03	0.26
+High-Rise Multifamily	1.03	0.26
+Office, Financial Institutions, Unleased Tenant Space	1.68	0.42
+Retail	1.03	0.26
+School	1.87	0.46
+Warehouse	0.93	0.23
+Auditorium, Convention Center, Hotel/Motel, Library, Medical Office Building/Clinic, Restaurant, Theater	0.93	0.23

@@ -1,0 +1,642 @@
+CHAPTER 12-72-1 PROTECTIVE SIGNALING SYSTEMS
+
+PROTECTIVE SIGNALING SYSTEMS, STANDARD TEST PROCEDURES STANDARD 12-72-1
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-72-100.
+
+(a)Basic. This standard represents the minimum basic requirements for the construction and performance of the protective signaling systems to be listed under this classification. The minimum design, construction and performance standards set forth herein are those deemed as minimum necessary to establish conformance to the regulations of the State Fire Marshal as set forth in the California Electrical Code, and when applicable shall be reported on in their entirety by the approved testing laboratory.
+
+(b)Systems. This standard covers electrically operated devices and control units designed to transmit and sound alarms, supervisory and trouble signals to be employed in ordinary indoor locations in accordance with the Standards of the National Fire Protection Association for the Installation, Maintenance and Use of Proprietary, Auxiliary and Local Protective Signaling Systems, Remote Station, Nos. 72A, 72B, 72C and 72D, and the California Electrical Code. This includes combination protective signaling systems employing nonsupervised sounding circuits; combination fire alarm-communication, -program and -clock systems (hereinafter referred to as combination signaling systems); and audible devices used for both alarm and program or communication purposes.
+
+(c)Control unit. A control unit covered by this standard consists of a unit assembly of electrical parts having provisions for the connection of power-supply circuits routed through the control unit equipment by a prescribed scheme of circuitry; signal initiating circuits extended to separate devices by which the operating parts of the control unit are actuated for signals, and to incorporated or separate devices by which the signals are transmitted or indicated to form a coordinated combination system for definite signaling service.
+
+TEST REPORTS
+
+Sec. 12-72-101.
+
+(a)Test report contents. The report shall include engineering data, and an analysis comparing the design against Section 12-72-102 (a) through (u); it shall include wiring, diagrams, operating manuals and photographs as set forth in Section 12-72-102 (a), Items 5 and 6; it shall set forth the tests performed in accordance with Sections 12-72-103 (a) through (g) and the results thereof; and shall verify the correctness of the electrical rating required by Section 12-72-107.
+
+(b)Listed devices. Electrical wiring, material, devices, combination of devices, fittings, appliances and equipment which have been tested and listed by an approved listing agency for the intended purpose and use need not be individually retested.
+
+The report shall include the catalog number or other readily identifiable marking, the name of the approved listing agency, the laboratory test report number and date. Such individually tested and listed component parts and devices when installed in combination with other devices in a control unit or in a circuit extended from such control unit shall be subjected to the performance standard tests to determine its suitability for use in combination with other component parts, devices, circuits or equipment.
+
+(c)Listed control units. Control units which by their design are intended to fully comply with the Standard for the Installation, Maintenance and Use of Proprietary, Auxiliary, Remote Station and Local Protective Association may be investigated and tested in accordance with the Standards for Safety established by Underwriters’ Laboratories, Inc., U.L. 864, provided such investigation, test and report incorporates the provisions of the California Electrical Code.
+
+(d)Rejection for cause. Compliance with these standards will not necessarily mean approval and listing, if, when examined and tested, it is found to have other features which may impair the result intended by these regulations. Unusual constructions may require application of additional performance tests. The State Fire Marshal may refuse to approve any item for cause.
+
+(e)Systems only. The standard applies to protective signaling systems as defined in the California Electrical Code, and systems or systems components for which application for approval and listing has been filed under the provisions of the California Electrical Code.
+
+This standard does not cover manual stations, automatic detectors, automatic transmitters or other actuating devices; nor does it cover separately listed bells, registers or other indicating devices which are not provided as a part of the control unit or matched against the output of sound-reproducing equipment.
+
+(f)Differing constructions. A control unit having materials or forms of construction differing from this standard may be investigated and tested according to the intent of this standard, and if found to be substantially equivalent may be given recognition for approval and listing. The office of the State Fire Marshal shall be consulted for general requirements and performance standards.
+
+GENERAL
+
+Sec. 12-72-102.
+
+(a)Investigation—Report.
+
+1.A control unit or combination signaling system shall be so designed and constructed as to be practical, reliable and sufficiently durable for its intended installation and use. It shall be suitable for use with acceptable actuating and indicating devices which have been found by investigation to be suitable for use with the control unit or combination signaling system. It shall permit its application in conformity with the regulations set forth in the California Electrical Code.
+
+2.The scheme of electrical or electronic circuiting of a control unit or combination signaling system shall provide for the degree of electrical supervision required by the California Electrical Code, and when required, shall ensure emergency operation in the presence of a fault condition.
+
+3.Attachment plugs, bells, circuit-breakers, cords, fuse-holders, fuses, lampholders, receptacles, transformers, switches, wires, etc., provided as a part of a control unit or combination signaling system shall be investigated and judged under the requirements established by the California Electrical Code, for such devices and also with respect to their suitability for the particular application.
+
+4.Amplifiers used in the fire-protective signaling circuits of combination systems shall be tested in accordance with UL, Inc. Standard 813 (Second Edition 1954, amended 1966 and 1967), Sound Recording and Reproducing Equipment.
+
+The exchange or replacement of amplifiers from those originally tested with a combination system shall be tested in accordance with UL, Inc. Standard 813 and evaluated in accordance with this standard to determine their suitability for use with the combination system.
+
+5.The report of investigation shall include schematic wiring diagrams tracing the electrical or electronic circuits in their normally supervised and operating condition. Contacts of operating devices shall be shown in the normally supervised position with operating and supervisory power supplied to the equipment.
+
+6.The report of investigation shall include photographs of the equipment with markings identifying the component parts. Operating and maintenance manuals shall be included with each control unit or combination signaling system and shall be attached to the test report and certification.
+
+7.The report of investigation shall include an itemized list of optional equipment that has, by test, been determined as not required to provide a fire alarm signal transmission. The report of investigation shall include routing of circuits for any equipment or devices which are not necessary for the transmission of a fire alarm signal.
+
+(b)Marking.
+
+1.Control units and combination signaling systems shall be plainly and permanently marked with a nameplate bearing the manufacturer’s name, model number and electrical rating. Enclosures and castings shall have die stamped or cast identifying numbers or other readily identifiable markings. Component parts shall be fully described or identified by manufacturer’s name and model number.
+
+2.A wiring diagram of the control unit or combination signaling system shall be attached inside the control cabinet or metalware enclosure.
+
+3.An audible alarm silencing switch when provided, shall be marked to indicate its normal position unless it is of the automatically restoring type. A permanently attached metal or equivalent sign shall bear the following words, “Do not operate the audible alarm silencing switch until the fire department has been notified.” The trouble signal silencing switch, unless of the automatically restoring type, shall be marked to indicate its normal on position.
+
+4.Terminal connections for the power supply shall be marked or identified as required by the California Electrical Code.
+
+5.Installation wiring terminals or leads shall be marked or otherwise plainly evident.
+
+6.A control unit designed for use with automatic detectors shall be marked for use with nonrestoring types of detectors only, unless the control unit provides signal lock-in performance required by Section 12-72-103 (b), Item 14.
+
+7.A control unit designed for use with limited-energy circuits shall be marked to identify the particular circuits in which the energy is limited.
+
+8.The maximum impedance of each actuating circuit shall be marked when the value for successful operation is less than 100 ohms.
+
+9.A control unit designed to limit the duration of an alarm signal by means of a time-limit cutout shall be marked to indicate the time for which it is to be adjusted; nonadjustable time-limit cutouts shall be marked to indicate time at which it will operate. [See Sections 12-72-103 (l), Items 1 and 2.]
+
+10.Equipment required to be mounted in a definite position in order to function properly shall be marked to indicate correct mounting position.
+
+(c)Frame, enclosure and metalware.
+
+1.Control units and combination signaling systems shall be installed in locked substantial cabinets or metalware enclosures and shall be of a type expressly designed for the service for which they are used. Control unit cabinets and combination signaling system metalware enclosures enclosing alarm signaling circuits shall be provided with integral key locks.
+
+2.Control unit cabinets and combination signaling system metalware enclosures shall be so formed and assembled that they will have the strength and rigidity necessary to resist the abuses to which they are liable to be subjected, without adversely affecting their performance, and without increasing fire hazard due to total or partial collapse with resulting reduction of spacings, loosening or displacement of parts, or other serious defects.
+
+3.Electrical parts of a control unit or combination signaling system shall be so located or enclosed that suitable protection against accidental contact with uninsulated hazardous live parts will be provided.
+
+4.Operating parts, such as gear mechanisms, relays and similar devices, shall be protected against fouling by dust, insects or by other material which might impair their operation, by means of individual protection or dust-tight cabinets.
+
+5.The thickness of cast metal for an enclosure shall be as indicated in Table 12-72-1A; except that cast metal of lesser thickness may be used if upon investigation it is shown that it has the equivalent mechanical strength.
+
+6.Sheet metal enclosures for a control unit or combination signaling system shall be investigated and listed by a nationally recognized testing laboratory for its intended purpose or use, or shall be not less than indicated in Table 12-72-1B.
+
+7.An enclosure shall have suitable means for mounting, accessible without disassembling any operating part except removal of a completely assembled panel such as a relay panel.
+
+8.An enclosure cover shall be hinged if it gives access to fuses or any other overload-protective device, the normal functioning of which requires renewal, or if it is necessary to open the cover in connection with the normal operation of the control unit or combination signaling system.
+
+9.Enclosure covers accessible for service only may be unhinged if, upon investigation, they are found to be suitable for the purpose. Unhinged covers shall be securely held in place by screws or equivalent fastening devices requiring the use of a tool for its removal.
+
+10.Cabinets or compartments for housing of primary batteries shall be key locked with provisions for protection against moisture or movement. Metal cabinets shall be of approved design constructed of sheet iron or steel not less than No. 14 manufacturer’s standard gage.
+
+11.Compartments for storage batteries shall have a total volume not less than twice the volume occupied by the batteries. Ventilating openings shall be provided, and so located to permit dispersion of gas while the battery is being charged at the highest rate permitted by the means incorporated in the unit.
+
+12.The interior of the storage battery compartment shall be protected against detrimental action by the electrolyte. The compartment shall be so located or enclosed that the equipment of the signaling system will not be adversely affected by battery gases.
+
+13.Ventilating openings shall be screened with wire screening having wires of not less than No. 16 AWG, expanded metal mesh or perforated metal of not less than 0.042 inch (1 mm) in thickness. No opening in wire screening, metal mesh or perforated metal shall exceed 1/2 square inch (322 mm2) in area.
+
+14.A compartment enclosing electrical parts shall not be open to the floor or other support on which the equipment rests.
+
+(d)Protection against corrosion. Iron and steel parts shall be protected against corrosion by enameling, galvanizing, plating or other equivalent means. This includes all parts upon which proper mechanical operation may depend. It does not apply to bolts, screws, washers or similar parts, if corrosion will not impair operation of the equipment. Stainless steel, polished or treated, does not require additional protection. Bearings shall be of such design and material to ensure against binding due to corrosion.
+
+(e)Insulating materials.
+
+1.Base for support of live-metal parts shall be of noncombustible, moisture-resistant, insulating material commonly recognized as suitable for support of live-metal parts. A base shall withstand the most severe conditions liable to be met in service.
+
+2.Bases mounted on metal surfaces shall be provided with an insulating barrier from the mounting surfaces unless all live-metal parts are staked, upset, sealed or otherwise prevented from loosening to prevent parts and ends of terminal screws from coming in contact with the supporting surface.
+
+3.Countersunk, sealed parts of control units shall be covered to a depth of not less than 1/8 inch (3 mm) with a waterproof insulating compound which will not melt at a temperature 15°C higher than the normal operating temperature of the assembly. In no case shall such insulating compound melt at less than 65°C.
+
+(f)Mounting parts.
+
+1.All parts of control equipment shall be securely mounted in position to prevent loosening or turning if such motion may adversely affect normal operation of the control equipment. A switch, lampholder, attachment-plug receptacle or plug connector shall be mounted securely and, except as noted in Item 3, shall be prevented from turning. See Item 4.
+
+2.The requirement that a switch be prevented from turning may be waived if all four of the following conditions are met:
+
+A.The switch is to be of a plunger or other type that does not tend to rotate when operated (a toggle switch is considered to be subject to forces that tend to turn the switch during normal operation of the switch).
+
+B.The means of mounting the switch is to make it unlikely that operation of the switch will loosen the switch.
+
+C.The spacings are not to be reduced below the minimum acceptable values if the switch does rotate.
+
+D.Normal operation of the switch is to be by mechanical means rather than by direct contact by persons.
+
+3.A lampholder of a type in which the lamp cannot be replaced (such as a neon pilot or indicator light in which the lamp is sealed in by a nonremovable jewel) need not be prevented from turning if rotation cannot reduce spacings below the minimum acceptable values.
+
+4.The means for preventing the turning mentioned in Section 12-72-103 (f) is to consist of more than friction between surfaces—e.g., a suitable lockwasher, properly applied, is acceptable as the means for preventing a small stem-mounted switch or other device having a single-hole mounting means from turning.
+
+5.Uninsulated live-metal parts, including terminals, shall be secured by methods other than friction between surfaces, to prevent turning or shifting that may result in reduction of any required spacings. Contact assemblies shall be so secured that alignment of contacts will be ensured.
+
+(g)Grounding. Cabinets, metalware enclosures and noncurrent carrying metal parts shall be grounded as required by the California Electrical Code. Equipment grounded by a multiple-conductor cord shall have a fixed contacting member in the attachment plug for connection of the grounding conductor. The grounding conductor shall be green-identified and shall not be used as a circuit conductor.
+
+(h)Operating mechanisms.
+
+1.Parts and motors shall be suitable for the particular applications and shall be of sufficient mechanical strength and capacity to withstand the stresses to which they will be subjected in operation without introducing any hazard.
+
+2.Cams, signaling wheels and similar parts shall be fastened to prevent loosening or independent turning. Adjustable parts and adjusting screws shall have provisions to prevent loosening under conditions of use.
+
+3.Electromagnetic devices shall be designed to provide positive electrical and mechanical performance under all conditions of use.
+
+(i)Current-carrying parts.
+
+1.Current-carrying parts shall be of nonferrous metal recognized as suitable and of sufficient mechanical strength for the particular application.
+
+2.Except for grounded signaling wheels, bearings, hinges, etc., shall not be used for carrying current between interrelated fixed and moving parts.
+
+(j)Supply connections. Control units and combination signaling systems shall be provided with wiring terminals for the connection of conductors of at least the size required by the California Electrical Code, for the electrical rating of the equipment.
+
+(k)Terminal connections.
+
+1.Wiring terminals shall ensure thorough connections under hard usage. Terminals shall be a suitable pressure wire connector, firmly bolted or held by a screw, except that for No. 8 AWG and smaller wires, a wire binding screw having upturned lugs or the equivalent may be used. Alternate: Binding screws without upturned lugs may be recognized when conductors are fitted with mechanically and electrical secure ring connectors.
+
+2.Wire-binding screws not less than 8-32 may be used at terminal strips, except that a 6-32 screw may be used for No. 14 AWG and smaller wires. Terminal plates shall be not less than 0.050 inch (1 mm) in thickness to provide not less than two full threads in the metal. Terminal plates of less thickness may be recognized when the resistance to stripping of the threads is equal to or greater than two full threads in 0.050-inch-thick (1 mm) terminal plates.
+
+(l)Raceways and power-supply cord.
+
+1.Control units shall have provisions for connection of armored cable or conduit. Combination signaling systems may be provided with a flexible cord and attachment cap. The power-supply cord serving the fire alarm signal generator or tone oscillator shall be Type SJ or equivalent. Strain relief shall be provided so that mechanical stress on a flexible cord will not be transmitted to terminals, splices or interior wiring. Power-supply for the signal generator or tone oscillator provided by a cord shall have an attachment cap with a device to prevent its easy removal from the receptacle.
+
+2.Power-supply for clock, communication or program systems shall not be supplied from the fire alarm control unit.
+
+(m)Internal wiring.
+
+1.Internal wiring of a control unit or combination signaling system shall consist of suitably insulated conductors for the voltage and temperature attained, and of adequate current-carrying capacity for the service.
+
+2.All conductors in an enclosure or raceway shall be insulated for the maximum voltage of any conductor in the enclosure or raceway.
+
+3.Wireways shall be smooth and free from sharp edges, burrs, fins and moving parts. Holes in sheet metal partitions shall be provided with smooth bushings or shall have smooth well-rounded surfaces.
+
+4.All joints and connections shall be mechanically secure and shall provide a reliable electrical contact without strain on connections and terminals. Stranded conductors clamped under wiring-binding screws or similar parts shall have the individual strands soldered together or equivalent arrangement to ensure reliable connections.
+
+5.Wire shall be neatly arranged and routed, and shall be held in place with clamps, string ties or equivalent unless of sufficient rigidity to retain a shaped form, placed in spaces affording protection against damage during servicing.
+
+(n)Interconnection of units.
+
+1.Control units and combination signaling systems shall be interconnected by metallic raceway enclosures or armored cable suitable for the purpose.
+
+2.Cords and wires used to interconnect units within the overall enclosure shall be securely fastened to the enclosure walls by means of clamps or shall be cabled assemblies with strain relief.
+
+3.In combination signaling systems, the control unit audible alarm circuit shall form the alarm signal interconnection. The audible alarm circuit shall be continuous to the terminals of the relay approved for alarm signaling service for the control unit, except that contacts of a combination signaling system power-supply supervisory relay may be included in the circuit.
+
+4.The alarm signal relay shall be firmly attached to the enclosure and shall be a component part of the combination signaling system unit.
+
+5.The interconnection between control units having nonsupervised audible alarm circuits and the combination signaling system shall be in duplicate, connected alternately to two or more signal relays wired in parallel to the oscillator or tone signal relays.
+
+6.Portions of alarm circuits in combination signaling system control panels which are not supervised from the contacts of the audible alarm signal relay to the oscillator or tone signal alarm relays shall not exceed 24 inches (609 mm) in length. They shall be of 600V insulated wire held in place by clamps or equivalent and so located that they will not be subject to handling during use or servicing.
+
+(o)Capacitors. Capacitors shall be of materials suitable for their intended use. A paper capacitor shall be impregnated or suitably enclosed to exclude moisture. It shall not be injuriously affected by the temperature attained under the most severe conditions of use. The removal of a capacitor of the plug-in type shall require the use of a tool.
+
+(p)Coil windings—transformers.
+
+1.The insulation of coil windings of relays, transformers, etc., shall be impregnated or otherwise designed to exclude moisture.
+
+2.Transformers connected across a power-supply circuit shall be individually housed in noncombustible material.
+
+3.Transformers shall be of the two-coil or insulated type except that an autotransformer may be employed provided the terminal common to both input and output circuits is connected to the grounded supply terminal.
+
+(q)Overcurrent protection.
+
+1.Storage batteries provided as part of a control unit, other than primary batteries, shall be protected by overcurrent devices having a rating of not less than 150 percent and not more than 200 percent of the maximum operating load on the battery.
+
+2.System control units and combination signaling system control units shall be protected on the current supply side by overcurrent devices having a rating not more than 150 percent of the maximum normal operating current.
+
+3.Transformers shall be protected on either the primary or secondary side by overcurrent devices having a rating not greater than the continuous duty rating of the transformer unless the current is limited to the same value by other acceptable means.
+
+(r)Rectifiers.
+
+1.Rectifiers used direct shall be approved for the purpose and of adequate capacity to maintain voltage regulation between 100 percent of rated voltage at maximum load and 130 percent of rated voltage at no load.
+
+2.A control unit incorporating a battery-charging rectifier shall be provided with meters as part of the assembly or with readily accessible terminal connections for portable meters for determination of battery voltage and charging current.
+
+(s)Storage batteries.
+
+1.Storage batteries provided as part of a control unit shall have sealed cells with spray-trap vents. Normal charging shall be by a trickle-charge rectifier. The mounting arrangement shall prevent terminals from contacting terminals of adjacent cells or parts of the battery enclosure. The cells shall permit ready access for checking the specific gravity of the electrolyte.
+
+2.The conditioning charge shall be so limited that with the maximum charge which can be obtained, the battery gases will not adversely affect the control unit.
+
+(t)Spacings.
+
+1.A control unit or combination signaling system shall provide reliably maintained spacings between uninsulated live-metal parts, and between uninsulated live-metal parts and dead-metal or noncurrent carrying metal parts not less than those indicated in Table 12-72-1C and Section 12-72-102 (t), Items 3 and 4.
+
+2.The spaces within devices or assemblies which have been individually or as assemblies tested and listed by a nationally recognized testing agency for the intended use need not comply with the provisions of Table 12-72-1C and Section 12-72-102 (t), Items 3 and 4. The report shall note such devices and assemblies by reference to the test report.
+
+3.If a short circuit between uninsulated live-metal parts of the same polarity would prevent the normal signaling operation of the control unit without simultaneously producing a trouble signal, the spacings between such parts shall be not less than those indicated for “other parts” in Table 12-72-1C except in the case of the special devices mentioned in Footnote 2 to the table, the spacing between uninsulated live-metal parts of the same polarity, for any potential of 0-300 volts, shall be not less than 1/32 inch (0.8 mm) through air, and the spacing over surface shall be not less than 1/16 inch (1.6 mm) unless the smaller over-surface spacings permitted in Footnotes 3 and 4 of Table 12-72-1C.
+
+4.Spacings may be reduced provided a barrier or liner of suitable moisture-resistant insulating material of sufficient mechanical strength to withstand operation of equipment and arcing is used, and is reliably held in place.
+
+(u)Speakers—sound equipment. Speakers shall be of an approved type and designed with current capabilities for the intended function and purposes.
+
+PERFORMANCE
+
+Sec. 12-72-103.
+
+(a)General.
+
+1.The performance of a control unit or combination signaling system shall be investigated by subjecting a representative sample in commercial form to tests described in Sections 12-72-103 (b) through (q). Insofar as possible tests are to be made in the order indicated by the following test headings.
+
+2.A control unit shall be tested in the position in which it is designed to be installed for proper function.
+
+3.A combination signaling system console or rack is to be placed in a position simulating an actual installation against a vertical wood wall unless by its design, it is obviously intended for installation in the open. If ventilation openings are provided on the rear surfaces, it is to be spaced out 1 inch (25 mm) from the wall.
+
+4.Tests shall be made at rated frequency and voltage. The rated voltage for test purposes is considered to be 120 volts for units marked 110–125 volts, or 240 volts if marked 220–250 volts.
+
+5.Control units intended to be energized by trickle-charged batteries shall be tested at the rated trickle -charge of the battery except for over-and under-voltage tests.
+
+(b)Normal operation.
+
+1.A control unit or combination signaling system shall operate reliably and uniformly for all conditions of its intended performance when employed in conjunction with actuating devices, indicating devices and power supplies to form a combination type indicated by the wiring diagram and supplementary information supplied with it.
+
+2.To determine compliance, actuating devices, indicating devices optional equipment not necessary for transmission of a fire alarm signal, and power supplies are to be connected to the control unit to form a typical combination, and the control unit operated for each condition of its intended performance.
+
+3.A combination signaling system shall be connected to the intended signal initiating control units and devices, optional equipment or devices not necessary for the transmission of a fire alarm signal, signal indicating devices (in sound-reproducing equipment the output impedance and matching load combination which produced the maximum input in the power- input test is to be used), and power supplies, and the equipment operated for each condition of its intended performance.
+
+4.Actuating and indicating devices used for testing are to be those specified by the wiring diagram of the equipment, except that substitute devices may be used if the actuating switching contacts produce equivalent actuation, and if the indicating devices produce equivalent signal indication and circuit loading. Acceptable substitute load devices are those found by investigation to produce the same load conditions as the devices intended to be used with the equipment.
+
+5.The control unit or combination signaling system shall be in the normal circuit supervisory condition prepared for normal signaling operation by being connected to the devices and circuits indicated in Sections 12-72-103 (b), Items 1 through 3.
+
+6.The operation of any actuating device shall cause the equipment to operate the related indicating devices to produce a clearly defined signal of the type for which the combination is designed.
+
+7.A coded fire alarm signal shall consist of not less than three complete rounds of the number transmitted.
+
+8.Fire alarm signals in schools emitted by devices not distinctive in tone or used for other purposes shall be intermittent or continuous sounding signals. The signal, herein referred to as the California Uniform Fire Code Signal, shall be given for a period of 10 full seconds followed by a silence of 5 full seconds before the signal is repeated. The signal shall be given for a period of not less than 1 minute. Conformance requires signal duration in excess of 1 minute.
+
+9.Control units or combination signaling systems shall have provisions to disconnect time and program signal circuits upon initiation of an alarm signal. Restoration of time, recall or program circuits shall require manual operation of a resetting device in the control unit or combination signaling system console. The resetting device shall be located inside the locked control panel or console, or shall be key-operated. A metal sign having the following words shall be attached adjacent to the switch “Reset switch shall not be operated until building has been determined safe from fire.” The wiring diagram required by Section 12-72-103 (b), Item 2, shall include the circuit arrangement.
+
+10.Combination signaling systems designed for use with a coded fire alarm control unit (control unit of type other than continuous ringing) shall be provided with an audible alarm signal relay of the lock-in type. This may be a latching-type relay or an electrical holding circuit.
+
+11.Combination signaling systems designed for use with a continuous ringing fire alarm control unit shall be provided with a California Fire Code Signal coding device actuated by the audible alarm signal relay.
+
+12.Combination signaling system using sound-reproducing equipment designed to provide an alarm signal of distinctive tone used for no other purpose is not required to provide a coding device. To be considered as distinctive in tone, the frequency should be not less than 300 cycles higher or lower than any other signal (such as a classroom or program signal) and shall be an undulating tone swinging not less than approximately 100 cycles each side of the mean frequency with a pulse rate of not less than 30 per minute.
+
+13.Combination signaling systems which are so designed that they may have the power supply circuit disconnected or alarm signal output discontinued without a trouble signal shall have provisions to instantly and automatically restore power supply, signal generation and signal output upon actuation of a fire alarm initiating device.
+
+14.The signal indicating resulting from the operation of a noncode fire alarm control unit by automatic detectors having self-restoring contacts shall be maintained automatically by the control unit until a resetting device in the control unit is manually operated.
+
+15.Combination signaling systems designed to have the audible alarm circuit routed through a clock- cross-connect or pin board shall not, on removal or relocation of any pin, cause interruption of interference with the fire alarm signal. The circuit arrangement shall be shown on the wiring diagram required by Section 12-72-103 (b), Item 2.
+
+16.Normal operation of fire alarm signaling equipment shall not depend upon a ground connection.
+
+17.A switch and circuit provided for silencing alarm sounding devices shall conform to the following:
+
+A.Switching to the off-normal position shall automatically transfer the alarm signal to visual warning signal lights which shall not be extinguished until the system is manually restored to normal.
+
+B.With the system in normal supervisory condition, switching to the off-normal position shall result in an audible trouble signal.
+
+C.Restoration of the alarm initiating circuit to normal supervisory condition shall result in a trouble signal, unless the silencing switch and its related control circuit is of the automatically restoring type.
+
+D.The switch shall be located inside of the locked control unit enclosure.
+
+18.Circuits and all related devices of a combination system may have their output regulated providing the minimum setting will allow satisfactory compliance to the California Electrical Code, for the total number of sound reproducers that may be served by the system.
+
+(c)Power input-sound reproducing equipment.
+
+1.The current or wattage consumption of a combination signaling system utilizing sound reproducing equipment shall not exceed the marked input rating by more than 5 percent when the equipment is operated under normal conditions while connected to a supply circuit of rated frequency and voltage corresponding to the mean of the marked primary voltage rating.
+
+2.For the test specified in Section 12-72-103 (c), Item 1, the audio-input connections of each amplifier of the system are to be connected to an oscillator adjusted to supply a 1,000-cycle signal. All volume and tone controls are to be at their maximum settings, and normal operating condition is considered to be operational with the audio-input-signal potential adjusted to produce audio-output rating of the amplifier. The tests are to be conducted throughout the range of impedance taps with load impedance of the amplifier.
+
+(d)Fire alarm signal precedence.
+
+1.Control units designed to serve more than one type of alarm-initiating device or to utilize the audible alarm devices for more than one type of signaling service shall provide priority for manual box signals, and for fire alarm signals in combination signaling systems.
+
+2.A coded system control unit shall be actuated by one or more initiating devices other than a manual box and by a manual box simultaneously. The manual box signal shall take precedence over other signals.
+
+3.Combination signaling system shall be actuated to transmit a program or sound signal. A fire alarm initiating device shall be actuated while the program or sound signal is being transmitted. The fire alarm signal shall take priority without any interference or garbling of the alarm signal. Each separate type of program, or sound signal, including all-call or individual room signals shall be actuated without interfering with the fire alarm signal.
+
+4.Fault conditions shall be introduced in each piece of optional equipment or device and during such fault conditions a fire alarm initiating device shall be actuated. The fire alarm signal shall be transmitted without interference or garbling of the alarm signal.
+
+(e)Electrical supervision.
+
+1.Unless otherwise provided, the circuits formed by conductors extended from the terminals of the control unit or combination signaling system shall be so electrically supervised that a trouble signal will be promptly indicated upon the occurrence of a signal break or ground fault condition of its circuits which would prevent normal operation of the combination, control unit, actuating devices and indicating devices. Electrical supervision of the main operating power, power supply to the oscillator or tone generator shall be provided under the conditions set forth in Sections 12-72-103 (e), Items 2 through 4. The above requirements do not apply to the following type of circuits:
+
+A.The audible alarm signaling circuits of combination signaling system of the clock-bell program or sound reproducing type, provided all portions of the circuits are used for normal program or signaling purposes not less than once each hour.
+
+B.Local system circuits intended for use only with sprinkler waterflow alarm or sprinkler-supervisory circuits.
+
+C.Current and circuits for trouble signals.
+
+D.Current for alternate operation when source of main power supply is interrupted.
+
+E.Current supply and circuits for supplementary signal devices, or optional equipment not necessary for the transmission of a fire alarm signal, provided that a break or ground fault will not affect operation of the system for required fire alarm signals.
+
+F.Circuit for register or indicating device provided as a part of the control unit.
+
+G.Audible alarm circuits, provided there are suitable terminal facilities for the connection of either multiple circuits, so that a break or ground fault prevents operation of only one of the circuits; or a return loop circuit so that a break or ground fault does not prevent operation of any alarm signal sounding device or appliance with means provided for testing the continuity of the circuit conductors.
+
+H.Circuit for an alarm-indicating device in the same room as the control unit, provided the circuit conductors are installed in a metallic raceway or equivalent to prevent mechanical injury or tampering.
+
+2.Electrical supervision of the main source of operating power. Supervision of a control unit using a rectifier for battery charging shall include supervision of the power supply to the rectifier and the fuse in the load circuit of the battery.
+
+3.Electrical supervision of the power supply to the oscillator or tone generator of a combination signaling system when the signal and its related amplifiers are used for normal room signaling service. The supervisory circuit may be so arranged as to sound the fire alarm control unit trouble signal.
+
+4.Electrical supervision of the signal output of a combination signaling system when the alarm signal oscillator or tone generator and its related amplification devices and circuits are not used for normal signaling.
+
+5.A single break or ground fault in an alarm initiating or indicating circuit, or failure and restoration of the power supply to the control unit, shall not cause transmission of an alarm signal.
+
+6.To determine conformance of a control unit or combination signaling system with the performance and tests requirements of Items 1 through 5, the investigation is to start with the representative system combination in the normal supervisory condition indicated in Section 12-72-103 (b), Item 5; each type of fault to be detected shall be separately introduced in each circuit conductor.
+
+7.If the off-normal position of any normally preset mechanism or any similar part of the control unit or control equipment requires manual restoration to normal position for proper signaling operation of the control equipment, such off-normal position shall be indicated by a trouble signal. Compliance is to be determined by observation during the normal operation test.
+
+8.While the control unit or control equipment is in the supervisory condition, any operation of any manual-switching part that may interfere with normal operation of the equipment of transmission of an alarm signal shall be indicated by a trouble signal. The control unit or equipment shall be operated for transmission of signals in each position of the manual-switching parts.
+
+(f)Trouble signals. Trouble signals shall be distinctive from alarm signals, or other communication or warning signals. They shall be indicated by the continuous sound of an audible trouble signaling device or appliance. The audible signal sounding device or appliance may be common to more than one supervised circuit. Trouble signal sounding circuits may be provided with time limit cut-off devices to provide for intermittent operation of the trouble signal device or appliance. The time limit device or appliance shall provide for the continuous sounding of the trouble signal sounding device or appliance for a period of not less than 10 minutes followed by a period of silence not to exceed 5 minutes.
+
+(g)Trouble signal silencing switch. A trouble signal silencing switch shall be provided. Upon operation of the trouble signal silencing switch, the trouble indication shall be transferred to a trouble lamp or other approved visual indicator located adjacent to the silencing switch. Operation of the trouble signal silencing switch shall also remove the time limit cutout from the circuit. The visual indicator shall remain in operation until the silencing switch is restored to its normal position unless the audible trouble signal will be obtained when a fault occurs without restoring the switch to normal position. The silencing switch and its related control circuit may be of the automatically restoring type.
+
+(h)Control unit input and output current and voltage.
+
+1.The input or output current of each circuit of a control unit shall not exceed the marked rating of the control unit by more than 10 percent when the unit is operated under conditions of normal use.
+
+2.A limited-energy detector circuit shall conform to the following:
+
+A.The open-circuit voltage between any two wiring terminals and between any terminal and a grounded circuit part or noncurrent carrying metal part shall not exceed 50 volts when the control unit is connected to a power supply source of rated voltage and frequency.
+
+B.Overcurrent protection not in excess of 2 amperes shall be provided in such manner that each limited-energy circuit is protected. Current-limiting transformers may be substituted, provided that under condition of short circuit, current flow at the terminals will not exceed 2 amperes.
+
+(i)Jarring. The control unit or control equipment installed or supported in the position of its normal use connected to a power supply and in supervisory condition shall withstand jarring from impact or vibration such as may be experienced in service by striking the enclosure. Striking the enclosure shall not cause signaling operation of any part nor adversely affect any subsequent normal operation.
+
+(j)Temperature.
+
+1.Materials employed in the construction of a control unit or combination signaling system which have not been investigated and reported on by a nationally recognized testing laboratory as an assembly in the form intended for use shall be investigated and tested to determine temperature rises that may adversely affect the materials of construction, normal signaling operation of the equipment and fire hazard to building materials.
+
+2.A control unit shall be mounted on a wood panel representative of its manner of installation in service. It shall be connected to a power supply as indicated in Section 12-72-103 (a), Item 4, and operated under representative normal conditions liable to produce the highest temperatures.
+
+3.A combination signaling system shall be set up representative of normal service conditions against a wood panel wall as specified in Section 12-72-103 (a), Item 3, connected to a supply circuit as indicated in Section 12-72-103 (c), Item 1, and operated under representative normal conditions liable to produce the highest temperatures.
+
+4.In control units equipped with time-limit cutouts which are not intended to limit the time of alarm-signal operation, the time-limit cutout shall be shunted out of the circuit for the duration of the test.
+
+5.A control unit or combination signaling system intended to provide impulse signals shall be operated by a testing device to provide one impulse per second, except that if the signal impulses are normally produced by a device which is a part of the control unit or equipment assembly, the test impulses are to be at the rate of normal operation of the device.
+
+6.Circuits shall be loaded representative of maximum load under normal service conditions. Resistors shall be adjusted for maximum wattage dissipation possible under conditions of normal service.
+
+7.Except for coils, temperature readings are to be preferably obtained by means of thermocouples. Temperatures are to be considered as constant when three successive readings taken at intervals of 10 percent of the previously elapsed duration of the test, but not less than 5 minute intervals, indicate no change. Temperature rise on coils may be determined by the resistance method or mercury thermometers.
+
+8.Horizontal screened or ventilation openings subject to accumulation of dust and lint shall be covered with loose cotton.
+
+9.Materials of construction and fire hazard to buildings shall be considered to be adversely affected if the temperature rise exceeds the limits shown in the following, based on an assumed ambient temperature of 25°C:
+
+A.65°C on wood panels or other combustible material or surfaces adjacent to or upon which a control unit may be mounted in service.
+
+B.35°C on rubber or thermoplastic insulation.
+
+C.60°C on varnished cloth insulation.
+
+D.65°C on surface of coil winding of impregnated organic insulation.
+
+E.125°C on phenolic insulation.
+
+F.65°C on a transformer enclosure.
+
+G.65°C on fiber insulation.
+
+H.30°C at any point on a copper-oxide rectifier.
+
+I.50°C at any point on a selenium rectifier.
+
+J.15°C less than melting point of a sealing compound.
+
+K.Rated temperature limit of a capacitor.
+
+L.65°C on fuses.
+
+M.350°C on embedded resistor.
+
+10.The test-operating condition shall be continued for a period of not less than:
+
+A.Operation under a normal supervisory condition until constant temperatures are attained.
+
+B.Operation for 1 hour during normal signaling condition of local system control equipment designed for actuation by automatic devices. Includes control units producing a continuous signal until actuating device is restored to normal or until a circuit-resetting device is manually operated.
+
+C.Operation for 15 minutes during normal signaling condition of a local system control unit intended to be actuated by coded manual fire alarm boxes.
+
+D.Operation of a rectifier at its maximum rated output until constant temperatures are attained.
+
+(k)Over- and under-voltage operation.
+
+1.The design of a signaling system shall provide that the system will perform its intended function at 85 percent and at 110 percent of rated voltage. The operating parts of control equipment shall withstand 110 percent of its rated voltage continuously without injury during the normal supervisory condition.
+
+2.To determine compliance with the higher voltage specified in Item 1, the signaling system is to be subjected to the increased voltage while in its normal supervisory condition until a constant temperature of all of its parts attained but in no case less than 3 hours and then tested for all signaling conditions. The unit shall not fail to transmit any required signal.
+
+3.To determine compliance with the under-voltage specified in Item 1, the signaling system is to be operated in the normal supervisory condition until constant temperatures of all its parts are attained and then immediately tested for all signaling conditions at the reduced voltage. Reduced voltage is to be achieved by a means that maintains a stable potential of the required value under the most severe conditions of normal loading.
+
+4.Circuits extended from the control unit in which the maximum impedance for successful operation is less than 100 ohms shall have the maximum impedance connected to its circuits during the under-voltage test.
+
+(l)Time limit cutout.
+
+1.A time limit cutout arranged to control the duration of a continuous alarm signal shall operate within the range of the time marked for the control unit when tested at an ambient temperature of 25°C ± 2°C. A common coded signal shall complete not less than three complete rounds and a system control unit intended for schools not less than 1 full minute of signal transmission as specified in Section 12-72-103 (b), Item 8, before operation of the time limit cutout.
+
+2.Except as specified in Item 1, a bell circuit time-limit-cutout shall operate in not less than 3 minutes nor more than 10 minutes when energized continuously at the maximum rated current value of the circuit to which it is connected, tested at an ambient temperature of 25°C ± 2°C.
+
+(m)Overload.
+
+1.Under the conditions specified in Items 2 through 4, a current-interrupting device provided as part of, or intended for use with, a signaling system control unit or equipment shall perform in an acceptable manner during an overload test consisting of not less than 50 make and break operations. There shall be no electrical or mechanical failure of the device, nor shall there be any undue arcing, burning, pitting or welding of contacts.
+
+2.A control unit or equipment normally supplied from a grounded circuit shall be tested with all normally grounded parts and the enclosure connected through a 15 ampere fuse to the grounded conductor of the supply circuit.
+
+3.Current-interrupting devices controlling devices on the load side of control equipment power supply terminals shall be tested at 115 percent of rated voltage with a test load equivalent to that which the device is intended to control.
+
+4.Overcurrent devices in control equipment which includes motor-driven devices or intended to include motors on any of its circuits shall be tested under stalled rotor conditions of the motor.
+
+(n)Endurance. An operating device included as part of a control unit or combination signaling system shall perform acceptably when tested at the rate and for the number of cycles specified in Table 12-72-1D. When the device controls an electrical load the contacts shall make and break the normal current the device is intended to control for the number of cycles specified. There shall not be any electrical or mechanical failure of the device, nor shall there by any undue arcing, burning, pitting or welding of the contacts. The device shall be tested in conjunction with its related components in the assembly by operating the primary actuating device to produce the signals.
+
+(o)Dielectric tests.
+
+1.Except for motors rated at 1/2 hp or less, and 250 volts or less, signaling system control units or equipment shall withstand, without breakdown, the application of a 60-cycle alternating potential of twice rated voltage plus 1,000 volts for a period of 1 full minute. The test potential shall be applied to the following parts:
+
+A.Between all normally ungrounded current-carrying parts and the enclosure.
+
+B.Between all metal current-carrying parts and exposed noncurrent-carrying parts.
+
+C.Between all current-carrying metal parts of circuits, including transformer windings, operating at different frequencies of potentials.
+
+2.Motors rated less than 1/2 hp and 250 volts shall withstand for 1 minute without breakdown, the application of a 60-cycle a.c. potential of 900 volts between the frame and winding.
+
+(p)Abnormal operation.
+
+1.A control unit shall be capable of operating under abnormal conditions without emission of flame, molten metal or other manifestation of a fire hazard. Excessive temperatures or burnout is indicative of failure.
+
+2.A control unit connected to a supply circuit of rated voltage shall have its alarm initiating and audible alarm circuits short-circuited until a constant temperature is attained, or burnout occurs, unless the fault results in operation of an overcurrent device which is an integral component part of the unit.
+
+(q)Burnout tests.
+
+1.A continuous-duty resistor shall not burn out or be adversely affected while carrying the maximum normal load continuously. An intermittent duty resistor shall carry its maximum rated current on any step for the maximum length of time permitted by limiting devices of the unit.
+
+2.A transformer operated continuously, at the rated voltage and frequency specified by Section 12-72-103 (a), Item 4, with the enclosure grounded and having a load of three times maximum normal load current connected to its output terminals shall not be adversely affected by injury to the enclosure, nor shall any emission of flame or molten metal occur.
+
+3.The testing circuit shall be protected by overcurrent devices having a rating of at least ten times the primary current rating of the transformer. Output terminals of the transformer shall be short-circuited, if such a condition results in less than three times the maximum normal load current being drawn from the secondary. Tests shall be continued until constant temperatures are attained or a burnout occurs. Blowing of the fuse on the primary side of the transformer is not considered to be a failure.
+
+4.If the circuit designs of a control unit or combination signaling system incorporate a time limit cutout or a mercury tube switch wired into the system circuit in such a manner that a short circuit or a ground fault causes the device to carry current in excess of its maximum normal load, it shall withstand the test specified in Items 5 through 7, without introducing a fire hazard.
+
+5.The device is to be tested in the control equipment as it is intended to be normally used and in series with a protective fuse of the marked maximum rating indicated by the markings on the control unit. All openings in the enclosure of the control equipment shall be covered with surgical cotton, and the enclosure is to be connected to ground through a fuse of the same rating as the protective fuse mentioned above.
+
+6.The open circuit voltage of the test circuit is to be within 5 percent of the rated voltage; see Sections 12-72-103 (a), Item 4, and 12-72-103 (c), Item 1, of the control equipment circuit in which the device is installed, except that a higher voltage may be used if agreeable to those concerned. The source of current and the test circuit should have sufficient capacity to deliver 1,000 amperes when the system is short-circuited at the testing terminals.
+
+7.Ignition of the cotton, or of insulation on circuit conductors, emission of flame or molten metal from the enclosure, blowing of the fuse in the grounding conductor, damage to other parts of the control equipment, or any evidence of a fire hazard is to be deemed as failure. Burnout of pigtail leads or a thermal element, or welding of contacts, is not to be considered as a failure.
+
+PRINTED WIRING BOARDS
+
+Sec. 12-72-104.
+
+(a)General.
+
+1.These requirements cover printed wiring boards that are intended for use in fire protective signaling equipment. The acceptability of the combination of the printed wiring board and the electric equipment is to be determined by the State Fire Marshal.
+
+2.Printed wiring boards conforming to ASTM Grade FR-5 when tested in accordance with ASTM Designation D-1867, may be used in protective signaling equipment.
+
+3.Throughout these requirements, the term “printed wiring” is used to designate a pattern of conductive material formed in a predetermined design on the surface or surfaces of a common insulating base, and intended primarily to provide point to point electrical connections, shielding or to form inductors. The term “printed wiring board” is used to designate the combination of a printed writing pattern and the common insulating base completely processed as far as the printed portion is concerned. The term “printed wiring assembly” is used to designate a printed wiring board on which separate components have been added.
+
+4.Printed wiring boards which do not conform to Item 3, shall be tested in accordance with the procedures set forth in Sections 12-72-104 (b) through (d).
+
+(b)Insulating material. Insulating material on which printed wiring is applied shall be suitable for the sole support of uninsulated live parts and for the temperature involved, and shall have suitable mechanical strength.
+
+(c)Conductors.
+
+1.Current-carrying parts of printed wiring shall be of copper, copper-alloy, aluminum, silver or other material having similar corrosion-resisting properties.
+
+2.Conductor surfaces shall be substantially free of wrinkles, pits, blisters, corrosion or other imperfections before and after being subjected to the conditions described in Item 6.
+
+3.Printed wiring shall be so applied to the insulating material that the average strength of the bond between the printed wiring and the insulating base for each individual strip of conductor will not be less than 1 pound per inch of width of the printed wiring when samples are tested under the conditions described in Items 4 through 7.
+
+4.The samples of printed wiring boards are to be without components (capacitors, resistors, etc.) and, except at points where connections are to be made, the conductors are to be free from solder. If the normal production soldering operation results in a coating of solder on the conductors, the samples are to be subjected to a simulated soldering operation, using a material other than solder, at the normal soldering temperature, or an equivalent arrangement, in order to obtain the same thermal effect on the conductors.
+
+5.A uniform width of the printed wiring is to be peeled from the insulating material for a distance of 1/4 inch (6 mm) at a uniform rate of approximately 12 inches (305 mm) per minute, with the angle between the printed conductor and the insulating material at not less than 85 degrees, and the force required to separate the conductor from the insulating material measured. Three determinations are to be made on each of six samples, and the average strength of the bond for each individual strip or conductor determined.
+
+6.Following the test described in the preceding paragraph, three of the samples are to be placed in an air oven maintained at the temperature determined by the following expression for 1,344 consecutive hours:
+
+T = 1.02 (R + 15 + 273) – 273, where
+
+T = oven temperature in °C.
+
+R = temperature in °C for which the printed material is to be recognized (75°, 90°, 105° or 125°C).
+
+The remaining three samples are to be placed first in the air oven for 168 hours and then in a moist air chamber having a relative humidity of 83.5–86.5 percent at a temperature of 30.5°–33.5°C, for 168 hours, and the cycle repeated for a total of 1,344 hours (four 168-hour periods in the air oven alternating with four 168-hour periods in the moist air).
+
+7.After 1,344 hours under the conditions described in the preceding paragraph, the six samples are to be allowed to cool to room temperature and then subjected to the test described in Item 5 and the average strength of the bond determined for each sample.
+
+8.The use of coatings over printed wiring will be given special consideration with respect to their effect on the strength of the bond between the printed wiring and the insulating material.
+
+(d)Dielectric strength.
+
+1.The average dielectric breakdown potential for six samples of printed wiring boards that have been conditioned in an air oven for 1,344 hours at the temperature determined by the formula in Section 12-72-104 (c), Item 6, shall be not less than 80 percent of the average dielectric breakdown potential for six samples of printed wiring boards that have not been subjected to such conditioning.
+
+2.The 12 samples may be provided without components (capacitors, sockets, resistors, etc.) but are to be samples that have been subjected to the complete production soldering process. The test potential is to be obtained from a suitable transformer, the output voltage of which can be regulated. The potential is to be increased gradually from zero, at the rate, of approximate 75 volts per second, until dielectric breakdown occurs. Three different locations on each sample, with different spacings between conductors, if possible, are to be tested. The locations selected are to be the same for all samples. The average dielectric breakdown potentials for each group of six samples for each location is to be determined. The average value for each location for the samples that have been conditioned is to be not less than 80 percent of the average value for the corresponding location for the samples that have not been conditioned.
+
+RELAYS FOR PROTECTIVE SIGNALING SERVICE
+
+Sec. 12-72-105.
+
+(a)Test conditions. Relays which have not been qualified as approved for use with protective signaling systems by investigation and report from an approved listing agency shall have its suitability for use in a protective signaling system evidenced by an investigation and report by an approved testing laboratory which shall include certification that the relay conforms to the minimum requirements of the California Electrical Code. The test report shall include, but is not limited to:
+
+1.Over- and under-voltage operation per the California Electrical Code.
+
+2.The insulation of coil windings of relays shall be such as to resist the absorption of moisture.
+
+3.Temperature readings on the coil and insulation under normal operation at a constant temperature (temperature may be considered constant when three succeeding readings at not less than 5 minute intervals indicate no change in temperature).
+
+4.Overload test consisting of 50 operations at 115 percent of rated voltage with a test load being that which the relay is to handle.
+
+5.Endurance test consisting of 40,000 cycles of coded or noncoded signal impulses at rated load and voltage.
+
+6.Dielectric strength test without breakdown by application of 60 cycle a.c. at twice rated voltage plus 1,000 volts for a period not less than 1 minute.
+
+(b)Acceptance criteria. There shall be no electrical or mechanical failure, nor any undue pitting, burning or welding of contact during any test.
+
+SEMICONDUCTOR TESTS
+
+Sec. 12-72-106.
+
+(a)General. Semiconductors shall be investigated to determine their suitability for application under all the environmental conditions to which they will be exposed in service.
+
+The performance tests of the complete device are intended to show the effects of these conditions. The prescribed tests may be supplemented where conditions exceeding those represented by the tests indicated herein may be encountered.
+
+(b)Test procedure.
+
+1.Temperature. The system combination is to be connected as in the normal operation test and operated in an oven at 85°C. It is then to be operated in a refrigerator at 0°C. After temperature equilibrium has been maintained in both cases, the unit shall operate as in the normal operation test.
+
+2.Humidity. The system combination is to be connected as in the normal operation test, and placed in a humidity cabinet maintained at 85 percent humidity, 32°C, for a period of 48 hours. At the end of this time, the unit shall operate as in the normal operation test.
+
+3.Transient voltage. The system combination shall be subjected to the transient voltages caused by the collapse of the field of a 2-kilovolt-ampere transformer switched on and off on a random basis for 500 cycles.
+
+4.Acceptance criteria. There shall be no adverse effects on the system combination and the unit shall operate as intended.
+
+(c)Temperature. A semiconductor shall be operated so as to obtain not more than 75 percent of its rated operating temperature during the normal supervisory condition indicated in Section 12-72-103 (b), Item 5. The rated operating temperature of a semiconductor shall not be exceeded under any condition of operation of the complete unit which produces the maximum temperature dissipation of its components, including the over-voltage test described in Section 12-72-103 (k), Items 1 and 2, and the variable ambient temperature test described in Section 12-72-106 (b), Item 1.
+
+ELECTRICAL RATING
+
+Sec. 12-72-107.
+
+The electrical rating of a control unit or combination signaling system shall be marked as provided in Section 12-72-102 (b). The following ratings shall be marked on the nameplate or may be marked on supplemental labels at the terminal strips:
+
+(a)Each power supply circuit—the voltage, frequency and maximum input in amperes or watts.
+
+(b)Each alarm initiating circuit—maximum current output and maximum open-circuit voltage if different than the power supply circuit.
+
+(c)Each control unit audible alarm or indicating circuit—maximum current output and the maximum open-circuit voltage if different than the power supply circuit.
+
+(d)Each combination signaling system sound reproducing control audible alarm circuit-output rating in watts.
+
+(e)Supplementary—device circuit—maximum current load that may be connected, and the voltage and frequency of supply power other than that of the control unit.
+
+(f)Fuses—maximum ampere rating of the fuse that may be installed in each fuseholder provided as part of the control unit or combination signaling system.
+
+TABLE 12-72-1A—CAST-METAL ENCLOSURES
+
+DIMENSION OF AREA	MINIMUM THICKNESS IN INCHES
+Die-cast metal	Castings other than die-cast
+24 square inches or less, no dimension greater than 6 inches	5/64*	1/2
+More than 24 square inches or any dimension exceeding 6 inches	3/32	1/2
+Threaded conduit opening	1/4	1/4
+Unthreaded conduit opening	1/8	1/9For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+* Suitable reinforcing ribs may subdivide larger areas.
+
+TABLE 12-72-1B—SHEET-METAL ENCLOSURES
+
+MAXIMUM DIMENSIONS	MINIMUM THICKNESS IN INCHES∗
+Steel	Copper, brassor aluminum
+Linear dimension	Surface area insquare inches	Zinc coated	Uncoated
+24	360	0.057	0.054	0.075
+(16)	(16)	(12)
+48	1,200	0.071	0.067	0.095
+(14)	(14)	(10)
+60	1,500	0.098	0.095	0.122
+(12)	(12)	(8)
+Over 60	Over 1,500	0.127	0.124	0.153
+(10)	(10)	(6)For SI: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+
+Note: Numbers in parentheses are the galvanized sheet gage for zinc-coated steel, manufacturer’s standard gage for uncoated steel, American wire gage for nonferrous metal.
+
+* At areas where armored cable or conduit is to be attached, sheet metal shall be of such thickness or so formed or reinforced that it will have the stiffness equivalent to uncoated flat sheet steel 0.054 inch thickness; when a supporting frame or equivalent reinforcing by forming or flanging is provided, thicknesses may be reduced by two gage numbers.
+
+TABLE 12-72-1C—MINIMUM ACCEPTABLE SPACINGS IN INCHES1, 2
+
+POTENTIAL INVOLVED INVOLTS	AT INSTALLATION-WIRING TERMINALS	AT OTHER PARTS
+Through the air	Over the surface ofinsulating material	Through the air	Over the surface ofinsulating material
+0-150	1/43	1/43	1/84	1/44
+151-300	1/83, 5	1/83	1/44	3/84
+	1/43			For SI: 1 inch = 25.4 mm.
+
+1. Measurements are to be made while wire with adequate capacity for the applied load is connected to each terminal as it would be in actual installation. In no case is the wire to be smaller than No. 14 AWG.
+
+2. At fixed parts of rigidly clamped special assemblies of live parts and insulating separators (such as contact springs on relays or cam switches) that are wired at the factory, the spacings may be less than those indicated, but not less than 1/16 inch for 0-150 volts, and not less than 3/32 inch for 151-300 volts, through air and over surface, except as noted in the following footnotes.
+
+3. Nor less than 3/64 inch through air and over surface for 250 volts or less if the equipment which the component part controls does not consume more than 375 volt-amperes or more than 5 amperes.
+
+4. Not less than 1/32 inch through air and over surface for a circuit involving a potential or not more than 30 volts and supplied by a primary battery or by a standard Class 2 transformer or by a suitable combination of transformer and fixed impedance having output characteristics in compliance with what is required for a Class 2 transformer.
+
+5. The spacing through air at installation-wiring terminals may be less than 1/4 inch but not less than 1/8 inch if the terminals are recessed in insulating material or have insulating barriers so as to confine loose strands of conductors sufficiently to make it unlikely that the terminals will be grounded or short-circuited.
+
+TABLE 12-72-1D—ENDURANCE TEST
+
+NORMAL SIGNALING PERFORMANCE OF DEVICE	TOTAL NUMBER OF CYCLESDEVICE TO BE TESTED	CYCLES PERMINUTE
+Continuous noncode signal for each operation of alarm signal initiating device	6,000	6
+A number of coded or noncode impulses for each operation of alarm signal initiating device	40,000	60
+Preliminary coded or noncode signal impulses followed by continuous signal impulses after each operation of alarm signal initiating device	40,000resetting of device after each group of 40 impulses	—60
+Relays	40,000	60

@@ -1,0 +1,45 @@
+CALIFORNIA BUILDING CODE – MATRIX ADOPTION TABLE APPENDIX L – EARTHQUAKE RECORDING INSTRUMENTATION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)										X				X									
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+L101.1										X				X									
+L101.2										X				X									
+L101.3										X													
+																							APPENDIX L EARTHQUAKE RECORDING INSTRUMENTATION
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User notes:
+
+About this appendix: The purpose of Appendix L is to foster the collection of ground motion data, particularly from strong-motion earthquakes. When this ground motion data is synthesized, it may be useful in developing future improvements to the earthquake provisions of the code.
+
+Code development reminder: Code change proposals to this appendix will be considered by the IBC—Structural Code Development Committee during the 2022 (Group B) Code Development Cycle.
+
+SECTION L101 GENERAL
+
+L101.1 General
+
+Every structure located where the 1-second spectral response acceleration, S1, determined in accordance with Section 1613.2, is greater than 0.40 and either exceeds six stories in height with an aggregate floor area of 60,000 square feet (5574 m2) or more, or exceeds 10 stories in height regardless of floor area, shall be equipped with not fewer than three approved recording accelerographs. The accelerographs shall be interconnected for common start and common timing.
+
+[OSHPD 1 & 4] There shall be a sufficient number of instruments to characterize the response of the building during an earthquake and shall include at least one tri-axial free field instrument or equivalent.
+
+L101.2 Location
+
+As a minimum, instruments shall be located at the lowest level, mid-height, and near the top of the structure. Each instrument shall be located so that access is maintained at all times and is unobstructed by room contents. A sign stating “MAINTAIN CLEAR ACCESS TO THIS INSTRUMENT” in 1-inch (25 mm) block letters shall be posted in a conspicuous location.
+
+[OSHPD 1 & 4] A proposal for instrumentation and equipment specifications shall be forwarded to the enforcement agency for review and approval.
+
+L101.3 Maintenance
+
+Maintenance and service of the instrumentation shall be provided by the owner of the structure. Data produced by the instrument shall be made available to the building official on request.
+
+Maintenance and service of the instruments shall be performed annually by an approved testing agency. The owner shall file with the building official a written report from an approved testing agency certifying that each instrument has been serviced and is in proper working condition. This report shall be submitted when the instruments are installed and annually thereafter. Each instrument shall have affixed to it an externally visible tag specifying the date of the last maintenance or service and the printed name and address of the testing agency.
+
+[OSHPD 1] Data retrieval from the instrument and processing of the records shall be the responsibility of the enforcement agency.
+

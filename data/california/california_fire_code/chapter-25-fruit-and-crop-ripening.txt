@@ -1,0 +1,100 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 25 – FRUIT AND CROP RIPENING
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							
+																							
+
+* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 25 FRUIT AND CROP RIPENING
+
+User note:
+
+About this chapter: Chapter 25 provides guidance that is intended to reduce the likelihood of explosions resulting from improper use or handling of ethylene gas used for crop ripening and coloring processes. This is accomplished by regulating ethylene gas generation, regulating storage and distribution systems and controlling ignition sources. Design and construction of facilities for fruit and crop ripening are regulated by the California Building Code to reduce the impact of potential accidents to people and buildings.
+
+SECTION 2501 GENERAL
+
+2501.1 Scope.
+
+Ripening processes where ethylene gas is introduced into a room to promote the ripening of fruits, vegetables and other crops shall comply with this chapter.
+
+Exception: Mixtures of ethylene and one or more inert gases in concentrations that prevent the gas from reaching greater than 25 percent of the lower explosive limit (LEL) when released to the atmosphere.
+
+2501.2 Permits.
+
+Permits shall be required as set forth in Section 105.5.
+
+2501.3 Ethylene generators.
+
+Approved ethylene generators shall be operated and maintained in accordance with Section 2506.
+
+SECTION 2502 DEFINITIONS
+
+2502.1 Terms defined in Chapter 2.
+
+Words and terms used in this chapter and defined in Chapter 2 shall have the meanings ascribed to them as defined therein.
+
+SECTION 2503 ETHYLENE GAS
+
+2503.1 Location.
+
+Ethylene gas shall be discharged only into approved rooms or enclosures designed and constructed for this purpose.
+
+2503.2 Dispensing.
+
+Valves controlling discharge of ethylene shall provide positive and fail-closed control of flow and shall be set to limit the concentration of gas in air below 1,000 parts per million (ppm).
+
+SECTION 2504 SOURCES OF IGNITION
+
+2504.1 Ignition prevention.
+
+Sources of ignition shall be controlled or protected in accordance with this section and Chapter 3.
+
+2504.2 Electrical wiring and equipment.
+
+Electrical wiring and equipment, including luminaires, shall be approved for use in Class I, Division 2, Group C hazardous (classified) locations.
+
+2504.3 Static electricity.
+
+Containers, piping and equipment used to dispense ethylene shall be bonded and grounded to prevent the discharge of static sparks or arcs.
+
+2504.4 Lighting.
+
+Lighting shall be by approved electric lamps or luminaires only.
+
+2504.5 Heating.
+
+Heating shall be by indirect means utilizing low-pressure steam, hot water or warm air.
+
+Exception: Electric or fuel-fired heaters approved for use in hazardous (classified) locations and that are installed and operated in accordance with the applicable provisions of the California Electrical Code, the California Mechanical Code or the California Plumbing Code.
+
+SECTION 2505 COMBUSTIBLE WASTE
+
+2505.1 Housekeeping.
+
+Empty boxes, cartons, pallets and other combustible waste shall be removed from ripening rooms or enclosures and disposed of at regular intervals in accordance with Chapter 3.
+
+SECTION 2506 ETHYLENE GENERATORS
+
+2506.1 Ethylene generators.
+
+Ethylene generators shall be listed and labeled by an approved testing laboratory, approved by the fire code official and used only in approved rooms in accordance with the ethylene generator manufacturer’s instructions. The listing evaluation shall include documentation that the concentration of ethylene gas does not exceed 25 percent of the lower explosive limit (LEL).
+
+2506.2 Ethylene generator rooms.
+
+Ethylene generators shall be used in rooms having a volume of not less than 1,000 cubic feet (28 m3). Rooms shall have air circulation to ensure even distribution of ethylene gas and shall be free from sparks, open flames or other ignition sources.
+
+SECTION 2507 WARNING SIGNS
+
+2507.1 Where required.
+
+Approved warning signs indicating the danger involved and necessary precautions shall be posted on all doors and entrances to the premises.
+

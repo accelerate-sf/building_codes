@@ -1,0 +1,580 @@
+Chapter 8 Communications Systems
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article				X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article	X		X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article			X	X	X		X	X	X	X	X	X	X	X	
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below															
+Article/Section
+															
+
+Article 800 General Requirements for Communications Systems
+Part I General
+800.1 Scope
+800.2 Definitions
+800.3 Other Articles
+(A) Hazardous (Classified) Locations
+(B) Wiring in Ducts for Dust, Loose Stock, or Vapor Removal
+(C) Equipment in Other Space Used for Environmental Air
+(D) Installation and Use
+(E) Optical Fiber Cable
+(F) Other Communications Systems
+(G) Reconditioned Equipment
+800.21 Access to Electrical Equipment Behind Panels Designed to Allow Access
+800.24 Mechanical Execution of Work
+800.25 Abandoned Cables
+800.26 Spread of Fire or Products of Combustion
+800.27 Temperature Limitation of Wires and Cables
+Part II Wires and Cables Outside and Entering Buildings
+800.44 Overhead (Aerial) Wires and Cables
+(A) On Poles and In-Span
+(1) Relative Location
+(2) Attachment to Cross-Arms
+(3) Climbing Space
+(4) Clearance
+(B) Above Roofs
+(C) On Masts
+(D) Between Buildings
+800.49 Metal Entrance Conduit Grounding
+800.53 Separation From Lightning Conductors
+Part III Grounding Methods
+800.100 Cable and Primary Protector Bonding and Grounding
+(A) Bonding Conductor or Grounding Electrode Conductor
+(1) Insulation
+(2) Material
+(3) Size
+(4) Length
+(5) Run in Straight Line
+(6) Physical Protection
+(B) Electrode
+(1) In Buildings or Structures With an Intersystem Bonding Termination
+(2) In Buildings or Structures With Grounding Means
+(3) In Buildings or Structures Without an Intersystem Bonding Termination or Grounding Means
+(C) Electrode Connection
+(D) Bonding of Electrodes
+800.106 Primary Protector Grounding and Bonding at Mobile Homes
+(A) Grounding
+(1) Mobile Home Service Equipment
+(2) Mobile Home Feeder Disconnecting Means
+(B) Bonding
+Part IV Installation Methods Within Buildings
+800.110 Raceways, Cable Routing Assemblies, and Cable Trays
+(A) Types of Raceways
+(1) Raceways Recognized in Chapter 3
+(2) Communications Raceways
+(3) Innerduct for Communications Wires and Cables, Coaxial Cables, or Network-Powered Broadband Communications Cables
+(B) Raceway Fill
+(C) Cable Routing Assemblies
+(1) Horizontal Support
+(2) Vertical Support
+(D) Cable Trays
+800.113 Installation of Wires, Cables, Cable Routing Assemblies, and Communications Raceways
+(A) Listing
+(B) Ducts Specifically Fabricated for Environmental Air
+(C) Other Spaces Used for Environmental Air (Plenums)
+(D) Risers — Cables, Cable Routing Assemblies, and Communications Raceways in Vertical Runs
+(E) Risers — Cables and Innerducts in Metal Raceways
+(F) Risers — Cables, Cable Routing Assemblies, and Communications Raceways in Fireproof Shafts
+(G) Risers — One- And Two-Family Dwellings
+(H) Cable Trays
+(I) Distributing Frames and Cross-Connect Arrays
+(J) Other Building Locations
+(K) Multifamily Dwellings
+(L) One- And Two-Family Dwellings
+800.154 Applications of Listed Communications Wires, Cables, and Raceways, and Listed Cable Routing Assemblies
+Applications	Wire and Cable Type
+Plenum	Riser	BMR	General-Purpose	BM	Limited-Use	Undercarpet	BMU, BLU	Hybrid Power and CommunicationsCables	Communications Wires
+In ductsspecificallyfabricated forenvironmentalair as describedin 300.22(B)	In fabricated ducts	Y	N	N	N	N	N	N	N	N	N
+In metal raceway that complies with 300.22(B)	Y	Y	Y	Y	Y	Y	N	N	N	Y
+In other spacesused forenvironmentalair (plenums) as described in300.22(C)	In other spaces used for environmental air	Y	N	N	N	N	N	N	N	N	N
+In metal raceway that complies with 300.22(C)	Y	Y	Y	Y	Y	Y	N	N	N	Y
+In plenum communicationsraceways	Y	N	N	N	N	N	N	N	N	N
+In plenum cable routing assemblies	Y	N	N	N	N	N	N	N	N	N
+Supported by open metal cable trays	Y	N	N	N	N	N	N	N	N	N
+Supported by solid bottom metal cable trays with solid metal covers	Y	Y	Y	Y	Y	Y	N	N	N	N
+In risers	In vertical runs	Y	Y	Y	N	N	N	N	N	N	N
+In metal raceways	Y	Y	Y	Y	Y	Y	N	N	N	N
+In fireproof shafts	Y	Y	Y	Y	Y	Y	N	N	N	N
+In plenum communications raceways	Y	Y	N	N	N	N	N	N	N	N
+In plenum cable routing assemblies	Y	Y	N	N	N	N	N	N	N	N
+In riser communications raceways	Y	Y	N	N	N	N	N	N	N	N
+In riser cable routing assemblies	Y	Y	N	N	N	N	N	N	N	N
+In one- and two-family dwellings	Y	Y	Y	Y	Y	Y	N	N	Y	N
+Within buildingsin other thanair-handlingspaces andrisers	General	Y	Y	Y	Y	Y	Y	N	N	N	N
+In one- and two-family dwellings	Y	Y	Y	Y	Y	Y	Y	N	Y	N
+In multifamily dwellings	Y	Y	Y	Y	Y	Y	Y	N	N	N
+In nonconcealed spaces	Y	Y	Y	Y	Y	Y	Y	N	N	N
+Supported by cable trays	Y	Y	Y	Y	Y	N	N	N	N	N
+Under carpet, modular flooring, and planks	N	N	N	N	N	N	Y	N	N	N
+In distributing frames and cross-connect arrays	Y	Y	N	Y	N	N	N	N	N	Y
+In rigid metal conduit (RMC) and intermediate metal conduit (IMC)	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y
+In any raceway recognized in Chapter 3	Y	Y	Y	Y	Y	Y	N	N	N	Y
+In plenum communications raceways	Y	Y	N	Y	N	N	N	N	N	Y
+In plenum cable routing assemblies	Y	Y	N	Y	N	N	N	N	N	Y
+In riser communications raceways	Y	Y	N	Y	N	N	N	N	N	Y
+In riser cable routing assemblies	Y	Y	N	Y	N	N	N	N	N	Y
+In general-purpose communications raceways	Y	Y	N	Y	N	N	N	N	N	Y
+In general-purpose cable routing assemblies	Y	Y	N	Y	N	N	N	N	N	Y
+Note: An "N" in the table indicates that the cable type shall not be permitted to be installed in the application. A "Y" indicates that the cable type shall be permitted to be installed in the application subject to the limitations described in 800.113. The Riser column includes all riser cables except BMR, and the General-Purpose column includes all general-purpose cables except BM.
+Informational Note No. 1: Part IV of Article 800 covers installation methods within buildings. This table covers the applications of listed communications wires, cables, and raceways in buildings. See the definition of Point of Entrance in 800.2.
+Informational Note No. 2: For information on the restrictions to the installation of communications cables in fabricated ducts, see 800.113(B).
+
+Applications	Listed Communications Raceways Type
+Plenum	Riser	General-Purpose
+In ducts specifically fabricated forenvironmental air as described in 300.22(B)	In fabricated ducts	N	N	N
+In metal raceway that complies with 300.22(B)	N	N	N
+In other spaces used for environmental air (plenums) as described in 300.22(C)	In other spaces used for environmental air	Y	N	N
+In metal raceway that complies with 300.22(C)	Y	Y	Y
+In plenum cable routing assemblies	N	N	N
+Supported by open metal cable trays	Y	N	N
+Supported by solid bottom metal cable trays with solid metal covers	Y	Y	Y
+In risers	In vertical runs	Y	Y	N
+In metal raceways	Y	Y	Y
+In fireproof shafts	Y	Y	Y
+In plenum cable routing assemblies	N	N	N
+In riser cable routing assemblies	N	N	N
+In one- and two-family dwellings	Y	Y	Y
+Within buildings in other than air-handling spaces and risers	General	Y	Y	Y
+In one- and two-family dwellings	Y	Y	Y
+In multifamily dwellings	Y	Y	Y
+In nonconcealed spaces	Y	Y	Y
+Supported by cable trays	Y	Y	Y
+Under carpet, modular flooring, and planks	N	N	N
+In distributing frames and cross-connect arrays	Y	Y	Y
+In any raceway recognized in Chapter 3	Y	Y	Y
+In plenum cable routing assemblies	N	N	N
+In riser cable routing assemblies	N	N	N
+In general-purpose cable routing assemblies	N	N	N
+Note: An "N" in the table indicates that the communications raceway type shall not be permitted to be installed in the application. A "Y" indicates that the communications raceway type shall be permitted to be installed in the application, subject to the limitations described in 800.110 and 800.113.
+
+Applications	Listed Cable Routing Assembly Type
+Plenum	Riser	General-Purpose
+In ducts specifically fabricated for environmental air as described in 300.22(B)	In fabricated ducts	N	N	N
+In metal raceway that complies with 300.22(B)	N	N	N
+In other spaces used for environmental air (plenums) as described in 300.22(C)	In other spaces used for environmental air	Y	N	N
+In metal raceway that complies with 300.22(C)	N	N	N
+In plenum communications raceways	N	N	N
+Supported by open metal cable trays	Y	N	N
+Supported by solid bottom metal cable trays with solid metal covers	N	N	N
+In risers	In vertical runs	Y	Y	N
+In metal raceways	N	N	N
+In fireproof shafts	Y	Y	Y
+In plenum communications raceways	N	N	N
+In riser communications raceways	N	N	N
+In one- and two-family dwellings	Y	Y	Y
+Within buildings in other thanair-handling spaces and risers	General	Y	Y	Y
+In one- and two-family dwellings	Y	Y	Y
+In multifamily dwellings	Y	Y	Y
+In nonconcealed spaces	Y	Y	Y
+Supported by cable trays	Y	Y	Y
+Under carpet, modular flooring, and planks	N	N	N
+In distributing frames and cross-connect arrays	Y	Y	Y
+In any raceway recognized in Chapter 3	N	N	N
+In plenum communications raceways	N	N	N
+In riser communications raceways	N	N	N
+In general-purpose communications raceways	N	N	N
+Note: An "N" in the table indicates that the cable routing assembly type shall not be permitted to be installed in the application. A "Y" indicates that the cable routing assembly type shall be permitted to be installed in the application subject to the limitations described in 800.113.
+
+800.179 Plenum, Riser, General-Purpose, and Limited Use Cables
+(A) Plenum Cables
+(B) Riser Cables
+(C) General-Purpose Cables
+(D) Limited-Use Cables
+Reference Standard for Electrical Wires, Cables and Flexible Cords
+
+Part IV Listing Requirements
+800.180 Grounding Devices
+800.182 Cable Routing Assemblies and Communications Raceways
+Cable Routing Assemblies and Communications Raceways
+
+Type	Marking
+Plenum Cable Routing Assembly	Plenum Cable Routing Assembly
+Riser Cable Routing Assembly	Riser Cable Routing Assembly
+General-Purpose Cable Routing Assembly	General-Purpose Cable Routing Assembly
+
+Type	Marking
+Plenum Communications Raceway	Plenum Communications Raceway
+Riser Communications Raceway	Riser Communications Raceway
+General-Purpose Communications Raceway	General-Purpose Communications Raceway
+
+(A) Plenum Cable Routing Assemblies and Plenum Communications Raceways
+Standard Test Method for Surface Burning Characteristics of Building Materials,
+
+Standard Test Method for Surface Burning Characteristics of Building Materials
+
+Standard Method of Test for Flame Travel and Smoke of Wires and Cables for Use in Air-Handling Spaces
+
+Standard for the Installation of Air-Conditioning and Ventilating Systems
+
+(B) Riser Cable Routing Assemblies and Riser Communications Raceways
+Standard Test for Flame Propagation Height of Electrical and Optical-Fiber Cable Installed Vertically in Shafts
+
+(C) General-Purpose Cable Routing Assemblies and General-Purpose Communications Raceways
+resistant to the spread of fire
+
+Standard for Safety for Vertical-Tray Fire-Propagation and Smoke-Release Test for Electrical and Optical-Fiber Cables
+
+Article 805 Communications Circuits
+Part I General
+805.1 Scope
+805.2 Definitions
+805.18 Installation of Equipment
+Part II Wires and Cables Outside and Entering Buildings
+805.47 Underground Communications Wires and Cables Entering Buildings
+(A) Underground Systems With Electric Light, Power, Class 1, or Non-Power-Limited Fire Alarm Circuit Conductors
+(B) Underground Block Distribution
+805.48 Unlisted Cables Entering Buildings
+805.50 Circuits Requiring Primary Protectors
+(A) Insulation, Wires, and Cables
+(B) On Buildings
+(C) Entering Buildings
+Part III Protection
+805.90 Protective Devices
+(A) Application
+(1) Fuseless Primary Protectors
+(2) Fused Primary Protectors
+(B) Location
+(C) Hazardous (Classified) Locations
+(D) Secondary Protectors
+805.93 Grounding, Bonding, or Interruption of Non—Current-Carrying Metallic Sheath Members of Communications Cables
+(A) Entering Buildings
+(B) Terminating on the Outside of Buildings
+Part IV Installation Methods Within Buildings
+805.133 Installation of Communications Wires, Cables, and Equipment
+(A) Separation From Other Conductors
+(1) In Raceways, Cable Trays, Boxes, Cables, Enclosures, and Cable Routing Assemblies
+(2) Other Applications
+(B) Support of Communications Wires and Cables
+805.154 Substitutions of Listed Communications Wires, Cables, and Raceways, and Listed Cable Routing Assemblies
+Cable Type	Permitted Substitutions
+CMR	CMP
+CMG, CM	CMP, CMR
+CMX	CMP, CMR, CMG, CM
+
+805.156 Dwelling Unit Communications Outlet
+Part V Listing Requirements
+805.170 Equipment
+(A) Primary Protectors
+(B) Secondary Protectors
+(C) Plenum Grade Cable Ties
+805.173 Drop Wire and Cable
+805.179 Communications Wires and Cables
+Cable Marking	Type
+CMP	Communications plenum cable
+CMR	Communications riser cable
+CMG	Communications general-purpose cable
+CM	Communications general-purpose cable
+CMX	Communications cable, limited use
+CMUG	Under-carpet communications wire and cable
+Informational Note: Cable types are listed in descending order of fire performance.
+
+(A) General Requirements
+(B) Type CMUC Undercarpet Wires and Cables
+(C) Circuit Integrity (CI) Cable or Electrical Circuit Protective System
+(1) Circuit Integrity (CI) Cables
+(2) Fire-Resistive Cables
+(D) Types CMP-LP, CMR-LP, CMG-LP, and CM-LP Limited Power (LP) Cables
+(E) Communications Wires
+(F) Hybrid Power and Communications Cables
+(G) Optional Markings
+Article 810 Radio and Television Equipment
+Part I General
+810.1 Scope
+810.2 Definitions
+810.3 Other Articles
+810.4 Community Television Antenna
+810.5 Radio Noise Suppressors
+810.6 Antenna Lead-in Protectors
+810.7 Grounding Devices
+Part II Receiving Equipment — Antenna Systems
+810.11 Material
+810.12 Supports
+810.13 Avoidance of Contacts With Conductors of Other Systems
+810.14 Splices
+810.15 Grounding
+810.16 Size of Wire-Strung Antenna — Receiving Station
+(A) Size of Antenna Conductors
+	Minimum Size of Conductors (AWG) Where Maximum Open Span Length Is
+Material	Less Than 11 m (35 ft)	11 m to 45 m (35 ft to 150 ft)	Over 45 m (150 ft)
+Aluminum alloy, hard-drawn copper	19	14	12
+Copper-clad steel, bronze, or other high-strength material	20	17	14
+
+(B) Self-Supporting Antennas
+810.17 Size of Lead-in — Receiving Station
+810.18 Clearances — Receiving Stations
+(A) Outside of Buildings
+(B) Antennas and Lead-Ins — Indoors
+(C) In Boxes or Other Enclosures
+810.19 Electrical Supply Circuits Used in Lieu of Antenna — Receiving Stations
+810.20 Antenna Discharge Units — Receiving Stations
+(A) Where Required
+(B) Location
+(C) Grounding
+810.21 Bonding Conductors and Grounding Electrode Conductors — Receiving Stations
+(A) Material
+(B) Insulation
+(C) Supports
+(D) Physical Protection
+(E) Run in Straight Line
+(F) Electrode
+(1) In Buildings or Structures With an Intersystem Bonding Termination
+(2) In Buildings or Structures With Grounding Means
+(3) In Buildings or Structures Without an Intersystem Bonding Termination or Grounding Means
+(G) Inside or Outside Building
+(H) Size
+(I) Common Ground
+(J) Bonding of Electrodes
+(K) Electrode Connection
+Part III Amateur and Citizen Band Transmitting and Receiving Stations — Antenna Systems
+810.51 Other Sections
+810.52 Size of Antenna
+	Minimum Size of Conductors (AWG) Where Maximum Open Span Length Is
+Material	Less Than 45 m (150 ft)	Over 45 m (150 ft)
+Hard-drawn copper	14	10
+Copper-clad steel, bronze, or other high-strength material	14	12
+
+810.53 Size of Lead-in Conductors
+810.54 Clearance on Building
+810.55 Entrance to Building
+810.56 Protection Against Accidental Contact
+810.57 Antenna Discharge Units — Transmitting Stations
+810.58 Bonding Conductors and Grounding Electrode Conductors — Amateur and Citizen Band Transmitting and Receiving Stations
+(A) Other Sections
+(B) Size of Protective Bonding Conductor or Grounding Electrode Conductor
+(C) Size of Operating Bonding Conductor or Grounding Electrode Conductor
+Part IV Interior Installation — Transmitting Stations
+810.70 Clearance From Other Conductors
+810.71 General
+(A) Enclosing
+(B) Grounding of Controls
+(C) Interlocks on Doors
+Article 820 Community Antenna Television and Radio Distribution Systems
+Part I General
+820.1 Scope
+820.2 Definitions
+820.3 Other Articles
+(A) General Requirements
+(B) Alternate Wiring Methods
+820.15 Power Limitations
+Part II Coaxial Cables Outside and Entering Buildings
+820.44 Overhead (Aerial) Coaxial Cables
+(A) On Poles and In-Span, Above Roofs, on Masts, or Between Buildings
+(B) On Buildings
+(1) Electric Light or Power
+(2) Other Communications Systems
+820.47 Underground Coaxial Cables Entering Buildings
+(A) Underground Systems With Electric Light, Power, Class 1, or Non—Power-Limited Fire Alarm Circuit Conductors
+(B) Direct-Buried Cables and Raceways
+820.48 Unlisted Cables Entering Buildings
+Part III Protection
+820.93 Grounding of the Outer Conductive Shield of Coaxial Cables
+(A) Entering Buildings
+(B) Terminating Outside of the Building
+(C) Location
+(D) Hazardous (Classified) Locations
+Part IV Grounding Methods
+820.100 Cable Bonding and Grounding
+(A) General Requirements
+(B) Shield Protection Devices
+820.103 Equipment Grounding
+Part V Installation Methods Within Buildings
+820.133 Installation of Coaxial Cables and Equipment
+(A) Separation From Other Conductors
+(1) In Raceways, Cable Trays, Boxes, Enclosures, and Cable Routing Assemblies
+(2) Other Applications
+(B) Support of Coaxial Cables
+820.154 Substitutions of Listed CATV Cables
+Cable Marking	Permitted Substitutions
+CATVP	CMP, BLP
+CATVR	CATVP, CMP, CMR, BMR, BLP, BLR
+CATV	CATVP, CMP, CATVR, CMR, CMG, CM, BMR, BM, BLP, BLR, BL
+CATVX	CATVP, CMP, CATVR, CMR, CATV, CMG, CM, BMR, BM, BLP, BLR, BL, BLX
+
+Part VI Listing Requirements
+820.179 Coaxial Cables
+Cable Marking	Type
+CATVP	CATV plenum cable
+CATVR	CATV riser cable
+CATV	CATV cable
+CATVX	CATV cable, limited use
+
+(A) General Requirements
+(B) Optional Markings
+Article 830 Network-Powered Broadband Communications Systems
+Part I General
+830.1 Scope
+830.2 Definitions
+830.3 Other Articles
+(A) General Requirements
+(B) Output Circuits
+(C) Protection Against Physical Damage
+830.15 Power Limitations
+Network Power Source	Low	Medium
+Circuit voltage, Vmax (volts) 1	0—100	0—150
+Power limitation, VAmax (volt-amperes)1	250	250
+Current limitation, Imax (amperes)1	1000/Vmax	1000/Vmax
+Maximum power rating (volt-amperes)	100	100
+Maximum voltage rating (volts)	100	150
+Maximum overcurrent protection (amperes) 2	100/Vmax	NA
+1 Vmax, Imax, and VAmax are determined with the current-limiting impedance in the circuit (not bypassed) as follows:
+Vmax — Maximum system voltage regardless of load with rated input applied.
+Imax — Maximum system current under any noncapacitive load, including short circuit, and with overcurrent protection bypassed if used. Imax limits apply after 1 minute of operation.
+VAmax — Maximum volt-ampere output after 1 minute of operation regardless of load and overcurrent protection bypassed if used.
+2 Overcurrent protection is not required where the current-limiting device provides equivalent current limitation and the current-limiting device does not reset until power or the load is removed.
+
+830.24 Mechanical Execution of Work
+Part II Cables Outside and Entering Buildings
+830.40 Entrance Cables
+(A) Medium-Power Circuits
+(B) Low-Power Circuits
+830.44 Overhead (Aerial) Cables
+(A) On Poles and In-Span or Above Roofs
+(B) Clearance From Ground
+(C) Over Pools
+(D) Final Spans
+(E) Between Buildings
+(F) On Buildings
+(1) Electric Light or Power
+(2) Other Communications Systems
+(3) Protection From Damage
+830.47 Underground Network-Powered Broadband Communications Cables Entering Buildings
+(A) Underground Systems With Electric Light and Power, Class 1, or Non—Power-Limited Fire Alarm Circuit Conductors
+(B) Direct-Buried Cables and Raceways
+(C) Protection From Physical Damage
+Location of Wiring Method or Circuit	Direct Burial Cables		Rigid Metal Conduit (RMC) or Intermediate Metal Conduit (IMC)		Nonmetallic Raceways Listed for Direct Burial; Without Concrete Encasement or Other Approved Raceways
+mm	in.		mm	in.		mm	in.
+All locations not specified below	450	18		150	6		300	12
+In trench below 50-mm (2-in.) thick concrete or equivalent	300	12		150	6		150	6
+Under a building (in raceway only)	0	0		0	0		0	0
+Under minimum of 100-mm (4-in.) thick concrete exterior slab with no vehicular traffic and the slab extending not less than 150 mm (6 in.) beyond the underground installation	300	12		100	4		100	4
+One- and two-family dwelling driveways and outdoor parking areas and used only for dwelling-related purposes	300	12		300	12		300	12
+Notes:
+1. Raceways approved for burial only where concrete encased shall require a concrete envelope not less than 50 mm (2 in.) thick.
+2. Lesser depths shall be permitted where cables rise for terminations or splices or where access is otherwise required.
+3. Where solid rock is encountered, all wiring shall be installed in metal or nonmetallic raceway permitted for direct burial.
+The raceways shall be covered by a minimum of 50 mm (2 in.) of concrete extending down to rock.
+4. Low-power network-powered broadband communications circuits using directly buried community antenna television and radio distribution system coaxial cables that were installed outside and entering buildings prior to January 1, 2000, in accordance with Article 820 shall be permitted where buried to a minimum depth of 300 mm (12 in.).
+
+(D) Pools
+Part III Protection
+830.90 Primary Electrical Protection
+(A) Application
+(1) Fuseless Primary Protectors
+(2) Fused Primary Protectors
+(B) Location
+(C) Hazardous (Classified) Locations
+Part IV Grounding Methods
+830.93 Grounding or Interruption of Metallic Members of Network-Powered Broadband Communications Cables
+(A) Entering Buildings
+(B) Terminating Outside of the Building
+Part V Installation Methods Within Buildings
+830.133 Installation of Network-Powered Broadband Communications Cables and Equipment
+(A) Separation of Conductors
+(1) In Raceways, Cable Trays, Boxes, Enclosures, and Cable Routing Assemblies
+(2) Other Applications
+(B) Support of Network-Powered Broadband Communications Cables
+830.154 Substitutions of Network-Powered Broadband Communications System Cables
+Cable Type	Permitted Cable Substitutions
+BM	BMR
+BMP	CMP, CL3P
+BLR	CMP, CL3P, CMR, CL3R, BLP, BMR
+BL	CMP, CMR, CM, CMG, CL3P, CL3R, CL3, BMR, BM, BLP, BLR
+BLX	CMP, CMR, CM, CMG, CMX, CL3P, CL3R, CL3, CL3X, BMR, BM, BLP, BRP, BL
+
+830.160 Bends
+Part VI Listing Requirements
+830.179 Network-Powered Broadband Communications Equipment and Cables
+(A) General Requirements
+(B) Network-Powered Broadband Communications Medium-Power Cables
+(C) Network-Powered Broadband Communication Low-Power Cables
+(D) Optional Markings
+Article 840 Premises-Powered Broadband Communications Systems
+Part I General
+840.1 Scope
+840.2 Definitions
+840.3 Other Articles
+(A) General Requirements
+(B) Output Circuits
+(C) Electrical Classification of Data Circuits and Cables
+840.24 Mechanical Execution of Work
+840.25 Abandoned Cables
+840.26 Spread of Fire or Products of Combustion
+Part II Cables Outside and Entering Buildings
+840.47 Underground Wires and Cables Entering Buildings
+(A) Optical Fiber Cables
+(1) Class 1 or Non—Power-Limited Fire Alarm Circuits
+(2) Direct-Buried Cables
+(3) Mechanical Protection
+(B) Communications Wires and Cables
+(C) Coaxial Cables
+840.48 Unlisted Wires and Cables Entering Buildings
+(A) Optical Fiber Cables
+(B) Communications Wires and Cables
+(C) Coaxial Cables
+Part III Protection
+840.90 Protective Devices
+840.93 Grounding or Interruption
+(A) Non—Current-Carrying Metallic Members of Optical Fiber Cables
+(B) Communications Cables
+(C) Coaxial Cables
+840.94 Premises Circuits Leaving the Building
+Part IV Grounding Methods
+840.101 Premises Circuits Not Leaving the Building
+(A) Coaxial Cable Shield Grounding
+(B) Communications Circuit Grounding
+(C) Network Terminal Grounding
+840.102 Premises Circuits Leaving the Building
+Part V Installation Methods Within Buildings
+840.133 Installation of Optical Fibers and Electrical Conductors
+Part VI Premises Powering of Communications Equipment Over Communications Cables
+840.160 Powering Circuits
+Part VII Listing Requirements
+840.170 Equipment and Cables
+(A) Network Terminal
+(B) Optical Fiber Cables
+(C) Communications Equipment
+(D) Cable Routing Assemblies and Communications Raceways
+(E) Premises Communications Wires and Cables
+(F) Premises Community Antenna Television (CATV) Circuits
+(G) Power Source
+(H) Accessory Equipment

@@ -1,0 +1,384 @@
+Informative Annex B Application Information for Ampacity Calculation
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	DPH
+1	2	AC	SS	SS/CC	1	1R	2	3	4	5	
+Adopt Entire Article															
+Adopt entire Article as amended(amended sections listed below)															
+Adopt only those sections that are listed below			X												
+Article/Section
+Annex A			X												
+Annex B			X												
+
+B.1 Equation Application Information
+B.2 Typical Applications Covered by Tables
+Size (AWG or kcmil)	Temperature Rating of Conductor. [See Table 310.4(A).]	Size (AWG or kcmil)
+60°C (140°F)	75°C (167 °F)	90°C (194°F)	60°C (140°F)	75°C (167 °F)	90°C (194°F)
+Types TW, UF	Types RHW, THHW, THW, THWN, XHHW, ZW	Types THHN, THHW, THW-2, THWN-2, RHH, RWH-2, USE-2, XHHW, XHHW-2, ZW-2	Type TW	Types RHW, THHW, THW, THWN, XHHW	Types THHN, THHW, THW-2, THWN-2, RHH, RWH-2, USE-2, XHHW, XHHW-2, ZW-2
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+14**	16	18	21	—	—	—	14
+12**	20	24	27	16	18	21	12
+10**	27	33	36	21	25	28	10
+8	36	43	48	28	33	37	8
+6	48	58	65	38	45	51	6
+4	66	79	89	51	61	69	4
+3	76	90	102	59	70	79	3
+2	88	105	119	69	83	93	2
+1	102	121	137	80	95	106	1
+1/0	121	145	163	94	113	127	1/0
+2/0	138	166	186	108	129	146	2/0
+3/0	158	189	214	124	147	167	3/0
+4/0	187	223	253	147	176	197	4/0
+250	205	245	276	160	192	217	250
+300	234	281	317	185	221	250	300
+350	255	305	345	202	242	273	350
+400	274	328	371	218	261	295	400
+500	315	378	427	254	303	342	500
+600	343	413	468	279	335	378	600
+700	376	452	514	310	371	420	700
+750	387	466	529	321	384	435	750
+800	397	479	543	331	397	450	800
+900	415	500	570	350	421	477	900
+1000	448	542	617	382	460	521	1000
+*Refer to 310.15 for the ampacity correction factors where the ambient temperature is other than 30°C (86°F).
+**Refer to 240.4(D) for conductor overcurrent protection limitations.
+
+Size (AWG or kcmil)	Temperature Rating of Conductor. [See Table 310.4(A).]	Size (AWG or kcmil)
+60°C (140°F)	75°C (167°F)	85°C (185°F)	90°C (194°F)	60°C (140°F)	75°C (167°F)	85°C (185°F)	90°C (194°F)
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+18	—	—	—	11	—	—	—	—	18
+16	—	—	—	16	—	—	—	—	16
+14**	18	21	24	25	—	—	—	—	14
+12**	21	28	30	32	18	21	24	25	12
+10**	28	36	41	43	21	28	30	32	10
+8	39	50	56	59	30	39	44	46	8
+6	52	68	75	79	41	53	59	61	6
+4	69	89	100	104	54	70	78	81	4
+3	81	104	116	121	63	81	91	95	3
+2	92	118	132	138	72	92	103	108	2
+1	107	138	154	161	84	108	120	126	1
+1/0	124	160	178	186	97	125	139	145	1/0
+2/0	143	184	206	215	111	144	160	168	2/0
+3/0	165	213	238	249	129	166	185	194	3/0
+4/0	190	245	274	287	149	192	214	224	4/0
+250	212	274	305	320	166	214	239	250	250
+300	237	306	341	357	186	240	268	280	300
+350	261	337	377	394	205	265	296	309	350
+400	281	363	406	425	222	287	317	334	400
+500	321	416	465	487	255	330	368	385	500
+600	354	459	513	538	284	368	410	429	600
+700	387	502	562	589	306	405	462	473	700
+750	404	523	586	615	328	424	473	495	750
+800	415	539	604	633	339	439	490	513	800
+900	438	570	639	670	362	469	514	548	900
+1000	461	601	674	707	385	499	558	584	1000
+*Refer to 310.15 for the ampacity correction factors where the ambient temperature is other than 40°C (104°F).
+**Refer to 240.4(D) for conductor overcurrent protection limitations.
+
+Size (kcmil)	3 Electrical Ducts [Fig. B.2(1), Detail 2]	6 Electrical Ducts [Fig. B.2(1), Detail 3]	9 Electrical Ducts [Fig. B.2(1), Detail 4]	3 Electrical Ducts [Fig. B.2(1), Detail 2]	6 Electrical Ducts Fig. B.2(1), Detail 3]	9 Electrical Ducts [Fig. B.2(1), Detail 4]	Size (kcmil)
+Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	
+	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	
+	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	
+	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	
+250	410	344	327	386	295	275	369	270	252	320	269	256	302	230	214	288	211	197	250
+350	503	418	396	472	355	330	446	322	299	393	327	310	369	277	258	350	252	235	350
+500	624	511	484	583	431	400	545	387	360	489	401	379	457	337	313	430	305	284	500
+750	794	640	603	736	534	494	674	469	434	626	505	475	581	421	389	538	375	347	750
+1000	936	745	700	864	617	570	776	533	493	744	593	557	687	491	453	629	432	399	1000
+1250	1055	832	781	970	686	632	854	581	536	848	668	627	779	551	508	703	478	441	1250
+1500	1160	907	849	1063	744	685	918	619	571	941	736	689	863	604	556	767	517	477	1500
+1750	1250	970	907	1142	793	729	975	651	599	1026	796	745	937	651	598	823	550	507	1750
+2000	1332	1027	959	1213	836	768	1030	683	628	1103	850	794	1005	693	636	877	581	535	2000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	0.90	79—86
+
+Size (AWG or kcmil)	1 Electrical Duct [Fig. B.2(1), Detail 1]	3 Electrical Ducts [Fig. B.2(1), Detail 2]	6 Electrical Ducts [Fig. B.2(1), Detail 3]	1 Electrical Duct [Fig. B.2(1), Detail 1]	3 Electrical Ducts [Fig. B.2(2), Detail 2]	6 Electrical Ducts [Fig. B.2(1), Detail 3]	Size (AWG or kcmil)
+Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW,USE	Types RHW, THHW, THW, THWN, XHHW, USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	
+	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	
+	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	
+	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	
+8	58	54	53	56	48	46	53	42	39	45	42	41	43	37	36	41	32	30	8
+6	77	71	69	74	63	60	70	54	51	60	55	54	57	49	47	54	42	39	6
+4	101	93	91	96	81	77	91	69	65	78	72	71	75	63	60	71	54	51	4
+2	132	121	118	126	105	100	119	89	83	103	94	92	98	82	78	92	70	65	2
+1	154	140	136	146	121	114	137	102	95	120	109	106	114	94	89	107	79	74	1
+1/0	177	160	156	168	137	130	157	116	107	138	125	122	131	107	101	122	90	84	1/0
+2/0	203	183	178	192	156	147	179	131	121	158	143	139	150	122	115	140	102	95	2/0
+3/0	233	210	204	221	178	158	205	148	137	182	164	159	172	139	131	160	116	107	3/0
+4/0	268	240	232	253	202	190	234	168	155	209	187	182	198	158	149	183	131	121	4/0
+250	297	265	256	280	222	209	258	184	169	233	207	201	219	174	163	202	144	132	250
+350	363	321	310	340	267	250	312	219	202	285	252	244	267	209	196	245	172	158	350
+500	444	389	375	414	320	299	377	261	240	352	308	297	328	254	237	299	207	190	500
+750	552	478	459	511	388	362	462	314	288	446	386	372	413	314	293	374	254	233	750
+1000	628	539	518	579	435	405	522	351	321	521	447	430	480	361	336	433	291	266	1000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	0.90	79—86
+
+Size (AWG or kcmil)	1 Electrical Duct [Fig. B.2(1), Detail 1]	3 Electrical Ducts [Fig. B.2(1), Detail 2]	6 Electrical Ducts [Fig. B.2(1), Detail 3]	1 Electrical Duct [Fig. B.2(1), Detail 1]	3 Electrical Ducts [Fig. B.2(1), Detail 2]	6 Electrical Ducts [Fig. B.2(1), Detail 3]	Size (AWG or kcmil)
+Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE	Types RHW, THHW, THW, THWN, XHHW, USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	RHO	
+	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	60	90	120	
+	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	LF	
+	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	50	100	100	
+8	63	58	57	61	51	49	57	44	41	49	45	44	47	40	38	45	34	32	8
+6	84	77	75	80	67	63	75	56	53	66	60	58	63	52	49	59	44	41	6
+4	111	100	98	105	86	81	98	73	67	86	78	76	79	67	63	77	57	52	4
+3	129	116	113	122	99	94	113	83	77	101	91	89	83	77	73	84	65	60	3
+2	147	132	128	139	112	106	129	93	86	115	103	100	108	87	82	101	73	67	2
+1	171	153	148	161	128	121	149	106	98	133	119	115	126	100	94	116	83	77	1
+1/0	197	175	169	185	146	137	170	121	111	153	136	132	144	114	107	133	94	87	1/0
+2/0	226	200	193	212	166	156	194	136	126	176	156	151	165	130	121	151	106	98	2/0
+3/0	260	228	220	243	189	177	222	154	142	203	178	172	189	147	138	173	121	111	3/0
+4/0	301	263	253	280	215	201	255	175	161	235	205	198	219	168	157	199	137	126	4/0
+250	334	290	279	310	236	220	281	192	176	261	227	218	242	185	172	220	150	137	250
+300	373	321	308	344	260	242	310	210	192	293	252	242	272	204	190	245	165	151	300
+350	409	351	337	377	283	264	340	228	209	321	276	265	296	222	207	266	179	164	350
+400	442	376	361	394	302	280	368	243	223	349	297	284	321	238	220	288	191	174	400
+500	503	427	409	460	341	316	412	273	249	397	338	323	364	270	250	326	216	197	500
+600	552	468	447	511	371	343	457	296	270	446	373	356	408	296	274	365	236	215	600
+700	602	509	486	553	402	371	492	319	291	488	408	389	443	321	297	394	255	232	700
+750	632	529	505	574	417	385	509	330	301	508	425	405	461	334	309	409	265	241	750
+800	654	544	520	597	428	395	527	338	308	530	439	418	481	344	318	427	273	247	800
+900	692	575	549	628	450	415	554	355	323	563	466	444	510	365	337	450	288	261	900
+1000	730	605	576	659	472	435	581	372	338	597	494	471	538	385	355	475	304	276	1000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	0.90	79—86
+
+Size (AWG or kcmil)	1 Cable[Fig. B.2(1), Detail 5]	2 Cables[Fig. B.2(1), Detail 6]	1 Cable[Fig. B.2(1), Detail 5]	2 Cables[Fig. B.2(1), Detail 6]	Size (AWG or kcmil)
+60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)
+TYPES	TYPES
+UF	RHW, THHW, THW, THWN, XHHW, USE	UF	RHW, THHW, THW, THWN, XHHW, USE	UF	RHW, THHW, THW, THWN, XHHW, USE	UF	RHW, THHW, THW, THWN, XHHW, USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+8	64	75	60	70	51	59	47	55	8
+6	85	100	81	95	68	75	60	70	6
+4	107	125	100	117	83	97	78	91	4
+2	137	161	128	150	107	126	110	117	2
+1	155	182	145	170	121	142	113	132	1
+1/0	177	208	165	193	138	162	129	151	1/0
+2/0	201	236	188	220	157	184	146	171	2/0
+3/0	229	269	213	250	179	210	166	195	3/0
+4/0	259	304	241	282	203	238	188	220	4/0
+250	—	333	—	308	—	261	—	241	250
+350	—	401	—	370	—	315	—	290	350
+500	—	481	—	442	—	381	—	350	500
+750	—	585	—	535	—	473	—	433	750
+1000	—	657	—	600	—	545	—	497	1000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.12	1.09	1.12	1.09	1.12	1.09	1.12	1.09	43—50
+11—15	1.06	1.04	1.06	1.04	1.06	1.04	1.06	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.94	0.95	0.94	0.95	0.94	0.95	0.94	0.95	70—77
+26—30	0.87	0.90	0.87	0.90	0.87	0.90	0.87	0.90	79—86
+Note: For ampacities of Type UF cable in underground electrical ducts, multiply the ampacities shown in the table by 0.74.
+
+Size (AWG or kcmil)	See Fig. B.2(1), Detail 7	See Fig. B.2(1), Detail 8	See Fig. B.2(1), Detail 7	See Fig. B.2(1), Detail 8	Size (AWG or kcmil)
+60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)
+TYPES	TYPES
+UF	USE	UF	USE	UF	USE	UF	USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+8	72	84	66	77	55	65	51	60	8
+6	91	107	84	99	72	84	66	77	6
+4	119	139	109	128	92	108	85	100	4
+2	153	179	140	164	119	139	109	128	2
+1	173	203	159	186	135	158	124	145	1
+1/0	197	231	181	212	154	180	141	165	1/0
+2/0	223	262	205	240	175	205	159	187	2/0
+3/0	254	298	232	272	199	233	181	212	3/0
+4/0	289	339	263	308	226	265	206	241	4/0
+250	—	370	—	336	—	289	—	263	250
+350	—	445	—	403	—	349	—	316	350
+500	—	536	—	483	—	424	—	382	500
+750	—	654	—	587	—	525	—	471	750
+1000	—	744	—	665	—	608	—	544	1000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.12	1.09	1.12	1.09	1.12	1.09	1.12	1.09	43—50
+11—15	1.06	1.04	1.06	1.04	1.06	1.04	1.06	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.94	0.95	0.94	0.95	0.94	0.95	0.94	0.95	70—77
+26—30	0.87	0.90	0.87	0.90	0.87	0.90	0.87	0.90	79—86
+
+Size (AWG or kcmil)	See Fig. B.2(1), Detail 9	See Fig. B.2(1), Detail 10	See Fig. B.2(1), Detail 9	See Fig. B.2(1), Detail 10	Size (AWG or kcmil)
+60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)	60°C (140°F)	75°C (167°F)
+TYPES	TYPES
+UF	USE	UF	USE	UF	USE	UF	USE
+COPPER	ALUMINUM OR COPPER-CLAD ALUMINUM
+8	84	98	78	92	66	77	61	72	8
+6	107	126	101	118	84	98	78	92	6
+4	139	163	130	152	108	127	101	118	4
+2	178	209	165	194	139	163	129	151	2
+1	201	236	187	219	157	184	146	171	1
+1/0	230	270	212	249	179	210	165	194	1/0
+2/0	261	306	241	283	204	239	188	220	2/0
+3/0	297	348	274	321	232	272	213	250	3/0
+4/0	336	394	309	362	262	307	241	283	4/0
+250	—	429	—	394	—	335	—	308	250
+350	—	516	—	474	—	403	—	370	350
+500	—	626	—	572	—	490	—	448	500
+750	—	767	—	700	—	605	—	552	750
+1000	—	887	—	808	—	706	—	642	1000
+1250	—	979	—	891	—	787	—	716	1250
+1500	—	1063	—	965	—	862	—	783	1500
+1750	—	1133	—	1027	—	930	—	843	1750
+2000	—	1195	—	1082	—	990	—	897	2000
+Ambient Temp. (°C)	Correction Factors	Ambient Temp. (°F)
+6—10	1.12	1.09	1.12	1.09	1.12	1.09	1.12	1.09	43—50
+11—15	1.06	1.04	1.06	1.04	1.06	1.04	1.06	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.94	0.95	0.94	0.95	0.94	0.95	0.94	0.95	70—77
+26—30	0.87	0.90	0.87	0.90	0.87	0.90	0.87	0.90	79—86
+
+Number of Conductors*	Percent of Values in Tables as Adjusted for Ambient Temperature if Necessary
+4—6	80
+7—9	70
+10—24	70**
+25—42	60**
+43—85	50**
+*Number of conductors is the total number of conductors in the raceway or cable adjusted in accordance with 310.15(D) and (E).
+**These factors include the effects of a load diversity of 50 percent.
+
+Design Criteria
+Neutral and Equipment 
+
+Grounding conductor (EGC)
+
+
+Duct = 150 mm (6 in.)
+
+Phase Ducts = 75 to 125 mm (3 to 5 in.)
+Conductor Material = Copper
+Number of Cables per Duct = 3	Number of Cables per Phase = 9
+Rho Concrete = Rho Earth — 5
+Rho PVC Duct = 650
+Rho Cable Insulation = 500
+Rho Cable Jacket = 650
+
+Size kcmil	TYPESRHW, THHW, THW, THWN, XHHW, USE, OR MV-90*	Size kcmil
+Total per Phase Ampere Rating
+RHO EARTH 60 LF 50	RHO EARTH 90 LF 100	RHO EARTH 120 LF 100
+250	2340
+(260A/Cable)	1530
+(170A/Cable)	1395
+(155A/Cable)	250
+350	2790
+(310A/Cable)	1800
+(200A/Cable)	1665
+(185A/Cable)	350
+500	3375
+(375A/Cable)	2160
+(240A/Cable)	1980
+(220A/Cable)	500
+
+Ambient Temp. (°C)	For ambient temperatures other than 20°C (68°F), multiply the ampacities shown above by the appropriate factor shown below.	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	79—86
+*Limited to 75°C conductor temperature.
+
+Design Criteria
+Neutral and Equipment 
+
+Grounding conductor (EGC)
+
+
+Duct = 150 mm (6 in.)
+
+Phase Ducts = 75 mm (3 in.)
+Conductor Material = Copper
+Number of Cables per Duct = 1	Number of Cables per Phase = 4
+Rho Concrete = Rho Earth — 5
+Rho PVC Duct = 650
+Rho Cable Insulation = 500
+Rho Cable Jacket = 650
+
+Size kcmil	TYPESRHW, THHW, THW, THWN, XHHW, USE, OR MV-90*	Size kcmil
+Total per Phase Ampere Rating
+RHO EARTH 60 LF 50	RHO EARTH 90 LF 100	RHO EARTH 120 LF 100
+750	2820
+(705A/Cable)	1860
+(465A/Cable)	1680
+(420A/Cable)	750
+1000	3300
+(825A/Cable)	2140
+(535A/Cable)	1920
+(480A/Cable)	1000
+1250	3700
+(925A/Cable)	2380
+(595A/Cable)	2120
+(530A/Cable)	1250
+1500	4060
+(1015A/Cable)	2580
+(645A/Cable)	2300
+(575A/Cable)	1500
+1750	4360
+(1090A/Cable)	2740
+(685A/Cable)	2460
+(615A/Cable)	1750
+
+Ambient Temp. (°C)	For ambient temperatures other than 20°C (68°F), multiply the ampacities shown above by the appropriate factor shown below.	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	79—86
+*Limited to 75°C conductor temperature.
+
+Design Criteria
+Neutral and Equipment 
+
+Grounding conductor (EGC)
+
+
+Duct = 150 mm (6 in.)
+
+Phase Ducts = 75 mm (3 in.)
+Conductor Material = Copper
+Number of Cables per Duct = 1	Number of Cables per Phase = 5
+Rho Concrete = Rho Earth — 5
+Rho PVC Duct = 650
+Rho Cable Insulation = 500
+Rho Cable Jacket = 650
+
+Size kcmil	TYPESRHW, THHW, THW, THWN, XHHW, USE, OR MV-90*	Size kcmil
+Total per Phase Ampere Rating
+RHO EARTH 60 LF 50	RHO EARTH 90 LF 100	RHO EARTH 120 LF 100
+2000	5575
+(1115A/Cable)	3375
+(675A/Cable)	3000
+(600A/Cable)	2000
+
+Ambient Temp. (°C)	For ambient temperatures other than 20°C (68°F), multiply the ampacities shown above by the appropriate factor shown below.	Ambient Temp. (°F)
+6—10	1.09	1.09	1.09	1.09	1.09	43—50
+11—15	1.04	1.04	1.04	1.04	1.04	52—59
+16—20	1.00	1.00	1.00	1.00	1.00	61—68
+21—25	0.95	0.95	0.95	0.95	0.95	70—77
+26—30	0.90	0.90	0.90	0.90	0.90	79—86
+*Limited to 75°C conductor temperature.
+
+B.3 Criteria Modifications
+B.4 Electrical Ducts
+B.5 Table B.2(6) and Table B.2(7)
+B.6 Electrical Ducts Used in Figure B.2(1)
+B.7 Examples Showing Use of Figure B.3 for Electrical Duct Bank Ampacity Modifications
+A1	=	ampacity from Table 310.16, Table 310.18, Table B.2(1), Table B.2(6), or Table B.2(7) multiplied by the appropriate adjustment factor from Table B. 2(11).
+N	=	total number of conductors used to select adjustment factor from Table B. 2(11)
+E	=	number of conductors carrying current simultaneously in the raceway or cable
+A2	=	ampacity limit for the current-carrying conductors in the raceway or cable
+

@@ -1,0 +1,391 @@
+CHAPTER 12-7-1 FIRE-RESISTIVE STANDARDS
+
+FIRE TESTS OF BUILDING CONSTRUCTION AND MATERIALS STANDARD 12-7-1
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-7-100.
+
+(a)This standard for fire tests contains methods that are applicable to assemblies of masonry units and to composite assemblies of structural materials for buildings, including bearing and other walls and partitions, columns, girders, beams, slabs and composite slab and beam assemblies for floors and roofs. They are also applicable to other assemblies and structural units that constitute permanent integral parts of a finished building.
+
+(b)It is the intent that classifications shall register performance during the period of exposure and shall not be construed as having determined suitability for use after exposure.
+
+FIRE TESTING FURNACES AND CONTROL
+
+Sec. 12-7-101.
+
+Fire testing furnaces and their control shall conform to SFM 12-7-1, Fire Testing Furnaces.
+
+UNEXPOSED SURFACE TEMPERATURES
+
+Sec. 12-7-102.
+
+(a)Thermocouples. Temperatures of unexposed surfaces shall be measured with thermocouples placed under flexible, oven-dry, felted asbestos pads, 6 inches square (645 mm2), 0.4 inch (10 mm) in thickness, and weighing not less than 1.0 nor more than 1.4 pounds per square foot. The pads shall be sufficiently soft so that, without breaking, they may be shaped to contact over the whole surface against which they are placed. The wire leads of the thermocouple shall have an immersion under the pad and be in contact with the unexposed surface for not less than 31/2 inches (89 mm). The hot junction of the thermocouple shall be placed approximately under the center of the pad. The outside diameter of protecting or insulating tubes shall not be more than 5/16 inch (8 mm). The pad shall be held firmly against the surface and shall fit closely about the thermocouples. The wires for the thermocouple in the length covered by the pad shall be not heavier than No. 18 B.&S. gage [0.04 inch (1 mm)] and shall be electrically insulated and heat- and moisture-resistant coatings.
+
+Note: In tests of assemblies with roof coverings, the thermocouples and pads shall be placed on top of the roof covering.
+
+(b)Ceiling-floor, ceiling-roof assemblies. Temperature readings shall be taken in the center of the plenum, on the bottom side of the floor or roof deck, and on the structural members in fire-endurance tests of ceiling-floor and ceiling-roof assemblies. Thermocouples shall be located on structural steel as specified in Section 12-7-110 (c). In combustible assemblies five or more thermocouples shall be located on the bottom of soffit of joists or beams. Thermocouples shall be placed in representative locations such as at midspan, over joints in the ceiling, over light fixtures, over air-outlet openings or similar locations.
+
+(c)Thermocouple locations on unexposed side. Temperature readings shall be taken at not less than nine points on the surface of the unexposed side. Five of these shall be symmetrically disposed, one to be approximately at the center of the specimen and four at approximately the center of its quarter sections. The other four shall be located at the discretion of the testing authority to obtain representative information on the performance of the construction under test. None of the thermocouples shall be located nearer than 11/2 times the thickness of the construction, or nearer than 12 inches (305 mm) to the edges. An exception shall be made in those cases where there is an element of the construction at the edges which is not otherwise represented in the remainder of the construction. Also, none of the thermocouples shall be located opposite or on top of beams, girders, pilasters or other structural members if temperatures at such points will obviously be lower than at other more representative locations.
+
+(d)Temperature intervals. Temperature readings shall be taken at intervals not exceeding 15 minutes until a reading exceeding 212°F (100°C) has been obtained at any one point. Thereafter the readings may be taken more frequently at the discretion of the testing body, but the intervals need not be less than 5 minutes.
+
+(e)Maximum unexposed temperature rise. Where the conditions of acceptance place a limitation on the rise of temperature of the unexposed surface, the temperature end point of the fire endurance period shall be determined by the average of the measurements taken at individual points; except that if a temperature rise 30 percent in excess of the specified limit occurs at any one of these points, the remainder shall be ignored and the fire endurance period judged as ended.
+
+CLASSIFICATION AS DETERMINED BY TEST
+
+Sec. 12-7-103.
+
+(a)Fire exposure report. Results shall be reported in accordance with the performance tests prescribed in these methods. They shall be expressed in time periods of resistance, to the nearest integral minute. Reports shall include observations of significant details of behavior of the material or construction during the test and after the furnace fire is cut off, including information on deformation, spalling, cracking, burning of the specimen or its component parts, continuance of flaming and production of smoke. The form and contents of reports shall be in accordance with Section 12-7-115.
+
+(b)Structural fire report. Reports of tests involving wall, ceiling-floor, ceiling-roof or beam constructions in which restraint is provided against expansion, contraction or rotation of the construction shall describe the method used to provide this restraint and include details of the restraining frame as well as information recorded during the test concerning the forces imposed on that structure by the test specimen.
+
+TEST SPECIMEN
+
+Sec. 12-7-104.
+
+(a)Representative specimen. The test specimen shall be truly representative of the construction for which classification is desired, as to materials, workmanship and details such as dimensions of parts, and shall be built under conditions representative of those obtaining as practically applied in building construction and operations. The physical properties of the materials and ingredients used in the test specimen shall be determined and recorded. When necessary for evaluation of test reports, the sponsor shall furnish them to the enforcing agency.
+
+(b)Specimen size. The size and dimensions of the test specimen specified herein are intended to apply for rating constructions of dimensions within the usual general range employed in buildings. If the conditions of use limit the construction to smaller dimensions, a proportionate reduction may be made in the dimensions of the specimens for a test qualifying them for such restricted use.
+
+DURATION AND CONDUCT OF TESTS
+
+Sec. 12-7-105.
+
+(a)Fire endurance. The fire endurance test on the specimen with its applied load, if any, shall be continued until failure occurs, or until the specimen has withstood the test conditions for a period equal to that herein specified in the conditions of acceptance for the given type of construction.
+
+(b)Hose stream test. Where required by the conditions of acceptance, a duplicate sample shall be subjected to a fire exposure test for a period equal to one-half of that indicated as the resistance period in the fire endurance test, but not for more than 1 hour, immediately after which the sample shall be subjected to the impact, erosion and cooling effects of a hose stream directed first at the middle and then at all parts of the exposed face, changes in direction being made slowly.
+
+(c)Exemption. The hose stream shall not be required in the case of constructions having a resistance period, indicated in the fire endurance test, of less than 1 hour.
+
+(d)Optional program. The submitter may elect, with the advice and consent of the testing body, to have the hose stream test made on the sample subjected to the fire endurance test and immediately following the expiration of the fire endurance test.
+
+(e)Stream equipment and details. The stream shall be delivered through 21/2-inch (63.5 mm) hose, discharging through a National Standard Play Pipe of corresponding size equipped with a 11/8-inch (22 mm) discharge tip of the standard-taper, smooth-bore pattern without shoulder at the orifice. The water pressure and duration of application shall be as specified in Table SFM 12-7-1A.
+
+(f)Nozzle distance. The nozzle orifice shall be 20 feet (6096 mm) from the center of the exposed surface of the test sample if the nozzle is so located that, when directed at the center, its axis is normal to the surface of the test sample. If otherwise located, its distance from the center shall be less than 20 feet  (6096 mm) by an amount equal to 1 foot (305 mm) for each 10 degrees of deviation from the normal.
+
+(g)Protection and conditioning of test specimen. The test specimen shall be protected during and after fabrication to ensure normality of its quality and condition at the time of test. It shall not be tested until a large portion of its final strength has been attained, and if it contains moisture, until the excess has been removed to achieve an air-dry condition in accordance with the requirements given in Items 1 through 3. The testing equipment and sample undergoing the fire test shall be protected from any condition of wind or weather that might lead to abnormal results. The ambient air temperature at the beginning of the test shall be within the range of 50 to 90°F (10 to 32°C). The velocity of air across the unexposed surface of the sample, measured just before the test begins, shall not exceed 4.4 feet per second, as determined by an anemometer placed at right angles to the unexposed surface. If mechanical ventilation is employed during the test, an air stream shall not be directed across the surface of the specimen.
+
+1.Prior to the fire test, constructions shall be conditioned with the objective of providing, within a reasonable time, a moisture condition within the specimen approximately representative of that likely to exist in similar constructions in buildings. For purposes of standardization, this condition is to be considered as that which would be established at equilibrium resulting from drying in an ambient atmosphere of 50 percent relative humidity at 73°F (23°C). However, with some constructions, it may be difficult or impossible to achieve such uniformity within a reasonable period of time. Accordingly, where this is the case, specimens may be tested when the dampest portion of the structure, the portion at 6-inch (152 mm) depth below the surface of massive constructions, has achieved a moisture content corresponding to drying to equilibrium with air in the range of 50 to 75 percent relative humidity at 73 ± 5°F. In the event that specimens dried in a heated building fail to meet these requirements after a 12-month conditioning period, or in the event that the nature of the construction is such that it is evident that drying of the specimen interior will be prevented by hermetic sealing, these requirements may be waived, except as to attainment of a large portion of final strength, and in the specimen tested in the condition in which it then exists.
+
+2.Specimens shall be exposed to the controlled conditions outlined in Item 1 until the interior or dampest section of the assembly attains a relative humidity of 75 percent or less. If during the conditioning of the specimen it appears desirable or is necessary to use accelerated drying techniques, it is the responsibility of the laboratory conducting the test to avoid procedures which will significantly alter the structural or fire endurance characteristics of the specimen or both from those produced as the result of drying in accordance with procedures given in Item 1.
+
+3.Within 72 hours prior to the fire test, information on the actual moisture content and distribution within the specimen shall be obtained. This information shall be included in the test report.
+
+TESTS OF BEARING WALLS AND PARTITIONS
+
+Sec. 12-7-106.
+
+(a)Size of sample. The area exposed to fire shall be not less than 100 square feet (9.3 m2) with neither dimension less than 9 feet (2743 mm). The test specimen shall not be restrained on its vertical edges. The fire testing furnace, its arrangement and control during fire tests shall conform to SFM 12-7-3, Section 12-7-301 (a), Vertical Large-scale Wall Furnace.
+
+(b)Loading. During the fire endurance test, and fire and hose stream test, a superimposed lead shall be applied to the construction in a manner calculated to develop theoretically, as nearly as practicable, the working stresses contemplated by the design.
+
+(c)Conditions of acceptance. The test shall be regarded as successful if the following conditions are met:
+
+1.The wall or partition shall have sustained the applied load during the fire endurance test without passage of flame or gases hot enough to ignite conditioned cotton waste, for a period equal to that for which classification is desired.
+
+Note: Cotton waste shall be conditioned by drying in an oven at a temperature of 120°F (49°C) for a period of not less than 1 hour prior to the test.
+
+2.The wall or partition shall have sustained the applied load during the fire and hose stream test as specified in Section 12-7-105, without passage of flame, of gases hot enough to ignite cotton waste, or passage of the hose stream, and after cooling but within 72 hours after its completion shall sustain the dead lead of the test construction plus twice the superimposed load specified above.
+
+3.Transmission of heat through the wall or partition during the fire endurance test shall not have been such as to raise the temperature on its unexposed surface more than 250°F (139°C) above its initial temperature.
+
+4.Deflection of the wall or partition during the fire endurance test shall not exceed 6 inches (152 mm). The deflection of specimens varying from the dimensions given in Section 12-7-106 (a) shall be determined proportionately.
+
+TESTS OF NONBEARING WALLS AND PARTITIONS
+
+Sec. 12-7-107.
+
+(a)Size of sample. The area exposed to fire shall be not less than 100 square feet (9.3 m2), with neither dimension less than 9 feet (2743 mm). The test specimen shall be restrained on all four edges. The fire testing furnace, its arrangement and control during fire tests shall conform to SFM 12-7-3, Section 12-7-301 (a), Vertical Large-scale Wall Furnace.
+
+(b)Conditions of acceptance. The test shall be regarded as successful if the following conditions are met:
+
+1.The wall or partition shall have withstood the fire endurance test without passage of flame or gases hot enough to ignite conditioned cotton waste, for a period equal to that for which classification is desired.
+
+Note: Cotton waste shall be conditioned by drying in an oven at a temperature of 120°F (49°C) for a period of not less than 1 hour prior to the test.
+
+2.The wall or partition shall have withstood the fire and hose stream test as specified in Section 12-7-105 without passage of flame, of gases hot enough to ignite cotton waste, or passage of the hose stream.
+
+3.Transmission of heat through the wall or partition during the fire endurance test shall not have been such as to raise the temperature on its unexposed surface more than 250°F (139°C) above its initial temperature.
+
+4.Deflection of the wall or partition during the fire endurance test shall not exceed 6 inches (152 mm). The deflection of specimens varying from the dimensions given in Section 12-7-107 (a) shall be determined proportionately.
+
+TEST OF COLUMNS
+
+Sec. 12-7-108.
+
+(a)Size of sample. The length of the column exposed to fire shall, when practicable, approximate the maximum clear length contemplated by the design, and for building columns shall be not less than 9 feet (2743 mm). The contemplated details of connections and their protection, if any, shall be applied according to the methods of acceptable field practice.
+
+(b)Loading.
+
+1.During the fire endurance test, the column shall be exposed to fire on all sides and shall be loaded in a manner calculated to develop theoretically, as nearly as practicable, the working stresses contemplated by the design. Provision shall be made for transmitting the load to the exposed portion of the column without unduly increasing the effective column length.
+
+2.If the submitter and the testing body jointly so decide, the column may be subjected to 13/4 times its designed working load before the fire endurance test is undertaken. The fact that such a test has been made shall not be construed as having had a deleterious effect on the fire endurance test performance.
+
+(c)Condition of acceptance. The test shall be regarded as successful if the column sustains the applied load during the fire endurance test for a period equal to that for which classification is desired.
+
+ALTERNATE TEST OF PROTECTION FOR STRUCTURAL STEEL COLUMNS
+
+Sec. 12-7-109.
+
+(a)Application. This test procedure does not require column loading at any time and may be used at the discretion of the testing laboratory to evaluate steel column protections that are not required by design to carry any of the column load.
+
+(b)Size and character of sample.
+
+1.The size of the steel column used shall be such as to provide a test specimen that is truly representative of the design, materials and workmanship for which classification is desired. The protection shall be applied according to the methods of acceptable field practice. The length of the protected column shall be at least 8 feet (2438 mm). The column shall be vertical during application of the protection and during the fire exposure. The rating of performance shall not be applicable to sizes of columns smaller than those tested.
+
+2.The applied protection shall be restrained against longitudinal temperature expansion greater than that of the steel column by rigid steel plates or reinforced concrete attached to the ends of the steel column before the protection is applied. The size of the plates or amount of concrete shall be adequate to provide direct bearing for the entire transverse area of the protection.
+
+3.The ends of the specimen, including the means for restraint, shall be given sufficient thermal insulation to prevent appreciable direct heat transfer from the furnace.
+
+(c)Temperature measurement. The temperature of the steel in the column shall be measured by at least three thermocouples located at each of four levels. The upper and lower levels shall be 2 feet (609 mm) from the ends of the steel column, and the other two intermediate levels shall be equally spaced. The thermocouples at each level shall be so placed as to measure significant temperatures of the component elements of the steel section.
+
+(d)Exposure to fire. During the fire endurance test, the specimen shall be exposed to fire on all sides for its full length.
+
+(e)Conditions of acceptance. The test shall be regarded as successful if the transmission of heat through the protection during the period of fire exposure for which classification is desired does not raise the average (arithmetical) temperature of the thermocouples at any one of the four levels above 1000°F (537.8°C), or does not raise the temperature above 1200°F (648.8°C) at any one of the measured points.
+
+TESTS OF FLOORS AND ROOFS
+
+Sec. 12-7-110.
+
+(The following is applicable to floors and roofs with or without attached, furred or suspended ceilings, and requires application of fire exposure to the underside of the construction.)
+
+(a)Size and construction of sample.
+
+1.The area exposed to fire shall be not less than 180 square feet (16.7 m2), with neither dimension less than 12 feet (3657 mm). Structural members, if a part of the construction under test, shall lie within the combustion chamber and have a clearance of not less than 8 inches (203 mm) from its walls. No individual classification shall be made of structural members which have a clearance of less than 24 inches (609 mm) from its walls. The fire testing furnace, its arrangement and control during fire tests shall conform to the provisions of SFM 12-7-3, Section 12-7-301 (c), for Horizontal Large-scale Floor Furnace.
+
+2.Structural members forming a part of the assembly shall be supported in accordance with the recommended fabrication procedures for the type of construction. Assemblies representing forms of construction that restrain structural elements and top deck shall be supported by a restraining frame, incorporated in or attachable to the furnace structure in such a manner that comparable restraint shall occur during the test.
+
+(b)Loading. Throughout the fire endurance test, a superimposed load shall be applied to the test specimen. This load, together with the weight of the specimen, shall be as nearly as practicable the maximum theoretical dead and live loads permitted by nationally recognized design standards.
+
+(c)Temperature measurement. The temperature of the steel in structural members shall be measured by thermocouples at three or more sections equally spaced along the length of the members with one section located at mid-span; alternately when thermocouples are placed at four sections, they may be at the quarter points provided no thermocouples shall be placed within 24 inches (609 mm) of the furnace walls; except that in cases where the cover thickness is not uniform along the specimen length, at least one of these sections shall include the point of minimum cover. For solid section steel beams, there shall be four thermocouples at each section: one at the center on the exposed face of the bottom flange, one on the edge of the bottom flange, one on the web at the center and one on the bottom at the edge of the top flange. For reinforced or prestressed concrete structural members, thermocouples shall be located on each of the tension reinforcing elements unless there are more than eight elements, in which case thermocouples shall be placed on eight elements of selected in such a manner as to obtain representative temperatures of all the elements. For designs employing trusses or open-web steel joists, four thermocouples shall preferably be placed at mid-span of each truss or joist, two on the bottom chord, one at the middle of the web element and one on the bottom of the top chord with locations selected in such a manner as to obtain representative temperatures of all the elements, provided, however, that no more than four joists need to be so instrumented. For designs employing combustible framing, three or more thermocouples shall be placed approximately at mid-span on three or more framing members and so located as to obtain representative temperatures on the soffits of the framing members.
+
+(d)Conditions of acceptance. In obtaining an assembly classification, the following conditions shall be met:
+
+1.The construction shall have sustained the applied load during the fire endurance test without passage of flame or gases hot enough to ignite conditioned cotton waste for a period at least equal to that for which classification is desired.
+
+Note: Cotton waste shall be conditioned by drying in an oven at a temperature of 120°F (49°C) for a period of not less than 1 hour prior to the test.
+
+2.The transmission of heat through the construction during the fire endurance test shall not have been such as to raise the average temperature of the thermocouples on its unexposed surface more than 150°F (139°C) above its initial temperature.
+
+3.Structural failure, deflection or sagging of the structural elements of the test specimen or any portion of the structural elements in excess of 12 inches (305 mm) shall be judged as the end of the fire endurance period.
+
+4.For assemblies employing steel structural members, including decks designed as structural diaphragms the transmission of heat through the protection during the period of fire endurance for which classification is desired does not raise the temperature at any location on the member above 1200°F (649°C), nor the average of the thermocouples at any section above 1000°F (538°C).
+
+5.For assemblies employing multiple open web steel joists [spaced less than 48 inches (1219 mm) on center], the transmission of heat through the protection during the period of fire endurance for which classification is desired does not raise the average of all thermocouples in all joists above 1000°F (538°C).
+
+6.For assemblies employing concrete structural members, the transmission of heat through the cover to the steel during the period for which classification is desired does not raise the average temperature of the thermocouples at any section on the steel above 800°F (426°C) for cold drawn prestressing steel or 1000°F (538°C) for reinforcing steel.
+
+(e)Reports of results. The fire endurance shall be reported for the floor or roof assembly as tested, and a different fire endurance classification from that of the assembly for structural members shall not be recorded without reference to Section 12-7-110 (f) and (g).
+
+(f)Alternate classification procedure for loaded structural frame members. Fire endurance classifications may be developed for structural frame members tested as part of a floor or roof assembly as described in Section 12-7-110 (a) through (c) using the conditions of acceptance described in Section 12-7-110 (g). The fire endurance classification so derived shall be applicable to the structural frame member when used with any floor or roof construction which has a comparable or greater thermal capacity for heat dissipation from the beam, and equal or greater compressive strength than the floor or roof with which it was tested. The fire-resistance classification developed by this method shall not be applicable to sizes of structural frame members smaller than those tested.
+
+(g)Structural frame members, conditions of acceptance.
+
+1.The construction shall have sustained the applied load during the fire endurance test for a period equal to that for which classification is desired.
+
+2.For assemblies employing solid steel beams the transmission of heat through the protection during the period of fire endurance for which classification is desired does not raise the temperature at any location on the member above 1200°F  (649°C), nor the average temperature recorded by four thermocouples at any section above 1000°F (538°C).
+
+3.For assemblies employing open-web steel joists or steel trusses spaced 4 feet (1219 mm) or more on centers, the transmission of heat through the protection on the steel joists or trusses during the period of fire endurance for which classification is desired does not raise the average temperature of all joists or truss thermocouples above 1000°F (538°C).
+
+4.For assemblies employing concrete structural members the transmission of heat through the cover to the steel during the period for which classification is desired does not raise the average temperature of the thermocouples at any section on the steel above 800°F (426°C) for cold drawn prestressing steel or 1000°F (538°C) for reinforcing steel.
+
+TESTS OF LOADED RESTRAINED STRUCTURAL FRAME MEMBERS
+
+Sec. 12-7-111.
+
+(a)Application. An individual classification of a structural frame member (beams, girders, joists, etc.) may be developed by this test procedure. The structural frame member may be tested with a representative floor or roof section; and the fire endurance classification so derived shall be applicable to the structural frame member when used with any floor or roof construction which has a comparable or greater thermal capacity for heat dissipation from the beam than the floor or roof with which it was tested. The fire endurance classification developed by this method shall not be applicable to sizes of structural frame members smaller than those tested.
+
+(b)Size and construction of specimen. The structural frame member shall be such as to provide a test specimen that is representative of the design, materials and workmanship for which classification is desired. Any protection shall be applied according to the methods of acceptable field practice. The length of the structural frame member exposed to the fire shall be not less than 12 feet (3657 mm), and the member shall be tested in a horizontal position. Specimens representing forms of construction in which restraint due to thermal expansion occurs shall be supported by a restraining frame in such a manner that comparable restraint shall occur during the test. A section of a representative floor or roof construction not less than 5 feet (1524 mm) wide, symmetrically located with reference to the structural frame member and extending its full length may be included in the test assembly and exposed to fire from below. The floor or roof construction shall not be supported or restrained along its span length or ends.
+
+(c)Furnace. The fire testing furnace, its arrangement and control during fire tests shall conform to SFM 12-7-3, Fire Testing Furnaces, Section 12-7-301, for the Horizontal Large-scale Floor Furnace, or the Horizontal Large-scale Beam Furnace.
+
+(d)Loading. Throughout the fire endurance test, a superimposed load shall be applied to the test specimen. This load, together with the weight of the specimen, shall be as nearly as practicable the maximum theoretical dead and live loads permitted by nationally recognized design standards.
+
+(e)Temperature measurements. The temperature of the steel in structural members shall be measured by thermocouples at three or more sections spaced along the length of the members with one section located at the mid-span, except that in cases where the cover thickness is not uniform along the structural frame member length at least one of these sections shall include the point of minimum cover. For solid steel beams there shall be four thermocouples at each section: one shall be located at the center on the exposed face of the bottom flange: one on the edge of the bottom flange, one on the web at the center and one on the bottom of the top flange. For open-web steel joists there shall be four thermocouples at each section: two on the bottom of the lower chord, one at the middle of the web and one on the bottom of the top chord. For trusses there shall be not less than four thermocouples at each section: one on the bottom of the top chord, one at the middle of the nearest diagonal or vertical member and two on the bottom of the lower chord. For reinforced or prestressed concrete structural members, thermocouples shall be located on each of the tension reinforcing elements, unless there are more than eight such elements, in which case thermocouples shall be placed on eight elements selected in such a manner as to obtain representative temperature on all the elements.
+
+(f)Conditions of acceptance. In deriving a structural frame member classification, the following conditions shall be met:
+
+1.The structural frame member shall have sustained the applied load during the fire endurance test for a period at least equal to that for which classification is desired.
+
+2.For structural steel members, the transmission of heat through the protection during the period of fire endurance for which classification is desired does not raise the temperature of the thermocouple at any location on the structural steel member above 1200°F (649°C) nor the average of the thermocouples at any section above 1000°F (538°C).
+
+3.For concrete beams, the transmission of heat through the cover to the steel during the period of fire endurance for which classification is desired does not raise the average temperature of the thermocouples at any section on the steel above 800°F (426°C) for cold drawn prestressing steel or 1000°F (538°C) for reinforcing steel.
+
+Sec. 12-7-112.
+
+(a)Application. Where the size and construction of the sample, or the loading specified in Sections 12-7-110 (a) and (b) is not feasible by design or dimensions, this alternate test procedure may be used to evaluate the protection for steel beams, girders and trusses without application of design load, provided that the protection is not required by design to function structurally in resisting applied loads. The furnace and its control during fire tests shall conform to SFM 12-7-3, Fire Testing Furnaces, Section 12-7-301, for the Horizontal Small-scale Beam Furnace, the Horizontal Large-scale Beam Furnace or the Horizontal Large-scale Floor Furnace.
+
+(b)Size and character of sample.
+
+1.The size of the steel beam, girder or truss shall be such as to provide a test specimen that is representative of the design, materials and workmanship for which classification is desired. The protection shall be applied according to the methods of acceptable field practice, and the projection below the ceiling, if any, shall be representative of the conditions of intended use. The length of the beam, girder or truss exposed to the fire shall be not less than 7 feet (2133 mm), and the member shall be tested in a horizontal position. A section of a representative floor or roof construction not less than 5 feet (1524 mm) wide, symmetrically located with reference to the beam, girder or truss and extending its full length, may be included in the test assembly and exposed to fire from below.
+
+The rating of performance shall not be applicable to sizes of solid structural members or elements of built-up structural members, such as trusses, smaller than those tested.
+
+2.The applied protection shall be restrained against longitudinal expansion greater than that of the steel beam, girder or truss by rigid steel plates or reinforced concrete attached to the ends of the member before the protection is applied. The ends of the member, including the means for restraint, shall be given sufficient thermal insulation to prevent appreciable direct heat transfer from the furnace to the unexposed ends of the member or from the ends of the member to the outside of the furnace.
+
+(c)Temperature measurement. The temperature of the steel in the beam, girder or truss shall be measured with not less than four thermocouples at each of not less than three sections equally spaced along the length of the beam, girder or truss, symmetrically disposed and not nearer than 2 feet (609 mm) from the inside face of the walls of the furnace. The thermocouples at each section shall be symmetrically placed so as to measure significant temperatures of all component elements of the steel section.
+
+(d)Conditions of acceptance. The test shall be regarded as successful if the transmission of heat through the protection during the period of fire exposure for which classification is desired does not raise the average (arithmetical) temperature of the thermocouples at one of the sections above 100°F  (38°C), or does not raise the temperature above 1200°F (649°C) at any one of the measured points. The fire-resistance classification so derived shall be applicable to the beam, girder or truss when used with any floor or roof construction which has an equal or greater thermal capacity for heat dissipation from the beam than the floor or roof with which it was tested.
+
+TESTS OF CEILING CONSTRUCTIONS
+
+Sec. 12-7-113.
+
+(a)Application. This test procedure is to be used for classification of ceilings that are not an integral part of a floor construction and where 36 inches (914 mm) or more space is provided above the top of the joists or beams supporting and protected by the ceiling.
+
+(b)Size of sample. The area exposed to fire shall be not less than 180 square feet (16.7 m2), with neither dimension less than 12 feet (3657 mm), and the ceiling surface at its edges shall be in contact with the test furnace structure.
+
+(c)Test construction and enclosure. The test ceiling construction shall include all structural members and details including hangers, if any, but not walkways. Above the ceiling during the test, there shall be provided a tight flat-topped enclosure, the underside of the covering material of which shall be 36 inches (914 mm) above the top of the joists or beams supporting and protected by the ceiling. The top of the enclosure shall be made of cement-asbestos board 1/4 inch (6 mm) in thickness under asbestos millboard 1/2 inch (13 mm) in thickness, and the side walls of 8-inch (203 mm) common brick, or it shall be of a construction having equivalent heat conductivity and heat capacity. Where use of the ceiling under a combustible construction is contemplated, at least five 15-inch (381 mm) square panels of 1-inch (25 mm) pine boards shall be attached to the underside of the top of the enclosure. The temperatures on the bottom surface of these panels shall be measured.
+
+(d)Conditions of acceptance. The test shall be regarded as successful if the following conditions are met:
+
+1.The ceiling shall have withstood the fire endurance test without the passage of flame or ignition of combustible members or materials forming part of the construction above the ceilings as evidenced by glow or flame.
+
+2.Transmission of heat through the ceiling during the fire endurance test shall not have been such as to raise the average temperature above the test ceiling more than indicated in Items A, B and C. The limiting temperatures shall be the average of those taken at not less than five points, one of which shall be approximately at the center, and four at approximately the centers of the quarter sections.
+
+A.With combustible supports or other combustible material in contact with the ceiling, the temperature increase at the points of contact shall not exceed 250°F (121°C).
+
+B.With combustible supports or other combustible material not in contact with the ceiling, the temperature increase on the surface of any combustible members, pine panels, or combustible material adjacent to the ceiling shall not exceed 250°F (121°C). The temperature on the exposed surface of combustible members not in contact with the ceiling shall be measured under a sheet of mica approximately 0.002 inch (0.05 mm) in thickness.
+
+C.With no combustible material above the ceiling construction, the average temperature measured on the lower surface of the main structural supporting members (beams or slabs) shall not exceed 1200°F (649°C) and the average temperature of the top and bottom of the beams, when used, shall not exceed 1000°F (538°C).
+
+TESTS OF PROTECTION FOR COMBUSTIBLE FRAMING, OR FOR COMBUSTIBLE FACINGS ON THE UNEXPOSED SIDE OF WALLS, PARTITIONS AND FLOORS
+
+Sec. 12-7-114.
+
+(a)Character of sample. Test panels carrying wall, partition or floor protection shall be finished with the protections which are the subject of the test, except that where the finish on the unexposed side is not the subject of the test and is not specifically indicated, the testing laboratory shall apply a finish judged suitable for the purpose. In case a floor construction, as installed for actual use, is to have no finish on the unexposed side, it shall be so tested.
+
+(b)Size of sample. The area exposed to fire shall be, for tests of wall and partition protection, not less than 100 square feet (9.3 m2) with neither dimension less than 9 feet (2743 mm); for tests of floor protection, not less than 180 square feet (16.7 m2) with neither dimension less than 12 feet (3657 mm).
+
+(c)Conditions of acceptance. The test shall be regarded as successful if the following conditions are met:
+
+1.The protection shall have withstood the fire endurance test, without ignition of the materials protected, for a period equal to that for which classification is desired.
+
+2.Transmission of heat through the protection during the fire endurance test shall not have been such as to raise the temperatures at its contact with the protected structural members or facings of the test panel more than 250°F (130°C) above the initial temperatures at these points, except that for members closely embedded on three sides in masonry, concrete or similar noncombustible materials the permissible temperature rise may be 325°F (181°C).
+
+STANDARD FIRE ENDURANCE TEST REPORT FORM
+
+Sec. 12-7-115.
+
+Reports of fire endurance tests specified in Section 12-7-103 shall include all data and in the form prescribed in this section.
+
+(a)Cover page. Cover page shall include: Laboratory, Laboratory Project Number, Sponsor and Date Tested.
+
+(b)Title page. Title page shall include: Table of Contents, Summary of Construction and Fire Endurance Time. The signature of the fire-protection engineer responsible for the conduct of the test may be on the title page or at the conclusion of the report.
+
+(c)Test facility. A complete description and details of the furnace and recording equipment shall be provided. This may be in an appendix to the report.
+
+1.Describe details of end conditions (wedges, bearing, means to prevent rotation), describe details of the restraining frame, degree of restraint or reactive forces opposing expansion and the method used to provide this restraint.
+
+2.If construction is tested under load, indicate how load is applied and controlled (include loading diagram).
+
+3.If construction is tested as nonload bearing indicate whether frame is rigid or moves in test.
+
+(d)Description of materials. Type, size, class, strength, densities, trade name and any additional data necessary to fully define and identify materials. The testing laboratory shall indicate whether materials meet ASTM standards by markings, or by statement of sponsor, or by physical or chemical test by the testing laboratory. The sponsor shall authorize the testing laboratory to provide all data to the enforcing agency as may be necessary for evaluation.
+
+(e)Description of test assembly.
+
+1.Give size of test specimen including dimensions of all parts.
+
+2.Give details of structural design, including safety factor of all structural members in the test assembly.
+
+3.Include plan, elevation, principal cross section, plus other sections as needed for clarity. Detailed drawing of complete assembly.
+
+4.Give details of attachment of test panel in frame.
+
+5.Give location of thermocouples, deflection points and other items for test.
+
+6.Describe general ambient conditions at:
+
+A.Time of construction;
+
+B.During curing (time from construction to test); and
+
+C.Time of test.
+
+7.Record air movement across unexposed face of test specimen.
+
+8.Report relative humidity in specimen.
+
+(f)Description of test.
+
+1.Except as provided in Section 12-7-102 (d), report temperatures at beginning and every 5 minutes. If charts are included in report, clearly indicate time and Fahrenheit temperature:
+
+A.In furnace space.
+
+B.On unexposed face for each thermocouple.
+
+C.On protected framing members as stipulated in test method. In combustible assemblies indicate temperatures on framing back of protection, soffit of joists or other framing members.
+
+D.On request of the enforcement agency, furnish the temperatures in the plenum at mid-depth of ceiling-floor assemblies and underside of floor.
+
+2.Report deflections every 5 minutes for first 15 minutes and last hour of test. Every 10 minutes in between.
+
+3.Report appearance of exposed face:
+
+A.Every 15 minutes;
+
+B.At any noticeable development, give details and time, i.e., cracks, buckling, twisting, expansion of supports, flaming, smoke, loss of material, etc.; and
+
+C.At end of test include amount of drop out, condition of fasteners, sag, etc.
+
+4.Report appearance of the unexposed face:
+
+A.Every 15 minutes;
+
+B.At any noticeable development including cracking, smoking, buckling, giving details and time; and
+
+C.At end of test.
+
+5.Report time of failure by:
+
+A.Temperature rise;
+
+B.Failure to carry load; and
+
+C.Passage of flame-heat-smoke.
+
+6.If hose stream is required, repeat necessary parts of Items 3 and 5. If failure occurs in hose stream test, describe.
+
+(g)Comments by testing engineer.
+
+1.Included shall be a statement concerning construction being representative of field construction. If construction does not represent typical field construction, all deviations shall be noted.
+
+2.If construction is unsymmetrical, clearly indicate face exposed to fire.
+
+3.Fire test.
+
+(h)Summary of results. Shall include:
+
+1.Endurance time.
+
+2.Nature of failure.
+
+3.Hose stream results.
+
+(i)Pictures. Pictures shall be provided as necessary to clarify and show what cannot be covered in the report. Pictures shall include:
+
+1.Assembly in construction with closeups of details supplementing the report.
+
+2.Exposed face prior to test.
+
+3.Unexposed face at start of endurance test.
+
+4.Unexposed face at end of fire endurance test.
+
+5.Exposed face at end of fire endurance test.
+
+6.If hose stream test is required, repeat Items 1 through 5.
+
+TABLE SFM 12-7-1A
+
+CONDITIONS FOR HOSE STREAM TEST
+
+	WATER PRESSURE AT BASE OF NOZZLE (POUNDS PER SQUARE INCH)	DURATION OF APPLICATION, MINUTES PER 100 SQUARE FEET OF EXPOSED AREA
+4 hours, and over	45	5
+2 hours, and over, if less than 4	30	21/2
+11/2 hours, and over, if less than 2	30	11/2
+1 hour, and over, if less than 11/2	30	1
+Less than 1 hour, if desired	30	1For SI: 1 square foot = 92 903 mm2
+

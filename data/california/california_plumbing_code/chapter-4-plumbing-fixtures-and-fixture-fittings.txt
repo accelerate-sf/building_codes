@@ -1,0 +1,1648 @@
+Chapter 4 Plumbing Fixtures and Fixture Fittings
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter											X												
+Adopt Entire Chapter as amended (amended sections listed below)	X			X	X			X	X	X		X	X	X	X		X	X			X		
+Adopt only those sections thatare listed below		X				X	X																
+Chapter/Section																							
+Note Under Title							X																
+401.3	X			X				X	X	X		X	X	X						X			
+403.1						X																	
+403.2						X																	
+403.3						X																	
+407.2				X																			
+407.2.1				X																			
+407.2.2				X																			
+407.2.3				X	X																		
+407.2.4				X																			
+407.2.4.1		X						X	X														
+408.2				X																			
+408.2.1		X						X	X														
+408.2.2		X						X	X														
+408.5				X	X			X	X														
+408.6 & Exception 1				X		X																	
+411.2				X	X			X	X														
+411.2.2				X	X																		
+411.2.2.1		X						X	X												X		
+411.2.3				X	X																		
+411.2.4		X						X	X												X		
+412.1				X	X			X	X														
+412.1.1		X						X	X														
+412.1.2		X						X	X														
+412.1.3		X		X	X			X	X														
+412.1.4.1		X																					
+413.2										X		X	X	X	X								
+415.1				X																			
+417.1.1		X						X	X														
+417.1.2		X						X	X														
+420.2.1		X						X	X														
+420.2.2				X																			
+420.3.1		X		X	X				X														
+422.1	X							X	X	X		X	X	X	X								
+422.1 Exception	X							X	X														
+Table 422.1	X			X	X	X	X	X	X	X		X	X	X	X								
+422.1.2							X																
+422.1.3										X		X	X	X	X								
+422.2				†	†																		
+422.2 Exceptions										†		†	†	†	†								
+422.3.1 & Exception										X		X	X	X	X								
+422.4				†	†					†		†	†	†	†								
+422.5				†	†																		
+422.6																					X		
+422.7																					X		
+422.8																	X						
+422.9																	X						
+Table 4-1	X							X	X														
+Table 4-2										X		X	X	X	X								
+Table 4-3																		X					
+Table 4-4																	X						
+
+401.3
+
+407.2.2
+
+407.2.3
+
+407.2.4
+
+407.2.4.1
+
+408.2
+
+408.2.1
+
+408.2.2
+
+411.2.2
+
+411.2.2.1
+
+411.2.3
+
+411.2.4
+
+412.1.1
+
+412.1.2
+
+412.1.3
+
+412.1.4.1
+
+417.1.1
+
+417.1.2
+
+420.2.1
+
+420.2.2
+
+420.3.1
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+401.0 General
+401.1 Applicability
+401.2 Quality of Fixtures
+401.3 Water-Conserving Fixtures and Fittings
+Note 1: [BSC, DSA-SS & DSA-SS/CC] Flow rates for specified plumbing fixtures for mandatory nonresidential construction are contained in Chapter 5, Division 5.3 of the California Green Building Standards Code (Part 11, Title 24, California Code of Regulations - CALGreen). Scoping provisions applicable to nonresidential additions and alterations are contained in Section 301.3 of CALGreen.Note 2: [BSC] On and after January 1, 2014, certain commercial real property, as defined in Civil Code Section 1101.3, shall have its non-compliant plumbing fixtures replaced with appropriate water-conserving plumbing fixtures under specific circumstances. See Civil Code Section 1101.1 e t seq. for definitions, types of commercial real property affected, effective dates, circumstances necessitating replacement of non-compliant plumbing fixtures, and duties and responsibilities for ensuring compliance.[HCD-1] All noncompliant plumbing fixtures in any residential real property shall be replaced with water-conserving plumbing fixtures. Plumbing fixture replacement is required prior to issuance of a certificate of final completion, certificate of occupancy, or final permit approval by the local building department. See Civil Code Section 1101.1, et seq., for the definition of a noncompliant plumbing fixture, types of residential buildings affected and other important enactment dates.Note 3: [OSHPD 1, 2, 3 & 4] Also refer to Title 20, California Code of Regulations, Division 2, Chapter 4, Article 4, Section 1605.3(i).Note 4: [CEC] Appliance Efficiency Regulations - Water Efficiency. Where California law in Title 20 Sections 1601 et seq. applying to water-using appliances sold or offered for sale within the state specifies a lower maximum flow rate than specified in Section 407.2, 408.2, or 411.2, the lower maximum flow rate shall be required.
+
+402.0 Installation
+402.1 Cleaning
+402.2 Joints
+402.3 Securing Fixtures
+402.4 Wall-Hung Fixtures
+402.5 Setting
+402.6 Flanged Fixture Connections
+402.6.1 Closet Rings (Closet Flanges)
+402.6.2 Securing Closet Flanges
+402.6.3 Securing Floor-Mounted, Back-Outlet Water Closet Bowls
+402.7 Supply Fittings
+402.8 Installation
+402.9 Design and Installation of Plumbing Fixtures
+402.10 Slip Joint Connections
+402.11 Future Fixtures
+403.0 Accessible Plumbing Facilities
+403.1 General
+[HCD 1-AC] For specific
+requirements regarding accommodations for persons with
+disabilities, see Chapter 11A of the California Building Code.
+
+403.2 Fixtures and Fixture Fittings for Persons With Disabilities
+[HCD 1-AC] Specific requirements regarding accommodations for persons with disabilities are contained in Chapter 11A of the California Building Code.
+
+403.3 Exposed Pipes and Surfaces
+[HCD 1-AC] Specific requirements regarding accommodations for persons with disabilities
+are contained in Chapter 11A of the California Building
+Code.
+
+404.0 Waste Fittings and Overflows
+404.1 Waste Fittings
+404.2 Overflows
+405.0 Prohibited Fixtures
+405.1 Prohibited Water Closets
+405.2 Prohibited Urinals
+405.3 Miscellaneous Fixtures
+406.0 Special Fixtures and Specialties
+406.1 Water and Waste Connections
+406.2 Special Use Sinks
+406.3 Special Use Fixtures
+406.4 Zinc Alloy Components
+407.0 Lavatories
+407.1 Application
+407.2 Water Consumption
+through 407.2.4.
+
+407.2.1 Public Lavatory Faucets
+407.2.2 Residential Lavatory Faucets
+[HCD 1] The
+maximum flow rate of residential lavatory faucets shall
+not exceed 1.2 gallons (4.54 L) per minute at 60 psi. The
+minimum flow rate of residential lavatory faucets shall
+not be less than 0.8 gallons (3.03 L) per minute at 20 psi.
+
+407.2.3 Lavatory Faucets in Common and Public Use Areas
+[HCD 1 & HCD 2] The maximum flow rate
+of lavatory faucets, installed in common and public use
+areas (outside of dwellings or sleeping units) in residential
+buildings, shall not exceed 0.5 gallons (1.89 L) per
+minute at 60 psi.
+
+407.2.4 Metering Faucets
+0.2
+
+0.76
+
+407.2.4.1 Metering Faucets
+[BSC-CG, DSA-SS & DSA-SS/CC] Metering Faucets shall not deliver
+more than 0.20 gallons (0.76 L) per cycle in compliance
+with Chapter 5, Division 5.3 of the California
+Green Building Standards Code (CALGreen).
+
+407.3 Limitation of Hot Water Temperature for Public Lavatories
+407.4 Transient Public Lavatories
+407.5 Waste Outlet
+407.6 Overflow
+408.0 Showers
+408.1 Application
+408.2 Water Consumption
+1.8
+
+6.81
+
+[HCD 1] Residential showerheads shall
+comply with Division 4.3 of the California Green Building
+Standards Code (CALGreen).
+
+408.2.1 Single Showerhead
+[BSC-CG, DSA-SS & DSA-SS/CC] Showerheads shall have a maximum flow
+rate of not more than 1.8 gallons (6.81 L) per minute at
+80 psi. Showerheads shall be certified to the performance criteria of the U.S. EPA WaterSense Specification
+for Showerheads in compliance with Chapter 5, Division
+5.3. of the California Green Building Standards Code
+(CAL Green).
+
+408.2.2 Multiple Showerheads Serving One Shower
+[BSC-CG, DSA-SS & DSA-SS/CC] When a shower is served by more than one showerhead, the combined
+flow rate of all showerheads and/or other shower
+outlets controlled by a single valve shall not exceed 1.8 gallons
+(6.81 L) per minute at 80 psi, or the shower shall be
+designed to allow only one shower outlet to be in operation
+at a time in compliance with Chapter 5, Division 5.3 of the
+California Green Building Standards Code (CALGreen).
+
+Note: A hand-held shower shall be considered a showerhead.
+
+408.3 Individual Shower and Tub-Shower Combination Control Valves
+408.3.1 Gang Showers
+408.3.2 Temperature Limiting
+408.4 Waste Outlet
+408.5 Finished Curb or Threshold
+California Building Code, California Residential Code, and California Electrical Code.
+
+408.6 Shower Compartments
+Chapter 11A of the California Building Code
+
+408.7 Lining for Showers and Receptors
+408.7.1 PVC Sheets
+408.7.2 Chlorinated Polyethylene (CPE) Sheets
+408.7.3 Sheet Lead
+408.7.4 Sheet Copper
+408.7.5 Tests for Shower Receptors
+408.8 Public Shower Floors
+408.9 Location of Valves and Heads
+408.10 Water Supply Riser
+409.0 Bathtubs and Whirlpool Bathtubs
+409.1 Application
+409.2 Waste Outlet
+409.3 Overflow
+409.4 Limitation of Hot Water Temperature in Bathtubs and Whirlpool Bathtubs
+409.5 Backflow Protection
+409.6 Installation and Access
+409.6.1 Flexible PVC Hoses and Tubing
+410.0 Bidets
+410.1 Application
+410.2 Backflow Protection
+410.3 Limitation of Water Temperature in Bidets
+411.0 Water Closets
+411.1 Application
+411.2 Water Consumption
+The effective flush volume of all water closets shall not exceed 1.28 gallons (4.8 L) per
+flush when tested in accordance with ASME A112.19.2/CSA B45.1.
+
+411.2.1 Dual Flush Water Closets
+411.2.2 Flushometer Valve Activated Water Closets
+4.8
+
+411.2.2.1 Flushometer Valve Activated Water Closets
+[BSC-CG, DSA-SS & DSA-SS/CC] Flushometer valve activated water closets shall have
+a maximum flush volume of 1.28 gallons (4.8 L) per
+flush in accordance with ASME  A112.19.2/CSA
+B45.1.
+
+411.2.3 Performance
+[HCD 1 & HCD 2] Water closets
+installed in residential occupancies shall meet or
+exceed the minimum performance criteria developed for
+certification of high-efficiency toilets under the
+WaterSense program sponsored by the U.S. Environmental
+Protection Agency (EPA).
+
+411.2.4 Water Closets
+[BSC-CG, DSA-SS & DSA-SS/CC] The effective flush volume of all water closets
+shall not exceed 1.28 gallons (4.8 L) per flush. Tank-type
+water closets shall be certified to the performance criteria
+of the U.S. EPA WaterSense Specification for Tank Type
+Toilets in compliance with Chapter 5, Division 5.3.
+of the California Green Building Standards Code (CALGreen).
+
+411.3 Water Closet Seats
+411.4 Personal Hygiene Devices
+412.0 Urinals
+412.1 Application
+Wall-mounted urinals shall have an
+average water consumption not to exceed 0.12 5 gallons (0.47
+L) per flush. Other urinals shall have an average water consumption
+not to exceed 0.5 gallons (1.89 L) per flush.
+
+412.1.1 Wall-Mounted Urinals
+[BSC-CG, DSA-SS & DSA-SS/CC] The effective flush volume of wall-mounted
+urinals shall not exceed 0.125 gallons (0.47 L)
+per flush in compliance with Chapter 5, Division 5.3, of
+the California Green Building Standards Code (CALGreen).
+
+412.1.2 Floor-Mounted Urinals
+[BSC-CG, DSA-SS & DSA-SS/CC] The effective flush volume of floor-mounted
+or other urinals shall not exceed 0.5 gallons (1.89 L) per
+flush in compliance with Chapter 5, Division 5.3, of the
+California Green Building Standards Code (CALGreen).
+
+412.1.3 Nonwater Urinals
+For additional information, see Health and
+Safety Code Section 17921.4.
+
+412.1.4 Nonwater Urinals With Drain Cleansing Action
+412.1.4.1 [BSC-CG]
+Where approved, nonwater urinals with drain cleansing action shall be in compliance with Chapter 5, Division A5.3 of the California Green Building Standards Code (CALGreen)
+
+412.2 Backflow Protection
+413.0 Flushing Devices
+413.1 Where Required
+413.2 Flushometer Valves
+[OSPHD 1, 2, 3, 4 & 5] Sensor operated flush valves shall be capable of functioning during loss of normal power.
+
+413.3 Flush Tanks
+413.4 Water Supply for Flush Tanks
+413.5 Overflows in Flush Tanks
+414.0 Dishwashing Machines
+414.1 Application
+414.2 Backflow Protection
+414.3 Drainage Connection
+415.0 Drinking Fountains
+415.1 Application
+[HCD 1] Drinking fountains shall be installed and
+so regulated that a jet of water extending at least 2 inches (51
+mm) in height from the water orifice shall be constantly available.
+The orifice shall not be accessible to the mouth of the
+drinker nor subject to immersion.
+
+415.2 Drinking Fountain Alternatives
+415.3 Drainage Connection
+415.4 Location
+416.0 Emergency Eyewash and Shower Equipment
+416.1 Application
+416.2 Water Supply
+416.3 Installation
+416.4 Location
+416.5 Drain
+417.0 Faucets and Fixture Fittings
+417.1 Application
+417.1.1 Wash Fountains
+[BSC-CG, DSA-SS & DSA-SS/CC] Wash fountains shall have a maximum flow rate
+of not more than 1.8 gallons (6.81 L) per minute/20 [rim
+space (inches) at 60 psi] in compliance with Chapter 5,
+Division 5.3 of the California Green Building Standards
+Code (CALGreen).
+
+417.1.2 Metering Faucets for Wash Fountains
+[BSC-CG, DSA-SS & DSA-SS/CC] Metering faucets for wash
+fountains shall have a maximum flow rate of not more than 0.20 gallons (0.76 L) per cycle/20 [rim space (inches) at
+60 psi] in compliance with Chapter 5, Division 5.3 of the
+California Green Building Standards Code (CALGreen).
+
+417.2 Deck Mounted Bath/Shower Valves
+417.3 Handheld Showers
+417.4 Faucets and Fixture Fittings With Hose Connected Outlets
+417.5 Separate Controls for Hot and Cold Water
+417.6 Low-Pressure Water Dispenser
+418.0 Floor Drains
+418.1 Application
+418.2 Strainer
+418.3 Location of Floor Drains
+418.4 Food Storage Areas
+418.5 Floor Slope
+419.0 Food Waste Disposers
+419.1 Application
+419.2 Drainage Connection
+419.3 Water Supply
+420.0 Sinks
+420.1 Application
+420.2 Water Consumption
+420.2.1 Kitchen Faucets
+[BSC-CG, DSA-SS & DSA-SS/CC] Kitchen faucets shall have a maximum
+flow rate of not more than 1.8 gallons (6.81 L) per minute
+at 60 psi. Kitchen faucets may temporarily increase the
+flow above the maximum rate, but not to exceed 2.2 gallons
+(8.3 L) per minute at 60 psi, and must default to a
+maximum flow rate of 1.8 gallons (6.81 L) per minute at
+60 psi in compliance with Chapter 5, Division 5.3 of the
+California Green Building Standards Code (CALGreen).
+
+420.2.2 Kitchen Faucets
+[HCD 1] The maximum flow
+rate of kitchen faucets shall not exceed 1.8 gallons (6.81
+L) per minute at 60 psi. Kitchen faucets may temporarily
+increase the flow above the maximum rate, but not to
+exceed 2.2 gallons (8.32 L) per minute at 60 psi, and must
+default to a maximum flow rate of 1.8 gallons (6.81 L) per
+minute at 60 psi in compliance with Chapter 4, Division
+4.3 or Chapter 5, Division 5.3 of the California Green
+Building Standards Code (CALGreen), as applicable.
+
+Note: Where faucets meeting the maximum flow rate of
+1.8 gpm (6.81 L) are unavailable, aerators or other
+means may be used to achieve reduction.
+
+420.3 Pre-Rinse Spray Valve
+420.3.1 Pre-Rinse Spray Valves
+[BSC-CG, DSASS, HCD 1 & HCD 2] When installed, shall meet the requirements in the California Code of Regulations, Title 20 (Appliance Efficiency Regulations), Section 1605.1(h)(4) Table H-2, Section 1605.3(h)(4)(A), and Section 1607(d)(7), and shall be equipped with an integral automatic shutoff.
+
+PRODUCT CLASS(spray force in ounce force (ozf))	MAXIMUM FLOWRATE (gpm)
+Product Class 1 (≤ 5.0 ozf)	1.00
+Product Class 2 (> 5.0 ozf and ≤ 8.0 ozf)	1.20
+Product Class 3 (> 8.0 ozf)	1.28
+
+420.4 Waste Outlet
+421.0 Floor Sinks
+421.1 Application
+421.2 Strainers
+422.0 Minimum Number of Required Fixtures
+422.1 Fixture Count
+and Table 4-2 and Table 4-3
+
+California Building Code
+
+Exception: [BSC, DSA-SS & DSA-SS/CC] Using occupancy classification, described as function of space, determine occupant load factor from Table 4-1 Occupant Load Factor, of this chapter.
+
+For requirements for persons with disabilities, Chapter 11A or 11B of the California Building Code shall be used.
+
+[BSC, DSA-SS & DSA-SS/CC] The total occupant load shall be determined in accordance with the California Building Code or Table 4-1 Occupant Load Factor.
+
+Exceptions:
+
+[HCD 1-AC & HCD 2] For applications listed in Sections 1.8.2.1.2 and 1.8.2.1.3 regulated by the Department of Housing and Community Development, each building shall be provided with sanitary facilities, including provisions for persons with disabilities as prescribed by the Department. Covered multifamily dwellings required to be accessible to persons with disabilities shall comply with Chapter 11A of the California Building Code. Permanent buildings in mobilehome parks and special occupancy parks required to be accessible by persons with disabilities, shall comply with Chapter 11B of the California Building Code.
+
+[HCD 1] For limited density owner-built rural dwelling sanitary facilities, the type, design and number of facilities as required and approved by the local health official shall be provided to the dwelling sites. It shall not be required that such facilities be located within the dwelling.
+
+TYPE OFOCCUPANCY2	WATER CLOSETS(FIXTURES PER PERSON)3	URINALS(FIXTURES PER PERSON)4	LAVATORIES(FIXTURES PER PERSON)5	BATHTUBS OR SHOWERS(FIXTURESPER PERSON)	DRINKINGFOUNTAINS/FACILITIES(FIXTURESPER PERSON)	OTHER
+A-1 Assembly occupancy (fixed or permanent seating)- theaters, concert halls, and auditoriums	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-25
+2: 26-50
+3: 51-100
+4: 101-200
+6: 201-300
+8: 301-400	Male
+1: 1-200
+2: 201-300
+3: 301-400
+4: 401-600	Male
+1: 1-200
+2: 201-400
+3: 401-600
+4: 601-750	Female
+1: 1-100
+2: 101-200
+4: 201-300
+5: 301-500
+6: 501-750	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 125 females.	Over 600, add 1 fixture for each additional 300 males.	Over 750, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females.	Over 750, add 1 fixture for each additional 500 persons.
+A-2 Assembly occupancy- restaurants, pubs, lounges, nightclubs and banquet halls	Male
+1: 1-50
+2: 51-150
+3: 151-300
+4: 301-400	Female
+1: 1-25
+2: 26-50
+3: 51-100
+4: 101-200
+6: 201-300
+8: 301-400	Male
+1: 1-200
+2: 201-300
+3: 301-400
+4: 401-600	Male
+1: 1-150
+2: 151-200
+3: 201-400	Female
+1: 1-150
+2: 151-200
+4: 201-400	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 250 males and 1 fixture for each 125 females.	Over 600, add 1 fixture for each additional 300 males.	Over 400, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females	Over 750, add 1 fixture for each additional 500 persons.
+A-3 Assembly occupancy(typical without fixed or permanent seating)- arcades, places of worship, museums, libraries, lecture halls, gymnasiums (without spectator seating), indoor pools (without spectator seating)	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-25
+2: 26-50
+3: 51-100
+4: 101-200
+6: 201-300
+8: 301-400	Male
+1: 1-100
+2: 101-200
+3: 201-400
+4: 401-600	Male
+1: 1-200
+2: 201-400
+3: 401-600
+4: 601-750	Female
+1: 1-100
+2: 101-200
+4: 201-300
+5: 301-500
+6: 501-750	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 125 females.	Over 600, add 1 fixture for each additional 300 males.	Over 750, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females.	Over 750, add 1 fixture for each additional 500 persons.
+A-4 Assembly occupancy(indoor activities or sporting events with spectator seating)- swimming pools, skating rinks, arenas, and gymnasiums	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-25
+2: 26-50
+3: 51-100
+4: 101-200
+6: 201-300
+8: 301-400	Male
+1: 1-100
+2: 101-200
+3: 201-400
+4: 401-600	Male
+1: 1-200
+2: 201-400
+3: 401-750	Female
+1: 1-100
+2: 101-200
+4: 201-300
+5: 301-500
+6: 501-750	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 125 females.	Over 600, add 1 fixture for each additional 300 males.	Over 750, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females.	Over 750, add 1 fixture for each additional 500 persons.
+A-5 Assembly occupancy (outdoor activities or sporting events)- amusement parks, grandstands and stadiums	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-25
+2: 26-50
+3: 51-100
+4: 101-200
+6: 201-300
+8: 301-400	Male
+1: 1-100
+2: 101-200
+3: 201-400
+4: 401-600	Male
+1: 1-200
+2: 201-400
+3: 401-750	Female
+1: 1-100
+2: 101-200
+4: 201-300
+5: 301-500
+6: 501-750	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 125 females.	Over 600, add 1 fixture for each additional 300 males.	Over 750, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females.	Over 750, add 1 fixture for each additional 500 persons.
+B Business occupancy (office, professional or service type transactions)- banks, vet clinics, hospitals, car wash, banks, beauty salons, ambulatory health care facilities, laundries and dry cleaning, educational institutions (above high school), or training facilities not located within school, post offices and printing shops	Male
+1: 1-50
+2: 51-100
+3: 101-200
+4: 201-400	Female
+1: 1-15
+2: 16-30
+3: 31-50
+4: 51-100
+8: 101-200
+11: 201-400	Male
+1: 1-100
+2: 101-200
+3: 201-400
+4: 401-600	Male
+1: 1-75
+2: 76-150
+3: 151-200
+4: 201-300
+5: 301-400	Female
+1: 1-50
+2: 51-100
+3: 101-150
+4: 151-200
+5: 201-300
+6: 301-400	—	1 per 150	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 150 females.	Over 600, add 1 fixture for each additional 300 males.	Over 400, add 1 fixture for each additional 250 males and 1 fixture for each additional 200 females.
+E Educational occupancy-private or public schools	Male
+1 per 50	Female
+1 per 30	Male
+1 per 100	Male
+1 per 40	Female
+1 per 40	—	1 per 150	1 service sink or laundry tray
+F1, F2 Factory or Industrial occupancy-fabricating or assembly work	Male
+1: 1-50
+2: 51-75
+3: 76-100	Female
+1: 1-50
+2: 51-75
+3: 76-100	—	Male
+1: 1-50
+2: 51-75
+3: 76-100	Female
+1: 1-50
+2: 51-75
+3: 76-100	1 shower for each 15 persons exposed to excessive heat or to skin contamination with poisonous, infectious or irritating material	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 100, add 1 fixture for each additional 40 persons.	—	Over 100, add 1 fixture for each additional 40 persons.	Over 750, add 1 fixture for each additional 500 persons.
+I-1 Institutional occupancy(houses more than 16 persons on a 24-hour basis)- substance abuse centers, assisted living, group homes, or residential facilities	Male
+1 per 15	Female
+1 per 15	—	Male
+1 per 15	Female
+1 per 15	1 per 8	1 per 150	1 service sink or laundry tray
+I-2 Institutional occupancy-medical, psychiatric, surgical or nursing homes	Hospitals and nursing homes-individual rooms and ward room	1 per room	—	1 per room	1 per room	1 per 150	1 service sink or laundry tray
+1 per 8 patients	—	1 per 10 patients	1 per 20 patients
+Hospital Waiting or Visitor Rooms	1 per room	—	1 per room	—	1 per room	—
+Employee Use	Male
+1: 1-15
+2: 16-35
+3: 36-55	Female
+1: 1-15
+3: 16-35
+4: 36-55	—	Male
+1 per 40	Female
+1 per 40	—	—	—
+Over 55, add 1 fixture for each additional 40 persons.
+I-3 Institutional occupancy(houses more than 5 people)	Prisons	1 per cell	—	1 per cell	1 per 20	1 per cell
+block/floor	—
+Correctional facilities or juvenile center	1 per 8	—	1 per 10	1 per 8	1 per floor	1 service sink or laundry tray
+Employee Use	Male
+1: 1-15
+2: 16-35
+3: 36-55	Female
+1: 1-15
+3: 16-35
+4: 36-55	—	Male
+1 per 40	Female
+1 per 40	—	1 per 150	—
+Over 55, add 1 fixture for each additional 40 persons.
+I-4 Institutional occupancy (any age that receives care for less than 24 hours)	Male
+1: 1-15
+2: 16-35
+3: 36-55	Female
+1: 1-15
+3: 16-35
+4: 36-55	—	Male
+1 per 40	Female
+1 per 40	—	1 per 150	1 service sink or laundry tray
+Over 55, add 1 fixture for each additional 40 persons.
+M Mercantile occupancy (the sale of merchandise and accessible to the public)	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-100
+2: 101-200
+4: 201-300
+6: 301-400	Male
+0: 1-200
+1: 201-400	Male
+1: 1-200
+2: 201-400	Female
+1: 1-200
+2: 201-300
+3: 301-400	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each 200 females.	Over 400, add 1 fixture for each additional 500 males.	Over 400, add 1 fixture for each additional 500 males and 1 fixture for each 400 females.	—	Over 750, add 1 fixture for each additional 500 persons.	—
+R-1 Residential occupancy (minimal stay)- hotels, motels, bed and breakfast homes	1 per sleeping room	—	1 per sleeping room	1 per sleeping room	—	1 service sink or laundry tray
+R-2 Residential occupancy (long-term or permanent)	Dormitories	Male
+1 per 10	Female
+1 per 8	Male
+1 per 25	Male
+1 per 12	Female
+1 per 12	1 per 8	1 per 150	1 service sink or laundry tray
+Add 1 fixture for each additional 25 males and 1 fixture for each additional 20 females.	Over 150,
+add 1 fixture for each additional 50 males.	Add 1 fixture for each additional 20 males and 1 fixture for each additional 15 females.
+Employee Use	Male
+1: 1-15
+2: 16-35
+3: 36-55	Female
+1: 1-15
+3: 16-35
+4: 36-55	—	Male
+1 per 40	Female
+1 per 40	—	—
+Over 55, add 1 fixture for each additional 40 persons
+Apartment
+house/unit	1 per apartment	—	1 per apartment	1 per apartment	—	1 kitchen sink per apartment. 1 laundry tray or 1 automatic
+clothes washer
+connection per unit or 1 laundry tray or 1 automatic
+clothes washer
+connection for
+each 12 units
+R-3 Residential occupancy (long-term or permanent in nature) for more than 5 but does not exceed 16 occupants)	Male
+1 per 10	Female
+1 per 8	—	Male
+1 per 12	Female
+1 per 12	1 per 8	1 per 150	1 service sink or laundry tray
+Add 1 fixture for each additional 25 males and 1 fixture for each additional 20 females.	Add 1 fixture for each additional 20 males and 1 fixture for each additional 15 females.
+R-3 Residential occupancy (one and two family dwellings)	1 per one and two family dwelling	—	1 per one and two family dwelling	1 per one and two family dwelling	—	1 kitchen sink and 1 automatic
+clothes washer
+connection per one and two family
+dwelling
+R-4 Residential occupancy (residential care or assisted living)	Male
+1 per 10	Female
+1 per 8	—	Male
+1 per 12	Female
+1 per 12	1 per 8	1 per 150	1 service sink or laundry tray
+Add 1 fixture for each additional 25 males and 1 fixture for each additional 20 females.	Add 1 fixture for each additional 20 males and 1 fixture for each additional 15 females.
+S-1, S-2 Storage occupancy-storage of goods, warehouse, aircraft hanger, food products, appliances	Male
+1: 1-100
+2: 101-200
+3: 201-400	Female
+1: 1-100
+2: 101-200
+3: 201-400	—	Male
+1: 1-200
+2: 201-400
+3: 401-750	Female
+1: 1-200
+2: 201-400
+3: 401-750	—	1: 1-250
+2: 251-500
+3: 501-750	1 service sink or laundry tray
+Over 400, add 1 fixture for each additional 500 males and 1 fixture for each additional 150 females.	Over 750, add 1 fixture for each additional 500 persons.	Over 750, add 1 fixture for each additional 500 persons.
+
+[BSC] This
+
+requirement shall not apply when single occupancy toilet facilities are provided for each sex in an A or E occupancy with an occupant load of less than 50.
+
+Either
+
+The required urinal shall be permitted to be omitted or
+
+If installed, the urinal shall not require a second water closet to be provided for the female.
+
+6 [BSC, DSA-AC, DSA-SS, DSA-SS/CC, HCD 1 & HCD 2, OSHPD 1, 2, 3, 4 & 5] In accordance with Sections 1.8.7 and 301.3, the Authority Having Jurisdiction may approve alternative design criteria when determining the minimum number of plumbing fixtures.
+
+FUNCTION OF SPACE* **	OCCUPANTLOAD FACTOR(square feet)
+Assembly - without fixed seats
+Auditorium, convention and dance hall, lodge, stage, indoor sport/spectator event, worship, arcade, gaming
+(standing space)	11
+Waiting, terminal (portable seating space)	15
+Conference, dining/drinking, lounge (portable seating/table space)	30
+Gallery, museum, exhibit (standing space)	30
+Assembly — with fixed seats	See CBC 1004.6Use 50% of the fixedseating value
+Business (office, sales/soliciting, administration, food processing, courtroom, ambulatory clinic)	150See CBC 1004.8
+Dormitory	50
+Day care	35
+Education (classroom)
+Through 12th grade	30
+Education (classroom)
+Beyond 12th grade	50
+Exercise (fitness)	50
+Industrial (fabrication, foundry, workshop, component assembly, repair)	500
+Kitchen/food prep (commercial)	50
+Laboratory
+Educational	50
+Laboratory
+Non - educational	100
+Library	50
+Mercantile (wholesale, retail)	100
+Mall building (covered/open)	See CBC 402.8.2
+Residential (long term: central toilet facilities)	200
+Warehouse
+Storage portions	4000
+Warehouse
+Distribution portions (selecting, processing, packing, receiving, shipping)	500
+
+11
+
+SPACE	HANDWASHING FIXTURE	SCRUB SINKS3	TOILETS	BATHTUBS OR SHOWERS	SERVICE SINKS1	CLINIC SINKS
+Administration Lobby						
+Public Toilet - Male	12		1			
+Public Toilet - Female	12		1			
+Airborne infection isolation room	1					
+Airborne infection isolation treatment/exam room	1					
+Airborne infection isolation anteroom	120					
+Airborne infection isolation toilet room	12		15	15		
+Cardiac Catheterization procedure room		14, 33				
+Central Sterile Supply	115					
+Cesarean/Delivery Service Space						
+Labor Rooms	133		19	19		
+Recovery Room	133					1
+Drug distribution station	1					
+Cesarean operating room		210, 33				
+Delivery room		110, 33				
+Staff lounge						
+Staff Toilet - Male	12		1:1-15			
+Staff Toilet - Female	12		1:1-15			
+LDR or LDRP room	133		1	1		
+Waiting area/room						
+Public Toilet - Male	12		1			
+Public Toilet - Female	12		1			
+Clinical Laboratory Service Space11	1					
+Dietetic Service Space					1	
+Kitchen	133					
+Food serving area	133					
+Food Preparation	133					
+Dietary Staff Toilet - Male	12		1:1-15			
+Dietary Staff Toilet - Female	12		1:1-15			
+Emergency Service	1					
+Open plan	1:4 cubicles		1			
+Observation unit(s)	1:4 cubicles		1:6 beds			
+Trauma/Cardiac, Emergency surgery, Cystoscopy, Cast Room		14,33				
+Intensive Care Units7					1	1
+Open plan	1:3 beds33					
+Patient rooms28	133					
+Newborn Intensive Care Unit (NICU)	1:4 bassinets17, 33				1	1
+Treatment area/room	1					
+Control station	133					
+Staff lounge						
+Staff Toilet - Male	12		1:1-15			
+Staff Toilet- Female	12		1:1-15			
+Employee dressing rooms and lockers						
+Staff Toilet - Male	12		1:1-15			
+Staff Toilet - Female	12		1:1-15			
+Exam and treatment rooms	1					
+Housekeeping room1					1	
+Laboratories	115					
+Laundry soiled linen, receiving, holding and sorting	1					
+Medicine preparation room	119					
+Morgue and Autopsy	1					
+Nourishment area	1+12					
+Nuclear Medicine room	1					
+Mold room	1					
+Patient room	1					
+Patient toilet and bath facilities13	12		1:4 beds	1:1216		
+Central bathing facility16	1		1	1		
+Special bathing facility16				1		
+Nurse Station27	1		112			
+Newborn/well baby nursery	1:6 bassinets33					
+Workroom	133					
+Gastrointestinal endoscopy procedure room	133					
+Outpatient observation35	1		1			
+Pediatric and Adolescent Unit toilet room	12,26		126			
+Pharmacy	125					
+Staff Toilet - Male	12		1:1-15			
+Staff Toilet - Female	12		1:1-15			
+Compounding area for parenteral solutions	133					
+Postanesthesia care units (PACU)						1
+Open plan	1:4 gurney
+spaces33					
+Individual rooms	133					
+Protective environment room	133					
+Protective environment anteroom	120,33					
+Protective environment toilet room	12		15	15		
+Psychiatric unit patient room	1		1			
+Radiological/Imaging Services Space	1		129			
+Mammography	1					
+Interventional imaging		1				
+Ultrasound8			130			
+Angiography		14,31				
+Fluoroscopy8			130			
+Staff Toilet18 - Male	12		1:1-15			
+Staff Toilet18 - Female	12		1:1-15			
+Rehabilitation Therapy Space						
+Training toilet			1			
+Physical therapy service space	1					
+Occupational therapy service space	1					
+Speech pathology	1					
+Infusion Therapy	1					
+Renal Dialysis Service Space	1:4 stations				1	
+Bloodborne Infection Isolation Room	1					
+Nurses' station	1					
+Medication dispensing	1					
+Home training room	1					
+Repair room11	1				1	
+Dialysis patient toilet	12		1			
+Staff lounge						
+Staff Toilet - Male	1		1:1-15	1 shower		
+Staff Toilet - Female	1		1:1-15	1 shower		
+Surgical Service Space		233			1	
+Staff clothing change areas						
+Staff Toilet - Male	12		1	1 shower		
+Staff Toilet - Female	12		1	1 shower		
+Clean-up rooms	1					
+Substerile area	1					
+Anesthesia workroom	1					
+Soiled workroom or soiled holding	1					134
+Cancer treatment/infusion therapy treatment	1:4 stations					
+Utility/Work Room						
+Clean21	1					
+Soiled22	1					114
+Patient beds [Skilled Nursing/Intermediate Care Facilities] [medical model]	1:82		1:6	1:20		
+Patient toilet and bath facilities13 [Correctional Treatment Center]	1:82		1:6	1:12		
+Airborne infection isolation anteroom6 [Correctional Treatment Center]	16		16	16		
+Airborne infection isolation anteroom [Correctional Treatment Center]	1					
+Protective environment room6 [Correctional Treatment Center]	16		16	16		
+Protective environment anteroom [Correctional Treatment Center]	1					
+
+TABLE 4-2[OSHPD 1, 2, 3, 4 & 5]24 MINIMUM PLUMBING FACILITIES
+
+SPACE
+
+HANDWASHING FIXTURE
+
+SCRUB SINKS3
+
+TOILETS
+
+BATHTUBS OR SHOWERS
+
+SERVICE SINKS1
+
+CLINIC SINKS
+
+Administration Lobby
+
+Public Toilet - Male
+
+12
+
+1
+
+Public Toilet - Female
+
+12
+
+1
+
+Airborne infection isolation room
+
+1
+
+Airborne infection isolation treatment/exam room
+
+1
+
+Airborne infection isolation anteroom
+
+120
+
+Airborne infection isolation toilet room
+
+12
+
+15
+
+15
+
+Cardiac Catheterization procedure room
+
+14, 33
+
+Central Sterile Supply
+
+115
+
+Cesarean/Delivery Service Space
+
+Labor Rooms
+
+133
+
+19
+
+19
+
+Recovery Room
+
+133
+
+1
+
+Drug distribution station
+
+1
+
+Cesarean operating room
+
+210, 33
+
+Delivery room
+
+110, 33
+
+Staff lounge
+
+Staff Toilet - Male
+
+12
+
+1:1-15
+
+Staff Toilet - Female
+
+12
+
+1:1-15
+
+LDR or LDRP room
+
+133
+
+1
+
+1
+
+Waiting area/room
+
+Public Toilet - Male
+
+12
+
+1
+
+Public Toilet - Female
+
+12
+
+1
+
+Clinical Laboratory Service Space11
+
+1
+
+Dietetic Service Space
+
+1
+
+Kitchen
+
+133
+
+Food serving area
+
+133
+
+Food Preparation
+
+133
+
+Dietary Staff Toilet - Male
+
+12
+
+1:1-15
+
+Dietary Staff Toilet - Female
+
+12
+
+1:1-15
+
+Emergency Service
+
+1
+
+Open plan
+
+1:4 cubicles
+
+1
+
+Observation unit(s)
+
+1:4 cubicles
+
+1:6 beds
+
+Trauma/Cardiac, Emergency surgery, Cystoscopy, Cast Room
+
+14,33
+
+Intensive Care Units7
+
+1
+
+1
+
+Open plan
+
+1:3 beds33
+
+Patient rooms28
+
+133
+
+Newborn Intensive Care Unit (NICU)
+
+1:4 bassinets17, 33
+
+1
+
+1
+
+Treatment area/room
+
+1
+
+Control station
+
+133
+
+Staff lounge
+
+Staff Toilet - Male
+
+12
+
+1:1-15
+
+Staff Toilet- Female
+
+12
+
+1:1-15
+
+Employee dressing rooms and lockers
+
+Staff Toilet - Male
+
+12
+
+1:1-15
+
+Staff Toilet - Female
+
+12
+
+1:1-15
+
+Exam and treatment rooms
+
+1
+
+Housekeeping room1
+
+1
+
+Laboratories
+
+115
+
+Laundry soiled linen, receiving, holding and sorting
+
+1
+
+Medicine preparation room
+
+119
+
+Morgue and Autopsy
+
+1
+
+Nourishment area
+
+1+12
+
+Nuclear Medicine room
+
+1
+
+Mold room
+
+1
+
+Patient room
+
+1
+
+Patient toilet and bath facilities13
+
+12
+
+1:4 beds
+
+1:1216
+
+Central bathing facility16
+
+1
+
+1
+
+1
+
+Special bathing facility16
+
+1
+
+Nurse Station27
+
+1
+
+112
+
+Newborn/well baby nursery
+
+1:6 bassinets33
+
+Workroom
+
+133
+
+Gastrointestinal endoscopy procedure room
+
+133
+
+Outpatient observation35
+
+1
+
+1
+
+Pediatric and Adolescent Unit toilet room
+
+12,26
+
+126
+
+Pharmacy
+
+125
+
+Staff Toilet - Male
+
+12
+
+1:1-15
+
+Staff Toilet - Female
+
+12
+
+1:1-15
+
+Compounding area for parenteral solutions
+
+133
+
+Postanesthesia care units (PACU)
+
+1
+
+Open plan
+
+1:4 gurney
+
+spaces33
+
+Individual rooms
+
+133
+
+Protective environment room
+
+133
+
+Protective environment anteroom
+
+120,33
+
+Protective environment toilet room
+
+12
+
+15
+
+15
+
+Psychiatric unit patient room
+
+1
+
+1
+
+Radiological/Imaging Services Space
+
+1
+
+129
+
+Mammography
+
+1
+
+Interventional imaging
+
+1
+
+Ultrasound8
+
+130
+
+Angiography
+
+14,31
+
+Fluoroscopy8
+
+130
+
+Staff Toilet18 - Male
+
+12
+
+1:1-15
+
+Staff Toilet18 - Female
+
+12
+
+1:1-15
+
+Rehabilitation Therapy Space
+
+Training toilet
+
+1
+
+Physical therapy service space
+
+1
+
+Occupational therapy service space
+
+1
+
+Speech pathology
+
+1
+
+Infusion Therapy
+
+1
+
+Renal Dialysis Service Space
+
+1:4 stations
+
+1
+
+Bloodborne Infection Isolation Room
+
+1
+
+Nurses' station
+
+1
+
+Medication dispensing
+
+1
+
+Home training room
+
+1
+
+Repair room11
+
+1
+
+1
+
+Dialysis patient toilet
+
+12
+
+1
+
+Staff lounge
+
+Staff Toilet - Male
+
+1
+
+1:1-15
+
+1 shower
+
+Staff Toilet - Female
+
+1
+
+1:1-15
+
+1 shower
+
+Surgical Service Space
+
+233
+
+1
+
+Staff clothing change areas
+
+Staff Toilet - Male
+
+12
+
+1
+
+1 shower
+
+Staff Toilet - Female
+
+12
+
+1
+
+1 shower
+
+Clean-up rooms
+
+1
+
+Substerile area
+
+1
+
+Anesthesia workroom
+
+1
+
+Soiled workroom or soiled holding
+
+1
+
+134
+
+Cancer treatment/infusion therapy treatment
+
+1:4 stations
+
+Utility/Work Room
+
+Clean21
+
+1
+
+Soiled22
+
+1
+
+114
+
+Patient beds [Skilled Nursing/Intermediate Care Facilities] [medical model]
+
+1:82
+
+1:6
+
+1:20
+
+Patient toilet and bath facilities13 [Correctional Treatment Center]
+
+1:82
+
+1:6
+
+1:12
+
+Airborne infection isolation anteroom6 [Correctional Treatment Center]
+
+16
+
+16
+
+16
+
+Airborne infection isolation anteroom [Correctional Treatment Center]
+
+1
+
+Protective environment room6 [Correctional Treatment Center]
+
+16
+
+16
+
+16
+
+Protective environment anteroom [Correctional Treatment Center]
+
+1
+
+Notes:
+
+TYPE OF BUILDING OR OCCUPANCY	WATER CLOSETS (FIXTURES PER PERSON)7	URINALS (TROUGH URINAL TO INDIVIDUAL URINAL EQUIVALENCE) MALE	LAVATORIES (FIXTURES PER PERSON)	BATHTUBS OR SHOWERS (FIXTURES PER PERSON)	DRINKING FOUNTAINS (FIXTURE PER PERSON)3
+MALE	FEMALE
+Nonindustrial—office buildings, public buildings and similar establishments	1 1-152 16-353 36-554 56-805 81-1106 111-150	1 1-152 16-353 36-554 56-805 81-1106 111-150	Length of troughurinal 24" (610mm) 36" (914 mm) 48" (1219 mm)60" (1524 mm)	Number of individual urinals
+1223	1 1-152 16-353 36-604 61-905 91-1251 additional for each additional 4 employees or fraction thereof	1:10 persons per shift required to shower	-
+1 additional for each additional 40 employees or fraction thereof
+Industrial—factories, warehouses, loft buildings and similar establishments	1 1-15 2 16-35 3 36-55 4 56-805 81-1106 111-150	1 1-152 16-353 36-554 56-805 81-1106 111-150	24" (610 mm)36" (914 mm)48" (1219 mm)60" (1524 mm)72" (1829 mm)	1
+2
+2
+3
+4	1 to 100employees1 per 10Over 100 employees 1 additional for each additional 15 employees or fraction thereof	1:10 persons per shift required to shower	-
+1 additional for each additional 40 employees or fraction thereof
+
+TABLE 4-3 [AGR]
+
+Notes:
+
+1 The figures shown are based on one fixture being the minimum required for the number of persons indicated or any fraction thereof
+
+2 Each water closet shall occupy a separate compartment which shall be equipped with a door, door latch and clothes hook. The door and the walls or partitions between fixtures shall be sufficient to assure privacy.
+
+3 Drinking fountains shall not be located in toilet rooms.
+
+4 Washing facilities shall be reasonably accessible to all employees
+
+5 Toilet facilities shall be accessible to the employees at all times. Where practicable, toilet facilities should be within 200 feet (61 m) of locations at which workers are regularly employed and should not be more than one floor-to-floor flight of stairs from working areas
+
+6 Urinals may be installed instead of water closets in toilet rooms to be used only by men provided that the number of water closets shall not be less than two thirds of the minimum number of toilet facilities specified. The length of trough urinals to the equivalent number of individual urinals shall be based on the above table.
+
+7 When there are less than five employees, separate toilet rooms for each sex are not required provided toilet rooms can be locked from the inside and contain at least one water closet.
+
+8 Twenty-four linear inches of wash sink or 18 inches of circular basin, when provided with water outlets for such space, shall be considered equivalent to one lavatory.
+
+TYPE OF BUILDING OR OCCUPANCY2	WATER CLOSETS(FIXTURES PER PERSON)	URINAL(FIXTURES PER MALE)	LAVATORIES(FIXTURES PER PERSON)	BATHTUBS OR SHOWERS(FIXTURES PER PERSON)	DRINKING FOUNTAINS(FIXTURES PER PERSON)
+Day Use Public Beaches1, 2	Male Female1 1-100 1 1-100No sex designated1 1-500Minimum of 2	May be substituted for up to two-thirds of the water closets required			
+Picnic Areas	Male Female1 1-50 1 1-50				
+Overnight UsePublic Beaches2	1 1-7.5 campsites31 1-7.5 campsites3	May be substituted for up to one-third of the water closets required3		1 1-12.5 campsites4	
+Organized Camps	1 1-153		1 1-15	1 1-156	Minimum 1 per camp
+
+TABLE 4-4 [DPH]
+
+TYPE OF BUILDING OR OCCUPANCY2
+
+WATER CLOSETS(FIXTURES PER PERSON)
+
+URINAL(FIXTURES PER MALE)
+
+LAVATORIES(FIXTURES PER PERSON)
+
+BATHTUBS OR SHOWERS(FIXTURES PER PERSON)
+
+DRINKING FOUNTAINS(FIXTURES PER PERSON)
+
+Day Use Public Beaches1, 2
+
+Male Female
+
+1 1-100 1 1-100
+
+No sex designated
+
+1 1-500
+
+Minimum of 2
+
+May be substituted for up to two-thirds of the water closets required
+
+Picnic Areas
+
+Male Female
+
+1 1-50 1 1-50
+
+Overnight Use
+
+Public Beaches2
+
+1 1-7.5 campsites3
+
+1 1-7.5 campsites3
+
+May be substituted for up to one-third of the water closets required3
+
+1 1-12.5 campsites4
+
+Organized Camps
+
+1 1-153
+
+1 1-15
+
+1 1-156
+
+Minimum 1 per camp
+
+Notes:
+
+1 Toilets shall be located in accordance with actual use patterns on the beach. The reasonable intent of the toilet requirements is that it should apply on the basis of average daily use during periods of peak use. The health officer may determine how many days the population standard may be exceeded.
+
+2 Laundry facilities are not required, but if they are provided, must be a minimum of two laundry trays or a washing machine.
+
+3 Toilet facilities shall not be farther than 400 feet from any lot or campsite.
+
+4 Showers are not required, but it provided, they shall be provided on the indicated ratio. Outdoor rinse-off showers may be cold water only.
+
+5 Toilets shall be located within 300 feet from the living accommodations they serve.
+
+6 Showers shall be provided in the living area or in a centrally located structure.
+
+422.1.1 Family or Assisted-Use Toilet and Bathing Facilities
+422.1.2
+[DSA-AC] Effective January 1, 1990, in new
+construction and those existing facilities which occupancy
+type are listed in Tables 422.1 and 4-4 for public
+use, which apply for permit to undertake construction,
+structural alterations, repairs or improvement which exceed 50 percent of the square footage of the entire
+facility, shall install water closets, urinals, lavatories and
+drinking fountains as stipulated in Tables 422.1 and 4-4
+for public use. Community and/or municipal parks with
+a bleacher capacity not exceeding 500 seats shall be
+exempt from the requirements of this section and Tables
+422.1 and 4-4. Each bathroom shall comply with Part 2,
+Chapter 11A and 11B of the California Building Code.
+
+422.1.3
+[OSHPD 1, 2, 3, 4 & 5] OSHPD facilities shall also comply with requirements of the California
+Building Code, Chapters 1224,1225, 1226, 1227 and
+1228 in addition to total occupant load and occupancy
+classification for determination of minimum number of
+fixtures.
+
+422.2 Separate Facilities
+[Not adopted for OSHPD 1, 2, 3, 4 & 5]
+
+422.2.1 Single Use Toilet Facilities
+422.2.2 Family or Assisted-Use Toilet Facilities
+422.3 Fixture Requirements for Special Occupancies
+422.3.1
+[OSHPD 1, 2, 3, 4 & 5] Separate toilet facilities shall be provided for the use of patients, staff personnel and visitors.Exception for Primary Care Clinics Only: Where a facility contains no more than three examination and/or treatment rooms, the patient toilet shall be permitted to serve waiting areas.
+
+422.4 Toilet Facilities Serving Employees and Customers
+[Not adopted for OSHPD 1, 2, 3, 4 & 5]
+
+422.4.1 Access to Toilet Facilities
+422.5 Toilet Facilities for Workers
+422.6 [CA] Cosmetology
+Each school shall provide public
+toilet rooms for each sex on the licensed premises in accordance
+with the California Plumbing Code, Table 422.1.
+
+422.7 [CA] Cosmetology Establishments
+Each establishment
+where hairdressing services are performed shall provide
+at least one public toilet room located on the premises in
+accordance with the California Plumbing Code, Table 422.1.
+
+422.8 [DPH] Commissaries Serving Mobile Food Preparation Units
+Commissaries serving mobile food
+preparation units shall have at least one hose bib. The hose
+bib shall be supplied with hot and cold water and be provided
+with a single spout, a backflow-preventer device and shall be
+located on the premises of the establishment.
+
+422.9 [DPH] Employee Lavatories in Food Establishments
+Employee lavatories installed in food establishments
+shall be equipped with an approved single spout capable of
+providing tempered (100 °F - 115°F) (37.8°C - 46.1°C) running
+water:
+
+Note: This requirement applies only to commissaries serving mobile food preparation units.
+

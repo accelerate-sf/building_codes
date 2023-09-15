@@ -1,0 +1,2086 @@
+SUBCHAPTER 10 MULTIFAMILY BUILDINGS—MANDATORY REQUIREMENTS
+
+SECTION 160.0 GENERAL
+
+Multifamily buildings shall comply with the applicable requirements of Sections 160.1 through 160.9. Sections 160.1 through 160.8 apply to dwelling units and common use areas in multifamily buildings. Nonresidential occupancies in a mixed occupancy building shall comply with nonresidential requirements in Sections 120.0 through 141.1.
+
+NOTE: The requirements of Sections 160.1 through 160.9 apply to newly constructed buildings. Sections 180.1 through 180.4 specify which requirements of Sections 160.1 through 160.9 apply to additions or alterations.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 160.1 MANDATORY REQUIREMENTS FOR BUILDING ENVELOPES
+
+(a)Ceiling and roof insulation. The opaque portions of ceilings and roofs separating conditioned spaces from unconditioned spaces or ambient air shall meet the requirements of Item 1 or 2, and 3 below:
+
+1.Attic roof. Roofs with an attic space shall meet the requirements of A through C below:
+
+A.Shall be insulated to achieve an area-weighted average U-factor not exceeding U-0.043 or shall be insulated between wood-framing members with insulation resulting in an installed thermal resistance of R-22 or greater for the insulation alone. For vented attics, the mandatory insulation shall be installed at the ceiling level; for unvented attics, the mandatory insulation shall be placed at either ceiling or roof level;
+
+B.Attic access doors shall have permanently attached insulation using adhesive or mechanical fasteners. The attic access shall be gasketed to prevent air leakage; and
+
+C.When loose-fill insulation is installed, the minimum installed weight per square foot shall conform with the insulation manufacturer's installed design weight per square foot at the manufacturer's labeled R-value.
+
+2.Nonattic roof. Roofs without attic spaces shall meet the applicable requirements of A through C below:
+
+A.Metal building—The area-weighted average U-factor of the roof assembly shall not exceed 0.098.
+
+B.Wood framed and others—The area-weighted average U-factor of the roof assembly shall not exceed 0.075.
+
+C.Insulation placement—When insulation is installed at the roof, fixed vents or openings to the outdoors or to unconditioned spaces shall not be installed. When the space between the ceiling and the roof is either directly or indirectly conditioned space, it shall not be considered an attic for the purposes of complying with CBC attic ventilation requirements.
+
+Exception to Section 160.1(a)2C: Vents that do not penetrate the roof deck and are instead designed for wind resistance for roof membranes are not within the scope of Section 160.1(a)2C.
+
+3.Insulation shall be installed in direct contact with a roof or ceiling that is sealed to limit infiltration and exfiltration as specified in Section 110.7, including but not limited to placing insulation either above or below the roof deck or on top of a drywall ceiling.
+
+(b) Wall insulation. Opaque portions of above grade walls separating conditioned spaces from unconditioned spaces or ambient air shall meet the following applicable requirements:
+
+1.  Metal building—The area-weighted average U-factor of the wall assembly shall not exceed 0.113.
+
+2. Metal framed—The area-weighted average U-factor of the wall assembly shall not exceed 0.151.
+
+3. Wood framed and others—
+
+A. Nominal 2x4 inch framing shall have an areaweighted average U-factor of the wall assembly not exceeding 0.102.
+
+B.  Nominal 2x6 inch framing shall have an areaweighted average U-factor of the wall assembly not exceeding 0.071.
+
+C. Other wall assemblies shall have an area-weighted average U-factor of the wall assembly not exceeding 0.102.
+
+4. Light mass walls—A 6 inch or greater hollow core concrete masonry unit shall have a U-factor not to exceed 0.440.
+
+5. Heavy mass walls—An 8 inch or greater hollow core concrete masonry unit shall have a U-factor not to exceed 0.690.
+
+6. Spandrel panels and curtain wall—The area-weighted average U-factor of the spandrel panels and curtain wall assembly shall not exceed 0.280.
+
+7. Demising walls—The opaque portions of framed demising walls shall meet the requirements of Item A or B below:
+
+A. Wood framed walls shall be insulated to meet a U-factor not greater than 0.099.
+
+B. Metal framed walls shall be insulated to meet a U-factor not greater than 0.151.
+
+8. Bay or bow window roofs and floors shall be insulated to meet the wall insulation requirements of Table 170.2-A.
+
+(c) Floor and soffit insulation. The opaque portions of floors and soffits that separate conditioned spaces from unconditioned spaces or ambient air shall meet the applicable requirements of Items 1 through 3 below:
+
+1.Raised mass floors shall have a minimum of 3 inches of lightweight concrete over a metal deck or the areaweighted average U-factor of the floor assembly shall not exceed 0.269.
+
+2.Raised wood floor shall have an overall assembly Ufactor not exceeding U-0.037. In a wood framed assembly, compliance with the U-factor may be demonstrated by installing insulation with an R-value of 19 or greater.
+
+3.Other floors—The area-weighted average U-factor of the floor assembly shall not exceed 0.071.
+
+4.Heated slab on grade floor—A heated slab on grade floor shall be insulated to meet the requirements of Section 110.8(g).
+
+Exception to Section 160.1(c):  A building with a controlled ventilation or unvented crawl space may omit raised floor insulation if all of the following are met:
+
+A. The foundation walls are insulated to meet the wall insulation minimums as shown in Table 170.2-A; and
+
+B. A Class I or Class II vapor retarder is placed over the entire floor of the crawl space; and
+
+C. Vents between the crawl space and outside air are fitted with automatically operated louvers that are temperature actuated; and
+
+D. The requirements in Reference Residential Appendix RA4.5.1.
+
+(d) Vapor retarder.
+
+1. In Climate Zones 1–16, the earth floor of unvented crawl space shall be covered with a Class I or Class II vapor retarder. This requirement shall also apply to controlled ventilation crawl space for buildings complying with the Exception to Section 160.1(c).
+
+2. In Climate Zones 14 and 16, a Class I or Class II vapor retarder shall be installed on the conditioned space side of all insulation in all exterior walls, vented attics and unvented attics with air-permeable insulation.
+
+(e) Fenestration products. Fenestration separating conditioned space from unconditioned space or outdoors shall meet the requirements of either Item 1 or 2 below:
+
+1.Fenestration, including skylight products, must have a maximum U-factor of 0.58.
+
+Exception 1 to Section 160.1(e)1:  Up to 0.5 percent of the conditioned floor area is exempt from the maximum U-factor requirement.
+
+Exception 2 to Section 160.1(e)1: For dual-glazed greenhouse or garden windows, up to 30 square feet of fenestration area per dwelling unit is exempt from the maximum U-factor requirement.
+
+2. The area-weighted average U-factor of all fenestration, including skylight products, shall not exceed 0.58.
+
+(f) Installation of fireplaces, decorative gas appliances and gas logs. If a masonry or factory-built fireplace is installed, it shall comply with Section 110.5, Section 4.503 of Part 11, and shall have the following:
+
+1. Closable metal or glass doors covering the entire opening of the firebox; and
+
+2. A combustion air intake to draw air from the outside of the building, which is at least 6 square inches in area and is equipped with a readily accessible, operable and tight-fitting damper or combustion-air control device; and
+
+Exception to Section 160.1(f)2:  An outside combustion-air intake is not required if the fireplace will be installed over concrete slab flooring and the fireplace will not be located on an exterior wall.
+
+3. A flue damper with a readily accessible control.
+
+Exception to Section 160.1(f)3:  When a gas log, log lighter or decorative gas appliance is installed in a fireplace, the flue damper shall be blocked open if required by the CMC or the manufacturer's installation instructions.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 160.2 MANDATORY REQUIREMENTS FOR VENTILATION AND INDOOR AIR QUALITY
+
+(a) General requirements.
+
+1. Attached dwelling units in multifamily buildings shall comply with the applicable requirements of Subsection 160.2(b) below. Occupiable spaces in multifamily buildings other than attached dwelling units shall comply with the applicable requirements of Section 160.2(c). When HERS field verification and diagnostic testing of attached dwelling units is required by Section 160.2, buildings with three habitable stories or fewer shall use the applicable procedures in the Residential Appendices, and buildings with four or more habitable stories shall use the applicable procedures in Nonresidential Appendices NA1 and NA2.
+
+NOTE: Section 160.2 is not applicable to townhouses or dwellings that contain two dwelling units.
+NOTE: Section 160.2 is not applicable to townhouses or dwellings that contain two dwelling units.
+
+2. The required outdoor air-ventilation rate and the airdistribution system design shall be clearly identified on the building design plans submitted to the enforcement agency in accordance with Section 10-103 of Title 24, Part 1.
+
+(b) Attached dwelling units. Attached dwelling units shall comply with the requirements of Subsections 1 and 2 below.
+
+1. Air filtration.
+
+A. System types specified in Subsections i, ii and iii shall be provided with air filters in accordance with Sections 160.2(b)1B, 160.2(b)1C and 160.2(b)1D. System types specified in Subsection i shall also comply with Section 160.2(b)1E.
+
+i.Mechanical space-conditioning systems that supply air to an occupiable space through ductwork exceeding 10 ft (3 m) in length.
+
+ii.Mechanical supply-only ventilation systems and makeup air systems that provide outside air to an occupiable space.
+
+iii.The supply side of mechanical balanced ventilation systems, including heat recovery ventilation systems, and energy recovery ventilation systems that provide outside air to an occupiable space.
+
+B. System design and installation.
+
+i. The system shall be designed to ensure that all recirculated air and all outdoor air supplied to the occupiable space are filtered before passing through any system's thermal conditioning components.
+
+Exception to Section 160.2(b)1Bi: For heat recovery ventilators and energy recovery ventilators, the location of the filters required by Section 160.2(b)1 may be downstream of a system thermal conditioning component, provided the system is equipped with ancillary filtration upstream of the system’s thermal conditioning component.
+
+ii. All systems shall be designed to accommodate the clean-filter pressure drop imposed by the system air filter(s). The design airflow rate, and maximum allowable clean-filter pressure drop at the design airflow rate applicable to each air filter, shall be determined and reported on labels according to Subsection iv below.
+
+Systems specified in Section 160.2(b)1Ai shall be equipped with air filters that meet either Subsection a or b below:
+Systems specified in Section 160.2(b)1Ai shall be equipped with air filters that meet either Subsection a or b below:
+
+a.Nominal 2-inch minimum depth filter(s) shall be sized by the system designer, or
+
+b.Nominal 1-inch minimum depth filter(s) shall be allowed if the filter(s) are sized according to Equation 160.2-A, based on a maximum face velocity of 150 ft per minute and according to the maximum allowable clean-filter pressure drop specified in Section 160.2(b)1Dii.
+
+where:
+
+Aface=  air filter face area, the product of air filter nominal length × nominal width, ft2.
+
+Qfilter=  design airflow rate for the air filter, ft3/ min
+
+Vface=  air filter face velocity ≤ 150 ft/min
+
+iii. All system air filters shall be located and installed in such a manner as to be accessible for regular service by the system owner.
+
+iv. All system air filter installation locations shall be labeled to disclose the applicable design airflow rate and the maximum allowable clean-filter pressure drop. The labels shall be permanently affixed to the air filter installation location, readily legible and visible to a person replacing the air filter.
+
+v. Filter racks or grilles shall use gaskets, sealing or other means to close gaps around inserted filters and prevent air from bypassing the filter.
+
+C. Air filter efficiency. The system shall be provided with air filters having a designated efficiency equal to or greater than MERV 13 when tested in accordance with ASHRAE Standard 52.2, or a particle size efficiency rating equal to or greater than 50 percent in the 0.30–1.0 μm range, and equal to or greater than 85 percent in the 1.0–3.0 μm range when tested in accordance with AHRI Standard 680.
+
+D. Air filter pressure drop. All systems shall be provided with air filters that conform to the applicable maximum allowable clean-filter pressure drop specified in Subsection i, ii, iii or iv below, when tested using ASHRAE Standard 52.2, or as rated using AHRI Standard 680, for the applicable design airflow rates for the system air filters.
+
+i. The maximum allowable clean-filter pressure drop shall be determined by the system design for the nominal 2-inch minimum depth air filter required by Section 160.2(b)1Biia, or
+
+ii. A maximum of 25 Pa (0.1 inches water) clean-filter pressure drop shall be allowed for a nominal 1-inch depth air filter sized according to Section 160.2(b)1Biib, or
+
+iii. For systems specified in Sections 160.2(b)1Aii and 160.2(b)1Aiii, the maximum allowable clean filter pressure drop shall be determined by the system design.
+
+iv. If Exception 1 to Section 160.3(b)5Lii or iv is utilized for compliance with cooling system airflow rate and fan efficacy requirements, the clean-filter pressure drop for the system air filter shall conform to the requirements given in Table 160.3-A or 160.3-B.
+
+E. Air filter product labeling. Systems described in Section 160.2(b)1Ai shall be equipped with air filters that have been labeled by the manufacturer to disclose the efficiency and pressure drop ratings that demonstrate conformance with Sections 160.2(b)1C and 160.2(b)1D.
+
+Exception to Section 160.2(b)1:  Evaporative coolers are exempt from the air filtration requirements in Section 160.2(b)1.
+
+2. Ventilation and indoor air quality for attached dwelling units. All attached dwelling units shall meet the requirements of ASHRAE Standard 62.2, Ventilation and Acceptable Indoor Air Quality in Residential Buildings subject to the amendments specified in Section 160.2(b)2A below. All dwelling units shall comply with Section 160.2(b)2B below.
+
+Exception to Section 160.2(b)2 The following sections of ASHRAE 62.2 shall not be required for compliance: Section 4.1.1, Section 4.1.2, Section 4.1.4, Section 4.3, Section 4.6, Section 5, Section 6.1.1, Section 6.5.2 and Normative Appendix A.
+
+A. Amendments to ASHRAE 62.2 requirements.
+
+i. Window operation. Window operation is not a permissible method of providing the dwelling unit ventilation airflow specified in Subsection iv or v below.
+
+ii. Central fan integrated (CFI) ventilation systems.
+
+a. Continuous operation prohibition. Continuous operation of a dwelling unit's central forced air system air handlers used in CFI ventilation systems is not a permissible method of providing the whole-dwelling unit ventilation airflow required by Section 160.2(b)2Aiv.
+
+Exception to Section 160.2(b)2Aiia: The Energy Commission may approve continuous operation of central fan integrated ventilation systems pursuant to Section 10-109(h).
+
+b. Outdoor air damper(s). A motorized damper(s) shall be installed on the connected ventilation duct(s) of CFI systems that prevents all airflow into or out of the space-conditioning duct system when the damper(s) is closed.
+
+c. Damper control. The required motorized damper(s) shall be controlled to be in an opened position when outdoor air ventilation is required for compliance, and shall be in the closed position when ventilation air is not required. The damper(s) shall be closed whenever the space-conditioning system air handling unit is not operating. If the outdoor airflow for the CFI ventilation system is fanpowered, then the outdoor air fan shall not operate when the required motorized damper(s) on the outdoor air ventilation duct(s) is closed.
+
+d. Variable ventilation. CFI ventilation systems shall incorporate controls that track outdoor air ventilation run time, and either open or close the required motorized damper(s) depending on whether or not outdoor air ventilation is required for compliance with Section 160.2(b)2Aiv. During periods when comfort conditioning is not called for by the spaceconditioning thermostat, the CFI ventilation system controls shall operate the space-conditioning system central fan and outdoor air damper(s) when necessary to ensure compliance with the minimum outdoor air ventilation required by Section 160.2(b)2Aiv in accordance with applicable variable mechanical ventilation methods specified in ASHRAE 62.2 Section 4.5.
+
+iii. Air filtration. Air filtration shall conform to the specifications in Section 160.2(b)1. Compliance with ASHRAE 62.2 Sections 6.7 (Minimum Filtration) and 6.7.1 (Filter Pressure Drop) shall not be required.
+
+iv. Whole-dwelling unit mechanical ventilation. Multifamily attached dwelling units shall comply with Subsections a and b below.
+
+a. Mechanical ventilation airflow shall be provided at rates greater than or equal to the value determined in accordance with Equation 160.2-B.
+
+Total Required Ventilation Rate [ASHRAE 62.2:4.1.1]:
+
+(Equation 160.2-B)where:Qtot =  total required ventilation rate, cfm. Afloor=  dwelling-unit floor area, ft2.Nbr =  number of bedrooms (not to be less than 1).
+Total Required Ventilation Rate [ASHRAE 62.2:4.1.1]:
+
+where:
+
+Qtot =  total required ventilation rate, cfm.
+
+Afloor=  dwelling-unit floor area, ft2.
+
+Nbr =  number of bedrooms (not to be less than 1).
+
+b. All dwelling units in a multifamily building shall use the same whole-dwelling unit ventilation system type. The system type installed throughout the building shall be only one of the following three types: supply, exhaust or balanced. The dwelling unit shall comply with one of the following Subsections 1 or 2 below.
+
+1. Balanced ventilation. A balanced ventilation system shall provide the required whole-dwelling-unit ventilation airflow. Systems with heat recovery or energy recovery that serve a single dwelling unit shall have a fan efficacy of ≤1.0 W/cfm; or
+
+2. Supply or exhaust ventilation with compartmentalization testing. Continuously operating supply ventilation systems or continuously operating exhaust ventilation systems shall be allowed to be used to provide the required whole-dwelling unit ventilation airflow only if the dwelling unit envelope leakage is less than or equal to 0.3 cubic feet per minute at 50 Pa (0.2 inch water) per ft2 of dwelling unit envelope surface area as confirmed by HERS field verification and diagnostic testing in accordance with the procedures specified in Reference Appendix RA3.8 or NA2.3 as applicable.
+
+v. Multifamily building central ventilation system airflow rate tolerance. Multifamily building central ventilation systems that serve multiple dwelling units shall have airflow rates in each dwelling unit served that meet or exceed a design ventilation airflow rate specification.
+
+a. Designers shall specify a design ventilation airflow rate for each dwelling unit that is equal to or greater than the rate specified by Equation 160.2-B.
+
+b. The design ventilation airflow rate for each dwelling unit shall be stated on the building design plans approved by the enforcement agency.
+
+c. Airflow in each dwelling unit shall be no more than 20 percent greater than the specified design ventilation airflow rate. Ventilation systems shall utilize mechanical or software airflow control means to ensure each of the dwelling-unit airflows can be maintained at the design ventilation airflow within this tolerance at all times. System airflow controlmeans may include but are not limited to constant air regulation devices, orifice plates and variable speed central fans.
+
+vi. Local mechanical exhaust. A local mechanical exhaust system shall be installed in each kitchen and bathroom. Systems shall be rated for airflow in accordance with ASHRAE 62.2 Section 7.1.
+
+a. Nonenclosed kitchens shall have a demandcontrolled mechanical exhaust system meeting
+the requirements of Section 160.2(b)2Avic.
+
+b. Enclosed kitchens and all bathrooms shall have either one of the following options 1 or 2:
+
+1. A demand-controlled mechanical exhaust system meeting the requirements of Section 160.2(b)2Avic; or
+
+2. A continuous mechanical exhaust system meeting the requirements of Section 160.2(b)2Avid.
+
+c. Demand-controlled mechanical exhaust. A local mechanical exhaust system shall be designed to be operated as needed.
+
+1. Control and operation. Demand-controlled mechanical exhaust systems shall be provided with at least one of the following controls:
+
+A. A readily accessible occupantcontrolled ON-OFF control.
+
+B. An automatic control that does not impede occupant ON control.
+
+2. Ventilation rate and capture efficiency. The system shall meet or exceed either the minimum airflow in accordance with Table 160.2-E or the minimum capture efficiency in accordance with Table 160.2-E, and Table 160.2-G. Capture efficiency ratings shall be determined in accordance with ASTM E3087, and listed in a product directory approved by the Energy Commission.
+
+d. Continuous mechanical exhaust. A mechanical exhaust system shall be installed to operate continuously. The system may be part of a balanced mechanical ventilation system.
+
+1. Control and operation. A manual ONOFF control shall be provided for each continuous mechanical exhaust system. The system shall be designed to operate during all occupiable hours. For multifamily dwelling units, the manual ON-OFF control may be accessible to the dwelling unit occupant; however, the manual ON-OFF control shall not be required to be accessible to the dwelling unit occupant.
+
+2. Ventilation rate. The minimum delivered ventilation shall be at least the amount indicated in Table 160.2-F during each hour of operation.
+
+e. Airflow measurement of local mechanical exhaust by the system installer. The airflow required by Section 160.2(b)2Avi is the quantity of indoor air exhausted by the ventilation system as installed in the dwelling unit. When a vented range hood utilizes a capture efficiency rating to demonstrate compliance with Section 160.2(b)2Avic2, the airflow listed in the approved directory corresponding to the compliant capture efficiency rating point shall be met by the installed system. The asinstalled airflow shall be verified by the system installer to ensure compliance by use of either Subsection 1 or 2 below:
+
+1.  The system installer shall measure the airflow by using a flow hood, flow grid or other airflow measuring device at the mechanical ventilation fan’s inlet terminals/grilles or outlet terminals/grilles in accordance with the procedures in Reference Appendix RA3.7 or NA2.2 as applicable.
+
+2. As an alternative to performing an airflow measurement of the system as installed in the dwelling unit, compliance may be demonstrated by installing an exhaust fan and duct system that conforms to the specifications of Table 160.2-H. Visual inspection shall verify the installed system conforms to the requirements of Table 160.2-H.
+
+When using Table 160.2-H for demonstrating compliance, the airflow rating shall be greater than or equal to the value required by Section 160.2(b)2Avi at a static pressure greater than or equal to 0.25 in. of water (62.5 Pa). When a vented range hood utilizes a capture efficiency rating to demonstrate compliance with Section 160.2(b)2Avic2, a static pressure greater than or equal to 0.25 in. of water at the rating point shall not be required, and the airflow listed in the approved directory corresponding to the compliant capture efficiency rating point shall be applied to Table 160.2-H for determining compliance.
+
+Use of Table 160.2-H is limited to ventilation systems that conform to all of the following three specifications:
+When using Table 160.2-H for demonstrating compliance, the airflow rating shall be greater than or equal to the value required by Section 160.2(b)2Avi at a static pressure greater than or equal to 0.25 in. of water (62.5 Pa). When a vented range hood utilizes a capture efficiency rating to demonstrate compliance with Section 160.2(b)2Avic2, a static pressure greater than or equal to 0.25 in. of water at the rating point shall not be required, and the airflow listed in the approved directory corresponding to the compliant capture efficiency rating point shall be applied to Table 160.2-H for determining compliance.
+
+Use of Table 160.2-H is limited to ventilation systems that conform to all of the following three specifications:
+
+A. Total duct length is less than or equal to 25 feet (8 m),
+
+B. Duct system has no more than three elbows, and
+
+C. Duct system has exterior termination fitting with a hydraulic diameter greater than or equal to the minimum duct diameter and not less than the hydraulic diameter of the fan outlet.
+
+f. Sound ratings for local mechanical exhaust. Local mechanical exhaust systems shall be rated for sound in accordance with Section 7.2 of ASHRAE 62.2 at no less than the minimum airflow rate required by Section 160.2(b)2Avi.
+
+Exception to Section 160.2(b)2Avif:
+Kitchen range hoods may be rated for sound at a static pressure determined at working speed as specified in HVI 916 Section 7.2.
+
+vii. Airflow measurement of whole-dwelling unit ventilation.  The airflow required by Section 160.2(b)2Aiv or 160.2(b)2Av is the quantity of outdoor ventilation air supplied or indoor air exhausted by the mechanical ventilation system as installed and shall be measured by using a flow hood, flow grid or other airflow measuring device at the mechanical ventilation fan’s inlet terminals/grilles or outlet terminals/grilles in accordance with the procedures in Reference Appendix Section RA3.7.4.1.1 or NA2.2.4.1.1 as applicable for supply and exhaust systems or RA3.7.4.1.2 or NA2.2.4.1.2 as applicable for balanced systems. Balanced mechanical ventilation system airflow shall be the average of the supply fan and exhaust fan flows.
+
+viii. Sound ratings for whole-dwelling unit ventilation systems. Whole-dwelling unit ventilation systems shall be rated for sound in accordance with Section 7.2 of ASHRAE 62.2 at no less than the minimum airflow rate required by Section 160.2(b)2Aiv or 160.2(b)2Av as applicable.
+
+ix. Label for whole-dwelling unit ventilation system on-off control. Compliance with ASHRAE 62.2 Section 4.4 (Control and Operation) shall require manual ON-OFF control switches associated with whole-dwelling unit ventilation systems to have a label clearly displaying the following text, or equivalent text: “This switch controls the indoor air quality ventilation for the home. Leave switch in the ‘on’ position at all times unless the outdoor air quality is very poor.”
+
+x. Combustion air and compensating outdoor air or makeup air.
+
+a. All dwelling units shall conform to the applicable requirements specified in California Mechanical Code Chapter 7, Combustion Air.
+
+b. All dwelling units shall conform to the requirements in ASHRAE 62.2 Section 6.4, Combustion and Solid-Fuel-Burning Appliances.
+
+B. Dwelling unit HERS field verification and diagnostic testing.
+
+i. Whole-dwelling unit ventilation airflow performance. The whole-dwelling unit ventilation airflow required by Section 160.2(b)2Aiv or 160.2(b)2Av shall be confirmed through HERS field verification and diagnostic testing in accordance with Reference Appendix RA3.7.4.1.1 or NA2.2.4.1.1 as applicable for supply and exhaust systems or RA3.7.4.1.2 or NA2.2.4.1.2 as applicable for balanced systems. Balanced mechanical ventilation system airflow shall be the average of the supply fan and exhaust fan flows. Ventilation airflow of systems with multiple operating modes shall be tested in all modes designed to comply with the required ventilation airflows.
+
+ii. Kitchen local mechanical exhaust—vented range hoods. Vented range hoods installed to comply with local mechanical exhaust requirements specified in Section 160.2(b)2Avi shall be HERS field verified in accordance with Reference Appendix RA3.7.4.3 or NA2.2.4.1.4 as applicable to confirm the model is rated by HVI or AHAM to comply with the following requirements:
+
+a. The minimum ventilation airflow rate as specified by Section 160.2(b)2Avi, or alternatively the minimum capture efficiency as specified by Section 160.2(b)2Avi; and
+
+b. The maximum sound rating as specified in Section 160.2(b)2Avif.
+
+iii. Heat recovery ventilation (HRV) and energy recovery ventilation (ERV) system fan efficacy. At a minimum, systems with heat or energy recovery serving a single dwelling unit shall have a fan efficacy of ≤1.0 W/cfm as confirmed by HERS field verification in accordance with Reference Appendix RA3.7.4.4 or NA2.2.4.1.5 as applicable. If Section 170.2(c)3Biva requirements are applicable to the dwelling unit, then HERS field verification shall instead confirm compliance with the maximum fan efficacy and minimum sensible recovery efficiency specified in Section 170.2(c)3Biva in accordance with the procedures specified in Reference Appendix RA3.7.4.4 or NA2.2.4.1.5 as applicable.
+
+C. Multifamily building central ventilation system field verification.
+
+i. Central ventilation system duct sealing. Ventilation ducts that conform to Subsections a and b below shall meet the duct sealing requirements in California Mechanical Code Section 603.10 and have leakage that is no greater than 6 percent of the rooftop fan or central fan design airflow rate as confirmed by field verification in accordance with the procedures in Reference Appendix NA7.18.3. The leakage test shall be conducted using a test pressure of 25 Pa (0.1 inches) for ducts serving six or fewer dwelling units and 50 Pa (0.2 inches) for ducts serving more than six dwelling units, and shall measure the leakage of all ductwork between the central fan and the connection point to the inunit grille or fan.
+
+a. The ventilation ducts serve multiple dwelling units.
+
+b. The ventilation ducts provide continuous airflows or airflows to provide balanced ventilation to meet the requirements specified in Section 160.2(b)2Aiv or 160.2(b)2Av as applicable.
+
+(c) Common use areas. All occupiable spaces shall comply with the requirements of Subsection 1 and shall also comply with either Subsection 2 or Subsection 3:
+
+1. Air filtration.
+
+A. Mechanical system types specified in Subsections i, ii and iii below shall be designed to ensure that all recirculated air and all outdoor air supplied to the occupiable space are filtered before passing through any system’s thermal conditioning components. Air filters shall conform to the requirements of Sections 160.2(c)1B, 160.2(c)1C and 160.2(c)1D.
+
+i. Mechanical space-conditioning systems that supply air to an occupiable space through ductwork exceeding 10 ft (3 m) in length.
+
+ii. Mechanical supply-only ventilation systems and makeup air systems that provide outside air to an occupiable space.
+
+iii. The supply side of mechanical balanced ventilation systems, including heat recovery ventilation systems and energy recovery ventilation systems that provide outside air to an occupiable space.
+
+Exception to Section 160.2(c)1A: For heat recovery ventilators and energy recovery ventilators, the location of the filters required by Section 160.2(c)1A may be downstream of a system’s thermal conditioning component, provided the system is equipped with ancillary filtration upstream of the system’s thermal conditioning component.
+
+B. Air filter efficiency. The filters shall have a designated efficiency equal to or greater than MERV 13 when tested in accordance with ASHRAE Standard 52.2, or a particle size efficiency rating equal to or greater than 50 percent in the 0.30–1.0 μm range, and equal to or greater than 85 percent in the 1.0–3.0 μm range when tested in accordance with AHRI Standard 680; and
+
+C. Systems shall be equipped with air filters that meet either Subsection i or ii below.
+
+i. Nominal 2 inch minimum depth filter(s); or
+
+ii. Nominal 1 inch minimum depth filter(s) shall be allowed if the filter(s) are sized according to Equation 160.2-A, based on a maximum face velocity of 150 ft per minute.
+
+D. Filter racks or grilles shall be gasketed or sealed to eliminate any gaps around the filter to prevent air from bypassing the filter.
+
+2. Natural ventilation. Naturally ventilated spaces shall be designed in accordance with Sections 160.2(c)2A through 160.2(c)2C and include a mechanical ventilation system designed in accordance with Section 160.2(c)3:
+
+Exception 1 to Section 160.2(c)2: The mechanical ventilation system shall not be required where natural ventilation openings complying with Section 160.2(c)2 are either permanently open or have controls that prevent the openings from being closed during periods of expected occupancy.
+
+Exception 2 to Section 160.2(c)2: The mechanical ventilation system shall not be required where the zone is not served by a space-conditioning system.
+
+A. Floor area to be ventilated. Spaces or portions of spaces to be naturally ventilated shall be located within a distance based on the ceiling height, as specified in i, ii and iii. The ceiling height (H) to be used in i, ii or iii shall be the minimum ceiling height in the space, or for ceilings that are increasing in height as distance from the operable openings is increased, the ceiling height shall be determined as the average height of the ceiling within 20 ft from the operable opening. [ASHRAE 62.1:6.4.1]
+
+i. Single side opening. For spaces with operable opening on one side of the space, the maximum distance from the operable opening shall be not more than 2H. [ASHRAE 62.1:6.4.1.1]
+
+ii. Double side opening. For spaces with operable openings on two opposite sides of the space, the maximum distance from the operable opening shall be not more than 5H. [ASHRAE 62.1:6.4.1.2]
+
+iii. Corner opening. For spaces with operable openings on two adjacent sides of a space, the maximum distance from the operable openings shall be not more than 5H along a line drawn between the two openings that are the farthest apart. Floor area outside that line shall comply with i or ii. [ASHRAE 62.1:6.4.1.3]
+
+iv. Ceiling height. The ceiling height (H) to be used in Sections 160.2(c)2Ai through 160.2(c)2Aiii shall be the minimum ceiling height in the space.
+
+Exception to Section 160.2(c)2Aiv: For ceilings that are increasing in height as distance from the opening is increased, the ceiling height shall be determined as the average height of the ceiling within 20 feet from the operable openings. [ASHRAE 62.1:6.4.1.4]
+
+B. Location and size of openings. Spaces or portions of spaces to be naturally ventilated shall be permanently open to operable wall openings directly to the outdoors. The openable area shall be not less than 4 percent of the net occupiable floor area. Where openings are covered with louvers or otherwise obstructed, the openable area shall be based on the net free unobstructed area through the opening. Where interior rooms, or portions of rooms, without direct openings to the outdoors are ventilated through adjoining rooms, the opening between rooms shall be permanently unobstructed and have a free area of not less than 8 percent of the area of the interior room or less than 25 square feet. [ASHRAE 62.1:6.4.2]
+
+C. Control and accessibility. The means to open the required operable opening shall be readily accessible to building occupants whenever the space is occupied. Controls shall be designed to coordinate operation of the natural and mechanical ventilation systems. [ASHRAE 62.1:6.4.3]
+
+3. Mechanical ventilation. Occupiable spaces shall be ventilated with a mechanical ventilation system capable of providing an outdoor airflow rate (Vz) to the zone no less than the larger of A or B as described below:
+
+A.  The outdoor airflow rate to the zone (Vz) shall be determined in accordance with Equation 160.2-G; or
+
+where:
+
+Ra =  Outdoor airflow rate required per unit area as determined from Table 160.2-B.
+
+Az =  Zone floor area is the net occupiable floor area of the ventilation zone in square feet.
+
+B.  For spaces designed for an expected number of occupants, the outdoor airflow rate to the zone (Vz) shall be determined in accordance with Equation 160.2-H;
+
+where:
+
+Rp =  15 cubic feet per minute of outdoor airflow per person.
+
+Pz =  The expected number of occupants. The expected number of occupants shall be the expected number specified by the building designer. For spaces with fixed seating, the expected number of occupants shall be determined in accordance with the California Building Code.
+
+Exception to Section 160.2(c)3: Transfer air. The rate of outdoor air required by Section 160.2(c)3 may be provided with air transferred from other ventilated space if:
+
+i. Use of transfer air is in accordance with Section 160.2(c)8; and
+
+ii. The outdoor air that is supplied to all spaces combined is sufficient to meet the requirements of Section 160.2(c)3 for each space individually.
+
+4. Exhaust ventilation. The design exhaust airflow shall be determined in accordance with the requirements in Table 160.2-C. Exhaust makeup air shall be permitted to be any combination of outdoor air, recirculated air or transfer air. [ASHRAE 62.1:6.5.1]
+
+5. Operation and control requirements for minimum quantities of outdoor air.
+
+A. Times of occupancy. The minimum rate of outdoor air required by Section 160.2(c) shall be supplied to each space at all times when the space is usually occupied.
+
+Exception 1 to Section 160.2(c)5A: Demand control ventilation. In intermittently occupied spaces
+that do not have processes or operations that generate dusts, fumes, mists, vapors or gases and are not provided with local exhaust ventilation (such as indoor operation of internal combustion engines or areas designated for unvented food service preparation), the rate of outdoor air may be reduced if the ventilation system serving the space is controlled by a demand control ventilation device complying with Section 160.2(c)5D or by an occupant sensor ventilation control device complying with Section 160.2(c)5E.
+
+Exception 2 to Section 160.2(c)5A: Temporary reduction. The rate of outdoor air provided to a space may be reduced below the level required by Section 160.2(c) for up to 30 minutes at a time if the average rate for each hour is equal to or greater than the required ventilation rate.
+
+B. Preoccupancy. The lesser of the minimum rate of outdoor air required by Section 160.2(c) or three complete air changes shall be supplied to the entire building during the 1-hour period immediately before the building is normally occupied.
+
+C. Required demand control ventilation. Demand ventilation controls complying with Section 160.2(c)5D are required for a space with a design occupant density, or a maximum occupant load factor for egress purposes in the CBC, greater than or equal to 25 people per 1000 square feet (40 square feet or less per person) if the system serving the space has one or more of the following:
+
+i. an air economizer; or
+
+ii. modulating outside air control; or
+
+iii. design outdoor airflow rate > 3,000 cfm.
+
+Exception 1 to Section 160.2(c)5C: Where space exhaust is greater than the design ventilation rate specified in Section 160.2(c)3 minus 0.2 cfm per ft² of conditioned area.
+
+Exception 2 to Section 160.2(c)5C: Spaces that have processes or operations that generate dusts, fumes, mists, vapors or gases and are not provided with local exhaust ventilation, such as indoor operation of internal combustion engines or areas designated for unvented food service preparation, daycare sickrooms, science labs, barber shops or beauty and nail salons, shall not install demand control ventilation.
+
+Exception 3 to Section 160.2(c)5C:  Spaces with an area of less than 150 square feet or a design occupancy of less than 10 people as specified by Section 160.2(c)3.
+
+D. Demand control ventilation devices.
+
+i. For each system with demand control ventilation (DCV), CO2 sensors shall be installed in each room that meets the criteria of Section 160.2(c)5C with no fewer than one sensor per 10,000 ft² of floor space. When a zone or a space is served by more than one sensor, a signal from any sensor indicating that CO2 is near or at the setpoint within the zone or space shall trigger an increase in ventilation.
+
+ii. CO2 sensors shall be located in the room between 3 ft and 6 ft above the floor or at the anticipated height of the occupants’ heads.
+
+iii. Demand ventilation controls shall maintain CO2 concentrations less than or equal to 600 ppm plus the outdoor air CO2 concentration in all rooms with CO2 sensors.
+
+Exception to Section 160.2(c)5Diii: The outdoor air ventilation rate is not required to be larger than the design outdoor air ventilation rate required by Section 160.2(c)3 regardless of CO2 concentration.
+
+iv. Outdoor air CO2 concentration shall be determined by one of the following:
+
+a.  CO2 concentration shall be assumed to be 400 ppm without any direct measurement; or
+
+b.  CO2 concentration shall be dynamically measured using a CO2 sensor located within 4 ft of the outdoor air intake.
+
+v. When the system is operating during hours of expected occupancy, the controls shall maintain system outdoor air ventilation rates no less than the rate listed in Table 160.2-B for DCV, times the conditioned floor area for spaces with CO2 sensors, plus the rate required by Section 160.2(c)3 for other spaces served by the system, or the exhaust air rate, whichever is greater.
+
+vi. CO2 sensors shall be certified by the manufacturer to be accurate within plus or minus 75 ppm at a 600 and 1000 ppm concentration when measured at sea level and 25°C, factory calibrated, and certified by the manufacturer to require calibration no more frequently than once every 5 years. Upon detection of sensor failure, the system shall provide a signal that resets to supply the minimum quantity of outside air to levels required by Section 160.2(c)3 to the zone serviced by the sensor at all times that the zone is occupied.
+
+vii. The CO2 sensor(s) reading for each zone shall be displayed continuously, and shall be recorded on systems with digital direct controls (DDC) to the zone level.
+
+E. Occupant sensing ventilation control devices. Occupant sensing ventilation controls are required for space-conditioning zones that are both permitted to have their ventilation air reduced to zero while in occupied-standby mode per Table 160.2-B and required to install occupant sensors to comply with Sections 160.5(b)4Cv, vi and vii. Occupant sensing ventilation control devices used to reduce the rate of outdoor air flow when occupants are not present shall comply with the following:
+
+i. Occupant sensors shall meet the requirements in Section 110.9(b)4 and shall have suitable coverage and placement to detect occupants in the entire space ventilated.
+
+ii. When occupant sensors controlling lighting are also used for ventilation, the ventilation signal shall be independent of daylighting, manual lighting overrides or manual control of lighting.
+
+iii. When a single zone damper or a single zone system serves multiple rooms, there shall be an occupant sensor in each room and the zone shall not be considered vacant until all rooms in the zone are vacant.
+
+iv. One hour prior to normal scheduled occupancy, the occupant sensor ventilation control shall allow preoccupancy purge as described in Section 160.2(c)5B.
+
+v. When the zone is scheduled to be occupied and occupant sensing controls in all rooms and areas served by the zone indicate the spaces are unoccupied, the zone shall be placed in occupiedstandby mode.
+
+vi.  In 5 minutes or less after entering occupiedstandby mode, mechanical ventilation to the zone shall be shut off until the space becomes occupied or until ventilation is needed to provide space heating or conditioning. When mechanical ventilation is shut off to the zone, the ventilation system serving the zone shall reduce the system outside air rate by the amount of outside air required for the zone.
+
+vii.  Where the system providing space conditioning also provides ventilation to the zone, in 5 minutes or less after entering occupied-standby mode, space-conditioning zone setpoints shall be reset in accordance with Section 120.2(e)3.
+
+6. Ducting for zonal heating and cooling units. Where a return plenum is used to distribute outdoor air to a zonal heating or cooling unit that then supplies the air to a space in order to meet the requirements of Section 160.2(c)3, the outdoor air shall be ducted to discharge either:
+
+A. Within 5 feet of the unit; or
+
+B. Within 15 feet of the unit, substantially toward the unit and at a velocity not less than 500 feet per minute.
+
+7.  Design and control requirements for quantities of outdoor air.
+
+A. All mechanical ventilation and space-conditioning systems shall be designed with and have installed ductwork, dampers and controls to allow outside air rates to be operated at the minimum levels specified in Section 160.2(c)3 or the rate required for make-up of exhaust systems that are required for an exempt or covered process, for control of odors or for the removal of contaminants within the space.
+
+B.  All variable air volume mechanical ventilation and space-conditioning systems shall include dynamic controls that maintain measured outside air ventilation rates within 10 percent of the required outside air ventilation rate at both full and reduced supply airflow conditions. Fixed minimum damper position is not considered to be dynamic and is not an allowed control strategy.
+
+C.  Measured outdoor air rates of constant volume mechanical ventilation and space-conditioning systems shall be within 10 percent of the required outside air rate.
+
+8. Air classification and recirculation limitations. Air classification and recirculation limitations of air shall be based on the air classification as listed in Table 160.2-B or Table 160.2-D, in accordance with the following:
+
+A. Class 1 air is air with significant contaminant concentration, significant sensory-irritation intensity or offensive odor. Recirculation or transfer of Class 1 air to any space shall be permitted; [ASHRAE 62.1:5.16.3.1]
+
+B.  Class 2 air is air with moderate contaminant concentration, mild sensory-irritation intensity or mildly offensive odor (Class 2 air also includes air that is not necessarily harmful or objectionable but that is inappropriate for transfer or recirculation to spaces used for different purposes). Recirculation or transfer of Class 2 air shall be permitted in accordance with Sections 160.2(c)8Bi through 160.2(c)8Bv:
+
+i. Recirculation of Class 2 air within the space of origin shall be permitted [ASHRAE 62.1:5.16.3.2.1].
+
+ii. Recirculation or transfer of Class 2 air to other Class 2 or Class 3 spaces shall be permitted, provided that the other spaces are used for the same or similar purpose or task and involve the same or similar pollutant sources as the Class 2 space [ASHRAE 62.1:5.16.3.2.2]; or
+
+iii. Transfer of Class 2 air to toilet rooms [ASHRAE 62.1:5.16.3.2.3]; or
+
+iv. Recirculation or transfer of Class 2 air to Class 4 spaces [ASHRAE 62.1:5.16.3.2.4].
+
+v. Class 2 air shall not be recirculated or transferred to Class 1 spaces. [ASHRAE 62.1:5.16.3.2.5].
+
+Exception to Section 160.2(c)8Bv: When using any energy recovery device, recirculation from leakage, carryover or transfer from the exhaust side of the energy recovery device is permitted. Recirculated Class 2 air shall not exceed 10 percent of the outdoor air intake flow.
+
+C.  Class 3 air is air with significant contaminant concentration, significant sensory-irritation intensity or offensive odor. Recirculation or transfer of Class 3 air shall be permitted in accordance with Sections 160.2(c)8Ci and 160.2(c)8Cii:
+
+i. Recirculation of Class 3 air within the space of origin shall be permitted. [ASHRAE 62.1:5.16.3.3.1]
+
+ii. Class 3 air shall not be recirculated or transferred to any other space. [ASHRAE 62.1:5.16.3.3.2].
+
+Exception to Section 160.2(c)8Cii: When using any energy recovery device, recirculation from leakage, carryover or transfer from the exhaust side of the energy recovery device is permitted. Recirculated Class 3 air shall not exceed 5 percent of the outdoor air intake flow.
+
+D.  Class 4 air is air with highly objectionable fumes or gases or with potentially dangerous particles, bioaerosols or gases at concentrations high enough to be considered as harmful. Class 4 air shall not be recirculated or transferred to any space or recirculated within the space of origin. [ASHRAE 62.1:5.16.3.4]
+
+E.  Ancillary spaces. Redesignation of Class 1 air to Class 2 air shall be permitted for Class 1 spaces that are ancillary to Class 2 spaces. [ASHRAE 62.1:5.16.2.3]
+
+F.  Transfer. A mixture of air that has been transferred through or returned from spaces or locations with different air classes shall be redesignated with the highest classification among the air classes mixed. [ASHRAE 62.1:5.16.2.2]
+
+G.  Classification. Air leaving each space or location shall be designated at an expected air-quality classification not less than that shown in Table 160.2-B, 160.2-C or 160.2-D. Air leaving spaces or locations that are not listed in Table 160.2-B, 160.2-C or 160.2-D shall be designated with the same classification as air from the most similar space or location listed in terms of occupant activities and building construction.
+
+(d) Parking garages. Mechanical ventilation systems for enclosed parking garages in multifamily buildings shall comply with Section 120.6(c).
+
+TABLE 160.2-A
+
+INFILTRATION EFFECTIVENESS WEATHER AND SHIELDING FACTORS [ASHRAE 62.2:Table B1]
+
+TMY3	wsf	WEATHER STATION	LATITUDE	LONGITUDE	STATE
+690150 	0.50 	Twentynine Palms 	34.30 	–116.17 	California
+722860 	0.43 	March AFB 	33.90 	–117.25 	California
+722868 	0.45 	Palm Springs Intl 	33.83 	–116.50 	California
+722869 	0.42 	Riverside Muni 	33.95 	–117.45 	California
+722880 	0.39 	Burbank–Glendale–Pasadena AP
+			34.20 	–118.35 	California
+722885 	0.39 	Santa Monica Muni 	34.02 	–118.45 	California
+722886 	0.39 	Van Nuys Airport 	34.22 	–118.48 	California
+722895 	0.55 	Lompoc (AWOS) 	34.67 	–120.47 	California
+722897 	0.51 	San Luis Co Rgnl 	35.23 	–120.63 	California
+722899 	0.45 	Chino Airport 	33.97 	–117.63 	California
+722900 	0.38 	San Diego Lindbergh Field
+			32.73 	–117.17 	California
+722903 	0.39 	San Diego/Montgomery	32.82 	–117.13 	California
+722904 	0.40 	Chula Vista Brown Field NAAS
+			32.58 	–116.98 	California
+722906 	0.39 	San Diego North Island NAS
+			32.70 	–117.20 	California
+722926 	0.40 	Camp Pendleton MCAS	33.30 	–117.35 	California
+722927 	0.38 	Carlsbad/Palomar 	33.13 	–117.28 	California
+722930 	0.39 	San Diego Miramar NAS	32.87 	–117.13 	California
+722950 	0.42 	Los Angeles Intl Arpt	33.93 	–118.40 	California
+722956 	0.38 	Jack Northrop Fld H	33.92 	–118.33 	California
+722970 	0.38 	Long Beach Daugherty Fld	33.83 	–118.17 	California
+722976 	0.34 	Fullerton Municipal	33.87 	–117.98 	California
+722977 	0.36 	Santa Ana John Wayne AP	33.68 	–117.87 	California
+723805 	0.51 	Needles Airport 	34.77 	–114.62 	California
+723810 	0.59 	Edwards AFB 	34.90 	–117.87 	California
+723815 	0.58 	Daggett Barstow–Daggett AP
+			34.85 	–116.80 	California
+723816 	0.62 	Lancaster Gen Wm Fox Field
+			34.73 	–118.22 	California
+723820 	0.57 	Palmdale Airport 	34.63 	–118.08 	California
+723830 	0.68 	Sandberg 	34.75 	–118.72 	California
+723840 	0.43 	Bakersfield Meadows Field
+			35.43 	–119.05 	California
+723890 	0.45 	Fresno Yosemite Intl AP	36.78 	–119.72 	California
+723895 	0.42 	Porterville (AWOS) 	36.03 	–119.07 	California
+723896 	0.43 	Visalia Muni (AWOS)	36.32 	–119.40 	California
+723910 	0.45 	Point Mugu Nf 	34.12 	–119.12 	California
+723925 	0.44 	Santa Barbara Municipal AP
+			34.43 	–119.85 	California
+723926 	0.43 	Camarillo (AWOS) 	34.22 	–119.08 	California
+723927 	0.45 	Oxnard Airport 	34.20 	–119.20 	California
+723940 	0.52 	Santa Maria Public Arpt	34.92 	–120.47 	California
+723965 	0.53 	Paso Robles Municipal Arpt
+			35.67 	–120.63 	California
+724800 	0.55 	Bishop Airport 	37.37 	–118.35 	California
+724815 	0.46 	Merced/Macready Fld	37.28 	–120.52 	California
+724830 	0.51 	Sacramento Executive Arpt
+			38.50 	–121.50 	California
+724837 	0.45 	Beale AFB 	39.13 	–121.43 	California
+724838 	0.50 	Yuba Co 	39.10 	–121.57 	California
+724839 	0.51 	Sacramento Metropolitan AP
+			38.70 	–121.58 	California
+724915 	0.49 	Monterey Naf 	36.60 	–121.87 	California
+724917 	0.54 	Salinas Municipal AP	36.67 	–121.60 	California
+724920 	0.50 	Stockton Metropolitan Arpt
+			37.90 	–121.23 	California
+724926 	0.47 	Modesto City–County AP	37.63 	–120.95 	California
+724927 	0.53 	Livermore Municipal	37.70 	–121.82 	California
+724930 	0.54 	Oakland Metropolitan Arpt
+			37.72 	–122.22 	California
+724935 	0.47 	Hayward Air Term 	37.67 	–122.12 	California
+724936 	0.53 	Concord–Buchanan Field	38.00 	–122.05 	California
+724940 	0.60 	San Francisco Intl AP	37.62 	–122.40 	California
+724945 	0.48 	San Jose Intl AP 	37.37 	–121.93 	California
+724955 	0.55 	Napa Co. Airport 	38.22 	–122.28 	California
+724957 	0.49 	Santa Rosa (AWOS) 	38.52 	–122.82 	California
+725845 	0.44 	Blue Canyon AP 	39.30 	–120.72 	California
+725846 	0.66 	Truckee–Tahoe 	39.32 	–120.13 	California
+725847 	0.64 	South Lake Tahoe 	38.90 	–120.00 	California
+725905 	0.47 	Ukiah Municipal AP 	39.13 	–123.20 	California
+725910 	0.50 	Red Bluff Municipal Arpt	40.15 	–122.25 	California
+725920 	0.47 	Redding Municipal Arpt	40.52 	–122.32 	California
+725945 	0.56 	Arcata Airport 	40.98 	–124.10 	California
+725946 	0.60 	Crescent City Faa Ai	41.78 	–124.23 	California
+725955 	0.55 	Montague Siskiyou County AP
+			41.78 	–122.47 	California
+725958 	0.59 	Alturas 	41.50 	–120.53 	California
+745090 	0.45 	Mountain View Moffett Fld NAS
+			37.40 	–122.05 	California
+745160 	0.67 	Travis Field AFB 	38.27 	–121.93 	California
+746120 	0.52 	China Lake Naf 	35.68 	–117.68 	California
+747020 	0.50 	Lemoore Reeves NAS 	36.33 	–119.95 	California
+747185 	0.46 	Imperial 	32.83 	–115.58 	California
+747187 	0.46 	Palm Springs Thermal AP	33.63 	–116.17 	California
+747188 	0.48 	Blythe Riverside Co Arpt	33.62 	–114.72 	CaliforniaTABLE 160.2-B
+
+MINIMUM VENTILATION RATES FOR MULTIFAMILY COMMON USE AREAS
+
+OCCUPANCY CATEGORY3	AREA OUTDOOR AIR RATE1 Ra cfm/ft2	MIN AIR RATE FORDC cfm/ft2V2	AIR CLASS	NOTES
+Daycare (through age 4)	0.21	0.15	2	—
+Multiuse assembly	0.50	0.15	1	F
+Dining rooms	0.50	0.15	2	—
+Bars, cocktail lounges	0.50	0.20	2	—
+Kitchen (cooking)	0.15	—	2	—
+Break rooms	0.50	0.15	1	F
+Coffee stations	0.50	0.15	1	F
+Conference/meeting	0.50	0.15	1	F
+Corridors	0.15	—	1	F
+Occupiable storage rooms for 
+		liquids or gels	0.15	—	2	B
+Laundry rooms, central	0.15	—	2	—
+Lobbies/pre-function	0.50	0.15	1	F
+Breakrooms	0.50	0.15	—	—
+Occupiable storage rooms for 
+		dry materials	0.15	—	—	—
+Office space	0.15	—	1	—
+Reception areas	0.15	—	1	F
+Telephone/data entry	0.15	—	1	F
+Computer (not printing)	0.15	—	—	—
+Freezer and refrigerated spaces 
+		(<50°F)	—	—	1	F
+Shipping/receiving	0.15	—	—	—
+Gym, sports arena (play area)
+			0.50	0.15	2	E
+Swimming (pool)	0.15	—	2	C
+Swimming (deck)	0.50	0.15	2	C
+Disco/dance floors	1.50	0.15	2	F
+Health club/aerobics 
+		room/weight rooms	0.15	—	2	—
+Game arcades	0.68	0.15	1	—
+All others	0.15	—	—	—A – RESERVED.
+
+B – Rate may not be sufficient where stored materials include those having potentially harmful emissions.
+
+C – Rate does not allow for humidity control. “Deck area” refers to the area surrounding the pool that is capable of being wetted during pool use or when the pool is occupied. Deck area that is not expected to be wetted shall be designated as an occupancy category.
+
+D – RESERVED.
+
+E – Where combustion equipment is intended to be used on the playing surface or in the space, additional dilution ventilation, source control or both shall be provided.
+
+F – Ventilation air for this occupancy category shall be permitted to be reduced to zero when the space is in occupied-standby mode.
+
+Notes:1. Ra was determined as being the larger of the area method and the default per person method. The occupant density used in the per person method was assumed to be one-half of the maximum occupant load assumed for egress purposes in the CBC.2. If this column specifies a minimum cfm/ft2 then it shall be used to comply with Section 160.2(c)5E.3. For spaces not included in this table, the spaces in Table 120.1-A shall apply.
+
+1. Ra was determined as being the larger of the area method and the default per person method. The occupant density used in the per person method was assumed to be one-half of the maximum occupant load assumed for egress purposes in the CBC.
+
+2. If this column specifies a minimum cfm/ft2 then it shall be used to comply with Section 160.2(c)5E.
+
+3. For spaces not included in this table, the spaces in Table 120.1-A shall apply.
+Notes:
+
+1. Ra was determined as being the larger of the area method and the default per person method. The occupant density used in the per person method was assumed to be one-half of the maximum occupant load assumed for egress purposes in the CBC.
+
+2. If this column specifies a minimum cfm/ft2 then it shall be used to comply with Section 160.2(c)5E.
+
+3. For spaces not included in this table, the spaces in Table 120.1-A shall apply.
+
+TABLE 160.2-C
+
+MINIMUM EXHAUST RATES [ASHRAE 62.1: TABLE 6.5]
+
+OCCUPANCY CATEGORY1	EXHAUST RATE, cfm/unit	EXHAUST RATE, cfm/ft2	AIR CLASS	NOTES
+Copy, printing rooms	— 	0.50 	2 	—
+Janitor closets, trash rooms, 
+		recycling 	— 	1.00 	3 	—
+Kitchenettes 	— 	0.30 	2 	—
+Kitchens – commercial	— 	0.70 	2 	—
+Locker rooms for athletic or 
+		industrial facilities 	— 	0.50 	2 	—
+All other locker rooms	— 	0.25 	2 	—
+Shower rooms 	20/50 	— 	2 	G, H
+Parking garages 	— 	0.75 	2 	C
+Pet shops (animal areas)	— 	0.90 	2 	—
+Soiled laundry storage rooms
+			— 	1.00 	3 	F
+Storage rooms, chemical	— 	1.50 	4 	F
+Toilets – private 	25/50 	— 	2 	E
+Toilets – public 	50/70 	— 	2 	DA – RESERVED.
+
+B – RESERVED.
+
+C – Exhaust shall not be required where two or more sides comprise walls that are at least 50 percent open to the outside.
+
+D – Rate is per water closet, urinal or both. Provide the higher rate where periods of heavy use are expected to occur. The lower rate shall be permitted to be used otherwise.
+
+E – Rate is for a toilet room intended to be occupied by one person at a time. For continuous systems operation during hours of use, the lower rate shall be permitted to be used. Otherwise the higher rate shall be used.
+
+F – See other applicable standards for exhaust rate.
+
+G – For continuous system operation, the lower rate shall be permitted to be used. Otherwise the higher rate shall be used.
+
+H – Rate is per showerhead.
+
+Notes:1. For spaces not included in this table, the spaces in Table 120.1-B shall apply.
+
+1. For spaces not included in this table, the spaces in Table 120.1-B shall apply.
+Notes:
+
+1. For spaces not included in this table, the spaces in Table 120.1-B shall apply.
+
+TABLE 160.2-D
+
+AIRSTREAMS OR SOURCES [ASHRAE 62.1: TABLE 5.16.1]
+
+DESCRIPTION	AIR CLASS
+Commercial kitchen grease hoods	4
+Commercial kitchen hoods other than grease	3
+Hydraulic elevator machine room	2TABLE 160.2-E
+
+DEMAND-CONTROLLED LOCAL VENTILATION EXHAUST AIRFLOW RATES AND CAPTURE EFFICIENCY
+
+APPLICATION	COMPLIANCE CRITERIA
+Enclosed kitchen or nonenclosed kitchen	Vented range hood, including appliance-range hood combinations, shall meet either the capture efficiency (CE) or the airflow rate specified in Table 160.2-G as applicable.
+Enclosed kitchen	Other kitchen exhaust fans, including downdraft: 300 cfm (150 L/s) or a capacity of 5 ACH
+Nonenclosed kitchen	Other kitchen exhaust fans, including downdraft: 300 cfm (150 L/s)
+Bathroom	50 cfm (25 L/s)TABLE 160.2-F
+
+CONTINUOUS LOCAL VENTILATION EXHAUST AIRFLOW RATES
+
+APPLICATION	AIRFLOW
+Enclosed kitchen	5 ach, based on kitchen volume
+Bathroom	20 cfm (10 L/s)TABLE 160.2-G
+
+KITCHEN RANGE HOOD AIRFLOW RATES (cfm) AND ASTM E3087 CAPTURE EFFICIENCY (CE) RATINGS According to Dwelling Unit Floor Area and Kitchen Range Fuel Type
+
+DWELLING UNIT FLOOR AREA (FT2)	HOOD OVER ELECTRIC RANGE	HOOD OVER NATURAL GAS RANGE
+>1500	50% CE or 110 cfm	70% CE or 180 cfm
+>1000–1500 	50% CE or 110 cfm 	80% CE or 250 cfm
+750–1000 	55% CE or 130 cfm 	85% CE or 280 cfm
+<750 	65% CE or 160 cfm 	85% CE or 280 cfmTABLE 160.2-H
+
+PRESCRIPTIVE VENTILATION SYSTEM DUCT SIZING [ASHRAE 62.2:TABLE 5-3]
+
+Fan airflow rating, 		cfm at minimum static pressuref 0.25 in. water (L/s at minimum 62.5 Pa)	≤50
+		(25)	≤80
+		(40)	≤100
+		(50)	≤125
+		(60)	≤150
+		(70)	≤175
+		(85)	≤200
+		(95)	≤250
+		(120)	≤350
+		(165)	≤400
+		(190)	≤450
+		(210)	≤700
+		(330)	≤800
+		(380)
+Minimum duct diameter, in. (mm) a,b for rigid duct	4 e
+		(100)	5
+		(125)	5
+		(125)	6
+		(150)	6
+		(150)	7
+		(180)	7
+		(180)	8
+		(205)	9
+		(230)	10
+		(255)	10
+		(255)	12
+		(305)	12 d
+		(305)
+Minimum duct diameter, in. (mm) a,b for flex duct c	4
+		(100)	5
+		(125)	6
+		(150)	6
+		(150)	7
+		(150)	7
+		(180)	8
+		(205)	8
+		(205)	9
+		(230)	10
+		(255)	NP	NP	NPa. For noncircular ducts, calculate the diameter as four times the cross-sectional area divided by the perimeter.
+
+b. NP = application of the prescriptive table is not permitted for this scenario.
+
+c. Use of this table for verification of flex duct systems requires flex duct to be fully extended and any flex duct elbows to have a minimum bend radius to duct diameter ratio of 1.0.
+
+d. For this scenario, use of elbows is not permitted.
+
+e. For this scenario, 4 in. (100 mm) oval duct shall be permitted, provided the minor axis of the oval is greater than or equal to 3 in. (75 mm).
+
+f. When a vented range hood utilizes a capture efficiency rating to demonstrate compliance with Section 160.2(b)2Avic2, a static pressure greater than or equal to 0.25 in. of water at the rating point shall not be required, and the airflow listed in the approved directory corresponding to the compliant capture efficiency rating point shall be applied to Table 160.2-H for determining compliance.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 160.3 MANDATORY REQUIREMENTS FOR SPACE-CONDITIONING SYSTEMS IN MULTIFAMILY BUILDINGS
+
+Space-conditioning systems serving multifamily dwelling units and common use areas shall comply with the applicable requirements of Sections 160.3(a) through 160.3(c).
+
+(a) Controls. Space-conditioning systems serving dwelling units and common use areas in multifamily buildings shall comply with applicable requirements of Section 160.3(a)1 or 160.3(a)2.
+
+1. Dwelling unit thermostats. All heating or cooling systems, including heat pumps, not controlled by a central energy management control system (EMCS) shall have a setback thermostat, as specified in Section 110.2(c).
+
+2. Common use area controls. Heating or cooling systems serving common use areas of multifamily buildings shall comply with application requirements of Sections 160.3(a)2A through 160.3(a)2J.
+
+Exception to Section 160.3(a)2: Heating or cooling systems exclusively serving dwelling units and common use areas providing shared provisions for living, eating, cooking or sanitation to dwelling units that would otherwise lack these provisions may instead comply with Section 160.3(a)1.
+
+A. Thermostatic controls for each zone. The supply of heating and cooling energy to each space-conditioning zone shall be controlled by an individual thermostatic control that responds to temperature within the zone and that meets the applicable requirements of Section 160.3(a)2B. An energy management control system (EMCS) may be installed to comply with the requirements of one or more thermostatic controls if it complies with all applicable requirements for each thermostatic control.
+
+Exception to Section 160.3(a)2A: An independent perimeter heating or cooling system may serve more than one zone without individual thermostatic controls if:
+
+i. All zones are also served by an interior cooling system; and
+
+ii. The perimeter system is designed solely to offset envelope heat losses or gains; and
+
+iii.The perimeter system has at least one thermostatic control for each building orientation of 50 feet or more; and
+
+iv. The perimeter system is controlled by at least one thermostat located in one of the zones served by the system.
+
+B. Criteria for zonal thermostatic controls. The individual thermostatic controls required by Section 160.3(a)2A shall meet the following requirements as applicable:
+
+i. Where used to control comfort heating, the thermostatic controls shall be capable of being set,
+locally or remotely, down to 55°F or lower.
+
+ii. Where used to control comfort cooling, the thermostatic controls shall be capable of being set,
+locally or remotely, up to 85°F or higher.
+
+iii.Where used to control both comfort heating and comfort cooling, the thermostatic controls shall meet Items i and ii and shall be capable of providing a temperature range or deadband of at least 5°F within which the supply of heating and cooling energy to the zone is shut off or reduced to a minimum.
+
+Exception to Section 160.3(a)2Biii: Systems with thermostats that require manual changeover between heating and cooling modes.
+
+iv. Thermostatic controls for all single zone air conditioners and heat pumps shall comply with the requirements of Sections 110.2(c) and 110.12(a) and, if equipped with DDC to the zone level, with the automatic demand shed controls of Section 110.12(b).
+
+Exception to Section 160.3(a)2Biv: Package terminal air conditioners, package terminal heat pumps, room air conditioners and room air-conditioner heat pumps.
+
+C. Heat pump controls. All heat pumps with supplementary electric resistance heaters shall be installed with controls that comply with Section 110.2(b).
+
+D. Shut-off and reset controls for space-conditioning systems. Each space-conditioning system shall be installed with controls that comply with the following:
+
+i. The control shall be capable of automatically shutting off the system during periods of nonuse and shall have:
+
+a. An automatic time switch control device complying with Section 110.9, with an accessible manual override that allows operation of the system for up to 4 hours; or
+
+b. An occupancy sensor; or
+
+c. A 4-hour timer that can be manually operated.
+
+ii. The control shall automatically restart and temporarily operate the system as required to maintain:
+
+a. A setback heating thermostat setpoint if the system provides mechanical heating; and
+
+Exception to Section 160.3(a)2Diia: Thermostat setback controls are not required in multifamily buildings in areas where the Winter Median of Extremes outdoor air temperature determined in accordance with Section 170.2(c)1C is greater than 32°F.
+
+b. A setup cooling thermostat setpoint if the system provides mechanical cooling.
+
+Exception to Section 160.3(a)2Diib: Thermostat setup controls are not required in multifamily buildings in areas where the summer design dry-bulb 0.5-percent temperature determined in accordance with Section 170.2(c)1C is less than 100°F.
+
+iii. Occupant sensing zone controls. Where the system providing space conditioning also provides the ventilation required by Section 160.2(c)3 and includes occupant sensor ventilation control as specified in Section 160.2(c)5E, the occupant sensing zone controls shall additionally comply with the following:
+
+a.  Occupant sensing zone controls shall comply with the occupant sensor ventilation control device requirements of Section 160.3(c)5E and allow preoccupancy ventilation requirements of Section 160.3(c)5B; and
+
+b. In 5 minutes or less after entering occupiedstandby mode as described in Section 160.2(c)5:
+
+I. Automatically set up the operating cooling temperature setpoint by 2°F or more and set back the operating heating temperature setpoint by 2°F or more; or
+
+II. For multiple zone systems with direct digital controls (DDC) to the zone level, set up the operating cooling temperature setpoint by 0.5°F or more and set back the operating heating temperature setpoint by 0.5°F or more.
+
+c. In 5 minutes or less after entering occupiedstandby mode, mechanical ventilation to the zone shall remain off whenever the space temperature is between the active heating and cooling setpoints.
+
+Exception to Section 160.3(a)2Diii: Zones that are only ventilated by a natural ventilation system in accordance with Section 120.1(c)2.
+
+Exception 1 to Sections 160.3(a)2Di, ii and
+iii: Where it can be demonstrated to the satisfaction of the enforcing agency that the system serves an area that must operate continuously.
+
+Exception 2 to Sections 160.3(a)2Di, ii and
+iii: Systems with full load demands of 2 kW or less, if they have a readily accessible manual shut-off switch.
+
+E. Dampers for air supply and exhaust equipment. Outdoor air supply and exhaust equipment shall be installed with dampers that automatically close upon fan shutdown.
+
+Exception 1 to Section 160.3(a)2E: Equipment that serves an area that must operate continuously.
+
+Exception 2 to Section 160.3(a)2E: Gravity and other nonelectrical equipment that has readily accessible manual damper controls.
+
+Exception 3 to Section 160.3(a)2E: At combustion air intakes and shaft vents.
+
+Exception 4 to Section 160.3(a)2E: Where prohibited by other provisions of law.
+
+F. Isolation area devices. Each space-conditioning system serving multiple zones with a combined conditioned floor area of more than 25,000 square feet shall be designed, installed and controlled to serve isolation areas.
+
+i. Each zone, or any combination of zones not exceeding 25,000 square feet, shall be a separate isolation area.
+
+ii. Each isolation area shall be provided with isolation devices, such as valves or dampers that allow the supply of heating or cooling to be reduced or shut off independently of other isolation areas.
+
+iii. Each isolation area shall be controlled by a device meeting the requirements of Section 160.3(a)2Di.
+
+Exception to Section 160.3(a)2F: Zones designed to be conditioned continuously.
+
+G. Automatic demand shed controls. See Section 110.12 for requirements for automatic demand shed
+controls.
+
+H. Economizer fault detection and diagnostics (FDD). All newly installed air handlers with a mechanical cooling capacity over 33,000 Btu/hr and an installed air economizer shall include a standalone or integrated fault detection and diagnostics (FDD) system in accordance with Subsections 160.3(a)2Hi through 160.3(a)2Hviii.
+
+i. The following temperature sensors shall be permanently installed to monitor system operation: outside air, supply air and, when required for differential economizer operation, a return air sensor; and
+
+ii. Temperature sensors shall have an accuracy of ±2°F over the range of 40°F to 80°F; and
+
+iii.The controller shall have the capability of displaying the value of each sensor; and
+
+iv. The controller shall provide system status by indicating the following conditions:
+
+a. Free cooling available;
+
+b. Economizer enabled;
+
+c. Compressor enabled;
+
+d. Heating enabled, if the system is capable of heating; and
+
+e. Mixed air low limit cycle active.
+
+v. The unit controller shall allow manual initiation of each operating mode so that the operation of cooling systems, economizers, fans and heating systems can be independently tested and verified; and
+
+vi.  Faults shall be reported in one of the following ways:
+
+a. Reported to an energy management control system regularly monitored by facility personnel.
+
+b. Annunciated locally on one or more zone thermostats, or a device within 5 feet of zone thermostat(s), clearly visible, at eye level and meeting the following requirements:
+
+I. On the thermostat, the device or an adjacent written sign, display instructions to contact appropriate building personnel or an HVAC technician; and
+
+II. In buildings with multiple tenants, the annunciation shall either be within property management offices or in a common space accessible by the property or building manager.
+
+c. Reported to a fault management application that automatically provides notification of the fault to remote HVAC service provider.
+
+vii. The FDD system shall detect the following faults:
+
+a. Air temperature sensor failure/fault;
+
+b. Not economizing when it should;
+
+c. Economizing when it should not;
+
+d. Damper not modulating; and
+
+e. Excess outdoor air.
+
+viii. The FDD system shall be certified by the Energy Commission as meeting the requirements of Sections 160.3(a)2Hi through 160.3(a)2Hvii in accordance with Section 110.0 and JA6.3.
+
+Exception to Section 160.3(a)2Hviii: FDD algorithms based in direct digital control systems are not required to be certified to the Energy Commission.
+
+I. Direct digital controls (DDC). Direct digital controls to the zone shall be provided as specified by Table 160.3-C.
+
+i. The provided DDC system shall meet the control logic requirements of Sections 160.3(a)2E and 160.3(a)2G, and be capable of the following:
+
+ii. Monitoring zone and system demand for fan pressure, pump pressure, heating and cooling;
+
+iii. Transferring zone and system demand information from zones to air distribution system controllers and from air distribution systems to heating and cooling plant controllers;
+
+iv. Automatically detecting the zones and systems that may be excessively driving the reset logic and generate an alarm or other indication to the system operator;
+
+v. Readily allow operator removal of zone(s) from the reset algorithm;
+
+vi. For new buildings, trending and graphically displaying input and output points; and
+
+vii. Resetting heating and cooling setpoints in all noncritical zones upon receipt of a signal from a centralized contact or software point as described in Section 160.3(a)2G.
+
+J. Optimum start/stop controls. Space-conditioning systems with DDC to the zone level shall have optimum start/stop controls. The control algorithm shall, as a minimum, be a function of the difference between space temperature and occupied setpoint, the outdoor air temperature, and the amount of time prior to scheduled occupancy. Mass radiant floor slab systems shall incorporate floor temperature onto the optimum start algorithm.
+
+Exception to Section 160.3(a)2J: Systems that must operate continuously.
+
+(b) Dwelling unit space-conditioning and air distribution systems.
+
+1. Building cooling and heating loads. Building heating and cooling loads shall be determined using a method based on any one of the following, using cooling and heating loads as two of the criteria for equipment sizing and selection:
+
+A. The ASHRAE Handbook, Equipment Volume, Applications Volume and Fundamentals Volume; or
+
+B. The SMACNA Residential Comfort System Installation Standards Manual; or
+
+C. The ACCA Manual J.
+
+NOTE: Heating systems are required to have a minimum heating capacity adequate to meet the minimum requirements of the CBC.
+NOTE: Heating systems are required to have a minimum heating capacity adequate to meet the minimum requirements of the CBC.
+
+2. Design conditions. Design conditions shall be determined in accordance with the following:
+
+A. For the purpose of sizing the space-conditioning (HVAC) system, the indoor design temperatures shall be 68°F for heating and 75°F for cooling.
+
+B. Outdoor design conditions shall be selected from Reference Joint Appendix JA2, which is based on data from the ASHRAE Climatic Data for Region X.
+
+C. The outdoor design temperatures for heating shall be no lower than the Heating Winter Median of Extremes values.
+
+D. The outdoor design temperatures for cooling shall be no greater than the 1.0 percent Cooling Dry Bulb and Mean Coincident Wet Bulb values.
+
+3. Outdoor condensing units.
+
+A. Clearances. Installed air conditioner and heat pump outdoor condensing units shall have a clearance of at least 5 feet (1.5 meters) from the outlet of any dryer vent.
+
+B. Liquid line drier. Installed air conditioner and heat pump systems shall be equipped with liquid line filter driers if required, as specified by manufacturer’s instructions.
+
+4. Central forced-air heating furnaces.
+
+A. Temperature rise. Central forced-air heating furnace installations shall be configured to operate in conformance with the furnace manufacturer's maximum inlet-to-outlet temperature rise specifications.
+
+5. Air-distribution and ventilation system ducts, plenums and fans.
+
+A. CMC compliance.
+
+i. All air-distribution system ducts and plenums, including, but not limited to, mechanical closets and air-handler boxes, shall meet the requirements of the CMC Sections 601.0, 602.0, 603.0, 604.0 and 605.0 and ANSI/SMACNA-006-2006 HVAC Duct Construction Standards Metal and Flexible 3rd Edition, incorporated herein by reference.
+
+ii. Portions of supply-air and return-air ducts and plenums of a space heating or cooling system shall be insulated in accordance with either Subsection a or b below:
+
+a. Ducts shall have a minimum installed level of R-6.0, or
+
+Exception to Section 160.3(b)5Aiia: Portions of the duct system located in conditioned space below the ceiling separating the occupiable space from the attic are not required to be insulated if all of the following conditions are met:
+
+i. The noninsulated portion of the duct system is located entirely inside the building’s thermal envelope as confirmed by visual inspection.
+
+ii. At all locations where noninsulated portions of the duct system penetrate into unconditioned space, the penetration shall be draft stopped compliant with CFC Sections 703.1 and 704.1 and air-sealed to the construction materials that are penetrated, using materials compliant with CMC Section E502.4.2 to prevent air infiltration into the cavity. All connections in unconditioned space are insulated to a minimum of R-6.0 as confirmed by visual inspection.
+
+b. Ducts do not require insulation when the duct system is located entirely in conditioned space. For buildings with three or fewer habitable stories, duct systems located entirely in conditioned space shall be confirmed through field verification and diagnostic testing in accordance with the requirements of Reference Residential Appendix RA3.1.4.3.8.
+
+iii. Connections of metal ducts and the inner core of flexible ducts shall be mechanically fastened.
+
+iv. Openings shall be sealed with mastic, tape or other duct-closure system that meets the applicable requirements of UL 181, UL 181A or UL 181B or aerosol sealant that meets the requirements of UL 723. If mastic or tape is used to seal openings greater than 1/4 inch, the combination of mastic and either mesh or tape shall be used.
+
+v. Building cavities, support platforms for air handlers, and plenums designed or constructed with materials other than sealed sheet metal, duct board or flexible duct shall not be used for conveying conditioned air. Building cavities and support platforms may contain ducts. Ducts installed in cavities and support platforms shall not be compressed to cause reductions in the cross-sectional area of the ducts.
+
+Exception to Section 160.3(b)5A: Ducts and fans integral to a wood heater or fireplace.
+
+B. Factory-fabricated duct systems.
+
+i. All factory-fabricated duct systems shall comply with UL 181 for ducts and closure systems, including collars, connections and splices, and be labeled as complying with UL 181. UL 181 testing may be performed by UL laboratories or a laboratory approved by the Executive Director.
+
+ii. All pressure-sensitive tapes, heat-activated tapes and mastics used in the manufacture of rigid fiberglass ducts shall comply with UL 181 and UL 181A.
+
+iii. All pressure-sensitive tapes and mastics used with flexible ducts shall comply with UL 181 and UL 181B.
+
+iv. Joints and seams of duct systems and their components shall not be sealed with cloth back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+C. Field-fabricated duct systems.
+
+i. Factory-made rigid fiberglass and flexible ducts for field-fabricated duct systems shall comply with UL 181. All pressure-sensitive tapes, mastics, aerosol sealants or other closure systems used for installing field-fabricated duct systems shall meet the applicable requirements of UL 181, UL 181A and UL 181B.
+
+ii. Mastic sealants and mesh.
+
+a. Sealants shall comply with the applicable requirements of UL 181, UL 181A and UL 181B, and be nontoxic and water resistant.
+
+b. Sealants for interior applications shall be tested in accordance with ASTM C731 and D2202, incorporated herein by reference.
+
+c. Sealants for exterior applications shall be tested in accordance with ASTM C731, C732 and D2202, incorporated herein by reference.
+
+d. Sealants and meshes shall be rated for exterior use.
+
+iii. Pressure-sensitive tape. Pressure-sensitive tapes shall comply with the applicable requirements of UL 181, UL 181A and UL 181B.
+
+iv. Joints and seams of duct systems and their components shall not be sealed with cloth back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+v. Drawbands used with flexible duct.
+
+a. Drawbands shall be either stainless-steel worm-drive hose clamps or UV-resistant nylon duct ties.
+
+b. Drawbands shall have a minimum tensile strength rating of 150 pounds.
+
+c. Drawbands shall be tightened as recommended by the manufacturer with an adjustable tensioning tool.
+
+vi. Aerosol-sealant closures.
+
+a. Aerosol sealants shall meet the requirements of UL 723 and be applied according to manufacturer specifications.
+
+b. Tapes or mastics used in combination with aerosol sealing shall meet the requirements of this section.
+
+D. Duct insulation R-value ratings. All duct insulation product R-values shall be based on insulation only (excluding air films, vapor retarder or other duct components) and tested C-values at 75°F mean temperature at the installed thickness, in accordance with ASTM C518 or ASTM C177, incorporated herein by reference, and certified pursuant to Section 110.8.
+
+E. Duct insulation thickness. The installed thickness of duct insulation used to determine its R-value shall be determined as follows:
+
+i. For duct board, duct liner and factory-made rigid ducts not normally subjected to compression, the nominal insulation thickness shall be used.
+
+ii. For duct wrap, installed thickness shall be assumed to be 75 percent (25 percent compression) of nominal thickness.
+
+iii. For factory-made flexible air ducts, the installed thickness shall be determined by dividing the difference between the actual outside diameter and nominal inside diameter by two.
+
+F. Duct labeling. Insulated flexible duct products installed to meet this requirement shall include labels, in maximum intervals of 3 feet, showing the thermal performance R-value for the duct insulation itself (excluding air films, vapor retarder or other duct components), based on the tests in Section 160.3(b)5D and the installed thickness determined by Section 160.3(b)5Eiii.
+
+G. Backdraft dampers. All fan systems, regardless of volumetric capacity, that exchange air between the building conditioned space and the outside of the building shall be provided with backdraft or automatic dampers to prevent unintended air leakage through the fan system when the fan system is not operating.
+
+H. Gravity ventilation dampers. All gravity ventilating systems that serve conditioned space shall be provided with either automatic or readily accessible, manually operated dampers in all openings to the outside except combustion inlet and outlet air openings and elevator shaft vents.
+
+I. Protection of insulation. Insulation shall be protected from damage, including that due to sunlight, moisture, equipment maintenance and wind but not limited to the following: Insulation exposed to weather shall be suitable for outdoor service (e.g., protected by aluminum, sheet metal, painted canvas or plastic cover). Cellular foam insulation shall be protected as above or painted with a coating that is water retardant and provides shielding from solar radiation that can cause degradation of the material.
+
+J. Porous inner core flex duct. Flexible ducts having porous inner cores shall have a nonporous layer or air barrier between the inner core and the outer vapor barrier.
+
+K. Duct system sealing and leakage testing. When space-conditioning systems utilize forced air duct systems to supply conditioned air to an individual dwelling unit, the ducts shall be sealed, as confirmed through field verification and diagnostic testing, in accordance with all applicable procedures specified in Reference Residential Appendix RA3.1. Air handler airflow for calculation of duct leakage rate compliance targets shall be determined according to methods specified in Reference Residential Appendix RA3.1.4.2.
+
+For multifamily dwellings with the air-handling unit installed and the ducts connected directly to the air handler, regardless of duct system location:
+For multifamily dwellings with the air-handling unit installed and the ducts connected directly to the air handler, regardless of duct system location:
+
+i. The total leakage of the duct system shall not exceed 12 percent of the air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.1; or
+
+ii. The duct system leakage to outside shall not exceed 6 percent of the air handler airflow as determined utilizing the procedures in Reference Residential Appendix Section RA3.1.4.3.4.
+
+Exception 1 to Section 160.3(b)5K:  The HERS Rater field verification and HERS Provider data registry requirements of Reference Residential Appendix RA2 and RA3 are not required for multifamily dwelling units in buildings four habitable stories and greater. The installer shall certify that diagnostic testing was performed in accordance with the applicable procedures.
+
+Exception 2 to Section 160.3(b)5K:  Multifamily dwelling units in buildings four habitable stories and greater in Climate Zones 1, 3, 5 and 7.
+
+L. System airflow rate and fan efficacy. Space-conditioning systems that utilize forced air ducts to supply cooling to an individual dwelling unit shall:
+
+i. Static pressure probe. Have a hole for the placement of a static pressure probe (HSPP), or a permanently installed static pressure probe (PSPP) in the supply plenum downstream of the air conditioning evaporator coil. The size, location and labeling of the HSPP or PSPP shall conform to the requirements specified in Reference Residential Appendix RA3.3.1.1 as confirmed by field verification and diagnostic testing; and
+
+Exception to Section 160.3(b)5Li: Systems that cannot conform to the specifications for hole location in Reference Residential Appendix Figure RA3.3-1 shall not be required to provide holes as described in Figure RA3.3-1.
+
+ii. Single zone central forced air systems. Demonstrate, in every control mode, airflow greater than or equal to 350 cfm per ton of nominal cooling capacity through the return grilles, and an airhandling unit fan efficacy less than or equal to the maximum W/cfm specified in Subsection a or b below. The airflow rate and fan efficacy requirements in this section shall be confirmed by field verification and diagnostic testing in accordance with the procedures given in Reference Residential Appendix RA3.3.
+
+a. 0.45 W/cfm for gas furnace air-handling units.
+
+b. 0.58 W/cfm for air-handling units that are not gas furnaces.
+
+Exception 1 to Section 160.3(b)5Lii: Standard ducted systems without zoning dampers may comply by meeting the applicable requirements in Table 160.3-A or 160.3-B as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Sections RA3.1.4.4 and RA3.1.4.5. The design cleanfilter pressure drop requirements specified by Section 160.2(b)1Div for the system air filter(s) shall conform to the requirements given in Table 160.3-A or 160.3-B.
+
+Exception 2 to Section 160.3(b)5Lii: Multispeed compressor systems or variable speed compressor systems shall verify airflow (cfm/ ton) and fan efficacy (watt/cfm) for system operation at the maximum compressor speed and the maximum air handler fan speed.
+
+Exception 3 to Section 160.3(b)5Lii: Gas furnace air-handling units manufactured prior to July 3, 2019 shall comply with a fan efficacy value less than or equal to 0.58 w/cfm as confirmed by field verification and diagnostic testing in accordance with the procedures given in Reference Residential Appendix RA3.3.
+
+iii. Zonally controlled central forced air systems. Zonally controlled central forced air cooling systems shall be capable of simultaneously delivering, in every zonal control mode, an airflow from the dwelling, through the air handler fan and delivered to the dwelling, of greater than or equal to 350 cfm per ton of nominal cooling capacity, and operating at an air-handling unit fan efficacy of less than or equal to the maximum W/cfm specified in Subsection a or b below. The airflow rate and fan efficacy requirements in this section shall be confirmed by field verification and diagnostic testing in accordance with the applicable procedures specified in Reference Residential Appendix RA3.3.
+
+a. 0.45 W/cfm for gas furnace air-handling units.
+
+b. 0.58 W/cfm for air-handling units that are not gas furnaces.
+
+Exception 1 to Section 160.3(b)5Liii: Multispeed or variable speed compressor systems, or single speed compressor systems that utilize the performance compliance approach, shall demonstrate compliance with the airflow (cfm/ton) and fan efficacy (watt/cfm) requirements of Section 160.3(b)5Liii by operating the system at maximum compressor capacity and system fan speed with all zones calling for conditioning, rather than in every zonal control mode.
+
+Exception 2 to Section 160.3(b)5Liii: Gas furnace air-handling units manufactured prior to July 3, 2019 shall comply with a fan efficacy value less than or equal to 0.58 w/cfm as confirmed by field verification and diagnostic testing in accordance with the procedures given in Reference Residential Appendix RA3.3.
+
+iv. Small duct high velocity forced air systems. Demonstrate, in every control mode, airflow greater than or equal to 250 cfm per ton of nominal cooling capacity through the return grilles, and an air-handling unit fan efficacy less than or equal to 0.62 W/cfm as confirmed by field verification and diagnostic testing in accordance with the procedures given in Reference Residential Appendix RA3.3.
+
+Exception 1 to Section 160.3(b)5Liv: Standard ducted systems without zoning dampers may comply by meeting the applicable requirements in Table 160.3-A or 160.3-B as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Sections RA3.1.4.4 and RA3.1.4.5. The design cleanfilter pressure drop requirements specified by Section 160.2(b)1Div for the system air filter(s) shall conform to the requirements given in Table 160.3-A or 160.3-B.
+
+Exception 2 to Section 160.3(b)5Liv: Multispeed compressor systems or variable speed compressor systems shall verify airflow (cfm/ ton) and fan efficacy (watt/cfm) for system operation at the maximum compressor speed and the maximum air handler fan speed.
+
+Exception 1 to Section 160.3(b)5L: The HERS Rater field verification and HERS Provider data registry requirements of Reference Residential Appendix RA2 and RA3 are not required for multifamily dwelling units in buildings four habitable stories and greater. The installer shall certify that diagnostic testing was performed in accordance with the applicable procedures.
+
+Exception 2 to Section 160.3(b)5L: Multifamily dwelling units in buildings four habitable stories and greater in Climate Zone 1.
+
+6. Piping for space-conditioning systems, solar waterheating system collector loop, and distribution piping for steam and hydronic heating system shall meet the requirements of Section 160.3(c)1.
+
+(c) Fluid distribution systems; common area spaceconditioning systems. Multifamily buildings shall comply with the applicable requirements of Section 160.3(a)1. Multifamily common areas shall comply with the applicable requirements of Sections 160.3(a)2A through 160.3(a)2J.
+
+1. Pipe insulation. Multifamily buildings shall comply with the applicable requirements of Sections 160.3(c)1A through 160.3(c)1D.
+
+A. General requirements. The piping conditions listed below for space-conditioning systems with fluid normal operating temperatures listed in Table 160.3-D shall have at least the amount of insulation specified in Section 160.3(c)1D:
+
+i. Space cooling systems. All refrigerant suction, chilled water and brine fluid distribution systems.
+
+ii. Space heating systems. All refrigerant, steam, steam condensate and hot water fluid distribution systems.
+
+Exception to Section 160.3(c)1Aii: Heat pumps refrigerant vapor line shall be installed with a minimum of 0.75-inch-thick or R-6.0 insulation. No insulation is required on the refrigerant liquid line.
+
+B. Insulation conductivity shall be determined in accordance with ASTM C335
+ at the mean temperature listed in Table 160.3-D, and shall be rounded to the nearest 1/100 Btu-inch per hour per square foot per °F. Fluid distribution systems include all elements that are in series with the fluid flow, such as pipes, pumps, valves, strainers, coil u-bends and air separators, but not including elements that are not in series with the fluid flow, such as expansion tanks, fill lines, chemical feeders and drains.
+
+C. Insulation protection. Pipe insulation shall be protected from damage due to sunlight, moisture, equipment maintenance and wind. Protection shall, at minimum, include the following:
+
+i. Pipe insulation exposed to weather shall be protected by a cover suitable for outdoor service. The cover shall be water retardant and provide shielding from solar radiation that can cause degradation of the material. Adhesive tape shall not be used to provide this protection.
+
+ii. Pipe insulation covering chilled water piping and refrigerant suction piping located outside the conditioned space shall include, or be protected by, a Class I or Class II vapor retarder. All penetrations and joints shall be sealed.
+
+iii. Pipe insulation buried below grade must be installed in a waterproof and noncrushable casing or sleeve.
+
+D. Insulation thickness.
+
+i. For insulation with a conductivity in the range shown in Table 160.3-D for the applicable fluid temperature range, the insulation shall have the applicable minimum thickness or R-value shown in Table 160.3-D.
+
+ii. For insulation with a conductivity outside the range shown in Table 160.3-D for the applicable fluid temperature range, the insulation shall have a minimum R-value shown in Table 160.3-D or thickness as calculated with Equation 160.3-A:
+
+where:
+
+T =  Minimum insulation thickness for material with conductivity K, inches.
+
+PR =  Pipe actual outside radius, inches.
+
+t =  Insulation thickness from 160.3-D, inches.
+
+K =  Conductivity of alternate material at the mean rating temperature indicated in Table 160.3-D for the applicable fluid temperature range, in Btu-inch per hour per square foot per °F.
+
+k =  The lower value of the conductivity range listed in Table 160.3-D for the applicable fluid temperature range, Btu-inch per hour per square foot per °F.
+
+Exception 1 to Section 160.3(c)1: Factory-installed piping within space-conditioning equipment certified under Section 110.1 or 110.2.
+
+Exception 2 to Section 160.3(c)1: Piping that conveys fluids with a design operating temperature range between 60°F and 105°F.
+
+Exception 3 to Section 160.3(c)1: Where the heat gain or heat loss to or from piping without insulation will not increase building source energy use.
+
+Exception 4 to Section 160.3(c)1: Piping that penetrates framing members shall not be required to have pipe insulation for the distance of the framing penetration. Metal piping that penetrates metal framing shall use grommets, plugs, wrapping or other insulating material to ensure that no contact is made with the metal framing.
+
+2. Requirements for air distribution system, ducts and plenum. Multifamily common areas shall comply with the applicable requirements of Sections 160.3(c)2A through 160.3(c)2F.
+
+A. CMC compliance. All air distribution system ducts and plenums, including, but not limited to, building cavities, mechanical closets, air-handler boxes and support platforms used as ducts or plenums shall meet the requirements of CMC Sections 601.0, 602.0, 603.0, 604.0 and 605.0, and ANSI/SMACNA-006-2006 HVAC Duct Construction Standards Metal and Flexible 3rd Edition, incorporated herein by reference. Connections of metal ducts and the inner core of flexible ducts shall be mechanically fastened. Openings shall be sealed with mastic, tape, aerosol sealant or other duct-closure system that meets the applicable requirements of UL 181, UL 181A or UL 181B. If mastic or tape is used to seal openings greater than 1/4 inch, the combination of mastic and either mesh or tape shall be used.
+
+B. Portions of supply-air and return-air ducts conveying heated or cooled air located in one or more of the following spaces shall be insulated to a minimum installed level of R-8:
+
+i. Outdoors; or
+
+ii. In a space between the roof and an insulated ceiling; or
+
+iii. In a space directly under a roof with fixed vents or openings to the outside or unconditioned spaces; or
+
+iv. In an unconditioned crawl space; or
+
+v. In other unconditioned spaces.
+
+Portions of supply-air ducts that are not in one of these spaces, including ducts buried in concrete slab, shall be insulated to a minimum installed level of R- 4.2 or be enclosed in directly conditioned space.
+Portions of supply-air ducts that are not in one of these spaces, including ducts buried in concrete slab, shall be insulated to a minimum installed level of R- 4.2 or be enclosed in directly conditioned space.
+
+C. Duct and plenum materials.
+
+i. Factory-fabricated duct systems.
+
+a. All factory-fabricated duct systems shall comply with UL 181 for ducts and closure systems, including collars, connections and splices, and be labeled as complying with UL 181. UL 181 testing may be performed by UL laboratories or a laboratory approved by the Executive Director.
+
+b. All pressure-sensitive tapes, heat-activated tapes and mastics used in the manufacture of rigid fiberglass ducts shall comply with UL 181 and UL 181A.
+
+c. All pressure-sensitive tapes and mastics used with flexible ducts shall comply with UL 181 and UL 181B.
+
+d. Ductwork and plenums with pressure class ratings shall be constructed to Seal Class A. Joints and seams of duct systems and their components shall not be sealed with cloth back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+Exception to Section 160.3(c)2Cid:  Ductwork located in occupied space and exposed to view.
+
+ii. Field-fabricated duct systems.
+
+a. Factory-made rigid fiberglass and flexible ducts for field-fabricated duct systems shall comply with UL 181. All pressure-sensitive tapes, mastics, aerosol sealants or other closure systems used for installing field-fabricated duct systems shall meet the applicable requirements of UL 181, UL 181A and UL 181B.
+
+b. Mastic sealants and mesh.
+
+I. Sealants shall comply with the applicable requirements of UL 181, UL 181A and UL 181B, and be nontoxic and water resistant.
+
+II. Sealants for interior applications shall pass ASTM C731 (extrudability after aging) and D2202 (slump test on vertical surfaces), incorporated herein by reference.
+
+III. Sealants for exterior applications shall pass ASTM C731, C732 (artificial weathering test) and D2202, incorporated herein by reference.
+
+IV. Sealants and meshes shall be rated for exterior use.
+
+c. Pressure-sensitive tape. Pressure-sensitive tapes shall comply with the applicable requirements of UL 181, UL 181A and UL 181B.
+
+d. Ductwork and plenums with pressure class ratings shall be constructed to Seal Class A. Joints and seams of duct systems and their components shall not be sealed with cloth back rubber adhesive duct tapes unless such tape is used in combination with mastic and drawbands.
+
+e. Drawbands used with flexible duct.
+
+I. Drawbands shall be either stainless-steel worm-drive hose clamps or UV-resistant nylon duct ties.
+
+II. Drawbands shall have a minimum tensile strength rating of 150 pounds.
+
+III. Drawbands shall be tightened as recommended by the manufacturer with an adjustable tensioning tool.
+
+f. Aerosol-sealant closures.
+
+I. Aerosol sealants shall meet the requirements of UL 723 and be applied according to manufacturer specifications.
+
+II. Tapes or mastics used in combination with aerosol sealing shall meet the requirements of this section.
+
+D. All duct insulation product R-values shall be based on insulation only (excluding air films, vapor retarders or other duct components) and tested C-values at 75°F mean temperature at the installed thickness, in accordance with ASTM C518 or ASTM C177, incorporated herein by reference, and certified pursuant to Section 110.8.
+
+E. The installed thickness of duct insulation used to determine its R-value shall be determined as follows:
+
+i. For duct board, duct liner and factory-made rigid ducts not normally subjected to compression, the nominal insulation thickness shall be used.
+
+ii. For duct wrap, installed thickness shall be assumed to be 75 percent (25 percent compression) of nominal thickness.
+
+iii. For factory-made flexible air ducts, the installed thickness shall be determined by dividing the difference between the actual outside diameter and nominal inside diameter by two.
+
+F. Insulated flexible duct products installed to meet this requirement must include labels, in maximum intervals of 3 feet, showing the thermal performance R-value for the duct insulation itself (excluding air films, vapor retarder or other duct components), based on the tests in Section 160.3(c)2D and the installed thickness determined by Section 160.3(c)2Eiii.
+
+G. Insulation shall be protected from damage, including that due to sunlight, moisture, equipment maintenance and wind but not limited to the following: Insulation exposed to weather shall be suitable for outdoor service; e.g., protected by aluminum, sheet metal, painted canvas or plastic cover. Cellular foam insulation shall be protected as above or painted with a coating that is water retardant and provides shielding from solar radiation that can cause degradation of the material.
+
+H. Duct systems shall be tested in accordance with i or ii below:
+
+i. New duct systems that meet the criteria in Subsections a, b and c below or ductwork that is part of a system that meets the criteria of Section 180.2(b)2B shall be sealed to a leakage rate not to exceed 6 percent of the nominal air handler airflow rate as confirmed through field verification and diagnostic testing, in accordance with the applicable procedures in Reference Nonresidential Appendices NA1 and NA2.
+
+a. The duct system provides conditioned air to an occupiable space for a constant volume, single zone, space-conditioning system; and
+
+b. The space-conditioning system serves less than 5,000 square feet of conditioned floor area; and
+
+c. The combined surface area of the ducts located in the following spaces is more than 25 percent of the total surface area of the entire duct system:
+
+I. Outdoors; or
+
+II. In a space directly under a roof that has a U-factor greater than the U-factor of the ceiling, or if the roof does not meet the requirements of Section 170.2(a)1; or
+
+III. In a space directly under a roof that has fixed vents or openings to the outside or unconditioned spaces; or
+
+IV. In an unconditioned crawl space; or
+
+V. In other unconditioned spaces.
+
+ii. All duct systems that do not meet the criteria in Section 160.3(c)2H shall meet the duct leakage testing requirements of CMC Section 603.9.2.
+
+(d) Mechanical acceptance testing.
+
+1. Common areas. Before an occupancy permit is granted, the following systems and equipment serving multifamily common areas shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by Reference Nonresidential Appendix NA7. These systems and equipment shall also comply with the applicable requirements of Section 160.3(d)3. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements:
+
+A. Outdoor air ventilation systems shall be tested in accordance with NA7.5.1.
+
+B. Constant volume, single zone air conditioning and heat pump unit controls shall be tested in accordance with NA7.5.2.
+
+C. Duct systems shall be tested in accordance with NA7.5.3 where either:
+
+a. They are new duct systems; or
+
+b. They are part of an altered system.
+
+D. Air economizers shall be tested in accordance with NA7.5.4.
+
+Exception to Section 160.3(d)1D: Air economizers installed by the HVAC system manufacturer and certified to the Commission as being factory calibrated and tested are exempt from the Functional Testing section of the Air Economizer Controls acceptance test as described in NA7.5.4.2.
+
+E. Demand control ventilation systems required by Section 160.2(c)3 shall be tested in accordance with NA7.5.5.
+
+F. Supply fan variable flow controls shall be tested in accordance with NA7.5.6.
+
+G. Hydronic system variable flow controls shall be tested in accordance with NA7.5.7 and NA7.5.9.
+
+H. Boilers or chillers that require isolation controls as specified by Section 170.2(c)4Iii or 170.2(c)4Iiii shall be tested in accordance with NA7.5.7.
+
+I. Hydronic systems with supply water temperature reset controls shall be tested in accordance with NA7.5.8.
+
+J. Automatic demand shed controls shall be tested in accordance with NA7.5.10.
+
+K. Fault detection and diagnostics (FDD) for packaged direct expansion units shall be tested in accordance with NA7.5.11.
+
+L. Automatic fault detection and diagnostics (FDD) for air handling units and zone terminal units shall be tested in accordance with NA7.5.12.
+
+M. Distributed energy storage DX AC systems shall be tested in accordance with NA7.5.13.
+
+N. Thermal energy storage (TES) systems shall be tested in accordance with NA7.5.14.
+
+O. Supply air temperature reset controls shall be tested in accordance with NA7.5.15.
+
+P. Water-cooled chillers served by cooling towers with condenser water reset controls shall be tested in accordance with NA7.5.16.
+
+Q. When an energy management control system is installed, it shall functionally meet all of the applicable requirements of Part 6.
+
+R. Occupant sensing zone controls shall be tested in accordance with NA7.5.17.
+
+2. Multifamily dwelling units. Before an occupancy permit is granted, the following systems and equipment serving multifamily dwelling units shall be certified as meeting the acceptance requirements for code compliance, as specified by the Reference Nonresidential Appendix NA7. These systems and equipment shall also comply with the applicable requirements of Section 160.3(d)3. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the equipment and systems meet the acceptance requirements:
+
+A. In multifamily buildings with four or more habitable stories, dwelling unit ventilation systems shall be tested in accordance with NA7.18.1.
+
+B. In multifamily buildings with four or more habitable stories, dwelling unit enclosure leakage shall be tested in accordance with NA7.18.2 when exhaust or supply ventilation systems are used for compliance with whole-dwelling unit ventilation requirements as specified in Section 160.2(b)2Aivb2.
+
+C. Multifamily building central ventilation ducts in multifamily buildings with four or more habitable stories shall be leak tested in accordance with NA7.18.3.
+
+D. Multifamily building central ventilation system heat recovery or energy recovery systems in multifamily buildings with four or more habitable stories shall be tested in accordance with NA7.18.4.
+
+3. When certification is required by Title 24, Part 1, Section 10-103.2, the acceptance testing specified by Section 160.3(d)1 and 2 shall be performed by a Certified Mechanical Acceptance Test Technician (CMATT). If the CMATT is operating as an employee, the CMATT shall be employed by a Certified Mechanical Acceptance Test Employer. The CMATT shall disclose on the Certificate of Acceptance a valid CMATT certification identification number issued by an approved Acceptance Test Technician Certification Provider. The CMATT shall complete all Certificate of Acceptance documentation in accordance with the applicable requirements in Section 10-103(a)4.
+
+TABLE 160.3-A
+
+RETURN DUCT SIZING FOR SINGLE RETURN DUCT SYSTEMS
+
+Return duct length shall not exceed 30 feet and shall contain no more than 180 degrees of bend. If the total bending exceeds 90 degrees, one bend shall be a metal elbow. Return grille devices shall be labeled in accordance with the requirements in Section 160.2(b)1Biv to disclose the grille's design airflow rate and a maximum allowable clean-filter pressure drop of 25 Pa (0.1 inches water) for the air filter when tested using ASHRAE Standard 52.2, or as rated in accordance with AHRI Standard 680 for the design airflow rate for the return grille.
+SYSTEM NOMINAL COOLING CAPACITY (TON)*	RETURN DUCT MINIMUM NOMINAL DIAMETER (INCH)	MINIMUM TOTAL RETURN
+FILTER GRILLE NOMINAL AREA
+(INCH2)
+1.5	16	500
+2.0 	18 	600
+2.5 	20 	800*Not applicable to systems with nominal cooling capacity greater than 2.5 tons or less than 1.5 ton.
+
+TABLE 160.3-B
+
+RETURN DUCT SIZING FOR MULTIPLE RETURN DUCT SYSTEMS
+
+Each return duct length shall not exceed 30 feet and shall contain no more than 180 degrees of bend. If the total bending exceeds 90 degrees, one bend shall be a metal elbow.
+Return grille devices shall be labeled in accordance with the requirements in Section 160.2(b)1Biv to disclose the grille's design airflow rate and a maximum allowable clean-filter pressure drop of 25 Pa (0.1 inches water) for the air filter when tested using ASHRAE Standard 52.2, or as rated in accordance with AHRI Standard 680 for the design airflow rate for the return grille.
+SYSTEM NOMINAL COOLING CAPACITY (TON)*	RETURN DUCT 1 MINIMUM NOMINAL DIAMETER (INCH)	RETURN DUCT 2 MINIMUM NOMINAL DIAMETER (INCH)	MINIMUM TOTAL RETURN FILTER GRILLE NOMINAL AREA (INCH2)
+1.5 	12 	10 	500
+2.0 	14 	12 	600
+2.5 	14 	14 	800
+3.0 	16 	14 	900
+3.5 	16 	16 	1000
+4.0 	18 	18 	1200
+5.0 	20 	20 	1500*Not applicable to systems with nominal cooling capacity greater than 2.5 tons or less than 1.5 ton.
+
+TABLE 160.3-C
+
+DDC APPLICATIONS AND QUALIFICATIONS
+
+BUILDING STATUS	APPLICATIONS	QUALIFICATIONS
+Newly Constructed Buildings
+			Air handling system and all 
+		zones
+		served by the system	Individual systems supplying 
+		more than three zones and with
+		design heating or cooling capacity of 300 kBtu/h and larger
+Newly Constructed Buildings
+			Chilled water plant and all 
+		coils and
+		terminal units served by the system	Individual plants supplying 
+		more than three zones and with design
+		cooling capacity of 300 kBtu/h (87.9 kW) and larger
+Newly Constructed Buildings
+			Hot water plant and all coils 
+		and
+		terminal units served by the system	Individual plants supplying 
+		more than three zones and with design
+		heating capacity of 300 kBtu/h (87.9 kW) and larger
+Additions or Alterations	Zone terminal unit such as VAV 
+		box 	Where existing zones served by 
+		the same air handling, chilled
+		water or hot water systems that have DDC
+Additions or Alterations	Air handling system or fan coil
+			Where existing air handling 
+		system(s) and fan coil(s) served by the
+		same chilled or hot water plant have DDC
+Additions or Alterations	New air handling system and all 
+		new
+		zones served by the system	Individual systems with design 
+		heating or cooling capacity of
+		300 kBtu/h and larger and supplying more than three zones and
+		more than 75 percent of zones are new
+Additions or Alterations	New or upgraded chilled water 
+		plant 	Where all chillers are new and 
+		plant design cooling capacity is
+		300 kBtu/h (87.9 kW) and larger
+Additions or Alterations	New or upgraded hot water plant
+			Where all boilers are new and 
+		plant design heating capacity is
+		300 kBtu/h (87.9 kW) and largerTABLE 160.3-D
+
+PIPE INSULATION THICKNESS
+
+FLUID OPERATING TEMPERATURE RANGE (°F)	INSULATION CONDUCTIVITY		NOMINAL PIPE DIAMETER (in inches)
+Conductivity (in Btu·in/h·ft2· °F)	Mean Rating Temperature (°F)		< 1	1 to <1.5	1.5 to < 4	4 to < 8	8 and larger
+Space heating (Steam, Steam Condensate, Refrigerant, Space Heating)	Minimum Pipe Insulation Required (Thickness in inches or R-value)
+Above 350	0.32–0.34	250	Inches	4.5	5.0	5.0	5.0	5.0
+R-value	R37	R41	R37	R27	R23
+251–350	0.29–0.32	200	Inches	3.0	4.0	4.5	4.5	4.5
+R-value	R24	R34	R35	R26	R22
+201–250	0.27–0.30	150	Inches	2.5	2.5	2.5	3.0	3.0
+R-value	R21	R20	R17.5	R17	R14.5
+141–200	0.25–0.29	125	Inches	1.5	1.5	2.0	2.0	2.0
+R-value	R11.5	R11	R14	R11	R10
+105–140	0.22–0.28	100	Inches	1.0	1.5	1.5	1.5	1.5
+R-value	R7.7	R12.5	R11	R9	R8
+FLUID OPERATING TEMPERATURE RANGE (°F)	INSULATION CONDUCTIVITY		NOMINAL PIPE DIAMETER (in inches)
+Conductivity (in Btu·in/h·ft2· °F)	Mean Rating Temperature (°F)		< 1	1 to <1.5	1.5 to < 4	4 to < 8	8 and larger
+Space cooling systems (chilled water, refrigerant and brine)	Minimum Pipe Insulation Required (Thickness in inches or R-value)
+40–60	0.21–0.27	75	Inches	0.75	0.75	1.0	1.0	1.0
+R-value	R6	R5	R7	R6	R5
+Below 40	0.20–0.26	50	Inches	1.0	1.5	1.5	1.5	1.5
+R-value	R8.5	R14	R12	R10	R91. These thicknesses are based on energy efficiency considerations only. Issues such as water vapor permeability or surface condensation sometimes require vapor retarders or additional insulation.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 160.4 MANDATORY REQUIREMENTS FOR WATER-HEATING SYSTEMS
+
+(a) Systems using gas or propane water heaters to serve individual dwelling units shall include the following components:
+
+1. A dedicated 125 volt, 20 amp electrical receptacle that is connected to the electric panel with a 120/240 volt 3 conductor, 10 AWG copper branch circuit, within 3 feet from the water heater and accessible to the water heater with no obstructions. In addition, all of the following:
+
+A. Both ends of the unused conductor shall be labeled with the word “spare” and be electrically isolated; and
+
+B. A reserved single pole circuit breaker space in the electrical panel adjacent to the circuit breaker for the branch circuit in A above and labeled with the words “Future 240V Use”; and
+
+2. A Category III or IV vent, or a Type B vent with straight pipe between the outside termination and the space where the water heater is installed; and
+
+3. A condensate drain that is no more than 2 inches higher than the base of the installed water heater, and allows natural draining without pump assistance; and
+
+4. A gas supply line with a capacity of at least 200,000 Btu/hr.
+
+(b) Water-heating recirculation loops serving multiple dwelling units shall meet the requirements of Section 110.3(c)4.
+
+(c) Solar water-heating systems and collectors shall be certified and rated by the Solar Rating and Certification Corporation (SRCC), the International Association of Plumbing and Mechanical Officials, Research and Testing (IAPMO R&T), or a listing agency that is approved by the Executive Director.
+
+(d) Instantaneous water heaters with an input rating greater than 6.8 kBTU/hr (2kW) shall meet the requirements of Section 110.3(c)6.
+
+(e) Commercial boilers
+
+1. Combustion air positive shut-off shall be provided on all newly installed boilers as follows:
+
+A. All boilers with an input capacity of 2.5 MMBtu/h (2,500,000 Btu/h) and above, in which the boiler is designed to operate with a nonpositive vent static pressure.
+
+B. All boilers where one stack serves two or more boilers with a total combined input capacity per stack of 2.5 MMBtu/h (2,500,000 Btu/h).
+
+2. Boiler combustion air fans with motors 10 horsepower or larger shall meet one of the following for newly installed boilers:
+
+A. The fan motor shall be driven by a variable speed drive, or
+
+B. The fan motor shall include controls that limit the fan motor demand to no more than 30 percent of the total design wattage at 50 percent of design air volume.
+
+3. Newly installed boilers with an input capacity 5 MMBtu/h (5,000,000 Btu/h) and greater shall maintain excess (stack-gas) oxygen concentrations at less than or equal to 5.0 percent by volume on a dry basis over firing rates of 20 percent to 100 percent. Combustion air volume shall be controlled with respect to firing rate or flue gas oxygen concentration. Use of a common gas and combustion air control linkage or jack shaft is prohibited.
+
+Exception to Section 160.4(e)3: Boilers with steady state full-load thermal combustion efficiency 90 percent or higher.
+
+(f) Insulation for piping and tanks
+
+1. Piping for multifamily domestic hot water systems shall be insulated to meet the requirements of Table 160.4-A.
+
+Exception 1 to Section 160.4(f)1: Factory-installed piping within space-conditioning equipment certified under Section 110.1 or 110.2.
+
+Exception 2 to Section 160.4(f)1: Piping that penetrates framing members shall not be required to have pipe insulation for the distance of the framing penetration. Piping that penetrates metal framing shall use grommets, plugs, wrapping or other insulating material to ensure that no contact is made with the metal framing. Insulation shall abut securely against all framing members.
+
+Exception 3 to Section 160.4(f)1: Piping installed in interior or exterior walls shall not be required to have pipe insulation if all of the requirements are met for compliance with quality insulation installation (QII) as specified in Reference Residential Appendix RA3.5.
+
+Exception 4 to Section 160.4(f)1: Piping surrounded with a minimum of 1 inch of wall insulation, 2 inches of crawl space insulation or 4 inches of attic insulation shall not be required to have pipe insulation.
+
+2. Insulation protection. Pipe insulation shall be protected from damage due to sunlight, moisture, equipment maintenance and wind. Protection shall, at minimum, include the following:
+
+A. Pipe insulation exposed to weather shall be protected by a cover suitable for outdoor service. The cover shall be water retardant and provide shielding from solar radiation that can cause degradation of the material. Adhesive tape shall not be used to provide this protection.
+
+B. Pipe insulation covering chilled water piping and refrigerant suction piping located outside the conditioned space shall include, or be protected by, a Class I or Class II vapor retarder. All penetrations and joints shall be sealed.
+
+C. Pipe insulation buried below grade must be installed in a waterproof and noncrushable casing or sleeve.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+TABLE 160.4-A
+
+PIPE INSULATION THICKNESS—MULTIFAMILY DOMESTIC HOT WATER
+
+FLUID OPERATING TEMPERATURE RANGE (°F)	INSULATION CONDUCTIVITY		NOMINAL PIPE DIAMETER (in inches)
+Conductivity (in Btu·in/h·ft2· °F)	Mean Rating Temperature (°F)		< 1	1 to <1.5	1.5 to < 4	4 to < 8	8 and larger
+Multifamily Domestic Hot Water Systems	Minimum Pipe Insulation Required (Thickness in inches or R-value)
+105–1401	0.22–0.28	100	Inches	1.0	1.5	2.0	2.0	2.0
+R-value	R7.7	R12.5	R16	R12.5	R111.  Multifamily and hotel/motel domestic hot water systems with water temperature above 140°F shall use the row in Table 120.3-A for the applicable water temperature.
+
+SECTION 160.5 MANDATORY LIGHTING REQUIREMENTS FOR INDOOR AND OUTDOOR SPACES
+
+The design and installation of all lighting systems and equipment in multifamily buildings within the scope of Section 100.0(a) shall comply with the applicable provisions of Section 160.5. All functional areas except dwelling units and common living areas shall comply with the applicable requirements of Sections 160.5(b) through 160.5(e).
+
+(a) Dwelling unit lighting. The design and installation of all lighting systems and equipment in multifamily dwelling units shall comply with Section 160.5(a). Multifamily dwelling units include dormitory and senior housing dwelling accommodations. Outdoor lighting attached to multifamily buildings and controlled from the inside of a dwelling unit shall comply with the lighting requirements of Section 160.5(a).
+
+1. Luminaire requirements.
+
+A. Luminaire efficacy. All installed luminaires shall meet the requirements in Table 160.5-A.
+
+Exception 1 to Section 160.5(a)1A: Integrated device lighting: Lighting integral to exhaust fans, kitchen range hoods, bath vanity mirrors and garage door openers, and nonremovable lighting attached to ceiling fans.
+
+Exception 2 to Section 160.5(a)1A: Navigation lighting: Night lights, step lights, path lights less than 5 watts.
+
+Exception 3 to Section 160.5(a)1A: Cabinet lighting: Lighting internal to drawers, cabinetry and linen closets with an efficacy of 45 lumens per watt or greater.
+
+B. Screw based luminaires. Screw based luminaires shall contain lamps that comply with Reference Joint Appendix JA8.
+
+C. Recessed downlight luminaires. In addition to complying with Section 160.5(a)1A, luminaires recessed into ceilings shall meet all of the following requirements:
+
+i. Shall not contain screw base lamp sockets; and
+
+ii. Have a label that certifies the luminaire is airtight with air leakage less than 2.0 cfm at 75 Pascals when tested in accordance with ASTM E283. An exhaust fan housing with integral light shall not be required to be certified airtight; and
+
+iii. Be sealed with a gasket or caulk between the luminaire housing and ceiling, and have all air leak paths between conditioned and unconditioned spaces sealed with a gasket or caulk, or be installed per manufacturer’s instructions to maintain airtightness between the luminaire housing and ceiling; and
+
+iv. Meet the clearance and installation requirements of California Electrical Code Section 410.116 for recessed luminaires.
+
+Exception to Section 160.5(a)1Cii and Iii: Recessed luminaires marked for use in fire-rated installations, and recessed luminaires installed in noninsulated ceilings.
+
+D. Light sources in enclosed or recessed luminaires. Lamps and other separable light sources that are not compliant with the JA8 elevated temperature requirements, including marking requirements, shall not be installed in enclosed or recessed luminaires.
+
+E. Blank electrical boxes. The number of electrical boxes that are more than 5 feet above the finished floor and do not contain a luminaire or other device shall be no greater than the number of bedrooms. These electrical boxes must be served by a dimmer, vacancy sensor control, low voltage wiring or fan speed control.
+
+2. Indoor lighting controls.
+
+A. Lighting shall have readily accessible wall-mounted controls that allow the lighting to be manually turned ON and OFF.
+
+Exception to  Section 160.5(a)2A: Ceiling fans may provide control of integrated lighting via a remote control.
+
+B. No controls shall bypass a dimmer, occupant sensor or vacancy sensor function where that dimmer or sensor has been installed to comply with Section 160.5(a)2.
+
+C. Lighting controls shall comply with the applicable requirements of Section 110.9.
+
+D. An energy management control system (EMCS) or a multiscene programmable controller may be used to comply with dimming, occupancy and lighting control requirements in Section 160.5(a)2 if it provides the functionality of the specified controls in accordance with Section 110.9 and the physical controls specified in Section 160.5(a)2A.
+
+E. Automatic off controls.
+
+i. In bathrooms, garages, laundry rooms, utility rooms and walk-in closets, at least one installed luminaire shall be controlled by an occupancy or vacancy sensor providing automatic-off functionality.
+
+ii. For lighting internal to drawers and cabinetry with opaque fronts or doors, controls that turn the lighting off when the drawer or door is closed shall be provided.
+
+F. Dimming controls. Lighting in habitable spaces, including but not limited to living rooms, dining rooms, kitchens and bedrooms, shall have readily accessible wall-mounted dimming controls that allow the lighting to be manually adjusted up and down. Forward phase cut dimmers controlling LED light sources shall comply with NEMA SSL 7A.
+
+Exception 1 to Section 160.5(a)2F: Ceiling fans may provide control of integrated lighting via a remote control.
+
+Exception 2 to Section 160.5(a)2F: Luminaires controlled by an occupancy or vacancy sensor providing automatic-off functionality.
+
+Exception 3 to Section 160.5(a)2F:  Navigation lighting such as night lights, step lights and path lights less than 5 watts; and lighting internal to drawers and cabinetry with opaque fronts or doors, or with automatic off controls.
+
+G. Independent controls. Integrated lighting of exhaust fans shall be controlled independently from the fans. The following shall be controlled separately from ceiling-installed lighting such that one can be turned on without turning on the other:
+
+i. Undercabinet lighting
+
+ii. Undershelf lighting
+
+iii. Interior lighting of display cabinets
+
+iv. Switched outlets
+
+3. Outdoor lighting controls. In addition to meeting the requirements of Section 160.5(a)1, luminaires providing residential outdoor lighting shall meet the following requirements, as applicable:
+
+A. Outdoor lighting attached to a building and separately controlled from the inside of a dwelling unit shall meet the requirement in Item i and the requirements in either Item ii or Item iii:
+
+i. Controlled by a manual ON and OFF control switch that permits the automatic actions of Item ii or iii below; and
+
+ii. Controlled by a photocell and either a motion sensor or an automatic time switch control; or
+
+iii. Controlled by an astronomical time clock control.
+
+Controls that override to ON shall not be allowed unless the override automatically returns the automatic control to its normal operation within 6 hours. An energy management control system that provides the specified lighting control functionality and complies with all requirements applicable to the specified controls may be used to meet these requirements.
+Controls that override to ON shall not be allowed unless the override automatically returns the automatic control to its normal operation within 6 hours. An energy management control system that provides the specified lighting control functionality and complies with all requirements applicable to the specified controls may be used to meet these requirements.
+
+(b) Common use area lighting. Lighting systems and equipment in multifamily common use areas shall comply with the applicable provisions of Sections 160.5(b)1 through 160.5(b)4.
+
+Exception to Section 160.5(b): Lighting systems in common use areas providing shared provisions for living, eating, cooking or sanitation to dwelling units that would otherwise lack these provisions may instead comply with Section 160.5(a).
+
+NOTE: The requirements of Section 160.5(b) apply to newly constructed buildings. Sections 180.1 and 180.2 specify which requirements of Sections 160.5(b)1 through 160.5(e) also apply to additions and alterations to existing buildings.
+
+1. Luminaire classification and power. Luminaires shall be classified and their wattage determined as follows:
+
+A. Luminaire wattage shall be labeled as follows:
+
+i. The maximum rated wattage or relamping rated wattage of a luminaire shall be listed on a permanent, preprinted, factory-installed label, as specified by UL 1574, 1598, 2108 or 8750, as applicable; and
+
+ii. The factory-installed maximum rated wattage or relamping rated wattage label shall not consist of peel-off or peel-down layers or other methods that allow the rated wattage to be changed after the luminaire has been shipped from the manufacturer.
+
+Exception to Section 160.3(b)1Aii: Luminaires with a single lamp and an integrated ballast or transformer may use a peel-down label provided that they are layered such that the rated wattage reduces as successive layers are removed.
+
+a. Low-voltage luminaires (except low voltage track systems), ≤ 24 volts, with a maximum relamping rated wattage of 50 watts.
+
+b. Compact fluorescent luminaires, having an integral electronic ballast, with a maximum relamping rated wattage of 42 watts.
+
+c. High intensity discharge luminaires, having an integral electronic ballast, with a maximum relamping rated wattage of 150 watts.
+
+B. For luminaires with line voltage lamps not served by drivers, ballasts or transformers, the wattage of such luminaires shall be determined as the maximum rated wattage as labeled in accordance with Section 160.5(b)1A.
+
+C. For luminaires with permanently installed or remotely installed ballasts, the wattage of such luminaires shall be the operating input wattage of the rated lamp/ballast combination published in the ballast manufacturer’s catalogs based on independent testing lab reports as specified by UL 1598.
+
+D. For inseparable SSL luminaires and SSL luminaires with remotely mounted drivers, the maximum rated wattage shall be the maximum rated input wattage of the SSL luminaire as specified in Section 160.5(b)1A when tested in accordance with UL 1598,  2108 or  8750, or IES LM-79.
+
+E. For LED tape lighting and LED linear lighting with LED tape lighting components, the maximum rated wattage shall be the sum of the installed length of the tape lighting times its rated linear power density in watts per linear foot, or the maximum rated input wattage of the driver or power supply providing power to the lighting system, with tape lighting tested in accordance with UL 2108 or  8750, or IES LM-79.
+
+F. For modular lighting systems that allow the addition or relocation of luminaires without altering the wiring of the system, wattage shall be determined as follows:
+
+i. The wattage shall be the greater of:
+
+a. 30 watts per linear foot of track or plug-in busway; or
+
+b. the rated wattage of all of the luminaires included in the system, where the luminaire wattage is determined as specified in Section 160.5(b)1A; or
+
+ii. For line-voltage lighting track and plug-in busway served by a track lighting integral current limiter or a dedicated track lighting supplementary overcurrent protection panel, the wattage shall be determined as follows:
+
+a. The volt-ampere rating of current limiter as specified by UL 1077; or
+
+b. The sum of the ampere (A) rating of all of the current protection devices times the branch circuit voltages for track lighting supplementary overcurrent protection panel.
+
+iii. For other modular lighting systems with power supplied by a driver, power supply or transformer, including but not limited to low-voltage lighting systems, the wattage of the system shall be the maximum rated input wattage of the driver, power supply or transformer published in the manufacturer’s catalogs, as specified by UL 2108 or 8750.
+
+Exception to Section 160.5(b)1F: For powerover-Ethernet lighting systems, power provided to installed nonlighting devices may be subtracted from the total power rating of the powerover-Ethernet system.
+
+G. For all other lighting equipment not addressed by Sections 160.5(b)1B through F, the wattage of the lighting equipment shall be the maximum rated wattage of the lighting equipment, or operating input wattage of the system, labeled in accordance with Section 160.5(b)1A, or published in manufacturer’s catalogs, based on independent testing lab reports as specified by UL 1574, 1598, 2108 or 8750, or IES LM-79.
+
+2. Lighting controls. All lighting controls and equipment shall comply with the applicable requirements in Sections 110.9, 160.5(b) and 160.5(c), and shall be installed in accordance with any applicable manufacturer instructions.
+
+3. Energy management control system (EMCS). An EMCS may be installed to comply with the requirements of one or more lighting controls if it meets the following minimum requirements:
+
+A. Provides all applicable functionality for each specific lighting control or system for which it is installed in accordance with Sections 110.9, 160.5(b) and 160.5(c); and
+
+B. Complies with all applicable lighting control installation requirements in accordance with Section 160.5(e) for each specific lighting control or system for which it is installed; and
+
+C. Complies with all applicable application requirements for each specific lighting control or system for which it is installed, in accordance with Part 6.
+
+4. Mandatory indoor lighting controls. Multifamily common use areas shall comply with the applicable requirements of Sections 160.5(b)4A through 160.5(b)4F, in addition to the applicable requirements of Section 110.9.
+
+A. Manual area controls. Each area enclosed by ceiling-height partitions shall provide lighting controls that allow the lighting in that area to be manually turned on and off. The manual control shall:
+
+i. Be readily accessible; and
+
+Exception to Section 160.5(b)4Ai: Restrooms having two or more stalls, parking areas, stairwells, corridors and areas of the building intended for access or use by the public may use a manual control not accessible to unauthorized personnel.
+
+ii. Be located in the same enclosed area with the lighting it controls; and
+
+Exception to Section 160.5(b)4Aii: For areas where placement of a manual area control poses a health and safety hazard, the manual area control may instead be located so that a person using the control can see the lights or area controlled by that control, or a visual signal or display showing the current state of the controlled lighting.
+
+iii. Provide separate control of general, floor display, wall display, window display, case display, ornamental and special effects lighting, such that each type of lighting can be turned on or off without turning on or off other types of lighting. Scene controllers may comply with this requirement provided that at least one scene turns on general lighting only, and the control provides a means to manually turn off all lighting.
+
+Exception to Section 160.5(b)4A: Up to 0.1 watts per square foot of indoor lighting may be continuously illuminated to allow for means of egress illumination consistent with California Building Code Section 1008. Egress lighting complying with this wattage limitation is not required to comply with manual area control requirements if:
+
+i. The area is designated for means of egress on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Part 1; and
+
+ii. The controls for the egress lighting are not accessible to unauthorized personnel.
+
+B. Multi-level lighting controls. The general lighting of any enclosed area 100 square feet or larger with a connected lighting load that exceeds 0.5 watts per square foot shall provide multi-level lighting controls that allow the level of lighting to be adjusted up and down. The multi-level controls shall:
+
+i. Provide the number of control steps specified in Table 160.5-B; and
+
+ii. Meet the uniformity requirements specified in Table 160.5-B.
+
+Exception 1 to Section 160.5(b)4B: An area enclosed by ceiling height partitions that has only one luminaire with no more than two lamps or has only one inseparable SSL luminaire.
+
+Exception 2 to Section 160.5(b)4B: Restrooms.
+
+C. Automatic shut-OFF controls. All installed indoor lighting shall be equipped with controls able to automatically reduce lighting power when the space is typically unoccupied.
+
+i.  In addition to lighting controls installed to comply with Sections 160.5(b)4A and B, all installed indoor lighting shall be equipped with controls that meet the following requirements:
+
+a.  Shall be controlled with an occupant sensing control, automatic time-switch control or other control capable of automatically shutting OFF all of the lighting when the space is typically unoccupied; and
+
+b. Separate controls for the lighting on each floor, other than lighting in stairwells; and
+
+c. Separate controls for a space enclosed by ceiling height partitions not exceeding 5,000 square feet.
+
+Exception 1 to Section 160.5(b)4Ci: Where the lighting is serving an area that is in continuous use, 24 hours per day/365 days per year.
+
+Exception 2 to Section 160.5(b)4Ci: Lighting complying with Section 160.5(b)4Cv or vii.
+
+Exception 3 to Section 160.5(b)4Ci: Up to 0.1 watts per square foot of lighting in any area within a building may be continuously illuminated, provided that the area is designated for means of egress on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Part 1. Lighting providing means of egress illumination, as the term is used in the California Building Code, shall be configured to provide no less than the amount of light required by California Building Code Section 1008 while in the partial-off mode.
+
+Exception 4 to Section 160.5(b)4Ci: Electrical equipment rooms subject to Article 110.26(D) of the California Electrical Code.
+
+Exception 5 to Section 160.5(b)4Ci: Illumination provided by lighting equipment that is designated for emergency lighting, connected to an emergency power source or battery supply, and intended to function in emergency mode only when normal power is absent.
+
+ii. Countdown timer switches may be used to comply with the automatic shut-OFF control requirements in Section 160.5(b)4Ci only in closets less than 70 square feet. The maximum timer setting shall be 10 minutes for closets.
+
+iii. If an automatic time-switch control, other than an occupant sensing control, is installed to comply with Section 160.5(b)4Ci, it shall incorporate a manual override lighting control that:
+
+a. Complies with Section 160.5(b)4A; and
+
+b. Allows the lighting to remain ON for no more than 2 hours when an override is initiated.
+
+iv. If an automatic time-switch control, other than an occupant sensing control, is installed to comply with Section 160.5(b)4Ci, it shall incorporate an automatic holiday “shut-OFF” feature that turns OFF all loads for at least 24 hours, and then resumes the normally scheduled operation.
+
+v. Occupant sensing controls are required for specified offices, multipurpose rooms, conference rooms and restrooms. In offices 250 square feet or smaller, multipurpose rooms of less than 1,000 square feet, conference rooms of any size and restrooms of any size, lighting shall be controlled with occupant sensing controls to automatically shut OFF all of the lighting in 20 minutes or less after the control zone is unoccupied.
+
+In areas required by Section 160.5(b)4B to have multi-level lighting controls, the occupant sensing controls shall function either as:
+In areas required by Section 160.5(b)4B to have multi-level lighting controls, the occupant sensing controls shall function either as:
+
+a. a partial-ON occupant sensing control capable of automatically activating between 50 and 70 percent of controlled lighting power, or
+
+b. a vacancy sensing control, where all lighting responds to a manual ON input only.
+
+In areas not required by Section 160.5(b)4B to have multi-level lighting controls, the occupant sensing controls shall function either as:
+In areas not required by Section 160.5(b)4B to have multi-level lighting controls, the occupant sensing controls shall function either as:
+
+a. an occupant sensing control; or
+
+b. a partial-ON occupant sensing control, or
+
+c.  a vacancy sensing control, where all lighting responds to a manual ON input only.
+
+In addition, controls shall be provided that allow the lights to be manually shut OFF in accordance with Section 160.5(b)4A regardless of the sensor status.
+In addition, controls shall be provided that allow the lights to be manually shut OFF in accordance with Section 160.5(b)4A regardless of the sensor status.
+
+vi. Full or partial OFF occupant sensing controls are required for corridors and stairwells, and offices greater than 250 square feet. Lighting installed in the following areas shall meet the requirements below in addition to complying with Section 160.5(b)4Ci.
+
+a. In corridors and stairwells, lighting shall be controlled by occupant sensing controls that separately reduce the lighting power in each space by at least 50 percent when the space is unoccupied. The occupant sensing controls shall be capable of automatically turning the lighting fully ON only in the separately controlled space, and shall be automatically activated from all designed paths of egress.
+
+b. In office spaces greater than 250 square feet, general lighting shall be controlled by occupancy sensing controls that meet all of the following:
+
+I. The occupancy sensing controls shall be configured so that lighting shall be controlled separately in control zones not greater than 600 square feet. For luminaires with an embedded occupancy sensor that are capable of reducing power independently from other luminaires, each luminaire can be considered its own control zone; and
+
+II. In 20 minutes or less after the control zone is unoccupied, the occupancy sensing controls shall uniformly reduce lighting power in the control zone by at least 80 percent of full power. Control functions that switch control zone lights completely off when the zone is vacant meet this requirement; and
+
+III. In 20 minutes or less after the entire office space is unoccupied, the occupancy sensing controls shall automatically turn off lighting in all control zones in the space; and
+
+IV. In each control zone, lighting shall be allowed to automatically turn on to any level up to full power upon occupancy within the control zone. When occupancy is detected in any control zone in the space, the lighting in other control zones that are unoccupied shall operate at no more than 20 percent of full power.
+
+Exception to Section 160.5(b)4Cvi: Undershelf or furniture-mounted task lighting controlled by a local switch and either a time switch or an occupancy sensor.
+
+vii. Partial OFF occupant sensing controls required for parking garages, parking areas, and loading and unloading areas. Lighting installed in the following areas shall meet the requirements below instead of complying with Section 160.5(b)4Ci.
+
+a. (reserved)
+
+b. In parking garages, parking areas, and loading and unloading areas, general lighting shall be controlled by occupant sensing controls having at least one control step between 20 percent and 50 percent of design lighting power. No more than 500 watts of rated lighting power shall be controlled together as a single zone. A reasonably uniform level of illuminance shall be achieved in accordance with the applicable requirements in Table 160.5-B. The occupant sensing controls shall be capable of automatically turning the lighting fully ON only in the separately controlled space, and shall be automatically activated from all designed paths of egress.
+
+Interior areas of parking garages are classified as indoor lighting for compliance with Section 160.5(b)4Cviib. Parking areas on the roof of a parking structure are classified as outdoor hardscape and shall comply with the applicable provisions in Section 160.5(c).
+Interior areas of parking garages are classified as indoor lighting for compliance with Section 160.5(b)4Cviib. Parking areas on the roof of a parking structure are classified as outdoor hardscape and shall comply with the applicable provisions in Section 160.5(c).
+
+Exception to Section 160.5(b)4Cviib:  Metal halide luminaires with a lamp plus ballast mean system efficacy of greater than 75 lumens per watt, used for general lighting in parking garages, parking areas, and loading and unloading areas, shall be controlled by occupant sensing controls having at least one control step between 20 percent and 60 percent of design lighting power.
+
+D. Automatic daylighting controls. The general lighting in skylit daylit zones, primary sidelit daylit zones and secondary sidelit daylit zones, as well as the general lighting in the combined primary and secondary sidelit daylit zones in parking garages, shall be provided with controls that automatically adjust the power of the installed general lighting up and down to keep the total light level stable as the amount of incoming daylight changes. For skylights located in an atrium, the skylit daylit zones shall apply to the floor area directly under the atrium and the top floor area directly adjacent to the atrium.
+
+i. All skylit daylit zones, primary sidelit daylit zones, secondary sidelit daylit zones and the combined primary and secondary sidelit daylit zones in parking garages shall be shown on the plans.
+
+NOTE: Parking areas on the roof of a parking structure are outdoor hardscape, not skylit daylit areas.
+NOTE: Parking areas on the roof of a parking structure are outdoor hardscape, not skylit daylit areas.
+
+ii. The automatic daylighting controls shall provide separate control for general lighting in each type of daylit zone. General lighting in overlapping skylit daylit zone and sidelit daylit zone shall be controlled as part of the skylit daylit zone. General lighting in overlapping primary and secondary sidelit daylit zone shall be controlled as part of the primary sidelit daylit zone. Linear LED luminaires and other solid state lighting (SSL) light sources in linear form may be treated as linear lamps in increments of 4 feet segment or smaller, and each segment is separately controlled based on the type of the daylit zone where the segment is primarily located.
+
+iii. The automatic daylighting controls shall:
+
+a. For spaces required to install multilevel controls under Section 160.5(b)4B, adjust lighting via continuous dimming or the number of control steps provided by the multilevel controls;
+
+b. For each space, ensure the combined illuminance from the controlled lighting and daylight is not less than the illuminance from controlled lighting when no daylight is available;
+
+c. For areas other than parking garages, ensure that when the daylight illuminance is greater than 150 percent of the illuminance provided by the controlled lighting system when no daylight is available, the controlled lighting power in that daylight zone shall be reduced by a minimum of 90 percent; and
+
+d. For parking garages, ensure that when daylight illuminance levels measured at the farthest edge of the secondary sidelit zone away from the glazing or opening are greater than 150 percent of the illuminance provided by the controlled lighting when no daylight is available, the controlled lighting power in the combined primary and secondary sidelit daylight zones shall be reduced by 100 percent.
+
+iv. Photosensors shall be located so that they are not readily accessible to unauthorized personnel.
+
+v. The location where calibration adjustments are made to the automatic daylighting controls shall be readily accessible to authorized personnel but may be inside a locked case or under a cover that requires a tool for access.
+
+Exception 1 to Section 160.5(b)4D: Areas under skylights where it is documented that existing adjacent structures or natural objects block direct sunlight for more than 1,500 daytime hours per year between 8 a.m. and 4 p.m.
+
+Exception 2 to Section 160.5(b)4D: Areas adjacent to vertical glazing below an overhang, where the overhang covers the entire width of the vertical glazing, no vertical glazing is above the overhang, and the ratio of the overhang projection to the overhang rise is greater than 1.5 for south, east and west orientations or greater than 1 for north orientations.
+
+Exception 3 to Section 160.5(b)4D: Rooms where the combined total installed wattage of the general lighting in the skylit and primary sidelit zones is less than 120 watts are not required to have daylighting controls for those zones. Rooms where the total installed wattage of the general lighting in the secondary sidelit zones is less than 120 watts are not required to have daylighting controls for that zone.
+
+Exception 4 to Section 160.5(b)4D: Parking garage areas where the total installed wattage of the general lighting in the primary and the secondary sidelit daylit zones is less than 60 watts do not require automatic daylighting controls in the daylit zones.
+
+Exception 5 to Section 160.5(b)4D: Rooms that have a total glazing area of less than 24 square feet, or parking garage areas with a combined total of less than 36 square feet of glazing or opening.
+
+Exception 6 to Section 160.5(b)4D: For parking garages, luminaires located in the daylight adaptation zone and luminaires for only dedicated ramps. Daylight adaptation zone and dedicated ramps are defined in Section 100.1.
+
+Exception 7 to Section 160.5(b)4D: Luminaires in sidelit daylit zones in retail merchandise sales and wholesale showroom areas.
+
+E. Demand responsive controls. See Section 110.12 for requirements for demand responsive lighting controls.
+
+F. Control interactions. Each lighting control installed to comply with Section 160.5(b)4 shall permit or incorporate the functions of the other lighting controls required by this section.
+
+i. For general lighting, the manual area control shall permit the level or amount of light provided while the lighting is on to be set or adjusted by the controls specified in Sections 160.5(b)4B, C, D and E.
+
+ii. The manual area control shall permit the shutoff control to turn the lighting down or off.
+
+iii. The multi-level lighting control shall permit the automatic daylighting control to adjust the electric lighting level in response to changes in the amount of daylight in the daylit zone.
+
+iv. The multi-level lighting control shall permit the demand responsive control to adjust the lighting during a demand response event and to return it to the level set by the multilevel control after the event.
+
+v. The shutoff control shall permit the manual area control to turn the lighting on. If the on request occurs while an automatic time switch control would turn the lighting off, then the on request shall be treated as an override request consistent with Section 160.5(c)4Ciii.
+
+vi. The automatic daylighting control shall permit the multi-level lighting control to adjust the level of lighting.
+
+vii. For lighting controlled by multi-level lighting controls and by occupant sensing controls that provide an automatic-on function, the controls shall provide a partial-on function that is capable of automatically activating between 50 and 70 percent of controlled lighting power.
+
+viii. Reserved.
+
+ix. For space-conditioning system zones serving only spaces that are required to have occupancy sensing controls as specified in Sections 160.5(b)4Cv, vi and vii, and where Table 120.1- A allows the ventilation air to be reduced to zero when the space is in occupied-standby mode, the space-conditioning system shall be controlled by occupancy sensing controls as specified in Section 120.2(e)3.
+
+(c) Outdoor lighting and control equipment. Multifamily buildings shall comply with the applicable requirements of Sections 160.5(c)1 through 160.5(c)2.
+
+1. Luminaire shielding requirements. All outdoor luminaires of 6,200 initial luminaire lumens or greater shall comply with backlight, uplight, and glare (BUG) (in accordance with ANSI/IES TM-15-20, Annex A) requirements in accordance with Title 24, Part 11, Section 5.106.8.
+
+Exception 1 to Section 160.5(c)1: Signs.
+
+Exception 2 to Section 160.5(c)1: Lighting for building facades, public monuments, public art, statues and vertical surfaces of bridges.
+
+Exception 3 to Section 160.5(c)1: Lighting not permitted by a health or life safety statute, ordinance or regulation to be a cutoff luminaire.
+
+Exception 4 to Section 160.5(c)1: Temporary outdoor lighting.
+
+Exception 5 to Section 160.5(c)1: Replacement of existing pole mounted luminaires in hardscape areas meeting all of the following conditions:
+
+A.  Where the existing luminaire does not meet the luminaire BUG requirements in Section 160.5(c)1; and
+
+B. Spacing between existing poles is greater than six times the mounting height of the existing luminaires; and
+
+C. Where no additional poles are being added to the site; and
+
+D. Where new wiring to the luminaires is not being installed; and
+
+E. Provided that the connected lighting power wattage is not increased.
+
+Exception 6 to Section 160.5(c)1: Luminaires that illuminate the public right of way, including publicly maintained or utility-maintained roadways, sidewalks and bikeways.
+
+Exception 7 to Section 160.5(c)1: Outdoor lighting attached to a multifamily building and separately controlled from the inside of a dwelling unit.
+
+2. Controls for outdoor lighting. Outdoor lighting shall be independently controlled from other electrical loads, and the controls for outdoor lighting shall meet the following functional requirements:
+
+Exception 1 to Section 160.5(c)2: Outdoor lighting not permitted by a health or life safety statute, ordinance or regulation to be turned OFF or reduced.
+
+Exception 2 to Section 160.5(c)2: Lighting in tunnels required to be illuminated 24 hours per day and 365 days per year.
+
+A. Daylight availability. All installed outdoor lighting shall be controlled by a photo control, astronomical time-switch control or other control capable of automatically shutting OFF the outdoor lighting when daylight is available.
+
+B. Automatic scheduling controls.
+
+i. Automatic scheduling controls shall be installed for all outdoor lighting. Automatic scheduling controls may be installed in combination with motion sensing controls or other outdoor lighting controls.
+
+ii. Automatic scheduling controls shall be capable of reducing the outdoor lighting power by at least 50 percent and no more than 90 percent, and separately capable of turning the lighting OFF, during scheduled unoccupied periods.
+
+iii. Automatic scheduling controls shall allow scheduling of a minimum of two nighttime periods with independent lighting levels, and may include an override function that turns lighting ON during its scheduled dim or OFF state for no more than 2 hours when an override is initiated.
+
+C. Motion sensing controls.
+
+i. Motion sensing controls shall be installed for the following luminaires. Motion sensing controls may be installed for other outdoor lighting and in combination with other outdoor lighting controls:
+
+a. Outdoor luminaires other than those providing building façade, ornamental hardscape or outdoor dining lighting, where the bottom of the luminaire is mounted 24 feet above grade or lower; and
+
+b. Outdoor wall-mounted luminaires installed for general hardscape parking lot lighting, located within one mounting height of a parking space, mounted 24 feet above grade or lower.
+
+ii. Motion sensing controls shall be capable of reducing the outdoor lighting power of each controlled luminaire by at least 50 percent and no more than 90 percent, and separately capable of turning the luminaire OFF, during unoccupied periods.
+
+iii. Motion sensing controls shall be capable of reducing the lighting to its dim or OFF state no longer than 15 minutes after the area has been vacated, and of returning the lighting to its ON state when the area becomes occupied.
+
+iv. No more than 1,500 watts of lighting power shall be controlled by a single sensor or as a single zone.
+
+Exception 1 to Section 160.5(c)2C: Luminaires with a maximum rated wattage of 40 watts each are not required to have motion sensing controls.
+
+Exception 2 to Section 160.5(c)2C: Applications listed as exceptions to Section 170.2(e)2A are not required to have motion sensing controls.
+
+Exception 3 to Section 160.5(c)2C: Lighting subject to a health or life safety statute, ordinance or regulation may have a minimum time-out period longer than 15 minutes or a minimum dimming level above 50 percent when necessary to comply with the applicable law.
+
+(d) Sign lighting controls. All sign lighting shall meet the requirements below as applicable:
+
+1. Indoor signs. All indoor sign lighting other than exit sign lighting shall be controlled with an automatic timeswitch control or astronomical time-switch control.
+
+2. Outdoor signs. Outdoor sign lighting shall meet the following requirements as applicable:
+
+A. All outdoor sign lighting shall be controlled with a photocontrol in addition to an automatic time-switch control, or an astronomical time-switch control.
+
+Exception to Section 160.5(d)2A:  Outdoor signs in tunnels, and signs in large permanently covered outdoor areas that are intended to be continuously lit, 24 hours per day and 365 days per year.
+
+B. All outdoor sign lighting that is ON both day and night shall be controlled with a dimmer that provides the ability to automatically reduce sign lighting power by a minimum of 65 percent during nighttime hours. Signs that are illuminated at night and for more than 1 hour during daylight hours shall be considered ON both day and night.
+
+Exception to Section 160.5(d)2B:  Outdoor signs in tunnels and large covered areas that are intended to be illuminated both day and night.
+
+3. Demand responsive electronic message center (EMC) control. See Section 110.12 for requirements for demand responsive EMC controls.
+
+(e) Lighting control acceptance and installation certificate requirement. Multifamily common use areas shall comply with the applicable requirements of Sections 160.5(e)1 through 160.5(e)3.
+
+1. Lighting control acceptance requirements. Before an occupancy permit is granted, indoor and outdoor lighting controls serving the building, area or site and installed to comply with Section 160.5(b)4D, 160.5(b)4C, 160.5(b)4E, 160.5(c)2 or 170.2(e)1Aiij shall be certified as meeting the Acceptance Requirements for Code Compliance as specified by Reference Nonresidential Appendix NA7.6 and NA7.8. A Certificate of Acceptance shall be submitted to the enforcement agency under Section 10-103(a) of Part 1 that the equipment and systems meet the acceptance requirements:
+
+A. Reserved;
+
+B. Reserved;
+
+C. Automatic daylight controls shall be tested in accordance with Reference Nonresidential Appendix NA7.6.1;
+
+D. Lighting shut-OFF controls shall be tested in accordance with Reference Nonresidential Appendix NA7.6.2;
+
+E. Demand responsive lighting controls shall be tested in accordance with Reference Nonresidential Appendix NA7.6.3; and
+
+F. Outdoor lighting controls shall be tested in accordance with Reference Nonresidential Appendix NA7.8; and
+
+G. Lighting systems receiving the Institutional Tuning Power Adjustment Factor shall be tested in accordance with Reference Nonresidential Appendix NA7.6.4.
+
+H. Demand responsive controls required to control controlled receptacles shall be tested in accordance with Reference Nonresidential Appendix NA7.6.5.
+
+2. Lighting control installation certificate requirements. To be recognized for compliance with Part 6, an Installation Certificate shall be submitted in accordance with Section 10-103(a) for any lighting control system, energy management control system, interlocked lighting system, lighting power adjustment factor, or additional wattage available for a videoconference studio, in accordance with the following requirements, as applicable:
+
+A. Certification that when a lighting control system is installed to comply with lighting control requirements in Part 6, it complies with the applicable requirements of Section 110.9 and complies with Reference Nonresidential Appendix NA7.7.1.
+
+B. Certification that when an energy management control system is installed to function as a lighting control required by Part 6, it functionally meets all applicable requirements for each application for which it is installed, in accordance with Sections 110.9, 160, 170 and 180, and complies with Reference Nonresidential Appendix NA7.7.2.
+
+C. Certification that interlocked lighting systems used to serve an approved area comply with Section 170.2(e)2A and comply with Reference Nonresidential Appendix NA7.7.4.
+
+D. Certification that lighting controls installed to earn a lighting power adjustment factor (PAF) comply with Section 170.2(e)2B and comply with Reference Nonresidential Appendix NA7.7.5.
+
+E. Reserved.
+
+3. When certification is required by Title 24, Part 1, Section 10-103.1, the acceptance testing specified by Section 160.5(e) shall be performed by a Certified Lighting Controls Acceptance Test Technician (CLCATT). If the CLCATT is operating as an employee, the CLCATT shall be employed by a Certified Lighting Controls Acceptance Test Employer. The CLCATT shall disclose on the Certificate of Acceptance a valid CLCATT certification identification number issued by an approved Acceptance Test Technician Certification Provider. The CLCATT shall complete all Certificate of Acceptance documentation in accordance with the applicable requirements in Section 10-103(a)4.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+TABLE 160.5-A
+
+CLASSIFICATION OF DWELLING UNIT HIGH LUMINOUS EFFICACY LIGHT SOURCES
+
+Light sources in this column other than those installed in ceiling recessed downlight luminaires are classified as high luminous efficacy and are not required to comply with Reference Joint Appendix JA8.	Light sources in this column are required to comply with Reference Joint
+Appendix JA8 and shall be certified and marked as required by JA8.
+1. LED light sources installed outdoors.	7. All light sources installed in ceiling recessed downlight luminaires. Note that ceiling recessed downlight luminaires shall not have screw base sockets regardless of lamp type as specified in Section 150.0(k)1C.
+2. Inseparable solid state lighting (SSL) luminaires containing colored light sources that are installed to provide decorative lighting.
+3. Pin-based linear fluorescent or compact fluorescent light sources using electronic ballasts.	8. Any light source not otherwise listed in this table.
+4. High intensity discharge (HID) light sources including pulse start metal halide and high pressure sodium light sources.
+5. Luminaires with hardwired high frequency generator and induction lamp.
+6. Ceiling fan light kits subject to federal appliance regulations.TABLE 160.5-B
+
+MULTI-LEVEL LIGHTING CONTROLS AND UNIFORMITY REQUIREMENTS
+
+LUMINAIRE TYPE	MINIMUM REQUIRED CONTROL STEPS (PERCENT OF FULL RATED POWER1)	UNIFORM LEVEL OF ILLUMINANCE SHALL BE ACHIEVED BY:
+LED luminaires and LED light source systems	Continuous dimming 10–100 percent	Continuous dimming 10–100 percent
+Line-voltage sockets except GU-24 	Continuous dimming 10–100 percent 	Continuous dimming 10–100 percent
+Low-voltage incandescent systems 	Continuous dimming 10–100 percent 	Continuous dimming 10–100 percent
+Fluorescent luminaires 	Continuous dimming 20–100 percent 	Continuous dimming 20–100 percent
+GU-24 sockets rated for fluorescent ≤ 20 watts; Pin-based compact fluorescent ≤ 20 watts2 Linear fluorescent and U-bent fluorescent ≤ 13 watts	Minimum one step between 30 and 70 percent	Continuous dimming; or Stepped dimming; or Switching alternate lamps in a luminaire, or Separately switching circuits in multi-circuit track with a minimum of two circuits.
+Track lighting	Minimum one step between 30 and 70 percent	Continuous dimming; or Stepped dimming; or Switching alternate lamps in a luminaire, or Separately switching circuits in multi-circuit track with a minimum of two circuits.
+Linear fluorescent and U-bent fluorescent > 13 watts	Minimum one step in each range: 20–40 percent 50–70 percent 75–85 percent 100 percent	Stepped dimming; or Continuous dimming; or Switching alternate lamps in each luminaire, having a minimum of 4 lamps per luminaire illuminating the same area and in the same manner
+Other light sources, including HID and induction	Minimum one step between 50 and 70 percent	Stepped dimming; or Continuous dimming; or Switching alternate lamps in each luminaire, having a minimum of 2 lamps per luminaire, illuminating the same area and in the same manner.1. Full rated input power of driver, ballast and lamp, corresponding to maximum ballast factor.
+
+2. Includes only pin-based lamps: twin tube, multiple twin tube and spiral lamps.
+
+SECTION 160.6 MANDATORY REQUIREMENTS FOR ELECTRIC POWER DISTRIBUTION SYSTEMS
+
+Multifamily buildings shall comply with the applicable requirements of Sections 160.6(a) through 160.6(e).
+
+(a) Service electrical metering. Each electrical service or feeder that provides power to the common use areas (interior and exterior) shall have a permanently installed metering system that measures electrical energy use in accordance with Table 160.6-A.
+
+Exception to Section 160.6(a):  Service or feeder for which the utility company provides a metering system for the multifamily building that indicates instantaneous kW demand and kWh for a utility-defined period.
+
+(b) Separation of electrical circuits for electrical energy monitoring. Electrical power distribution systems shall be
+designed so that measurement devices can monitor the electrical energy usage of load types according to Table 160.6-B.
+
+Exception 1 to Section 160.6(b): For each separate load type, up to 10 percent of the connected load may be of any type.
+
+Exception 2 to Section 160.6(b): Submetered electrical power distribution systems that provide power to dwelling units.
+
+(c) Voltage drop. The maximum combined voltage drop on both installed feeder conductors and branch circuit conductors to the farthest connected load or outlet shall not exceed 5 percent.
+
+Exception to Section 160.6(c): Voltage drop permitted by California Electrical Code Sections 647.4, 695.6 and 695.7.
+
+(d) Circuit controls for 120-volt receptacles and controlled receptacles. In all common areas, both controlled and uncontrolled 120 volt receptacles shall be provided in office areas, lobbies, conference rooms, kitchen areas in office spaces, and copy rooms. Controlled receptacles shall meet the following requirements, as applicable:
+
+1. Install a control capable of automatically shutting OFF the controlled receptacles when the space is typically unoccupied, either at the receptacle or circuit level. When an automatic time switch control is installed it shall incorporate an override control that allows the controlled receptacle to remain ON for no more than 2 hours when an override is initiated and an automatic holiday “shut-OFF” feature that turns OFF all loads for at least 24 hours and then resumes the normally scheduled operation. Countdown timer switches shall not be used to comply with the automatic time switch control requirements; and
+
+2. Install at least one controlled receptacle within 6 feet from each uncontrolled receptacle, or install a splitwired receptacle with at least one controlled and one uncontrolled receptacle. Where receptacles are installed in modular furniture in open office areas, at least one controlled receptacle shall be installed at each workstation; and
+
+3. Provide a permanent and durable marking for controlled receptacles or circuits to differentiate them from uncontrolled receptacles or circuits; and
+
+NOTE: A hardwired power strip controlled by an occupant sensing control may be used to comply with Section 160.6(d). Plug-in strips and other plug-in devices shall not be used to comply with the requirements of this section.
+NOTE: A hardwired power strip controlled by an occupant sensing control may be used to comply with Section 160.6(d). Plug-in strips and other plug-in devices shall not be used to comply with the requirements of this section.
+
+Exception 1 to Section 160.6(d): Receptacles that are only for the following purposes:
+
+A. Receptacles specifically for refrigerators and water dispensers in kitchen areas.
+
+B. Receptacles located a minimum of 6 feet above the floor that are specifically for clocks.
+
+C. Receptacles for network copiers, fax machines, A/V and data equipment other than personal computers in copy rooms.
+
+D. Receptacles on circuits rated more than 20 amperes.
+
+E. Receptacles connected to an uninterruptible power supply (UPS) that are intended to be in continuous use, 24 hours per day/365 days per year, and are marked to differentiate them from other uncontrolled receptacles or circuits.
+
+Exception 2 to Section 160.6(d): Receptacles in common use areas providing shared provisions for living, eating, cooking or sanitation to dwelling units that would otherwise lack these provisions.
+
+(e) Demand responsive controls and equipment. See Section 110.12 for requirements for demand responsive controls and equipment.
+
+NOTE: Definitions of terms and phrases in Section 160.6 are determined as specified in Section 100.1(b). Terms and phrases not found in Section 100.1(b) shall be defined as specified in Title 24, Part 3, Article 100 of the California Electrical Code.
+NOTE: Definitions of terms and phrases in Section 160.6 are determined as specified in Section 100.1(b). Terms and phrases not found in Section 100.1(b) shall be defined as specified in Title 24, Part 3, Article 100 of the California Electrical Code.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+TABLE 160.6-A
+
+MINIMUM REQUIREMENTS FOR METERING OR SUBMETERING OF ELECTRICAL LOAD
+
+METERING FUNCTIONALITY	ELECTRICAL SERVICES1 RATED 50 KVA OR LESS	ELECTRICAL SERVICES1 RATED MORE THAN 50 KVA AND LESS THAN OR EQUAL TO 250 KVA	ELECTRICAL SERVICES1 RATED MORE THAN 250 KVA AND LESS THAN OR EQUAL TO 1000 KVA	ELECTRICAL SERVICES1 RATED MORE THAN 1000 KVA
+Instantaneous (at the time) kW demand	Required	Required	Required	Required
+Historical peak demand (kW)	Not required	Not required	Required	Required
+Tracking kWh for a userdefinable period	Required	Required	Required	Required
+kWh per rate period	Not required	Not required	Not required	Required1. “Electrical services” applies to the building service-entrance rating or to the submetering service. For a building with submetering, this applies to the submetering service size to the common use areas.
+
+TABLE 160.6-B
+
+MINIMUM REQUIREMENTS FOR SEPARATION OF ELECTRICAL LOAD
+
+ELECTRICAL LOAD TYPE	ELECTRICAL SERVICES1 RATED 50 KVA OR LESS	ELECTRICAL SERVICES1 RATED MORE THAN 50 KVA AND LESS THAN OR EQUAL TO 250 KVA	ELECTRICAL SERVICES1 RATED MORE THAN 250 KVA AND LESS THAN OR EQUAL TO 1000 KVA	ELECTRICAL SERVICES1 RATED MORE THAN 1000 KVA
+Lighting including exit and egress lighting and exterior lighting	Not required	All lighting in aggregate	All lighting disaggregated by floor, type or area	All lighting disaggregated by floor, type or area
+HVAC systems and components including chillers, fans, heaters, furnaces, package units, cooling towers and circulation pumps associated with HVAC 	Not required 	All HVAC in aggregate 	All HVAC in aggregate and each HVAC load rated at least 50 kVA	All HVAC in aggregate and each HVAC load rated at least 50 kVA
+Domestic and service water system pumps and related systems and components	Not required	All loads in aggregate	All loads in aggregate 	All loads in aggregate
+Plug load including appliances
+rated less than 25 kVA	Not required	All plug load in aggregate Groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf	All plug load separated by floor, type or area Groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf	All plug load separated by floor, type or area All groups of plug loads exceeding 25 kVA connected load in an area less than 5000 sf
+Elevators, escalators, moving walks and transit systems	Not required	All loads in aggregate	All loads in aggregate 	All loads in aggregate
+Renewable power source (net or total)	Each group	Each group	Each group 	Each group
+Loads associated with renewable power source	Not required	All loads in aggregate	All loads in aggregate 	All loads in aggregate
+Charging stations for electric vehicles	All loads in aggregate	All loads in aggregate	All loads in aggregate 	All loads in aggregate1. “Electrical services” applies to the building service-entrance rating or to the submetering service. For a building with submetering, this applies to the submetering service size to the common use areas.
+
+SECTION 160.7 MANDATORY REQUIREMENTS FOR COVERED PROCESSES
+
+(a) Elevators. Elevators shall meet the requirements of Section 120.6(f).
+
+(b) Pool and spa systems. Pool and spa systems available to multiple tenants or to the public shall comply with the applicable requirements of Section 110.4. Pool and spa systems installed for exclusive use by a single tenant shall comply with the applicable requirements of Section 150.0(p).
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5, 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+
+SECTION 160.8 MANDATORY REQUIREMENTS FOR SOLAR READY BUILDINGS
+
+(a) Solar ready buildings. Newly constructed multifamily buildings shall meet the requirements of Section 110.10 applicable to the building project.
+
+SECTION 160.9 MANDATORY REQUIREMENTS FOR ELECTRIC READY BUILDINGS
+
+(a) Heat pump space heater ready. Systems using gas or propane furnaces to serve individual dwelling units shall include the following:
+
+1. A dedicated 240 volt branch circuit wiring shall be installed within 3 feet from the furnace and accessible to the furnace with no obstructions. The branch circuit conductors shall be rated at 30 amps minimum. The blank cover shall be identified as “240V ready.” All electrical components shall be installed in accordance with the California Electrical Code.
+
+2. The main electrical service panel shall have a reserved space to allow for the installation of a double pole circuit breaker for a future heat pump space heater installation. The reserved space shall be permanently marked as “For Future 240V use.”
+
+(b) Electric cooktop ready. Systems using gas or propane cooktops to serve individual dwelling units shall include the following:
+
+1. A dedicated 240 volt branch circuit wiring shall be installed within 3 feet from the cooktop and accessible to the cooktop with no obstructions. The branch circuit conductors shall be rated at 50 amps minimum. The blank cover shall be identified as “240V ready.” All electrical components shall be installed in accordance with the California Electrical Code.
+
+2. The main electrical service panel shall have a reserved space to allow for the installation of a double pole circuit breaker for a future electric cooktop installation. The reserved space shall be permanently marked as “For Future 240V use.”
+
+(c) Electric clothes dryer ready. Clothes dryer locations with gas or propane plumbing shall include the following:
+
+1. Systems serving individual dwelling units shall include:
+
+A. A dedicated 240 volt branch circuit wiring shall be installed within 3 feet from the clothes dryer location and accessible to the clothes dryer location with no obstructions. The branch circuit conductors shall be rated at 30 amps minimum. The blank cover shall be identified as “240V ready.” All electrical components shall be installed in accordance with the California Electrical Code.
+
+B. The main electrical service panel shall have a reserved space to allow for the installation of a double pole circuit breaker for a future electric clothes dryer installation. The reserved space shall be permanently marked as “For Future 240V use.”
+
+2. Systems in common use areas shall include:
+
+A. Conductors or raceway shall be installed with termination points at the main electrical panel, via subpanels panels if applicable, to a location no more than 3 feet from each gas outlet or a designated location of future electric replacement equipment. Both ends of the conductors or raceway shall be labelled “Future 240V Use.” The conductors or raceway and any intervening subpanels, panelboards, switchboards and busbars shall be sized to meet the future electric power requirements, at the service voltage to the point at which the conductors serving the building connect to the utility distribution system, as specified below. The capacity requirements may be adjusted for demand factors in accordance with the California Electric Code. Gas flow rates shall be determined in accordance with the California Plumbing Code. Capacity shall be one of the following:
+
+i. 24 amps at 208/240 volts per clothes dryer;
+
+ii. 2.6 kVA for each 10,000 Btu per hour of rated gas input or gas pipe capacity; or
+
+iii. The electrical power required to provide equivalent functionality of the gas-powered equipment as calculated and documented by the responsible person associated with the project.
+
+NOTE: Authority: Sections 25213, 25218, 25218.5, 25402 and 25402.1, Public Resources Code. Reference: Sections 25007, 25008, 25218.5 25310, 25402, 25402.1, 25402.4, 25402.5, 25402.8 and 25943, Public Resources Code.
+

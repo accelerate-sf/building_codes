@@ -1,0 +1,1160 @@
+Chapter 6 Water Supply and Distribution
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter as amended (amended sections listed below)	X			X	X			X	X	X	X	X	X	X	X			X					
+Adopt only those sections that are listed below			X														X		X		X		
+Chapter/Section																							
+Figure 601				X	X																		
+601.2 Exceptions 3 & 4				X	X																		
+601.2 & Exceptions		X																	X				
+601.2.2 & Exemptions				X																			
+601.2.2.1				X																			
+601.2.2.2				X																			
+601.3.2				X	X																		
+601.3.3		X		X																			
+601.3.3 Exception																			X				
+601.4																					X		
+601.5																		X					
+601.6																		X					
+601.7																		X					
+601.8																		X					
+603.5.11				X	X																		
+603.5.14, Note			X					X	X														
+604.1 Exception										X		X	X	X	X								
+Table 604.1 Notes	X			X	X			X	X								X	X					
+604.1.1				X	X																		
+604.1.2				X	X			X	X														
+604.13	X			X	X																		
+605.2.2				X	X																		
+605.9	X			X	X			X	X	X	X	X	X	X	X		X	X					
+605.9.1	X			X	X			X	X	X	X	X	X	X	X		X	X					
+605.10	X			X	X			X	X														
+605.10.1	X																						
+605.10.1.1	X																						
+605.12.2				X	X																		
+605.15				X	X			X	X	X	X	X	X	X	X								
+606.8										X	X	X	X	X	X								
+607.1								X	X														
+609.10										X	X	X	X	X	X								
+609.11				†	†																		
+609.12.3																				X			
+Table 610.3		X		X	X																		
+612.0			X																				
+612.1			X																				
+613.0 & Subsections										X	X	X	X	X	X								
+Table 613.1										X	X	X	X	X	X								
+614.0 & Subsections										X	X	X	X	X	X								
+615.0 - 615.3										X	X	X	X	X	X								
+615.4 & Subsections										X													
+
+Figure 601
+
+601.2 Exceptions 3 & 4
+
+601.2 & Exceptions
+
+601.2.2 & Exemptions
+
+601.2.2.1
+
+601.2.2.2
+
+601.4
+
+601.5
+
+601.6
+
+601.7
+
+601.8
+
+Note
+
+604.1 Exception
+
+604.1.1
+
+604.1.2
+
+606.8
+
+609.12.3
+
+613.0 & Subsections
+
+Table 613.1
+
+614.0 & Subsections
+
+615.0 - 615.3
+
+615.4 & Subsections
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+601.0 General
+601.1 Applicability
+601.2 Water Supply and Flushing
+[HCD 1 & HCD 2] For limited-density owner-built rural dwellings, potable water shall be available to the dwelling site, although such water need not be pressurized. Where water is not piped from a well, spring, cistern or other source, there shall be a minimum reserve of 50 gallons (189 L) of potable water available. Where water delivery is pressurized, piping shall be installed in accordance with the provisions of this chapter.
+
+[HCD 1, HCD 2, DWR] For all residential occupancies, alternate water sources may be allowed as specified in Chapter 15 of this code in addition to potable water.
+
+[BSC-CG, DWR] For non-residential occupancies, alternate water sources may be allowed as specified in Chapter 15 of this code.
+
+[DWR] Where a public agency requires a building to use recycled water to flush water closets and urinals in accordance with California Water Code 13554.
+
+601.2.1 Hot and Cold Water Required
+601.2.2 Submeters
+601.2.2.1 Approved Submeters
+[HCD 1] Submeters (or meters) shall be approved in accordance
+with the Business and Professions Code, Division 5.
+
+601.2.2.2 Submeter Testing
+[HCD 1] Submeter (or
+meter) testing shall be in accordance with the California
+Code of Regulations, Title 4, Division 9, Chapter 3, Article 1; Civil Code, Division 3, Part 4, Title 5; and Business and Professions Code, Division 5.
+
+601.3 Identification of a Potable and Nonpotable Water System
+601.3.1 Potable Water
+601.3.2 Color and Information
+[HCD 1 & HCD 2] An international symbol of a glass in a circle with a slash through it shall be provided similar to that shown in Figure 601 for all nonpotable water systems.
+
+OUTSIDE DIAMETER
+OF PIPE OR
+COVERING
+(inches)	MINIMUM LENGTH OF
+COLOR FlELD
+(inches)	MINIMUM SIZE OF
+LETTERS
+(inches)
+1/2 to 11/4	8	1/2
+11/2 to 2	8	3/4
+21/2 to 6	12	11/4
+8 to 10	24	21/2
+Over 10	32	31/2
+
+601.3.3 Alternate Water Sources
+for outdoor applications
+
+Exception: [DWR] For recycled water supply systems that are within or a part of a building, the provisions of Section 1505.7 shall apply.
+
+601.3.4 Fixtures
+601.3.5 Outlets
+601.4 [CA] Schools of Cosmetology and Cosmetological Establishments
+[CA] Schools of Cosmetology and Cosmetological Establishments
+
+601.4.1 Hot- And Cold-Running Water
+Hot- And Cold-Running Water
+
+At least one sink with hot-and cold-running water shall be provided in each work area or workroom where hairdressing is performed in each school and establishment.
+
+601.4.2 Handwashing Facilities
+Handwashing Facilities
+
+Each school and establishment shall provide adequate handwashing facilities, including hot-and cold-running water, located within or adjacent to the toilet room or rooms in accordance with Table 422.1.
+
+601.4.3 Drinking Water
+Drinking Water
+
+Each school and establishment
+shall supply potable drinking water convenient to
+students, patrons and employees. Approved sanitary
+drinking fountains shall be installed and so regulated
+that a jet of at least 2 inches (51 mm) shall be constantly
+available.
+
+601.5 [AGR] Meat and Poultry Processing Plants
+[AGR] Meat and Poultry Processing Plants
+
+Except as provided in Section 601.5.4, the water supply shall
+be ample and potable, with adequate pressure and facilities
+for its distribution in the plant, and its protection against contamination
+and pollution.
+
+
+
+Note: A water report, issued under the authority of the state
+health agency, certifying to the potability of the water supply,
+shall be obtained by the applicant and furnished to the administrator
+whenever such report is required by the administrator.
+
+601.5.1
+A supply of hot water shall be available.
+
+601.5.2
+Hose connections with steam and water-mixing
+valves or hot-water hose connections shall be provided at
+locations throughout the plant.
+
+601.5.3
+The refuse rooms shall be provided with facilities
+for washing refuse cans and other equipment in the
+rooms.
+
+601.5.4
+Non-potable water is permitted only in those
+parts of official plants where no product is handled or
+prepared, and then only for limited purposes, such as on
+condensers not connected with the potable water supply,
+in vapor lines serving inedible product rendering tanks,
+and in sewer lines for moving heavy solids in the sewage.
+In all cases, non-potable water lines shall be clearly
+identified and shall not be cross connected with the
+potable water supply.
+
+Exception: Cross connection is permitted if this is necessary for fire protection and such connection is of a type
+with a break to ensure against accidental contamination,
+and to be approved by local authorities and by the
+Department.
+
+601.5.5
+Equipment using potable water shall be so
+installed as to prevent back-siphonage into the potable
+water system.
+
+601.5.6
+All pipelines, reservoirs, tanks, cooling towers
+and like equipment employed in handling reused water
+shall be constructed and installed so as to facilitate their
+cleaning and inspection.
+
+601.5.7
+Hot water of such temperature as to accomplish
+a thorough cleanup shall be delivered under pressure to
+outlets.
+
+601.5.7.1
+An ample supply of water at not less than
+180°F (82°C) shall be available when used for sanitizing
+purposes.
+
+601.5.8
+Pens, alleys, and runways shall have hose connections
+for cleanup purposes.
+
+601.6 [AGR] Collection Centers and Facilities
+[AGR] Collection Centers and Facilities
+
+601.6.1
+The water supply shall be ample with facilities
+for its distribution. An ample supply of water at not less
+than 180°F (82°C), or other suitable method.
+
+601.6.2
+The vehicle cleaning and sanitizing area shall be
+provided with adequate line steam, producing a temperature
+of at least 180°F (82°C), or other suitable method.
+
+601.6.3
+Hose connections with steam and water-mixing valves of hot-and cold-water hose connections shall be provided at locations throughout the building and at unloading and vehicle cleaning slabs.
+
+601.7 [AGR] Renderers
+[AGR] Renderers
+
+This area shall be provided with
+live steam or other method of sanitizing vehicles.
+
+601.8 [AGR] Horse Meat and Pet Food Establishments
+[AGR] Horse Meat and Pet Food Establishments
+
+601.8.1
+The water supply shall be ample, clean and
+potable, with facilities for its distribution in the plant,
+and its protection against contamination and pollution.
+
+601.8.1.1
+Equipment using potable water shall be
+so installed as to prevent back-siphonage into the
+potable water system.
+
+601.8.1.2
+Non-potable water is permitted only in those
+parts of official plants where no edible product is handled
+or prepared, and then only for limited purposes,
+such as on ammonia condensers not connected with
+the potable water supply, in vapor lines serving inedible
+product rendering tanks, in connection with equipment
+used for washing and washing inedible products
+preparatory to tanking, and in sewer lines for moving
+heavy solids in sewage. In all cases, non-potable water
+lines shall be clearly identified and shall not be cross
+connected with the potable water supply.
+
+Exception: Cross connection is permitted if this is
+necessary for fire protection, and such connection is
+of a type with a break to ensure against accidental
+contamination, and is approved by local authorities
+or by the Department.
+
+601.8.2
+All pipelines, reservoirs, tanks, cooling towers,
+and like equipment employed in handling reused water
+shall be constructed and installed so as to facilitate their
+cleaning and inspection.
+
+601.8.3
+Hot water for cleaning rooms and equipment
+shall be delivered under pressure to outlets and shall be
+of such temperature as to accomplish a thorough
+cleanup.
+
+601.8.3.1
+An ample supply of water at not less than
+180°F (82°C) shall be available when used for sanitizing
+purposes.
+
+601.8.4
+Pens, alleys, and runways shall have hose connections
+for cleanups purposes.
+
+602.0 Unlawful Connections
+602.1 Prohibited Installation
+602.2 Cross-Contamination
+602.3 Backflow Prevention
+602.4 Approval by Authority
+603.0 Cross-Connection Control
+603.1 General
+603.2 Approval of Devices or Assemblies
+DEGREE OF HAZARD
+DEVICE, ASSEMBLY,
+OR METHOD1	APPLICABLE
+STANDARDS	POLLUTION
+(LOW HAZARD)	CONTAMINATION
+(HIGH HAZARD)	INSTALLATION2,3
+BACK-
+SIPHONAGE	BACK-
+PRESSURE	BACK-
+SIPHONAGE	BACK-
+PRESSURE
+Air gap	ASME
+A112.1.2	X	—	X	—	See Table 603.3.1 in this chapter.
+Air gap fittings for usewith plumbing fixtures,appliances, and appurtenances	ASME
+A112.1.3	X	—	X	—	Air gap fitting is a device with an internal air
+gap, and typical installation includes
+plumbing fixtures, appliances, and
+appurtenances. The critical level shall not be
+installed below the flood level rim.
+Atmospheric vacuumbreaker (consists of abody, checking memberand atmospheric port)	ASSE 1001 or
+CSA B64.1.1	X	—	X	—	Upright position. No valve downstream.
+Minimum of 6 inches or listed distance
+above all downstream piping and flood level
+rim of receptor.4,5
+Antisiphon fill valve(ballcocks) for gravitywater closet flush tanksand urinal tanks	ASSE 1002/
+ASME
+A112.1002/
+CSA B125.12	X	—	X	—	Installation of gravity water closet flush tank
+and urinal tanks with the fill valve installed
+with the critical level not less than 1 inch
+above the opening of the overflow pipe.4,5
+Vacuum breaker wallhydrants, hose bibbs,freeze resistant, automatic draining type	ASSE 1019 or
+CSA B64.2.1.1	X	—	X	—	Installation includes wall hydrants and hose
+bibbs. Such devices are not for use under
+continuous pressure conditions (means of
+shutoff downstream of device is
+prohibited).4,5
+Hose connection vacuumbreakers	ASSE 1011	X	—	X	—	Such devices are not for use under
+continuous pressure conditions. No valve
+downstream.4,6
+Hose connection backflow preventers	ASSE 1052	X	—	X	—	Such devices are not for use under
+continuous pressure conditions.4,6
+Dual check backflow preventer	ASSE 1024	X	X	—	—	Installation does not include carbonated drink dispensers.
+Dual check backflowpreventer wall hydrants,freeze resistant	ASSE 1053	X	—	X	—	Such devices are not for use under
+continuous pressure conditions.4
+Freeze resistant sanitaryyard hydrants	ASSE 1057	X	—	X	—	Such devices are not for use under
+continuous pressure conditions.4
+Backflow preventer with intermediate atmospheric vent	ASSE 1012	X	X	—	—	Installation of potable water connections to water boilers. No high-hazard chemicals shall be introduced into the system using such devices. Designed to operate under continuous pressure conditions. May discharge water.
+Backflow preventer with intermediate athmospheric vent and pressure reducing valve	ASSE 1081	X	X	—	—	lnstallation of potable water connections to water boilers. No high-hazard chemicals shall be introduced into the system using such devices. Designed to operate under continuous pressure conditions. May dischargewater.
+Backflow preventer forCarbonated BeverageDispensers (two independent check valves with a vent to the atrnosphere)	ASSE 1022	X	—	—	—	Installation includes carbonated beverage
+machines or dispensers. These devices
+operate under intermittent or continuous
+pressure conditions.
+Spill-Resistant PressureVacuum Breaker (singlecheck valve with air inletvent and means of fieldtesting)	ASSE 1056	X	—	X	—	Upright position. Minimum of 12 inches or
+listed distance above all downstream piping
+and flood-level rim of receptor.5
+Double Check ValveBackflow PreventionAssembly (two independent check valves and means of field testing)	ASSE 1015;
+AWWA C510;
+CSA B64.5 or
+CSA B64.5.1	X	X	—	—	Horizontal unless otherwise listed. Access
+and clearance shall be in accordance with the
+manufacturer's instructions, and not less than
+a 12 inch clearance at the bottom for
+maintenance. May need platform/ladder for
+test and repair.
+Does not discharge water.
+Double Check DetectorFire Protection BackflowPrevention Assembly(two independent checkvalves with a paralleldetector assembly consisting of a water meterand a double check valvebackflow preventionassembly and means forfield testing)	ASSE 1048	X	X	—	—	Horizontal unless otherwise listed. Access
+and clearance shall be in accordance with the
+manufacturer 's instructions, and not less than
+a 12 inch clearance at the bottom for maintenance. May need platform/ladder for test and repair. Does not discharge water. Installation includes a fire protection system and is designed to operate under continuous pressure conditions.
+Pressure VacuumBreaker Backflow PreventionAssembly(loaded air inlet valve,internally loaded checkvalve and means for fieldtesting)	ASSE 1020 or
+CSA B64.1.2	X	—	X	—	Upright position. May have valves downstream.
+Minimum of 12 inches above all
+downstream piping and flood-level rim of
+the receptor. May discharge water.
+Reduced Pressure PrincipleBackflow PreventionAssembly (two independentlyacting loadedcheck valves, a differentialpressure relief valveand means for field testing)	ASSE 1013;
+AWWA C511;
+CSA B64.4 or
+CSA B64.4.1	X	X	X	X	Horizontal unless otherwise listed. Access
+and clearance shall be in accordance with the
+manufacturer's instructions, and not less than
+a 12 inch clearance at the bottom for maintenance. May need platform/ladder for test and repair. May discharge water.
+Reduced Pressure DetectorFire Protection BackflowPrevention Assembly (two independently acting loadedcheck valves, a differential  pressure relief valve, with a parallel detector assembly consisting of a water meter and a reduced-pressure principle backflow preventionassembly, and means for field testing)	ASSE 1047	X	X	X	X	Horizontal unless otherwise listed. Access
+and clearance shall be in accordance with the
+manufacturer's instructions, and not less than
+a 12 inch clearance at the bottom for maintenance. May need platform/ladder for test and repair. May discharge water.
+Installation includes a fire protection system
+and is designed to operate under continuous
+pressure conditions.
+Laboratory faucet backflow preventer	ASSE 1035	—	—	X	X	Installation includes laboratory faucets. Such devices are not for use under continuous pressure conditions. No valve downstream.4
+
+603.3 Backflow Prevention Devices, Assemblies, and Methods
+603.3.1 Air Gap
+FIXTURES	WHERE NOT AFFECTED BY SIDEWALLS1
+(inches)	WHERE AFFECTED BY SIDEWALLS2
+(inches)
+Effective openings3 not greater than 1/2 of an inch in diameter	1	11/2
+Effective openings3 not greater than 3/4 of an inch in diameter	11/2	21/4
+Effective openings3 not greater than 1 inch indiameter	2	3
+Effective openings3 greater than 1 inch indiameter	Two times the diameter of
+effective opening	Three times the diameter of
+effective opening
+
+603.3.2 Atmospheric Vacuum Breaker (AVB)
+603.3.3 Hose Connection Backflow Preventer
+603.3.4 Double Check Valve Backflow Prevention Assembly (DC)
+603.3.5 Pressure Vacuum Breaker Backflow Prevention Assembly (PVB)
+603.3.6 Spill-Resistant Pressure Vacuum Breaker (SVB)
+603.3.7 Reduced-Pressure Principle Backflow Prevention Assembly (RP)
+603.3.8 Double Check Detector Fire Protection Backflow Prevention Assembly
+603.3.9 Reduced Pressure Detector Fire Protection Backflow Prevention Assembly
+603.3.10 Dual Check Backflow Preventer
+603.3.11 Laboratory Faucet Backflow Preventers
+603.3.12 Backflow Preventer With Intermediate Atmospheric Vent
+603.4 General Requirements
+603.4.1 Backflow Prevention Valve
+603.4.2 Testing
+603.4.3 Access and Clearance
+603.4.4 Connections
+603.4.5 Hot Water Backflow Preventers
+603.4.6 Integral Backflow Preventers
+603.4.7 Freeze Protection
+603.4.8 Drain Lines
+603.4.9 Prohibited Locations
+603.5 Specific Requirements
+603.5.1 Atmospheric Vacuum Breaker
+603.5.2 Ballcock
+603.5.3 Backflow Prevention
+603.5.4 Heat Exchangers
+603.5.5 Water Supply Inlets
+603.5.6 Protection From Lawn Sprinklers and Irrigation Systems
+603.5.6.1 Systems With Pumps
+603.5.6.2 Systems With Backflow Devices
+603.5.6.3 Systems With Chemical Injectors
+603.5.7 Outlets With Hose Attachments
+603.5.8 Water-Cooled Equipment
+603.5.9 Aspirators
+603.5.10 Steam or Hot Water Boilers
+603.5.11 Nonpotable Water Piping
+[HCD 1 & HCD 2] An international symbol of a glass
+in a circle with a slash through it shall be provided similar
+to that shown in Figure 601.
+
+603.5.12 Beverage Dispensers
+603.5.13 Deck-Mounted and Equipment-Mounted Vacuum Breakers
+603.5.14 Protection From Fire Systems
+Note: Fire Protection Systems has not been adopted by the State Fire Marshal. This section cannot be adopted or enforced pursuant to California Health and Safety Code 13114.7(a), which is being cited for reference. California Health and Safety Code 13114.7.
+
+For the purposes of this section the following are definitions of class I and class II systems:
+
+American Water Works Association [A.W.W.A] Manual No. M -14 class 1 — Automatic fire sprinkler systems with direct connection from public water mains only; no pumps, tanks, or reservoirs; no physical connection from other water supplies; no antifreeze or additives of any kind; and all sprinkler drains discharging to the atmosphere or other safe outlets.
+
+American Water Works Association [A.W.W.A] Manual No. M-14 class 2 — Automatic fire sprinkler systems which are the same as class 1, except that booster pumps may be installed in the connections from the street mains.
+
+Automatic fire sprinkler systems described in subdivision (a) shall not require any backflow protection equipment at the service connection other than required by standards for those systems contained in the publication of the National Fire Protection Association entitled "Installation of Sprinkler Systems" [NFPA Pamphlet No. 13, 1980 edition].
+
+603.5.14.1 Fire Department Connection
+603.5.14.2 Chemicals
+603.5.14.3 Hydraulic Design
+603.5.15 Health Care or Laboratory Areas
+603.5.16 Special Equipment
+603.5.17 Potable Water Outlets and Valves
+603.5.18 Pure Water Process Systems
+603.5.18.1 Dialysis Water Systems
+603.5.19 Plumbing Fixture Fittings
+603.5.20 Swimming Pools, Spas, and Hot Tubs
+603.5.21 Chemical Dispensers
+604.0 Materials
+604.1 Pipe, Tube, and Fittings
+MATERIAL	BUILDING SUPPLY
+PIPE AND FITTINGS	WATER
+DISTRIBUTION PIPE
+AND FITTINGS	REFERENCED STANDARD(S)
+PIPE	REFERENCED STANDARD(S)
+FITTINGS
+Copper and CopperAlloys	X	X	ASTM B42, ASTM B43,
+ASTM B75, ASTM B88,
+ASTM B135, ASTM B251,
+ASTM B302, ASTM B447	ASME B16.15, ASME B16.18,
+ASME B16.22, ASME B16.26,
+ASME B16.502, ASME B16.51,
+ASSE 1061, ASTM F3226, IAPMO PS 117
+CPVC	X	X	ASTM D2846, ASTM F441,
+ASTM F442, CSA B137.6	ASSE 1061, ASTM D2846,
+ASTM F437, ASTM F438,
+ASTM F439, ASTM F1970,
+CSA B137.6
+CPVC-AL-CPVC	X	X	ASTM F2855	ASTM D2846
+Ductile-Iron	X	X	AWWA C151	ASME B16.4, AWWA C110,
+AWWA C153
+Galvanized Steel	X	X	ASTM A53	—
+Malleable Iron	X	X	—	ASME B16.3
+PE	X1	—	ASTM D2239, ASTM D2737,
+ASTM D3035, AWWA C901,
+CSA B137.1	ASTM D2609, ASTM D2683,
+ASTM D3261, ASTM F1055,
+CSA B137.1
+PE-AL-PE	X	X	ASTM F1282, CSA B137.9	ASTM F1282, ASTM F1974,
+CSA B137.9
+PE-AL-PEX	X	X	ASTM F1986	ASTM F1986
+PE-RT	X	X	ASTM F2769, CSA B137.18	ASSE 1061, ASTM D3261, ASTM F1055, ASTM F1807,
+ASTM F2098, ASTM F2159,
+ASTM F2735, ASTM F2769,
+CSA B137.18
+PEX	X	X	ASTM F876,
+CSA B137.5, AWWA C9041	ASSE 1061, ASTM F877,ASTM F1807, ASTM F1960, ASTM F2080, ASTM F2159,ASTM F2735, CSA B137.5
+PEX-AL-PEX	X	X	ASTM F1281, CSA B137.10	ASTM F1281, ASTM F1974,
+ASTM F2434, CSA B137.10
+PP	X	X	ASTM F2389, CSA B137.11	ASTM F2389, CSA B137.11
+PVC	X1	—	ASTM D1785, ASTM D2241,
+AWWA C900	ASTM D2464, ASTM D2466,
+ASTM D2467, ASTM F1970,
+AWWA C907
+Stainless Steel	X	X	ASTM A269, ASTM A312,ASTM A554, ASTM A778	ASTM F3226, IAPMO PS 117
+
+3 When PEX tubing is placed in soil and is used in potable water systems intended to supply drinking water to fixtures or appliances, the tubing or piping shall be sleeved with a material approved for potable water use in soil or other material that is impermeable to solvents or petroleum products.
+
+4 PEX tubing shall meet or exceed the requirements of ASTM F876-2015a or an equivalent or more stringent standard when used in continuously recirculating hot water systems and the PEX tubing is exposed to the hot water 100% of the time.
+
+5
+
+[For BSC, DSA-SS, DSA-SS/CC, HCD 1 & HCD 2]
+
+The use of PEX-AL-PEX in potable water supply systems is not adopted.
+
+604.1.1 Local Authority to Approve CPVC Pipe Within Residential Buildings Under Specified Conditions
+Local Authority to Approve CPVC Pipe Within Residential Buildings Under Specified Conditions
+
+604.1.2 PEX
+PEX
+
+604.2 Lead Content
+604.2.1 Lead Content of Water Supply Pipe and Fittings
+604.3 Copper or Copper Alloy Tube
+604.4 Hard-Drawn Copper or Copper Alloy Tubing
+604.5 Flexible Connectors
+604.6 Cast-Iron Fittings
+604.7 Malleable Iron Fittings
+604.8 Previously Used Piping and Tubing
+604.9 Epoxy Coating
+604.10 Plastic Materials
+604.10.1 Tracer Wire
+604.11 Solder
+604.12 Flexible Corrugated Connectors
+604.13 Water Heater Connectors
+[BSC, HCD 1 & HCD 2] PEX-AL-PEX is not adopted for use in potable water supply and distribution systems.
+
+605.0 Joints and Connections
+605.1 Copper or Copper Alloy Pipe, Tubing, and Joints
+605.1.1 Brazed Joints
+605.1.2 Flared Joints
+605.1.3 Mechanical Joints
+605.1.3.1 Mechanically Formed Tee Fittings
+605.1.3.2 Press-Connect Fittings
+605.1.3.3 Push Fit Fittings
+605.1.4 Soldered Joints
+605.1.5 Threaded Joints
+605.2 CPVC Plastic Pipe and Joints
+605.2.1 Mechanical Joints
+605.2.1.1 Push Fit Fittings
+605.2.2 Solvent Cement Joints
+[HCD 1 & HCD 2] Low VOC One-Step
+Cement that does not require the use of primer shall be
+utilized with CPVC pipe and fittings, manufactured in
+accordance with ASTM D2846.
+
+605.2.3 Threaded Joints
+605.3 CPVC/AL/CPVC Plastic Pipe and Joints
+605.3.1 Solvent Cement Joints
+605.3.2 Mechanical Joints
+605.3.2.1 Push Fit Fittings
+605.4 Ductile Iron Pipe and Joints
+605.4.1 Mechanical Joints
+605.4.2 Push-on Joints
+605.5 Galvanized Steel Pipe and Joints
+605.5.1 Mechanical Joints
+605.5.2 Threaded Joints
+605.6 PE Plastic Pipe/Tubing and Joints
+605.6.1 Heat-Fusion Joints
+605.6.1.1 Butt-Fusion Joints
+605.6.1.2 Electro-Fusion Joints
+605.6.1.3 Socket-Fusion Joints
+605.6.2 Mechanical Joints
+605.7 PE-AL-PE Plastic Pipe/Tubing and Joints
+605.7.1 Mechanical Joints
+605.7.1.1 Compression Joints
+605.8 PE-RT
+605.8.1 Mechanical Joints
+605.9 PEX Plastic Tubing and Joints
+All PEX pipe installed in California must provide at least 30-day UV protection. [OSHPD 1, 1R, 2, 3, 4 & 5] Installation and use of PEX tubing shall be in accordance with manufacturer's standards. PEX piping shall not be used for any application that would result in noncompliance with any provisions of the California Building Standards Code.
+
+605.9.1 Fittings
+Brass fittings used with PEX tubing shall meet
+or exceed NSF 14-2009 standards to prevent dezincification
+and stress crack corrosion. [OSHPD 1, 1R, 2, 3, 4 &
+5] Installation and use of PEX tubing shall be in accordance
+with manufacturer's standards. PEX piping shall
+not be used for any application that would result in noncompliance
+with any provisions of the California Building
+Standards Code.
+
+605.9.2 Mechanical Joints
+605.9.3 Push Fit Fittings
+605.10 PEX-AL-PEX Plastic Tubing and Joints
+[DSA-SS, DSA-SS/CC, BSC, HCD 1 & HCD 2] PEX-AL-PEX
+is not adopted for use in potable water supply and distribution
+systems.
+
+605.10.1 Mechanical Joints
+[BSC] PEX-AL-PEX is not adopted for use in potable
+water supply and distribution systems.
+
+605.10.1.1 Compression Joints
+[BSC] PEX-AL-PEX is not adopted for use in
+potable water supply and distribution systems.
+
+605.11 Polypropylene (PP) Piping and Joints
+605.11.1 Heat-Fusion Joints
+605.11.2 Mechanical and Compression Sleeve Joints
+605.11.3 Threaded Joints
+605.12 PVC Plastic Pipe and Joints
+605.12.1 Mechanical Joints
+605.12.2 Solvent Cement Joints
+[HCD 1 & HCD 2] Plastic pipe and fittings joined with
+solvent cement shall utilize Low VOC primer(s), if a
+primer is required, and Low VOC solvent cement(s) as
+defined in Section 214.0.
+
+605.12.3 Threaded Joints
+605.13 Stainless Steel Pipe and Joints
+605.13.1 Mechanical Joints
+605.13.2 Welded Joints
+605.14 Slip Joints
+605.15 Dielectric Unions
+[DSA-SS, DSA-SS/CC, HCD 1 & HCD 2, OSHPD 1, 1R, 2, 3, 4
+& 5] Dielectric unions shall be used at all points of connection
+where there is a dissimilarity of metals.
+
+605.16 Joints Between Various Materials
+605.16.1 Copper or Copper Alloy Pipe or Tubing to Threaded Pipe Joints
+605.16.2 Plastic Pipe to Other Materials
+605.16.3 Stainless Steel to Other Materials
+606.0 Valves
+606.1 General
+606.2 Fullway Valve
+606.3 Multidwelling Units
+606.4 Multiple Openings
+606.5 Control Valve
+606.6 Accessible
+606.7 Multiple Fixtures
+606.8
+[OSHPD 1, 1R, 2, 3, 4 & 5] Each riser or branch shall be provided with an accessible sectionalizing valve in hot-and cold-water systems to permit servicing or replacement of piping or equipment. Stop valves shall be provided at each fixture.
+
+606.9 Check Valve Required
+606.10 Leak Detection Devices
+607.0 Potable Water Supply Tanks
+607.1 General
+California Building
+Code
+
+607.2 Potable Water Tanks
+607.3 Venting
+607.4 Overflow
+607.5 Valves
+608.0 Water Pressure, Pressure Regulators, Pressure Relief Valves, and Vacuum Relief Valves
+608.1 Inadequate Water Pressure
+608.2 Excessive Water Pressure
+608.3 Expansion Tanks, and Combination Temperature and Pressure-Relief Valves
+608.4 Pressure Relief Valves
+608.5 Discharge Piping
+608.6 Water-Heating Devices
+608.7 Vacuum Relief Valves
+609.0 Installation, Testing, Unions, and Location
+609.1 Installation
+609.2 Trenches
+609.3 Under Concrete Slab
+609.4 Testing
+609.5 Unions
+609.6 Location
+609.7 Abutting Lot
+609.8 Pumps
+609.8.1 Access
+609.8.2 Potable Water Pumps
+609.9 Low-Pressure Cutoff Required on Booster Pumps for Water Distribution Systems
+609.10 Disinfection of Potable Water System
+[OSHPD 1, 1R, 2, 3, 4 & 5] Prior to utilization of newly constructed or altered potable water piping systems, all affected potable water piping shall be disinfected using procedures prescribed in California Plumbing Code Sections 609.10(1) through 609.10(4)
+
+609.11 Water Hammer
+[Not adopted by HCD]
+
+609.11.1 Mechanical Devices
+609.12 Pipe Insulation
+609.12.1 Insulation Requirements
+609.12.2 Pipe Insulation Wall Thickness
+609.12.3 California Energy Code Pipe Insulation Requirements [CEC]
+California Energy Code Pipe Insulation Requirements [CEC]
+
+See California Energy Code Sections 150.0(j)2 and 120.3(c) for pipe insulation requirements based on fluid temperature and pipe diameter - for domestic hot water piping. The California Energy Code requires that piping that penetrates metal framing shall use grommets, plugs, wrapping or other insulating material to assure that no contact is made with the metal framing. The California Energy Code also requires that insulation shall abut securely against all framing members, and places conditions on when installed wall or attic insulation that surrounds installed piping can be considered to provide pipe insulation meeting requirements.
+
+610.0 Size of Potable Water Piping
+610.1 Size
+610.2 Pressure Loss
+610.3 Quantity of Water
+APPLIANCES, APPURTENANCES OR FIXTURES2	MINIMUM FIXTURE
+BRANCH PIPE SIZE1,4
+(Inches)	PRIVATE	PUBLIC	ASSEMBLY6
+Bathtub or Combination Bath/Shower (fill)	1/2	4.0	4.0	—
+3/4 inch Bathtub Fill Valve	3/4	10.0	10.0	—
+Bidet	1/2	1.0	—	—
+Clothes Washer	1/2	4.0	4.0	—
+Dental Unit, cuspidor	1/2	—	1.0	—
+Dishwasher, domestic	1/2	1.5	1.5	—
+Drinking Fountain or Water Cooler	1/2	0.5	0.5	0.75
+Hose Bibb	1/2	2.5	2.5	—
+Hose Bibb, each additional8	1/2	1.0	1.0	—
+Lavatory	1/2	1.0	1.0	1.0
+Lawn Sprinkler, each head5	—	1.0	1.0	—
+Mobilehome or Manufactured Home, each (minimum)9	—	6.0	—	—
+Sinks	—	—	—	—
+Bar	1/2	1.0	2.0	—
+Clinical Faucet	1/2	—	3.0	—
+Clinical Flushometer Valve with or without faucet	1	—	8.0	—
+Kitchen, domestic with or without dishwasher	1/2	1.5	1.5	—
+Laundry	1/2	1.5	1.5	—
+Service or Mop Basin	1/2	1.5	3.0	—
+Washup, each set of faucets	1/2	—	2.0	—
+Shower, per head	1/2	2.0	2.0	—
+Urinal, 1.0 GPF Flushometer Valve	3/4	See Footnote7	—
+Urinal, greater than 1.0 GPF Flushometer Valve	3/4	See Footnote7	—
+Urinal, flush tank	1/2	2.0	2.0	3.0
+Urinal with Drain Cleansing Action	1/2	1.0	1.0	1.0
+Wash Fountain, circular spray	3/4	—	4.0	—
+Water Closet, 1.6 GPF Gravity Tank	1/2	2.5	2.5	3.5
+Water Closet, 1.6 GPF Flushometer Tank	1/2	2.5	2.5	3.5
+Water Closet, 1.6 GPF Flushometer Valve	1	See Footnote7	—
+Water Closet, greater than 1.6 GPF Gravity Tank	1/2	3.0	5.5	7.0
+Water Closet, greater than 1.6 GPF Flushometer Valve	1	See Footnote7	—
+
+9
+
+6.0
+
+9   For water supply fixture unit values related to lots within mobilehome parks in all parts of the State of California, see California Code of Regulations, Title 25, Division 1, Chapter 2, Article 5, Section 1278. For water supply fixture unit values related to lots within special occupancy parks in all parts of the State of California, see California Code of Regulations, Title 25, Division 1, Chapter 2.2, Article 5, Section 2278.
+
+610.4 Sizing Water Supply and Distribution Systems
+METER AND
+STREET
+SERVICE
+(inches)	BUILDING
+SUPPLY
+AND
+BRANCHES
+(inches)	MAXIMUM ALLOWABLE LENGTH
+(feet)
+40	60	80	100	150	200	250	300	400	500	600	700	800	900	1000
+PRESSURE RANGE — 30 to 45 psi1
+3/4	1/22	6	5	4	3	2	1	1	1	0	0	0	0	0	0	0
+3/4	3/4	16	16	14	12	9	6	5	5	4	4	3	2	2	2	1
+3/4	1	29	25	23	21	17	15	13	12	10	8	6	6	6	6	6
+1	1	36	31	27	25	20	17	15	13	12	10	8	6	6	6	6
+3/4	11/4	36	33	31	28	24	23	21	19	17	16	13	12	12	11	11
+1	11/4	54	47	42	38	32	28	25	23	19	17	14	12	12	11	11
+11/2	11/4	78	68	57	48	38	32	28	25	21	18	15	12	12	11	11
+1	11/2	85	84	79	65	56	48	43	38	32	28	26	22	21	20	20
+11/2	11/2	150	124	105	91	70	57	49	45	36	31	26	23	21	20	20
+2	11/2	151	129	129	110	80	64	53	46	38	32	27	23	21	20	20
+1	2	85	85	85	85	85	85	82	80	66	61	57	52	49	46	43
+11/2	2	220	205	190	176	155	138	127	120	104	85	70	61	57	54	51
+2	2	370	327	292	265	217	185	164	147	124	96	70	61	57	54	51
+2	21/2	445	418	390	370	330	300	280	265	240	220	198	175	158	143	133
+PRESSURE RANGE — 46 to 60 psi1
+3/4	1/22	7	7	6	5	4	3	2	2	1	1	1	0	0	0	0
+3/4	3/4	20	20	19	17	14	11	9	8	6	5	4	4	3	3	3
+3/4	1	39	39	36	33	28	23	21	19	17	14	12	10	9	8	8
+1	1	39	39	39	36	30	25	23	20	18	15	12	10	9	8	8
+3/4	11/4	39	39	39	39	39	39	34	32	27	25	22	19	19	17	16
+1	11/4	78	78	76	67	52	44	39	36	30	27	24	20	19	17	16
+11/2	11/4	78	78	78	78	66	52	44	39	33	29	24	20	19	17	16
+1	11/2	85	85	85	85	85	85	80	67	55	49	41	37	34	32	30
+11/2	11/2	151	151	151	151	128	105	90	78	62	52	42	38	35	32	30
+2	11/2	151	151	151	151	150	117	98	84	67	55	42	38	35	32	30
+1	2	85	85	85	85	85	85	85	85	85	85	85	85	85	83	80
+11/2	2	370	370	340	318	272	240	220	198	170	150	135	123	110	102	94
+2	2	370	370	370	370	368	318	280	250	205	165	142	123	110	102	94
+2	21/2	654	640	610	580	535	500	470	440	400	365	335	315	285	267	250
+PRESSURE RANGE — Over 60 psi1
+3/4	1/22	7	7	7	6	5	4	3	3	2	1	1	1	1	1	0
+3/4	3/4	20	20	20	20	17	13	11	10	8	7	6	6	5	4	4
+3/4	1	39	39	39	39	35	30	27	24	21	17	14	13	12	12	11
+1	1	39	39	39	39	38	32	29	26	22	18	14	13	12	12	11
+3/4	11/4	39	39	39	39	39	39	39	39	34	28	26	25	23	22	21
+1	11/4	78	78	78	78	74	62	53	47	39	31	26	25	23	22	21
+11/2	11/4	78	78	78	78	78	74	65	54	43	34	26	25	23	22	21
+1	11/2	85	85	85	85	85	85	85	85	81	64	51	48	46	43	40
+11/2	11/2	151	151	151	151	151	151	130	113	88	73	51	51	46	43	40
+2	11/2	151	151	151	151	151	151	142	122	98	82	64	51	46	43	40
+1	2	85	85	85	85	85	85	85	85	85	85	85	85	85	85	85
+11/2	2	370	370	370	370	360	335	305	282	244	212	187	172	153	141	129
+2	2	370	370	370	370	370	370	370	340	288	245	204	172	153	141	129
+2	21/2	654	654	654	654	654	650	610	570	510	460	430	404	380	356	329
+
+610.5 Sizing Per Appendices A and C
+610.6 Friction and Pressure Loss
+610.7 Conditions for Using Table 610.4
+610.8 Size of Meter and Building Supply Pipe Using Table 610.4
+610.9 Size of Branches
+610.10 Sizing for Flushometer Valves
+FIXTURE CATEGORY: WATER CLOSET WITH FLUSHOMETER VALVES
+NUMBER OF
+FLUSHOMETER
+VALVES	INDIVIDUAL
+FIXTURE UNITS
+ASSIGNED IN
+DECREASING
+VALUE	FIXTURE UNITS
+ASSIGNED FOR WATER
+CLOSETS AND SIMILAR
+10-UNIT FIXTURES IN
+ACCUMULATIVE VALUES
+1	40	40
+2	30	70
+3	20	90
+4	15	105
+5 or more	10 each	115 plus 10 for each
+additional fixture in
+excess of 5
+FIXTURE CATEGORY: URINALS WITH FLUSHOMETER VALVES
+NUMBER OF
+FLUSHOMETER
+VALVES	INDIVIDUAL
+FIXTURE UNITS
+ASSIGNED IN
+DECREASING
+VALUE	FIXTURE UNITS
+ASSIGNED FOR URINALS
+AND SIMILAR 5-UNIT
+FIXTURES IN
+ACCUMULATIVE VALUES
+1	20	20
+2	15	35
+3	10	45
+4	8	53
+5 or more	5 each	58 plus 5 for each additional fixture in excess of 5
+
+A:	1 WC = 40 F.U.
+B:	2 WC = 70 F.U.
+C:	2 WC (70) + 1 UR (20) = 90 F.U.
+D:	2 WC (70) + 2 UR (35) = 105 F.U.
+E:	2 WC (70) + 2 UR (35) + 1 LAV (1) = 106 F.U.
+F:	2 WC (70) + 2 UR (35) + 2 LAV (2) = 107 F.U.
+G:	1 LAV = 1 F.U.
+H:	2 LAV = 2 F.U.
+I:	2 LAV (2) + 1 UR (20) = 22 F.U.
+J:	2 LAV (2)+ 2 UR (35) = 37 F.U.
+K:	2 LAV (2) + 2 UR (35) + 1 WC (40) = 77 F.U.
+L:	2 LAV (2) + 2 UR (35) + 2 WC (70) = 107 F.U.
+M:	4 WC (105) + 4 UR (53) + 4 LAV (4) = 162 F.U.
+N:	1 WC = 40 F.U.
+O:	1 WC (40) + 1 UR (20) = 60 F.U.
+P:	1 WC (40) + 1 UR (20) + 1 LAV (1) = 61 F.U.
+Q:	2 WC (70) + 1 UR (20) + 1 LAV (1) = 91 F.U.
+R:	2 WC (70) + 2 UR (35) + 1 LAV (1) = 106 F.U.
+S:	2 WC (70) + 2 UR (35) + 2 LAV (2) = 107 F.U.
+T:	6 WC (125) + 6 UR (63) + 6 LAV (6) = 194 F.U.
+
+610.11 Sizing Systems for Flushometer Tanks
+610.12 Sizing for Velocity
+610.12.1 Copper Tube Systems
+610.12.2 Tubing Systems Using Copper Fittings
+610.13 Exceptions
+611.0 Drinking Water Treatment Units
+611.1 Application
+APPLICATION	RESIDENTIAL	COMMERCIAL
+POINT OF USE	POINT OF ENTRY
+Aesthetic ContaminantReduction (filters)	NSF 42	NSF 42	ASSE 1087 and NSF 42*
+Health Related ContaminantReduction (filters)	NSF 53	NSF 53	ASSE 1087 and NSF 53*
+Water Softener	-	NSF 44	ASSE 1087
+Ultraviolet Water Treatment	NSF 55	NSF 55	ASSE 1087
+Reverse Osmosis	NSF 58	NSF 61	ASSE 1087
+Distillation	NSF 62	NSF 62	ASSE 1087
+
+611.1.1 Alkaline Water Treatment
+611.1.2 Scale Reduction Devices
+611.2 Air Gap Discharge
+611.3 Connection Tubing
+611.4 Sizing of Residential Softeners
+REQUIRED SIZE OF
+SOFTENER CONNECTION
+(inches)	NUMBER OF BATHROOM
+GROUPS SERVED1
+3/4	up to 22
+1	up to 43
+
+612.0 Residential Fire Sprinkler Systems
+612.1 Installation
+Installation
+
+Residential Sprinkler Systems shall be installed in compliance with the California Residential Code or the California Fire Code.
+
+613.0 [OSHPD 1, 1R, 2, 3, 4 & 5] Domestic Hot-Water Distribution Systems for Health Facilities and Clinics
+[OSHPD 1, 1R, 2, 3, 4 & 5] Domestic Hot-Water Distribution Systems for Health Facilities and Clinics
+
+613.1
+The domestic water-heating equipment and distribution systems shall supply water at the temperature and amounts shown in Table 613.1. Where the system is designed by a mechanical engineer, appropriate diversity factors may be utilized.
+
+	CLINICAL	DIETARY1	LAUNDRY2
+Liter/Hour/Bed	11.9	7.2	7.6
+Gallons/Hour/Bed	3	2	2
+Temperature °C	41-49.0	49.0	71.0
+Temperature °F	105-120.0	120.0	160.0
+
+CLINICAL
+
+DIETARY1
+
+LAUNDRY2
+
+Liter/Hour/Bed
+
+11.9
+
+7.2
+
+7.6
+
+Gallons/Hour/Bed
+
+3
+
+2
+
+2
+
+Temperature °C
+
+41-49.0
+
+49.0
+
+71.0
+
+Temperature °F
+
+105-120.0
+
+120.0
+
+160.0
+
+1   Rinse water temperature at automatic dishwashing equipment and pot sinks shall be 180°F (82°C).
+
+Exception: The rinse water supply to pot rinse sinks may be deleted if a method of chemical disinfection using a three-compartment sink is proposed.
+
+2   The required temperature of 160°F (71°C) in the laundry is that measure in the washing machine and shall be supplied so that the temperature may be maintained over the entire wash and rinse period.
+
+Exception: A lower water temperature of 140°F (60°C) may be utilized, provided linens are subsequently passed through a tumbler dryer at 180°F (82°C) or a flatwork ironer at 300°F (149°C).
+
+613.2
+At least two pieces of hot-water-heating equipment shall
+be provided to supply hot water for dishwashing and minimum
+patient services such as handwashing and bathing. The
+arrangement of water-heating equipment shall be based on the
+capacity and capability of the equipment to provide the
+required hot water during periods of breakdown or maintenance of any one water heater. Booster heaters for 125°F to
+180°F (52°C to 82°C) water are acceptable as a second piece
+of equipment for dishwashing. Where storage tanks are separate from the water heater, at least two independent storage
+tanks shall be provided.
+
+613.3
+Instantaneous heaters are permitted for supplying hot
+water to handwashing and bathing fixtures if a continuous
+mechanical recirculation system is also provided.
+
+613.4
+Water storage tanks shall be fabricated of corrosion-resistant
+materials or lined with corrosion-resistant materials.
+
+613.5
+Temperature control valves shall be provided to automatically
+regulate the temperature of hot water delivered to
+plumbing fixtures used by patients to a range of 105°F (41°C)
+minimum to 120°F (49°C) maximum. High temperature
+alarm set at 125°F (52°C) shall be provided. The
+audible/visual device for the high temperature alarm shall
+annunciate at a continuously occupied location.
+
+613.6
+Hot-water distribution system serving patient care
+areas shall be under constant mechanical recirculation to provide
+continuous hot water at each hot water outlet. Non-recirculated
+fixture branch piping shall not exceed 25 feet (7.62
+meters) in length. Dead-end piping (risers with no flow,
+branches with no fixture) shall not be installed. In renovation
+projects, dead-end piping shall be removed in the area of renovation.
+Empty risers, mains, and branches installed for future
+use shall be permitted.
+
+613.7
+At fixtures where water exceeding 125°F (52°C) is accessible
+to patients or personnel, warning signs in letters at least
+2 inches (51 mm) high shall be posted above the fixtures.
+
+613.8
+Sectionalizing valves shall be provided as required by
+Section 606.8.
+
+614.0 Dialysis Water-Distribution Systems
+Dialysis Water-Distribution Systems
+
+614.1
+[OSHPD 1, 1R, 2, 3, 4 & 5] Dialysis water feedlines
+shall be PVC (polyvinyl chloride), glass, stainless steel, or
+PVDF (polyvinylidene fluoride) and sized to provide a minimum
+velocity of 1.5 feet per second (0.46 m/s). The piping shall
+be a singleloop system with or without recirculation. Branches
+to dialysis machines shall be 1/4 inch (6.4 mm) inside dimension
+and take off from the bottom of the main feedline. Branch lines
+may be PFA (perfluoroalkoxy).
+
+614.2
+All piping for multistation or central dialysis units shall
+be rigid where possible. All piping and tubing shall be in a neat
+arrangement. The placement of piping or tubing on the floor is
+not permitted.
+
+614.3
+All valves shall be located in accessible locations.
+
+614.4
+Piping and valves shall be identified according to their
+function.
+
+614.5
+A means of preventing backwashing or flushing of the
+system when one or more stations are in operation shall be provided.
+
+614.6
+A continuous audible alarm shall sound at the nurses'
+station and remote equipment rooms when the minimum velocity
+is not maintained, or if backwashing or flushing is attempted
+while one or more stations are in operation.
+
+614.7
+Water used for dialysis treatment shall meet the latest
+edition of ANSI/American Association of Medical Instrumentations
+(AAMI) RD62, Water treatment equipment for hemodialysis
+applications.
+
+614.8
+A diagram of all piping as installed shall be posted at the
+nurses' station and equipment room of all multistation or central
+dialysis units.
+
+615.0 Identification of Potable and Nonpotable Water Lines
+Identification of Potable and Nonpotable Water Lines
+
+615.1 Uses Not Permitted
+Uses Not Permitted
+
+615.1.1
+[OSHPD 1, 1R, 2, 3, 4 & 5] Nonpotable water
+shall not be piped for drinking, washing or bathing, washing
+of clothing, cooking, washing of food, washing of cooking
+or eating utensils, washing of food preparation or
+processing premises, or other personal service rooms.
+
+615.2
+[OSHPD 1, 1R, 2, 3, 4 & 5] Non-potable water systems or systems carrying any other non-potable substance
+shall be installed so as to prevent backflow or back-siphonage
+into a potable water system.
+
+615.3
+[OSHPD 1, 1R, 2, 3, 4 & 5] Outlets for non-potable
+water, such as water for industrial or fire-fighting purposes,
+shall be posted in a manner understandable to all employees
+to indicate that the water is unsafe and shall not be used for
+drinking, washing, cooking or other personal service purposes.
+
+615.4 [OSHPD 1] Emergency Water Supply
+[OSHPD 1] Emergency Water Supply
+
+615.4.1
+For new acute care hospital buildings submitted
+after the effective date of this code, the hospital shall
+have an on-site water supply sufficient to operate essential
+hospital utilities and equipment in the acute care
+hospital building, to support 72 hours of continuing
+operation in the event of an emergency. Any general
+acute care hospital in operation after January 1, 2030
+shall have an on-site water supply sufficient to operate
+essential hospital utilities and equipment in the acute
+care hospital buildings on the campus with an SPC-3,
+SPC-4, or SPC-5 rating, to support 72 hours of continuing
+operation in the event of an emergency. See also
+California Building Code, Part 2, Section 1616A.1.42.
+
+
+
+
+
+     The emergency water storage capacity shall be computed
+based on an approved Water Conservation/Water
+Rationing Plan to provide for 72 hours of operation,
+accepted by the licensing agency. For acute care hospital
+facilities or buildings required to meet NPC-5, on-site
+water supply of not less than 150 gallons [567. 9 L]
+[based on 50 gallons/day/bed for 72 hours] of potable
+water per licensed bed shall be provided. In no event
+shall the campus on-site water storage capacity be less
+than one tank with at least 5,000 gallons capacity.
+
+
+
+
+
+
+     The emergency supply shall have fittings to allow
+for replenishment of the water supply from transportable
+water sources and a means to dispense water to portable
+containers in the event that normal water supply
+becomes unavailable.
+
+Exception: With the approval of the Office and the
+licensing agency, hook-ups that allow for the use of transportable
+sources of potable water may be provided in lieu
+of 72 hours of on-site storage if a minimum onsite water
+supply of potable and industrial water is provided, sufficient
+to support 24 hours of operation, without replenishment
+based on the hospital's approved Water
+Conservation/Water Rationing plan. In no event shall the
+on-site water storage capacity be less than one tank with
+at least 5,000 gallons capacity. This emergency supply
+tank shall have fittings to allow for replenishment of the
+water supply from transportable water sources and a
+means to dispense water to portable containers in the
+event that normal water supply becomes unavailable.
+
+615.4.2

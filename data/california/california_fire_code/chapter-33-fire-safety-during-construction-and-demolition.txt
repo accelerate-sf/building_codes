@@ -1,0 +1,691 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLECHAPTER 33 – FIRE SAFETY DURING CONSTRUCTION AND DEMOLITION
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.See Chapter 1 for state agency authority and building applications.)
+
+	Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+	Adopt Entire Chapter			X																				
+	Adopt Entire Chapter as amended (amended sections listed below)																							
+	Adopt only those sections that are listed below																							
+	[California Code of Regulations, Title 19, Division 1]																							
+	Chapter / Section																							
+																								
+																								* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+CHAPTER 33 FIRE SAFETY DURING CONSTRUCTION AND DEMOLITION
+
+User note:
+
+About this chapter: Chapter 33 outlines general fire safety precautions for all structures and all occupancies during construction and demolition operations. In general, these requirements seek to maintain required levels of fire protection, limit fire spread, establish the appropriate operation of equipment and promote prompt response to fire emergencies. There is an emphasis on owner responsibility and the need to create and implement a site safety plan. Features regulated include fire protection systems, fire fighter access to the site and building, water supply, means of egress, hazardous materials storage and use, and temporary heating equipment and other ignition sources. Fire watches are an important component of this chapter. This chapter correlates with Chapter 33 of the California Building Code.
+
+SECTION 3301 GENERAL
+
+3301.1 Scope.
+
+This chapter shall apply to structures in the course of construction, alteration or demolition, including those in underground locations. Compliance with NFPA 241 is required for items not specifically addressed herein.
+
+3301.2 Purpose.
+
+This chapter prescribes minimum safeguards for construction, alteration and demolition operations to provide reasonable safety to life and property from fire during such operations.
+
+SECTION 3302 DEFINITIONS
+
+3302.1 Terms defined in Chapter 2.
+
+Words and terms used in this chapter and defined in Chapter 2 shall have the meanings ascribed to them as defined therein.
+
+
+
+
+
+SECTION 3303 OWNER’S RESPONSIBILITY
+FOR FIRE PROTECTION
+
+3303.1 Program development and maintenance.
+
+The
+owner or owner’s authorized agent shall be responsible for
+the development, implementation and maintenance of an
+approved, written site safety plan establishing a fire prevention program at the project site applicable throughout all
+phases of the construction, repair, alteration or demolition
+work. The plan shall address the requirements of this chapter
+and other applicable portions of this code, the duties of staff
+and staff training requirements. The plan shall be submitted
+and approved before a building permit is issued. Any changes
+to the plan shall be submitted for approval.
+
+3303.1.1 Components of site safety plans.
+
+Site safety
+plans shall include the following as applicable:
+
+1.Name and contact information of site safety director.
+
+2.Documentation of the training of the site safety
+director and fire watch personnel.
+
+3.Procedures for reporting emergencies.
+
+4.Fire department vehicle access routes.
+
+5. Location of fire protection equipment, including
+portable fire extinguishers, standpipes, fire department connections and fire hydrants.
+
+6.Smoking and cooking policies, designated areas to
+be used where approved, and signage locations in
+accordance with Section 3305.8.
+
+7.Location and safety considerations for temporary
+heating equipment.
+
+8.Hot work permit plan.
+
+9.Plans for control of combustible waste material.
+
+10.Locations and methods for storage and use of flammable and combustible liquids and other hazardous
+materials.
+
+11.Provisions for site security.
+
+12.Changes that affect this plan.
+
+13.Other site-specific information required by the fire
+code official.
+
+3303.2 Site safety director.
+
+The owner shall designate a
+person to be the site safety director. The site safety director
+shall be responsible for ensuring compliance with the site
+safety plan. The site safety director shall have the authority to
+enforce the provisions of this chapter and other provisions as
+necessary to secure the intent of this chapter. Where guard
+service is provided in accordance with NFPA 241, the site
+safety director shall be responsible for the guard service.
+
+3303.3 Daily fire safety inspection.
+
+The site safety director
+shall be responsible for completion of a daily fire safety
+inspection at the project site. Each day, all building and
+outdoor areas shall be inspected to ensure compliance with
+the inspection list in this section. The results of each inspection shall be documented and maintained on-site until a
+certificate of occupancy has been issued. Documentation
+shall be immediately available on-site for presentation to the
+fire code official upon request.
+
+1.Any contractors entering the site to perform hot work
+each day have been instructed in the hot work safety
+requirements in Chapter 35, and hot work is performed
+only in areas approved by the site safety director.
+
+2.Temporary heating equipment is maintained away from
+combustible materials in accordance with the equipment manufacturer’s instructions.
+
+3.Combustible debris, rubbish and waste material is
+removed from the building in areas where work is not
+being performed.
+
+4.Temporary wiring does not have exposed conductors.
+
+5.Flammable liquids and other hazardous materials are
+stored in locations that have been approved by the site
+safety director when not involved in work that is being
+performed.
+
+6.Fire apparatus access roads required by Section 3311
+are maintained clear of obstructions that reduce the
+width of the usable roadway to less than 20 feet (6096
+mm).
+
+7.Fire hydrants are clearly visible from access roads and
+are not obstructed.
+
+8.The location of fire department connections to standpipe and in-service sprinkler systems are clearly identifiable from the access road and such connections are
+not obstructed.
+
+9.Standpipe systems are in service and continuous to the
+highest work floor, as specified in Section 3313.1.
+
+10.Portable fire extinguishers are available in locations
+required by Sections 3316 and 3318.3.
+
+3303.3.1 Violations.
+
+Failure to properly conduct, document and maintain documentation required by this section
+shall constitute an unlawful act in accordance with Section
+112.1 and shall result in the issuance of a notice of violation to the site safety director in accordance with Section
+112.3. Upon the third offense, the fire code official is
+authorized to issue a stop work order in accordance with
+Section 113, and work shall not resume until satisfactory
+assurances of future compliance have been presented to
+and approved by the fire code official.
+
+3303.4 Qualifications.
+
+Site safety directors shall acquire
+training specific to their roles and responsibilities. Upon
+request, the training and qualifications of the site safety director shall be submitted to the fire code official for approval.
+
+3303.5 Fire safety requirements for buildings of Types IV-A, IV-B and IV-C construction.
+
+Buildings of Types IV-A,
+IV-B and IV-C construction designed to be greater than six
+stories above grade plane shall comply with the following
+requirements during construction unless otherwise approved
+by the fire code official:
+
+1.Standpipes shall be provided in accordance with Section 3313.
+
+2.A water supply for fire department operations, as
+approved by the fire code official and the fire chief.
+
+3.Where building construction exceeds six stories above
+grade plane and noncombustible protection is required
+by Section 602.4 of the California Building Code, at
+least one layer of noncombustible protection shall be
+installed on all building elements on floor levels,
+including mezzanines, more than four levels below
+active mass timber construction before additional floor
+levels can be erected.
+
+Exception: Shafts and vertical exit enclosures shall
+not be considered part of the active mass timber
+construction.
+
+4.Where building construction exceeds six stories above
+grade plane, required exterior wall coverings shall be
+installed on floor levels, including mezzanines, more
+than four levels below active mass timber construction
+before additional floor levels can be erected.
+
+Exception: Shafts and vertical exit enclosures shall
+not be considered part of the active mass timber
+construction.
+
+3303.6 Training.
+
+Training of fire watch and other responsible personnel in the use of fire protection equipment shall be
+the responsibility of the site safety director. Records of training shall be kept and made a part of the written plan for the
+site safety plan.
+
+3303.7 Fire protection devices.
+
+The site safety director shall
+ensure that all fire protection equipment is maintained and
+serviced in accordance with this code. Fire protection equipment shall be inspected in accordance with the fire protection
+program.
+
+3303.8 Hot work operations.
+
+The site safety director shall
+ensure hot work operations and permit procedures are in
+accordance with Chapter 35.
+
+3303.9 Impairment of fire protection systems.
+
+The site
+safety director shall ensure impairments to any fire protection
+system are in accordance with Section 901.
+
+3303.9.1 Smoke detectors and smoke alarms.
+
+Smoke
+detectors and smoke alarms located in an area where
+airborne construction dust is expected shall be covered to
+prevent exposure to dust or shall be temporarily removed.
+Smoke detectors and alarms that were removed shall be
+replaced upon conclusion of dust-producing work. Smoke
+detectors and smoke alarms that were covered shall be
+inspected and cleaned, as necessary, upon conclusion of
+dust-producing work.
+
+3303.10 Temporary covering of fire protection devices.
+
+Coverings placed on or over fire protection devices to protect
+them from damage during construction processes shall be
+immediately removed upon the completion of the construction processes in the room or area in which the devices are
+installed.
+
+SECTION 3304 TEMPORARY HEATING EQUIPMENT
+
+3304.1 Listed.
+
+Temporary heating devices shall be listed and labeled. The installation, maintenance and use of temporary heating devices shall be in accordance with the listing and the manufacturer’s instructions.
+
+3304.2 Oil-fired heaters.
+
+Oil-fired heaters shall comply with Section 605.
+
+3304.3 LP-gas heaters.
+
+Fuel supplies for liquefied-petroleum gas-fired heaters shall comply with Chapter 61 and the California Mechanical Code.
+
+3304.4 Refueling.
+
+Refueling operations for liquid-fueled equipment or appliances shall be conducted in accordance with Section 5705. The equipment or appliance shall be allowed to cool prior to refueling.
+
+3304.5 Installation.
+
+Clearance to combustibles from temporary heating devices shall be maintained in accordance with the labeled equipment. When in operation, temporary heating devices shall be fixed in place and protected from damage, dislodgement or overturning in accordance with the manufacturer’s instructions.
+
+3304.6 Supervision.
+
+The use of temporary heating devices shall be supervised and maintained only by competent personnel.
+
+SECTION 3305 PRECAUTIONS AGAINST FIRE
+
+3305.1 Smoking.
+
+Smoking shall be prohibited except in approved areas. Signs shall be posted in accordance with Section 310. In approved areas where smoking is permitted, approved ashtrays shall be provided in accordance with Section 310.
+
+3305.2 Combustible debris, rubbish and waste.
+
+Combustible debris, rubbish and waste material shall comply with the requirements of Sections 3305.2.1 through 3305.2.4.
+
+3305.2.1 Combustible waste material accumulation.
+
+Combustible debris, rubbish and waste material shall not be accumulated within buildings.
+
+3305.2.2 Combustible waste material removal.
+
+Combustible debris, rubbish and waste material shall be removed from buildings at the end of each shift of work.
+
+3305.2.3 Rubbish containers.
+
+Where rubbish containers with a capacity exceeding 5.33 cubic feet (40 gallons) (0.15 m3) are used for temporary storage of combustible debris, rubbish and waste material, they shall have tight-fitting or self-closing lids. Such rubbish containers shall be constructed entirely of materials that comply with either of the following:
+
+1.Noncombustible materials.
+
+2.Materials that meet a peak rate of heat release not exceeding 300 kW/m2 when tested in accordance with ASTM E1354 at an incident heat flux of 50 kW/m2 in the horizontal orientation.
+
+3305.2.4 Spontaneous ignition.
+
+Materials susceptible to spontaneous ignition, such as oily rags, shall be stored in a listed disposal container.
+
+3305.3 Burning of combustible debris, rubbish and waste.
+
+Combustible debris, rubbish and waste material shall not be disposed of by burning on the site unless approved.
+
+3305.4 Open burning.
+
+Open burning shall comply with Section 307.
+
+3305.5 Fire watch.
+
+Where required by the fire code official
+or the site safety plan established in accordance with Section 3303.1, a fire watch shall be provided for building demolition
+and for building construction.
+
+3305.5.1 Fire watch during construction.
+
+A fire watch
+shall be provided during nonworking hours for new
+construction that exceeds 40 feet (12 192 mm) in height
+above the lowest adjacent grade at any point along the
+building perimeter, for new multistory construction with
+an aggregate area exceeding 50,000 square feet (4645 m2)
+per story or as required by the fire code official.
+
+3305.5.2 Fire watch personnel.
+
+Fire watch personnel
+shall be provided in accordance with this section.
+
+3305.5.2.1 Duties.
+
+The primary duty of fire watch
+personnel shall be to perform constant patrols and
+watch for the occurrence of fire. The combination of
+fire watch duties and site security duties is acceptable.
+
+3305.5.2.2 Training.
+
+Personnel shall be trained to
+serve as an on-site fire watch. Training shall include the
+use of portable fire extinguishers. Fire extinguishers
+and fire reporting shall be in accordance with Section
+3310.
+
+3305.5.2.3 Means of notification.
+
+Fire watch personnel shall be provided with not fewer than one approved
+means for notifying the fire department.
+
+3305.5.3 Fire watch location and records.
+
+The fire
+watch shall include areas specified by the site safety plan
+established in accordance with Section 3303.
+
+3305.5.4 Fire watch records.
+
+Fire watch personnel shall
+keep a record of all time periods of duty, including the log
+entry for each time the site was patrolled and each time a
+structure was entered and inspected. Records shall be
+made available for review by the fire code official upon
+request.
+
+3305.6 Cutting and welding.
+
+Welding, cutting, open torches
+and other hot work operations and equipment shall comply
+with Chapter 35.
+
+3305.7 Electrical.
+
+Temporary wiring for electrical power and
+lighting installations used in connection with the construction, alteration or demolition of buildings, structures,
+equipment or similar activities shall comply with the California Electrical Code.
+
+3305.8 Cooking.
+
+Cooking shall be prohibited except in
+approved designated cooking areas separated from combustible materials by a minimum of 10 feet (3048 mm). Signs with
+a minimum letter height of 3 inches (76 mm) and a minimum
+brush stroke of 1/2 inch (13 mm) shall be posted in conspicuous locations in designated cooking areas and state:
+
+DESIGNATED COOKING AREA COOKING OUTSIDE OF A DESIGNATED COOKING AREA IS PROHIBITED
+
+3305.9 Separations between construction areas.
+
+Separations used in Type I and Type II construction to separate construction areas from occupied portions of the building shall be constructed of materials that comply with one of the following:
+
+1.Noncombustible materials.
+
+2.Materials that exhibit a flame spread index not exceeding 25 when tested in accordance with ASTM E84 or UL 723.
+
+3.Materials exhibiting a peak heat release rate not exceeding 300 kW/m2 when tested in accordance with ASTM E1354 at an incident heat flux of 50 kW/m2 in the horizontal orientation on specimens at the thickness intended for use.
+
+SECTION 3306 FLAMMABLE AND COMBUSTIBLE LIQUIDS
+
+3306.1 Storage of flammable and combustible liquids.
+
+Storage of flammable and combustible liquids shall be in accordance with Section 5704.
+
+3306.2 Class I and Class II liquids.
+
+The storage, use and handling of flammable and combustible liquids at construction sites shall be in accordance with Section 5706.2. Ventilation shall be provided for operations involving the application of materials containing flammable solvents.
+
+3306.3 Housekeeping.
+
+Flammable and combustible liquid storage areas shall be maintained clear of combustible vegetation and waste materials. Such storage areas shall not be used for the storage of combustible materials.
+
+3306.4 Precautions against fire.
+
+Sources of ignition and smoking shall be prohibited in flammable and combustible liquid storage areas. Signs shall be posted in accordance with Section 310.
+
+3306.5 Handling at point of final use.
+
+Class I and II liquids shall be kept in approved safety containers.
+
+3306.6 Leakage and spills.
+
+Leaking vessels shall be immediately repaired or taken out of service and spills shall be cleaned up and disposed of properly.
+
+SECTION 3307 FLAMMABLE GASES
+
+3307.1 Storage and handling.
+
+The storage, use and handling of flammable gases shall comply with Chapter 58.
+
+3307.2 Cleaning with flammable gas.
+
+Flammable gases shall not be used to clean or remove debris from piping open to the atmosphere.
+
+3307.2.1 Pipe cleaning and purging.
+
+The cleaning and purging of flammable gas piping systems, including cleaning new or existing piping systems, purging piping systems into service and purging piping systems out of service, shall comply with NFPA 56.
+
+Exceptions:
+
+1.Compressed gas piping systems other than fuel gas piping systems where in accordance with Chapter 53.
+
+2.Piping systems regulated by the International Fuel Gas Code.
+
+3.Liquefied petroleum gas systems in accordance with Chapter 61.
+
+
+
+SECTION 3308 EXPLOSIVE MATERIALS
+
+3308.1 Storage and handling.
+
+Explosive materials shall be
+stored, used and handled in accordance with Chapter 56.
+
+3308.2 Supervision.
+
+Blasting operations shall be conducted in accordance with Chapter 56.
+
+3308.3 Demolition using explosives.
+
+Approved fire hoses
+for use by demolition personnel shall be maintained at the
+demolition site wherever explosives are used for demolition.
+Such fire hoses shall be connected to an approved water
+supply and shall be capable of being brought to bear on post-detonation fires anywhere on the site of the demolition
+operation.
+
+SECTION 3309 PORTABLE GENERATORS
+
+3309.1 General.
+
+Portable generators used at construction and demolition sites shall comply with Section 1204.
+
+SECTION 3310 FIRE REPORTING
+
+3310.1 Emergency telephone.
+
+Emergency telephone facilities with ready access shall be provided in an approved
+location at the construction site, or an approved equivalent
+means of communication shall be provided. The street
+address of the construction site and the emergency telephone
+number of the fire department shall be posted adjacent to the
+telephone. Alternatively, where an equivalent means of
+communication has been approved, the site address and fire
+department emergency telephone number shall be posted at
+the main entrance to the site, in guard shacks and in the
+construction site office.
+
+SECTION 3311 ACCESS FOR FIRE FIGHTING
+
+3311.1 Required access.
+
+Approved vehicle access for fire
+fighting shall be provided to all construction or demolition sites.
+Vehicle access shall be provided to within 100 feet (30 480
+mm) of temporary or permanent fire department connections.
+Vehicle access shall be provided by either temporary or permanent roads, capable of supporting vehicle loading under all
+weather conditions. Vehicle access shall be maintained until
+permanent fire apparatus access roads are available.
+
+3311.2 Key boxes.
+
+Key boxes shall be provided as required
+by Chapter 5.
+
+SECTION 3312 MEANS OF EGRESS
+
+[BE] [BE] 3312.1 Stairways required.
+
+Where building construction exceeds 40 feet (12 192 mm) in height above the lowest
+level of fire department vehicle access, a temporary or permanent stairway shall be provided. As construction progresses,
+such stairway shall be extended to within one floor of the
+highest point of construction having secured decking or
+flooring.
+
+3312.2 Maintenance.
+
+Required means of egress and required
+accessible means of egress shall be maintained during
+construction and demolition, remodeling or alterations and
+additions to any building.
+
+Exception: Approved temporary means of egress and
+accessible means of egress systems and facilities.
+
+3312.3 Storage.
+
+Combustible materials associated with
+construction, demolition, remodeling or alterations to an
+occupied structure shall not be stored in exits, enclosures for
+stairways and ramps, or exit access corridors serving an occupant load of 30 or more.
+
+Exceptions:
+
+1.Where the only occupants are construction workers.
+
+2.Combustible materials that are temporarily accumulated to support work being performed when workers are present.
+
+SECTION 3313 WATER SUPPLY FOR FIRE PROTECTION
+
+3313.1 When required.
+
+An approved water supply for fire
+protection, either temporary or permanent, shall be made
+available as soon as combustible building materials arrive on
+the site, on commencement of vertical combustible construction and on installation of a standpipe system in buildings
+under construction, in accordance with Sections 3313.2
+through 3313.5.
+
+Exception: The fire code official is authorized to reduce
+the fire-flow requirements for isolated buildings or a group
+of buildings in rural areas or small communities where the
+development of full fire-flow requirements is impractical.
+
+3313.2 Combustible building materials.
+
+When combustible
+building materials of the building under construction are
+delivered to a site, a minimum fire flow of 500 gallons per
+minute (1893 L/m) shall be provided. The fire hydrant used to
+provide this fire-flow supply shall be within 500 feet (152 m)
+of the combustible building materials, as measured along an
+approved fire apparatus access lane. Where the site configuration is such that one fire hydrant cannot be located within
+500 feet (152 m) of all combustible building materials, additional fire hydrants shall be required to provide coverage in
+accordance with this section.
+
+3313.3 Vertical construction of Types III, IV and V
+construction.
+
+Prior to commencement of vertical construction of Type III, IV or V buildings that utilize any
+combustible building materials, the fire flow required by
+Sections 3313.3.1 through 3313.3.3 shall be provided,
+accompanied by fire hydrants in sufficient quantity to deliver
+the required fire flow and proper coverage.
+
+3313.3.1 Fire separation up to 30 feet.
+
+Where a building
+of Type III, IV or V construction has a fire separation
+distance of less than 30 feet (9144 mm) from property lot
+lines, and an adjacent property has an existing structure or
+otherwise can be built on, the water supply shall provide
+either a minimum of 500 gallons per minute (1893 L/m) or
+the entire fire flow required for the building when
+constructed, whichever is greater.
+
+3313.3.2 Fire separation of 30 feet up to 60 feet.
+
+Where
+a building of Type III, IV or V construction has a fire
+separation distance of 30 feet (9144 mm) up to 60 feet
+(18 288 mm) from property lot lines, and an adjacent property has an existing structure or otherwise can be built on,
+the water supply shall provide a minimum of 500 gallons
+per minute (1893 L/m) or 50 percent of the fire flow
+required for the building when constructed, whichever is
+greater.
+
+3313.3.3 Fire separation of 60 feet or greater.
+
+Where a
+building of Type III, IV or V construction has a fire separation of 60 feet (18 288 mm) or greater from a property
+lot line, a water supply of 500 gallons per minute (1893
+L/m) shall be provided.
+
+3313.4 Vertical construction, Type I and II construction.
+
+If combustible building materials are delivered to the
+construction site, water supply in accordance with Section
+3313.2 shall be provided. Additional water supply for fire
+flow is not required prior to commencing vertical construction of Type I and II buildings.
+
+3313.5 Standpipe supply.
+
+Regardless of the presence of
+combustible building materials, the construction type or the
+fire separation distance, where a standpipe is required in
+accordance with Section 3314, a water supply providing a
+minimum flow of 500 gallons per minute (1893 L/m) shall be
+provided. The fire hydrant used for this water supply shall be
+located within 100 feet (30 480 mm) of the fire department
+connection supplying the standpipe.
+
+SECTION 3314 STANDPIPES
+
+3314.1 Where required.
+
+In buildings required to have standpipes by Section 905.3.1, not less than one standpipe shall be provided for use during construction. Such standpipes shall be installed prior to construction exceeding 40 feet (12 192 mm) in height above the lowest level of fire department vehicle access. Such standpipes shall be provided with fire department hose connections at locations adjacent to stairways complying with Section 3312.1. As construction progresses, such standpipes shall be extended to within one floor of the highest point of construction having secured decking or flooring.
+
+3314.2 Buildings being demolished.
+
+Where a building is being demolished and a standpipe is existing within such a building, such standpipe shall be maintained in an operable condition so as to be available for use by the fire department. Such standpipe shall be demolished with the building but shall not be demolished more than one floor below the floor being demolished.
+
+3314.3 Detailed requirements.
+
+Standpipes shall be installed in accordance with the provisions of Section 905.
+
+Exception: Standpipes shall be either temporary or permanent in nature, and with or without a water supply, provided that such standpipes comply with the requirements of Section 905 as to capacity, outlets and materials.
+
+SECTION 3315 AUTOMATIC SPRINKLER SYSTEM
+
+3315.1 Completion before occupancy.
+
+In buildings where an automatic sprinkler system is required by this code or the California Building Code, it shall be unlawful to occupy any portion of a building or structure until the automatic sprinkler system installation has been tested and approved, except as provided in Section 105.3.4.
+
+3315.2 Operation of valves.
+
+Operation of sprinkler control valves shall be allowed only by properly authorized personnel and shall be accompanied by notification of duly designated parties. Where the sprinkler protection is being regularly turned off and on to facilitate connection of newly completed segments, the sprinkler control valves shall be checked at the end of each work period to ascertain that protection is in service.
+
+SECTION 3316 PORTABLE FIRE EXTINGUISHERS
+
+3316.1 Where required.
+
+Structures under construction, alteration or demolition shall be provided with not less than one approved portable fire extinguisher in accordance with Section 906 and sized for not less than ordinary hazard as follows:
+
+1.At each stairway on all floor levels where combustible materials have accumulated.
+
+2.In every storage and construction shed.
+
+3.Additional portable fire extinguishers shall be provided where special hazards exist including, but not limited to, the storage and use of flammable and combustible liquids.
+
+SECTION 3317 MOTORIZED CONSTRUCTION EQUIPMENT
+
+3317.1 Conditions of use.
+
+Internal-combustion-powered construction equipment shall be used in accordance with all of the following conditions:
+
+1.Equipment shall be located so that exhausts do not discharge against combustible material.
+
+2.Exhausts shall be piped to the outside of the building.
+
+3.Equipment shall not be refueled while in operation.
+
+4.Fuel for equipment shall be stored in an approved area outside of the building.
+
+SECTION 3318 SAFEGUARDING ROOFING OPERATIONS
+
+3318.1 General.
+
+Roofing operations utilizing heat-producing systems or other ignition sources shall be conducted in accordance with Sections 3318.2 and 3318.3 and Chapter 35.
+
+3318.2 Asphalt and tar kettles.
+
+Asphalt and tar kettles shall be operated in accordance with Section 303.
+
+3318.3 Fire extinguishers for roofing operations.
+
+Fire extinguishers shall comply with Section 906. There shall be not less than one multiple-purpose portable fire extinguisher with a minimum 3-A 40-B:C rating on the roof being covered or repaired.
+

@@ -1,0 +1,1044 @@
+CALIFORNIA RESIDENTIAL CODE – MATRIX ADOPTION TABLE APPENDIX AU – COB CONSTRUCTION (MONOLITHIC ADOBE)
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user. See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+Chapter / Section																							
+																							
+
+APPENDIX AU COB CONSTRUCTION (MONOLITHIC ADOBE)
+
+The provisions contained in this appendix are not mandatory unless specifically adopted by a state agency or referenced in the adopting ordinance.
+
+User note:
+
+About this appendix: Cob construction has been used for thousands of years around the world, notably in England and Northern Europe, the Middle East, West Africa, China and the Southwestern United States. An estimated 20,000 cob homes are still inhabited in the English county of Devon alone, some dating from the 15th century. The term “cob” derives from an Old English word for “lump,” since historical structures were often constructed one handful at a time.
+
+SECTION AU101 GENERAL
+
+AU101.1 Scope.
+
+This appendix provides prescriptive and performance-based requirements for the use of natural cob as a building material. Buildings using cob walls shall comply with this code except as otherwise stated in this appendix.
+
+AU101.2 Intent.
+
+In addition to the intent described in Section R101.3, the purpose of this appendix is to establish minimum requirements for cob structures that provide flexibility in the application of certain provisions of the code, to permit the use of site-sourced and local materials, and to permit combinations of historical and modern techniques.
+
+AU101.3 Tests and empirical evidence.
+
+Tests for an alternative material, design or method of construction shall be in accordance with Section R104.11.1, and the building official shall have the authority to consider evidence of a history of successful use in lieu of testing.
+
+AU101.4 Cob wall systems.
+
+Cob wall systems include those shown in Figure AU101.4 and approved variations.
+
+FIGURE AU101.4
+
+TYPICAL COB WALL
+
+AU101.5 Definitions.
+
+The words and terms in Section AU102 shall, for the purposes of this appendix, have the meanings shown herein. Refer to Chapter 2 for general definitions.
+
+SECTION AU102 DEFINITIONS
+
+BRACED WALL PANEL. A cob wall designed and constructed to resist in-plane shear loads through the interaction of the cob material, its reinforcing and its connections to its bond beam and foundation. The panel’s length meets the requirements for the particular wall type and contributes toward the total amount of bracing required along its braced wall line in accordance with Sections AU106.11 and R602.10.1.
+
+BUTTRESS. A mass set at an angle to or bonded to a wall that it strengthens or supports.
+
+CLAY. Inorganic soil with particle sizes less than 0.00008 inch (0.002 mm) and having the characteristics of high to very high dry strength and medium to high plasticity, used as the binder of other component materials in a mix of cob or of clay plaster.
+
+CLAY SUBSOIL. Subsoil sourced directly from the earth, containing clay, sand and silt, and containing not more than trace amounts of organic matter.
+
+COB. A composite building material consisting of refined clay or clay subsoil wet-mixed with loose straw and sometimes sand. Also known as “Monolithic adobe.”
+
+COB CONSTRUCTION. A wall system of layers or lifts of moist cob placed to create monolithic walls, typically without formwork.
+
+DRY JOINT. The boundary between a layer of moist cob and a previously laid and significantly drier, nonmalleable layer of cob that requires wetting to achieve bonding between the layers.
+
+FINISH. Completed combination of materials on the face of a cob wall.
+
+LIFT. A layer of installed cob.
+
+LOAD-BEARING WALL. A cob wall that supports more than 100 pounds per linear foot (1459 N/m) of vertical load in addition to its own weight.
+
+MONOLITHIC ADOBE. See “Cob.”
+
+NATURAL COB. Cob not containing admixtures such as Portland cement, lime, asphalt emulsion or oil. Synonymous with “Unstabilized cob.”
+
+NONSTRUCTURAL WALL. Walls other than load-bearing walls or shear walls.
+
+PLASTER. Clay, soil-cement, gypsum, lime, clay-lime, cement-lime or cement plaster as described in Section AU104.
+
+SHEAR WALL. A cob wall designed and constructed to resist in-plane lateral seismic and wind forces in accordance with Section AU106.11. Synonymous with “Braced wall panel.”
+
+STABILIZED. Cob or other earthen material containing admixtures, such as Portland cement, lime, asphalt emulsion or oil, that are intended to help limit water absorption, stabilize volume, increase strength and increase durability.
+
+STRAW. The dry stems of cereal grains after the seed heads have been removed.
+
+STRUCTURAL WALL. A wall that meets the definition for a “Load-bearing wall” or “Shear wall.”
+
+UNSTABILIZED. A cob or other earthen material that does not contain admixtures such as Portland cement, lime, asphalt emulsion or oil.
+
+UNSTABILIZED COB. See “Natural cob.”
+
+SECTION AU103 MATERIALS, MIXING AND INSTALLATION
+
+AU103.1 Clay subsoil.
+
+Clay subsoil for a cob mix shall be acceptable if the mix it produces meets the requirements of Section AU103.4.
+
+AU103.2 Sand.
+
+Sand or other aggregates such as, but not limited to, gravel, pumice and lava rock, when added to cob mixes, shall yield a mix that meets the requirements of Section AU103.4.
+
+AU103.3 Straw.
+
+Straw for cob mixes shall be from wheat, rice, rye, barley or oat, or similar reinforcing fibers with similar performance. Before mixing, the straw or other reinforcing fibers shall be dry to the touch and free of visible decay.
+
+AU103.4 Mix proportions.
+
+Cob mixes shall be of any proportions of refined clay or clay subsoil, added sand (if any) and straw that produce a dried mix that passes the shrinkage test in accordance with Section AU103.4.1, complies with the compressive strength requirements of Section AU106.6 and complies with the modulus of rupture requirements of Section AU106.7.
+
+AU103.4.1 Shrinkage test for cob mixes.
+
+Each proposed cob mix of different mix proportions shall be placed moist to completely fill a 24-inch by 31/2-inch by 31/2-inch (610 mm by 89 mm by 89 mm) wooden form on a plastic or paper slip sheet and dried to ambient moisture conditions, or oven dried. The total shrinkage of the length shall not exceed 1 inch (25 mm), as measured from the dried edges of the material to the insides of the form. Cracks in the sample greater than 1/16 inch (1.5 mm) shall first be closed manually. The shrinkage test shall be shown to the building official for approval before placement of the cob mix onto walls
+
+AU103.5 Mixing.
+
+The clay subsoil, sand and straw for cob shall be thoroughly mixed by manual or mechanical means with water sufficient to produce a mix of a plastic consistency capable of bonding of successively placed layers or lifts.
+
+AU103.6 Installation.
+
+Cob shall be installed on the wall in lifts of a height that supports itself with minimal slumping.
+
+AU103.7 Dry joints.
+
+Each layer of cob shall be prevented from drying until the next layer is installed, to ensure bonding of successive layers. The top of each layer shall be kept moist and malleable with one or more of the following methods:
+
+1.Covering with a material that prevents loss of or holds moisture.
+
+2.Covering with a material that shades it from direct sun.
+
+3.Wetting.
+
+Where dry joints are unavoidable, the previous layer shall be wetted prior to application of the next layer.
+
+AU103.8 Drying holes.
+
+Where holes to facilitate drying are used, such holes shall be of any depth and not exceeding 3/4 inch (19 mm) in diameter on the face of cob walls. Drying holes shall not be spaced closer than 10 hole-diameters. Drying holes shall not be placed in braced wall panels. The design load on load-bearing walls with drying holes shall not exceed 90 percent of the allowable bearing capacity as determined in accordance with Section AU106.8. Drying holes shall be filled with cob before final inspection.
+
+AU103.9 Adding roof loads to walls.
+
+Roof and ceiling loads shall not be added until walls are sufficiently dry to support them without compressing.
+
+SECTION AU104 FINISHES
+
+AU104.1 General.
+
+Cob walls shall not require a finish, except as required by Section AU104.2. Finishes applied to cob walls shall comply with this section and Chapters 3 and 7 unless stated otherwise in this section.
+
+AU104.1.1 Interior wall finishes.
+
+Where installed, interior wall finishes and interior fire protection shall comply with the applicable provisions of Section R302, and shall be plasters in accordance with Section AU104.4 or nonplaster wall coverings in accordance with Section R702.
+
+AU104.1.2 Exterior wall finishes.
+
+Where installed, exterior wall finishes shall be plasters in accordance with Section AU104.4, nonplaster exterior wall coverings in accordance with Section R703, or other finish systems in accordance with the following:
+
+1.Specifications and details of the finish system’s means of attachment to the wall or its independent support and means of draining or evaporating water that penetrates the exterior finish shall be provided.
+
+2.The vapor permeance of the combination of finish materials shall be 5 perms or greater to allow the transpiration of water vapor from the wall.
+
+3.Finish systems with weights greater than 10 pounds per square foot (48.9 kg/m) and less than or equal to20 pounds per square foot (97.8 kg/m) of wall area shall require that the minimum total length of braced wall panels in Table AU106.11(3) be multiplied by a factor of 1.2.
+
+4.Finish systems with weights greater than 20 pounds per square foot (97.8 kg/m) of wall area shall require an engineered design.
+
+AU104.2 Where required.
+
+Cob walls exposed to rain due to local climate, building design and wall orientation shall be finished or clad to provide protection from excessive erosion.
+
+AU104.3 Vapor retarders.
+
+Class I and II vapor retarders shall not be used on cob walls, except at cob walls surrounding showers or as required or addressed elsewhere in this appendix.
+
+AU104.4 Plaster.
+
+Plaster applied to cob walls shall be any type described in this section. Plaster thickness shall not exceed 3 inches (76 mm) on each face except where an approved engineered design is provided.
+
+AU104.4.1 Plaster and membranes.
+
+Plaster shall be applied directly to cob walls to facilitate transpiration of moisture from the walls and to secure a mechanical bond between the plaster and the cob. A membrane shall not be located between the cob wall and the plaster.
+
+AU104.4.2 Plaster lath.
+
+The surface of cob walls shall be permitted to function as lath for plaster, with no other lath required. Metal, plastic, and natural fiber lath shall be permitted to be used to limit plaster cracking, increase the plaster bond to the wall, or to bridge dissimilar materials.
+
+AU104.4.3 Clay plaster.
+
+Clay plaster shall comply with Sections AU104.4.3.1 and AU104.4.3.2.
+
+AU104.4.3.1 General.
+
+Clay plaster shall be any plaster having a clay or clay subsoil binder. Such plaster shall contain sufficient clay to fully bind the sand or other aggregate and any reinforcing fibers. Reinforcing fibers shall be chopped straw, sisal, hemp, animal hair or other similar approved fibers.
+
+AU104.4.3.2 Clay subsoil requirements.
+
+The suitability of clay subsoil shall be determined in accordance with the Figure 2 Ribbon Test and the Figure 3 Ball Test in the appendix of ASTM E2392/E2392M.
+
+AU104.4.4 Soil-cement plaster.
+
+Soil-cement plaster shall be composed of clay subsoil, sand, not more than 7 percent Portland cement by volume and, where provided, reinforcing fibers.
+
+AU104.4.5 Gypsum plaster.
+
+Gypsum plaster shall comply with Section R702.2.1 and shall be limited to interior use.
+
+AU104.4.6 Lime plaster.
+
+Lime plaster is any plaster with a binder composed of calcium hydroxide including Type N or S hydrated lime, hydraulic lime, natural hydraulic lime or slaked quicklime. Hydrated lime shall comply with ASTM C206. Hydraulic lime shall comply with ASTM C1707. Natural hydraulic lime shall comply with ASTM C141 and EN 459. Quicklime shall comply with ASTM C5.
+
+AU104.4.7 Clay-lime plaster.
+
+Clay-lime plaster shall be composed of refined clay or clay subsoil, sand, lime and, where provided, reinforcing fibers.
+
+AU104.4.8 Cement-lime plaster.
+
+Cement-lime plaster shall be plaster mix types CL, F or FL, as described in ASTM C926.
+
+AU104.4.9 Cement plaster.
+
+Cement plaster shall have not less than 1 part lime to 4 parts cement and be not thicker than 11/2 inches (38 mm), to ensure minimum acceptable vapor permeability
+
+SECTION AU105 COB WALLS—GENERAL
+
+AU105.1 General.
+
+Cob walls shall be designed and constructed in accordance with this section and Figure AU101.4 or an approved alternative design. In addition to the general requirements for cob walls in this section, cob structural walls shall comply with Section AU106.
+
+AU105.2 Building limitations and requirements for cob wall construction.
+
+Cob walls shall be subject to the following limitations and requirements:
+
+1.Number of stories: not more than one.
+
+2.Building height: not more than 20 feet (6096 mm).
+
+3.Seismic design categories: limited to use in Seismic Design Categories A, B and C, except where an approved engineered design is provided.
+
+4.Wall height: in accordance with Table AU105.3, and with Table AU106.11(1) for braced wall panels.
+
+5.Wall thickness, excluding finish, shall be not less than 10 inches (254 mm), not greater than 24 inches (610 mm) at the top two-thirds, not limited at the bottom third and, for structural walls, shall comply with Section AU106.2, Item 2. Wall taper is permitted in accordance with Section AU106.5, Item 1.
+
+6.Interior cob walls shall require an approved engineered design that accounts for the seismic load of the interior cob walls, except in Seismic Design Category A for walls with a height to thickness ratio less than or equal to 6.
+
+AU105.3 Out-of-plane resistance methods and unrestrained wall height limits.
+
+Cob walls shall employ a method of out-of-plane load resistance in accordance with Table AU105.3, and comply with its associated height limits and requirements.
+
+TABLE AU105.3
+
+OUT-OF-PLANE RESISTANCE METHODS AND UNRESTRAINED WALL HEIGHT LIMITS
+
+WALL TYPEa, g, h AND METHOD OF OUT-OF-PLANE LOAD RESISTANCE	FOR ULTIMATE DESIGN WIND SPEEDS (mph)	FOR SEISMIC DESIGN CATEGORIES	UNRESTRAINED COB WALL HEIGHT Hb, c, h	TOP ANCHORe SPACING (inches)	TENSION TIEf SPACING (inches)
+Absolute Limit (feet)	Limit Based on Wall Thickness Td (feet)
+Wall 1i: no anchors, no steel wall reinforcing	≤ 110	A	H ≤ 8	H ≤ 6T	None	48
+Wall 2: top anchorsj, continuous vertical 6″ × 6″ × 6″ gage steel mesh in center of wall embedded in foundation 12 inches	≤ 140	A, B, C	H ≤ 8	H ≤ 8T	12	24
+Wall Ai: top anchors, no vertical steel reinforcing	≤ 120	A, B	H ≤ 8	H ≤ 6T	12	48
+Wall Bi: top and bottom anchors, no vertical steel reinforcing	≤ 130	A, B	H ≤ 8	H ≤ 6T	12	48
+Wall C: top and bottom anchors, continuous vertical threaded rod at 4 feet on center embedded in foundation and connected to bond beam	≤ 140	A, B, C	H ≤ 8	H ≤ 8T	12	24
+Wall D: continuous vertical threaded rod at 1 foot on center embedded in foundation and connected to bond beam	≤ 140	A, B, C	H ≤ 8	H ≤ 8T	N/A	24
+Wall E: top anchors, continuous vertical 6″ × 6″ × 6″ gage steel mesh 2 inches from each face of wall embedded in foundation	≤ 140	A, B, C	H ≤ 8	H ≤ 8T	12	24
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 mile per hour = 0.447 m/s.
+
+N/A = Not Applicable
+
+a.See Table AU106.11(1) for reinforcing and anchorage specifications for wall Types A, B, C, D and E.
+
+b.H = height of the cob portion of the wall only. See Figure AU101.4. The maximum H is the absolute limit or the limit based on wall thickness, whichever is more restrictive.
+
+c.Bond beams or other horizontal restraints are capable of separating a wall into more than one unrestrained wall height with an approved engineered design.
+
+d.T = Cob wall thickness (in feet) at its minimum, without plaster.
+
+e.5/8-inch threaded rod anchors at prescribed spacing with 12-inch embedment in cob, full embedment in concrete bond beams or full penetration in wood bond beam with a nut and washer.
+
+f.Attach rafters to bond beam with 4-inch by 3-inch by 3-inch by 18 gage tension tie angles at prescribed spacing. See Figure AU106.9.5. Where rafters are attached to tension ties, roof sheathing shall be edge nailed.
+
+g.All walls shall be tested for compressive strength in accordance with Section AU106.6.
+
+h.For curved walls with an arc length to radius ratio of 1.5:1 or greater, the H/T factor shall be increased by 1, and the absolute height limit by 1 foot.
+
+i.Wall type requires a modulus of rupture test in accordance with Section AU106.7.
+
+j.See wall Type A in Table AU106.11(1) for top anchor requirements.
+
+AU105.3.1 Determination of out-of-plane loading.
+
+Out-of-plane loading for the use of Table AU105.3 shall be in accordance with the ultimate design wind speed and seismic design category requirements of Sections R301.2.1 and R301.2.2, respectively. An approved engineered design shall be required where the building is located in a special wind region or where wind design is required in accordance with Figure R301.2.1.1.
+
+AU105.3.2 Bond beams for nonstructural walls.
+
+Nonstructural cob walls shall be provided with a bond beam at the top of the wall that complies with Section AU106.9, except for requirements relating to roof and/or ceiling loads or braced wall panels.
+
+AU105.3.3 Lintels in nonstructural walls.
+
+Door, window and other openings in nonstructural cob walls shall require a lintel in accordance with Section AU106.10, except for requirements relating to roof and/or ceiling loads or braced wall panels.
+
+AU105.3.4 Reinforcing at wall openings.
+
+Reinforcing shall be installed at window, door, and similar wall openings and penetrations greater than 2 feet (610 mm) in width in accordance with Sections AU105.3.4.1 through AU105.3.4.3. Surface voids deeper than 25 percent of the wall thickness shall be considered an opening.
+
+AU105.3.4.1 Opening size limit.
+
+Openings shall not exceed 6 feet (1829 mm) in width, and the height of the cob wall below openings shall not exceed 6 feet (1829 mm) above the top of the foundation.
+
+AU105.3.4.2 Horizontal reinforcing.
+
+Two-inch by 2-inch (51 mm by 51 mm) 14-gage galvanized steel mesh shall be embedded 4 inches (102 mm) in the cob above the rough opening and below the rough opening for windows, and shall extend 12 inches (305 mm) beyond the sides of the opening. Walls below rough window openings greater than 4 feet 6 inches (1372 mm) in height shall be provided with additional horizontal reinforcing at midheight.
+
+AU105.3.4.3 Vertical reinforcing.
+
+Full-height 5/8-inch (16 mm) threaded rod shall be installed 4 inches (102 mm) from each side of the opening, centered in the thickness of the cob wall. The threaded rods shall be embedded 7 inches (178 mm) in the foundation, and 4 inches (102 mm) in concrete bond beams or shall penetrate through wood bond beams and be secured with a nut and washer. The threaded rods shall be embedded in concrete lintels or pass through a drilled hole in wood lintels.
+
+AU105.3.5 Minimum length of cob walls.
+
+Sections of cob walls between openings shall be not less than 2 feet, 6 inches (762 mm) in length. Wall sections less than 4 feet (1219 mm) and not less than 2 feet, 6 inches (762 mm) in length shall contain vertical reinforcing in accordance with Section AU105.3.4.3.
+
+AU105.4 Moisture control.
+
+Cob walls shall be protected from moisture intrusion and damage in accordance with Sections AU105.4.1 through AU105.4.5.
+
+AU105.4.1 Water-resistant barriers and vapor permeance.
+
+Cob walls shall be constructed without a membrane barrier between the cob wall and plaster to facilitate transpiration of water vapor from the wall, and to secure a mechanical bond between the cob and plaster, except as otherwise required elsewhere in this appendix. Where a water-resistant barrier is placed behind an exterior finish, it shall be considered part of the finish system and shall comply with Item 2 of Section AU104.1.2 for the combined vapor permeance rating.
+
+AU105.4.2 Horizontal surfaces.
+
+Cob walls and other cob elements shall be provided with a water-resistant barrier at weather-exposed horizontal surfaces. The water-resistant barrier shall be of a material and installation that will prevent erosion and prevent water from entering the wall system. Horizontal surfaces, including exterior window sills, sills at exterior niches and exterior buttresses, shall be sloped not less than 1 unit vertical in 12 units horizontal to drain away from cob walls or other cob elements.
+
+AU105.4.3 Separation of cob and foundation.
+
+A liquid-applied or bituminous Class II vapor retarder shall be installed between cob and supporting concrete or masonry.
+
+Exception: Where local climate, site conditions and foundation design limit ground moisture migration into the base of the cob wall, including but not limited to the use of a moisture barrier or capillary break between the supporting concrete or masonry and the earth.
+
+AU105.4.4 Separation of cob and finished grade.
+
+Cob shall be not less than 8 inches (203 mm) above finished grade.
+
+Exception: The minimum separation shall be 4 inches (102 mm) in dry climate zones as defined in Section N1101.7.2, and shall be 2 inches (51mm) on walls that are not weather exposed.
+
+AU105.4.5 Installation of windows and doors.
+
+Windows and doors shall be installed in accordance with the manufacturer’s instructions to a wooden frame of not less than nominal 2-inch by 4-inch (51 mm by 102 mm) wood members anchored into the cob wall with 16d galvanized nails half-driven at a maximum 6-inch (152 mm) spacing, with the protruding half embedded in the cob. The wood frame shall be embedded not less than 11/2 inches (38 mm) in the cob and shall be set in from each face of the wall not less than 3 inches (76 mm). Alternative window and door installation methods shall be capable of resisting the wind loads in Table R301.2.1(1). Windows and doors in cob walls shall be installed so as to mitigate the passage of air or moisture into or through the wall system. Window sills shall comply with Section AU105.4.2.
+
+AU105.5 Inspections.
+
+In addition to ensuring compliance with Section R109.1, the building official shall inspect the following aspects of cob construction:
+
+1.Anchors and vertical and horizontal reinforcing in cob walls, where required in accordance with Tables AU105.3 and AU106.11(1) and Sections AU105.3.4 through AU105.3.5.
+
+2.Reinforcing in any concrete bond beams or lintels, in accordance with Section AU106.9.2 and Table AU106.10.
+
+SECTION AU106 COB WALLS—STRUCTURAL
+
+AU106.1 General.
+
+Cob structural walls shall be in accordance with the prescriptive provisions of this section. Designs or portions of designs not complying with this section shall require an approved engineered design.
+
+AU106.2 Requirements for cob structural walls.
+
+In addition to the requirements of Section AU105.2, cob structural walls shall be subject to the following:
+
+1.Wall height: shall be in accordance with Table AU105.3 for load-bearing cob walls or Table AU106.11(1) for cob braced wall panels, as applicable and most restrictive.
+
+2.Wall thickness: shall be in accordance with Sections AU105.2, Item 5 and Section AU106.8.1 for load-bearing cob walls or Table AU106.11(1) for cob braced wall panels, as applicable and most restrictive.
+
+3.Braced wall panel lengths: for buildings using cob braced wall panels, the greater of the values determined in accordance with Table AU106.11(2) for wind loads and Table AU106.11(3), AU106.11(4) or AU106.11(5) for seismic loads shall be used.
+
+AU106.3 Loads and other limitations.
+
+Live and dead loads and other limitations shall be in accordance with Section R301, except that the dead load for cob walls shall be determined by Equation AU-1.
+
+CWDL = Cob wall dead load (in pounds per lineal foot of wall).
+
+H = Height of cob portion of wall (in feet).
+
+Tavg = Average thickness of wall (in feet).
+
+D = Density of cob = 110 (in pounds per cubic foot), unless a lesser value at equilibrium moisture content is demonstrated to the building official.
+
+AU106.4 Foundations.
+
+Foundations for cob walls shall be in accordance with Chapter 4. The width of foundations for cob walls shall be not less than the width of the cob at its base, excluding finish.
+
+AU106.5 Wall taper, straightness and surface voids for cob walls.
+
+Cob walls shall be in accordance with the following:
+
+1.Cob structural and nonstructural walls shall be vertical or shall taper from bottom to top with the wall thickness in accordance with Section AU105.2, Item 5 and the wall height in accordance with Section AU105.2, Item 4.
+
+2.Cob structural and nonstructural walls shall be straight or curved. Curved braced wall panels shall be in accordance with Sections AU106.11.2 and AU106.11.3.
+
+3.Niches and other surface voids in load-bearing walls are limited to 12 inches (305 mm) in width and height and 25 percent of the wall thickness, and shall be located in the top two-thirds of the wall. Surface voids that exceed these limits shall be considered wall openings, and shall receive a lintel in accordance with Section AU106.10 and be reinforced in accordance with Section AU105.3.4. Surface voids are prohibited in braced wall panels.
+
+AU106.6 Compressive strength of cob structural and nonstructural walls.
+
+All cob walls shall have a minimum compressive strength of 60 psi (414 kPa). Cob in walls used as braced wall panels shall have a minimum compressive strength of 85 psi (586 kPa).
+
+AU106.6.1 Demonstration of compressive strength.
+
+The compressive strength of the cob mix to be used in structural walls and nonstructural walls as required in Section AU106.6 shall be demonstrated to the building official before the placement of cob onto walls, with compressive strength tests and an associated report by an approved laboratory or with an approved on-site test as follows:
+
+1.Five samples of the proposed cob mix shall be placed moist to completely fill a 4-inch by 4-inch by 4-inch (102 mm by 102 mm by 102 mm) form and dried to ambient moisture conditions.
+
+2.Samples shall not be oven dried.
+
+3.Any opposite faces shall be faced with plaster of paris if needed to achieve smooth, parallel faces, after which the sample shall reach ambient moisture conditions before testing.
+
+4.The horizontal cross section of the dried sample as tested, and the maximum applied load at failure shall be used to calculate the sample’s compressive strength.
+
+5.The fourth-lowest value shall be used to determine the mix’s compressive strength.
+
+AU106.7 Modulus of rupture of cob structural walls.
+
+Cob in walls used as braced wall panels shall have a minimum modulus of rupture of 50 pounds per square inch (345 kPa).
+
+AU106.7.1 Demonstration of modulus of rupture.
+
+The modulus of rupture of cob used in structural walls shall be demonstrated to the building official before the placement of cob onto walls, with modulus of rupture tests and an associated report by an approved laboratory or with an approved on-site test as follows:
+
+1.Five samples of the proposed cob mix shall be placed moist to completely fill a 6-inch by 6-inch by 12-inch (152 mm by 152 mm by 305 mm) form and dried to indoor ambient moisture conditions.
+
+2.Samples shall not be oven dried.
+
+3.Each sample shall be tested with the 12-inch (305 mm) dimension horizontal.
+
+4.The fourth-lowest value shall be used to determine if the mix meets the minimum required modulus of rupture.
+
+AU106.8 Bearing capacity.
+
+The allowable bearing capacity for cob load-bearing walls supporting vertical roof and/or ceiling loads imposed in accordance with Section R301 shall be determined by Equation AU-2.
+
+BC = Allowable bearing capacity of wall (in pounds per lineal foot of wall).
+
+C = Compressive strength (in psi) as determined in accordance with Section AU106.6.
+
+Tmin = Thickness of wall (in feet) at its minimum.
+
+H = Height of cob portion of wall (in feet).
+
+Tavg = Average thickness of wall (in feet).
+
+D = Density of cob = 110 (in pounds per cubic foot), unless a lesser value at equilibrium moisture content is demonstrated.
+
+AU106.8.1 Support of uniform loads.
+
+Uniform roof and/or ceiling loads shall be supported by cob load-bearing walls not exceeding their allowable bearing capacity, as demonstrated in accordance with Equation AU-3.
+
+BL = Design load on the wall (in pounds per lineal foot) determined in accordance with Sections R301.4 and R301.6.
+
+BC = Allowable bearing capacity of wall (in pounds per lineal foot of wall) determined in accordance with Section AU106.8.
+
+AU106.8.2 Support of concentrated loads.
+
+Concentrated roof and ceiling loads shall be distributed by structural elements capable of distributing the loads to the cob load-bearing wall and within its allowable bearing capacity as determined in accordance with Section AU106.8. Concentrated loads over lintels or over bond beams spanning openings shall require an approved engineered design.
+
+AU106.9 Bond beams.
+
+Cob structural walls shall require a bond beam at the top of the wall in accordance with Section AU106.9.1, AU106.9.2 or AU106.9.3, and shall be anchored to the cob below in accordance with Tables AU105.3, AU106.11(1) and AU106.12 as applicable and most restrictive. Bond beams spanning openings shall be in accordance with Section AU106.9.4.
+
+AU106.9.1 Wood bond beams.
+
+Wood bond beams shall be not less than nominal 4 inches high by 8 inches wide and shall comply with Sections AU106.9.1.1 through AU106.9.1.3.
+
+AU106.9.1.1 Wood species and grade.
+
+Wood bond beams shall be of a species with an extreme fiber in bending (Fb) of not less than 850 psi (5.9 MPa), a modulus of elasticity (E) of not less than 1,300,000 psi (8964 MPa), and No. 2 grade or better. Composite lumber bond beams shall have an Fb of not less than 850 psi (5.9 MPa), and an E of not less than 1,300,000 psi (8964 MPa).
+
+AU106.9.1.2 Discontinuity.
+
+Discontinuous wood bond beams shall be spliced on top with a metal strap with not less than the allowable wind or seismic load tension capacity in accordance with the following, whichever is more restrictive:
+
+1.For seismic design categories: A, 2,500 pounds (11 kN); B, 4,500 pounds (20 kN); C, 6,000 pounds (26.7 kN).
+
+2.For braced wall line lengths, when wind governs: 10 feet, 2,500 pounds (11 kN); 20 feet, 3,400 pounds (15.1 kN); 30 feet, 5,000 pounds (22.2 kN).
+
+AU106.9.1.3 Corners and curved walls.
+
+Wood bond beams at corners and discontinuities atop curved walls shall be connected across their exterior faces with a metal strap with a capacity of not less than that determined in accordance with Section AU106.9.1.2.
+
+AU106.9.2 Concrete bond beams.
+
+Concrete bond beams shall be not less than 6 inches (152 mm) high by 8 inches (305 mm) wide. Concrete bond beams shall be reinforced with two No. 4 bars, 2 inches (51 mm) clear from the bottom and 2 inches (51 mm) clear from the sides. Lap splices shall comply with Table R608.5.4(1). Reinforcing at corners shall be in accordance with the horizontal reinforcing requirements in Section R608.6.4. The concrete shall have a compressive strength of not less than 2,500 pounds per square inch (17.2 MPa) at 28 days.
+
+AU106.9.3 Other bond beams.
+
+Bond beams of other materials, including earthen materials, require an approved engineered design.
+
+AU106.9.4 Bond beams spanning openings.
+
+Bond beams that support uniform roof and/or ceiling loads and span openings in cob walls shall be in accordance with Table AU106.10. Bond beams shall be continuous across the opening and not less than 1 foot (305 mm) beyond each side of the opening.
+
+AU106.9.5 Connection of roof framing to bond beams.
+
+Roof and ceiling framing shall be attached to bond beams in accordance with Table R602.3(1), Items 2 and 6, and Figure AU106.9.5. Roof sheathing shall be attached to roof framing in accordance with Figure AU106.9.5. A minimum nominal 2-inch by 6-inch (51 mm by 152 mm) wood plate shall be installed on concrete bond beams with 5/8-inch (16 mm) diameter anchor bolts with 5-inch (127 mm) embedment at 2 feet (610 mm) on center to allow the required fastening of roof and ceiling framing, including tension ties and straps.
+
+FIGURE AU106.9.5
+
+CONNECTION OF ROOF FRAMING TO BOND BEAMS
+
+AU106.9.6 Bond beams and connections at gable and shed roof end walls.
+
+Bond beams and connections at end walls of buildings with gable or shed roofs shall comply with Figure AU106.9.6 and the following:
+
+1.End walls shall not exceed 20 feet (6096 mm) in length.
+
+2.Bond beams shall be continuous and straight for the entire wall line.
+
+3.Wood bond beams shall comply with the following:
+
+3.1.Not less than nominal 4 inches by 8 inches (102 mm by 203 mm) where wind design governs in accordance with Table AU106.11(2) and where seismic design governs in accordance with Table AU106.11(3), AU106.11(4) or AU106.11(5) for wall lengths less than or equal to 20 feet (6096 mm) in Seismic Design Category A or wall lengths less than or equal to 10 feet (3048 mm) in Seismic Design Categories B and C.
+
+3.2.Not less than nominal 4 inches by 10 inches (102 mm by 254 mm) for wall lengths less than or equal to 20 feet (6096 mm) in Seismic Design Category B.
+
+3.3.Not less than nominal 6 inches by 12 inches (152 mm by 305 mm) or 4 inches by 16 inches (102 mm by 406 mm) for wall lengths less than or equal to 20 feet (6096 mm) in Seismic Design Category C.
+
+3.4.Corners shall be connected in accordance with Section AU106.9.3.
+
+4.Concrete bond beams when used shall be in accordance with Section AU106.9.2 in Seismic Design Categories A, B and C and for ultimate design wind speeds less than or equal to 140 mph (63.6 m/s).
+
+5.Walls between the bond beam and roof shall be of wood-framed construction in accordance with Section R602. The ratio of its greatest height to its length shall not exceed 1:2. The wall shall not contain openings.
+
+FIGURE AU106.9.6
+
+CONNECTIONS AT GABLE AND SHED ROOF END WALLS
+
+AU106.10 Lintels.
+
+Door, window and other openings in load-bearing cob walls shall be provided with a lintel of wood or concrete in accordance with Table AU106.10.
+
+TABLE AU106.10
+
+LINTELS AND BOND BEAMS SPANNING OPENINGS
+
+GROUND SNOW LOAD ≤ 30 PSF	WOOD:•Fb ≥ 850 psi•E ≥ 1,300,000 psi•No. 2 Grade or better•Oriented flat•1 piece or 2 equal-width pieces•Extend 1 foot beyond opening sides	CONCRETE: •2500 psi compressive strength•Height = 6 inches•Extend 1 foot beyond opening sides•Reinforcement two No. 4 barsa•2 inches clear from bottom•2 inches clear from sidesa
+Building Width (feet)	Cob above Lintel (feet)	Total Cob Wall and Plaster Thickness (inches)	Size of Wood Lintel or Bond Beam—H × W (nominal inches)	Width of Concrete Lintel or Bond Beam (inches)
+For Span ≤ 4 ft	For Span ≤ 6 ft	For Span ≤ 6 ft	For Span ≤ 8 ft
+10	0	≤ 27	4 × 8	4 × 8	8	8
+10	1	15	4 × 12	4 × 12	12	12
+10	1	19	4 × 16	4 × 16	16	16
+10	1	27	4 × 24	4 × 24	24	24
+10	2	15	4 × 12	6 × 12	12	12
+10	2	19	4 × 16	6 × 16	16	16
+10	2	27	4 × 24	4 × 24	24	24
+20	0	≤ 27	4 × 8	6 × 8	8	8
+20	1	15	4 × 12	6 × 12	12	12
+20	1	19	4 × 16	6 × 16	16	16
+20	1	27	4 × 24	4 × 24	24	24
+20	2	15	4 × 12	6 × 12	12	NP
+20	2	19	4 × 16	6 × 16	16	NP
+20	2	27	4 × 24	6 × 24	24	NP
+30	0	≤ 27	4 × 8	6 × 8	8	NP
+30	1	15	4 × 12	6 × 12	12	NP
+30	1	19	4 × 13	6 × 16	16	NP
+30	1	27	4 × 24	6 × 24	24	NP
+30	2	15	4 × 12	6 × 12	12	NP
+30	2	19	4 × 16	6 × 16	16	NP
+30	2	27	4 × 24	6 × 24	24	NP
+
+•Fb ≥ 850 psi
+
+•E ≥ 1,300,000 psi
+
+•No. 2 Grade or better
+
+•Oriented flat
+
+•1 piece or 2 equal-width pieces
+
+•Extend 1 foot beyond opening sides
+•Fb ≥ 850 psi
+
+•E ≥ 1,300,000 psi
+
+•No. 2 Grade or better
+
+•Oriented flat
+
+•1 piece or 2 equal-width pieces
+
+•Extend 1 foot beyond opening sides
+
+•2500 psi compressive strength
+
+•Height = 6 inches
+
+•Extend 1 foot beyond opening sides
+
+•Reinforcement two No. 4 barsa
+
+•2 inches clear from bottom
+
+•2 inches clear from sidesa
+•2500 psi compressive strength
+
+•Height = 6 inches
+
+•Extend 1 foot beyond opening sides
+
+•Reinforcement two No. 4 barsa
+
+•2 inches clear from bottom
+
+•2 inches clear from sidesa
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square inch = 6.895 kPA.
+
+NP = Not Permitted.
+
+a.Concrete bond beams spanning openings, and lintels greater than 16 inches in width, shall have an additional No. 4 bar in the center of their width.
+
+AU106.11 Cob braced wall panels.
+
+Cob braced wall panels shall be in accordance with Section R602.10 and Tables AU106.11(1), AU106.11(2), AU106.11(3), AU106.11(4) and AU106.11(5). Wind design criteria shall be in accordance with Section R301.2.1. Seismic design criteria shall be in accordance with Section R301.2.2. An approved engineered design shall be required in accordance with Section R301.2.1 where the building is located in a special wind region or where wind design is required in accordance with Figure R301.2.1.1.
+
+TABLE AU106.11(1)
+
+COB BRACED WALL PANEL TYPES
+
+WALL TYPEa  DESIGNATION	ANCHORS TO FOUNDATIONb	ANCHORS TO BOND BEAMc	VERTICAL STEEL REINFORCINGb, c	HORIZONTAL STEEL REINFORCING	MAXIMUM HEIGHT Hd (in feet)	MAXIMUM ASPECT RATIO (H:L)
+A	none	5/8″ threaded rod @ 12″; 4″ from wall ends; 12″ embedment in cob	none	none	7e	1:1
+B	#5 bar @ 12″; 16″ embedment in cob	5/8″ threaded rod @ 12″; 4″ from wall ends; 16″ embedment in cob; 2″ × 2″ × 1/4″ washer and nut at cob end	none	2″ × 2″ × 14 gage welded wire meshf @ 18″; 6″ from foundation and bond beam	7e	1:1
+C	#5 bar @ 12″; 16″ embedment in cob	5/8″ threaded rod @ 12″; 16″ embedment in cob	5/8″ threaded rod; 4″ from each end of braced wall panel; continuous from foundation to bond beam	2″ × 2″ × 14 gage welded wire meshf @ 18″; 6″ from foundation and bond beam	7e	2:1
+D	(see vertical steel reinforcing)	(see vertical steel reinforcing)	5/8″ threaded rod; 4″ from each end of braced wall panel and @ 12″; continuous from foundation to bond beam	2″ × 2″ × 14 gage welded wire meshf @ 18″; 6″ from foundation and bond beam	7e	2:1
+E	6″ × 6″× 6 gage welded wire mesh; 12″ embedment in foundation	5/8″ threaded rod @ 12″; 4″ from wall ends; 12″ embedment in cob	6″ × 6″ × 6 gage welded wire mesh; 2″ from each wall face	none	7.5	1:1
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+
+a.Braced wall panel Types A, B, C and D shall be not less than 16 inches thick. Braced wall panel Type E shall be not less than 12 inches thick. All braced wall panels shall be not greater than 24 inches thick.
+
+b.Not less than 8-inch embedment into foundation, unless otherwise stated.
+
+c.Not less than 4-inch embedment into concrete bond beams. Full penetration through wood bond beam, secured with nut and washer.
+
+d.H = height of the cob portion of the wall only. See Figure AU101.4.
+
+e.Maximum height shall be 8 feet when wall thickness is increased to 18 inches.
+
+f.Galvanized mesh.
+
+TABLE AU106.11(2)
+
+BRACING REQUIREMENTS FOR COB BRACED WALL PANELS BASED ON WIND SPEED
+
+•EXPOSURE CATEGORY Bd•25-FOOT MEAN ROOF HEIGHT•10-FOOT EAVE-TO-RIDGE HEIGHTd•10-FOOT WALL HEIGHTd•2 BRACED WALL LINESd	MINIMUM TOTAL LENGTH (FEET) OF COB BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d
+Ultimate Design Wind Speed (mph)	Story Location	Braced Wall Line Spacing (feet)	Cob Braced Wall Panele A; (aspect ratio H:L ≤ 1:1)	Cob Braced Wall Panele B; (aspect ratio H:L ≤ 1:1)	Cob Braced Wall Panele C, D; (aspect ratio H:L ≤ 2:1)	Cob Braced Wall Panele E; (aspect ratio H:L ≤ 1:1)
+≤ 110	One-story building	10	6.0	6.0	3.7	6.0
+≤ 110	One-story building	20	7.9	7.4	7.4	6.0
+≤ 110	One-story building	30	11.8	11.0	11.0	6.9
+≤ 115	One-story building	10	6.0	6.0	4.1	6.0
+≤ 115	One-story building	20	8.7	8.1	8.1	6.0
+≤ 115	One-story building	30	13.0	12.1	12.1	7.6
+≤ 120	One-story building	10	6.0	6.0	4.4	6.0
+≤ 120	One-story building	20	9.4	8.8	8.8	6.0
+≤ 120	One-story building	30	14.1	13.1	13.1	8.3
+≤ 130	One-story building	10	6.0	6.0	5.1	6.0
+≤ 130	One-story building	20	11.0	10.3	10.3	6.5
+≤ 130	One-story building	30	16.5	15.4	15.4	9.7
+≤ 140​​​​​​​	One-story building	10	6.0	6.0	5.9	6.0
+≤ 140​​​​​​​	One-story building	20	12.7	11.9	11.9	7.5
+≤ 140​​​​​​​	One-story building	30	19.1	17.8	17.8	11.2
+
+•EXPOSURE CATEGORY Bd
+
+•25-FOOT MEAN ROOF HEIGHT
+
+•10-FOOT EAVE-TO-RIDGE HEIGHTd
+
+•10-FOOT WALL HEIGHTd
+
+•2 BRACED WALL LINESd
+•EXPOSURE CATEGORY Bd
+
+•25-FOOT MEAN ROOF HEIGHT
+
+•10-FOOT EAVE-TO-RIDGE HEIGHTd
+
+•10-FOOT WALL HEIGHTd
+
+•2 BRACED WALL LINESd
+
+For SI: 1 foot = 304.8 mm, 1 mile per hour = 0.447 m/s.
+
+a.Linear interpolation shall be permitted.
+
+b.Braced wall panels shall be without openings.
+
+c.Braced wall panel Types A, B and E shall have an aspect ratio (H:L) ≤ 1:1. Braced wall panel Types C and D shall have an aspect ratio (H:L) ≤ 2:1.
+
+d.Subject to applicable wind adjustment factors associated with Items 1 and 2 of Table R602.10.3(2).
+
+e.Cob braced wall panel types indicated shall comply with Section AU106.11 and Table AU106.11(1).
+
+TABLE AU106.11(3)
+
+BRACING REQUIREMENTS FOR COB BRACED WALL PANELS BASED ON SEISMIC DESIGN CATEGORY A
+
+•SOIL CLASS Df•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)•COB WALL HEIGHT PER TABLE AU106.11(1)•15 PSF ROOF-CEILING DEAD LOADd•STORY LOCATION: ONE-STORY BUILDING•SEISMIC DESIGN CATEGORY A•1.5″ PLASTER THICKNESS EACH SIDEg	MINIMUM TOTAL LENGTH (FEET) OF COB BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d, e
+Braced Wall Line Spacing (feet)	Braced Wall Line Length (feet)	Min. Braced Wall Line % Openings	Min. Perpendicular Braced Wall Line % Openings	Cob Braced Wall Panele A, B	Cob Braced Wall Panele C, D	Cob Braced Wall Panele E
+10	30	0	0	—	3.4	6.0
+20	20	0	0	—	3.5	6.0
+20	30	0	0	—	4.5	6.0
+30	30	0	0	—	5.6	6.0
+
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SEISMIC DESIGN CATEGORY A
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SEISMIC DESIGN CATEGORY A
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square foot = 0.0479 kPa.
+
+a.Interpolation is not permitted.
+
+b.Braced wall panels shall be without openings.
+
+c.Braced wall panel Types A, B and E shall have an aspect ratio (H:L) ≤ 1:1. Braced wall panel Types C and D shall have an aspect ratio (H:L) ≤ 2:1.
+
+d.Subject to applicable seismic adjustment factors associated with Item 5 in Table R602.10.3(4).
+
+e.Cob braced wall panel types indicated shall comply with Section AU106.11 and Table AU106.11(1).
+
+f.Wall bracing lengths are based on a soil site class D. Interpolation of bracing lengths between SDS values associated with the seismic design categories is allowable where a site-specific SDS value is determined in accordance with Section 1613 of the International Building Code.
+
+g.For total plaster thickness between 3 inches and 6 inches, the minimum total length of braced wall panels shall be multiplied by 1.2.
+
+TABLE AU106.11(4)
+
+BRACING REQUIREMENTS FOR COB BRACED WALL PANELS BASED ON SEISMIC DESIGN CATEGORY B
+
+•SOIL CLASS Df•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)•COB WALL HEIGHT PER TABLE AU106.11(1)•15 PSF ROOF-CEILING DEAD LOADd•STORY LOCATION: ONE-STORY BUILDING•SESIMIC DESIGN CATEGORY B•1.5″ PLASTER THICKNESS EACH SIDEg	MINIMUM TOTAL LENGTH (FEET) OF COB BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d, e
+Braced Wall Line Spacing (feet)	Braced Wall Line Length (feet)	Min. Braced Wall Line % Openings	Min. Perpendicular Braced Wall Lines % Openings	Cob Braced Wall Panele A, B	Cob Braced Wall Panele C, D	Cob Braced Wall Panele E
+10	10	0	0	6.0	3.2	6.0
+​​​​​​​10	20	0	0	6.0	4.9	6.0
+​​​​​​​10	20	50	0	6.0	3.5	6.0
+​​​​​​​10	30	0	0	7.1	6.6	6.0
+​​​​​​​10	30	50	0	6.0	4.5	6.0
+20	10	0	0	6.0h	4.9h	6.0
+20​​​​​​​	10	0	50	6.0	3.5	6.0
+20​​​​​​​	10	50	0	NP	4.2	NP
+20​​​​​​​	10	50	50	NP	3.0	NP
+20​​​​​​​	20	0	0	7.4	6.9	6.0
+20​​​​​​​	20	0	50	6.0	5.5	6.0
+20​​​​​​​	20	50	0	6.0	5.5	6.0
+20​​​​​​​	20	50	50	6.0	4.1	6.0
+20​​​​​​​	30	0	0	9.4	8.8	6.0
+20​​​​​​​	30	0	50	7.9	7.4	6.0
+20​​​​​​​	30	50	0	7.2	6.7	6.0
+20​​​​​​​	30	50	50	6.0	5.3	6.0
+30	10	0	0	7.1	6.6	6.0
+30	20	0	0	9.4	8.8	6.0
+30	20	0	50	7.2	6.7	6.0
+30	20	50	0	7.9	7.4	6.0
+30	30	0	0	11.8	11.0	6.0
+30	30	0	50	9.5	8.9	6.0
+30	30	50	0	9.5	8.9	6.0
+30	30	50	50	7.3	6.8	6.0
+
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SESIMIC DESIGN CATEGORY B
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SESIMIC DESIGN CATEGORY B
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square foot = 0.0479 kPa.
+
+NP = Not Permitted.
+
+a.Interpolation is not permitted.
+
+b.Braced wall panels shall be without openings.
+
+c.Braced wall panel Types A, B and E shall have an aspect ratio (H:L) ≤ 1:1. Braced wall panel Types C and D shall have an aspect ratio (H:L) ≤ 2:1.
+
+d.Subject to applicable seismic adjustment factors associated with Item 5 in Table R602.10.3(4).
+
+e.Cob braced panel types indicated shall comply with Section AU106.11 and Table AU106.11(1).
+
+f.Wall bracing lengths are based on a soil site class D. Interpolation of bracing lengths between SDS values associated with the seismic design categories is allowable where a site-specific SDS value is determined in accordance with Section 1613 of the International Building Code.
+
+g.For total plaster thicknesses 3 inches to 6 inches, the minimum total length of braced wall panels shall be multiplied by 1.2.
+
+h.Total plaster thicknesses shall be not greater than 3 inches. Substitute 15/32″ roof sheathing and 10d at 6″ edge nailing for requirements in Table R602.3(1).
+
+TABLE AU106.11(5)
+
+BRACING REQUIREMENTS FOR COB BRACED WALL PANELS BASED ON SEISMIC DESIGN CATEGORY C
+
+•SOIL CLASS Df•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)•COB WALL HEIGHT PER TABLE AU106.11(1)•15 PSF ROOF-CEILING DEAD LOADd•STORY LOCATION: ONE-STORY BUILDING•SESIMIC DESIGN CATEGORY C•1.5″ PLASTER THICKNESS EACH SIDEg	MINIMUM TOTAL LENGTH (FEET) OF COB BRACED WALL PANELS REQUIRED ALONG EACH BRACED WALL LINEa, b, c, d, e
+Braced Wall Line Spacing (feet)	Braced Wall Line Length (feet)	Min. Braced Wall Line % Openings	Min. Perpendicular Braced Wall Lines % Openings	Cob Braced Wall Panele A, B	Cob Braced Wall Panele C, D	Cob Braced Wall Panele E
+10	10	0	0	8.3h	7.8h	6.0
+10	10	0	50	6.5	6.1	6.0
+10	10	25	0	7.4h	6.9h	6.0
+10	10	50	50	NP	4.4	6.0
+10	15	0	0	10.6	9.9	6.0
+10	15	0	50	8.7	8.2	6.0
+10	15	50	0	NP	7.3	6.0
+10	15	50	50	6.0	5.6	6.0
+10	20	0	0	12.8	11.9	6.0
+10	20	0	50	11.0	10.2	6.0
+10	20	50	0	9.1	8.5	6.0
+10	20	50	50	7.3	6.8	6.0
+15	10	25	0	NP	NP	6.0h
+15	10	0	50	7.8	7.3	6.0
+15	10	50	0	NP	NP	NP
+15	10	50	50	NP	NP	NP
+15	15	0	0	12.9	12.1	6.0
+15	15	0	50	10.2	9.5	6.0
+15	15	50	0	NP	NP	6.0
+15	15	50	50	7.5	7.0	6.0
+15	20	0	0	15.3	14.3	6.0
+15	20	0	50	12.6	11.7	6.0
+15	20	50	0	NP	NP	6.0
+15	20	50	50	8.9	8.3	6.0
+20	10	25	0	NP	NP	NP
+20	10	0	50	9.1	8.5	6.0
+20	10	50	0	NP	NP	NP
+20	10	50	50	NP	NP	NP
+20	15	0	0	NP	14.3h	6.0h
+20	15	0	50	11.7h	10.9h	6.0
+20	15	50	0	NP	NP	6.0h
+20	15	50	50	NP	NP	6.0
+20	20	0	0	17.8	16.7	6.9
+20	20	0	50	14.2	13.3	6.0
+20	20	50	0	NP	NP	6.0
+20	20	50	50	NP	9.9	6.0
+
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SESIMIC DESIGN CATEGORY C
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+•SOIL CLASS Df
+
+•TOTAL WALL HEIGHT = 10 FEET (INCLUDING STEM WALL AND BOND BEAM)
+
+•COB WALL HEIGHT PER TABLE AU106.11(1)
+
+•15 PSF ROOF-CEILING DEAD LOADd
+
+•STORY LOCATION: ONE-STORY BUILDING
+
+•SESIMIC DESIGN CATEGORY C
+
+•1.5″ PLASTER THICKNESS EACH SIDEg
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square foot = 0.0479 kPa.
+
+NP = Not Permitted.
+
+a.Interpolation is not permitted.
+
+b.Braced wall panels shall be without openings.
+
+c.Braced wall panel Types A, B and E shall have an aspect ratio (H:L) ≤ 1:1. Braced wall panel Types C and D shall have an aspect ratio (H:L) ≤ 2:1.
+
+d.Subject to applicable seismic adjustment factors associated with Item 5 in Table R602.10.3(4).
+
+e.Cob braced panel types indicated shall comply with Section AU106.11 and Table AU106.11(1).
+
+f.Wall bracing lengths are based on a soil site class D. Interpolation of bracing lengths between SDS values associated with the seismic design categories is allowable where a site-specific SDS value is determined in accordance with Section 1613 of the International Building Code.
+
+g.For total plaster thicknesses 3″ to 6″, multiply the minimum total length of braced wall panels by 1.2.
+
+h.Total plaster thickness shall not be greater than 3 inches. Substitute 15/32″ roof sheathing and 10d at 6″ edge nailing for requirements in Table R602.3(1).
+
+AU106.11.1 Nonorthogonal braced wall panels.
+
+Braced wall panels at an angle to the orthogonal braced wall lines shall be considered to contribute to the minimum total braced wall lengths in Tables AU106.11(2), AU106.11(3), AU106.11(4) and AU106.11(5), as follows:
+
+1.A braced wall panel not more than 45 degrees and greater than 30 degrees to an adjacent orthogonal braced wall line shall contribute 50 percent of its length to that line.
+
+2.A braced wall panel not more than 30 degrees to an orthogonal braced wall line shall contribute 65 percent of its length to that line.
+
+3.A braced wall panel greater than 45 degrees and not more than 60 degrees to an orthogonal braced wall line shall contribute 35 percent of its length to that line.
+
+4.The angle of a curved braced wall panel to a braced wall line shall be determined with the chord of that section of wall, connecting the end points of the arc at the center of the wall.
+
+AU106.11.2 Braced wall lines for buildings with curved walls.
+
+Buildings with curved cob walls shall contain two braced wall lines in two orthogonal directions. The spacing of the braced wall lines for wind design in Table AU106.11(2) and the spacing and length of the braced wall lines for seismic design in Tables AU106.11(3), AU106.11(4) and AU106.11(5) shall be the maximum widths of the building in the two orthogonal directions.
+
+AU106.11.3 Radius, thickness and length of curved braced wall panels.
+
+Cob curved braced wall panels shall have an inside radius of not less than 5 feet (1524 mm), shall be of the thickness required in Table AU106.11(1) and of the length determined in accordance with Section AU106.11. The length of the curved wall shall be considered to be the length of the arc at the center of the wall, in accordance with Figure AU106.11.3 and determined by Equation AU-4.
+
+ARCC = Length of arc at center of wall (in feet).
+
+RC = Radius at center of wall = Ri + 0.5T (in feet).
+
+Ri =  Inside radius of wall (in feet).
+
+T = Thickness of wall without finish (in feet).
+
+A = Angle of extent of braced wall panel from the center of the arc (in degrees).
+
+FIGURE AU106.11.3
+
+CURVED BRACED WALL PANEL
+
+AU106.12 Resistance to wind uplift forces.
+
+Cob walls that resist uplift forces from the roof assembly, as determined in accordance with Section R802.11, shall be in accordance with Table AU106.12.
+
+TABLE AU106.12
+
+ANCHORAGE OF BOND BEAMS FOR WIND UPLIFT
+
+ANCHORS:•5/8″ ALL THREAD AT 12″ O.C.a, b•2″ × 2″ × 1/4″ WASHERS AND NUT AT END IN COB•4″ EMBEDMENT IN CONCRETE BOND BEAMS•FULL PENETRATION THROUGH WOOD BOND BEAMS WITH 2″ × 2″ × 1/4″ WASHER AND NUT
+WIND UPLIFT FORCE FROM TABLE R802.11 (PLF)	ANCHORAGE DEPTH IN INCHES, PER WALL WIDTH AND WIND UPLIFT FORCE
+≤ 12″ Wall Widthc	≤ 16″ Wall Widthc	≤ 24″ wall widthc
+< 75	16	12	12
+< 100	24	16	12
+< 150	48 o.c. continuous from foundation to bond beamd	24	16
+< 200	48 o.c. continuous from foundation to bond beamd	48 o.c. continuous from foundation to bond beamd	24
+
+•5/8″ ALL THREAD AT 12″ O.C.a, b
+
+•2″ × 2″ × 1/4″ WASHERS AND NUT AT END IN COB
+
+•4″ EMBEDMENT IN CONCRETE BOND BEAMS
+
+•FULL PENETRATION THROUGH WOOD BOND BEAMS WITH 2″ × 2″ × 1/4″ WASHER AND NUT
+•5/8″ ALL THREAD AT 12″ O.C.a, b
+
+•2″ × 2″ × 1/4″ WASHERS AND NUT AT END IN COB
+
+•4″ EMBEDMENT IN CONCRETE BOND BEAMS
+
+•FULL PENETRATION THROUGH WOOD BOND BEAMS WITH 2″ × 2″ × 1/4″ WASHER AND NUT
+
+For SI: 1 inch = 25.4 mm.
+
+a.For wood bond beams a maximum of 6 inches from bond beam ends.
+
+b.For minimum 6-inch by 8-inch concrete bond beams, at 18″ o.c. for wind uplift forces less than 75 pounds per linear foot, and at 16″ o.c. for wind uplift forces less than 100 pounds per linear foot.
+
+c.Excluding finishes.
+
+d.With 7-inch embedment in foundation, 4-inch embedment in concrete bond beam or full penetration through wood bond beam with 2-inch by 2-inch by 1/4-inch washer and nut.
+
+AU106.13 Post-and-beam with cob infill.
+
+Post-and-beam with cob infill wall systems shall be in accordance with an approved engineered design.
+
+AU106.14 Buttresses.
+
+Cob buttresses that are intended to provide out-of-plane wall bracing or additional capacity for braced wall panels shall be in accordance with an approved engineered design.
+
+SECTION AU107 COB FLOORS
+
+AU107.1 Cob floors.
+
+Cob floors supported by grade shall be in accordance with an approved specification. Straw shall not be required in the material mix.
+
+SECTION AU108 FIRE RESISTANCE
+
+AU108.1 Fire-resistance rating.
+
+Cob walls are not fire-resistance rated.
+
+AU108.2 Clearance to fireplaces and chimneys.
+
+Cob walls or other cob surfaces shall not require clearance to fireplaces and chimneys, except where clearance to noncombustibles is required by the manufacturer’s instructions.
+
+SECTION AU109 THERMAL PERFORMANCE
+
+AU109.1 Thermal characteristics.
+
+Cob walls shall be classified as mass walls in accordance with Section N1102.2.5 and shall meet the R-value requirements for mass walls in Table N1102.1.3.
+
+AU109.2 Thermal resistance.
+
+The unit R-value for cob walls with a density of 110 pounds per cubic foot (1762 kg/m3) shall be R-0.22 per inch of cob thickness. Walls that vary in thickness along their height or length shall use the average thickness of the wall to determine its R-value. The thermal resistance values of air films and finish materials or additional insulation shall be added to the cob wall’s thermal resistance value to determine the R-value of the wall assembly.
+
+AU109.3 Additional insulation.
+
+Where insulating materials are added to the face of a cob wall, the combination of additional insulation and any associated connecting, weather-resisting or protective materials shall comply with Section AU104.1.2, Items 1–4.
+
+SECTION AU110 REFERENCED STANDARDS
+
+AU110.1 General.
+
+See Table AU110.1 for standards that are referenced in various sections of this appendix. Standards are listed by the standard identification with the effective date, the standard title and the section or sections of this appendix that reference the standard.
+
+TABLE AU110.1
+
+REFERENCED STANDARDS
+
+STANDARD ACRONYM	STANDARD NAME	SECTIONS HEREIN REFERENCED
+ASTM C5—10	Standard Specification for Quicklime for Structural Purposes	AU104.4.6
+ASTM C141/C141M—14	Standard Specification for Hydrated Hydraulic Lime for Structural Purposes	AU104.4.6
+ASTM C206—14	Standard Specification for Finishing Hydrated Lime	AU104.4.6
+ASTM C926	Specification for Appliance of Portland Cement-based Plaster	AU104.4.8
+ASTM C1707—11	Standard Specification for Pozzolanic Hydraulic Lime for Structural Purposes	AU104.4.6
+ASTM E2392/E2392M—10	Standard Guide for Design of Earthen Wall Building Systems	AU104.4.3.2
+ASTM BS1, ASTM BS EN 459—2015	Part 1: Building Lime. Definitions, Specifications and Conformity Criteria; Part 2: Test Methods	AU104.4.6
+

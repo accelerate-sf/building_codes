@@ -1,0 +1,44 @@
+CHAPTER 12-7-5 FIRE-RESISTIVE STANDARDS
+
+Interior Finish of Decorative MaterialSTANDARD 12-7-5
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-7-500.
+
+These requirements and methods of test apply to unframed and framed rigid construction.
+
+TEST SETUP AND PERFORMANCE
+
+Section 12-7-501
+
+(a)Unframed Rigid Combustible Decorative Material. Rigid combustible decorative material and assemblies of materials not more than 1/4 inch (6 mm) in thickness used for folding doors, room dividers, decorative screens and similar applications, which do not create concealed spaces and which are installed with exposed edges, shall be flame resistant in accordance with the following:
+
+1.Test specimen shall be 12 inches (305 mm) wide and 24 inches (609 mm) long. Four specimens shall be tested, two in each direction of the material.
+
+2.The specimen shall be suspended vertically with its lower edge 2 inches (51 mm) above the top of a 3/8 inch (9.5 mm) diameter Bunsen Burner. The test shall be performed in a draft-free area.
+
+3.The flames from the burner shall be 4 inches (101 mm) long and shall be adjusted with sufficient air supply to eliminate any yellow flame tips but without any distinct inner blue cone.
+
+4.The specimen shall be exposed to the flame at each corner and at not less than one other point along the lower edge. Each exposure shall be of sufficient duration to determine if the material will ignite and continue to burn, but shall be not less than 20 seconds.
+
+5.The criteria for acceptance shall be as follows:
+
+(A) There shall be not more than intermittent flaming appreciably beyond the area exposed to the test flame.
+
+(B) Flame shall not reach the top of the specimen.
+
+(C) On removing the test flame there shall be not more than 1 second of after flaming except there may be nonprogressive flaming of short duration in areas of accumulated char which were directly exposed to the test flame.
+
+Section 12-7-502
+
+(a)Framed Rigid Combustible Decorative Material. Rigid combustible decorative material and assemblies of materials not more than 1/4 inch (6 mm) in thickness used for folding doors, room dividers, decorative screens and similar applications, and which are installed with all edges protected, shall conform to the following:
+
+1.All exposed edges shall be protected with frames of metal or other noncombustible material, or solid wood of minimum 1/4-inch (6 mm) dimension.
+
+2.The total square foot area of the material shall not exceed ten percent of that of the floor area of the room in which the material is installed.
+
+3.When tested as follows, flames shall not reach the top edge of the specimen.
+
+The test shall be conducted in a draft free area, on a specimen of the material 12 inches by 12 inches (305 mm by 305 mm) suspended at a 45-degree angle from the horizontal with the upper and lower edges in a horizontal plane. The test flame shall be 3 inches (76 mm) long from a Bunsen burner of approximately 1/2-inch (13 mm) inside diameter with the air supply completely shut off. The burner shall be positioned so that its top is 1 inch (25 mm) vertically below a point on the lower surface of the test specimen, 1 inch (25 mm) up from its lower horizontal edge and midway between the inclined edges. The exposure to the test flame and the duration of test shall be for a period of 2 minutes.
+

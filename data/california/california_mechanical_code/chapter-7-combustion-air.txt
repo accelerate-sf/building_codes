@@ -1,0 +1,52 @@
+Chapter 7 Combustion Air
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X		X	X	X			X	X	X	X	X	X	X	X		X						
+Adopt Entire Chapter asamended (amended sections listed below)																							
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+																							
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+701.0 General
+701.1 Applicability
+701.1.1 Other Types of Appliances
+701.2 Pressure Difference
+701.3 Makeup Air
+701.4 Indoor Combustion Air
+701.4.1 Standard Method
+701.4.2 Known Air Infiltration Rate Method
+I other	=	All appliances other than fan-assisted input (Btu/h)
+I fan	=	Fan-assisted appliance input (Btu/h)
+ACH	=	Air change per hour (percent of volume of space exchanged per hour, expressed as a decimal)
+
+I other
+
+I fan
+
+ACH
+
+701.5 Indoor Opening Size and Location
+701.6 Outdoor Combustion Air
+701.6.1 Two Permanent Openings Method
+701.6.2 One Permanent Opening Method
+701.7 Combination Indoor and Outdoor Combustion Air
+701.7.1 Indoor Openings
+701.7.2 Outdoor Opening(s) Location
+701.7.3 Outdoor Opening(s) Size
+701.8 Engineered Installations
+701.9 Mechanical Combustion Air Supply
+701.9.1 Exhaust Fans
+701.9.2 Interlock
+701.9.3 Specified Combustion Air
+701.10 Louvers, Grilles, and Screens
+701.10.1 Minimum Screen Mesh Size
+701.10.2 Motorized Louvers
+701.11 Combustion Air Ducts
+701.12 Dampers Prohibited
+702.0 Extra Device or Attachment
+702.1 General

@@ -1,0 +1,868 @@
+CALIFORNIA FIRE CODE – MATRIX ADOPTION TABLEAPPENDIX H – HAZARDOUS MATERIALS MANAGEMENT PLANAND HAZARDOUS MATERIALS INVENTORY STATEMENTS
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user.See Chapter 1 for state agency authority and building applications.)
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt Entire Chapter			X																				
+Adopt Entire Chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below																							
+[California Code of Regulations, Title 19, Division 1]																							
+Chapter / Section																							
+																							* The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division I remain the same.
+
+APPENDIX APPENDIX H H HAZARDOUS MATERIALS MANAGEMENT PLANS AND HAZARDOUS MATERIALS INVENTORY STATEMENTS (See Sections 5001.5.1 and 5001.5.2) HAZARDOUS MATERIALS MANAGEMENT PLANS AND HAZARDOUS MATERIALS INVENTORY STATEMENTS (See Sections 5001.5.1 and 5001.5.2) (See Sections 5001.5.1 and 5001.5.2)
+
+SECTION H1 SCOPE
+
+H1.1 Scope.
+
+Hazardous materials inventory statements (HMIS) and hazardous materials management plans (HMMP) which are required by the fire chief, pursuant to Chapter 50, shall be provided for hazardous materials in accordance with Appendix H.
+
+Exceptions:
+
+1.Materials which have been satisfactorily demonstrated not to present a potential danger to public health, safety or welfare, based upon the quantity or condition of storage, when approved.
+
+2.Chromium, copper, lead, nickel and silver need not be considered hazardous materials for the purposes of Appendix H unless they are stored in a friable, powdered or finely divided state.
+
+Proprietary and trade secret information shall be protected under the laws of the state or jurisdiction having authority.
+
+SECTION H2 HAZARDOUS MATERIALS INVENTORY STATEMENTS (HMIS)
+
+H2.1 When Required.
+
+A separate HMIS shall be provided for each building, including its appurtenant structures, and each exterior facility in which hazardous materials are stored.
+
+The hazardous materials inventory statement shall list, by hazard class, all hazardous materials stored. The hazardous materials inventory statement shall include the following information for each hazardous material listed:
+
+1.Hazard class.
+
+2.Common or trade name.
+
+3.Chemical name, major constituents and concentrations if a mixture. If a waste, the waste category.
+
+4.Chemical Abstract Service number (CAS number) found in 29 Code of Federal Regulations (C.F.R.).
+
+5.Whether the material is pure or a mixture, and whether the material is a solid, liquid or gas.
+
+6.Maximum aggregate quantity stored at any one time.
+
+7.Storage conditions related to the storage type, temperature and pressure.
+
+H2.2 Changes to HMIS.
+
+An amended HMIS shall be provided within 30 days of the storage of any hazardous materials which changes or adds a hazard class or which is sufficient in quantity to cause an increase in the quantity which exceeds 5 percent for any hazard class.
+
+SECTION H3 HAZARDOUS MATERIALS MANAGEMENT PLAN (HMMP)
+
+H3.1 General.
+
+Applications for a permit to store hazardous materials shall include an HMMP standard form or short form in accordance with Section H3.3 and shall provide a narrative description of the operations and processes taking place at the facility. See Figure A-H-1.
+
+H3.2 Information Required.
+
+The HMMP standard form shall include the information detailed in Section H3.2.
+
+H3.2.1 General Information.
+
+General information, including business name and address, emergency contacts, business activity, business owner or operator, SIC code, number of employees and hours, Dunn and Bradstreet number, and signature of owner, operator or designated representative.
+
+H3.2.2 General site plan.
+
+A general site plan drawn at a legible scale which shall include, but not be limited to, the location of buildings, exterior storage facilities, permanent access ways, evacuation routes, parking lots, internal roads, chemical loading areas, equipment cleaning areas, storm and sanitary sewer accesses, emergency equipment and adjacent property uses. The exterior storage areas shall be identified with the hazard class and the maximum quantities per hazard class of hazardous materials stored. When required by the chief, information regarding the location of wells, flood plains, earthquake faults, surface water bodies and general land uses within 1 mile (1.609 km) of the facility boundaries shall be included.
+
+H3.2.3 Building floor plan.
+
+A building floor plan drawn to a legible scale which shall include, but not be limited to, hazardous materials storage areas within the building and shall indicate rooms, doorways, corridors, means of egress and evacuation routes. Each hazardous materials storage facility shall be identified by a map key which lists the individual hazardous materials, their hazard class and quantity present for each area.
+
+H3.2.4 Hazardous materials handling.
+
+Information showing that activities involving the handling of hazardous materials between the storage areas and manufacturing processes on site are conducted in a manner to prevent the accidental release of such materials.
+
+H3.2.5 Chemical capability and separation.
+
+Information showing procedures, controls, signs or other methods used to ensure separation and protection of stored materials from factors which could cause accidental ignition or reaction of ignitable, reactive or incompatible materials in each area.
+
+H3.2.6 Monitoring program.
+
+Information including, but not limited to, the location, type, manufacturer’s specifications, if applicable, and suitability of monitoring methods for each storage facility when required.
+
+H3.2.7 Inspection and recording keeping.
+
+Schedules and procedures for inspecting safety and monitoring and emergency equipment. The permittee shall develop and follow a written inspection procedure acceptable to the chief for inspecting the facility for events or practices which could lead to unauthorized discharges of hazardous materials. Inspections shall be conducted at a frequency appropriate to detect problems prior to a discharge. An inspection check sheet shall be developed to be used in conjunction with routine inspections. The check sheet shall provide for the date, time and location of inspection; note problems and dates and times of corrective actions taken; and include the name of the inspector and the countersignature of the designated safety manager for the facility.
+
+H3.2.8 Employee training.
+
+A training program appropriate to the types and quantities of materials stored or used shall be conducted to prepare employees to safely handle hazardous materials on a daily basis and during emergencies. The training program shall include:
+
+1.Instruction in safe storage and handling of hazardous materials, including maintenance of monitoring records;
+
+2.Instruction in emergency procedures for leaks, spills, fires or explosions, including shutdown of operations and evacuation procedures; and
+
+3.Record-keeping procedures for documenting training given to employees.
+
+H3.2.9 Emergency response.
+
+A description of facility emergency procedures is to be provided.
+
+H3.3 HMMP Short Form—(Minimal Storage Site).
+
+A facility shall qualify as a minimal storage site if the quantity of each hazardous material stored in one or more facilities in an aggregate quantity for the facility is 500 pounds (227 kg) or less for solids, 55 gallons (208.2 L) or less for liquids, or 200 cubic feet (5.7 m3) or less at NTP for compressed gases and does not exceed the threshold planning quantity as listed in 40 C.F.R., Part 355, Sections 302 and 304. The applicant for a permit for a facility which qualifies as a minimal storage site is allowed to file the short form HMMP. Such plan shall include the following components:
+
+1.General facility information,
+
+2.A simple line drawing of the facility showing the location of storage facilities and indicating the hazard class or classes and physical state of the hazardous materials being stored,
+
+3.Information describing that the hazardous materials will be stored and handled in a safe manner and will be appropriately contained, separated and monitored, and
+
+4.Assurance that security precautions have been taken, employees have been appropriately trained to handle the hazardous materials and react to emergency situations, adequate labeling and warning signs are posted, adequate emergency equipment is maintained, and the disposal of hazardous materials will be in an appropriate manner.
+
+SECTION SECTION H4 H4 MAINTENANCE OF RECORDS MAINTENANCE OF RECORDS
+
+H4.1
+
+Hazardous materials inventory statements and hazardous materials management plans shall be maintained by the permittee for a period of not less than three years after submittal of updated or revised versions. Such records shall be made available to the fire chief upon request.
+
+FIGURE A-H-1
+
+SAMPLE FORMAT
+
+HAZARDOUS MATERIALS MANAGEMENT PLAN (HMMP) INSTRUCTIONS
+
+SECTION I—FACILITY DESCRIPTION
+1.Fill out Items 1 through 11 and sign the declaration.2.Only Part A of this section is required to be updated and submitted annually, or within 30 days of a change.
+1.Provide a site plan on 81/2-by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, showing the location of all buildings, structures, chemical loading areas, parking lots, internal roads, storm and sanitary sewers, wells, and adjacent property uses. Indicate the approximate scale, northern direction and date the drawing was completed.2 List all special land uses within 1 mile (1.609 km).
+1.Provide a floor plan of each building on 81/2 by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, with approximate scale and northern direction, showing the location of each storage area. Mark map clearly “Confidential—Do not disclose” for trade-secret information as specified by federal, state and local laws.2.Identify each storage area with an identification number, letter, name or symbol.3.Show the following:3.1.Accesses to each storage area.3.2.Location of emergency equipment.3.3.The general purpose of other areas within the facility.3.4.Location of all aboveground and underground tanks to include sumps, vaults, below-grade treatment systems, piping, etc.4.Map key. Provide the following on the map or in a map key or legend for each storage area:4.1.A list of hazardous materials, including wastes.4.2.Hazard class of each hazardous waste.4.3.The maximum quantity for hazardous materials.4.4.Include the contents and capacity limit of all tanks at each area and indicate whether they are above or below ground.4.5.List separately any radioactives, cryogens and compressed gases for each facility.4.6.Trade-secret information shall be listed as specified by federal, state and local laws.
+SECTION II—HAZARDOUS MATERIALS INVENTORY STATEMENT (HMIS)
+2.1 Part A—DeclarationFill out all appropriate information.
+1.You must complete a separate inventory statement for all waste and nonwaste hazardous materials. List all hazardous materials in alphabetical order by hazard class.2.Inventory Statement Instructions:ColumnInformation Required1.Provide hazard class for each material.2.Nonwaste. Provide the common or trade name of the regulated material. Waste. In lieu of trade names, you may provide the waste category.3.Provide the chemical name and major constituents and concentrations, if a mixture.4.Enter the chemical abstract service number (CAS number) found in 29 C.F.R. For mixtures, enter the CAS number of the mixture as a whole if it has been assigned a number distinct from its constituents. For a mixture that has no CAS number, leave this item blank or report the CAS numbers of as many constituent chemicals as possible.5.Enter the following descriptive codes as they apply to each material. You may list more than one code, if applicable.P=PureM=MixtureS=SolidL=LiquidG=Gas6.Provide the maximum aggregate quantity of each material handled at any one time by the business. For underground tanks, list the maximum volume [in gallons (liters)] of the tank.6.1.Enter the estimated average daily amount on site during the past year.7. Enter the units used in Column 6 as:LB=PoundsGA=GallonsCF=Cubic Feet8.Enter the number of days that the material was present on site (during the last year).9. Enter the storage codes below for type, temperature and pressure.TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=OtherTemperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)10. For each material listed, provide the Superfund Amendments and Reauthorization Act (SARA) hazard class as listed below. You may list more than one class. These categories are defined in 40 C.F.R. 370.3.Physical HazardsF=FireP=Sudden Release of PressureR=ReactivityHealth HazardsI=Immediate (Acute)D=Delayed (Chronic)11.Waste Only. For each waste, provide the total estimated amount of hazardous waste handled throughout the course of the year.	Column	Information Required	P	=	Pure	M	=	Mixture	S	=	Solid	L	=	Liquid	G	=	Gas	LB	=	Pounds	GA	=	Gallons	CF	=	Cubic Feet	A	=	Aboveground Tank	B	=	Belowground Tank	C	=	Tank inside Building	D	=	Steel Drum	E	=	Plastic or Nonmetallic Drum	F	=	Can	G	=	Carbon	H	=	Silo	I	=	Fiber Drum	J	=	Bag	K	=	Box	L	=	Cylinder	M	=	Glass Bottle or Jug	N	=	Plastic Bottles or Jugs	O	=	Tote Bin	P	=	Tank Wagon	Q	=	Rail Car	R	=	Other	4	=	Ambient	5	=	Greater than Ambient	6	=	Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]	7	=	Cryogenic conditions [less than -150°F (-101.1°C)]	1	=	Ambient (Atmospheric)	2	=	Greater than Ambient (Atmospheric)	3	=	Less than Ambient (Atmospheric)	F	=	Fire	P	=	Sudden Release of Pressure	R	=	Reactivity	I	=	Immediate (Acute)	D	=	Delayed (Chronic)
+Column	Information Required
+P	=	Pure
+M	=	Mixture
+S	=	Solid
+L	=	Liquid
+G	=	Gas
+LB	=	Pounds
+GA	=	Gallons
+CF	=	Cubic Feet
+A	=	Aboveground Tank
+B	=	Belowground Tank
+C	=	Tank inside Building
+D	=	Steel Drum
+E	=	Plastic or Nonmetallic Drum
+F	=	Can
+G	=	Carbon
+H	=	Silo
+I	=	Fiber Drum
+J	=	Bag
+K	=	Box
+L	=	Cylinder
+M	=	Glass Bottle or Jug
+N	=	Plastic Bottles or Jugs
+O	=	Tote Bin
+P	=	Tank Wagon
+Q	=	Rail Car
+R	=	Other
+4	=	Ambient
+5	=	Greater than Ambient
+6	=	Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]
+7	=	Cryogenic conditions [less than -150°F (-101.1°C)]
+1	=	Ambient (Atmospheric)
+2	=	Greater than Ambient (Atmospheric)
+3	=	Less than Ambient (Atmospheric)
+F	=	Fire
+P	=	Sudden Release of Pressure
+R	=	Reactivity
+I	=	Immediate (Acute)
+D	=	Delayed (Chronic)
+SECTION III—SEPARATION AND MONITORING
+3.1 Part A—AbovegroundFill out Items 1 through 6, or provide similar information for each storage area shown on the facility map. Use additional sheets as necessary.
+1.Complete a separate page for each underground tank, sump, vault, below-grade treatment system, etc.2.Check the type of tank and method(s) that applies to your tank(s) and piping, and answer the appropriate questions. Provide any additional information in the space provided or on a separate sheet.
+SECTION IV—WASTE DISPOSALCheck all that apply and list the associated wastes for each method checked.
+SECTION V—RECORDING KEEPINGInclude a brief description of your inspection procedures. You are also required to keep an inspection log and recordable discharge log, which are designed to be used in conjunction with routine inspections for all storage facilities or areas. Place a check in each box that describes your forms. If you do not use the sample forms, provide copies of your forms for review and approval.
+1.This plan should describe the personnel, procedures and equipment available for responding to a release or threatened release of hazardous materials that are stored, handled or used on site.2.A check or a response under each item indicates that a specific procedure is followed at the facility, or that the equipment specified is maintained on site.3.If the facility maintains a more detailed emergency-response plan on site, indicate this in Item 5. This plan shall be made available for review by the inspecting jurisdiction.
+1.This plan should describe the basic training plan used at the facility.2.A check in the appropriate box indicates the training is provided or the records are maintained.3.If the facility maintains a more detailed emergency-response training plan, indicate this in Item 4. This plan shall be made available for review by the inspecting jurisdiction.1.Fill out Items 1 through 11 and sign the declaration.
+
+2.Only Part A of this section is required to be updated and submitted annually, or within 30 days of a change.
+1.Fill out Items 1 through 11 and sign the declaration.
+
+2.Only Part A of this section is required to be updated and submitted annually, or within 30 days of a change.
+
+1.Provide a site plan on 81/2-by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, showing the location of all buildings, structures, chemical loading areas, parking lots, internal roads, storm and sanitary sewers, wells, and adjacent property uses. Indicate the approximate scale, northern direction and date the drawing was completed.
+
+2 List all special land uses within 1 mile (1.609 km).
+1.Provide a site plan on 81/2-by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, showing the location of all buildings, structures, chemical loading areas, parking lots, internal roads, storm and sanitary sewers, wells, and adjacent property uses. Indicate the approximate scale, northern direction and date the drawing was completed.
+
+2 List all special land uses within 1 mile (1.609 km).
+
+1.Provide a floor plan of each building on 81/2 by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, with approximate scale and northern direction, showing the location of each storage area. Mark map clearly “Confidential—Do not disclose” for trade-secret information as specified by federal, state and local laws.
+
+2.Identify each storage area with an identification number, letter, name or symbol.
+
+3.Show the following:3.1.Accesses to each storage area.3.2.Location of emergency equipment.3.3.The general purpose of other areas within the facility.3.4.Location of all aboveground and underground tanks to include sumps, vaults, below-grade treatment systems, piping, etc.
+
+3.1.Accesses to each storage area.
+
+3.2.Location of emergency equipment.
+
+3.3.The general purpose of other areas within the facility.
+
+3.4.Location of all aboveground and underground tanks to include sumps, vaults, below-grade treatment systems, piping, etc.
+
+4.Map key. Provide the following on the map or in a map key or legend for each storage area:4.1.A list of hazardous materials, including wastes.4.2.Hazard class of each hazardous waste.4.3.The maximum quantity for hazardous materials.4.4.Include the contents and capacity limit of all tanks at each area and indicate whether they are above or below ground.4.5.List separately any radioactives, cryogens and compressed gases for each facility.4.6.Trade-secret information shall be listed as specified by federal, state and local laws.
+
+4.1.A list of hazardous materials, including wastes.
+
+4.2.Hazard class of each hazardous waste.
+
+4.3.The maximum quantity for hazardous materials.
+
+4.4.Include the contents and capacity limit of all tanks at each area and indicate whether they are above or below ground.
+
+4.5.List separately any radioactives, cryogens and compressed gases for each facility.
+
+4.6.Trade-secret information shall be listed as specified by federal, state and local laws.
+1.Provide a floor plan of each building on 81/2 by 11-inch (215 mm by 279 mm) paper, using letters on the top and bottom margins and numbers on the right and left side margins, with approximate scale and northern direction, showing the location of each storage area. Mark map clearly “Confidential—Do not disclose” for trade-secret information as specified by federal, state and local laws.
+
+2.Identify each storage area with an identification number, letter, name or symbol.
+
+3.Show the following:
+
+3.1.Accesses to each storage area.
+
+3.2.Location of emergency equipment.
+
+3.3.The general purpose of other areas within the facility.
+
+3.4.Location of all aboveground and underground tanks to include sumps, vaults, below-grade treatment systems, piping, etc.
+3.1.Accesses to each storage area.
+
+3.2.Location of emergency equipment.
+
+3.3.The general purpose of other areas within the facility.
+
+3.4.Location of all aboveground and underground tanks to include sumps, vaults, below-grade treatment systems, piping, etc.
+
+4.Map key. Provide the following on the map or in a map key or legend for each storage area:
+
+4.1.A list of hazardous materials, including wastes.
+
+4.2.Hazard class of each hazardous waste.
+
+4.3.The maximum quantity for hazardous materials.
+
+4.4.Include the contents and capacity limit of all tanks at each area and indicate whether they are above or below ground.
+
+4.5.List separately any radioactives, cryogens and compressed gases for each facility.
+
+4.6.Trade-secret information shall be listed as specified by federal, state and local laws.
+4.1.A list of hazardous materials, including wastes.
+
+4.2.Hazard class of each hazardous waste.
+
+4.3.The maximum quantity for hazardous materials.
+
+4.4.Include the contents and capacity limit of all tanks at each area and indicate whether they are above or below ground.
+
+4.5.List separately any radioactives, cryogens and compressed gases for each facility.
+
+4.6.Trade-secret information shall be listed as specified by federal, state and local laws.
+
+Fill out all appropriate information.
+
+1.You must complete a separate inventory statement for all waste and nonwaste hazardous materials. List all hazardous materials in alphabetical order by hazard class.
+
+2.Inventory Statement Instructions:ColumnInformation Required1.Provide hazard class for each material.2.Nonwaste. Provide the common or trade name of the regulated material. Waste. In lieu of trade names, you may provide the waste category.3.Provide the chemical name and major constituents and concentrations, if a mixture.4.Enter the chemical abstract service number (CAS number) found in 29 C.F.R. For mixtures, enter the CAS number of the mixture as a whole if it has been assigned a number distinct from its constituents. For a mixture that has no CAS number, leave this item blank or report the CAS numbers of as many constituent chemicals as possible.5.Enter the following descriptive codes as they apply to each material. You may list more than one code, if applicable.P=PureM=MixtureS=SolidL=LiquidG=Gas6.Provide the maximum aggregate quantity of each material handled at any one time by the business. For underground tanks, list the maximum volume [in gallons (liters)] of the tank.6.1.Enter the estimated average daily amount on site during the past year.7. Enter the units used in Column 6 as:LB=PoundsGA=GallonsCF=Cubic Feet8.Enter the number of days that the material was present on site (during the last year).9. Enter the storage codes below for type, temperature and pressure.TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=OtherTemperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)10. For each material listed, provide the Superfund Amendments and Reauthorization Act (SARA) hazard class as listed below. You may list more than one class. These categories are defined in 40 C.F.R. 370.3.Physical HazardsF=FireP=Sudden Release of PressureR=ReactivityHealth HazardsI=Immediate (Acute)D=Delayed (Chronic)11.Waste Only. For each waste, provide the total estimated amount of hazardous waste handled throughout the course of the year.
+
+1.Provide hazard class for each material.
+
+2.Nonwaste. Provide the common or trade name of the regulated material. Waste. In lieu of trade names, you may provide the waste category.
+
+3.Provide the chemical name and major constituents and concentrations, if a mixture.
+
+4.Enter the chemical abstract service number (CAS number) found in 29 C.F.R. For mixtures, enter the CAS number of the mixture as a whole if it has been assigned a number distinct from its constituents. For a mixture that has no CAS number, leave this item blank or report the CAS numbers of as many constituent chemicals as possible.
+
+5.Enter the following descriptive codes as they apply to each material. You may list more than one code, if applicable.P=PureM=MixtureS=SolidL=LiquidG=Gas
+
+6.Provide the maximum aggregate quantity of each material handled at any one time by the business. For underground tanks, list the maximum volume [in gallons (liters)] of the tank.6.1.Enter the estimated average daily amount on site during the past year.
+
+6.1.Enter the estimated average daily amount on site during the past year.
+
+7. Enter the units used in Column 6 as:LB=PoundsGA=GallonsCF=Cubic Feet
+
+8.Enter the number of days that the material was present on site (during the last year).
+
+9. Enter the storage codes below for type, temperature and pressure.TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=OtherTemperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)
+
+TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=Other
+
+Temperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]
+
+Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)
+
+10. For each material listed, provide the Superfund Amendments and Reauthorization Act (SARA) hazard class as listed below. You may list more than one class. These categories are defined in 40 C.F.R. 370.3.Physical HazardsF=FireP=Sudden Release of PressureR=ReactivityHealth HazardsI=Immediate (Acute)D=Delayed (Chronic)
+
+Physical HazardsF=FireP=Sudden Release of PressureR=Reactivity
+
+Health HazardsI=Immediate (Acute)D=Delayed (Chronic)
+
+11.Waste Only. For each waste, provide the total estimated amount of hazardous waste handled throughout the course of the year.
+1.You must complete a separate inventory statement for all waste and nonwaste hazardous materials. List all hazardous materials in alphabetical order by hazard class.
+
+2.Inventory Statement Instructions:
+
+Column	Information Required1.Provide hazard class for each material.
+
+2.Nonwaste. Provide the common or trade name of the regulated material. Waste. In lieu of trade names, you may provide the waste category.
+
+3.Provide the chemical name and major constituents and concentrations, if a mixture.
+
+4.Enter the chemical abstract service number (CAS number) found in 29 C.F.R. For mixtures, enter the CAS number of the mixture as a whole if it has been assigned a number distinct from its constituents. For a mixture that has no CAS number, leave this item blank or report the CAS numbers of as many constituent chemicals as possible.
+
+5.Enter the following descriptive codes as they apply to each material. You may list more than one code, if applicable.P=PureM=MixtureS=SolidL=LiquidG=Gas
+
+6.Provide the maximum aggregate quantity of each material handled at any one time by the business. For underground tanks, list the maximum volume [in gallons (liters)] of the tank.6.1.Enter the estimated average daily amount on site during the past year.
+
+6.1.Enter the estimated average daily amount on site during the past year.
+
+7. Enter the units used in Column 6 as:LB=PoundsGA=GallonsCF=Cubic Feet
+
+8.Enter the number of days that the material was present on site (during the last year).
+
+9. Enter the storage codes below for type, temperature and pressure.TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=OtherTemperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)
+
+TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=Other
+
+Temperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]
+
+Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)
+
+10. For each material listed, provide the Superfund Amendments and Reauthorization Act (SARA) hazard class as listed below. You may list more than one class. These categories are defined in 40 C.F.R. 370.3.Physical HazardsF=FireP=Sudden Release of PressureR=ReactivityHealth HazardsI=Immediate (Acute)D=Delayed (Chronic)
+
+Physical HazardsF=FireP=Sudden Release of PressureR=Reactivity
+
+Health HazardsI=Immediate (Acute)D=Delayed (Chronic)
+
+11.Waste Only. For each waste, provide the total estimated amount of hazardous waste handled throughout the course of the year.
+1.Provide hazard class for each material.
+
+2.Nonwaste. Provide the common or trade name of the regulated material. Waste. In lieu of trade names, you may provide the waste category.
+
+3.Provide the chemical name and major constituents and concentrations, if a mixture.
+
+4.Enter the chemical abstract service number (CAS number) found in 29 C.F.R. For mixtures, enter the CAS number of the mixture as a whole if it has been assigned a number distinct from its constituents. For a mixture that has no CAS number, leave this item blank or report the CAS numbers of as many constituent chemicals as possible.
+
+5.Enter the following descriptive codes as they apply to each material. You may list more than one code, if applicable.
+
+P	=	Pure
+M	=	Mixture
+S	=	Solid
+L	=	Liquid
+G	=	Gas6.Provide the maximum aggregate quantity of each material handled at any one time by the business. For underground tanks, list the maximum volume [in gallons (liters)] of the tank.
+
+6.1.Enter the estimated average daily amount on site during the past year.
+6.1.Enter the estimated average daily amount on site during the past year.
+
+7. Enter the units used in Column 6 as:
+
+LB	=	Pounds
+GA	=	Gallons
+CF	=	Cubic Feet8.Enter the number of days that the material was present on site (during the last year).
+
+9. Enter the storage codes below for type, temperature and pressure.
+
+TypeA=Aboveground TankB=Belowground TankC=Tank inside BuildingD=Steel DrumE=Plastic or Nonmetallic DrumF=CanG=CarbonH=SiloI=Fiber DrumJ=BagK=BoxL=CylinderM=Glass Bottle or JugN=Plastic Bottles or JugsO=Tote BinP=Tank WagonQ=Rail CarR=Other
+
+Temperature4=Ambient5=Greater than Ambient6=Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]7=Cryogenic conditions [less than -150°F (-101.1°C)]
+
+Pressure1=Ambient (Atmospheric)2=Greater than Ambient (Atmospheric)3=Less than Ambient (Atmospheric)
+Type
+
+A	=	Aboveground Tank
+B	=	Belowground Tank
+C	=	Tank inside Building
+D	=	Steel Drum
+E	=	Plastic or Nonmetallic Drum
+F	=	Can
+G	=	Carbon
+H	=	Silo
+I	=	Fiber Drum
+J	=	Bag
+K	=	Box
+L	=	Cylinder
+M	=	Glass Bottle or Jug
+N	=	Plastic Bottles or Jugs
+O	=	Tote Bin
+P	=	Tank Wagon
+Q	=	Rail Car
+R	=	OtherTemperature
+
+4	=	Ambient
+5	=	Greater than Ambient
+6	=	Less than Ambient, but not Cryogenic [less than -150°F (-101.1°C)]
+7	=	Cryogenic conditions [less than -150°F (-101.1°C)]Pressure
+
+1	=	Ambient (Atmospheric)
+2	=	Greater than Ambient (Atmospheric)
+3	=	Less than Ambient (Atmospheric)10. For each material listed, provide the Superfund Amendments and Reauthorization Act (SARA) hazard class as listed below. You may list more than one class. These categories are defined in 40 C.F.R. 370.3.
+
+Physical HazardsF=FireP=Sudden Release of PressureR=Reactivity
+
+Health HazardsI=Immediate (Acute)D=Delayed (Chronic)
+Physical Hazards
+
+F	=	Fire
+P	=	Sudden Release of Pressure
+R	=	ReactivityHealth Hazards
+
+I	=	Immediate (Acute)
+D	=	Delayed (Chronic)11.Waste Only. For each waste, provide the total estimated amount of hazardous waste handled throughout the course of the year.
+
+Fill out Items 1 through 6, or provide similar information for each storage area shown on the facility map. Use additional sheets as necessary.
+
+1.Complete a separate page for each underground tank, sump, vault, below-grade treatment system, etc.
+
+2.Check the type of tank and method(s) that applies to your tank(s) and piping, and answer the appropriate questions. Provide any additional information in the space provided or on a separate sheet.
+1.Complete a separate page for each underground tank, sump, vault, below-grade treatment system, etc.
+
+2.Check the type of tank and method(s) that applies to your tank(s) and piping, and answer the appropriate questions. Provide any additional information in the space provided or on a separate sheet.
+
+Check all that apply and list the associated wastes for each method checked.
+
+Include a brief description of your inspection procedures. You are also required to keep an inspection log and recordable discharge log, which are designed to be used in conjunction with routine inspections for all storage facilities or areas. Place a check in each box that describes your forms. If you do not use the sample forms, provide copies of your forms for review and approval.
+
+1.This plan should describe the personnel, procedures and equipment available for responding to a release or threatened release of hazardous materials that are stored, handled or used on site.
+
+2.A check or a response under each item indicates that a specific procedure is followed at the facility, or that the equipment specified is maintained on site.
+
+3.If the facility maintains a more detailed emergency-response plan on site, indicate this in Item 5. This plan shall be made available for review by the inspecting jurisdiction.
+1.This plan should describe the personnel, procedures and equipment available for responding to a release or threatened release of hazardous materials that are stored, handled or used on site.
+
+2.A check or a response under each item indicates that a specific procedure is followed at the facility, or that the equipment specified is maintained on site.
+
+3.If the facility maintains a more detailed emergency-response plan on site, indicate this in Item 5. This plan shall be made available for review by the inspecting jurisdiction.
+
+1.This plan should describe the basic training plan used at the facility.
+
+2.A check in the appropriate box indicates the training is provided or the records are maintained.
+
+3.If the facility maintains a more detailed emergency-response training plan, indicate this in Item 4. This plan shall be made available for review by the inspecting jurisdiction.
+1.This plan should describe the basic training plan used at the facility.
+
+2.A check in the appropriate box indicates the training is provided or the records are maintained.
+
+3.If the facility maintains a more detailed emergency-response training plan, indicate this in Item 4. This plan shall be made available for review by the inspecting jurisdiction.
+
+FIGURE A-H-1
+
+HAZARDOUS MATERIALS MANAGEMENT PLAN
+
+SECTION I: FACILITY DESCRIPTION
+
+1.Business Name: __________________________________________________________Phone:_____________________  Address:__________________________________________________________________________________________2.Person Responsible for the BusinessName:Title:Phone:_______________________________________________________________________________________3.Emergency Contacts:Name:Title:_________ Home Number:Work Number:___________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ _____________________________________________________________4.Person Responsible for the Application/Principal Contact:Name:Title:Phone:_______________________________________________________________________________________5.Property Owner:Name:Address:Phone:_______________________________________________________________________________________6.Principal Business Activity: ___________________________________________________________________________7. Number of Employees: _______________________________________________________________________________8.Number of Shifts: _______________________________________________________________________________9. Hours of Operation: _________________________________________________________________________________10. SIC Code: ________________________________________________________________________________________11.Dunn and Bradstreet Number: ________________________________________________________________________12.Declaration _______________________________________________________________________________________	Name:	Title:	Phone:		____________________________________	__________________________	_________________________		Name:	Title:_________ 	Home Number:	Work Number:	___________________________ 	________________________	___________________	__________________	___________________________ 	________________________	___________________	__________________	___________________________ 	________________________	___________________	__________________	___________________________ 	________________________	___________________	__________________	___________________________ 	________________________	___________________	__________________	Name:	Title:	Phone:		____________________________________	__________________________	_________________________		Name:	Address:	Phone:		____________________________________	__________________________	_________________________	
+Name:	Title:	Phone:	
+____________________________________	__________________________	_________________________	
+Name:	Title:_________ 	Home Number:	Work Number:
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+Name:	Title:	Phone:	
+____________________________________	__________________________	_________________________	
+Name:	Address:	Phone:	
+____________________________________	__________________________	_________________________	PART A—GENERAL INFORMATION
+
+1.Business Name: __________________________________________________________Phone:_____________________
+
+Address:__________________________________________________________________________________________
+
+2.Person Responsible for the Business
+
+Name:	Title:	Phone:	
+____________________________________	__________________________	_________________________	3.Emergency Contacts:
+
+Name:	Title:_________ 	Home Number:	Work Number:
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________
+___________________________ 	________________________	___________________	__________________4.Person Responsible for the Application/Principal Contact:
+
+Name:	Title:	Phone:	
+____________________________________	__________________________	_________________________	5.Property Owner:
+
+Name:	Address:	Phone:	
+____________________________________	__________________________	_________________________	6.Principal Business Activity: ___________________________________________________________________________
+
+7. Number of Employees: _______________________________________________________________________________
+
+8.Number of Shifts: _______________________________________________________________________________
+
+9. Hours of Operation: _________________________________________________________________________________
+
+10. SIC Code: ________________________________________________________________________________________
+
+11.Dunn and Bradstreet Number: ________________________________________________________________________
+
+12.Declaration _______________________________________________________________________________________
+
+I certify that the information above and on the following parts is true and correct to the best of my knowledge.
+
+Signature: _________________________________________________Date: _____________________________________
+
+Print Name: _________________________________________________Title: _____________________________________
+
+(Must be signed by owner/operator or designated representative)
+
+PART B—GENERAL FACILITY DESCRIPTION/SITE PLAN(Use grid format on next page.)Special land uses within 1 mile (1.609 km):________________________________________________________________________________________________________________
+PART C—FACILITY MAP(Use grid format below.)(Use grid format on next page.)
+
+Special land uses within 1 mile (1.609 km):______________
+
+_________________________________________________
+
+_________________________________________________
+
+(Use grid format below.)
+
+
+
+SECTION II: HAZARDOUS MATERIALS INVENTORY STATEMENT
+1.Business Name: __________________________________________________________2.Address: ________________________________________________________________3.Declaration:Under penalty of perjury, I declare the above and subsequent information, provided as part of the hazardous materials inventory statement, is true and correct.Signature: _________________________________________________Date: _____________________________________Print Name: _______________________________________________Title: ______________________________________(Must be signed by owner/operator or designated representative)
+PART B—HAZARDOUS MATERIALS INVENTORY STATEMENT(1)  HAZARD CLASS(2) COMMON/TRADE NAME(3) CHEMICAL NAME, COMPONENTS AND CONCENTRATION(4) CHEMICALABSTRACT SERVICE NO.(5) PHYSICALSTATE(6) MAXIMUMQUANTITY ON HAND AT ANY TIME(7) UNITS(8) DAYS ONSITE(9) STORAGECODE (TYPE, PRES., TEMP.)(10) SARACLASS(11) ANNUAL WASTETHROUGHPUT	(1)  HAZARD CLASS	(2) COMMON/TRADE NAME	(3) CHEMICAL NAME, COMPONENTS AND CONCENTRATION	(4) CHEMICALABSTRACT SERVICE NO.	(5) PHYSICALSTATE	(6) MAXIMUMQUANTITY ON HAND AT ANY TIME	(7) UNITS	(8) DAYS ONSITE	(9) STORAGECODE (TYPE, PRES., TEMP.)	(10) SARACLASS	(11) ANNUAL WASTETHROUGHPUT
+(1)  HAZARD CLASS	(2) COMMON/TRADE NAME	(3) CHEMICAL NAME, COMPONENTS AND CONCENTRATION	(4) CHEMICALABSTRACT SERVICE NO.	(5) PHYSICALSTATE	(6) MAXIMUMQUANTITY ON HAND AT ANY TIME	(7) UNITS	(8) DAYS ONSITE	(9) STORAGECODE (TYPE, PRES., TEMP.)	(10) SARACLASS	(11) ANNUAL WASTETHROUGHPUT
+SECTION III: SEPARATION, SECONDARY CONTAINMENT AND MONITORING
+1.Storage Type:___________ Original Containers___________ Safety Cans___________ Inside Machinery___________ Bulk Tank___________ 55-gallon (208.2 L)___________ Outside BarrelsDrums or Storage Shed___________ Pressurized Vessel___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________2.Storage Location:___________ Inside Building___________ Outside Building___________ Secured3.Separation:___________ All Materials___________ One-hour Separation___________ Compatible Wall/Partition___________ Separated by 20 Feet (6096 mm)___________ Approved Cabinets___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________4.Secondary Containment:___________ Approved Cabinet___________ Secondary Drums___________ Tray___________ Bermed, Coated Floor___________ Vaulted Tank___________ Double-wall Tank___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________5.Monitoring:___________ Visual___________ Continuous___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Attach specifications if necessary6.Monitoring Frequency:___________Daily___________Weekly___________Other:_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Attach specifications if necessary	___________ Original Containers	___________ Safety Cans		___________ Inside Machinery	___________ Bulk Tank		___________ 55-gallon (208.2 L)	___________ Outside Barrels		Drums or Storage Shed			___________ Pressurized Vessel			___________ Inside Building		___________ Outside Building	___________ Secured			___________ All Materials	___________ One-hour Separation		___________ Compatible Wall/Partition			___________ Separated by 20 Feet (6096 mm)	___________ Approved Cabinets		___________ Approved Cabinet		___________ Secondary Drums	___________ Tray		___________ Bermed, Coated Floor	___________ Vaulted Tank		___________ Double-wall Tank	___________ Visual		___________ Continuous	___________Daily___________Weekly		
+___________ Original Containers	___________ Safety Cans	
+___________ Inside Machinery	___________ Bulk Tank	
+___________ 55-gallon (208.2 L)	___________ Outside Barrels	
+Drums or Storage Shed		
+___________ Pressurized Vessel		
+___________ Inside Building		___________ Outside Building
+___________ Secured		
+___________ All Materials	___________ One-hour Separation	
+___________ Compatible Wall/Partition		
+___________ Separated by 20 Feet (6096 mm)	___________ Approved Cabinets	
+___________ Approved Cabinet		___________ Secondary Drums
+___________ Tray		___________ Bermed, Coated Floor
+___________ Vaulted Tank		___________ Double-wall Tank
+___________ Visual		___________ Continuous
+___________Daily___________Weekly		
+SECTION III: SEPARATION, CONTAINMENT AND MONITORING
+PART B—UNDERGROUND
+1._____ Backfill Vapor WellsModel and Manufacturer: ______________________________________________________________________________________________________Continuous or Monthly Testing: ____________________________________________________________________________2._____ Groundwater Monitoring Wells3._____ Monthly Precision Tank Test4._____ Piping—Monitoring Method: _____________________________________________________________________________________Frequency: _____________________________________________________________________________________5._____ Other: _________________________________________________________________________________________
+1.Method of monitoring the annular space: ___________________________________________________________________2.Frequency:_________ Continuous_________ Daily_________ Weekly_________ Other: _______________________________________________________________________________________3.List the type of secondary containment for piping: _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________4.List the method of monitoring the secondary containment for piping: _____________________________________________5.Are there incompatible materials within the same vault?_______ Yes_______ NoIf yes, how is separate secondary containment provided?_______________________________________________________________________________________________________________________________________________________________Note: If you have continuous monitoring equipment, you shall maintain copies of all service and maintenance work. Such reports shall be made available for review on site, and shall be submitted to the fire prevention bureau upon request.Attach additional sheets as necessary.	_________ Continuous	_________ Daily	_________ Weekly	_______ Yes		_______ No
+_________ Continuous	_________ Daily	_________ Weekly
+_______ Yes		_______ No
+_____ Discharge to the Sanitary____________ Pretreatment—Sewer–Wastes: _________________Wastes: _________________________________________________________________________________________________________________________________________________________________Licensed Waste Hauler _________________Recycle _________________Wastes: _________________________Wastes: ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ Other—Describe Method: _______________________________________________________________________________________Wastes: _________________________________ No WasteB. Spill Containment:_________ Absorbents_________Other:___________________________C. Spill Control and Treatment:_________ Vapor Scrubber_________ Mechanical Ventilation_________ Pumps/vacuums_________ Secondary Containment_________ Neutralizer_________Other:___________________________4. Evacuation:_________ Immediate area evacuation routes posted_________ Entire building evacuation procedures developed_________ Assembly areas preplanned_________ Evacuation maps posted_________Other:_______________________________________________________________________________________________________________________________________________________________________________________________5. Supplemental hazardous materials emergency response plan on site.Location:_________________________________________________________________________________________Responsible Person:_________________________________________________________________________________________Phone:_________________________________________________________________________________________	_____ Discharge to the Sanitary	____________ Pretreatment—		Sewer–Wastes: _________________	Wastes: ___________________________________________________________		______________________________________________________________________________________________________	Licensed Waste Hauler _________________	Recycle _________________		Wastes: _________________________	Wastes: ________________________________________________________________	______________________________________________________________________________________________________	______________________________________________________________________________________________________	__________ Other—			Describe Method: _______________________________________________________________________________________	Wastes: ________________________			_________ No Waste			B. Spill Containment:			_________ Absorbents	_________Other:___________________________		C. Spill Control and Treatment:			_________ Vapor Scrubber	_________ Mechanical Ventilation		_________ Pumps/vacuums	_________ Secondary Containment		_________ Neutralizer	_________Other:___________________________		4. Evacuation:			_________ Immediate area evacuation routes posted			_________ Entire building evacuation procedures developed			_________ Assembly areas preplanned			_________ Evacuation maps posted			_________Other:_______________________________________________________________________________________________________________________________________________________________________________________________			5. Supplemental hazardous materials emergency response plan on site.			Location:_________________________________________________________________________________________			Responsible Person:_________________________________________________________________________________________			Phone:_________________________________________________________________________________________		
+_____ Discharge to the Sanitary	____________ Pretreatment—	
+Sewer–Wastes: _________________	Wastes: ___________________________________________________________	
+______________________________________________________________________________________________________
+Licensed Waste Hauler _________________	Recycle _________________	
+Wastes: _________________________	Wastes: ________________________________________________________________
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+__________ Other—		
+Describe Method: _______________________________________________________________________________________
+Wastes: ________________________		
+_________ No Waste		
+B. Spill Containment:		
+_________ Absorbents	_________Other:___________________________	
+C. Spill Control and Treatment:		
+_________ Vapor Scrubber	_________ Mechanical Ventilation	
+_________ Pumps/vacuums	_________ Secondary Containment	
+_________ Neutralizer	_________Other:___________________________	
+4. Evacuation:		
+_________ Immediate area evacuation routes posted		
+_________ Entire building evacuation procedures developed		
+_________ Assembly areas preplanned		
+_________ Evacuation maps posted		
+_________Other:_______________________________________________________________________________________________________________________________________________________________________________________________		
+5. Supplemental hazardous materials emergency response plan on site.		
+Location:_________________________________________________________________________________________		
+Responsible Person:_________________________________________________________________________________________		
+Phone:_________________________________________________________________________________________		
+SECTION V: RECORD KEEPINGDescription of our inspection program: _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ We will use the attached sample forms in our inspection program._____ We will not use the sample forms. We have attached a copy of our own forms.
+1.In the event of an emergency, the following shall be notified:A. On-site Responders:Name:Title: ____Home Number:________________________________________________________________________________________________________________________________________________________________________B. Method of Notification to Responder:_____ Automatic Alarm_____ Phone_____ Manual Alarm_____ Verbal_____ Other: __________________________________________________________________________________________________________________ _______________________________________________________________________________C. Agency:Phone Number:Fire Department:California Emergency Management Agency (Cal EMA):Other:____________________________________________________________________________________________________________________________________________________________________________________________________________2.Designated Local Emergency Medical Facility:Name:Address: __Phone (24 hours):____________________________________________________________________________________3.Mitigation Equipment:A. Monitoring Devices:______ Toxic or flammable gas detection______ Fluid detection______ Other:________________________________________________________________________________________________________________________________________________________________________________________________	Name:	Title: ____Home Number:		____________________________	____________________________	____________________________	____________________________	____________________________	____________________________	_____ Automatic Alarm	_____ Phone	_____ Manual Alarm	_____ Verbal	_____ Other: ___________________________________________________________________________________________	_______________________ _______________________________________________________________________________	C. Agency:	Phone Number:	Name:	Address: __Phone (24 hours):		____________________________	____________________________	____________________________
+Name:	Title: ____Home Number:	
+____________________________	____________________________	____________________________
+____________________________	____________________________	____________________________
+_____ Automatic Alarm	_____ Phone
+_____ Manual Alarm	_____ Verbal
+_____ Other: ___________________________________________________________________________________________
+_______________________ _______________________________________________________________________________
+C. Agency:	Phone Number:
+Name:	Address: __Phone (24 hours):	
+____________________________	____________________________	____________________________
+1.Person responsible for the emergency-response training plan:Name:Title:_____Phone:__________________________________________________________________2.Training Requirements:A. All employees trained in the following as indicated:_____ Procedures for internal alarm/notification_____ Procedures for notification of external emergency-response organization_____ Location and content of the emergency-response planB. Chemical handlers are trained in the following as indicated:_____ Safe methods for handling and storage of hazardous materials_____ Proper use of personal protective equipment_____ Locations and proper use of fire- and spill-control equipment_____ Specific hazards of each chemical to which they may be exposedC. Emergency-response team members are trained in the following:_____ Procedures for shutdown of operations_____ Procedures for using, maintaining and replacing facility emergency and monitoring equipment3.The following records are maintained for all employees:_____ Verification that training was completed by the employee_____ Description of the type and amount of introductory and continuing training_____ Documentation on and description of emergency-response drills conducted at the facility4.A more comprehensive and detailed emergency-response training plan is maintained on site.Location: ______________________________________________________________________________________________Responsible Person: _____________________________________________________________________________________Phone: ________________________________________________________________________________________________	Name:	Title:_____Phone:		______________________	______________________	______________________
+Name:	Title:_____Phone:	
+______________________	______________________	______________________1.Business Name: __________________________________________________________
+
+2.Address: ________________________________________________________________
+
+3.Declaration:Under penalty of perjury, I declare the above and subsequent information, provided as part of the hazardous materials inventory statement, is true and correct.Signature: _________________________________________________Date: _____________________________________Print Name: _______________________________________________Title: ______________________________________(Must be signed by owner/operator or designated representative)
+1.Business Name: __________________________________________________________
+
+2.Address: ________________________________________________________________
+
+3.Declaration:
+
+Under penalty of perjury, I declare the above and subsequent information, provided as part of the hazardous materials inventory statement, is true and correct.
+
+Signature: _________________________________________________Date: _____________________________________
+
+Print Name: _______________________________________________Title: ______________________________________
+
+(Must be signed by owner/operator or designated representative)
+
+(1)  HAZARD CLASS	(2) COMMON/TRADE NAME	(3) CHEMICAL NAME, COMPONENTS AND CONCENTRATION	(4) CHEMICALABSTRACT SERVICE NO.	(5) PHYSICALSTATE	(6) MAXIMUMQUANTITY ON HAND AT ANY TIME	(7) UNITS	(8) DAYS ONSITE	(9) STORAGECODE (TYPE, PRES., TEMP.)	(10) SARACLASS	(11) ANNUAL WASTETHROUGHPUTStorage Area Identification (as shown on facility map):_____________________________________
+
+1.Storage Type:___________ Original Containers___________ Safety Cans___________ Inside Machinery___________ Bulk Tank___________ 55-gallon (208.2 L)___________ Outside BarrelsDrums or Storage Shed___________ Pressurized Vessel___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+2.Storage Location:___________ Inside Building___________ Outside Building___________ Secured
+
+3.Separation:___________ All Materials___________ One-hour Separation___________ Compatible Wall/Partition___________ Separated by 20 Feet (6096 mm)___________ Approved Cabinets___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+4.Secondary Containment:___________ Approved Cabinet___________ Secondary Drums___________ Tray___________ Bermed, Coated Floor___________ Vaulted Tank___________ Double-wall Tank___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+5.Monitoring:___________ Visual___________ Continuous___________ Other: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Attach specifications if necessary
+
+6.Monitoring Frequency:___________Daily___________Weekly___________Other:_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Attach specifications if necessary
+1.Storage Type:
+
+___________ Original Containers	___________ Safety Cans	
+___________ Inside Machinery	___________ Bulk Tank	
+___________ 55-gallon (208.2 L)	___________ Outside Barrels	
+Drums or Storage Shed		
+___________ Pressurized Vessel		___________ Other: _____________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+2.Storage Location:
+
+___________ Inside Building		___________ Outside Building
+___________ Secured		3.Separation:
+
+___________ All Materials	___________ One-hour Separation	
+___________ Compatible Wall/Partition		
+___________ Separated by 20 Feet (6096 mm)	___________ Approved Cabinets	___________ Other: _____________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+4.Secondary Containment:
+
+___________ Approved Cabinet		___________ Secondary Drums
+___________ Tray		___________ Bermed, Coated Floor
+___________ Vaulted Tank		___________ Double-wall Tank___________ Other: _____________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+5.Monitoring:
+
+___________ Visual		___________ Continuous___________ Other: _____________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+Attach specifications if necessary
+
+6.Monitoring Frequency:
+
+___________Daily___________Weekly		___________Other:_____________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+Attach specifications if necessary
+
+Tank Area Identification (as shown on facility map): ___________________________________________
+
+1._____ Backfill Vapor Wells
+
+Model and Manufacturer: ______________________________________________________________________________________________________
+
+Continuous or Monthly Testing: ____________________________________________________________________________
+
+2._____ Groundwater Monitoring Wells
+
+3._____ Monthly Precision Tank Test
+
+4._____ Piping—
+
+Monitoring Method: _____________________________________________________________________________________
+
+Frequency: _____________________________________________________________________________________
+
+5._____ Other: _________________________________________________________________________________________
+
+Tank Area Identification (as shown on facility map):_____________________________________________________________
+
+1.Method of monitoring the annular space: ___________________________________________________________________
+
+2.Frequency:
+
+_________ Continuous	_________ Daily	_________ Weekly_________ Other: _______________________________________________________________________________________
+
+3.List the type of secondary containment for piping:
+
+_______________________________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+4.List the method of monitoring the secondary containment for piping: _____________________________________________
+
+5.Are there incompatible materials within the same vault?
+
+_______ Yes		_______ NoIf yes, how is separate secondary containment provided?_________________________________________________________
+
+______________________________________________________________________________________________________
+
+Note: If you have continuous monitoring equipment, you shall maintain copies of all service and maintenance work. Such reports shall be made available for review on site, and shall be submitted to the fire prevention bureau upon request.
+
+Attach additional sheets as necessary.
+
+_____ Discharge to the Sanitary	____________ Pretreatment—	
+Sewer–Wastes: _________________	Wastes: ___________________________________________________________	
+______________________________________________________________________________________________________
+Licensed Waste Hauler _________________	Recycle _________________	
+Wastes: _________________________	Wastes: ________________________________________________________________
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+__________ Other—		
+Describe Method: _______________________________________________________________________________________
+Wastes: ________________________		
+_________ No Waste		
+B. Spill Containment:		
+_________ Absorbents	_________Other:___________________________	
+C. Spill Control and Treatment:		
+_________ Vapor Scrubber	_________ Mechanical Ventilation	
+_________ Pumps/vacuums	_________ Secondary Containment	
+_________ Neutralizer	_________Other:___________________________	
+4. Evacuation:		
+_________ Immediate area evacuation routes posted		
+_________ Entire building evacuation procedures developed		
+_________ Assembly areas preplanned		
+_________ Evacuation maps posted		
+_________Other:_______________________________________________________________________________________________________________________________________________________________________________________________		
+5. Supplemental hazardous materials emergency response plan on site.		
+Location:_________________________________________________________________________________________		
+Responsible Person:_________________________________________________________________________________________		
+Phone:_________________________________________________________________________________________		Description of our inspection program: ______________________________________________________________________
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+_____ We will use the attached sample forms in our inspection program.
+
+_____ We will not use the sample forms. We have attached a copy of our own forms.
+
+1.In the event of an emergency, the following shall be notified:
+
+A. On-site Responders:
+
+Name:	Title: ____Home Number:	
+____________________________	____________________________	____________________________
+____________________________	____________________________	____________________________B. Method of Notification to Responder:
+
+_____ Automatic Alarm	_____ Phone
+_____ Manual Alarm	_____ Verbal
+_____ Other: ___________________________________________________________________________________________
+_______________________ _______________________________________________________________________________C. Agency:	Phone Number:Fire Department:
+
+California Emergency Management Agency (Cal EMA):
+
+Other:
+
+______________________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+2.Designated Local Emergency Medical Facility:
+
+Name:	Address: __Phone (24 hours):	
+____________________________	____________________________	____________________________3.Mitigation Equipment:
+
+A. Monitoring Devices:______ Toxic or flammable gas detection______ Fluid detection______ Other:________________________________________________________________________________________________________________________________________________________________________________________________
+A. Monitoring Devices:
+
+______ Toxic or flammable gas detection
+
+______ Fluid detection
+
+______ Other:__________________________________________________________________________________________
+
+______________________________________________________________________________________________________
+
+1.Person responsible for the emergency-response training plan:Name:Title:_____Phone:__________________________________________________________________
+
+2.Training Requirements:A. All employees trained in the following as indicated:_____ Procedures for internal alarm/notification_____ Procedures for notification of external emergency-response organization_____ Location and content of the emergency-response planB. Chemical handlers are trained in the following as indicated:_____ Safe methods for handling and storage of hazardous materials_____ Proper use of personal protective equipment_____ Locations and proper use of fire- and spill-control equipment_____ Specific hazards of each chemical to which they may be exposedC. Emergency-response team members are trained in the following:_____ Procedures for shutdown of operations_____ Procedures for using, maintaining and replacing facility emergency and monitoring equipment
+
+A. All employees trained in the following as indicated:_____ Procedures for internal alarm/notification_____ Procedures for notification of external emergency-response organization_____ Location and content of the emergency-response plan
+
+B. Chemical handlers are trained in the following as indicated:_____ Safe methods for handling and storage of hazardous materials_____ Proper use of personal protective equipment_____ Locations and proper use of fire- and spill-control equipment_____ Specific hazards of each chemical to which they may be exposed
+
+C. Emergency-response team members are trained in the following:_____ Procedures for shutdown of operations_____ Procedures for using, maintaining and replacing facility emergency and monitoring equipment
+
+3.The following records are maintained for all employees:_____ Verification that training was completed by the employee_____ Description of the type and amount of introductory and continuing training_____ Documentation on and description of emergency-response drills conducted at the facility
+
+4.A more comprehensive and detailed emergency-response training plan is maintained on site.Location: ______________________________________________________________________________________________Responsible Person: _____________________________________________________________________________________Phone: ________________________________________________________________________________________________
+1.Person responsible for the emergency-response training plan:
+
+Name:	Title:_____Phone:	
+______________________	______________________	______________________2.Training Requirements:
+
+A. All employees trained in the following as indicated:_____ Procedures for internal alarm/notification_____ Procedures for notification of external emergency-response organization_____ Location and content of the emergency-response plan
+
+B. Chemical handlers are trained in the following as indicated:_____ Safe methods for handling and storage of hazardous materials_____ Proper use of personal protective equipment_____ Locations and proper use of fire- and spill-control equipment_____ Specific hazards of each chemical to which they may be exposed
+
+C. Emergency-response team members are trained in the following:_____ Procedures for shutdown of operations_____ Procedures for using, maintaining and replacing facility emergency and monitoring equipment
+A. All employees trained in the following as indicated:
+
+_____ Procedures for internal alarm/notification
+
+_____ Procedures for notification of external emergency-response organization
+
+_____ Location and content of the emergency-response plan
+
+B. Chemical handlers are trained in the following as indicated:
+
+_____ Safe methods for handling and storage of hazardous materials
+
+_____ Proper use of personal protective equipment
+
+_____ Locations and proper use of fire- and spill-control equipment
+
+_____ Specific hazards of each chemical to which they may be exposed
+
+C. Emergency-response team members are trained in the following:
+
+_____ Procedures for shutdown of operations
+
+_____ Procedures for using, maintaining and replacing facility emergency and monitoring equipment
+
+3.The following records are maintained for all employees:
+
+_____ Verification that training was completed by the employee
+
+_____ Description of the type and amount of introductory and continuing training
+
+_____ Documentation on and description of emergency-response drills conducted at the facility
+
+4.A more comprehensive and detailed emergency-response training plan is maintained on site.
+
+Location: ______________________________________________________________________________________________
+
+Responsible Person: _____________________________________________________________________________________
+
+Phone: ________________________________________________________________________________________________
+

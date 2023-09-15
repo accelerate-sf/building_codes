@@ -1,0 +1,650 @@
+Chapter 17 Referenced Standards
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter																							
+Adopt Entire Chapter asamended (amended sectionslisted below)	X		X	X				X	X	X	X	X	X	X	X								
+Adopt only those sectionsthat are listed below																							
+Chapter/Section																							
+Table 1701.1	X		X	X				X	X	X	X	X	X	X	X								
+Table 1701.2				X				X	X														
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1701.0 General
+1701.1 Standards
+STANDARD NUMBER	STANDARD TITLE	APPLICATION	REFERENCEDSECTIONS
+49 CFR 192.281	Plastic Pipe	Plastic, Pipe	1208.6.7.2
+49 CFR 192.283	Plastic Pipe: Qualifying Joining Procedures	Plastic, Pipe	1208.6.7.2
+ANSI/AAMI RD62	Water Treatment Equipment for Hemodialysis Applications	Miscellaneous	614.7
+ARCSA/ASPE 63-2013	Rainwater Catchment Systems	Miscellaneous	1602.1
+ASME A112.1.2-2012(R2017)	Air Gaps in Plumbing Systems (For Plumbing Fixtures andWater-Connected Receptors)	Fittings	Table 603.2
+ASME A112.1.3-2000(R2015)	Air Gap Fittings for Use with Plumbing Fixtures, Appliances,and Appurtenances	Fittings	Table 603.2
+ASME A112.3.1-2007(R2017)	Stainless Steel Drainage Systems for Sanitary DWV, Storm,and Vacuum Applications, Above- and Below-Ground	Piping	418.1, Table 701.2,705.7.2, 1102.1
+ASME A112.3.4-2018/CSAB45.9-2018	Macerating Toilet Systems and Waste-Pumping Systems forPlumbing Fixtures	Fixtures	710.13
+ASME A112.4.1-2009(R2014)	Water Heater Relief Valve Drain Tubes	Appliances	608.5
+ASME A112.4.2-2015/CSAB45.16-2015	Personal Hygiene Devices for Water Closets	Fixtures	411.4
+ASME A112.4.4-2017	Plastic Push-Fit Drain, Waste, and Vent (DWV) Fittings	Fittings	Table 701.2
+ASME A112.4.14-2017/CSA B125.14-2017	Manually Operated Valves for Use in Plumbing Systems	Valves	606.1
+ASME A112.6.1M-1997(R2017)	Floor-Affixed Supports for Off-the-Floor Plumbing Fixturesfor Public Use	Fixtures	402.4
+ASME A112.6.2-2017	Framing-Affixed Supports (Carriers) for Off-the-Floor PlumbingFixtures	Fixtures	402.4
+ASME A112.6.3-2016	Floor and Trench Drains	Fixtures	418.1
+ASME A112.6.4-2003(R2012)	Roof, Deck, and Balcony Drains	Fixtures	1102.1
+ASME A112.6.7-2010(R2015)	Sanitary Floor Sinks	Fixtures	421.1
+ASME A112.6.9-2005(R2015)	Siphonic Roof Drains	DWV Components	1106.3
+ASME A112.14.1-2003(R2017)	Backwater Valves	Valves	710.6
+ASME A112.14.3-2018	Hydromechanical Grease Interceptors	Fixtures	1014.1
+ASME A112.14.4-2001(R2017)	Grease Removal Devices	Fixtures	1014.1
+ASME A112.14.6-2010(R2015)	FOG (Fats, Oils, and Greases) Disposal Systems	Fixtures	1015.2
+ASME A112.18.1-2018/CSA B125.1-2018	Plumbing Supply Fittings	Fittings	408.3, 417.1, 417.2,417.3, 417.4, 417.6,603.5.19
+ASME A112.18.2-2015/CSA B125.2-2015	Plumbing Waste Fittings	Fittings	404.1
+ASME A112.18.3-2002(R2017)	Backflow Protection Devices and Systems in Plumbing FixtureFittings	Backflow Protection	417.3, 417.4
+ASME A112.18.6-2017/CSA B125.6-2017	Flexible Water Connectors	Piping	604.5, 604.13
+ASME A112.18.9-2011(R2017)	Protectors/Insulators for Exposed Waste and Supplies onAccessible Fixtures	Miscellaneous	403.3
+ASME A112.19.1-2018/CSA B45.2-2018	Enameled Cast Iron and Enameled Steel Plumbing Fixtures	Fixtures	407.1, 408.1, 409.1,415.1, 420.1
+ASME A112.19.2-2018/CSA B45.1-2018	Ceramic Plumbing Fixtures	Fixtures	407.1, 408.1, 409.1,410.1, 411.1, 412.1,415.1, 420.1
+ASME A112.19.3-2017/CSA B45.4-2017	Stainless Steel Plumbing Fixtures	Fixtures	407.1, 408.1, 409.1,410.1, 411.1, 415.1,420.1
+ASME A112.19.5-2017/CSA B45.15-2017	Flush Valves and Spuds for Water Closets, Urinals, and Tanks	Fixtures	413.3
+ASME A112.19.7-2012/CSA B45.10-2012(R2017)	Hydromassage Bathtub Systems	Fixtures	409.1, 409.6
+ASME A112.19.12-2014	Wall Mounted, Pedestal Mounted, Adjustable, Elevating, Tilting,and Pivoting Lavatory, Sink, and Shampoo Bowl CarrierSystems and Drain Waste Systems	Fixtures	407.1, 420.1
+ASME A112.19.14-2013(R2018)	Six-Liter Water Closets Equipped with a Dual Flushing Device	Fixtures	411.2.1
+ASME A112.19.15-2012(R2017)	Bathtubs/Whirlpool Bathtubs with Pressure Sealed Doors	Fixtures	409.1
+ASME A112.19.19-2016	Vitreous China Nonwater Urinals	Fixtures	412.1, 412.1.2
+ASME A112.36.2M-1991(R2017)	Cleanouts	DWV Components	Table 707.2
+ASME B1.20.1-2013	Pipe Threads, General Purpose, Inch	Joints	605.1.5, 605.2.3,605.5.2, 605.12.3,705.1.3, 705.3.4,705.4.2, 705.6.3,1208.6.9, 1322.5(2)
+ASME B16.1-2015	Gray Iron Pipe Flanges and Flanged Fittings: Classes 25, 125,and 250	Fittings	1208.6.12.1
+ASME B16.3-2016	Malleable Iron Threaded Fittings: Classes 150 and 300	Fittings	Table 604.1,Table 701.2
+ASME B16.4-2016	Gray Iron Threaded Fittings: Classes 125 and 250	Fittings	Table 604.1
+ASME B16.5-2017	Pipe Flanges and Flanged Fittings: NPS 1/2 through NPS 24Metric/Inch	Fittings	1208.6.12.2(1)
+ASME B16.12-2009 (R2014)	Cast Iron Threaded Drainage Fittings	Fittings	Table 701.2
+ASME B16.15-2018	Cast Copper Alloy Threaded Fittings: Classes 125 and 250	Fittings	Table 604.1
+ASME B16.18-2018	Cast Copper Alloy Solder Joint Pressure Fittings	Fittings	Table 604.1
+ASME B16.20-2017	Metallic Gaskets for Pipe Flanges	Joints	1208.6.13.2
+ASME B16.21-2016	Nonmetallic Flat Gaskets for Pipe Flanges	Joints	1208.6.13.3
+ASME B16.22-2018	Wrought Copper and Copper Alloy Solder-Joint Pressure Fittings	Fittings	Table 604.1, 1321.1
+ASME B16.23-2016	Cast Copper Alloy Solder Joint Drainage Fittings: DWV	Fittings	Table 701.2
+ASME B16.24-2016	Cast Copper Alloy Pipe Flanges, Flanged Fittings, and Valves:Classes 150, 300, 600, 900, 1500, and 2500	Fittings	1208.6.12.3
+ASME B16.26-2018	Cast Copper Alloy Fittings for Flared Copper Tubes	Fittings	Table 604.1
+ASME B16.29-2017	Wrought Copper and Wrought Copper Alloy Solder-JointDrainage Fittings — DWV	Fittings	Table 701.2
+ASME B16.34-2017	Valves-Flanged, Threaded, and Welding End	Valves	606.1
+ASME B16.42-2016	Ductile Iron Pipe Flanges and Flanged Fittings: Classes 150and 300	Fuel Gas Piping	1208.6.12.4
+ASME B16.47-2017	Large Diameter Steel Flanges: NPS 26 through NPS 60 Metric/Inch	Fittings	1208.6.12.2(2)
+ASME B16.50-2018	Wrought Copper and Copper Alloy Braze-Joint Pressure Fittings	Fittings	Table 604.1, 1321.1,1321.11
+ASME B16.51-2018	Copper and Copper Alloy Press-Connect Pressure Fittings	Fittings	Table 604.1
+ASME B31.3-2016	Process Piping	Piping	1308.2(9)
+ASME B36.10M-2018	Welded and Seamless Wrought Steel Pipe	Fuel Gas, Piping	1208.6.3.1
+ASME BPVC SectionVIII.1-2017	Rules for Construction of Pressure Vessels - Division 1	Miscellaneous	505.4, 1309.5(2),1310.4(2), 1312.3(2)
+ASME BPVC Section IX-2017	Welding, Brazing, and Fusing Qualifications - QualificationStandard for Welding, Brazing, and Fusing Procedures;Welders; Brazers; and Welding, Brazing, and Fusing Operators	Miscellaneous	1322.1.1, 1322.2.1,1323.11
+ASPE 45-2019	Siphonic Roof Drainage	Storm Drainage	1106.2
+ASSE 1001-2017	Atmospheric Type Vacuum Breakers	Backflow Protection	Table 603.2
+ASSE 1002/ASMEA112.1002/CSA B125.12-2015	Anti-Siphon Fill Valves for Water Closet Tanks	Backflow Protection	413.3, Table 603.2
+ASSE 1003-2009	Water Pressure Reducing Valves for Domestic Water DistributionSystems	Valves	608.2
+ASSE 1004-2017	Commercial Dishwashing Machines	Backflow Protection	414.2
+ASSE 1008-2006	Plumbing Aspects of Residential Food Waste Disposer Units	Appliances	419.1
+ASSE 1010-2004	Water Hammer Arresters	Appliances	609.11
+ASSE 1011-2017	Hose Connection Vacuum Breakers	Backflow Protection	Table 603.2
+ASSE 1012-2009	Backflow Preventers with an Intermediate Atmospheric Vent	Backflow Protection	Table 603.2
+ASSE 1013-2011	Reduced Pressure Principle Backflow Preventers and ReducedPressure Principle Fire Protection Backflow Preventers	Backflow Protection	Table 603.2
+ASSE 1014-2005	Backflow Prevention Devices for Hand-Held Shower	Backflow Protection	417.3
+ASSE 1015-2011	Double Check Backflow Prevention Assemblies and DoubleCheck Fire Protection Backflow Prevention Assemblies	Backflow Protection	Table 603.2
+ASSE 1016-2017/ASMEA112.1016-2017/CSAB125.16-2017	Automatic Compensating Valves for Individual Showers andTub/Shower Combinations	Valves	408.3, 408.3.2(1)
+ASSE 1018-2001	Trap Seal Primer Valves - Potable Water Supplied	Valves	1007.2
+ASSE 1019-2011 (R2016)	Wall Hydrant with Backflow Protection and Freeze Resistance	Backflow Protection	Table 603.2
+ASSE 1020-2004	Pressure Vacuum Breaker Assembly	Backflow Protection	Table 603.2
+ASSE 1022-2017	Backflow Preventer for Beverage Dispensing Equipment	Backflow Protection	Table 603.2,603.5.12
+ASSE 1023-1979	Hot Water Dispensers Household Storage Type - Electrical	Appliances	417.6
+ASSE 1024-2017	Dual Check Backflow Preventers	Backflow Protection	Table 603.2
+ASSE 1035-2008	Laboratory Faucet Backflow Preventers	Backflow Protection	Table 603.2,603.3.11
+ASSE 1037-2015/ASMEA112.1037-2015/CSAB125.37-2015	Pressurized Flushing Devices for Plumbing Fixtures	Backflow Protection	413.2
+ASSE 1044-2015	Trap Seal Primer - Drainage Types and Electric Design Types	DWV Components	1007.2
+ASSE 1047-2011	Reduced Pressure Detector Fire Protection Backflow PreventionAssemblies	Backflow Protection	Table 603.2
+ASSE 1048-2011	Double Check Detector Fire Protection Backflow PreventionAssemblies	Backflow Protection	Table 603.2
+ASSE 1052-2016	Hose Connection Backflow Preventers	Backflow Protection	Table 603.2
+ASSE 1053-2004	Dual Check Backflow Preventer Wall Hydrants — FreezeResistant Type	Backflow Protection	Table 603.2
+ASSE/IAPMO 1055-2020	Chemical Dispensers with Integral Backflow Protection	Backflow Protection	603.5.21
+ASSE 1056-2013	Spill Resistant Vacuum Breaker Assemblies	Backflow Protection	Table 603.2
+ASSE 1057-2012	Freeze Resistant Sanitary Yard Hydrants with Backflow Protection	Backflow Protection	Table 603.2
+ASSE 1060-2017	Outdoor Enclosures for Fluid Conveying Components	Miscellaneous	603.4.7
+ASSE 1061-2015	Push-Fit Fittings	Fittings	Table 604.1,605.1.3.3, 605.2.1.1,605.3.2.1, 605.9.3
+ASSE 1062-2017	Temperature Actuated, Flow Reduction (TAFR) Valves forIndividual Supply Fittings	Valves	408.3.2(5)
+ASSE 1064-2006 (R2011)	Performance Requirements for Backflow Prevention AssemblyField Test Kits	Backflow Protection	603.4.2
+ASSE 1069-2005	Automatic Temperature Control Mixing Valves	Valves	408.3.1, 408.3.2(2)
+ASSE 1070-2015/ASMEA112.1070-2015/CSAB125.70-2015	Water Temperature Limiting Devices	Valves	407.3(1), 408.3.2(3),409.4(1), 410.3(1)
+ASSE 1071-2012	Temperature Actuated Mixing Valves for Plumbed EmergencyEquipment	Valves	416.2
+ASSE 1079-2012	Dielectric Pipe Unions	Fittings	605.15, 605.16.1,605.16.3
+ASSE 1081-2014	Backflow Preventers with Integral Pressure Reducing BoilerFeed Valve and Intermediate Atmospheric Vent Style forDomestic and Light Commercial Water Distribution Systems	Backflow Protection	Table 603.2
+ASSE 1084-2018	Water Heaters with Temperature Limiting Capacity	Appliances	407.3(2), 408.3.2(4),409.4(2), 410.3(2)
+ASSE 1085-2018	Water Heaters for Emergency Equipment	Appliances	416.2
+ASSE 1087-2018	Commercial and Food Service Water Treatment EquipmentUtilizing Drinking Water	Water Conditioning,Water Treatment	Table 611.1
+ASSE Series 5000-2015	Cross-Connection Control Professional Qualifications Standard	Certification	603.2, 603.4.2
+ASSE Series 6000-2015	Professional Qualifications Standard for Medical Gas SystemsPersonnel	Certification	1323.10
+ASSE 6020-2015	Medical Gas Systems Inspectors	Miscellaneous	1324.5.4.7,1324.5.6.2, 1324.5.6.5
+ASSE 6030-2015	Medical Gas Systems Verifiers	Miscellaneous	1324.5.4.7,1324.5.6.2,1324.5.6.5,1324.5.7.2
+ASSE 6035-2015	Bulk Medical Gas Systems Verifiers	Miscellaneous	1324.5.7.3
+ASSE Series 7000-2013	Residential Potable Water Fire Protection System Installers &Inspectors for One and Two Family Dwellings	Miscellaneous	612.1
+ASSE/IAPMO 12010-2018	Biological Pathogens Professional Qualifications Standard forConstruction and Maintenance Personnel	ProfessionalQualifications	1303.9
+ASSE/IAPMO 12030-2018	Waterborne Pathogens Professional Qualifications Standard forConstruction and Maintenance Personnel	ProfessionalQualifications	1303.9
+ASSE/IAPMO 12040-2018	Professional Qualifications Standard for Construction andMaintenance Personnel for Contamination/Infection PreventionProcedures to Protect Facility Occupants and Operations	ProfessionalQualifications	1303.9
+ASSE Z359.1-2016	The Fall Protection Code	Miscellaneous	508.2.1.1
+ASTM A53/A53M-2018	Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded andSeamless	Piping	Table 604.1, Table701.2, 1208.6.3.1(1)
+ASTM A74-2017	Cast Iron Soil Pipe and Fittings	Piping	301.2.4, Table 701.2
+ASTM A106/A106M-2018	Seamless Carbon Steel Pipe for High-Temperature Service	Piping	1208.6.3.1(2)
+ASTM A254/A254M-2012	Copper-Brazed Steel Tubing	Piping	1208.6.4.2
+ASTM A268/A268M-2010(R2016)	Seamless and Welded Ferritic and Martensitic Stainless SteelTubing for General Service	Piping	1208.6.4.1(1)
+ASTM A269/A269M-2015a	Seamless and Welded Austenitic Stainless Steel Tubing forGeneral Service	Piping	Table 604.1,1208.6.4.1(2),1319.1(2)(a)
+ASTM A312/A312M-2018a	Seamless, Welded, and Heavily Cold Worked Austenitic StainlessSteel Pipes	Piping	Table 604.1,1208.6.3.1(3),1319.1(2)(b),1319.1(2)(c)
+ASTM A403/A403M-2018a	Wrought Austenitic Stainless Steel Piping Fittings	Fittings	1319.1(2)(c)
+ASTM A554-2016	Welded Stainless Steel Mechanical Tubing	Piping	Table 604.1
+ASTM A778-2016	Welded, Unannealed Austenitic Stainless Steel Tubular Products	Piping	Table 604.1
+ASTM A861-2004 (R2017)	High-Silicon Iron Pipe and Fittings	Piping	811.2
+ASTM A888-2018a	Hubless Cast Iron Soil Pipe and Fittings for Sanitary and StormDrain, Waste, and Vent Piping Applications	Piping	301.2.4, Table 701.2,Table 707.2
+ASTM A1056-2012(R2017)	Cast Iron Couplings used for Joining Hubless Cast Iron SoilPipe and Fittings	Fittings	705.2.2
+ASTM B32-2008 (R2014)	Solder Metal	Joints	605.1.4, 705.3.3
+ASTM B42-2015a	Seamless Copper Pipe, Standard Sizes	Piping	Table 604.1
+ASTM B43-2015	Seamless Red Brass Pipe, Standard Sizes	Piping	Table 604.1,Table 701.2
+ASTM B75/B75M-2011	Seamless Copper Tube	Piping	Table 604.1,Table 701.2
+ASTM B88-2016	Seamless Copper Water Tube	Piping	Table 604.1, 604.4,903.2.3, 1208.6.4.3,1319.1(1)(a)
+ASTM B135/B135M-2017	Seamless Brass Tube	Piping	Table 604.1
+ASTM B152/B152M-2013	Copper Sheet, Strip, Plate, and Rolled Bar	Miscellaneous	408.7.4
+ASTM B210-2012	Aluminum and Aluminum-Alloy Drawn Seamless Tubes	Piping	1208.6.4.4
+ASTM B241/B241M-2016	Aluminum and Aluminum-Alloy Seamless Pipe and SeamlessExtruded Tube	Piping	1208.6.3.3,1208.6.4.4
+ASTM B251/B251M-2017	General Requirements for Wrought Seamless Copper andCopper-Alloy Tube	Piping	Table 604.1,Table 701.2
+ASTM B280-2018	Seamless Copper Tube for Air Conditioning and RefrigerationField Service	Piping	1208.6.4.3,1319.1(1)(b)
+ASTM B302-2017	Threadless Copper Pipe, Standard Sizes	Piping	Table 604.1,Table 701.2
+ASTM B306-2013	Copper Drainage Tube (DWV)	Piping	Table 701.2, 903.2.3
+ASTM B447-2012a	Welded Copper Tube	Piping	Table 604.1
+ASTM B813-2016	Liquid and Paste Fluxes for Soldering of Copper and CopperAlloy Tube	Joints	605.1.4, 705.3.3
+ASTM B819-2018	Seamless Copper Tube for Medical Gas Systems	Piping	1318.4, 1318.5, 1319.1(1)(c),1319.1.1
+ASTM B828-2016	Making Capillary Joints by Soldering of Copper and CopperAlloy Tube and Fittings	Joints	605.1.4, 705.3.3
+ASTM C4-2004 (R2018)	Clay Drain Tile and Perforated Clay Drain Tile	Piping	Table 1101.4.6
+ASTM C425-2004 (R2018)	Compression Joints for Vitrified Clay Pipe and Fittings	Joints	705.8.1
+ASTM C564-2014	Rubber Gaskets for Cast Iron Soil Pipe and Fittings	Joints	705.2.2
+ASTM C700-2018	Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated	Piping	Table 701.2,Table 1101.4.6
+ASTM C1053-2000(R2015)	Borosilicate Glass Pipe and Fittings for Drain, Waste, and Vent(DWV) Applications	Piping	811.2
+ASTM C1173-2018	Flexible Transition Couplings for Underground Piping Systems	Fittings	705.10
+ASTM C1277-2018	Shielded Couplings Joining Hubless Cast Iron Soil Pipe andFittings	Fixtures	301.2.4, 705.2.2
+ASTM C1460-2017	Shielded Transition Couplings for Use With Dissimilar DWVPipe and Fittings Above Ground	Joints	705.10
+ASTM C1461-2008(R2017)	Mechanical Couplings Using Thermoplastic Elastomeric (TPE)Gaskets for Joining Drain, Waste, and Vent (DWV), Sewer,Sanitary, and Storm Plumbing Systems for Above and BelowGround Use	Joints	705.10
+ASTM C1540-2018	Heavy-Duty Shielded Couplings Joining Hubless Cast Iron SoilPipe and Fittings	Joints	705.2.2
+ASTM C1563-2008(R2017)	Gaskets for Use in Connection with Hub and Spigot Cast IronSoil Pipe and Fittings for Sanitary Drain, Waste, Vent, andStorm Piping Applications	Joints	705.2.2
+ASTM C1822-2015	Insulating Covers on Accessible Lavatory Piping	Miscellaneous	403.3
+ASTM D1253-2014	Standard Test Method for Residual Chlorine in Water	Miscellaneous	1506.9.6, 1603.5.2
+ASTM D1785-2015e1	Poly (Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80,and 120	Piping	Table 604.1, Table701.2
+ASTM D2235-2004(R2016)	Solvent Cement for Acrylonitrile-Butadiene-Styrene (ABS)Plastic Pipe and Fittings	Joints	705.1.2
+ASTM D2239-2012a	Polyethylene (PE) Plastic Pipe (SIDR-PR) Based on ControlledInside Diameter	Piping	Table 604.1
+ASTM D2241-2015	Poly (Vinyl Chloride) (PVC) Pressure-Rated Pipe (SDR Series)	Piping	Table 604.1
+ASTM D2464-2015	Threaded Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings,Schedule 80	Fittings	Table 604.1
+ASTM D2466-2017	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 40	Fittings	Table 604.1
+ASTM D2467-2015	Poly (Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80	Fittings	Table 604.1
+ASTM D2513-2018a	Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings	Piping	1208.6.5, 1208.6.7.2,1208.6.11.2,1210.1.7.1(1)
+ASTM D2564-2012(R2018)	Solvent Cements for Poly (Vinyl Chloride) (PVC) Plastic PipingSystems	Joints	605.12.2, 705.6.2
+ASTM D2609-2015	Plastic Insert Fittings for Polyethylene (PE) Plastic Pipe	Fittings	Table 604.1
+ASTM D2661-2014e1	Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40 PlasticDrain, Waste, and Vent Pipe and Fittings	Piping	Table 701.2, Table707.2
+ASTM D2665-2014	Poly (Vinyl Chloride) (PVC) Plastic Drain, Waste, and VentPipe and Fittings	Piping	Table 701.2, Table707.2
+ASTM D2680-2001(R2014)	Acrylonitrile-Butadiene-Styrene (ABS) and Poly (Vinyl Chloride)(PVC) Composite Sewer Piping	Piping	Table 701.2
+ASTM D2683-2014	Socket-Type Polyethylene Fittings for Outside Diameter-ControlledPolyethylene Pipe and Tubing	Fittings	Table 604.1
+ASTM D2729-2017	Poly (Vinyl Chloride) (PVC) Sewer Pipe and Fittings	Piping	Table 701.2,Table 1101.4.6
+ASTM D2737-2012a	Polyethylene (PE) Plastic Tubing	Piping, Plastic	Table 604.1
+ASTM D2846/D2846M-2019	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Hot- andCold-Water Distribution Systems	Piping	Table 604.1, 605.2.2,605.3.1
+ASTM D3034-2016	Type PSM Poly (Vinyl Chloride) (PVC) Sewer Pipe and Fittings	Piping, Plastic	Table 701.2
+ASTM D3035-2015	Polyethylene (PE) Plastic Pipe (DR-PR) Based on ControlledOutside Diameter	Piping	Table 604.1
+ASTM D3138-2004(R2016)	Solvent Cement for Transition Joints Between Acrylonitrile-Butadiene-Styrene (ABS) and Poly (Vinyl Chloride) (PVC)Non-Pressure Piping Components	Joints	705.9.4
+ASTM D3139-1998(R2011)	Joints for Plastic Pressure Pipes Using Flexible ElastomericSeals	Joints	605.12.1
+ASTM D3212-2007(R2013)	Joints for Drain and Sewer Plastic Pipes Using Flexible ElastomericSeals	Joints	705.1.1, 705.6.1
+ASTM D3261-2016	Butt Heat Fusion Polyethylene (PE) Plastic Fittings for Polyethylene(PE) Plastic Pipe and Tubing	Fittings	Table 604.1
+ASTM D4068-2017	Chlorinated Polyethylene (CPE) Sheeting for ConcealedWater-Containment Membrane	Miscellaneous	408.7.2
+ASTM D4551-2017	Poly (Vinyl Chloride) (PVC) Plastic Flexible ConcealedWater-Containment Membrane	Miscellaneous	408.7.1
+ASTM E84-2018b	Surface Burning Characteristics of Building Materials	Miscellaneous	701.2(2), 903.1(2),1101.4
+ASTM E119-2018ce1	Fire Tests of Building Construction and Materials	Miscellaneous	1404.3, 1405.3
+ASTM E814-2013a (R2017)	Fire Tests of Penetration Firestop Systems	Miscellaneous	1404.3, 1405.3
+ASTM F409-2017	Thermoplastic Accessible and Replaceable Plastic Tube andTubular Fittings	Piping, Plastic	404.1
+ASTM F437-2015	Threaded Chlorinated Poly (Vinyl Chloride) (CPVC) PlasticPipe Fittings, Schedule 80	Fittings	Table 604.1
+ASTM F438-2017	Socket-Type Chlorinated Poly (Vinyl Chloride) (CPVC) PlasticPipe Fittings, Schedule 40	Fittings	Table 604.1
+ASTM F439-2013	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe Fittings,Schedule 80	Fittings	Table 604.1
+ASTM F441/F441M-2015	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe, Schedules40 and 80	Piping	Table 604.1
+ASTM F442/F442M-2013e1	Chlorinated Poly (Vinyl Chloride) (CPVC) Plastic Pipe (SDR-PR)	Piping	Table 604.1, 605.2.2
+ASTM F493-2014	Solvent Cements for Chlorinated Poly (Vinyl Chloride)(CPVC) Plastic Pipe and Fittings	Joints	605.2.2, 605.3.1
+ASTM F628-2012e3	Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40 PlasticDrain, Waste, and Vent Pipe with a Cellular Core	Piping	Table 701.2
+ASTM F656-2015	Primers for Use in Solvent Cement Joints of Poly (Vinyl Chloride)(PVC) Plastic Pipe and Fittings	Joints	605.2.2, 605.3.1,605.12.2, 705.6.2
+ASTM F667/F667M-2016	3 through 24 in. Corrugated Polyethylene Pipe and Fittings	Piping, Plastic	Table 1101.4.6
+ASTM F714-2013	Polyethylene (PE) Plastic Pipe (DR-PR) Based on OutsideDiameter	Piping	Table 701.2
+ASTM F794-2003 (R2014)	Poly (Vinyl Chloride) (PVC) Profile Gravity Sewer Pipe andFittings Based on Controlled Inside Diameter	Piping	Table 701.2
+ASTM F876-2017	Crosslinked Polyethylene (PEX) Tubing	Piping	Table 604.1, 605.9.1
+ASTM F877-2018a	Crosslinked Polyethylene (PEX) Hot- and Cold-Water DistributionSystems	Piping	Table 604.1
+ASTM F891-2016	Coextruded Poly (Vinyl Chloride) (PVC) Plastic Pipe with aCellular Core	Piping	Table 701.2
+ASTM F894-2013	Polyethylene (PE) Large Diameter Profile Wall Sewer andDrain Pipe	Piping, Plastic	Table 701.2
+ASTM F1055-2016a	Electrofusion Type Polyethylene Fittings for Outside DiameterControlled Polyethylene and Crosslinked Polyethylene (PEX)Pipe and Tubing	Fittings	Table 604.1,705.5.1.2
+ASTM F1216-2016	Rehabilitation of Existing Pipelines and Conduits by the Inversionand Curing of a Resin-Impregnated Tube	Piping	715.3
+ASTM F1281-2017	Crosslinked Polyethylene/Aluminum/Crosslinked Polyethylene(PEX-AL-PEX) Pressure Pipe	Piping	Table 604.1
+ASTM F1282-2017	Polyethylene/Aluminum/Polyethylene (PE-AL-PE) CompositePressure Pipe	Piping	Table 604.1
+ASTM F1336-2015	Poly (Vinyl Chloride) (PVC) Gasketed Sewer Fittings	Fittings	Table 701.2
+ASTM F1412-2016	Polyolefin Pipe and Fittings for Corrosive Waste Drainage Systems	Piping	811.2
+ASTM F1488-2014 (R2019)	Coextruded Composite Pipe	Piping	Table 701.2
+ASTM F1673-2010 (R2016)	Polyvinylidene Fluoride (PVDF) Corrosive Waste DrainageSystems	Piping	811.2
+ASTM F1760-2016	Coextruded Poly(Vinyl Chloride) PVC Non-Pressure PlasticPipe Having Reprocessed Recycled Content	Piping	Table 701.2
+ASTM F1807-2018a	Metal Insert Fittings Utilizing a Copper Crimp Ring for SDR9Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethyleneof Raised Temperature (PE-RT) Tubing	Fittings	Table 604.1
+ASTM F1866-2018	Poly (Vinyl Chloride) (PVC) Plastic Schedule 40 Drainage andDWV Fabricated Fittings	Fittings	Table 701.2
+ASTM F1960-2018a	Cold Expansion Fittings with PEX Reinforcing Rings for Usewith Cross-linked Polyethylene (PEX) and Polyethylene ofRaised Temperature (PE-RT) Tubing	Fittings	Table 604.1
+ASTM F1970-2012e1	Special Engineered Fittings, Appurtenances or Valves for Usein Poly (Vinyl Chloride) (PVC) or Chlorinated Poly (VinylChloride) (CPVC) Systems	Piping	Table 604.1, 606.1
+ASTM F1973-2013 (R2018)	Factory Assembled Anodeless Risers and Transition Fittings inPolyethylene (PE) and Polyamide 11 (PA11) and Polyamide 12(PA12) Fuel Gas Distribution Systems	Fuel Gas	1210.1.7.1(2)
+ASTM F1974-2009 (R2015)	Metal Insert Fittings for Polyethylene/ Aluminum/Polyethyleneand Crosslinked Polyethylene/Aluminum/Crosslinked PolyethyleneComposite Pressure Pipe	Fittings	Table 604.1, 605.7.1,605.10.1
+ASTM F1986-2001 (R2011)	Multilayer Pipe Type 2, Compression Fittings, and CompressionJoints for Hot and Cold Drinking-Water Systems	Fittings	Table 604.1
+ASTM F2080-2018	Cold-Expansion Fittings with Metal Compression-Sleeves forCrosslinked Polyethylene (PEX) Pipe and SDR9 Polyethyleneof Raised Temperature (PE-RT) Pipe	Fittings	Table 604.1
+ASTM F2098-2015	Stainless Steel Clamps for Securing SDR9 Cross-linked Polyethylene(PEX) Tubing to Metal Insert and Plastic Insert Fittings	Fittings	Table 604.1
+ASTM F2159-2018a	Plastic Insert Fittings Utilizing a Copper Crimp Ring for SDR9Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethyleneof Raised Temperature (PE-RT) Tubing	Fittings	Table 604.1
+ASTM F2389-2017a	Pressure-Rated Polypropylene (PP) Piping Systems	Piping	Table 604.1,605.11.1, 606.1,
+ASTM F2434-2018	Metal Insert Fittings Utilizing a Copper Crimp Ring for SDR9Cross-linked Polyethylene (PEX) Tubing and SDR9 Cross-linked Polyethylene/Aluminum/Cross-linked Polyethylene(PEX-AL-PEX) Tubing	Fittings	Table 604.1,605.10.1
+ASTM F2509-2015	Field-Assembled Anodeless Riser Kits for Use on OutsideDiameter Controlled Polyethylene and Polyamide-11 (PA11)Gas Distribution Pipe and Tubing	Fuel Gas	1210.1.7.1(3)
+ASTM F2561-2017	Rehabilitation of a Sewer Service Lateral and Its Connection tothe Main Using a One Piece Main and Lateral Cured-in-PlaceLiner	Piping	715.3
+ASTM F2599-2016	The Sectional Repair of Damaged Pipe by Means of anInverted Cured-In-Place Liner	Piping	715.3
+ASTM F2618-2015	Chlorinated Poly(Vinyl Chloride) CPVC Pipe and Fittings forChemical Waste Drainage Systems	Piping	811.2
+ASTM F2620-2013	Heat Fusion Joining of Polyethylene Pipe and Fittings	Joints	605.6.1.1, 605.6.1.3,705.5.1.1, 705.5.1.3
+ASTM F2735-2018	Plastic Insert Fittings for SDR9 Cross-linked Polyethylene(PEX) and Polyethylene of Raised Temperature (PE-RT) Tubing	Fittings	Table 604.1
+ASTM F2769-2018	Polyethylene of Raised Temperature (PE-RT) Plastic Hot andCold-Water Tubing and Distribution Systems	Piping, Fittings	Table 604.1
+ASTM F2831-2012 (R2017)	Internal Non-Structural Epoxy Barrier Coating Material Usedin Rehabilitation of Metallic Pressurized Piping Systems	Miscellaneous	320.1
+ASTM F2855-2012	Chlorinated Poly (Vinyl Chloride)/Aluminum/Chlorinated Poly(Vinyl Chloride) (CPVC/AL/CPVC) Composite Pressure Tubing	Piping	Table 604.1, 605.3.1
+ASTM F2945-2018	Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings	Piping	1208.6.5
+ASTM F3226/F3226M-2016e1	Metallic Press-Connect Fittings for Piping and Tubing Systems	Fittings	Table 604.1
+ASTM F3240-2017	Installation of Seamless Molded Hydrophilic Gaskets (SMHG)for Long-Term Watertightness of Cured-in-Place Rehabilitationof Main and Lateral Pipelines	Piping	715.3
+AWS A5.8M/A5.8-2011-AMD 1	Filler Metals for Brazing and Braze Welding	Joints	605.1.1, 705.3.1,1321.3
+AWS A5.9/A5.9M-2017(ISO 14343:2009 MOD)	Welding Consumables—Wire Electrodes, Strip Electrodes,Wires, and Rods for Arc Welding of Stainless and Heat ResistingSteels—Classification	Joints	605.13.2
+AWS B2.2/B2.2M-2016	Brazing Procedure and Performance Qualification	Certification	1323.11
+AWWA C110-2012	Ductile-Iron and Gray-Iron Fittings	Fittings	Table 604.1
+AWWA C111-2017	Rubber-Gasket Joints for Ductile-Iron Pressure Pipe and Fittings	Joints	605.4.1, 605.4.2
+AWWA C151-2017	Ductile-Iron Pipe, Centrifugally Cast	Piping	Table 604.1
+AWWA C153-2011	Ductile-Iron Compact Fittings	Fittings	Table 604.1
+AWWA C210-2015	Liquid-Epoxy Coatings and Linings for Steel Water Pipe andFittings	Miscellaneous	604.9
+AWWA C500-2009	Metal-Seated Gate Valves for Water Supply Service	Valves	606.1
+AWWA C504-2015	Rubber-Seated Butterfly Valves	Valves	606.1
+AWWA C507-2015	Ball Valves, 6 in. through 60 in. (150 mm through 1,500 mm)	Valves	606.1
+AWWA C510-2017	Double Check-Valve Backflow Prevention Assembly	Backflow Protection	Table 603.2
+AWWA C511-2017	Reduced-Pressure Principle Backflow Prevention Assembly	Backflow Protection	Table 603.2
+AWWA C900-2016	Polyvinyl Chloride (PVC) Pressure Pipe and Fabricated Fittings,4 in. through 12 in. (100 mm through 300 mm)	Piping	Table 604.1
+AWWA C901-2017	Polyethylene (PE) Pressure Pipe and Tubing, 3/4 in. (19 mm)through 3 in. (76 mm), for Water Service	Piping	Table 604.1
+AWWA C904-2016	Crosslinked Polyethylene (PEX) Pressure Tubing, 1/2 in.through 3 in. (13 mm through 76 mm), for Water Service	Piping	Table 604.1
+AWWA C907-2017	Injection-Molded Polyvinyl Chloride (PVC) Pressure Fittings,4 in. through 12 in. (100 mm through 300 mm), for Water,Wastewater, and Reclaimed Water Service	Fittings	Table 604.1
+CGA G-4.1-2009	Cleaning Equipment for Oxygen Service	Miscellaneous	1318.2, 1321.8.7
+CGA M-1-2018	Medical Gas Supply Systems at Health Care Facilities	Miscellaneous	1324.5.7.3
+CGA V-5-2008 (R2013)	Diameter Index Safety System (Noninterchangeable Low PressureConnections for Medical Gas Applications)	Connections	1315.5
+CISPI 301-2017	Hubless Cast Iron Soil Pipe and Fittings for Sanitary and StormDrain, Waste, and Vent Piping Applications	Piping, Ferrous	301.2.4, Table 701.2,Table 707.2
+CISPI 310-2017	Couplings for Use in Connection with Hubless Cast Iron SoilPipe and Fittings for Sanitary and Storm Drain, Waste, andVent Piping Applications	Joints	301.2.4, 705.2.2
+CSA B45.5-2017/IAPMOZ124-2017	Plastic Plumbing Fixtures (with Errata dated August 2017)	Fixtures	407.1, 408.1, 409.1,411.1, 412.1, 420.1
+CSA B45.8-2018/IAPMOZ403-2018	Terrazzo, Concrete, Composite Stone, and Natural StonePlumbing Fixtures	Fixtures	407.1, 420.1
+CSA B45.11-2017/IAPMOZ401-2017	Glass Plumbing Fixtures	Fixtures	407.1
+CSA B45.12-2013/IAPMOZ402-2013	Aluminum and Copper Plumbing Fixtures	Fixtures	407.1, 408.1, 409.1,420.1
+CSA B64.1.1-2011 (R2016)	Atmospheric Vacuum Breakers (AVB)	Backflow Protection	Table 603.2
+CSA B64.1.2-2011 (R2016)	Pressure Vacuum Breakers (PVB)	Backflow Protection	Table 603.2
+CSA B64.2.1.1-2011(R2016)	Hose Connection Dual Check Vacuum Breakers (HCDVB)	Backflow Protection	Table 603.2
+CSA B64.4-2011 (R2016)	Reduced Pressure Principle (RP) Backflow Preventers	Backflow Protection	Table 603.2
+CSA B64.4.1-2011 (R2016)	Reduced Pressure Principle Backflow Preventers for Fire ProtectionSystems (RPF)	Backflow Protection	Table 603.2
+CSA B64.5-2011 (R2016)	Double Check Valve (DCVA) Backflow Preventers	Backflow Protection	Table 603.2
+CSA B64.5.1-2011 (R2016)	Double Check Valve Backflow Preventers for Fire ProtectionSystems (DCVAF)	Backflow Protection	Table 603.2
+CSA B79-2008 (R2018)	Commercial and Residential Drains and Cleanouts	Fixtures	418.1, Table 707.2
+CSA B125.3-2018	Plumbing Fittings	Fittings	408.3.2(3), 409.4(1),410.3(1)
+CSA B125.5/IAPMOZ2600-2011 (R2016)	Flexible Water Connectors with Excess Flow Shut-off Device	Miscellaneous	604.5
+CSA B137.1-2017	Polyethylene (PE) Pipe, Tubing, and Fittings for Cold-WaterPressure Services	Piping	Table 604.1
+CSA B137.5-2017	Crosslinked Polyethylene (PEX) Tubing Systems for PressureApplications	Piping	Table 604.1
+CSA B137.6-2017	Chlorinated Polyvinylchloride (CPVC) Pipe, Tubing, and Fittingsfor Hot- and Cold-Water Distribution Systems	Piping, Fittings	Table 604.1
+CSA B137.9-2017	Polyethylene/Aluminum/Polyethylene (PE-AL-PE) CompositePressure-Pipe Systems	Piping	Table 604.1
+CSA B137.10-2017	Crosslinked Polyethylene/Aluminum/Crosslinked Polyethylene(PEX-AL-PEX) Composite Pressure-Pipe Systems	Piping	Table 604.1
+CSA B137.11-2017	Polypropylene (PP-R) Pipe and Fittings for Pressure Applications	Piping	Table 604.1,605.11.1
+CSA B137.18-2017	Polyethylene of Raised Temperature Resistance (PE-RT) TubingSystems for Pressure Applications	Piping, Fittings	Table 604.1
+CSA B181.3-2018	Polyolefin and Polyvinylidene Fluoride (PVDF) LaboratoryDrainage Systems	Piping	811.2
+CSA B481-2012 (R2017)	Grease Interceptors	Fixtures	1014.1
+CSA LC 1-2018	Fuel Gas Piping Systems Using Corrugated Stainless SteelTubing (same as CSA 6.26)	Fuel Gas	1208.6.4.5,1210.4.1(4), 1211.3
+CSA LC 4a-2013 (R2017)	Press-Connect Metallic Fittings for Use in Fuel Gas DistributionSystems (same as CSA 6.32a)	Fuel Gas	1208.6.10.1,1208.6.10.2,1208.6.10.3,1210.4.1(3)
+CSA Z21.10.1-2017	Gas Water Heaters, Volume I, Storage Water Heaters with InputRatings of 75,000 Btu Per Hour or Less (same as CSA 4.1)	Fuel Gas, Appliances	Table 501.1(1)
+CSA Z21.10.3-2017	Gas-Fired Water Heaters, Volume III, Storage Water Heaterswith Input Ratings Above 75,000 Btu Per Hour, Circulatingand Instantaneous (same as CSA 4.3)	Fuel Gas, Appliances	Table 501.1(1)
+CSA Z21.22-2015	Relief Valves for Hot Water Supply Systems (same as CSA 4.4)	Valves	607.5, 608.7
+CSA Z21.24-2015	Connectors for Gas Appliances (same as CSA 6.10)	Fuel Gas	1212.1(3), 1212.2
+CSA Z21.41-2014	Quick-Disconnect Devices for Use with Gas Fuel Appliances(same as CSA 6.9)	Fuel Gas	1212.7
+CSA Z21.54-2014	Gas Hose Connectors for Portable Outdoor Gas-Fired Appliances(same as CSA 8.4)	Fuel Gas	1212.3.2
+CSA Z21.69-2015	Connectors for Moveable Gas Appliances (same as CSA 6.16)	Fuel Gas	1212.1.1
+CSA Z21.75-2016	Connectors for Outdoor Gas Appliances and ManufacturedHomes (same as CSA 6.27)	Fuel Gas	1212.1(4)
+CSA Z21.80a-2012	Line Pressure Regulators (same as CSA 6.22a)	Fuel Gas	1208.8.1, 1208.8.4(1)
+CSA Z21.90-2015	Gas Convenience Outlets and Optional Enclosures (same asCSA 6.24)	Fuel Gas	1212.8
+CSA Z21.93-2017	Excess Flow Valves for Natural Gas and Propane Gas withPressures up to 5 psig (same as CSA 6.30)	Fuel Gas	1209.1
+DOE-STD-3020-2015	HEPA Filters Used by DOE Contractors	Miscellaneous	1312.4(3)
+EPA/625/R-04/108-2004	Guidelines for Water Reuse	Miscellaneous	1501.7
+IAPMO IGC 78-2018	Drain, Waste and Vent (DWV) Internal Cleanout Fittings	DWV Components	Table 707.2
+IAPMO IGC 115-2013e1	Automatic Water Leak Detection Devices	Miscellaneous	606.9
+IAPMO IGC 127-2018	Combined Hand-Washing Systems	Fixtures	407.1, 420.1
+IAPMO IGC 154-2019	Shower and Tub/Shower Enclosures, Bathtubs with GlassPressure-Sealed Doors, and Shower/Steam Panels	Fixtures	408.1
+IAPMO IGC 224-2018	ABS, PVC and Cast Iron DWV Test Fitting with IntegralCleanout	DWV Components	Table 707.2
+IAPMO IGC 322-2018	Alkaline Water — Drinking Water Treatment Units	Miscellaneous	611.1.1
+IAPMO IGC 349-2018	Electronic Plumbing Supply System Integrity ProtectionDevices	Miscellaneous	606.9
+IAPMO IGC 352-2018	Diverter Valves for Diversion of Rainwater or Storm Water forUse in Alternate Nonpotable Water Source Systems	Valves	1503.2.4
+IAPMO PS 65-2002	Airgap Units for Water Conditioning Equipment Installation	Backflow Protection	611.2
+IAPMO PS 90-2014	Elastomeric Test Caps, Cleanout Caps, and Combination TestCaps/Shielded Couplings	DWV Components	Table 707.2
+IAPMO PS 117-2017	Press and Nail Connections	Fittings	Table 604.1
+IAPMO Z124.5-2013e1	Plastic Toilet Seats	Appurtenance	411.3
+IAPMO Z601-2018	Scale Reduction Devices	Water Conditioning,Water Treatment	611.1.2
+IAPMO Z1001-2016	Prefabricated Gravity Grease Interceptors	Fixtures	1014.3.4
+IAPMO Z1033-2015	Flexible PVC Hoses and Tubing for Pools, Hot Tubs, Spas, andJetted Bathtubs	Tubing	409.6.1
+IAPMO Z1088-2013	Pre-Pressurized Water Expansion Tanks	Miscellaneous	608.3
+IAPMO Z1157-2014e1	Ball Valves	Valves	606.1
+ICC A117.1-2017	Accessible and Usable Buildings and Facilities	Miscellaneous	403.2, 408.6
+ISEA Z358.1-2014	Emergency Eyewash and Shower Equipment	Miscellaneous	416.1, 416.2
+MSS SP-58-2018	Pipe Hangers and Supports — Materials, Design, Manufacture,Selection, Application, and Installation	Miscellaneous	1210.3.5, 1323.4.1
+MSS SP-67-2017	Butterfly Valves	Valves	606.1
+MSS SP-70-2011	Gray Iron Gate Valves, Flanged and Threaded Ends	Valves	606.1
+MSS SP-71-2018	Gray Iron Swing Check Valves, Flanged and Threaded Ends	Valves	606.1
+MSS SP-72-2010a	Ball Valves with Flanged or Butt-Welding Ends for GeneralService	Valves	606.1
+MSS SP-78-2011	Gray Iron Plug Valves, Flanged and Threaded Ends	Valves	606.1
+MSS SP-80-2013	Bronze Gate, Globe, Angle, and Check Valves	Valves	606.1
+MSS SP-110-2010	Ball Valves Threaded, Socket-Welding, Solder Joint, Groovedand Flared Ends	Valves	606.1
+MSS SP-122-2017	Plastic Industrial Ball Valves	Valves	606.1
+NFPA 30A-2021	Motor Fuel Dispensing Facilities and Repair Garages	Miscellaneous	507.14.2
+NFPA 31-2020	Installation of Oil-Burning Equipment	Fuel Gas, Appliances	505.3, 1201.1
+NFPA 51-2018	Design and Installation of Oxygen-Fuel Gas Systems for Welding,Cutting, and Allied Processes	Fuel Gas	507.9
+NFPA 54/Z223.1-2018	National Fuel Gas Code	Fuel Gas	Chapter 5, Chapter 12
+NFPA 58-2020	Liquefied Petroleum Gas Code	Fuel Gas	1208.5(7),1208.6.7.3,1208.6.11.4, 1212.11
+NFPA 70-2020	National Electrical Code*See California Electrical Code for amendments	Miscellaneous	1210.12.5(2),1211.2.4, 1211.7,1317.1(11), 1323.3.1
+NFPA 88A-2019	Parking Structures	Miscellaneous	507.14.1
+NFPA 99-2021	Health Care Facilities Code	Miscellaneous	1301.3, 1309.13(2),1317.1(9),1324.5.9.4, 1327.1
+NFPA 211-2019	Chimneys, Fireplaces, Vents, and Solid Fuel-Burning Appliances	Fuel Gas, Appliances	509.5.2, 509.5.3,509.5.6.1, 509.5.6.3
+NFPA 409-2016	Aircraft Hangars	Miscellaneous	507.15
+NFPA 780-2017	Installation of Lightning Protection Systems	Fuel Gas	1211.5
+NFPA 1192-2018	Recreational Vehicles	Fuel Gas	1202.3(18)
+NSF 3-2017	Commercial Warewashing Equipment	Appliances	414.1
+NSF 14-2018	Plastics Piping System Components and Related Materials	Miscellaneous	301.2.3, 604.1
+NSF 42-2018	Drinking Water Treatment Units — Aesthetic Effects	Appliances	Table 611.1
+NSF 44-2018	Residential Cation Exchange Water Softeners	Appliances	Table 611.1
+NSF 53-2017	Drinking Water Treatment Units-Health Effects	Appliances	Table 611.1
+NSF 55-2018	Ultraviolet Microbiological Water Treatment Systems	Appliances	Table 611.1
+NSF 58-2017	Reverse Osmosis Drinking Water Treatment Systems	Appliances	611.2, Table 611.1
+NSF 61-2018	Drinking Water System Components — Health Effects	Miscellaneous	415.1, 417.1, 604.1,604.9, 606.1, 607.2,608.2, 609.8.2, Table611.1
+NSF 62-2018	Drinking Water Distillation Systems	Appliances	Table 611.1
+NSF 350-2017a	Onsite Residential and Commercial Water Reuse TreatmentSystemsNote: NSF/ANSI 350, amended sections follow:5.6 Electrical Components. Electrical components...The California ElectricalCode shall be followed for all electrical components, system installation,and system operation.	Miscellaneous	1501.7, 1506.7,1506.9.2
+NSF 359-2018	Valves for Crosslinked Polyethylene (PEX) Water DistributionTubing Systems	Valves	606.1
+PDI G-101-2017	Testing and Rating Procedure for Hydro Mechanical GreaseInterceptors with Appendix of Installation and Maintenance	DWV Components	1014.1
+PDI G-102-2010	Testing and Certification for Grease Interceptors with FOGSensing and Alarm Devices	Certification	1014.1
+PDI-WH 201-2017	Water Hammer Arresters	Water SupplyComponents	609.11
+UL 17-2008	Vent or Chimney Connector Dampers for Oil-Fired Appliances(with revisions through September 25, 2013)	Fuel Gas, VentDampers	509.14.1
+UL 103-2010	Factory-Built Chimneys for Residential Type and BuildingHeating Appliances (with revisions through March 15, 2017)	Fuel Gas, Appliances	509.5.1, 509.5.1.1
+UL 174-2004	Household Electric Storage Tank Water Heaters (with revisionsthrough December 15, 2016)	Appliances	Table 501.1(1)
+UL 263-2011	Fire Tests of Building Construction and Materials (with revisionsthrough March 2, 2018)	Miscellaneous	1404.3, 1405.3
+UL 378-2006	Draft Equipment (with revisions through September 17, 2013)	Fuel Gas, Appliances	509.3.3, 509.14.1
+UL 399-2017	Drinking Water Coolers (with revisions through August 29, 2018)	Fixtures	415.1
+UL 430-2015	Waste Disposers (with revisions through February 23, 2018)	Appliances	419.1
+UL 441-2016	Gas Vents (with revisions through July 27, 2016)	Fuel Gas, Vents	509.1
+UL 467-2013	Grounding and Bonding Equipment	Miscellaneous	1211.2.5
+UL 499-2014	Electric Heating Appliances (with revisions through February23, 2017)	Appliances	417.6, Table501.1(1)
+UL 641-2010	Type L Low-Temperature Venting Systems (with revisionsthrough April 23, 2018)	Fuel Gas	509.1
+UL 651-2011	Schedule 40, 80, Type EB and A Rigid PVC Conduit and Fittings(with revisions through June 15, 2016)	Piping	1208.6.6
+UL 723-2018	Test for Surface Burning Characteristics of Building Materials	Miscellaneous	701.2(2), 903.1(2),1101.4
+UL 732-2018	Oil-Fired Storage Tank Water Heaters (with revisions throughAugust 9, 2018)	Fuel Gas, Appliances	Table 501.1(1)
+UL 749-2018	Household Dishwashers	Appliances	414.1
+UL 778-2016	Motor-Operated Water Pumps (with revisions through January17, 2019)	Appliances	1101.14
+UL 921-2016	Commercial Dishwashers (with revisions through September20, 2017)	Appliances	414.1
+UL 959-2010	Medium Heat Appliance Factory-Built Chimneys (with revisionsthrough June 12, 2014)	Fuel Gas, Appliances	509.5.1
+UL 1453-2016	Electric Booster and Commercial Storage Tank Water Heaters(with revisions through May 18, 2018)	Appliances	Table 501.1(1)
+UL 1479-2015	Fire Tests of Penetration Firestops	Miscellaneous	1404.3, 1405.3
+UL 1738-2010	Venting Systems for Gas-Burning Appliances, Categories II,III, and IV (with revisions through November 7, 2014)	Fuel Gas, Appliances	509.4.1, 509.4.2,509.4.3
+UL 1777-2015	Chimney Liners	Chimney Liners	509.5.3(2)
+UL 2523-2009	Solid Fuel-Fired Hydronic Heating Appliances, Water Heaters,and Boilers (with revisions through March 16, 2018)	Fuel Gas, Appliances	Table 501.1(1)
+UL 2561-2016	1400 Degree Fahrenheit Factory-Built Chimneys (withrevisions through April 19, 2018)	Fuel Gas, Appliances	509.5.1
+
+ANSI/AAMI RD62
+
+Water Treatment Equipment for Hemodialysis Applications
+
+Miscellaneous
+
+614.7
+
+ASTM D1253-2014
+
+Standard Test Method for Residual Chlorine in Water
+
+Miscellaneous
+
+1506.9.6, 1603.5.2
+
+*See California Electrical Code for amendments
+
+Note: NSF/ANSI 350, amended sections follow:5.6 Electrical Components. Electrical components...The California ElectricalCode shall be followed for all electrical components, system installation,and system operation.
+
+1506.9.2
+
+1701.2 Standards, Publications, Practices, and Guides
+DOCUMENT NUMBER	DOCUMENT TITLE	APPLICATION
+AHAM FWD-1-2016	Food Waste Disposers	Appliances
+ASCE 25-2016	Earthquake-Actuated Automatic Gas Shutoff Devices	Fuel Gas
+ASHRAE/IES 90.1-2016	Energy Standard for Buildings Except Low-Rise Residential Buildings	Miscellaneous
+ASHRAE/IES 90.2-2018	Energy-Efficient Design of Low-Rise Residential Buildings	Miscellaneous
+ASHRAE 188-2018	Legionellosis: Risk Management for Building Water Systems	Risk Management
+ASHRAE Guideline 12-2000	Minimizing the Risk of Legionellosis Associated with Building Water Systems	Risk Management
+ASME A13.1-2015	Scheme for the Identification of Piping Systems	Piping
+ASME A112.4.3-1999(R2015)	Plastic Fittings for Connecting Water Closets to the Sanitary Drainage System	Fittings
+ASME A112.19.10-2017	Retrofit Dual Flush Devices for Water Closets	Fixtures
+ASME A112.21.3M-1985(R2017)	Hydrants for Utility and Maintenance Use	Valves
+ASME B1.20.3-1976(R2018)	Dryseal Pipe Threads (Inch)	Joints
+ASME B16.33-2012(R2017)	Manually Operated Metallic Gas Valves for Use in Gas Piping Systems Up to 175 psi(Sizes NPS 1/2 through NPS 2)	Valves
+ASME B16.39-2014	Malleable Iron Threaded Pipe Unions: Classes 150, 250 and 300	Fittings
+ASME B16.40-2013	Manually Operated Thermoplastic Gas Shutoffs and Valves in Gas Distribution Systems	Valves
+ASME B31.1-2018	Power Piping	Piping
+ASME B36.19M-2018	Stainless Steel Pipe	Piping, Ferrous
+ASME BPVC Section IV-2015	Rules for Construction of Heating Boiler	Miscellaneous
+ASSE 1017-2009	Temperature Actuated Mixing Valves for Hot Water Distribution Systems	Valves
+ASSE 1032-2004 (R2011)	Dual Check Valve Type Backflow Preventers for Carbonated Beverage Dispensers,Post Mix Type	Backflow Protection
+ASSE 1066-1997	Individual Pressure Balancing In-Line Valves for Individual Fixture Fittings	Valves
+ASSE 1082-2018	Water Heaters with Integral Temperature Control Devices for Hot Water DistributionSystems	Appliances
+ASTM A48/A48M-2003(R2016)	Gray Iron Castings	Piping, Ferrous
+ASTM A126-2004 (R2014)	Gray Iron Castings for Valves, Flanges, and Pipe Fittings	Piping, Ferrous
+ASTM A377-2018	Ductile-Iron Pressure Pipe	Piping, Ferrous
+ASTM A479/A479M-2018	Stainless Steel Bars and Shapes for Use in Boilers and Other Pressure Vessels	Piping, Ferrous
+ASTM A536-1984 (R2014)	Ductile Iron Castings	Piping, Ferrous
+ASTM A733-2016	Welded and Seamless Carbon Steel and Austenitic Stainless Steel Pipe Nipples	Piping, Ferrous
+ASTM A1045-2010(R2017)	Flexible Poly (Vinyl Chloride) (PVC) Gaskets used in Connection of Vitreous ChinaPlumbing Fixtures to Sanitary Drainage Systems	Piping, Plastic
+ASTM B29-2014	Refined Lead	Joints
+ASTM B370-2012	Copper Sheet and Strip for Building Construction	Miscellaneous
+ASTM B687-1999 (R2016)	Brass, Copper, and Chromium-Plated Pipe Nipples	Piping, CopperAlloy
+ASTM C14-2015a	Nonreinforced Concrete Sewer, Storm Drain, and Culvert Pipe	Piping, Non-Metallic
+ASTM C412-2015	Concrete Drain Tile	Piping, Non-Metallic
+ASTM 443-2012 (R2017)	Joints for Concrete Pipe and Manholes, Using Rubber Gaskets	Joints
+ASTM C444-2017	Perforated Concrete Pipe	Piping, Non-Metallic
+ASTM C478-2018	Circular Precast Reinforced Concrete Manhole Sections	Miscellaneous
+ASTM C1227-2013	Precast Concrete Septic Tanks	DWV Components
+ASTM C1440-2017	Thermoplastic Elastomeric (TPE) Gasket Materials for Drain, Waste, and Vent(DWV), Sewer, Sanitary and Storm Plumbing Systems	Joints
+ASTM D1784-2011	Rigid Poly (Vinyl Chloride) (PVC) Compounds and Chlorinated Poly (Vinyl Chloride)(CPVC) Compounds	Piping, Plastic
+ASTM D2321-2018	Underground Installation of Thermoplastic Pipe for Sewers and Other Gravity-FlowApplications	Piping, Plastic
+ASTM D2517-2018	Reinforced Epoxy Resin Gas Pressure Pipe and Fittings	Piping, Plastic
+ASTM D2657-2007 (R2015)	Heat Fusion Joining of Polyolefin Pipe and Fittings	Joints
+ASTM D2774-2012	Underground Installation of Thermoplastic Pressure Piping	Piping, Plastic
+ASTM D2855-2015	Two-Step (Primer and Solvent Cement) Method of Joining Poly (Vinyl Chloride)(PVC) or Chlorinated Poly (Vinyl Chloride) (CPVC) Pipe and Piping Componentswith Tapered Sockets	Joints
+ASTM D3122-2015	Solvent Cement for Styrene-Rubber (SR) Plastic Pipe and Fittings	Joints
+ASTM D3311-2017	Drain, Waste, and Vent (DWV) Plastic Fittings Patterns	Fittings
+ASTM F402-2018	Safe Handling of Solvent Cements, Primers, and Cleaners Used for Joining ThermoplasticPipe and Fittings	Joints
+ASTM F480-2014	Thermoplastic Well Casing Pipe and Couplings Made in Standard Dimension Ratios(SDR), SCH 40 and SCH 80	Piping, Plastic
+ASTM F810-2012 (R2018)	Smoothwall Polyethylene (PE) Pipe for Use in Drainage and Waste Disposal AbsorptionFields	Piping, Plastic
+ASTM F949-2015	Poly (Vinyl Chloride) (PVC) Corrugated Sewer Pipe with a Smooth Interior and Fittings	Piping, Plastic
+ASTM F1476-2007 (R2013)	Performance of Gasketed Mechanical Couplings for Use in Piping Applications	Joints
+ASTM F1499-2017	Coextruded Composite Drain, Waste, and Vent Pipe (DWV)	Piping, Plastic
+ASTM F1743-2017	Rehabilitation of Existing Pipelines and Conduits by Pulled-in-Place Installation ofCured-in-Place Thermosetting Resin Pipe (CIPP)	Piping, Plastic
+ASTM F1924-2012	Plastic Mechanical Fittings for Use on Outside Diameter Controlled Polyethylene GasDistribution Pipe and Tubing	Fittings
+ASTM F1948-2015	Metallic Mechanical Fittings for Use on Outside Diameter Controlled ThermoplasticGas Distribution Pipe and Tubing	Fittings
+ASTM F2165-2013	Flexible Pre-Insulated Piping	Piping, Plastic
+ASTM F2206-2014	Fabricated Fittings of Butt-Fused Polyethylene (PE)	DWV Components
+ASTM F2306/F2306M-2018	12 to 60 in. [300 to 1500 mm] Annular Corrugated Profile-Wall Polyethylene (PE) Pipeand Fittings for Gravity-Flow Storm Sewer and Subsurface Drainage Applications	Piping, Plastic
+AWS B2.4-2012	Welding Procedure and Performance Qualification for Thermoplastics	Joints, Certification
+AWWA C203-2015	Coal-Tar Protective Coatings and Linings for Steel Water Pipe	Miscellaneous
+AWWA C213-2015	Fusion-Bonded Epoxy Coatings and Linings for Steel Water Pipe and Fittings	Miscellaneous
+AWWA C215-2016	Extruded Polyolefin Coatings for Steel Water Pipe	Miscellaneous
+AWWA C606-2015	Grooved and Shouldered Joints	Joints
+CGA C-9-2013	Standard Color Marking of Compressed Gas Containers for Medical Use	Miscellaneous
+CGA S-1.3-2008	Pressure Relief Device Standards-Part 3-Stationary Storage Containers for CompressedGases	Fuel Gas
+CGA V-1-2013	Compressed Gas Cylinder Valve Outlet and Inlet Connections	Valves
+CSA A257-2014	Concrete Pipe and Manhole Sections	Piping
+CSA B55.2-2015	Drain Water Heat Recovery Units	Miscellaneous
+CSA B64.7-2011 (R2016)	Laboratory Faucet Vacuum Breakers (LFVB)	Backflow Protection
+CSA B66-2016	Design, Material, and Manufacturing Requirements for Prefabricated Septic Tanksand Sewage Holding Tanks	DWV Components
+CSA B128.1-2006/B128.2-2006 (R2016)	Design and Installation of Non-Potable Water Systems/Maintenance and Field Testingof Non-Potable Water Systems	Miscellaneous
+CSA B242-2005 (R2016)	Groove- and Shoulder-Type Mechanical Pipe Couplings	Fittings
+CSA B356-2010 (R2015)	Water Pressure Reducing Valves for Domestic Water Supply Systems	Valves
+CSA G401-2014	Corrugated Steel Pipe Products	Piping, Ferrous
+CSA Z21.12b-1994 (R2015)	Draft Hoods	Fuel Gas, Appliances
+CSA Z21.13-2017	Gas-Fired Low-Pressure Steam and Hot Water Boilers (same as CSA 4.9)	Fuel Gas, Appliances
+CSA Z21.15b-2013 (R2014)	Manually Operated Gas Valves for Appliances, Appliance Connector Valves, andHose End Valves (same as CSA 9.1b)	Fuel Gas
+CSA Z21.81a-2007 (R2015)	Cylinder Connection Devices (same as CSA 6.25a)	Fuel Gas
+CSA Z21.86-2016	Vented Gas-Fired Space Heating Appliances (same as CSA 2.32)	Fuel Gas, Appliances
+CSA Z83.11-2016	Gas Food Service Equipment (same as CSA 1.8)	Fuel Gas, Appliances
+CSA Z317.1-2016	Special Requirements for Plumbing Installations in Health Care Facilities	Miscellaneous
+Energy Star-2012 (version 2.0)	Program Requirements Product Specification for Commercial Dishwashers	Appliances
+Energy Star-2018 (version 8.0)	Program Requirements Product specification for Clothes Washers (effective February5, 2018)	Appliances
+Energy Star-2016 (version 6.0)	Program Requirements for Residential Dishwashers	Appliances
+EPA/600/R-12/618-2012	Guidelines for Water Reuse	Miscellaneous
+EPA WaterSense-2007	High-Efficiency Lavatory Faucet Specification	Fixtures
+EPA WaterSense-2009	Specification for Flushing Urinals	Fixtures
+EPA WaterSense-2014	Specification for Tank-Type Toilets	Fixtures
+IAPMO IGC 67-2014e1	Specialized ABS and PVC DWV Fittings	DWV Components
+IAPMO IGC 109-2017	Water Distribution Manifolds	Valves
+IAPMO IGC 183-2016	Oil/Water Separators and Coalescing Plate Separators	DWV Components
+IAPMO IGC 193-2010	Safety Plates, Plate Straps, Notched Plates and Safety Collars	Miscellaneous
+IAPMO IGC 226-2006a	Drinking Water Fountains With or Without Chiller or Heater	Fixtures
+IAPMO IGC 244-2015a	Tub and Shower Flow-Reduction Systems	Valves
+IAPMO IGC 267-2015e1	Hydrants Without Integral Backflow Preventers	Valves
+IAPMO IGC 276-2011	Bundled Expanded Polystyrene Synthetic Aggregate Units	DWV Components
+IAPMO IGC 315-2016	Water Manifold Systems	Fittings
+IAPMO IGC 327-2016	Flexible Metallic Expansion Joints for Pressure Systems	Joints
+IAPMO IGC 330-2017	Recirculating Shower Systems	Fixtures
+IAPMO IGC 332-2017a	Hydronic Radiators	Miscellaneous
+IAPMO PS 1-2007	Tank Risers	DWV Components
+IAPMO PS 23-2006a	Dishwasher Drain Airgaps	Backflow Protection
+IAPMO PS 25-2002	Metallic Fittings for Joining Polyethylene Pipe for Water Service and Yard Piping	Joints
+IAPMO PS 34-2003	Encasement Sleeve for Potable Water Pipe and Tubing	Piping
+IAPMO PS 36-2014e1	Lead-Free Sealing Compounds for Threaded Joints	Joints
+IAPMO PS 37-1990	Black Plastic PVC or PE Pressure-Sensitive Corrosion Preventive Tape	Miscellaneous
+IAPMO PS 42-2013e1	Pipe Alignment and Secondary Support Systems	Miscellaneous
+IAPMO PS 50-2010	Flush Valves with Dual Flush Device For Water Closets or Water Closet Tank with anIntegral Flush Valves with a Dual Flush Device	Fixtures
+IAPMO PS 51-2016	Expansion Joints and Flexible Expansion Joints for DWV Piping Systems	Joints
+IAPMO PS 52-2009e1	Pump/Dose, Sumps and Sewage Ejector Tanks with or without a Pump	DWV Components
+IAPMO PS 53-2016a	Grooved Mechanical Pipe Couplings and Grooved Fittings	Joints
+IAPMO PS 54-2015	Metallic and Plastic Utility Boxes	Miscellaneous
+IAPMO PS 57-2002	PVC Hydraulically Actuated Diaphragm Type Water Control Valves	Valves
+IAPMO PS 59-2016e1	Wastewater Diverter Valves and Diversion Systems	Fittings
+IAPMO PS 63-2014	Plastic Leaching Chambers	DWV Components
+IAPMO PS 64-2012ae1	Roof Pipe Flashings	Miscellaneous
+IAPMO PS 66-2015	Dielectric Fittings	Fittings
+IAPMO PS 67-2010	Early-Closure Replacement Flappers or Early-Closure Replacement Flapper withMechanical Assemblies	Fixtures
+IAPMO PS 69-2006	Bathwaste and Overflow Assemblies with Tub Filler Spout	DWV Components
+IAPMO PS 72-2007e1	Valves with Atmospheric Vacuum Breakers	Valves
+IAPMO PS 73-2015	Dental Liquid-Ring Vacuum Pumps	Miscellaneous
+IAPMO PS 76-2012a	Trap Primers for Fill Valves and Flushometer Valves	DWV Components
+IAPMO PS 79-2005	Multiport Electronic Trap Primer	DWV Components
+IAPMO PS 80-2008	Clarifiers	DWV Components
+IAPMO PS 81-2006	Precast Concrete Seepage Pit Liners and Covers	DWV Components
+IAPMO PS 82-1995	Fiberglass (Glass Fiber Reinforced Thermosetting Resin) Fittings	Fittings
+IAPMO PS 85-1995	Tools for Mechanically Formed Tee Connections in Copper Tubing	Miscellaneous
+IAPMO PS 86-1995	Rainwater Diverter Valve for Non-Roofed Area Slabs	DWV Components
+IAPMO PS 89-1995	Soaking and Hydrotherapy (Whirlpool) Bathtubs with Hydraulic Seatlift	Fixtures
+IAPMO PS 90-2014	Elastomeric Test Caps, Cleanout Caps, and Combination Test Caps/ShieldedCouplings	DWV Components
+IAPMO PS 91-2005a	Plastic Stabilizers for Use with Plastic Closet Bends	DWV Components
+IAPMO PS 92-2013e1	Heat Exchangers and Indirect Water Heaters	Miscellaneous
+IAPMO PS 94-2012e1	Insulated Protectors for P-Traps, Supply Stops and Risers	Miscellaneous
+IAPMO PS 95-2018e1	Pipe Support Hangers and Hooks	DWV Components
+IAPMO PS 98-1996	Prefabricated Fiberglass Church Baptisteries	Fixtures
+IAPMO PS 100-1996	Porous Filter Protector for Sub-Drain Weep Holes	DWV Components
+IAPMO PS 101-1997	Suction Relief Valves	Valves
+IAPMO PS 104-1997	Pressure Relief Connection for Dispensing Equipment	Valves
+IAPMO PS 105-1997	Polyethylene Distribution Boxes	DWV Components
+IAPMO PS 106-2015e1	Tileable Shower Receptors and Shower Kits	Fixtures
+IAPMO PS 110-2006a	PVC Cold Water Compression Fittings	Fittings
+IAPMO PS 111-1999	PVC Cold Water Gripper Fittings	Fittings
+IAPMO PS 112-1999	PVC Plastic Valves for Cold Water Distribution Systems Outside a Building andCPVC Plastic Valves for Hot and Cold Water Distribution Systems	Valves
+IAPMO PS 113-2010	Hydraulically Powered Household Food Waste Disposers	Appliances
+IAPMO PS 114-1999e1	Remote Floor Box Industrial Water Supply, Air Supply, Drainage	Miscellaneous
+IAPMO PS 115-2007	Hot Water On-Demand or Automatic Activated Hot Water Pumping Systems	Miscellaneous
+IAPMO PS 116-1999	Hot Water Circulating Devices Which Do Not Use a Pump	Miscellaneous
+IAPMO PS 119-2012ae3	Water-Powered Sump Pumps	Miscellaneous
+IAPMO Z124.7-2013	Prefabricated Plastic Spa Shells	Fixtures, SwimmingPools, Spas, and HotTubs
+IAPMO Z124.8-2013e2	Plastic Liners for Bathtubs and Shower Receptors	Fixtures
+IAPMO Z1000-2013	Prefabricated Septic Tanks	DWV Components
+MSS SP-25-2018	Standard Marking System for Valves, Fittings, Flanges, and Unions	Miscellaneous
+MSS SP-42-2013	Corrosion-Resistant Gate, Globe, Angle, and Check Valves with Flanged and ButtWeld Ends (Classes 150, 300, & 600)	Piping, Ferrous
+MSS SP-44-2016 (R2017)	Steel Pipeline Flanges	Fittings
+MSS SP-83-2018	Class 3000 and 6000 Pipe Unions, Socket Welding and Threaded (Carbon Steel,Alloy Steel, Stainless Steels, and Nickel Alloys)	Joints
+MSS SP-104-2018	Wrought Copper, Solder-Joint Pressure Fittings	Fittings
+MSS SP-106-2018	Cast Copper Alloy Flanges and Flanged Fittings: Class 125, 150, and 300	Fittings
+MSS SP-109-2018	Weld-Fabricated, Copper Solder-Joint Pressure Fittings	Fittings
+MSS SP-123-2013	Non-Ferrous Threaded and Solder-Joint Unions for Use with Copper Water Tube	Joints
+NFPA 13R-2019	Installation of Sprinkler Systems in Low-Rise Residential Occupancies	Miscellaneous
+NFPA 80-2019	Fire Doors and Other Opening Protectives	Miscellaneous
+NFPA 501A-2017	Fire Safety Criteria for Manufactured Home Installations, Sites, and Communities	Miscellaneous
+NFPA 1981-2013	Open-Circuit Self-Contained Breathing Apparatus (SCBA) for Emergency Services	Miscellaneous
+NFPA 1989-2019	Breathing Air Quality for Emergency Services Respiratory Protection	Miscellaneous
+NFPA 5000-2018	Building Construction and Safety Code	Miscellaneous
+NSF 2-2018	Food Equipment	Appliances
+NSF 4-2016	Commercial Cooking, Rethermalization, and Powered Hot Food Holding andTransportation Equipment	Appliances
+NSF 5-2016	Water Heaters, Hot Water Supply Boilers, and Heat Recovery Equipment	Appliances
+NSF 12-2018	Automatic Ice Making Equipment	Appliances
+NSF 18-2016	Manual Food and Beverage Dispensing Equipment	Appliances
+NSF 29-2017	Detergent and Chemical Feeders for Commercial Spray-Type Dishwashing Machines	Appliances
+NSF 40-2018	Residential Wastewater Treatment Systems	DWV Components
+NSF 41-2018	Non-Liquid Saturated Treatment Systems	DWV Components
+NSF 46-2018	Evaluation of Components and Devices Used in Wastewater Treatment Systems	DWV Components
+NSF 169-2016	Special Purpose Food Equipment and Devices	Appliances
+PSAI Z4.1-2016	For Sanitation — In Places of Employment: Minimum Requirements	Miscellaneous
+SAE J512-1997	Automotive Tube Fittings	Fittings
+SAE J1670-2008	Type "F" Clamps for Plumbing Applications	Joints
+TCNA A118.10-2014	Load Bearing, Bonded, Waterproof Membranes for Thin-Set Ceramic Tile andDimension Stone Installation	Miscellaneous
+Title 49, Code of FederalRegulations, Part 192	Transportation of Natural and Other Gas by Pipeline: Minimum Federal Standards	Miscellaneous
+UL 70-2001	Septic Tanks, Bituminous-Coated Metal	DWV Components
+UL 80-2007	Steel Tanks for Oil-Burner Fuels and Other Combustible Liquids (with revisionsthrough January 16, 2014)	Fuel Gas
+UL 144-2012	LP-Gas Regulators (with revisions through November 5, 2014)	Fuel Gas
+UL 252-2017	Compressed Gas Regulators (with revisions through August 10, 2018)	Fuel Gas
+UL 296-2017	Oil Burners (with revisions through November 29,2017)	Fuel Gas, Appliances
+UL 404-2010	Gauges, Indicating Pressure, for Compressed Gas Service (with revisionsthrough February 11, 2015)	Fuel Gas
+UL 429-2013	Electrically Operated Valves	Valves
+UL 536-2014	Flexible Metallic Hose	Fuel Gas
+UL 563-2009	Ice Makers (with revisions through August 30, 2018)	Appliances
+UL 569-2013	Pigtails and Flexible Hose Connectors for LP-Gas (with revisions through July 28,2017)	Fuel Gas
+UL 726-1995	Oil-Fired Boiler Assemblies (with revisions through October 9, 2013)	Fuel Gas, Appliances
+UL 1206-2003	Electric Commercial Clothes-Washing Equipment (with revisions through January 7,2019)	Appliances
+UL 1331-2005	Station Inlets and Outlets (with revisions through May 12, 2017)	Medical Gas
+UL 1795-2016	Hydromassage Bathtubs (with revisions through December 8, 2017)	Fixtures
+UL 1951-2011	Electric Plumbing Accessories (with revisions through August 25, 2017)	Miscellaneous
+UL 2157-2018	Electric Clothes Washing Machines and Extractors	Appliances
+WQA S-300-2000	Point-of-Use Low-Pressure Reverse Osmosis Drinking Water Systems	Appliances
+
+IAPMO PS 59-2016e1
+
+Wastewater Diverter Valves and Diversion Systems
+
+Fittings
+
+AHAM	Association of Home Appliance Manufacturers, 1111 19th Street, NW, Suite 402, Washington, DC 20036.
+ANSI	American National Standards Institute, Inc., 25 W. 43rd Street, 4th Floor, New York, NY 10036.
+ARCSA	American Rainwater Catchment Systems Association, 6101 Long Prairie Road, Suite 744, PMB 251, FlowerMound, TX 75028.
+ASCE	American Society of Civil Engineers, 1801 Alexander Bell Drive, Reston, VA 20191-4400.
+ASHRAE	American Society of Heating, Refrigerating, and Air Conditioning Engineers, Inc., 1791 Tullie Circle, NE,Atlanta, GA 30329-2305.
+ASME	American Society of Mechanical Engineering, Two Park Avenue, New York, NY 10016-5990.
+ASPE	American Society of Plumbing Engineers, 6400 Shafer Court, Suite 350, Rosemont, IL 60018.
+ASSE	American Society of Sanitary Engineering, 18927 Hickory Creek Drive, Suite 220, Mokena, IL 60448.
+ASTM	ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
+AWS	American Welding Society, 8669 NW 36 Street, #130 Miami, FL 33166-6672.
+AWWA	American Water Works Association, 6666 W. Quincy Avenue, Denver, CO 80235.
+CFR	Code of Federal Regulations, U.S Government Publishing Office, 723 North Capitol Street, N.W. Washington,DC 20401-001
+CGA	Compressed Gas Association, 14501 George Carter Way, Suite 103, Chantilly, VA 20151.
+CISPI	Cast-Iron Soil Pipe Institute, 2401 Fieldcrest Drive, Mundelein, IL 60060.
+CSA	Canadian Standards Association, 178 Rexdale Boulevard, Toronto, Ontario, Canada, M9W 1R3.
+DOE	U.S. Department of Energy, Forrestal Building, 1000 Independence Avenue, SW, Washington, DC 20585.
+e1	An editorial change since the last revision or reapproval.
+ENERGY STAR	1200 Pennsylvania Avenue, N.W., Washington, D.C. 20460.
+EPAWATERSENSE	U.S. Environmental Protection Agency, Office of Wastewater Management (4204M), 1200 PennsylvaniaAvenue, N.W., Washington, D.C. 20460.
+IAPMO	International Association of Plumbing and Mechanical Officials, 4755 E. Philadelphia Street, Ontario, CA91761.
+ICC	International Code Council, 500 New Jersey Avenue, NW, 6th Floor, Washington, DC 20001.
+ISEA	International Safety Equipment Association, 1901 N. Moore Street, Suite 808, Arlington, VA 22209-1762.
+ISO	International Organization for Standardization, 1 ch. de la Voie-Creuse, Casa Postale 56, CH-1211 Geneva20, Switzerland.
+MSS	Manufacturers Standardization Society of the Valve and Fittings Industry, 127 Park Street, NE, Vienna,VA 22180.
+NFPA	National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471.
+NSF	NSF International, 789 N. Dixboro Road, Ann Arbor, MI 48105.
+PDI	Plumbing and Drainage Institute, 800 Turnpike Street, Suite 300, North Andover, MA 01845.
+PSAI	Portable Sanitation Association International, 2626 E. 82nd Street, Suite 175, Bloomington, MN 55425.
+SAE	Society of Automotive Engineers, 400 Commonwealth Drive, Warrendale, PA 15096.
+TCNA	Tile Council of North America, Inc. 100 Clemson Research Blvd., Anderson, SC 29625.
+UL	Underwriters Laboratories, Inc., 333 Pfingsten Road, Northbrook, IL 60062.
+WQA	Water Quality Association, 4151 Naperville Road, Lisle, IL 60532-3696.
+

@@ -1,0 +1,793 @@
+Chapter 15 Alternate Water Sources for Nonpotable Applications
+
+Adopting Agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt Entire Chapter	X									X	X	X	X	X	X								
+Adopt Entire Chapter as
+amended (amended sections listed below)				X	X																		
+Adopt only those sections
+that are listed below		X				X													X				
+Chapter/Section																							
+1501.0																			X				
+1501.1	X	X		X															X				
+1501.1.1				X															X				
+1501.2																			X				
+1501.2 & Exceptions	X	X		X																			
+1501.3																			X				
+1501.3 & Exception	X	X		X																			
+1501.4																			X				
+1501.5		X		X															X				
+Table 1501.5	X	X		†																			
+1501.5 Exception only																			X				
+1501.5.1	X	X		X															X				
+1501.6	X	X		X															X				
+1501.7	X	X		X															X				
+1501.8																			X				
+1501.9		X		X	X	X													X				
+1501.9.1		X		X	X	X																	
+1501.9.2		X		X	X																		
+1501.10																			X				
+1502.0																			X				
+1502.1		X		X																			
+1502.1 Exception only																			X				
+1502.3		X		X																			
+1502.3.2		X		X																			
+1502.3.3		X		X																			
+1502.4 Exception																			X				
+1502.5 - 1502.6																			X				
+1503.0		X																					
+1503.1		X		X																			
+1503.1.1				X																			
+1503.1.2 - 1503.1.3		X		X																			
+1503.2 - 1503.2.3		X		X																			
+1503.3 & Exceptions		X		X															X				
+1503.4 Exception		X		X																			
+Table 1503.4		X		X																			
+1503.5 Exception		X		X																			
+1503.6		X		X																			
+1503.7 Exceptions 2 & 3		X		X																			
+1503.8 Exception		X		X																			
+1503.8.1				X																			
+1503.8.2.1 - 1503.8.2.3		X																					
+1503.8.3				X																			
+1503.9		X		X																			
+1503.9.1				X																			
+1503.9.3 - 1503.9.4		X		X																			
+Table 1504.2		X		X																			
+1504.3 Exceptions 1 & 2		X		X																			
+1504.4 Note				X																			
+1504.5 - 1504.5.3		X		X																			
+Table 1504.5.3		X		X																			
+1504.8		X		X																			
+1504.9				X																			
+1504.9.1		X		X																			
+1504.11				X																			
+1505.0 - 1505.15	†	†		†															X				
+Table 1505.15		†		†															X				
+1506.0		X		X																			
+1506.1		X		X																			
+1506.2		X		X																			
+1506.3		X		X																			
+1506.4 & Exceptions		X		X															X				
+1506.5		X																					
+1506.6		X		X																			
+1506.7		X		X																			
+1506.8		X		X																			
+1506.9 - 1506.9.6		X		X																			
+1506.11		X		X	X																		
+1506.12		X		X																			
+
+Exception
+
+Exception only
+
+1501.5.1
+
+1501.9
+
+1
+
+2
+
+Exception only
+
+1503.1.1
+
+1.2
+
+1503.1.3
+
+Exception
+
+Exception
+
+Exception
+
+1503.8.2.1 - 1503.8.2.3
+
+1503.8.3
+
+1503.9.3 - 1503.9.4
+
+Exceptions 1 & 2
+
+1504.5 - 1504.5.3
+
+1504.9.1
+
+Exceptions
+
+1506.9.6
+
+This state agency does not adopt sections identified with the following symbol:
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.0.
+
+1501.0 General
+1501.1 Applicability [BSC-CG, DWR & HCD 1]
+[BSC-CG, DWR & HCD 1]
+
+discharge, use
+
+1501.1.1 Allowable Use of Alternate Water
+gray
+
+1501.2 System Design
+or licensed person who demonstrates competency to design the alternate water source system as required by the Authority Having Jurisdiction
+
+[BSC-CG & HCD 1] Irrigation design plans shall meet the requirements of the California Code of Regulations, Title 23, Division 2, Chapter 2.7, Model Water Efficient Landscape Ordinance.
+
+or a licensed person who demonstrates competency to design the alternate water source system
+
+or a licensed person who demonstrates competency to design the alternate water source system
+
+1501.3 Permit [BSC-CG, HCD 1, DWR]
+[BSC-CG, HCD 1, DWR]
+
+No changes or connections shall be made to either the alternate water source system or the potable water system within a site containing an alternate water source system without approval by the Authority Having Jurisdiction.
+
+A construction permit shall not be required for a clothes washer system meeting the requirements of Section 1503.1.1.
+
+1501.4 Component Identification
+1501.5 Maintenance and Inspection [BSC-CG, HCD 1, DWR]
+[BSC-CG, HCD 1, DWR]
+
+the manufacturer's recommendations and/or as required by the Authority Having Jurisdiction. [BSC-CG] Where no manufacturer's recommendations exist, additional recommendations are listed in Table 1501.5.
+
+DESCRIPTION	MINIMUM FREQUENCY
+Inspect and clean filters and screens, and replace (where necessary).	In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or every 3 months.
+Inspect and verify that disinfection, filters, and water qualitytreatment devices and systems are operational and maintainingminimum water quality requirements as determined by theAuthority Having Jurisdiction.	In accordance with manufacturer's instructions,and the Authority Having Jurisdiction.
+Inspect pumps and verifyoperation.	In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+Inspect valves and verifyoperation.	In accordance with manufacturer's instructions, and/or Authority HavingJurisdiction, or after installation and every 12 months thereafter.
+Inspect pressure tanks andverify operation.	In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+Clear debris from and inspect storage tanks, locking devices,and verify operation.	In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+Inspect caution labels and marking.	In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+Inspect and maintain mulch basins for gray water irrigationsystems.	As needed to maintain mulch depth and prevent ponding and runoff.
+Cross-connection inspection and test*	In accordance with this chapter, and/or the Authority HavingJurisdiction, or after installation and every 12 months thereafter.
+
+[BSC-CG]RECOMMENDED
+
+In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or every 3 months.
+
+In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+
+In accordance with manufacturer's instructions, and/or Authority HavingJurisdiction, or after installation and every 12 months thereafter.
+
+In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+
+In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+
+In accordance with manufacturer's instructions, and/or the AuthorityHaving Jurisdiction, or after installation and every 12 months thereafter.
+
+In accordance with this chapter, and/or the Authority HavingJurisdiction, or after installation and every 12 months thereafter.
+
+unless site conditions do not require it. Alternate testing requirements shall be permitted by the Authority Having Jurisdiction.
+
+1501.5.1 Maintenance Responsibility
+1501.6 Operation and Maintenance Manual [BSC-CG, HCD 1, DWR]
+[BSC-CG, HCD 1, DWR]
+
+nonpotable
+
+[DWR]
+
+and recycled water supply
+
+Section 1505.2 and Section 1506.2
+
+or installer.
+
+Diagram(s)
+
+Instructions
+
+treated
+
+tartup, shutdown, and
+
+Section 1501.5 [DWR] or Section 1505.15 as applicable
+
+installer and/or
+
+1501.7 Minimum Water Quality Requirements [BSC-CG, HCD 1, DWR]
+[BSC-CG, HCD 1, DWR]
+
+[BSC-CG & HCD 1] Water quality requirements for on-site treated nonpotable graywater shall comply with this section and Section 1506.9.2
+
+in a disposal field
+
+or subsoil
+
+[DWR] Recycled water shall comply with the water quality requirements of Section 1505.14.
+
+1501.8 Material Compatibility
+1501.9 Signage [BSC-CG, HCD 1, HCD 2, HCD 1-AC]
+Signage [BSC-CG, HCD 1, HCD 2, HCD 1-AC]
+
+Signage for on-site treated nonpotable gray water shall comply with Sections 1501.9.1 and 1501.9.2. [DWR] Signage for reclaimed (recycled) water shall comply with Section 1505.12.
+
+1501.9.1 Commercial, Industrial, Institutional,  and Residential Restroom Signs
+and Residential
+
+and in residential common use areas
+
+nonpotable gray
+
+Signs shall comply with all applicable requirements of the California Building Code.
+
+ON-SITE TREATED NONPOTABLE GRAYWATER
+
+1501.9.2 Equipment Room Signs
+nonpotable gray
+
+gray
+
+ON-SITE TREATED NONPOTABLE GRAYWATER
+
+1501.10 System Controls
+1502.0 Inspection and Testing
+1502.1 General
+1502.3.3, and/or as required by the Authority Having Jurisdiction.
+
+1502.2 Supply System Inspection and Test
+1502.3 Cross-Connection Inspection and Testing
+visual
+
+initial cross-connection
+
+before the initial operation of the alternate water source system. During an initial or subsequent cross-connection test, the
+
+1502.3.3
+
+1502.3.1 Visual System Inspection
+1502.3.2 Cross-Connection Test
+A cross-connection test shall be performed
+
+or
+
+When an alternate water source is not available for the initial cross-connection test, a temporary connection to a potable water supply shall be required. At the conclusion of the initial cross-connection test, the temporary connection to the potable water supply shall be disconnected.
+
+1502.3.3 Discovery of Cross-Connection
+and its premises
+
+and its premises
+
+and its premises
+
+1502.4 Separation Requirements
+Recycled water supply systems that are within or a part of a building shall comply with Section 1505.11.
+
+1502.5 Abandonment
+1502.5.1 General
+1502.5.2 Underground Tank
+1502.6 Sizing
+1503.0 Gray Water Systems [BSC-CG]
+[BSC-CG]
+
+Gray water systems shall be verified in accordance with the California Green Building Standards Code (CALGreen), Chapter 5, Division 5.3.
+
+1503.1 General
+A city, county, or city and county or other local government may adopt, after a public hearing and enactment of an ordinance or resolution, building standards that are more restrictive than the gray water building standards adopted in this code. For additional information, see Health and Safety Code Section 18941.7.
+
+1503.1.1 [HCD 1] Clothes Washer System
+[HCD 1] Clothes Washer System
+
+1503.1.2 Simple System
+Simple System
+
+1503.1.3 Complex System
+Complex System
+
+1503.2 System Requirements
+or disposal field.
+
+residential occupancies.
+
+1503.2.1 Surge Capacity
+disposal field
+
+1503.2.2 Diversion
+an approved
+
+a readily
+
+1503.2.3 Backwater Valves
+at the point of connection to the building sewer system,
+
+1503.2.4 Rainwater Diversion Valves
+1503.3 Connections to Potable and Reclaimed (Recycled) Water Systems
+gray
+
+supply
+
+Exceptions:
+
+water
+
+gray water
+
+or rainwater
+
+1503.4 Location
+MINIMUM HORIZONTAL DISTANCE IN CLEAR REQUIRED FROM	SURGE TANK (feet)	SUBSURFACE AND SUBSOIL IRRIGATION FIELD AND MULCH BASIN(feet)	DISPOSAL FIELD
+Building structures1	52, 9	23, 8	5
+Property line adjoining private property	5	58	5
+Water supply wells4	50	100	100
+Streams and lakes4	50	1005, 10	1005
+Sewage pits or cesspools	5	5	5
+Sewage disposal field10	5	46	46
+Septic tank	0	5	5
+On-site domestic water service line	5	0	0
+Pressurized public water main	10	107	107
+
+DISPOSAL FIELD
+
+5
+
+5
+
+100
+
+1005, 10
+
+1005
+
+5
+
+5
+
+46
+
+5
+
+0
+
+0
+
+107
+
+Building structures do not include
+
+roofed porte cocheres,
+
+Underground tanks shall not be located within a 45 degree angle from the bottom of the foundation, or they shall be designed to address the surcharge imposed by the structure. The distance may be reduced to six (6) inches (153 mm) for aboveground tanks when first approved by the Enforcing Agency.
+
+The minimum horizontal distance may be reduced to 50 feet (15 240 mm) for irrigation or disposal fields utilizing gray water which has been filtered prior to entering the distribution piping.
+
+1503.5 Plot Plan Submission
+A construction permit shall not be required for a clothes washer system in compliance with Section 1503.1.1.
+
+1503.6 Prohibited Location
+1503.7 Drawings and Specifications
+may
+
+and/or disposal
+
+1503.8 Procedure for Estimating Gray Water Discharge
+It is not the intent of this section to require that all gray water must be handled by an irrigation field or disposal field. It is acceptable for excess gray water to be diverted to the building sewer through a diverter valve or overflow drain as permitted in this chapter.
+
+1503.8.1 Residential Occupancies
+Residential Occupancies
+
+residential occupancies
+
+First Bedroom	2 occupants
+Each additional bedroom	1 occupant
+
+Showers, bathtubs, and lavatories	25 gallons (95 L) per day/occupant
+Laundry	15 gallons (57 L) per day/occupant
+
+1503.8.2 Commercial, Industrial, and Institutional Occupancies
+Authority Having Jurisdiction may utilize the
+
+procedures listed below
+
+1503.8.2.1  Lavatories
+Lavatories
+
+1503.8.2.2 Showers
+Showers
+
+1503.8.2.3 Commercial Clothes Washers
+Commercial Clothes Washers
+
+1503.8.3  Daily Discharge
+Daily Discharge
+
+1503.9 Gray Water System Components
+1503.9.4
+
+1503.9.1 Surge Tanks
+Aboveground surge tanks shall be protected from direct sunlight or shall be constructed of UV resistant materials including but not limited to heavily tinted or opaque plastic, fiberglass, lined metal, concrete and wood.
+
+SYSTEM, CAUTION
+
+or other approved method
+
+1503.9.2 Gray Water Pipe and Fitting Materials
+1503.9.3 Animals and Insects
+Animals and Insects
+
+Gray water tank openings shall be protected to prevent the entrance of insects, birds, or rodents into the tank and piping systems. Screens installed on vent pipes, inlets, and overflow pipes shall have an aperture of not greater than 1/16 of an inch (1.6 mm) and shall be close fitting.
+
+1503.9.4 Freeze Protection
+Freeze Protection
+
+Tanks and piping installed in locations subject to freezing shall be provided with an approved means of freeze protection.
+
+1504.0 Subsurface Irrigation System Zones
+1504.1 General
+1504.2 Required Area of Subsurface Irrigation Fields, Subsoil Irrigation Fields, and Mulch Basins
+TYPE OF SOIL	MINIMUM SQUARE FEET OF IRRIGATION/LEACHING AREA PER 100 GALLONS OF ESTIMATED GRAY WATER DISCHARGE PER DAY	MAXIMUM ABSORPTION CAPACITY IN GALLONS PER SQUARE FOOT OF IRRIGATION/LEACHING AREA FOR A 24-HOUR PERIOD
+Coarse sand or gravel	20	5.0
+Fine sand	25	4.0
+Sandy loam	40	2.5
+Sandy clay	60	1.7
+Clay with considerable sand or gravel	90	1.1
+Clay with small amounts of sand or gravel	120	0.8
+
+/LEACHING
+
+1504.3 Determination of Maximum Absorption Capacity
+1504.4 Groundwater Level
+Note: The absence of groundwater in a test hole three (3) vertical feet (915 mm) below the deepest irrigation or disposal point shall be sufficient to satisfy this section unless seasonal high groundwater levels have been documented to rise to within this area.
+
+1504.5  Irrigation, Disposal Field and Mulch Basin Construction
+Irrigation, Disposal Field and Mulch Basin Construction
+
+1504.5.1  Mulch Basin
+Mulch Basin
+
+A mulch basin may be used as an irrigation or disposal field. Mulch basins shall be sized in accordance with Table 1504.2 and of sufficient depth, length and width to prevent ponding or runoff during the gray water surge of a clothes washer, bathtub or shower. Mulch must be replenished as required due to decomposition of organic matter. Mulch basins will require periodic maintenance, reshaping or removal of dirt to maintain surge capacity and to accommodate plant growth and prevent ponding or runoff.
+
+1504.5.2  Irrigation Field
+Irrigation Field
+
+TYPE OF SOIL	MAXIMUM EMITTER DISCHARGE (gallons per day)	MINIMUM NUMBER OF EMITTERS PER GALLON OF ESTIMATED GRAY WATER DISCHARGE PER DAY* (gallons per day)
+Sand	1.8	0.6
+Sandy loam	1.4	0.7
+Loam	1.2	0.9
+Clay loam	0.9	1.1
+Silty clay	0.6	1.6
+Clay	0.5	2.0
+
+1504.5.3 Disposal Field
+Disposal Field
+
+DESCRIPTION	MINIMUM	MAXIMUM
+Number of drain lines per valved zone	1	—
+Length of each perforated line	—	100 feet
+Bottom width of trench	12 inches	24 inches
+Spacing of lines, center to center	4 feet	—
+Depth of earth covers of lines	10 inches	—
+Depth of filter material cover of lines	2 inches	—
+Depth of filter material beneath lines	3 inches	—
+Grade of perforated lines level	level	3 inches per 100 feet
+
+3
+
+24
+
+1 Manufactured leaching chambers shall be installed in compliance with the manufacturer's installation instructions.
+
+1504.6 Reserved
+Reserved
+
+1504.7 Reserved
+Reserved
+
+1504.8 Gray Water System Color and Marking Information
+Marking shall be at intervals not to exceed 5 feet (1524 mm). Gray water distribution piping upstream of any connection to an irrigation or disposal field or a distribution valve shall be identified with the words "CAUTION: NONPOTABLE GRAY WATER, DO NOT DRINK".
+
+1504.9 Other Collection and Distribution Systems
+1504.9.1 Future Connections
+Future Connections
+
+Gray water stub-out plumbing may be allowed for future connection prior to the installation of irrigation lines and landscaping. Stub-out shall be permanently marked "CAUTION: NONPOTABLE GRAY WATER, DO NOT DRINK."
+
+1504.10 Testing
+1504.11 Maintenance
+Section
+
+1505.0 Recycled Water Supply Systems in Buildings
+Supply
+
+in Buildings
+
+1505.1 General
+Section 1505.0 through Section 1505.15
+
+safely plumb buildings with both potable and recycled water supply systems. Unless otherwise specified in this code, the general provisions applying to alternate water systems pursuant to Section 1501.0 through Section 1501.10 and Section 1502.4 through Section 1502.6 shall apply to recycled water supply systems. The provisions in this section encompass
+
+supply
+
+that are within or a part of a building, including a landscape irrigation system that connects to plumbing that is within or a part of a building, and receive reclaimed (recycled) water provided by a water/wastewater utility. When dealing with recycled water supply systems, the Authority Having Jurisdiction and Enforcing Agency may include the recycled water purveyor or potable water purveyor in accordance with their respective statutory authority and responsibility as provided on their respective permits for supplying water. Plumbing systems using reclaimed (recycled) water that do not enter the interior of a building plumbed with potable water are not encompassed by this section. All reclaimed (recycled) water use, covered and not covered by this code, is subject to applicable provisions of the California Code of Regulations, Title 17, Title 22, and Title 23.
+
+1505.1.1 Allowed Uses
+Allowed Uses
+
+Allowed uses shall include
+
+as generally allowed in the California Code of Regulations, Title 22, Division 4, Chapter 3 and specifically allowed in the permit for the facility producing or supplying the reclaimed (recycled) water issued by the State Water Resources Control Board or Regional Water Quality Control Board.
+
+1505.1.2 Structures Allowed for Toilet and Urinal Flushing
+Structures Allowed for Toilet and Urinal Flushing
+
+In accordance with Water Code Section 13553, reclaimed (recycled) water shall be allowed for toilet and urinal flushing in certain structures. These structures include commercial, retail, and office buildings, theaters, auditoriums, condominium projects, schools, hotels, apartments, barracks, dormitories, jails, prisons, reformatories, and other structures as determined by the State Water Resources Control Board.
+
+1505.2 Permit
+supply
+
+its
+
+1505.2.1 Plumbing Plan Submission
+supply
+
+1505.3 System Changes
+supply
+
+supply
+
+1505.4 Connections to Potable or Recycled Water Supply Systems
+Supply
+
+supply
+
+direct
+
+Exceptions:
+
+potable
+
+1505.5 Initial Cross-Connection Test
+1505.13.2.2
+
+an
+
+or
+
+1505.6 Recycled Water Supply System Materials
+Supply
+
+1505.7 Recycled Water Supply System Color and Marking Information
+Supply
+
+All mechanical equipment, including control valves, appurtenant to recycled water supply systems shall be painted purple or composed of purple material matching Pantone color No. 512, 522C or equivalent. Recycled water supply systems
+
+be identified and permanently marked with clearly visible black uppercase lettering on purple background. The identification may be accomplished by labeling metallic and non-metallic piping using purple-colored (Pantone color No. 512) adhesive Mylar PVC tape affixed along the entire length of the pipe, or using non-metallic pipe manufactured with purple (Pantone color No. 512, 522C, or equivalent) integral to the material. For either material, the tape or pipe shall be installed so the wording is clearly visible and shall be field or factory marked as follows: "CAUTION: NONPOTABLE RECYCLED WATER, DO NOT DRINK".
+
+1505.8 Valves
+1505.8.1 Valve Seals
+Valve Seals
+
+The master reclaimed (recycled) water shut-off valve and/or the reclaimed (recycled) water meter curb cock and each valve within a wall shall be sealed after the recycled water supply system has been approved and placed into operation. These seals shall be either crimped lead wire seal or plastic break away seal which, if broken after system approval, shall be deemed conclusive evidence that the recycled water supply system has been accessed. The seals shall be purple, numbered, and contain the words "RECYCLED WATER", and shall be supplied by the recycled water purveyor, or by other arrangements acceptable to the Authority Having Jurisdiction.
+
+1505.8.2 Valve and Appurtenance Access Door Signs
+Valve and Appurtenance Access Door Signs
+
+Each reclaimed (recycled) water valve within a wall shall have its access door into the wall equipped with a warning sign approximately 6 inches by 6 inches (152 mm x 152 mm) with wording in approximately 3/8 inch (9.5 mm) letters on a purple background. The wording text and format of the sign shall be substantially the same as that specified in Section 1505.12.3. The signs shall be attached inside the access door frame and shall hang in the center of the access door frame. This sign requirement shall be applicable to any and all access doors, hatches, etc., leading to reclaimed (recycled) water piping and appurtenances.
+
+1505.9 Hose Bibbs
+Only quick couplers
+
+shall be used on the recycled water piping system in areas subject to public access. Quick couplers
+
+RECYCLED
+
+one of
+
+1505.10 Required Appurtenances
+supply
+
+and the premises
+
+testing
+
+1505.13.2.
+
+1505.11 Pipe Separation in Trenches
+Pipe Separation in Trenches
+
+48
+
+1220
+
+Section 609.0 and Section 720.0 of this code for water pipes.
+
+1505.12 Signage
+Signage
+
+1505.12.1, Section 1505.12.2, and Section 1505.12.3. Signs on access doors to valves and appurtenances shall be in accordance with Section 1505.8.2.
+
+1505.12.1 Commercial, Industrial, Institutional,  and Residential Restroom Signs
+Commercial, Industrial, Institutional,  and Residential Restroom Signs
+
+A sign shall be installed in each restroom of commercial, industrial, and institutional occupancies, and in residential common use areas using reclaimed (recycled) water for water closets, urinals, or both. Each sign shall contain letters of a highly visible color on a contrasting background with a character height as specified in the California Building Code (California Code of Regulations, Title 24, Part 2), Section 1143A.5 and Section 11B-703.5. The location of the sign(s) shall be such that the sign(s) are visible to users and shall be approved by the Authority Having Jurisdiction. The sign(s) shall contain the following text: 
+
+
+
+
+TO CONSERVE WATER, THIS BUILDING USES RECYCLED WATER TO FLUSH TOILETS AND URINALS.
+
+1505.12.2 Tank-Type Toilet Signs
+Tank-Type Toilet Signs
+
+Where tank-type toilets (water closets) are flushed with recycled water, a permanent sign (such as plastic or stainless steel) shall be installed inside the tank to warn that the water within the tank is not a suitable emergency drinking water supply. The sign shall be labeled: "CAUTION: NONPOTABLE RECYCLED WATER — DO NOT DRINK."
+
+1505.12.3 Equipment Room Signs
+Equipment Room Signs
+
+Each room containing reclaimed (recycled) water equipment shall have a sign posted in a location that is visible to anyone working on or near reclaimed (recycled) water equipment with the following wording in 1 inch (25.4 mm) letters on a purple background: CAUTION: NONPOTABLE RECYCLED WATER, DO NOT DRINK. DO NOT CONNECT TO DRINKING WATER SYSTEM. NOTICE: CONTACT BUILDING MANAGEMENT BEFORE PERFORMING ANY WORK ON THIS WATER SYSTEM
+
+1505.13 Inspection and Testing
+supply
+
+1505.13.1 and Section 1505.13.2. The reclaimed (recycled) water purveyor or other designated appointee may substitute for the Authority Having Jurisdiction for the purpose of inspections and tests pursuant to this section.
+
+1505.13.1 Supply System Inspection and Test
+Supply System Inspection and Test
+
+Recycled water supply systems shall be inspected and tested in accordance with this code for testing of potable water piping.
+
+1505.13.2 Cross-Connection Inspection and Testing
+Cross-Connection Inspection and Testing
+
+1505.13.2.1 Visual System Inspection
+Visual System Inspection
+
+1505.13.2.2 Cross-Connection Test
+Cross-Connection Test
+
+1505.13.2.3 Discovery of Cross-Connection
+Discovery of Cross-Connection
+
+In the event that a cross-connection is discovered, the following procedure shall be activated immediately:
+
+Notify the Authority Having Jurisdiction of the cross-connection.
+
+The reclaimed (recycled) water piping to the building and its premises shall be shut down at the meter, and the reclaimed (recycled) water riser shall be drained.
+
+Potable water piping to the building and its premises shall be shut down at the meter.
+
+The cross-connection shall be uncovered and disconnected.
+
+The building and its premises shall be retested in accordance with Section 1505.13.2.1 and Section 1505.13.2.2.
+
+The potable water system shall be chlorinated with 50 parts-per-million (ppm) chlorine for 24 hours.
+
+The potable water system shall be flushed after 24 hours, and a standard bacteriological test shall be performed. Where test results are acceptable, the potable water system shall be permitted to be recharged.
+
+1505.13.2.4 Periodic Inspection
+Periodic Inspection
+
+Periodic visual inspections of recycled water supply systems shall be required by the recycled water supplier or designee following the procedures in Section 1505.13.2.1. Pursuant to California Code of Regulations, Title 22, Section 60316, annual visual inspections shall be required for recycled water supply systems that are within or a part of a building.
+
+1505.14 Minimum Water Quality Requirements for Reclaimed (Recycled) Water
+Minimum Water Quality Requirements for Reclaimed (Recycled) Water
+
+The minimum water quality for reclaimed (recycled) water shall meet the applicable water quality requirements of California Code of Regulations, Title 22, Division 4, Chapter 3 (commencing with Section 60301) for disinfected tertiary recycled water and the applicable reclaimed (recycled) water use. The reclaimed (recycled) water supplier shall supply water in accordance with permits issued by the State Water Resources Control Board or Regional Water Quality Control Board.
+
+1505.15 Maintenance and Inspection
+Maintenance and Inspection
+
+DESCRIPTION	MINIMUM FREQUENCY*
+Inspect and clean filters and screens, and replace (where necessary).	Every 3 months.
+Inspect pumps and verify operation.	After initial installation and every 12 months thereafter.
+Inspect valves and verify operation.	After initial installation and every 12 months thereafter.
+Inspect pressure tanks and verify operation.	After initial installation and every 12 months thereafter.
+Clear debris from and inspect storage tanks, locking devices, and verify operation.	After initial installation and every 12 months thereafter.
+Inspect caution labels and marking.	After initial installation and every 12 months thereafter.
+
+1506.0 On-Site Treated Nonpotable Gray Water Systems
+Gray
+
+1506.1 General
+gray
+
+1506.2 Plumbing Plan Submission
+gray
+
+[BSC-CG, HCD 1] Prior to commencing the issuance of permits for indoor gray water systems pursuant to state requirements relating to graywater, a city, county, city and county or other local agency shall seek consultation with the local public health department to ensure that local public health concerns are addressed in local standards or ordinances, or in issuing permits. See California Water Code Section 14877.3.
+
+1506.3 System Changes
+gray
+
+gray
+
+1506.4 Connections to Potable or Recycled Water Supply Systems
+Supply
+
+gray
+
+direct
+
+supply
+
+Exceptions:
+
+inlet
+
+1506.5 Initial Cross-Connection Test
+1506.6 On-Site Treated Nonpotable Gray Water System Materials
+Gray
+
+gray
+
+1506.7 On-Site Treated Nonpotable Gray Water Devices and Systems
+Gray
+
+gray
+
+gray
+
+1506.8 On-Site Treated Nonpotable Gray Water System Color and Marking Information
+Gray
+
+nonpotable gray
+
+1506.9 Design and Installation
+gray water
+
+1506.9.6.
+
+1506.9.1 Listing Terms and Installation Instructions
+gray
+
+1506.9.2 Minimum Water Quality [BSC-CG, HCD 1]
+[BSC-CG, HCD 1]
+
+gray
+
+gray
+
+In the absence of local water quality requirements for on-site treated nonpotable gray water, the requirements of NSF 350 shall apply.
+
+1506.9.3 Deactivation and Drainage
+gray
+
+1506.9.4 Near Underground Potable Water Pipe
+gray
+
+gray
+
+1506.9.5 Required Filters
+gray
+
+s
+
+1506.9.6 Disinfection
+Disinfection
+
+Where the intended use of onsite treated nonpotable gray water requires disinfection and/or other treatment, on-site treated nonpotable gray water shall be disinfected as needed to ensure the required water quality is obtained at the point of use. Where chlorine is used for disinfection or treatment, water shall be tested for residual chlorine in accordance with ASTM D1253.
+
+1506.10 Valves
+1506.11 Signs
+gray
+
+and 1501.9.2, and applicable requirements of the California Building Code.
+
+1506.12 Inspection and Testing
+gray
+
+and/or as required by the Authority Having Jurisdiction.
+

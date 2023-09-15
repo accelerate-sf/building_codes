@@ -1,0 +1,74 @@
+
+
+The matrix adoption tables, examples of which follow, are non-regulatory aids intended to show the user which state agencies have adopted and/or amended given sections of the model code. An agency's statutory authority for certain occupancies or building applications determines which chapter or section may be adopted, repealed, amended or added. See Chapter 1, Division I, Sections 1.2 through 1.14 for agency authority, building applications and enforcement responsibilities.
+
+The side headings identify the scope of state agencies’ adoption as follows:
+
+If there is an “X” under a particular state agency’s acronym on this row; this means that particular state agency has adopted the entire model code chapter without any state amendments.
+
+Example:
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter			X																				
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below								S	A	M	P	L	E										
+Chapter/Section																							If there is an “X” under a particular state agency’s acronym on this row, it means that particular state agency has adopted the entire model code chapter; with state amendments.
+
+Each state-amended section that the agency has added to that particular chapter is listed. There will be an “X” in the column, by that particular section, under the agency’s acronym, as well as an “X” by each section that the agency has adopted.
+
+Example:
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)			X																				
+Adopt only those sections that are listed below								S	A	M	P	L	E										
+Chapter 1																							
+202			X																				If there is an “X” under a particular state agency’s acronym on this row, it means that particular state agency is adopting only specific model code or state-amended sections within this chapter. There will be an “X” in the column under the agency’s acronym, as well as an “X” by each section that the agency has adopted.
+
+Example:
+
+CHAPTER 2 – DEFINITIONS AND ABBREVIATIONS
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CA	SL	SLC
+1	2	1-AC	AC	SS	SS/CC	1	1R	2	3	4	5
+Adopt entire chapter																						
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below					X	X		S	A	M	P	L	E									
+Chapter 1																						
+202					X	X		S	A	M	P	L	E									
+202					X	X			C	O	N	T.										
+203					X	X																
+203					X	X																State Fire Marshal T-24 Column:
+
+If there is an “X” in the T-24 column under SFM, refer to the California Matrix Adoption Tables explaining how to use the matrix adoption tables.
+
+State Fire Marshal T-19 Column:
+
+If there is an “X” in the T-19 column under SFM, this means that the corresponding section was reprinted from the California Code of Regulations (CCR), Title 19, Division 1 into the California Fire Code for the code user’s convenience. The corresponding Title-19 sections were listed in the matrix adoption tables in the order that they appear in the California Fire Code. The scope, applicability and appeals procedures of CCR, Title 19, Division 1 has not changed. For information regarding the specific purpose and scope of CCR, Title 19, unless otherwise specified, refer to CCR, Title 19, Division 1, Chapter 1, Subchapter 1, Article 1, Sections 1.00 through 1.14.
+
+Example:
+
+CHAPTER 3 – GENERAL PRECAUTIONS AGAINST FIRE
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+T-24	T-19*	1	2	1-AC	AC	SS	1	1R	2	3	4	5
+Adopt entire chapter																							
+Adopt entire chapter as amended (amended sections listed below)																							
+Adopt only those sections that are listed below			X																				
+[California Code of Regulations, Title 19, Division 1]				X																			
+Chapter / Section							S	A	M	P	L	E											
+301		X																					
+[T-19 §3.14]			X																				
+[T-19 §3.19 (a-g)]			X																				
+304		X																					
+[T-19 §3.07(a)]			X																				
+[T-19 §3.07(b)]			X																				*The California Code of Regulations (CCR), Title 19, Division 1 provisions that are found in the California Fire Code are a reprint from the current CCR, Title 19, Division 1 text for the code user’s convenience only. The scope, applicability and appeals procedures of CCR, Title 19, Division 1 remains the same.
+

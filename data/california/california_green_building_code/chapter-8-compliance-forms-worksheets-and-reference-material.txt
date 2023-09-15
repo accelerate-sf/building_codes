@@ -1,0 +1,1418 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  CHAPTER 8 – COMPLIANCE FORMS, WORKSHEETS AND REFERENCE MATERIAL
+
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.  See Chapter 1 for state agency authority and building applications.)
+
+Adopting agency	BSC	BSC- CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter		X																				
+Adopt entire chapter as amended (amended sections listed below)																						
+Adopt only those sections that are listed below								X														
+Chapter/Section																						
+IES TM-15-11 Table A-1								X														
+Table 130.2-A								X														
+Table 1302.2-B								X														CHAPTER 8 COMPLIANCE FORMS, WORKSHEETS AND REFERENCE MATERIAL COMPLIANCE FORMS, WORKSHEETS AND REFERENCE MATERIAL
+
+[BSC] Sample forms found in “A Guide to the California Green Building Standards Code (Nonresidential)” located at https://www.dgs.ca.gov/BSC/Resources/Page-Content/Building-Standards-Commission-Resources-List-Folder/CALGreen may be used to assist in documenting compliance with the waste management plan and other provisions of this code.
+
+[HCD 1] Sample forms located at www.hcd.ca.gov/building-standards/calgreen/cal-green-forms.shtml may be used to assist in documenting compliance with CALGreen.
+
+WORKSHEET (WS-1) BASELINE WATER USE
+
+BASELINE WATER USE CALCULATION TABLE
+FIXTURE TYPE	FLOW RATE		DURATION		DAILY USES		OCCUPANTS1		GALLONS PER DAY
+Showerheads	1.8 gpm @ 80 psi	×	5 min.	×	1	×	Note 1a	=	
+Lavatory faucets nonresidential	0.5 gpm @ 60 psi	×	.25 min.	×	3	×		=	
+Kitchen faucets	1.8 gpm @ 60 psi	×	4 min.	×	1	×	Note 1b	=	
+Replacement aerators	2.2 gpm	×		×		×		=	
+Wash fountains	1.8 gpm/20 [rim space(in.)@ 60 psi]	×		×		×		=	
+Metering faucets	0.20 gal/cycle	×		×	3	×		=	
+Metering faucets for wash fountains	0.20 gal/cycle/20 [rim space(in.)@ 60 psi]	×	.25 min.	×		×		=	
+Gravity tank-type water closets	1.28 gal/flush	×	1 flush	×	1 male2 3 female	×		=	
+Flushometer tank water closets	1.28 gal/flush	×	1 flush	×	1 male2 3 female	×		=	
+Flushometer valve water closets	1.28 gal/flush	×	1 flush	×	1 male2 3 female	×		=	
+Electromechanical hydraulic water closets	1.28 gal/flush	×	1 flush	×	1 male2 3 female	×		=	
+Urinals	0.5 or 0.1253 gal/flush	×	1 flush	×	2 male	×		=	
+Total daily baseline water use (BWU)	=	1.For nonresidential occupancies, refer to Table 4-1, Chapter 4, 2022 California Plumbing Code, for occupant load factors.
+
+a.Shower use by occupants depends on the type of use of a building or portion of a building, e.g., total occupant load for a health club, but only a fraction of the occupants in an office building as determined by the anticipated number of users.
+
+b.Kitchen faucet use is determined by the occupant load of the area served by the fixture.
+
+2.The daily use number shall be increased to three if urinals are not installed in the room.
+
+3.Floor-mounted urinals @ 0.5 GPF or wall-mounted urinals @ 0.125 GPF.
+
+WORKSHEET (WS-2) WATER USE REDUCTION
+
+12-, 20- OR 25-PERCENT REDUCTION WATER USE CALCULATION TABLE
+FIXTURE TYPE	FLOW RATE		DURATION		DAILY USES		OCCUPANTS1		GALLONS PER DAY
+Showerheads		×	5 min.	×	1	×	Note 1a	=	
+Lavatory faucets nonresidential4		×	.25 min.	×	3	×		=	
+Kitchen faucets		×	4 min.	×	1	×	Note 1b	=	
+Replacement aerators		×		×		×		=	
+Wash fountains		×		×		×		=	
+Metering faucets		×	.25 min.	×	3	×		=	
+Metering faucets for wash fountains		×	.25 min.	×		×		=	
+Gravity tank-type water closets		×	1 flush	×	1 male3 3 female	×		=	
+Flushometer tank water closets		×	1 flush	×	1 male3 3 female	×		=	
+Flushometer valve water closets		×	1 flush	×	1 male3 3 female	×		=	
+Electromechanical hydraulic water closets		×	1 flush	×	1 male3 3 female	×		=	
+Urinals		×	1 flush	×	2 male	×		=	
+Urinals Nonwater supplied	0.0 gal/flush		1 flush		2 male	×			
+Proposed water use	=	
+12% Reduction___________ (BWU from WS-1) × .88 = __________ Allowable water use 20% Reduction___________ (BWU from WS-1) × .80 = __________ Allowable water use 25% Reduction___________ (BWU from WS-1) × .75 = __________ Allowable water use1.For occupancies, refer to Table 4-1, Chapter 4, 2022 California Plumbing Code, for occupant load factors.
+
+a.Shower use by occupants depends on the type of use of a building or portion of a building, e.g., total occupant load for a health club, but only a fraction of the occupants in an office building as determined by the anticipated number of users.
+
+b.Kitchen faucet use is determined by the occupant load of the area served by the fixture.
+
+2.Includes single and dual flush water closets with an effective flush of 1.28 gallons or less.
+
+Single flush toilets - The effective flush volume shall not exceed 1.28 gallons (4.8 liters). The effective flush volume is the average flush volume when tested in accordance with ASME A112.19.2.
+
+Dual flush toilets - The effective flush volume shall not exceed 1.28 gallons (4.8 liters). The effective flush volume is defined as the composite, average flush volume of two reduced flushes and one full flush. Flush volumes will be tested in accordance with ASME A112.19.2 and ASME A112.19.14.
+Single flush toilets - The effective flush volume shall not exceed 1.28 gallons (4.8 liters). The effective flush volume is the average flush volume when tested in accordance with ASME A112.19.2.
+
+Dual flush toilets - The effective flush volume shall not exceed 1.28 gallons (4.8 liters). The effective flush volume is defined as the composite, average flush volume of two reduced flushes and one full flush. Flush volumes will be tested in accordance with ASME A112.19.2 and ASME A112.19.14.
+
+3.The daily use number shall be increased to three if urinals are not installed in the room.
+
+4.Where complying faucets are unavailable, aerators rated at 35 gpm or other means may be used to achieve reduction.
+
+Construction Waste Management (CWM) Plan
+
+Note: This sample form may be used to assist in documenting compliance with the waste management plan.
+
+Project Name: ___________________________________________________
+
+Job #: __________________________________________________________
+
+Project Manager: _________________________________________________
+
+Waste Hauling Company: __________________________________________
+
+Contact Name: ______________________________________________
+
+All Subcontractors shall comply with the project’s Construction Waste Management Plan.
+
+All Subcontractor foremen shall sign the CWM Plan Acknowledgment Sheet.
+
+Subcontractors who fail to comply with the Waste Management Plan will be subject to backcharges or withholding of payment, as deemed appropriate. For instance, Subcontractors who contaminate debris boxes that have been designated for a single material type will be subject to backcharge or withheld payment, as deemed appropriate.
+
+1.The project’s overall rate of waste diversion will be ____ %.
+
+2.This project shall generate the least amount of waste possible by planning and ordering carefully, following all proper storage and handling procedures to reduce broken and damaged materials and reusing materials whenever possible. The majority of the waste that is generated on this jobsite will be diverted from the landfill and recycled for other use.
+
+3.Spreadsheet 1, enclosed, identifies the waste materials that will be generated on this project, the diversion strategy for each waste type and the anticipated diversion rate.
+
+4.Waste prevention and recycling activities will be discussed at the beginning of weekly subcontractor meetings. As each new subcontractor comes on-site, the WMP Coordinator will present him/her with a copy of the CWM Plan and provide a tour of the jobsite to identify materials to be salvaged and the procedures for handling jobsite debris. All Subcontractor foremen will acknowledge in writing that they have read and will abide by the CWM Plan. Subcontractor Acknowledgment Sheet enclosed. The CWM Plan will be posted at the jobsite trailer.
+
+5.Salvage: Excess materials that cannot be used in the project, nor returned to the vendor, will be offered to site workers, the owner or donated to charity if feasible.
+
+6.[HAULING COMPANY] will provide a commingled drop box at the jobsite for most of the construction waste. These commingled drop boxes will be taken to [Sorting Facility Name and Location]. The average diversion rate for commingled waste will be ____%. As site conditions permit, additional drop boxes will be used for particular phases of construction (e.g., concrete and wood waste) to ensure the highest waste diversion rate possible.
+
+7.In the event that the waste diversion rate achievable via the strategy described in (6) above, is projected to be lower than what is required, then a strategy of source-separated waste diversion and/or waste stream reduction will be implemented. Source separated waste refers to jobsite waste that is not commingled but is instead allocated to a debris box designated for a single material type, such as clean wood or metal.
+
+Notes:
+
+1.Waste stream reduction refers to efforts taken by the builder to reduce the amount of waste generated by the project to below four (4) pounds per square foot of building area.
+
+2.When using waste stream reduction measures, the gross weight of the product is subtracted from a base weight of four (4) pounds per square foot of building area. This reduction is considered additional diversion and can be used in the waste reduction percentage calculations.
+
+8.[HAULING COMPANY] will track and calculate the quantity (in tons) of all waste leaving the project and calculate the waste diversion rate for the project. [HAULING COMPANY] will provide Project Manager with an updated monthly report on gross weight hauled and the waste diversion rate being achieved on the project. [HAULING COMPANY’s] monthly report will track separately the gross weights and diversion rates for commingled debris and for each source-separated waste stream leaving the project. In the event that [HAULING COMPANY] does not service any or all of the debris boxes on the project, the [HAULING COMPANY] will work with the responsible parties to track the material type and weight (in tons) in such debris boxes in order to determine waste diversion rates for these materials.
+
+9.In the event that Subcontractors furnish their own debris boxes as part of their scope of work, such Subcontractors shall not be excluded from complying with the CWM Plan and will provide [HAULING COMPANY] weight and waste diversion data for their debris boxes.
+
+10.In the event that site use constraints (such as limited space) restrict the number of debris boxes that can be used for collection of designated waste the project Superintendent will, as deemed appropriate, allocate specific areas onsite where individual material types are to be consolidated. These collection points are not to be contaminated with non-designated waste types.
+
+11.Debris from jobsite office and meeting rooms will be collected by [DISPOSAL SERVICE COMPANY]. [DISPOSAL SERVICE COMPANY] will, at a minimum, recycle office paper, plastic, metal and cardboard.
+
+Construction Waste Management (CWM) Worksheet
+
+Note: This sample form may be used to assist in documenting compliance with the waste management plan.
+
+Project Name: __________________________________________________ Job Number: ___________________________________________________ Project Manager:________________________________________________ Waste Hauling Company: ________________________________________
+Construction Waste Management (CWM) Plan
+
+WASTE MATERIAL TYPE	DIVERSION METHOD:	PROJECTED DIVERSION RATE
+COMMINGLED AND SORTED OFF SITE	SOURCE SEPARATED ON SITE
+Asphalt			
+Concrete			
+Shotcrete			
+Metals			
+Wood			
+Rigid insulation			
+Fiberglass insulation			
+Acoustic ceiling tile			
+Gypsum drywall			
+Carpet/carpet pad			
+Plastic pipe			
+Plastic buckets			
+Plastic			
+Hardiplank siding and boards			
+Glass			
+Cardboard			
+Pallets			
+Job office trash, paper, glass & plastic bottles, cans, plastic			
+Alkaline and rechargeable batteries, toner cartridges and electronic devices			
+Other:			
+Other:			
+Other:			
+Other:			Construction Waste Management (CWM) Acknowledgment
+
+Note: This sample form may be used to assist in documenting compliance with the waste management plan.
+
+Project Name: __________________________________________________ Job Number: ___________________________________________________ Project Manager:________________________________________________ Waste Hauling Company: ________________________________________
+CWM Plan Acknowledgment
+The Foreman for each new Subcontractor that comes on site is to receive a copy of the Construction Waste Management Plan and complete this Acknowledgment Form. I have read the Waste Management Plan for the project; I understand the goals of this plan and agree to follow the procedures described in this plan.
+DATE	SUBCONTRACTOR COMPANY NAME	FOREMAN NAME	SIGNATURE
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			Title 23, Waters, California Code of Regulations
+
+MWELO and supporting documents, including a water budget calculator, are available at: https://www.water.ca.gov/.
+
+Commissioning Referenced Standards for Non-Energy Systems
+
+The following CALGreen Referenced Standards are included herein as a convenience for the users of the California Green Building Standards Code, but they are not considered to be part of the code unless they are officially adopted by a local jurisdiction.
+
+Contents		Page
+Part 1:	Standards for Compliance with Building Commissioning	64.2
+Part 2:	Commissioning Sample Forms and Templates	64.12Part 1 STANDARDS FOR COMPLIANCE WITH BUILDING COMMISSIONING
+
+Reference: Section 5.410.2, Commissioning.
+
+Introduction:
+
+The purpose of this code is to improve public health, safety and general welfare by enhancing the design and construction of buildings through the use of concepts that reduce negative and increase positive environmental impacts. Commissioning is a vital element in this effort.
+
+Definitions used in the CALGreen Cx Reference standard: CALGreen
+
+Acronyms	
+BOD	Basis of Design
+Cx	Commissioning
+FPT	Functional Performance Test
+HVAC	Heating, Ventilating and Air-Conditioning
+O&M	Operations and Maintenance
+OPR	Owner’s Project RequirementsGlossary:
+
+Acceptance Criteria—The conditions that must be met for systems or equipment to meet defined and expected outcomes.
+
+Commissioning (Cx)—Building commissioning as required in this code involves a quality assurance process that begins during design and continues to occupancy. Commissioning verifies that the new building operates as the owner intended and that building staff are prepared to operate and maintain its systems and equipment. Exceptions are allowed for dry storage warehouses of any size and conditioned spaces under 10,000 square feet accessory to them; and for tenant improvements under 10,000 square feet within a larger space.
+
+Owner—The individual or entity holding title to the property on which the building is constructed.
+
+Commissioning Coordinator—The person who coordinates the commissioning process. This can be either a third-party commissioning provider or an experienced member of the design team or owner in-house staff member.
+
+Commissioning Team—The key members of each party involved with the project designated to provide insight and carry out tasks necessary for a successful commissioning project. Team members may include the commissioning coordinator, owner or owner’s representative, building staff, design professionals, contractors or manufacturer’s representatives and testing specialists.
+
+Independent Third-Party Commissioning Professional—A commissioning consultant contracted directly by the owner who is not responsible to, or affiliated with, any other member of the design and construction team.
+
+Operation and Maintenance (O&M) Manuals—Documents that provide information necessary for operating and maintaining installed equipment and systems.
+
+Owner Representative—An individual or entity assigned by the owner to act and sign on the owner’s behalf.
+
+Process Equipment—Energy-using equipment and components that are not used for HVAC, electrical, plumbing and irrigation operations. Such devices would include but are not limited to heat transfer, water purifying, air cleaning, air vacuum and air compressing.
+
+Sequence of Operation—A written description of the intended performance and operation of each control element and feature of the equipment and systems.
+
+Selecting Trained Personnel (for Commissioning)
+
+This code requires that “Commissioning shall be performed in accordance with this section by trained personnel with experience on projects of comparable size and complexity.” The trained personnel manage and facilitate the commissioning process. The trained personnel develop and implement the commissioning tasks and documentation identified in Sections 5.410.2.1 through 5.410.2.6. Trained personnel may include appropriate members of owner staff, contractor and design team as well as independent commissioning professionals.
+
+It is essential that there is a single person designated to lead and manage the commissioning activities. In practice, this individual has been referenced by various identifiers such as commissioning authority, agent, provider, coordinator, lead, etc. In this guide the term “commissioning coordinator” is used.
+
+The designated commissioning coordinator may be an independent, third-party commissioning professional, a project design team member (e.g., engineer or architect), an owner’s engineer or facility staff, contractor or specialty subcontractor. Methods of evaluating the designated commissioning coordinator and trained personnel include review of the following:
+
+1.Technical knowledge;
+
+2.Relevant experience;
+
+3.Potential conflict of interest concerns;
+
+4.Professional certifications and training;
+
+5.Communication and organizational skills; and
+
+6.Reference and sample work products.
+
+Selection of “trained,” qualified personnel is required by this code. In order to meet this requirement, the commissioning provider should be evaluated via the methods discussed above. In addition, various organizations have training and certification programs that may be a source for identification of qualified commissioning providers.
+
+For information about enforcement and compliance of each commissioning element see Sections 5.410.2.1 through 5.410.2.6.
+
+For compliance forms and templates see Part 2 following this standard.
+
+Reference: 1 Owner’s Project Requirements
+
+CALGreen Section 5.410.2.1, CALGreen Owner’s or Owner representative’s Project Requirements (OPR).
+
+1.1 Intent:
+
+The Owner’s Project Requirements (OPR) documents the functional requirements of a project and expectations of the building use and operation as it relates to systems being commissioned. The document describes the physical and functional building characteristics desired by the owner and establishes performance and acceptance criteria. The OPR is most effective when developed during predesign and used to develop the Basis of Design (BOD) during the design process. The level of detail and complexity of the OPR will vary according to building use, type and systems.
+
+1.2 Compliance Method:
+
+Compliance is demonstrated by the owner or owner’s representative developing and/or approving the Owner’s Project Requirements (OPR) document and can be defined as follows:
+
+1.Environmental and Sustainability Goals—Establish environmental project goals and objectives exceeding the code for the project’s sustainability, which may include:
+
+a.CALGreen voluntary measures or Tiers sought, or other specific green building rating system or program credits and/or level of certification sought
+
+b.Specific environmental or sustainability goals such as water efficiency, water reuse, CO2 monitoring, xeriscaping, etc.
+
+2.Building Sustainable Goals—Establish goals and targets affecting energy efficiency, which may include:
+
+a.Measures affecting building sustainability desired by owner
+
+i.Building orientation and siting
+
+ii.Daylighting
+
+iii.Facade, envelope and fenestration
+
+iv.Roof
+
+v.Natural ventilation
+
+vi.Onsite renewable power generation and net-zero energy use
+
+vii.Landscaping and shading
+
+3.Indoor Environmental Quality Requirements—For each program space describe indoor environmental requirements including intended use and anticipated schedule, and the following:
+
+a.Temperature and humidity
+
+b.Acoustics
+
+c.Air quality, ventilation and filtration
+
+d.Desired adjustability of system controls
+
+e.Accommodations for after-hours use
+
+f.Other owner requirements including natural ventilation, operable windows, daylight, views, etc.
+
+4.Project Program, including facility functions and hours of operation, and need for after-hours operation—Describe primary purpose, program and use of proposed project include the following:
+
+a.Building size, number of stories, construction type, occupancy type and number
+
+b.Building program areas including intended use and anticipated occupancy schedules
+
+c.Future expandability and flexibility of spaces
+
+d.Quality and/or durability of materials and building lifespan desired
+
+e.Budget or operational constraints
+
+f.Applicable codes
+
+5.Equipment and Systems Expectations—Describe the following for each system commissioned:
+
+a.Level of quality, reliability, equipment type, automation, flexibility, maintenance and complexity desired
+
+b.Specific efficiency targets, desired technologies or preferred manufacturers for building systems, acoustics and vibration
+
+c.Degree of system integration, automation and functionality for controls
+
+6.Building Occupant and O&M Personnel Expectations—Describe the following:
+
+a.How building will be operated and by whom
+
+b.Level of training and orientation required to understand, operate and use the building systems for building operation and maintenance staff, as well as occupants
+
+c.Building operation and maintenance staff location and capabilities
+
+1.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance at Plan Intake by:
+
+a)Receipt of a copy of the OPR document, or
+
+b)Receipt of a form signed by the owner or owner representative attesting that the OPR has been completed and approved by the owner.
+
+Reference: 2 Basis of Design (BOD)
+
+CALGreen Section 5.410.2.2, CALGreen Basis of Design (BOD).
+
+2.1 Intent:
+
+The Basis of Design (BOD) describes the building systems to be commissioned and outlines design assumptions not indicated in the design documents. The design team develops the BOD to describe how the building systems’ design meets the Owner’s Project Requirements (OPR), and why the systems were selected. The BOD is most effective when developed early in the project design and updated as necessary throughout the design process.
+
+2.2 Compliance Method:
+
+Compliance requires the completion of the BOD document and should include the following where applicable:
+
+1.Renewable Energy Systems
+
+a.Provide narrative description of system—type, performance, control type, energy savings, payback period
+
+b.Describe reason for system selection—why chosen system is better than alternatives, issues such as performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference
+
+c.Sequence of Operation—operating schedules, setpoints, storage capacity
+
+d.Describe how system meets the OPR
+
+2.Landscape Irrigation Systems
+
+a.Provide narrative description of system—type, performance, water usage
+
+b.Describe reason for system selection—why chosen system is better than alternatives, issues such as performance, efficiency, reliability, flexibility, expandability, cost, owner preference, simplicity
+
+c.Sequence of Operation—operating schedules, setpoints
+
+d.Describe how system meets the OPR
+
+3.Water Reuse Systems
+
+a.Provide narrative description of system—type, performance, capacity, reuse purpose
+
+b.Describe reason for system selection—why chosen system is better than alternatives, issues such as performance, efficiency, reliability, flexibility, expandability, cost, owner preference, simplicity
+
+c.Sequence of Operation—operating schedules, setpoints
+
+d.Describe how system meets the OPR
+
+2.3 Enforcement:
+
+At their discretion, the building official confirms demonstrated compliance at Plan Intake by:
+
+a)Receipt of a copy of the BOD document, or
+
+b)Receipt of a form signed by the architect, engineer or designer of record, attesting that the BOD has been completed and meets the requirements of the OPR.
+
+Reference: 3 Commissioning measures shown in the construction documents
+
+CALGreen Section 5.410.2, CALGreen Commissioning.
+
+This section provides details for element 3: Commissioning measures shown in the construction documents.
+
+3.1 Intent:
+
+Include commissioning measures or requirements in the construction documents (plans and specifications). Commissioning measures or requirements should be clear, detailed and complete to clarify the commissioning process.
+
+3.2 Compliance Method:
+
+Compliance is achieved by including commissioning requirements in the project specifications. The commissioning specifications should include the following:
+
+1.Primary (and optionally all) commissioning requirements are included in the general specification division (typically Division 1) and clear cross references of all commissioning requirements to and from the general division are included to ensure all subcontractors are held to them.
+
+2.A list of the systems and assemblies covered by the commissioning requirements.
+
+3.Roles and responsibilities of all parties, including:
+
+i.General contractor and subcontractors, vendors, construction manager
+
+ii.Commissioning provider lead
+
+iii.Owner, facility staff
+
+iv.Architect and design engineers
+
+v.Include the noncontractor parties in the construction specifications (information used only to provide the contractor with context for their work).
+
+vi.Include who writes checklists and tests, who reviews and approves test forms, who directs tests, who executes tests, who documents test results, and who approves completed tests. These roles may vary by system or assembly.
+
+4.Meeting requirements
+
+5.Commissioning schedule management procedures
+
+6.Issue and noncompliance management procedures
+
+7.Requirements for execution and documentation of installation, checkout and start up, including controls point-to-point checks and calibrations
+
+8.Specific testing requirements by system, including:
+
+i.Monitoring and trending
+
+ii.Opposite season or deferred testing requirements, functions and modes to be tested
+
+iii.Conditions of test
+
+iv.Acceptance criteria, and any allowed sampling
+
+v.Include details of the format and rigor of the test forms required to document test execution
+
+vi.Include example forms is recommended
+
+9.Submittal review requirements and approval process.
+
+10.Content, authority and approval process of the commissioning plan.
+
+11.Commissioning documentation and reporting requirements.
+
+12.Facility staff training requirements and verification procedures.
+
+13.O&M manual review and approval procedures.
+
+14.System’s manual development and approval requirements and procedures.
+
+15.Definitions section.
+
+3.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance at Plan Intake by:
+
+a)Receipt of a copy of the commissioning specifications, or
+
+b)Receipt of a form signed by the owner or owner’s representative or designer of record attesting that the owner-approved commissioning specifications are included in the construction documents.
+
+Reference: 4 Commissioning plan
+
+CALGreen Section 5.410.2.3, CALGreen Commissioning plan.
+
+4.1 Intent:
+
+The Commissioning Plan (Cx Plan) establishes the commissioning process guideline for the project and commissioning team’s level of effort by identifying the required Cx activities to ensure that the Owner’s Project Requirements (OPR) and the Basis of Design (BOD) are met. The Cx Plan also includes a commissioning schedule from design to occupancy.
+
+4.2 Compliance Method:
+
+Compliance is demonstrated by preparation of a project-specific Cx Plan that includes the elements listed in the code section above. The following gives guidance for developing the components of the commissioning plan:
+
+1.General project information - Provide project-identifying information including but not limited to the following:
+
+i.Project name, owner, location.
+
+ii.Building type, building area.
+
+iii.Project schedule.
+
+iv.Contact information of individual/company providing the commissioning services.
+
+2.Commissioning goals – Document the commissioning goals, including but not limited to:
+
+i.Meeting CALGreen code requirements for commissioning.
+
+ii.Meeting OPR and BOD requirements.
+
+iii.Carrying out requirements for commissioning activities as specified in plans and specifications.
+
+3.Systems to be commissioned – See BOD
+
+a.An explanation of the original design intent - Document the performance objectives and design intent for each system listed to be commissioned in a written narrative
+
+−Refer to the OPR and BOD documents
+−Refer to the OPR and BOD documents
+
+b.Equipment and systems to be tested, including the extent of tests
+
+i.Provide a list of equipment and systems to be tested
+
+ii.Describe the range and extent of tests to be performed for each system component, and interface between systems
+
+c.Functions to be tested - Provide example functional test procedures to identify the level of testing detail required
+
+−See (Section 5.410.2.4) FPT guidance for more information
+−See (Section 5.410.2.4) FPT guidance for more information
+
+d.Conditions under which the test shall be performed - Identify the conditions under which the major operational system functions are to be tested, including:
+
+i.Normal operations and part-load operations.
+
+ii.Seasonal testing requirements.
+
+iii.Restart of equipment and systems after power loss.
+
+iv.System alarm confirmations.
+
+e.Measurable criteria for acceptable performance - Include measurable criteria for acceptable performance of each system to be tested
+
+4.Commissioning team information - Provide a contact list for all commissioning team members, including but not limited to:
+
+i.Owner, owner’s representative.
+
+ii.Architect, engineers.
+
+iii.Designated commissioning representative.
+
+iv.General contractor, subcontractors and construction manager.
+
+5.Commissioning process activities, schedules and responsibilities
+
+i.Establish prescribed commissioning process steps and activities to be accomplished by the Cx team throughout the design to occupancy.
+
+ii.For each phase of the work, define the roles and responsibilities for each member of the Cx team.
+
+iii.List the required Cx deliverables, reports, forms and verifications expected at each stage of the commissioning effort.
+
+iv.Include the confirmation process for the O&M manual, systems manual and the facility operator and maintenance staff training.
+
+4.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance at Plan Intake by:
+
+a)Receipt of a copy of the commissioning plan, or
+
+b)Receipt of a form signed by the owner or owner’s representative attesting that the Cx Plan has been completed.
+
+Reference: 5 Functional performance testing
+
+CALGreen Section 5.410.2.4, CALGreen Functional performance testing.
+
+5.1 Intent:
+
+Develop and implement the functional performance tests to document, as set forth in the commissioning plan, that all components, equipment, systems and system-to-system interfaces were installed as specified, and operate according to the Owner’s Project Requirements, Basis of Design, and plans and specifications.
+
+The following systems to be functionally tested are listed in the Basis of Design (Section 5.410.2.2 of the code):
+
+1.Renewable energy systems
+
+2.Landscape irrigation systems
+
+3.Water reuse systems
+
+5.2 Compliance Method:
+
+Compliance is demonstrated by developing and implementing test procedures for each piece of commissioned equipment and interfaces between equipment and systems according to the building-specific commissioning plan. Tests should include verification of proper operation of all equipment features, each part of the sequence of operation, overrides, lockouts, safeties, alarms, occupied and unoccupied modes, loss of normal power, exercising a shutdown, startup, low load through full load (as much as is possible) and back, staging and standby functions, scheduling, energy efficiency strategies and loop tuning.
+
+Elements of acceptable test procedures include:
+
+1.Date and party—Identification of the date of the test and the party conducting the test.
+
+2.Signature block—Signature of the designated commissioning lead and the equipment installing contractor attesting that the recorded test results are accurate.
+
+3.Prerequisites—Any conditions or related equipment checkout or testing that needs to be completed before conducting this test.
+
+4.Precautions—Identification of the risks involved to the test team members and the equipment and how to mitigate them.
+
+5.Instrumentation—Listing of the instrumentation and tools necessary to complete the test.
+
+6.Reference—In each procedure item, identify the source for what is being confirmed (e.g., sequence of operation ID, operating feature, specification requirement, etc.).
+
+7.Test instructions—Step-by-step instructions of how to complete the test, including functions to test and the conditions under which the tests should performed.
+
+8.Acceptance criteria—Measurable pass / fail criteria for each step of the test, as applicable.
+
+9.Results—Expected system response and space to document the actual response, readings, results and adjustments.
+
+10.Return to normal—Instructions that all systems and equipment are to be returned to their as-found state at the conclusion of the tests.
+
+11.Deficiencies—A list of deficiencies and how they were mitigated.
+
+5.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance during onsite enforcement by:
+
+a)Receipt of a copy of completed and signed functional performance tests and corrected deficiencies, or
+
+b)Receipt of a form signed by the owner, owner’s representative or commissioning coordinator attesting that the functional performance tests have been completed and any deficiencies corrected.
+
+Reference: 6.1 Documentation and training
+
+CALGreen Section 5.410.2.5, CALGreen Documentation and training.
+
+Section 5.410.2.5.1, Systems manual.
+
+6.1.1 Intent:
+
+The Systems Manual documents information focusing on the operation of the building systems. This document provides information needed to understand, operate and maintain the equipment and systems and informs those not involved in the design and construction of the building systems. This document is in addition to the record construction drawings, documents and the Operation & Maintenance (O&M) manuals supplied by the contractor. The Systems Manual is assembled during the construction phase and available during the contractors’ training of the facility staff.
+
+6.1.2 Compliance Method:
+
+Compliance is demonstrated by providing the Systems Manual. The information in the Systems Manual includes the following:
+
+1.Site information, including facility description, history and current requirements
+
+a.Site information
+
+i.Location of property - address
+
+ii.Site acreage
+
+iii.Local utility information
+
+−Water service provider
+
+−Natural/LPG gas service provider
+
+−Electrical service provider
+
+−Telecommunications service provider
+
+−Other service providers
+−Water service provider
+
+−Natural/LPG gas service provider
+
+−Electrical service provider
+
+−Telecommunications service provider
+
+−Other service providers
+
+b.Facility description
+
+i.Use/function
+
+ii.Square footage
+
+iii.Occupancy type
+
+iv.Construction type
+
+v.Basis of Design
+
+vi.Location of major systems and equipment
+
+c.Project history
+
+i.Project requirements
+
+−Owner’s Project Requirements (OPR)
+
+−Basis of Design (BOD)
+−Owner’s Project Requirements (OPR)
+
+−Basis of Design (BOD)
+
+ii.Project undocumented events
+
+iii.Record drawings and documents
+
+iv.Final control drawings and schematics
+
+v.Final control sequences
+
+vi.Construction documents - location or delivery information
+
+−Mechanical and electrical drawings
+
+−Specifications
+
+−Submittals
+
+−Project change orders and information
+−Mechanical and electrical drawings
+
+−Specifications
+
+−Submittals
+
+−Project change orders and information
+
+d.Current requirements
+
+i.Building operating schedules
+
+ii.Space temperature, humidity and pressure, CO2 setpoints
+
+iii.Summer and winter setback schedules
+
+iv.Chilled and hot water temperatures
+
+v.As-built control setpoints and parameters
+
+2.Site contact information
+
+a.Owner information
+
+b.Emergency contacts
+
+c.Design team: architect, mechanical engineer, electrical engineer, etc.
+
+d.Prime contractor contact information
+
+e.Subcontractor information
+
+f.Equipment supplier contact information
+
+3.Basic operation and maintenance, including general site operating procedures, basic trouble shooting, recommended maintenance requirements site events log
+
+a.Basic operation
+
+i.Written narratives of basic equipment operation
+
+ii.Interfaces, interlocks and interaction with other equipment and systems
+
+iii.Initial maintenance provided by contactor
+
+b.General site operating procedures
+
+i.Instructions for changes in major system operating schedules
+
+ii.Instructions for changes in major system holiday and weekend schedules
+
+c.Basic troubleshooting
+
+i.Cite any recommended troubleshooting procedures specific to the major systems and equipment installed in the building.
+
+ii.Manual operation procedures
+
+iii.Standby/backup operation procedures
+
+iv.Bypass operation procedures
+
+v.Major system power fail resets and restarts
+
+vi.Trend log listing
+
+d.Recommended maintenance events log
+
+e.Operation & Maintenance manuals - location or delivery information
+
+4.Major systems
+
+a.Renewable energy systems
+
+i.Photovoltaic panels and inverters
+
+ii.Wind-powered electrical generators and inverters
+
+b.Landscape irrigation systems
+
+i.Water distribution diagrams
+
+ii.Control system
+
+c.Water reuse systems
+
+i.Reclaimed water system for indoor use
+
+ii.Reclaimed water for irrigation use
+
+5.Site equipment inventory and maintenance notes
+
+a.Spare parts inventory
+
+b.Frequently required parts and supplies
+
+c.Special equipment required to operate or maintain systems
+
+d.Special tools required to operate or maintain systems
+
+6.A copy of all special inspection verifications required by the enforcing agency of this code
+
+7.Other resources and documentation
+
+6.1.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance during on-site enforcement by:
+
+a.Receipt of a copy of the Systems Manual, or
+
+b.Receipt of a form signed by the owner or owner’s representative attesting that the systems manual has been completed.
+
+Reference: 6.2 Documentation and training
+
+CALGreen Section 5.410.2.5, CALGreen Documentation and training.
+
+Section 5.410.2.5.2, Systems operations training.
+
+6.2.1 Intent:
+
+The systems operation training verifies that a training program is developed to provide training to the appropriate maintenance staff for each equipment type and/or system and that this training program is documented in the commissioning report. The systems operations training program is specified in the project specifications for the major systems listed. The systems manual, Operation and Maintenance (O&M) documentation and record drawings are prepared and available to the maintenance staff prior to implementation of any training or the development of a written training program. The training program is to be administered when the appropriate maintenance staff is made available to receive training.
+
+6.2.2 Compliance Method:
+
+The written training program includes: (a) learning goals and objectives for each session, (b) training agenda, topics and length of instruction for each session, (c) instructor information and qualifications, (d) location of training sessions (on-site, off-site, manufacturer’s or vendor’s facility), (e) attendance forms, (f) training materials and (g) description on how the training will be archived for future use.
+
+1.Systems/equipment overview
+
+a.Review OPR and BOD related to the major systems and equipment
+
+b.Describe system type and configuration
+
+c.Explain operation of all major systems and equipment and how it interfaces with other systems and equipment
+
+d.Describe operation of critical devices, controls and accessories
+
+e.Review location of the major systems and equipment
+
+f.Describe operation of control system for each system, location of critical control elements and procedures to properly operate control system
+
+g.Review recommendations for implementation to reduce energy and water use
+
+2.Review and demonstration of servicing/preventive maintenance
+
+a.Explain location or delivery contact of the Operation & Maintenance manuals
+
+b.Review of all manufacturer’s recommended maintenance activities to maintain warranty
+
+c.Review and demonstrate frequent maintenance activities and suggested schedule
+
+d.Review and demonstrate typical servicing procedures and techniques (electrical current, pressure and flow readings, etc.; calibration procedures, point trending, power fail restart procedures, etc.)
+
+e.Locate, observe and identify major equipment, systems, accessories and controls
+
+f.Review emergency shut-offs and procedures
+
+3.Review the information in the systems manual
+
+a.Describe use of systems manual
+
+b.Review elements of systems manual
+
+c.Explain how to update and add revisions to systems manual
+
+4.Review record drawings on the systems/equipment
+
+a.Explain location or delivery contact of the record drawings
+
+b.Review record drawings, revisions and changes to original design drawings.
+
+c.Review equipment schedules and compare with actual installed systems
+
+6.2.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance during on-site enforcement by:
+
+1.In the event appropriate maintenance staff is made available to receive training for each equipment type and/or system installed in the building.
+
+a.Receipt of a copy of the written training program and completed attendance forms, or
+
+b.Receipt of a form signed by the owner or owner’s representative attesting that the training program and delivery of training has been completed.
+
+2.In the event appropriate maintenance staff are unavailable to receive training for each equipment type and/or system installed in the building.
+
+a.Receipt of a copy of the training program provided to the owner or owner’s representative, or
+
+b.Receipt of a form signed by the owner or owner’s representative attesting that the written training program has been provided.
+
+Reference: 7 Commissioning report
+
+CALGreen Section 5.410.2.6, CALGreen Commissioning report.
+
+7.1 Intent:
+
+The commissioning report documents the commissioning process and test results. The report includes confirmation from the commissioning agent verifying that commissioned systems meet the conditions of the Owner’s Project Requirements (OPR), Basis of Design (BOD) and contract documents.
+
+7.2 Compliance Method:
+
+The components of the commissioning report include the following and are defined as follows:
+
+1.Executive summary of process and results of commissioning program, including observations, conclusions and any outstanding items.
+
+2.History of any system deficiencies and how resolved
+
+a.Include outstanding deficiencies and plans for resolution
+
+b.Include plans for seasonal testing scheduled for a later date
+
+3.System performance test results and evaluations
+
+4.Summary of training process completed and scheduled
+
+5.Attach commissioning process documents
+
+a.Commissioning plan
+
+b.Owner’s Project Requirements (OPR)
+
+c.Basis of Design (BOD)
+
+d.Executed installation checklists
+
+e.Executed Functional Performance Test (FPT) forms
+
+f.Recommendations for end-of-warranty review activities
+
+7.3 Enforcement:
+
+At their discretion, the inspector confirms demonstrated compliance during on-site enforcement by:
+
+a)Receipt of a copy of the commissioning report, or
+
+b)Receipt of a form signed by the owner or owner’s representative attesting that the Cx Report has been completed.
+
+Part 2 SAMPLE FORMS AND TEMPLATES FOR COMMISSIONING
+
+Note: Following are examples of templates and/or forms that may be used or adopted for verification compliance with commissioning. Code users may provide their own documents as permitted by the enforcing agency. For each subsection of commissioning, samples are provided; in a few cases with narrative templates, and in most cases with compliance forms. Simplified forms or more detailed forms, but not both, may be selected to submit for each project.
+
+CALGreen COMPLIANCE FORM
+ OWNER’S PROJECT REQUIREMENTS (OPR)The following form may be required to be printed on the permit set of construction drawings or submitted separately. Italicized text indicates direct or partial quotes from the CALGreen Code.
+
+CALGreen Commissioning Requirement 5.410.2.1, Owner’s Project Requirements (OPR)
+
+5.410.2.1 5.410.2.1 Owner’s or Owner representative’s Project Requirements (OPR). Owner’s or Owner representative’s Project Requirements (OPR).
+
+[N] The expectations and requirements of the building appropriate to its phase shall be documented before the design phase of the project begins. This documentation shall include the following:
+
+1.Environmental and sustainability goals.
+
+2.Building sustainable goals.
+
+3.Indoor environmental quality requirements.
+
+4.Project program, including facility functions and hours of operation, and need for after hours operation.
+
+5.Equipment and systems expectations.
+
+6.Building occupant and operation and maintenance (O&M) personnel expectations.
+
+	OPR ELEMENTS	INCLUDED
+1.	Environmental and sustainability goals.	◻
+2.	Building sustainable goals.	◻
+3.	Indoor environmental quality requirements.	◻
+4.	Project program, including facility functions and hours of operation,
+and need for after-hours operation.	◻
+5.	Equipment and systems expectations.	◻
+6.	Building occupant and O&M personnel expectations.	◻________________________________	_____________________
+Owner/Owner’s Representative Signature	DateOWNER’S PROJECT REQUIREMENTS (OPR)  COMPLIANCE CHECKLISTINCORPORATE THIS FORM IN THE PLANS
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________ITEM #	OPR ITEMS	PAGE NUMBER IN OPR DOCUMENT
+	OWNER AND USER REQUIREMENTS—PROJECT PROGRAM	
+1	General building information (size, stories, construction type, occupancy type and number)	
+2	Intended uses and schedules	
+3	Future expandability and flexibility of spaces	
+4	Quality and/or durability of materials and desired building lifespan	
+5	Budget or operation constraints	
+	ENVIRONMENTAL AND SUSTAINABILITY GOALS	
+6	Level of compliance with the California Green Building Standards Code: Mandatory, Tier 1 or Tier 2	
+7	Specific environmental or sustainability goals (e.g., water efficiency, water reuse, CO2 monitoring, xeriscaping, etc.)	
+	BUILDING SUSTAINABLE GOALS	
+8	Measures affecting energy efficiency desired by owner (e.g., building orientation, shading, daylighting, natural ventilation, renewable power, etc.)	
+	INDOOR ENVIRONMENTAL QUALITY REQUIREMENTS	
+9	Lighting	
+10	Temperature and humidity	
+11	Acoustics	
+12	Air quality, ventilation and filtration	
+13	Desired adjustability of system controls	
+14	Accommodations for after-hours use	
+15	Other owner requirements (e.g., natural ventilation, daylight, views, etc.)	
+	EQUIPMENT AND SYSTEMS EXPECTATIONS	
+16	Level of quality, reliability, equipment type, flexibility, maintenance and complexity desired	
+17	Specific efficiency targets, desired technologies or preferred manufacturers for building systems, acoustics and vibration	
+18	Degree of system integration, automation and functionality for controls (i.e., load shedding, demand response, energy management)	
+	BUILDING OCCUPANT AND O&M PERSONNEL EXPECTATIONS	
+19	Description of how the building will be operated and by whom	
+20	Level of training and orientation required to understand, operate and use the building systems for building operation and maintenance staff, as well as occupants	
+21	Building operation and maintenance staff location and capabilities	
+	COMMISSIONING AGENT INFORMATION	
+22	Name of commissioning agency:	
+23	Address of agency:	
+24	Contact person(s) name(s):	Owner/Owner’s Representative Acknowledgement
+Owner’s Project Requirements (OPR). The expectations and requirements of the building appropriate to its phase shall be documented before the design phase of the project begins. The OPR includes the elements listed above and they have been approved by the Owner or Owner’s Representative.
+Name: _______________________________	◻ Owner	◻ Owner’s Representative
+Company Name (if applicable): ________________________
+Signature: ________________________	Date: ___________BASIS OF DESIGN (BOD)  COMPLIANCE TEMPLATEDocumentation of the Basis of Design (BOD) is a step required for compliance with CALGreen Code, Section 5.410.2.2, for newly constructed buildings greater than 10,000 square feet. This template is a guide for use by the design team.
+
+1.Renewable Energy Systems
+
+1.1.Narrative Description of System
+
+A.[System type(s), location, inverter type, control type, performance, efficiency, energy savings, payback period]
+
+B.[Describe how system meets any special requirements listed in the Owner’s Project Requirements document.]
+
+1.2.Reasons for System Selection
+
+[Reasons that the selected renewable energy systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, space constraints, cost, owner preferences, ease of maintenance, etc.)]
+[Reasons that the selected renewable energy systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, space constraints, cost, owner preferences, ease of maintenance, etc.)]
+
+1.3.Renewable Energy System Generation Calculations
+
+[Describe sizing calculation method, assumptions and results]
+[Describe sizing calculation method, assumptions and results]
+
+2.Landscape Irrigation Systems
+
+2.1.Narrative Description of System
+
+A.[System type(s), location, control type, performance, efficiency, water savings]
+
+B.[Describe how system meets any special requirements listed in the Owner’s Project Requirements document.]
+
+2.2.Reasons for System Selection
+
+[Reasons that the selected landscape irrigation systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, cost, owner preferences, ease of maintenance, etc.)]
+[Reasons that the selected landscape irrigation systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, cost, owner preferences, ease of maintenance, etc.)]
+
+2.3.Landscape Irrigation System Calculations
+
+[Describe sizing calculation method, assumptions and results]
+[Describe sizing calculation method, assumptions and results]
+
+3.Water Reuse Systems
+
+3.1.Narrative Description of System
+
+A.[System type(s), location, space requirements, equipment requirements, control type, performance, efficiency, potable water savings, payback period]
+
+B.[Describe how system meets any special requirements listed in the Owner’s Project Requirements document.]
+
+3.2.Reasons for System Selection
+
+[Reasons that the selected water reuse systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, space constraints, cost, owner preferences, ease of maintenance, etc.)]
+[Reasons that the selected water reuse systems are a better choice than alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, utility company incentives, owner preference, space constraints, cost, owner preferences, ease of maintenance, etc.)]
+
+3.3.Water Reuse System Calculations
+
+BASIS OF DESIGN (BOD)  COMPLIANCE CHECKLIST[Describe sizing calculation method, assumptions and results]
+
+INCORPORATE THIS FORM IN THE PLANS
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________ITEM #	BOD ITEMS	PAGE NUMBER IN BOD DOCUMENT
+	RENEWABLE ENERGY SYSTEMS (IF ANY)	
+1	Narrative description of system (i.e., system type(s), location, inverter type, control type, performance, efficiency, energy savings, payback period, other)	
+2	Description of how the system meets requirements listed in OPR	
+3	Reasons for system selection, as opposed to alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, expandability, cost, payback period, etc.)	
+4	Renewable energy system generation calculations: sizing calculation method, assumptions and results	
+	LANDSCAPE IRRIGATION SYSTEMS	
+5	Narrative description of system (i.e. system type(s), location, control type, performance, efficiency, water savings, other)	
+6	Description of how the system meets requirements in OPR	
+7	Reasons for system selection, as opposed to alternatives (e.g., performance, efficiency, reliability, flexibility, cost, utility company incentives, etc.)	
+8	Landscape irrigation system calculations: sizing calculation method, assumptions and results	
+	WATER REUSE SYSTEM (IF ANY)	
+11	Narrative description of system (i.e., system type(s), location, space requirements, equipment requirements, control type, performance, efficiency, potable water savings, payback period, other)	
+12	Description of how the system meets requirements in OPR	
+13	Reasons for system selection, as opposed to alternatives (e.g., performance, efficiency, reliability, flexibility, simplicity, cost, payback period, etc.)	
+14	Water reuse system calculations: sizing calculation method, assumptions and results	Architect/Engineer/Designer Acknowledgement
+I hereby acknowledge the Basis of Design (BOD) document has been completed and meets the Owner’s Project Requirements (OPR).
+	Name	License Number	Signature	Date
+Architect of Record				
+Landscape Architect				
+Renewable Energy System Designer				
+Other (specify):				Commissioning Agent Acknowledgment
+I have reviewed the Basis of Design (BOD) and verified that it meets the Owner’s Project Requirements (OPR):
+Name: _____________________________________________
+Company Name (if applicable): ____________________________________________
+Agent’s Signature: __________________________________	Date: ___________Cx MEASURES IN CONSTRUCTION DOCUMENTS  COMPLIANCE FORMThe following form may be required to be printed on the permit set of construction drawings or submitted separately.
+
+CALGreen Commissioning Requirement 5.410.2, Commissioning Measures in the Construction Documents
+
+5.410.2. 5.410.2.
+
+Commissioning measures shall be shown in the construction documents.
+
+The commissioning measures shown in the construction documents include the checked elements listed below and have been approved by the owner, owner’s representative or designer of record.
+
+	COMMISSIONING MEASURE ELEMENTS1	INCLUDED
+1.	Measures shown in the specifications and cross referenced	□
+2.	List of commissioned equipment and systems	□
+3.	Cx roles and responsibilities of all parties	□
+4.	Meeting requirements	□
+5.	Commissioning schedule management procedures	□
+6.	Procedures for addressing outstanding issues or noncompliance	□
+7.	Requirements for execution and documentation of installation and equipment start-up	□
+8.	Specific testing requirements for each system type1	□
+9.	Submittal review and approval requirements	□
+10.	Contents and approval process of the commissioning plan	□
+11.	Cx documentation and reporting requirements	□
+12.	Facility staff training requirements and verification procedures	□
+13.	O&M manual review and approval procedures	□
+14.	Systems manual development and approval procedures	□
+15.	Definitions	□1These are not the detailed step-by-step test procedures but are lists of features, elements, modes and conditions of tests for specific equipment.
+
+_____________________________________________	____________________
+Owner / Owner’s Representative 
+or Designer of Record Signature	DateCx MEASURES IN CONSTRUCTION DOCUMENTSINCORPORATE THIS FORM IN THE PLANS
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________ITEM #	COMMISSIONING MEASURES ITEMS
+1	Measures shown in the specifications and cross referenced
+2	List of commissioned equipment and systems
+3	Cx roles and responsibilities of all parties
+4	Meeting requirements
+5	Commissioning schedule management procedures
+6	Procedures for addressing outstanding issues or noncompliance
+7	Requirements for execution and documentation of installation and equipment start-up
+8	Specific testing requirements for each system type
+9	Submittal review and approval requirements
+10	Contents and approval process of the commissioning plan
+11	Cx documentation and reporting requirements
+12	Facility staff training requirements and verification procedures
+13	O&M manual review and approval procedures
+14	Systems manual development and approval procedures
+15	DefinitionsCommissioning Agent Acknowledgment
+I have reviewed the construction documents listed above and verified their compliance with the Owner’s Project Requirements (OPR), Basis of Design (BOD) and commissioning plan.
+Name: _______________________________________
+Company Name (if applicable): _____________________________________________
+Agent’s Signature: __________________________________	Date: ______________COMMISSIONING PLAN  COMPLIANCE FORMThe following form may be required to be printed on the permit set of construction drawings or submitted separately.
+
+CALGreen Commissioning Requirement 5.410.2.3, Commissioning Plan
+
+5.410.2.3 5.410.2.3 Commissioning plan. Commissioning plan.
+
+[N] Prior to permit issuance a commissioning plan shall be completed to document how the project will be commissioned. The commissioning plan shall include the following:
+
+(See Cx plan elements checklist below.)
+
+The commissioning plan should be started during the design phase of the building project. Include the checked elements listed below and approved by the owner or owner’s representative.
+
+	COMMISSIONING PLAN ELEMENTS1	INCLUDED
+1.	General project information	◻
+2.	Commissioning goals	◻
+3.	Systems to be commissioned—see BOD	
+3a.	An explanation of original design intent	◻
+3b.	Equipment and systems to be commissioned and tested, including extent of tests	◻
+3c.	Functions to be tested and conditions of tests1	◻
+3d.	Conditions under which the test shall be performed	
+3e.	Measurable criteria for acceptable performance	◻
+4.	Cx team information	◻
+5.	Cx process activities, schedules and responsibilities	◻1.These are not the detailed step-by-step test procedures but are lists of features, elements, modes and conditions of tests for specific equipment.
+
+__________________________________________	____________________
+Owner / Owner’s Representative Signature	DateCOMMISSIONING PLAN  COMPLIANCE CHECKLISTINCORPORATE THIS FORM IN THE PLANS
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________ITEM #	COMMISSIONING PLAN ITEMS1	PAGE NUMBER IN COMMISSIONING PLAN DOCUMENT
+	GENERAL PROJECT INFORMATION	
+1	Project name, owner, location	
+2	Building type, building area	
+3	Overall project commissioning schedule	
+4	Contact information for individual/company providing commissioning services	
+	COMMISSIONING GOALS	
+5	Meet California Green Building Standards Code requirements for commissioning	
+6	Meeting OPR and BOD requirements	
+7	Carrying out requirements for commissioning activities as specified in plans and specifications	
+	SYSTEMS TO BE COMMISSIONED	
+8	Explanation of the original design intent (refer to OPR and BOD documents)	
+9	Equipment and systems to be tested, functions to be tested, conditions under which the test shall be performed and measurable criteria for acceptable performance	
+	COMMISSIONING TEAM INFORMATION	
+10	List of all team members and contact information (i.e., owner, owner’s representative, architect, engineers, designated commissioning representative and (if available): general contractor, subcontractors and construction manager)	
+	COMMISSIONING PROCESS ACTIVITIES, SCHEDULES and RESPONSIBILITIES	
+11	Prescribed commissioning process steps and activities to be accomplished by the Cx team throughout the design to occupancy	
+12	Roles and responsibilities for each member of the Cx team for each phase of the work	
+13	Required Cx deliverables, reports, forms and verifications expected at each stage of the commissioning effort	
+14	Confirmation process for the O&M manual, systems manual and the facility operator and maintenance staff training	1.The following systems shall be tested: renewable energy systems, landscape irrigation systems and water reuse systems.
+
+Owner/Owner’s Representative Acknowledgment
+The commissioning plan includes the items listed above and have been approved by the Owner or Owner’s Representative:
+Name:_________________________________	◻ Owner	◻ Owner’s Representative
+Company Name (if applicable): ____________________________________
+Signature: _________________________________	Date: ______________FUNCTIONAL PERFORMANCE TESTING  COMPLIANCE FORMCALGreen Commissioning Requirement 5.410.2.4, Functional Performance Testing
+
+5.410.2.4 5.410.2.4 Functional performance testing. Functional performance testing.
+
+[N] Functional performance tests shall demonstrate the correct installation and operation of each component, system and system-to-system interface in accordance with the approved plans and specifications. Functional performance testing reports shall contain information addressing each of the building components tested, the testing methods utilized, and include any readings and adjustments made.
+
+Test forms have been developed for each piece of commissioned equipment and system and include the checked elements listed below. These tests have been executed with deficiencies corrected.
+
+	FUNCTIONAL TEST ELEMENTS	INCLUDED
+1.	Date and parties participating	◻
+2.	Signature block attesting test is complete and accurate	◻
+3.	Prerequisites	◻
+4.	Precautions	◻
+5.	Instrumentation required	◻
+6.	Reference to the source of what is being confirmed (sequences, packaged features, etc.)	◻
+7.	Detailed step-by-step test instructions	◻
+8.	Acceptance criteria	◻
+9.	Results	◻
+10.	Confirmation of returning to normal	◻
+11.	Deficiency list	◻_____________________________	____________________
+Cx Coordinator Signature	DateFUNCTIONAL PERFORMANCE TESTING  COMPLIANCE FORMREPORT # 
+(e.g., FPT-003)	SYSTEM/EQUIPMENT TEST REPORT  (See minimum report requirements on page 2 of this form.)	PAGE/TAB # IN  COMMISSIONING REPORT
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		THIS FORM IS TO BE COMPLETED FOR THE TIME OF INSPECTION
+
+Project Address: ________________________________________________________
+Permit Number: ___________________________
+List the functional test reports below for all systems to be tested (see Form 5.4-8.1, item #9).Minimum Requirements for Test Report
+
+1.Date and Party – Identification of the date of the test and the party conducting the test.
+
+2.Signature Block – Signature of the designated commissioning lead and the equipment-installing contractor attesting that the recorded test results are accurate.
+
+3.Prerequisites – Any conditions or related equipment checkout or testing that needs to be completed before conducting this test.
+
+4.Precautions – Identification of the risks involved to the test team members and the equipment and how to mitigate them.
+
+5.Instrumentation – Listing of the instrumentation and tools necessary to complete the test.
+
+6.Reference – In each procedure item, identify the source for what is being confirmed (e.g., sequence of operation ID, operating feature, specification requirement, etc.)
+
+7.Test Instructions – Step-by-step instructions of how to complete the test, including functions to test and the conditions under which the tests should be performed.
+
+8.Acceptance Criteria – Measurable pass/fail criteria for each step of the test, as applicable.
+
+9.Results – Expected system response and space to document the actual response, readings, results and adjustments.
+
+10.Return to Normal – Instructions that all systems and equipment are to be returned to their as-found state at the conclusion of the tests.
+
+11.Deficiencies – A list of deficiencies and how they were mitigated.
+
+Commissioning Agent Acknowledgment
+I have reviewed the test reports listed above and verified that they are complete; these tests have been executed with deficiencies corrected.
+Name: _______________________________________
+Company Name (if applicable): ________________________________________
+Agent’s Signature: ____________________________	Date: ______________SYSTEMS MANUAL COMPLIANCE FORM	CALGreen Std. BSC-5.4-10 10-08-10CALGreen Commissioning Requirement 5.410.2.5.1, Documentation and Training—Systems Manual
+
+5.410.2.5.1 5.410.2.5.1 Systems Manual. Systems Manual.
+
+[N] Documentation of the operational aspects of the building shall be completed within the systems manual and delivered to the building owner or representative. The systems manual shall include the following:
+
+(See elements checklist below.)
+
+	SYSTEM MANUAL ELEMENTS	INCLUDED
+1.	Site information including facility description, history and current requirements	◻
+2.	Site contact information	◻
+3.	Basic operations and maintenance and troubleshooting	◻
+4.	Systems covered include major systems listed under the BOD	◻
+5.	Site equipment inventory and maintenance notes	◻
+6.	Special inspection verifications	◻
+7.	Other resources and documentation	◻____________________________________	____________________
+Owner or Owner’s Representative Signature	DateSYSTEM OPERATIONS TRAINING COMPLIANCE FORMCALGreen Commissioning Requirement 5.410.2.5.2, System Operations Training
+
+5.410.2.5.2 5.410.2.5.2 Systems Operations Training. Systems Operations Training.
+
+[N] A program for training of the appropriate maintenance staff for each equipment type and/or system shall be developed and documented in the commissioning report and shall include the following.
+
+(See elements checklist below.)
+
+The written training program includes the checked elements listed below.
+
+	TRAINING PROGRAM ELEMENTS	INCLUDED
+1.	System/equipment overview (what it is, what it does, and with what other systems and/or equipment it interfaces)	◻
+2.	Review and demonstration of servicing and preventive maintenance	◻
+3.	Review of the information in the systems manual	◻
+4.	Review of the record drawings on the system/equipment	◻The owner or owner’s representative attests that when the appropriate maintenance staff are made available prior to certificate of occupancy that the written training program was executed with these staff. Or, if appropriate maintenance staff are not available, that the written training program was submitted and approved by the owner or owner’s representative.
+
+____________________________________	____________________
+Owner or Owner’s Representative Signature	DateSYSTEM OPERATIONS TRAINING  COMPLIANCE FORMTHIS FORM IS TO BE COMPLETED PRIOR TO INSPECTION
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________Part One: Systems Manual
+
+ITEM #	SYSTEMS MANUAL ELEMENTS	PAGE NUMBER IN MANUAL
+	SITE INFORMATION	
+1	General (i.e., address, acreage, local utility information, other)	
+2	Facility description (i.e., use/function, square footage, occupancy type, construction type, basis of design, location of major systems and equipment)	
+3	Project history (i.e., project requirements (BOD/OPR), project undocumented events, record drawings and documents, final control drawings and schematics, final control sequences, construction documents)	
+4	Current requirements (i.e., building operating schedules, space temperature, humidity, pressure, CO2 setpoints, summer and winter setback schedules, chilled and hot water temperatures, as-built control setpoints and parameters)	
+	SITE CONTACT INFORMATION	
+5	Owner information	
+6	Emergency contacts	
+7	Design team (i.e., architect, mechanical engineer, electrical engineer, other)	
+8	Prime contractor contact information	
+9	Subcontractor information	
+10	Equipment supplier contact information	
+	BASIC OPERATIONS AND MAINTENANCE	
+11	Basic operation (i.e., narratives of basic equipment operation, interfaces, interlocks and interaction with other equipment and systems, initial maintenance provided by the contractor)	
+12	General site-operating schedules (i.e., instructions for changes in major system operating schedules, instructions for changes in major system holiday and weekend schedules)	
+13	Basic troubleshooting (i.e., cite recommended troubleshooting procedures specific to major systems and equipment, manual operation procedures, standby/backup/bypass operation procedures, major system power fail resets and restarts, trend log listing)	
+14	Recommended maintenance events log (i.e., HVAC air filler replacement schedule and log, building control system sensor calibration schedule and log)	
+15	Operation and maintenance manuals (location or delivery information)	
+	MAJOR SYSTEMS	
+19	Water heating systems	
+20	Landscape irrigation systems (i.e., water distribution diagrams and control system)	
+21	Water reuse systems (i.e., reclaimed water system for indoor use, reclaimed water for irrigation use)	
+	SITE EQUIPMENT INVENTORY AND MAINTENANCE NOTES	
+22	Spare parts inventory	
+23	Frequently required parts and supplies	
+24	Special equipment required to operate or maintain systems	
+25	Special tools required to operate or maintain systems	
+	SPECIAL INSPECTIONS	
+26	Copies of all special inspection verifications required by the enforcing agency of this code	
+	OTHER	
+27	Other resources and documentation	Part Two: Training
+
+ITEM #	TRAINING PROGRAM ELEMENTS	PAGE NUMBER IN  TRAINING DOCUMENT
+1	System/equipment overview (i.e., what it is, what it does, and with what other systems and/or equipment it interfaces)	
+2	Review and demonstration of servicing and preventative maintenance	
+3	Review of the information in the systems manual	
+4	Review of the record drawings on the system/equipment	Owner/Owner’s Representative Acknowledgment
+◻ Documentation of the operation aspects of the building shall be completed within the systems manual and delivered to the building owner or representative and facilities operator. The systems manual includes the elements listed in part one of this form; or
+◻ When the appropriate maintenance staff is made available prior to the certificate of occupancy, the written training program will be executed to these staff. The written training program includes the elements listed in part two of this form.
+Name: _______________________________	◻ Owner	◻ Owner’s Representative
+Company Name (if applicable): _____________________________________
+Signature: ___________________________________	Date: _____________COMMISSIONING REPORT  COMPLIANCE FORMCALGreen Commissioning Requirement 5.410.2.6, Commissioning Report
+
+5.410.2.6 5.410.2.6 Commissioning Report. Commissioning Report.
+
+[N] A report of commissioning process activities undertaken through the design and construction phases of the building project shall be completed and provided to the owner or representative.
+
+The commissioning report should include the checked elements listed below and should be approved by the owner or owner’s representative.
+
+	COMMISSIONING REPORT ELEMENTS	INCLUDED
+1.	Executive summary with conclusions and outstanding issues	◻
+2.	History of system deficiencies and resolution	◻
+3.	Summary of system functional test results	◻
+4.	Summary of training completion	◻
+5.	Attachments of commissioning plan, OPR, BOD, executed (filled in) installation checklists, executed functional tests, recommendations for end-of-warranty review	◻_________________________________	____________________
+Owner / Owner’s Representative Signature	DateCOMMISSIONING REPORT  COMPLIANCE FORMTHIS FORM IS TO BE COMPLETED PRIOR TO INSPECTION
+
+Project Address: _________________________________________________________
+Permit Number: _____________________________ITEM #	COMMISSIONING REPORT ELEMENTS	PAGE NUMBER IN COMMISSIONING REPORT DOCUMENT
+1	EXECUTIVE SUMMARY	
+	Executive summary of process and results of commissioning program (include observations, conclusions and any outstanding items)	
+2	HISTORY OF ANY SYSTEM DEFICIENCIES AND HOW RESOLVED	
+	Outstanding deficiencies and plans for resolution	
+	Plans for seasonal testing scheduled for a later date	
+3	RESULTS	
+	System performance test results and evaluations	
+4	SUMMARY OF TRAINING	
+	Summary of training process completed and scheduled	
+5	ATTACH COMMISSIONING PROCESS DOCUMENTS	
+	Commissioning plan	
+	Owner’s Project Requirements (OPR)	
+	Basis of Design (BOD)	
+	Executed installation checklists	
+	Executed Functional Performance Test (FPT) forms	
+	Recommendations for end-of-warranty review activities	Owner and Commissioning Agent Acknowledgment
+The commissioning report includes the items listed above and is approved by the owner/owner’s representative and commissioning agent below.
+1. Owner/Owner’s Representative
+The commissioning report includes the items listed above and have been approved by the owner or owner’s representative.
+Name: ______________________________________	◻ Owner	◻ Owner’s Representative
+Company Name (if applicable): _________________________________
+Signature: _________________________________	Date: ___________
+2. Commissioning Agent
+Name: ______________________________________
+Company Name (if applicable): _________________________________
+Signature: _________________________________	Date: ___________FOR REFERENCE ONLY: The following table has been reprinted from the IES TM-15-11 Reference standard, see Section 5.106.8.
+
+IES TM-15-11 TABLE A-1
+
+Backlight Ratings (Maximum Zonal Lumens)
+
+SECONDARY SOLID ANGLE	MAXIMUM ZONAL LUMENS PER OUTDOOR LIGHTING ZONE
+LZ 0	LZ 1	LZ 2	LZ 3	LZ 4
+Backlight High (BH) 60 to 80 degrees	110	500	1,000	2,500	5,000
+Backlight Medium (BM) 30 to < 60 degrees	220	1,000	2,500	5,000	8,500
+Backlight Low (BL) 0 to < 30 degrees	110	500	1,000	2,500	5,000FOR REFERENCE ONLY: The following table has been reprinted from the California Energy Code, Part 6, Title 24, see Section 5.106.8.
+
+TABLE 130.2-A
+
+Uplight Ratings (Maximum Zonal Lumens)
+
+SECONDARY SOLID ANGLE	MAXIMUM ZONAL LUMENS PER OUTDOOR LIGHTING ZONE
+LZ 0	LZ 1	LZ 2	LZ 3	LZ 4
+Uplight High (UH) 100 to 180 degrees	0	10	50	500	1,000
+Uplight Low (UL) 90 to < 100 degrees	0	10	50	500	1,000FOR REFERENCE ONLY: The following table has been reprinted from the California Energy Code, Part 6, Title 24, see Section 5.106.8.
+
+TABLE 130.2-B
+
+Glare Ratings (Maximum Zonal Lumens)
+
+	GLARE RATING FOR ASYMMETRICAL LUMINAIRE TYPES (Type I, Type II, Type III, Type IV)
+SECONDARY SOLID ANGLE		Maximum Zonal Lumens per Outdoor Lighting Zone
+LZ 0	LZ 1	LZ 2	LZ 3	LZ 4
+Forward Very High (FVH) 80 to 90 degrees	10	100	225	500	750
+Backlight Very High (BVH) 80 to 90 degrees	10	100	225	500	750
+Forward High (FH) 60 to < 80 degrees	660	1,800	5,000	7,500	12,000
+Backlight High (BH) 60 to < 80 degrees	110	500	1,000	2,500	5,000
+	
+	GLARE RATING FOR QUADRILATERAL SYMMETRICAL LUMINAIRE TYPES (Type V, Type V Square)
+SECONDARY SOLID ANGLE		Maximum Zonal Lumens per Outdoor Lighting Zone
+LZ 0	LZ 1	LZ 2	LZ 3	LZ 4
+Forward Very High (FVH) 80 to 90 degrees	10	100	225	500	750
+Backlight Very High (BVH)
+80 to 90 degrees	10	100	225	500	750
+Forward High (FH)
+60 to < 80 degrees	660	1,800	5,000	7,500	12,000
+Backlight High (BH)
+60 to < 80 degrees	660	1,800	5,000	7,500	12,000

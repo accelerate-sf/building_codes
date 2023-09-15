@@ -1,0 +1,183 @@
+CHAPTER 12-7-4 FIRE-RESISTIVE STANDARDS
+
+FIRE DOOR ASSEMBLY TESTS STANDARD 12-7-4
+
+STATE FIRE MARSHAL SCOPE
+
+Sec. 12-7-400.
+
+(a)Application. These methods of fire tests are applicable to door assemblies of various materials and types of construction for use in wall openings to retard the passage of fire (flame, heat and smoke).
+
+(b)Performance. Tests made in conformity with these test methods will register performance during the test exposure, but such tests shall not be construed as determining suitability for use after exposure to fire.
+
+(c)Suitability of assemblies. It is the intent that tests made in conformity with these test methods will develop data to enable enforcing agencies to determine the suitability of door assemblies for use in locations where fire resistance of a specified duration is required.
+
+FIRE TESTING FURNACES AND CONTROL
+
+Sec. 12-7-401.
+
+(a)Furnaces. Fire testing furnaces and their control shall conform to SFM 12-7-3, Fire Testing Furnaces, Section 12-7-301 (a), Vertical Large-scale Wall Furnaces.
+
+(b)Half scale. If the proposed conditions of use limit the construction to smaller dimensions, and for the evaluation of hardware intended for use on doors not exceeding 4 feet (1219 mm) in width by 7 feet 2 inches (2184 mm) in height, fire testing furnaces conforming to Section 12-7-301 (b), Vertical Half-scale Wall Furnace, may be utilized. Constructions and hardware for ceiling access doors intended for use in fire-endurance rated ceiling-floor assemblies shall be tested in furnaces conforming to SFM 12-7-3, Section 12-7-301 (b), (d) or (f).
+
+UNEXPOSED SURFACE TEMPERATURES
+
+Sec. 12-7-402.
+
+(a)Temperatures recorded. The unexposed surface temperatures of all fire door assemblies shall be recorded. The unexposed surface temperature shall be determined in the manner specified in Sections 12-7-402 (b), (c) and (d).
+
+(b)Surface temperature locations. Unexposed surface temperatures shall be taken at not less than three points, with at least one thermocouple in each 16 square foot (1.5 m2) area of the door(s). Thermocouples shall not be located over reinforcements extending through the door, over glass panels or nearer than 12 inches (305 mm) from the edge of the door.
+
+(c)Thermocouples. Unexposed surface temperatures shall be measured with thermocouples placed under flexible, oven-dry, felted asbestos pads of the following approximate dimensions and weight: 6 inches square (3871 mm2), 0.40 inch (10 mm) in thickness, and weighing 0.026 pound. The pads shall be held firmly against the surface of the door(s) and shall fit closely about the thermocouples without breaking. The thermocouple leads shall be immersed under the pad for distance of not less than 31/2 inches (88.9 mm), with the hot junction under the center of the pad. The thermocouple leads under the pads shall be not heavier than No. 18 B.&S. gage [0.04 inch (1 mm)] and shall be electrically insulated with heat-resistant and moisture-resistant coatings.
+
+(d)Recording interval. Unexposed surface temperatures shall be read at the same intervals as used for the furnace temperatures, Section 12-7-304 (b).
+
+TEST ASSEMBLIES
+
+Sec. 12-7-403.
+
+(a)Construction and size.
+
+1.The construction and size of the test fire door assembly, consisting of single doors, doors in pairs, special purpose doors (such as Dutch doors, double egress doors, etc.) or multisection doors shall be representative of that for which classification or rating is desired. The materials and construction of the door and frame, and the details of the installation, hardware, hangers, guides, trim, finish and clearance or lap shall be recorded to ensure positive identification or duplication in all respects.
+
+2.A floor structure shall be provided as part of the opening to be protected, except where such floor interferes with the operation of the door. The floor segment shall be of noncombustible material and shall project into the furnace approximately twice the thickness of the test door.
+
+(b)Mounting of doors for test purposes.
+
+1.Swinging doors shall be mounted so as to open into the furnace chamber, except doors in pairs swinging in opposite directions shall be mounted so as to have one door leaf open into and one door leaf open away from the furnace chamber.
+
+2.Sliding and rolling doors, except passenger elevator shaft doors, shall be mounted on the exposed side of the opening in the wall closing the furnace chamber.
+
+3.Passenger elevator shaft doors shall be mounted on the unexposed side of the opening in the wall closing the furnace chamber.
+
+4.Access-type door and chute-type door and frame assemblies shall be mounted so as to have one assembly open into the furnace chamber and another assembly open away from the furnace chamber. Ceiling access doors and frame assemblies shall be mounted in a representative ceiling with the room side of the access door opening into the furnace chamber.
+
+5.Dumbwaiter and service counter door and frame assemblies shall be mounted on the exposed side of the opening in the wall.
+
+6.Door frames shall be evaluated when mounted so as to have the doors open either away from or into the furnace chamber at the discretion of the enforcing agency to obtain representative information on the performance of the construction under test.
+
+7.Surface-mounted hardware (fire exit devices) for use on fire doors shall be evaluated by being installed on one door assembly swinging into the furnace chamber and another door assembly swinging away from the furnace chamber.
+
+8.The mounting of all doors shall be such that they fit snugly within the frame, against the wall surfaces, or in guides, but such mounting shall not prevent free and easy operation of the test door.
+
+9.Clearances for swinging doors shall be [with a minus 1/16-inch  (1.6 mm) tolerance] as follows: 1/8 inch  (3.2 mm) along the meeting edge of doors in pairs, 3/8 inch (9.5 mm) at the bottom edge of single swing doors and 1/4 inch (6.35 mm) at the bottom edge of a pair of doors.
+
+10.Clearances for horizontal sliding doors not mounted within guides [with a minus 1/8-inch (3.2 mm) tolerance] shall be as follows: 1/2 inch (13 mm) between door and wall surfaces, 3/8 inch (9.5 mm) between door and floor structure and 1/4 inch (6.35 mm) between the meeting edges of center parting doors. A minimum lap of 4 inches (102 mm) of the door over the wall opening at sides and top shall be provided.
+
+11.Clearances for vertical sliding doors moving within guides [with a minus 1/8-inch (3.2 mm) tolerance] shall be as follows: 1/2 inch (13 mm) between door and wall surfaces along the top and/or bottom door edges with guides mounted directly to the wall surface, and 3/16 inch (4.8 mm) between meeting edges of biparting doors or 3/16 inch (4.8 mm) between door and floor structure or sill.
+
+12.Clearances for passenger elevator sliding doors [with a minus 1/8-inch (3.2 mm) tolerance] shall be as follows: 3/8 inch (9.5 mm) between door and wall surfaces and 3/8 inch (9.5 mm) between multisection door panels. Multisection door panels shall overlap 3/4 inch (19 mm). Door panels shall lap the wall opening 3/4 inch (19 mm) at the sides and top.
+
+CONDUCT OF TESTS
+
+Sec. 12-7-404.
+
+(a)Time of testing. Masonry settings shall be allowed to dry at least 3 days before tests are made.
+
+(b)Fire endurance test.
+
+1.The pressure in the furnace chamber shall be maintained as nearly equal to the atmospheric pressure as possible.
+
+2.The test shall be continued until the exposure period of the desired classification or rating is reached, unless the conditions of acceptance set forth in the appropriate paragraphs are exceeded in a shorter period.
+
+(c)Hose stream test.
+
+1.Immediately following the fire endurance test, the test assembly shall be subjected to the impact, erosion and cooling effects of a hose stream directed first at the middle and then at all parts of the exposed surface, changes in direction being made slowly.
+
+2.The hose stream shall be delivered through a 21/2-inch (63.5 mm) hose discharging through a national standard play-pipe of corresponding size equipped with a 11/8-inch (22 mm) discharge tip of the standard-taper smooth-bore pattern without shoulder at the orifice. The water pressure at the base of the nozzle and duration of the application in seconds per square feet of exposed area shall be as given in Table 12-7-4A.
+
+3.The tip of the nozzle shall be located 20 feet (6096 mm) from and on a line normal to the center of the test door. If impossible to be so located, the nozzle may be on a line deviating not more than 30 degrees from the line normal to the center of the test door. When so located the distance from the center shall be less than 20 feet (6096 mm) by an amount equal to 1 foot (305 mm) for each 10 degrees of deviation from the normal.
+
+REPORT
+
+Sec. 12-7-405.
+
+1.The report shall record the construction and mounting details of the door(s) as provided in Section 12-7-403. Drawings and photographs of construction and mounting details shall be provided.
+
+2.The results shall be reported in accordance with the performance in tests prescribed in these test methods. The report shall show the performance under the desired exposure period chosen from the following: 20 minutes, 30 minutes, 45 minutes, 1 hour, 11/2 hours or 3 hours. The report shall include the temperature measurements of the furnace, and if determined, of the unexposed side of the test assembly. It shall also contain a record of all observations having a bearing on the performance of the test assembly.
+
+CONDITIONS OF ACCEPTANCE
+
+Sec. 12-7-406.
+
+(a)General.
+
+1.A door assembly shall be considered as meeting the requirements for acceptable performance when it remains in the opening during the tests specified in this standard within the limitations contained in this section for the desired endurance rating.
+
+2.The test assembly shall have withstood the fire endurance test and hose stream test without developing openings anywhere through the assembly, except that dislodging of small fragments from the central area of the glass light shall be disregarded. The edges of the individual glass light shall remain in place.
+
+Exception: The hose stream test shall not be required for opposite swing double egress exit doors, and for doors of fire endurance rating of less than 45 minutes with or without approved wired glass lights.
+
+3.Flaming on the unexposed surface of a door assembly shall not be permitted during the first 30 minutes of the classification periods. Some intermittent light flames [tongues of flame not exceeding approximately 6 inches  (152 mm) in length] for periods not exceeding 5-minute intervals are permissible along the edges of door after 30 minutes. During the last 15 minutes of the classification period the unexposed surface area of the door covered by light flaming or charring shall be contained within a distance of 11/2 inches (38 mm) from a vertical door edge and within 3 inches (76 mm) from the top edge of the door.
+
+Exception: On doors not subjected to the hose stream test, finished with surface veneers or crossbands and veneers, surface flaming on the unexposed surface shall not burn or char crossbands or surface veneer along the hinge or latch jamb and shall not burn or char crossbands or surface veneer down more than 1/2 inch (13 mm) from the top edge, except that light browning without any flaming may occur at throughbolts and the latch rose.
+
+(b)Hardware. When hardware is to be evaluated for use on fire doors, it shall hold the door closed under the conditions of acceptance for an exposure period of 3 hours, and the latch bolts shall remain projected and shall be intact after the test. Builders fire door hardware shall not be equipped with any dogging device, set screw or other arrangement which can be used to prevent projection and latching of the latch bolt, locking device or locking bolt upon closing of the door(s). The hardware need not be operable after the test. All parts essential to the latching or unlatching of fire exit hardware devices shall be constructed of materials having a solidus temperature of not less than 1000°F (358°C).
+
+(c)Swing doors.
+
+1.The movement of swing doors shall not permit any portion of the edges to move from the original position in a direction perpendicular to the plane of the door more than the thickness of the door during the first half of the classification period, nor more than 27/8 inches (73 mm) during the entire classification period and as a result of the hose stream.
+
+2.The movement of swing doors mounted in pairs shall not permit any portion of the meeting edges to move more than the thickness of the door away from the adjacent door edge in a direction perpendicular to the plane of the doors during the entire classification period and as a result of the hose stream.
+
+3.An assembly consisting of a pair of swinging doors, incorporating an astragal shall not separate in a direction parallel to the plane of the doors more than 3/4 inch (19 mm) not equal to the throw of the latch bolt along the meeting edges.
+
+4.An assembly consisting of a pair of swinging doors, without an overlapping astragal, for a fire and hose stream exposure of 11/2 hours or less, shall not separate along the meeting edges more than 3/8 inch (9.5 mm), including the initial clearance between doors.
+
+5.An assembly consisting of a single swinging door shall not separate more than 1/2 inch (13 mm) at the latch location.
+
+6.Door frames to be evaluated with doors shall remain securely fastened to the wall on all sides and shall not cause through openings between frame and doors or between frame and adjacent wall.
+
+(d)Sliding doors.
+
+1.Doors mounted on the face of the wall shall not move from the wall sufficiently to develop a separation of more than 21/8 inches (54 mm) at the point of separation during the entire classification period and as a result of the hose stream.
+
+2.Doors mounted in guides shall not release from guides and guides shall not loosen from fastenings.
+
+3.The bottom bar of rolling steel doors shall not separate from the floor structure more than 3/4 inch (19 mm) during the entire classification period and as a result of the hose stream.
+
+4.The meeting edge of centerparting horizontal sliding doors and biparting vertical sliding doors shall not separate more than the door thickness in a direction perpendicular to the plane of the doors.
+
+5.The meeting edges of centerparting horizontal sliding doors and biparting vertical sliding doors without an overlapping astragal for a fire and hose stream exposure of 11/2 hours or less shall not separate along the meeting edges more than 3/8 inch (9.5 mm), including the initial clearance between doors.
+
+6.The meeting edges of centerparting horizontal sliding doors incorporating an astragal shall not separate in a direction parallel to the plane of the doors more than 3/4 inch (19 mm) nor equal to the throw of the latch bolt along the meeting edges.
+
+7.The bottom edge of service counter doors or single slide dumbwaiter doors shall not separate from the sill more than 3/8 inch (9.5 mm).
+
+8.A resilient astragal when required for life-safety purposes shall not deteriorate sufficiently to cause through openings during the fire endurance part of the test, but small portions may be dislodged during the hose stream part of the test.
+
+9.The lap edges of passenger elevator doors, including the lap edges of multisection doors, shall not move from the wall or adjacent panel surfaces sufficiently to develop a separation of more than 27/8 inches (73 mm) at the point of separation during the entire classification period and as a result of the hose stream.
+
+10.The meeting edges of centerparting passenger elevator door assemblies, for a fire and hose stream exposure of 11/2 hours or less, shall not move apart more than 11/4 inches (32 mm) as measured in any horizontal plane during the entire classification period and as a result of the hose stream.
+
+MARKING
+
+Sec. 12-7-407.
+
+(a)Label. Fire assemblies shall bear a label issued by an approved listing agency or a label approved by the State Fire Marshal showing the fire-protection rating of the assembly.
+
+(b)Label markings. The markings on the labels approved by the State Fire Marshal shall include the following:
+
+1.Name and address of the listee.
+
+2.Model number or identification of the assembly.
+
+3.Serial number assigned by the listing agency or file number assigned by the State Fire Marshal.
+
+4.Rating of 3, 11/3, 1, 3/4, 1/2 or 1/3 hour indicating duration of exposure to fire.
+
+5.Letter A, B, C, D or E following the hourly rating designating the location for which the assembly is designed.
+
+6.Temperature rise on the unexposed fact at the end of 30 minutes. Temperature rise classification shall be 250°F (121°C) max., 450°F (232°C) max., 650°F (343°C) max. or no reference on the label to temperature rise denoting a temperature rise on the unexposed surface in excess of 650°F (343°C) at the end of 30 minutes.
+
+(c)Glass lights. All doors with glass vision panels of 100 square inches (64 516 m2) or less in area carry the same temperature rating as the door without glass lights. All doors with glass lights in excess of 100 square inches (64 516 mm2) are rated as having a surface temperature in excess of 650°F (343°C) max., at the end of 30 minutes.
+
+TABLE 12-7-4A
+
+HOSE STREAM TEST
+
+DESIRED RATING	WATER PRESSURE AT BASE OF NOZZLE, POUNDS PER SQUARE INCH	DURATION OF APPLICATION, SECONDS PER SQUARE FOOT EXPOSED AREA
+3 hours	45	3
+11/2 hours and over if less than 3 hours	30	1.5
+1 hour and over if less than 11/2 hours	30	0.9
+Less than 1 hour	30	0.6

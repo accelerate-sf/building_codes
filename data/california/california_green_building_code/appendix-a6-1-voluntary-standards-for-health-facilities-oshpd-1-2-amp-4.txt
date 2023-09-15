@@ -1,0 +1,2359 @@
+CALIFORNIA GREEN BUILDING STANDARDS CODE – MATRIX ADOPTION TABLE  APPENDIX A6.1—VOLUNTARY STANDARDS FOR HEALTH FACILITIES [OSHPD 1, 2 & 4]
+
+The following sections are relocated from the voluntary appendices into one appendix to assist code users in the planning, design and construction of environmentally sustainable medical facilities under the authority of the Office of Statewide Health Planning and Development specified in Chapter 1 of this code.
+
+Adopting agency	BSC	BSC-CG	SFM	HCD	DSA	OSHPD	BSCC	DPH	AGR	DWR	CEC	CA	SL	SLC
+1	2	1/AC	AC	SS	1	1R	2	3	4	5
+Adopt entire CA chapter																						
+Adopt entire chapter as amended (amended sections listed below)									X		X		X									
+Adopt only those sections that are listed below																						
+Chapter/Section																						
+A5.106.9									X		X		X									
+A5.203									X													
+A5.505.4.5.1									X		X		X									APPENDIX A6.1 —VOLUNTARY STANDARDS
+
+FOR HEALTH FACILITIES [OSHPD 1, 2 & 4]
+
+DivisionA5.1 – SITE PLANNING AND DESIGN Division A5.1 – SITE PLANNING AND DESIGN
+
+SECTION A5.106 SITE DEVELOPMENT
+
+A5.106.9 Building orientation.
+
+Locate and orient the building as follows:
+
+1.When site and location permit, orient the building with the long sides facing north and south.
+
+2.Protect the building from thermal loss, drafts and degradation of the building envelope caused by wind and wind-driven materials such as dust, sand, snow and leaves, with building orientation and landscape features.
+
+Note: For information on sun angles and shading, visit: http://www2.aud.ucla.edu/energy-design-tools/.
+
+Calculations may be made using the Solar-2 tool.
+
+DivisionA5.2 – ENERGY EFFICIENCY Division Division A5.2 A5.2 – ENERGY EFFICIENCY – ENERGY EFFICIENCY
+
+SECTION A5.202 DEFINITIONS
+
+A5.202.1 Definitions.
+
+The following words and terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings shown herein.
+
+ENERGY STAR. A joint program of the US Environmental Protection Agency and the US Department of Energy. ENERGY STAR is a voluntary program designed to identify and promote energy-efficient products and practices.
+
+SECTION A5.203 PERFORMANCE APPROACH
+
+A5.203.2 Energy performance.
+
+It is the intent of this code to encourage green buildings to achieve exemplary performance in the area of energy efficiency.
+
+A5.203.2.1 CALGreen Tier 1. CALGreen
+
+[OSHPD 1] To achieve CALGreen Tier 1, buildings must comply with the latest edition of “Savings By Design, Healthcare Modeling Procedures” found online at http://www.energysoft.com/ep/2007SBDHProcedures.pdf.
+
+A5.203.2.2 CALGreen Tier 2. CALGreen
+
+[OSHPD 1] To achieve CALGreen Tier 2, buildings must exceed the latest edition of “Savings By Design, Healthcare Modeling Procedures” by a minimum of 15 percent.
+
+SECTION A5.204 PRESCRIPTIVE APPROACH
+
+A5.204.1 ENERGY STAR equipment and appliances.
+
+All equipment and appliances provided by the builder shall be ENERGY STAR labeled if ENERGY STAR is applicable to that equipment or appliance.
+
+A5.204.4 Commissioning.
+
+[OSHPD 1 & 4] Building commissioning shall be included in the design and construction processes of the building project to verify that the building’s energy related systems are installed, calibrated and perform according to the owner’s project requirements, basis of design and construction documents.
+
+The owner and designer shall designate an individual as the Commissioning Authority (CxA) to lead, review and oversee the completion of the commissioning process activities. The owner shall document the Owner’s Project Requirements (OPR). The design team shall develop the Basis of Design (BOD). The CxA shall review these documents for clarity and completeness. The owner and design team shall be responsible for updates to their respective documents, develop and incorporate commissioning requirements into the construction documents and develop and implement a commissioning plan. The CxA shall verify the installation and performance of the systems to be commissioned, verify that training and operation and maintenance documentation have been provided to the owner’s operations staff and complete a commissioning report.
+
+Commissioning process activities shall be completed for the following energy-related systems, at a minimum:
+
+1.Heating, ventilating, air conditioning and refrigeration (HVAC&R) systems (mechanical and passive) and associated controls.
+
+2.Lighting and daylighting controls.
+
+3.Domestic hot water systems.
+
+4.Renewable energy systems (wind, solar, etc.).
+
+5.Building envelope systems.
+
+A5.204.4.1 Owner’s Project Requirements (OPR).
+
+The expectations and requirements of the building shall be documented by the owner and the designer before the design phase of the project begins. This shall be reviewed by the CxA. At a minimum, this documentation shall include the following:
+
+1.Environmental and sustainability goals.
+
+2.Energy efficiency goals.
+
+3.Indoor environmental quality requirements.
+
+4.Equipment and systems expectations.
+
+5.Building occupant and O&M personnel expectations.
+
+A5.204.4.2 Basis of Design (BOD).
+
+A written explanation of how the design of the building systems meets the Owner’s Project Requirements shall be completed at the design phase of the building project and updated as necessary during the design and construction phases. This shall be reviewed by the CxA. At a minimum, the Basis of Design document shall cover the following systems:
+
+1.Heating, ventilation, air conditioning (hvac) systems and controls.
+
+2.Indoor lighting system and controls.
+
+3.Water heating system.
+
+4.Renewable energy systems.
+
+A5.204.4.3 Commissioning plan.
+
+A commissioning plan shall be completed to document the approach to how the project will be commissioned and shall be started during the design phase of the building project. This shall be reviewed by the CxA. The Commissioning Plan shall include the following at a minimum:
+
+1.General project information.
+
+2.Commissioning goals.
+
+3.Systems to be commissioned. Plans to test systems and components shall include at a minimum:
+
+a.A detailed explanation of the original design intent;
+
+b.Equipment and systems to be tested, including the extent of tests;
+
+c.Functions to be tested;
+
+d.Conditions under which the test shall be performed; and
+
+e.Measurable criteria for acceptable performance.
+
+4.Commissioning team information.
+
+5.Commissioning process activities, schedules and responsibilities – plans for the completion of commissioning requirements listed in Sections A5.204.4.4 through A5.204.4.6 shall be included.
+
+A5.204.4.4 Functional performance testing.
+
+Functional performance tests shall demonstrate the correct installation and operation of each component, system and system-to-system interface in accordance with the approved plans and specifications. Functional performance testing reports shall contain information addressing each of the building components tested, the testing methods utilized and include any readings and adjustments made. This shall be reviewed and verified by the CxA.
+
+A5.204.4.5 Postconstruction documentation and training.
+
+A systems manual and systems operations training are required.
+
+A5.204.4.5.1 Systems manual.
+
+Documentation of the operational aspects of the building shall be completed within the systems manual and delivered to the building owner and facilities operator. This shall be reviewed by the CxA. At a minimum, the systems manual shall include the following:
+
+1.Site information, including facility description, history and current requirements.
+
+2.Site contact information.
+
+3.Basic operations and maintenance, including general site operating procedures, basic troubleshooting, recommended maintenance requirements, site events log.
+
+4.Major systems.
+
+5.Site equipment inventory and maintenance notes.
+
+6.Other resources and documentation.
+
+A5.204.4.5.2 Systems operations training.
+
+The CxA shall oversee the training of the appropriate maintenance staff for each equipment type and/or system. The training shall include, as a minimum, the following:
+
+1.System/equipment overview (what it is, what it does and what other systems and/or equipment it interfaces with).
+
+2.Review of the information in the systems manual.
+
+3.Review of the record drawings on the system/equipment.
+
+A5.204.4.6 Commissioning report.
+
+The CxA shall create a complete report of commissioning process activities undertaken through the design, construction and postconstruction phases of the building project and provided to the owner.
+
+A5.204.6 Building orientation and shading.
+
+Locate orient and shade the building as required in Section A5.106.9.
+
+SECTION A5.205 [OSHPD 1 & 4] [OSHPD 1 & 4] BUILDING ENVELOPE
+
+A5.205.1 Fenestration products and exterior doors.
+
+TABLE A.5.205.1-A
+
+DEFAULT FENESTRATION PRODUCT U-FACTORS
+
+FRAME	PRODUCT TYPE	SINGLE PANE U-FACTOR	DOUBLE PANE1 U-FACTOR	GLASS BLOCK2 U-FACTOR
+Metal	Operable	1.28	0.79	0.87
+Fixed	1.19	0.71	0.72
+Greenhouse/garden window	2.26	1.40	N.A.
+Doors	1.25	0.77	N.A.
+Skylight	1.98	1.30	N.A.
+Metal, thermal break	Operable	N.A.	0.66	N.A.
+Fixed	N.A.	0.55	N.A.
+Greenhouse/garden window	N.A.	1.12	N.A.
+Doors	N.A.	0.59	N.A.
+Skylight	N.A.	1.11	N.A.
+Nonmetal	Operable	0.99	0.58	0.60
+Fixed	1.04	0.55	0.57
+Greenhouse/garden window	0.99	0.53	N.A.
+Doors	1.94	1.06	N.A.
+Skylight	1.47	0.84	N.A.N.A. = Not applicable.
+
+1.For all dual-glazed fenestration products, adjust the listed U-factors as follows:
+
+a.Add 0.05 for products with dividers between panes if spacer is less than 7/16 inch wide.
+
+b.Add 0.05 to any product with true divided lite (dividers through the panes).
+
+2.Translucent or transparent panels shall use glass blocks.
+
+TABLE A.5.205.1-B
+
+DEFAULT SOLAR HEAT GAIN COEFFICIENT (SHGC)
+
+FRAME	PRODUCT TYPE	GLAZING	TOTAL WINDOW SHGC
+Single Pane	Double Pane	Glass Block1
+Metal	Operable	Clear	0.80	0.70	0.70
+Fixed	Clear	0.83	0.73	0.73
+Operable	Tinted	0.67	0.59	N.A.
+Fixed	Tinted	0.68	0.60	N.A.
+Metal, thermal break	Operable	Clear	N.A.	0.63	N.A.
+Fixed	Clear	N.A.	0.69	N.A.
+Operable	Tinted	N.A.	0.53	N.A.
+Fixed	Tinted	N.A.	0.57	N.A.
+Nonmetal	Operable	Clear	0.74	0.65	0.70
+Fixed	Clear	0.76	0.67	0.67
+Operable	Tinted	0.60	0.53	N.A.
+Fixed	Tinted	0.63	0.55	N.A.N.A. = Not applicable.
+
+1.Translucent or transparent panels shall use glass block values.
+
+A5.205.1.1 Certification of fenestration products and exterior doors other than field-fabricated.
+
+Any fenestration product and exterior door, other than field-fabricated fenestration products and field-fabricated exterior doors, may be installed only if the manufacturer has certified to the California Energy Commission or if an independent certifying organization approved by the Commission has certified that the product complies with all of the applicable requirements of this subsection.
+
+A5.205.1.1.1 Air leakage.
+
+Manufactured fenestration products and exterior doors shall have air infiltration rates not exceeding 0.3 cfm/ft2 of window area, 0.3 cfm/ft2 of door area for residential doors, 0.3 cfm/ft2 of door area for nonresidential single doors (swinging and sliding) and 1.0 cfm/ft2 for nonresidential double doors (swinging), when tested according to NFRC-400 or ASTM E283 at a pressure differential of 75 pascals (or 1.57 pounds/ft2), incorporated herein by reference.
+
+A5.205.1.1.2 U-factor. U-factor.
+
+A fenestration product’s U-factor shall be rated in accordance with NFRC 100 or the applicable default U-factor set forth in Table A.5.205.1-A.
+
+Exception: If the fenestration product is a skylight or is site-built fenestration in a building covered by the nonresidential standards with less than 10,000 square feet of site-built fenestration, the default U-factor may be calculated as set forth in Reference Nonresidential Appendix NA6 of the California Energy Commission 2008 Building Energy Efficiency Standards for Residential and Nonresidential Buildings.
+
+A5.205.1.1.3 SHGC.
+
+A fenestration product’s SHGC shall be rated in accordance with NFRC 200 for site-built fenestration or use the applicable default SHGC set forth in Table A5.205.1-B.
+
+Exception: If the fenestration product is a skylight or is site-built fenestration in a building covered by the nonresidential standards with less than 10,000 square feet of site-built fenestration, the default SHGC may be calculated as set forth in Reference Nonresidential Appendix NA6 of the California Energy Commission 2008 Building Energy Efficiency Standards for Residential and Nonresidential Buildings.
+
+A5.205.1.1.4 Labeling.
+
+Fenestration products shall:
+
+1.Have a temporary label (or label certificate for site- built fenestration) meeting the requirements of Section 10-111(a)1 of Title 24, Part 1 not to be removed before inspection by the enforcement agency, listing the certified U-factor and SHGC and certifying that the air leakage requirements of Section A5.205.1.1.1 are met for each product line; and
+
+2.Have a permanent label (or label certificate for site-built fenestration) meeting the requirements of Section 10-111(a)2 of Title 24, Part 1 if the product is rated using NFRC procedures.
+
+A5.205.1.1.5 Fenestration acceptance requirements.
+
+Before an occupancy permit is granted, site-built fenestration products in other than low-rise residential buildings shall be certified as meeting the Acceptance Requirements for Code Compliance, as specified by the Reference Nonresidential Appendix NA7 of the California Energy Commission 2008 Building Energy Efficiency Standards for Residential and Nonresidential Buildings to ensure that site-built fenestration meet Standards requirements, including a matching label certificate for each product installed and be readily accessible at the project location. A Certificate of Acceptance shall be submitted to the enforcement agency that certifies that the fenestration product meets the acceptance requirements.
+
+Exception: Fenestration products removed and reinstalled as part of a building alteration or addition.
+
+A5.205.1.2 Installation of field-fabricated fenestration and exterior doors.
+
+Field-fabricated fenestration and field-fabricated exterior doors may be installed only if the compliance documentation has demonstrated compliance for the installation using U-factors from Table A5.205.1-A and SHGC values from Table A5.205.1-B. Field-fabricated fenestration and field-fabricated exterior doors shall be caulked between the fenestration products or exterior door and the building and shall be weatherstripped.
+
+Exception: Unframed glass doors and fire doors need not be weatherstripped or caulked.
+
+A5.205.2 Joints and other openings.
+
+Joints and other openings in the building envelope that are potential sources of air leakage shall be caulked, gasketed, weatherstripped or otherwise sealed to limit infiltration and exfiltration.
+
+A5.205.3 Insulation and roofing products.
+
+TABLE A5.205.3-A
+
+SLAB INSULATION REQUIREMENTS FOR HEATED SLAB-ON-GRADE
+
+INSULATION LOCATION	INSULATION ORIENTATION	INSTALLATION REQUIREMENTS	CLIMATE ZONE	INSULATION R-FACTOR
+Outside edge of heated slab, either inside or outside the foundation wall	Vertical	From the level of the top of the slab, down 16 inches or to the frost line, whichever is greater. Insulation may stop at the top of the footing where this is less than the required depth. For below grade slabs, vertical insulation shall be extended from the top of the foundation wall to the bottom of the foundation (or the top of the footing) or to the frost line, whichever is greater.	1 – 15	5
+16	10
+Between heated slab and outside foundation wall	Vertical and Horizontal	Vertical insulation from top of slab at inside edge of outside wall down to the top of the horizontal insulation. Horizontal insulation from the outside edge of the vertical insulation extending 4 feet toward the center of the slab in a direction normal to the outside of the building in plan view.	1 – 15	5
+16	10 vertical and 7 horizontalTABLE A5.205.3-B
+
+MINIMUM PERFORMANCE REQUIREMENTS FOR LIQUID APPLIED ROOF COATINGS
+
+PHYSICAL PROPERTY	ASTM TEST PROCEDURE	REQUIREMENT
+Initial percent elongation (break)	D2370	Minimum 200 percent 73ºF (23ºC)
+Initial percent elongation (break) OR Initial flexibility	D2370 D522, Test B	Minimum 60 percent 0ºF (-18ºC) Minimum pass 1′′ mandrel 0ºF (-18ºC)
+Initial tensile strength (maximum stress)	D2370	Minimum 100 psi (1.38 Mpa) 73ºF (23ºC)
+Initial tensile strength (maximum stress) OR Initial flexibility	D2370 D522, Test B	Minimum 200 psi (2.76 Mpa) 0ºF (-18ºC) Minimum pass 1′′ mandrel 0ºF (-18ºC)
+Final percent elongation (break) after accelerated weathering 1000 h	D2370	Minimum 100 percent 73ºF (23ºC)
+Final percent elongation (break) after accelerated weathering 1000 h OR Flexibility after accelerated weathering 1000 h	D2370	Minimum 40 percent 0ºF (-18ºC) Minimum pass 1′′ mandrel 0ºF (-18ºC)
+Permeance	D1653	Maximum 50 perms
+Accelerated weathering 1000 h	D4798	No cracking or checking11.Any cracking or checking visible to the eye fails the test procedure.
+
+A5.205.3.1 Certification by manufacturers.
+
+Any insulation shall be certified by Department of Consumer Affairs, Bureau of Home Furnishing and Thermal Insulation that the insulation conductive thermal performance is approved pursuant to the California Code of Regulations, Title 24, Part 12, Chapters 12-13, Article 3,“Standards for Insulating Material.”
+
+A5.205.3.2 Installation of urea formaldehyde foam insulation.
+
+Urea formaldehyde foam insulation may be applied or installed only if:
+
+1.It is installed in exterior side walls; and
+
+2.A four-mil-thick plastic polyethylene vapor barrier or equivalent plastic sheathing vapor barrier is installed between the urea formaldehyde foam insulation and the interior space in all applications.
+
+A5.205.3.3 Flame spread rating.
+
+All insulating material shall be installed in compliance with the flame spread rating and smoke density requirements of the Title 24, Part 2, California Building Code.
+
+A5.205.3.4 Installation of insulation in existing buildings.
+
+Insulation installed in an existing attic or on an existing duct or water heater, shall comply with the applicable requirements of Subsections A5.205.3.4.1, A5.205.3.4.2 and A5.205.3.4.3 below. If a contractor installs the insulation, the contractor shall certify to the customer, in writing, that the insulation meets the applicable requirements of Subsections A5.205.3.4.1, A5.205.3.4.2 and A5.205.3.4.3 below.
+
+A5.205.3.4.1 Attics.
+
+If insulation is installed in the existing attic of a low-rise residential building, the R-value of the total amount of insulation (after addition of insulation to the amount, if any, already in the attic) shall be at least R-38 in climate zones 1 and 16; and R-30 in all other climate zones.
+
+Exception: Where the accessible space in the attic is not large enough to accommodate the required R-value, the entire accessible space shall be filled with insulation provided such installation does not violate Section 1203.2 of Title 24, Part 2, California Building Code.
+
+A5.205.3.4.2 Water heaters.
+
+If external insulation is installed on an existing unfired water storage tank or on an existing back-up tank for a solar water-heating system, it shall have an R-value of at least R-12 or the heat loss of the tank surface based on an 80°F water-air temperature difference shall be less than 6.5 Btu per hour per square foot.
+
+A5.205.3.4.3 Ducts.
+
+If insulation is installed on an existing space-conditioning duct, it shall comply with Section 605 of the California Mechanical Code (CMC).
+
+A5.205.3.5 Placement of roof/ceiling insulation.
+
+Insulation installed to limit heat loss and gain through the top of conditioned spaces shall comply with the following:
+
+A5.205.3.5.1 
+
+Insulation shall be installed in direct contact with a continuous roof or ceiling which is sealed to limit infiltration and exfiltration as specified in Section A5.205.2, including but not limited to placing insulation either above or below the roof deck or on top of a drywall ceiling; and
+
+A5.205.3.5.2 
+
+When insulation is installed at the roof in nonresidential buildings, fixed vents or openings to the outdoors or to unconditioned spaces shall not be installed and the space between the ceiling and the roof is either directly or indirectly conditioned space and shall not be considered an attic for the purposes of complying with CBC attic ventilation requirements; and
+
+A5.205.3.5.3 
+
+Insulation placed on top of a suspended ceiling with removable ceiling panels shall be deemed to have no affect on envelope heat loss; and
+
+Exception: When there are conditioned spaces with a combined floor area no greater than 2,000 square feet in an otherwise unconditioned building and when the average height of the space between the ceiling and the roof over these spaces is greater than 12 feet, insulation placed in direct contact with a suspended ceiling with removable ceiling panels shall be an acceptable method of reducing heat loss from a conditioned space and shall be accounted for in heat loss calculations.
+
+A5.205.3.5.4 
+
+Insulation shall be installed below the roofing membrane or layer used to seal the roof from water penetration unless the insulation has a maximum water absorption of 0.3 percent by volume when tested according to ASTM C272.
+
+Note: Vents, which do not penetrate the roof deck, that are designed for wind resistance for roof membranes are not within the scope of Section A5.205.3.5.2.
+
+A5.205.3.6 Demising walls in nonresidential buildings.
+
+The opaque portions of framed demising walls in nonresidential buildings shall be insulated with an installed R-value of no less than R-13 between framing members.
+
+A5.205.3.7 Insulation requirements for heated slab floors.
+
+Heated slab-on-grade floors shall be insulated according to the requirements in Table A5.205.3-A.
+
+A5.205.3.7.1 
+
+Insulation materials in ground contact must:
+
+A5.205.3.7.1.1 
+
+Comply with the certification requirements of Section A5.205.3.1 and
+
+A5.205.3.7.1.2 
+
+Have a water absorption rate for the insulation material alone without facings that is no greater than 0.3 percent when tested in accordance with Test Method A – 24 Hour-Immersion of ASTM C272.
+
+A5.205.3.7.2 
+
+Insulation installation must:
+
+A5.205.3.7.2.1 
+
+Cover the insulation with a solid guard that protects against damage from ultraviolet radiation, moisture, landscaping operation, equipment maintenance and wind; and
+
+A5.205.3.7.2.2 
+
+Include a rigid plate, which penetrates the slab and blocks the insulation from acting as a conduit for insects from the ground to the structure above the foundation.
+
+A5.205.3.8 Wet insulation systems.
+
+When insulation is installed on roofs above the roofing membrane or layer used to seal the roof from water penetration, the effective R-value of the insulation shall be as specified in Reference Joint Appendix JA4 of the California Energy Commission 2008 Building Energy Efficiency Standards for Residential and Nonresidential Buildings.
+
+A5.205.3.9 Roofing products solar reflectance and thermal emittance.
+
+A5.205.3.9.1 
+
+In order to meet the requirements of Sections 141, 142, 143(a)1, 149(b)1B, 151(f)12, 152(b)1H or 152(b)2 of Title 24, Part 6, a roofing product’s thermal emittance and 3-year aged solar reflectance shall be certified and labeled according to the requirements of Section 10-113 of Title 24, Part 1.
+
+Exception: Roofing products that are not certified according to Section 10-113 of Title 24, Part 1 shall assume the following default aged reflectance/emittance values:
+
+A5.205.3.9.1.1 
+
+For asphalt shingles, 0.08/0.75
+
+A5.205.3.9.1.2 
+
+For all other roofing products, 0.10/0.75
+
+A5.205.3.9.2 
+
+If CRRC testing for 3-year aged reflectance is not available for any roofing products, the 3-year aged value shall be derived from the CRRC initial value using the equation Raged = [0.2 + 0.7[ρinitial–0.2], where ρinitial = the initial Solar Reflectance.
+
+A5.205.3.9.3 
+
+Solar Reflectance Index (SRI), calculated as specified by ASTM E1980-01, may be used as an alternative to thermal emittance and 3-year aged solar reflectance when complying with the requirements of Sections 141, 142, 143(a)1, 149(b)1B, 151(f)12, 152(b)1H or 152(b)2 of Title 24, Part 6. SRI calculations shall be based on moderate wind velocity of 2-6 meters per second. The SRI shall be calculated based on the 3-year aged reflectance value of the roofing products.
+
+A5.205.3.9.4 
+
+Liquid applied roof coatings applied to low-sloped roofs in the field as the top surface of a roof covering shall:
+
+A5.205.3.9.4.1 
+
+Be applied across the entire roof surface to meet the dry mil thickness or coverage recommended by the coating manufacturer, taking into consideration the substrate on which the coating is applied, and
+
+A5.205.3.9.4.2 
+
+Meet the minimum performance requirements listed in Table A5.205.3-B or the minimum performance requirements of ASTM C836, D3468, D6083 or D6694, whichever are appropriate to the coating material.
+
+Exceptions:
+
+1.Aluminum-pigmented asphalt roof coatings shall meet the requirements of ASTM D2824 or ASTM D6848 and be installed as specified by ASTM D3805.
+
+2.Cement-based roof coatings shall contain a minimum of 20 percent cement and shall meet the requirements of ASTM C1583, ASTM D822 and ASTM D5870.
+
+SECTION A5.207 [OSHPD 1, 2 & 4] HVAC DESIGN, EQUIPMENT AND INSTALLATION
+
+A5.207.1 Space-conditioning equipment certification by manufacturers.
+
+Any space-conditioning equipment listed in this section may be installed only if the manufacturer has certified that the equipment complies with all the applicable requirements of this section.
+
+TABLE A5.207.1-A
+
+ELECTRICALLY OPERATED UNITARY AIR CONDITIONERS AND CONDENSING UNITS—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	EFFICIENCY1	TEST PROCEDURE
+Before 1/1/2010	After 1/1/2010
+Air conditioners, Air cooled	≥ 65,000 Btu/h and < 135,000 Btu/h	10.3 EER2	11.2 EER2	ARI 340/360
+≥ 135,000 Btu/h and < 240,000 Btu/h	9.7 EER2	11.0 EER2	ARI 340/360
+≥ 240,000 Btu/h and < 760,000 Btu/h	9.5 EER2 and 9.7 IPLV2	10.0 EER2 and 9.7 IPLV2
+≥ 760,000 Btu/h	9.2 EER2 and 9.4 IPLV2	9.7 EER2 and 9.4 IPLV2
+Air conditioners, water and evaporatively cooled				ARI 210/240
+> 240,000 Btu/h	11.0 EER2 and 10.3 IPLV2	ARI 340/360
+Condensing units, air cooled	≥ 135,000 Btu/h	10.1 EER and 11.2 IPLV	ARI 365
+Condensing units, water or evaporatively cooled	≥ 135,000 Btu/h	13.1 EER and 13.1 IPLV1.IPLVs are only applicable to equipment with capacity modulation.
+
+2.Deduct 0.2 from the required EERs and IPLVs for units with a heating section other than electric resistance heat.
+
+TABLE A5.207.1-B
+
+UNITARY AND APPLIED HEAT PUMPS—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	SUBCATEGORY OR RATING CONDITION	EFFICIENCY1	TEST PROCEDURE
+Before 1/1/2010	After 1/1/2010
+Air cooled (cooling mode)	≥ 65,000 Btu/h and < 135,000 Btu/h	Split system and single package	10.1 EER2	11.0	ARI 340/360
+≥ 135,000 Btu/h and < 240,000 Btu/h	9.3 EER2	10.6
+≥ 240,000 Btu/h	9.0 EER2 and 9.2 IPLV2	9.5 EER2 and 9.2 IPLV2
+Air cooled (heating mode)	≥ 65,000 Btu/h and < 135,000 Btu/h (Cooling capacity)	47°F db/43°F wb outdoor air	3.2 COP	3.3 COP	ARI 210/240
+≥ 135,000 Btu/h (Cooling capacity)	47°F db/43°F wb outdoor air	3.1 COP	3.2 COP	ARI 340/3601.IPLVs and Part load rating conditions are applicable only to equipment with capacity modulation.
+
+2.Deduct 0.2 from the required EERs and IPLVs for units with a heating section other than electric resistance heat.
+
+TABLE A5.207.1-C
+
+AIR-COOLED GAS-ENGINE HEAT PUMPS
+
+EQUIPMENT TYPE	SIZE CATEGORY	SUBCATEGORY OR RATING CONDITION	EFFICIENCY1	TEST PROCEDURE
+Air-cooled gas engine heat pump (cooling mode)	All capacities	95°F db Outdoor air	0.60 COP	ANSI Z21.40.4
+Air-cooled gas engine heat pump (heating mode)	All capacities	47°F db/43°F wb Outdoor air	0.72 COP	ANSI Z21.40.4TABLE A5.207.1-D
+
+WATER CHILLING PACKAGES—MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY	EFFICIENCY	TEST PROCEDURE
+Air cooled, with condenser	< 150 Tons	2.80 COP	ARI 550/590
+Electrically operated	≥ 150 Tons	3.05 IPLV
+Air cooled, without condenser	All Capacities	3.10 COP	
+Electrically operated	3.45 IPLV
+Water cooled, electrically operated, positive displacement	All Capacities	4.20 COP	ARI 550/590
+(Reciprocating)	5.05 IPLV
+Water cooled,	< 150 Tons	4.45 COP	ARI 550/590
+5.20 IPLV
+Electrically operated,	≥ 150 Tons and	4.90 COP
+Positive displacement	< 300 Tons ≥ 300 Tons	5.60 IPLV
+5.50 COP
+(Rotary screw and scroll)		6.15 IPLV
+Water cooled, electrically operated, centrifugal	< 150 Tons	5.00 COP	ARI 550/590
+5.25 IPLV
+≥ 150 Tons and < 300 Tons	5.55 COP
+5.90 IPLV
+≥ 300 Tons	6.10 COP
+6.40 IPLV
+Air cooled absorption, single effect	All Capacities	0.60 COP	ARI 560
+Water cooled absorption, single effect	All Capacities	0.70 COP
+Absorption double effect, indirect-fired	All Capacities	1.00 COP
+1.05 IPLV
+Absorption double effect, direct-fired	All Capacities	1.00 COP
+1.00 IPLV
+Water cooled gas engine driven chiller	All Capacities	1.2 COP	ANSI Z21.40.4
+2.0 IPLVTABLE A5.207.1-E
+
+PACKAGED TERMINAL AIR CONDITIONERS AND PACKAGED TERMINAL HEAT PUMPS – MINIMUM EFFICIENCY REQUIREMENTS
+
+EQUIPMENT TYPE	SIZE CATEGORY (input)	SUBCATEGORY OR RATING CONDITION	EFFICIENCY1	TEST PROCEDURE
+PTAC (cooling mode) new construction	All Capacities	95°F db outdoor air	12.5 – (0.213 × Cap/1000)1 EER	ARI 310/380
+PTAC (cooling mode) replacements2	10.9 – (0.213 × Cap/1000)1 EER
+PTHP (cooling mode) new construction	12.3 – (0.213 × Cap/1000)1 EER
+PTHP (cooling mode) replacements2	10.8 – (0.213 × Cap/1000)1 EER
+PTHP (heating mode) new construction		3.2 – (0.026 × Cap/1000)1 COP
+PTHP (heating mode) replacements2		2.9 – (0.026 × Cap/1000)1 COP
+SPVAC (cooling mode)	< 65,000 Btu/h	95°F db/75°F wb outdoor air	9.0 EER	ARI 390
+≥ = 65,000 Btu/h and < 135,000 Btu/h	8.9 EER
+≥ =135,000 Btu/h and < 240,000 Btu/h	8.6 EER
+SPVHP (cooling mode)	< 65,000 Btu/h	9.0 EER
+≥ = 65,000 Btu/h and < 135,000 Btu/h	8.9 EER
+≥ =135,000 Btu/h and < 240,000 Btu/h	8.6 EER
+SPVHP (heating mode)	< 65,000 Btu/h	47°F db/43°F wb outdoor air	3.0 COP
+≥ = 65,000 Btu/h and < 135,000 Btu/h	3.0 COP
+≥ =135,000 Btu/h and < 240,000 Btu/h	2.9 COP1.Cap means the rated cooling capacity of the product in Btu/h. If the unit’s capacity is less than 7,000 Btu/h, use 7,000 Btu/h in the calculation. If the unit’s capacity is greater than 15,000 Btu/h, use 15,000 Btu/h in the calculation.
+
+2.Replacement units must be factory labeled as follows: MANUFACTURED FOR REPLACEMENT APPLICATIONS ONLY; NOT TO BE INSTALLED IN NEW CONSTRUCTION PROJECTS. Replacement efficiencies apply only to units with existing sleeves less than 16 inches high and less than 42 inches wide.
+
+TABLE A5.207.1-G
+
+PERFORMANCE REQUIREMENTS FOR HEAT REJECTION EQUIPMENT4
+
+EQUIPMENT TYPE	TOTAL SYSTEM HEAT REJECTION CAPACITY AT RATED CONDITIONS	SUBCATEGORY OR RATING CONDITION	PERFORMANCE REQUIRED1,2	TEST PROCEDURE3
+Propeller or axial fan open cooling towers	All	95°F entering water	≥ 38.2 gpm/hp	CTI ATC-105
+85°F leaving water	and
+75°F wb outdoor air	CTI STD-201
+Centrifugal fan open cooling towers	All	95°F entering water	≥ 20.0 gpm/hp	CTI ATC-105
+85°F leaving water	and
+75°F wb outdoor air	CTI STD-201
+Air cooled condensers	All	125°F condensing temperature	≥ 176,000 Btu/h·hp	ARI 460
+R22 test fluid
+190°F entering gas temperature
+15°F subcooling
+95°F entering drybulb1.For purposes of this table, open cooling tower performance is defined as the maximum flow rating of the tower divided by the fan nameplate rated motor power.
+
+2.For purposes of this table air-cooled condenser performance is defined as the heat rejected from the refrigerant divided by the fan nameplate rated motor power.
+
+3.Open cooling towers shall be tested using the test procedures in CTI ATC-105. Performance of factory assembled open cooling towers shall be either certified as base models as specified in CTI STD-201 or verified by testing in the field by a CTI approved testing agency. Open factory assembled cooling towers with custom options added to a CTI certified base model for the purpose of safe maintenance or to reduce environmental or noise impact shall be rated at 90 percent of the CTI certified performance of the associated base model or at the manufacturer’s stated performance, whichever is less. Base models of open factory assembled cooling towers are open cooling towers configured in exact accordance with the Data of Record submitted to CTI as specified by CTI STD-201. There are no certification requirements for field erected cooling towers.
+
+4.The efficiencies for open cooling towers listed in Table A5.207.1-G are not applicable for closed-circuit cooling towers.
+
+TABLE A5.207.1-H
+
+COPS FOR NONSTANDARD CENTRIFUGAL CHILLERS < 150 TONS
+
+CENTRIFUGAL CHILLERS < 150 Tons COPstd = 5.0
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	5.58	5.83	6.03	6.32	6.54	6.70
+45	75	30	5.50	5.74	5.92	6.19	6.38	6.53
+44	75	31	5.42	5.65	5.82	6.07	6.24	6.37
+43	75	32	5.35	5.57	5.72	5.95	6.11	6.23
+42	75	33	5.27	5.49	5.64	5.85	6.00	6.11
+41	75	34	5.19	5.41	5.56	5.75	5.89	5.99
+46	80	34	5.19	5.41	5.56	5.75	5.89	5.99
+40	75	35	5.11	5.33	5.48	5.67	5.79	5.88
+45	80	35	5.11	5.33	5.48	5.67	5.79	5.88
+44	80	36	5.03	5.26	5.40	5.58	5.70	5.79
+43	80	37	4.94	5.18	5.32	5.50	5.62	5.70
+42	80	38	4.84	5.10	5.25	5.43	5.53	5.61
+41	80	39	4.73	5.01	5.17	5.35	5.46	5.53
+46	85	39	4.73	5.01	5.17	5.35	5.46	5.53
+40	80	40	4.62	4.92	5.09	5.27	5.38	5.45
+45	85	40	4.62	4.92	5.09	5.27	5.38	5.45
+44	85	41	4.49	4.82	5.00	5.20	5.30	5.38
+43	85	42	4.35	4.71	4.91	5.12	5.23	5.30
+42	85	43	4.19	4.59	4.81	5.03	5.15	5.22
+41	85	44	4.02	4.46	4.70	4.94	5.06	5.14
+40	85	45	3.84	4.32	4.58	4.84	4.98	5.06
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+TABLE A5.207.1-I
+
+COPS FOR NONSTANDARD CENTRIFUGAL CHILLERS > 150 TONS, ≤ 300 TONS
+
+CENTRIFUGAL CHILLERS > 150 TONS, ≤ 300 TON COPstd = 5.55
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	6.17	6.44	6.66	6.99	7.23	7.40
+45	75	30	6.08	6.34	6.54	6.84	7.06	7.22
+44	75	31	6.00	6.24	6.43	6.71	6.90	7.05
+43	75	32	5.91	6.15	6.33	6.58	6.76	6.89
+42	75	33	5.83	6.07	6.23	6.47	6.63	6.75
+41	75	34	5.74	5.98	6.14	6.36	6.51	6.62
+46	80	34	5.74	5.98	6.14	6.36	6.51	6.62
+40	75	35	5.65	5.90	6.05	6.26	6.40	6.51
+45	80	35	5.65	5.90	6.05	6.26	6.40	6.51
+44	80	36	5.56	5.81	5.97	6.17	6.30	6.40
+43	80	37	5.46	5.73	5.89	6.08	6.21	6.30
+42	80	38	5.35	5.64	5.80	6.00	6.12	6.20
+41	80	39	5.23	5.54	5.71	5.91	6.03	6.11
+46	85	39	5.23	5.54	5.71	5.91	6.03	6.11
+40	80	40	5.10	5.44	5.62	5.83	5.95	6.03
+45	85	40	5.10	5.44	5.62	5.83	5.95	6.03
+44	85	41	4.96	5.33	5.55	5.74	5.86	5.94
+43	85	42	4.81	5.21	5.42	5.66	5.78	5.86
+42	85	43	4.63	5.08	5.31	5.56	5.69	5.77
+41	85	44	4.45	4.93	5.19	5.46	5.60	5.69
+40	85	45	4.24	4.77	5.06	5.35	5.50	5.59
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+TABLE A5.207.1-J
+
+COPS FOR NONSTANDARD CENTRIFUGAL CHILLERS > 300 TONS
+
+CENTRIFUGAL CHILLERS > 300 TONS COPstd = 6.1
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	6.80	7.11	7.35	7.71	7.97	8.16
+45	75	30	6.71	6.99	7.21	7.55	7.78	7.96
+44	75	31	6.61	6.89	7.09	7.40	7.61	7.77
+43	75	32	6.52	6.79	6.98	7.26	7.45	7.60
+42	75	33	6.43	6.69	6.87	7.13	7.31	7.44
+41	75	34	6.33	6.60	6.77	7.02	7.18	7.30
+46	80	34	6.33	6.60	6.77	7.02	7.18	7.30
+40	75	35	6.23	6.50	6.68	6.91	7.06	7.17
+45	80	35	6.23	6.50	6.68	6.91	7.06	7.17
+44	80	36	6.13	6.41	6.58	6.81	6.95	7.05
+43	80	37	6.02	6.31	6.49	6.71	6.85	6.94
+42	80	38	5.90	6.21	6.40	6.61	6.75	6.84
+41	80	39	5.77	6.11	6.30	6.52	6.65	6.74
+46	85	39	5.77	6.11	6.30	6.52	6.65	6.74
+40	80	40	5.63	6.00	6.20	6.43	6.56	6.65
+45	85	40	5.63	6.00	6.20	6.43	6.56	6.65
+44	85	41	5.47	5.87	6.10	6.33	6.47	6.55
+43	85	42	5.30	5.74	5.98	6.24	6.37	6.46
+42	85	43	5.11	5.60	5.86	6.13	6.28	6.37
+41	85	44	4.90	5.44	5.72	6.02	6.17	6.27
+40	85	45	4.68	5.26	5.58	5.90	6.07	6.17
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+TABLE A5.207.1-K
+
+COPS FOR NONSTANDARD CENTRIFUGAL CHILLERS < 150 TONS
+
+CENTRIFUGAL CHILLERS < 150 TONS COPstd = 5.25
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	5.84	6.10	6.30	6.61	6.84	7.00
+45	75	30	5.75	6.00	6.19	6.47	6.68	6.83
+44	75	31	5.67	5.91	6.08	6.34	6.53	6.67
+43	75	32	5.59	5.82	5.99	6.23	6.39	6.52
+42	75	33	5.51	5.74	5.90	6.12	6.27	6.39
+41	75	34	5.43	5.66	5.81	6.02	6.16	6.26
+46	80	34	5.43	5.66	5.81	6.02	6.16	6.26
+40	75	35	5.35	5.58	5.73	5.93	6.06	6.15
+45	80	35	5.35	5.58	5.73	5.93	6.06	6.15
+44	80	36	5.26	5.50	5.65	5.84	5.96	6.05
+43	80	37	5.16	5.42	5.57	5.76	5.87	5.96
+42	80	38	5.06	5.33	5.49	5.67	5.79	5.87
+41	80	39	4.95	5.24	5.41	5.60	5.71	5.78
+46	85	39	4.95	5.24	5.41	5.60	5.71	5.78
+40	80	40	4.83	5.14	5.32	5.52	5.63	5.70
+45	85	40	4.83	5.14	5.32	5.52	5.63	5.70
+44	85	41	4.69	5.04	5.253	5.43	5.55	5.62
+43	85	42	4.55	4.93	5.13	5.35	5.47	5.54
+42	85	43	4.38	4.80	5.03	5.26	5.38	5.46
+41	85	44	4.21	4.67	4.91	5.17	5.30	5.38
+40	85	45	4.01	4.52	4.79	5.06	5.20	5.29
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+TABLE A5.207.1-L
+
+IPLV/NPLV FOR NONSTANDARD CENTRIFUGAL CHILLERS > 150 TONS, < 300 TONS
+
+CENTRIFUGAL CHILLERS > 150 TONS, < 300 TONS IPLVstd = 5.9
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	6.58	6.87	7.11	7.46	7.71	7.90
+45	75	30	6.49	6.76	6.98	7.30	7.53	7.70
+44	75	31	6.40	6.66	6.98	7.15	7.36	7.52
+43	75	32	6.31	6.56	6.75	7.02	7.21	7.35
+42	75	33	6.22	6.47	6.65	6.90	7.07	7.20
+41	75	34	6.13	6.38	6.55	6.79	6.95	7.06
+46	80	34	6.13	6.38	6.55	6.79	6.95	7.06
+40	75	35	6.03	6.29	6.46	6.68	6.83	6.94
+45	80	35	6.03	6.29	6.46	6.68	6.83	6.94
+44	80	36	5.93	6.20	6.37	6.58	6.72	6.82
+43	80	37	5.82	6.11	6.28	6.49	6.62	6.72
+42	80	38	5.71	6.01	6.19	6.40	6.53	6.62
+41	80	39	5.58	5.91	6.10	6.31	6.44	6.52
+46	85	39	5.58	5.91	6.10	6.31	6.44	6.52
+40	80	40	5.44	5.80	6.00	6.22	6.35	6.43
+45	85	40	5.44	5.80	6.00	6.22	6.35	6.43
+44	85	41	5.29	5.68	5.903	6.13	6.26	6.34
+43	85	42	5.13	5.55	5.79	6.03	6.16	6.25
+42	85	43	4.94	5.41	5.67	5.93	6.07	6.16
+41	85	44	4.74	5.26	5.54	5.82	5.97	6.07
+40	85	45	4.52	5.09	5.40	5.71	5.87	5.97
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+TABLE A5.207.1-M
+
+COPS FOR NONSTANDARD CENTRIFUGAL CHILLERS > 300 TONS
+
+CENTRIFUGAL CHILLERS > 300 TONS IPLVstd = 6.4
+	CONDENSER FLOW RATE
+	2 gpm/ton	2.5 gpm/ton	3 gpm/ton	4 gpm/ton	5 gpm/ton	6 gpm/ton
+Leaving Chilled Water Temperature (°F)	Entering Condenser Water Temperature (°F)	LIFT1 (°F)	Required COP
+46	75	29	7.15	7.47	7.72	8.10	8.37	8.58
+45	75	30	7.05	7.35	7.58	7.93	8.18	8.36
+44	75	31	6.95	7.23	7.45	7.77	8.00	8.16
+43	75	32	6.85	7.13	7.33	7.63	7.83	7.98
+42	75	33	6.75	7.03	7.22	7.49	7.68	7.82
+41	75	34	6.65	6.93	7.12	7.37	7.55	7.67
+46	80	34	6.65	6.93	7.12	7.37	7.55	7.67
+40	75	35	6.55	6.83	7.01	7.26	7.42	7.54
+45	80	35	6.55	6.83	7.01	7.26	7.42	7.54
+44	80	36	6.44	6.73	6.92	7.15	7.30	7.41
+43	80	37	6.32	6.63	6.82	7.05	7.19	7.30
+42	80	38	6.20	6.53	6.72	6.95	7.09	7.19
+41	80	39	6.06	6.42	6.62	6.85	6.99	7.08
+46	85	39	6.06	6.42	6.62	6.85	6.99	7.08
+40	80	40	5.91	6.30	6.52	6.76	6.89	6.98
+45	85	40	5.91	6.30	6.52	6.76	6.89	6.98
+44	85	41	5.75	6.17	6.403	6.66	6.79	6.89
+43	85	42	5.57	6.03	6.28	6.55	6.70	6.79
+42	85	43	5.37	5.88	6.16	6.44	6.59	6.69
+41	85	44	5.15	5.71	6.01	6.33	6.49	6.59
+40	85	45	4.91	5.53	5.86	6.20	6.37	6.48
+Condenser DT2	14.04	11.23	9.36	7.02	5.62	4.681.LIFT = Entering Condenser Water Temperature (°F) – Leaving Chilled Water Temperature (°F)
+
+2.Condenser DT = Leaving Condenser Water Temperature (°F) – Entering Condenser Water Temperature (°F)
+
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+Kadj = 6.1507 – 0.30244(×) + 0.0062692(×)2 – 0.000045595(×)3
+
+where × = Condenser DT + LIFT
+
+COPadj = Kadj * COPstd
+
+A5.207.1.1 Efficiency.
+
+Equipment shall meet the applicable requirements in Tables A5.207.1-A through A5.207.1-M, subject to the following:
+
+1.If more than one standard is listed for any equipment in Tables A5.207.1-A through A5.207.1-M, the equipment shall meet all the applicable standards that are listed; and
+
+2.If more than one test method is listed in Tables A5.207.1-A through A5.207.1-M, the equipment shall comply with the applicable standard when tested with each test method; and
+
+3.Where equipment can serve more than one function, such as both heating and cooling or both space heating and water heating, it shall comply with all the requirements applicable to each function; and
+
+4.Where a requirement is for equipment rated at its “maximum rated capacity” or “minimum rated capacity,” the capacity shall be as provided for and allowed by the controls, during steady-state operation.
+
+Exception: Water-cooled centrifugal water-chilling packages that are not designed for operation at ARI Standard 550 test conditions of 44°F leaving chilled water temperature and 85°F entering condenser water temperature shall have a minimum full load COP rating as shown in Tables A5.207.1-H, A5.207.1-I and A5.207.1-J and a minimum NPLV rating as shown in Tables A5.207.1-K, A5.207.1-L and A5.207.1-M. The table values are only applicable over the following full load design ranges:
+
+Leaving Chiller Water Temperature	40 to 48°F
+Entering Condenser Water Temperature	75 to 85°F
+Condensing Water Temperature Rise	5 to 15°FA5.207.1.2 Controls for heat pumps with supplementary electric resistance heaters.
+
+Heat pumps with supplementary electric resistance heaters shall have controls:
+
+A5.207.1.2.1 
+
+That prevent supplementary heater operation when the heating load can be met by the heat pump alone; and
+
+A5.207.1.2.2 
+
+In which the cut-on temperature for compression heating is higher than the cut-on temperature for supplementary heating and the cut-off temperature for compression heating is higher than the cut-off temperature for supplementary heating.
+
+Exceptions: The controls may allow supplementary heater operation during:
+
+1.Defrost; and
+
+2.Transient periods such as start-ups and following room thermostat setpoint advance, if the controls provide preferential rate control, intelligent recovery, staging, ramping or another control mechanism designed to preclude the unnecessary operation of supplementary heating.
+
+A5.207.1.3 Thermostats.
+
+All unitary heating and/or cooling systems including heat pumps that are not controlled by a central energy management control system (EMCS) shall have a setback thermostat.
+
+1.Setback capabilities. All thermostats shall have a clock mechanism that allows the building occupant to program the temperature set points for at least four periods within 24 hours. Thermostats for heat pumps shall meet the requirements of Section A5.207.1.2.
+
+Exception: Gravity gas wall heaters, gravity floor heaters, gravity room heaters, noncentral electric heaters, fireplaces or decorative gas appliances, wood stoves, room air conditioners and room air-conditioner heat pumps need not comply with this requirement. Additionally, room air-conditioner heat pumps need not comply with Section A5.207.1.2 Under performance method of compliance, the resulting increase in energy use due to elimination of the setback thermostat shall be factored into the compliance analysis in accordance with a method prescribed by the Executive Director.
+
+A5.207.1.4 Gas- and oil-fired furnace standby loss controls.
+
+Gas-fired and oil-fired forced air furnaces with input ratings ≥ 225,000 Btu/h shall also have an intermittent ignition or interrupted device (IID) and have either power venting or a flue damper. A vent damper is an acceptable alternative to a flue damper for furnaces where combustion air is drawn from the conditioned space. All furnaces with input ratings ≥ 225,000 Btu/h, including electric furnaces, that are not located within the conditioned space shall have jacket losses not exceeding 0.75 percent of the input rating.
+
+A5.207.2 Space conditioning systems.
+
+A building complies with this section by being designed with and having constructed and installed a space-conditioning system that meets the requirements of Subsections A5.207.2.1 through A5.207.2.6.
+
+A5.207.2.1 Supply-air temperature reset controls.
+
+Mechanical space-conditioning systems supplying heated or cooled air to multiple zones shall include controls that automatically reset supply-air temperatures:
+
+1.In response to representative building loads or to outdoor air temperature; and
+
+2.By at least 25 percent of the difference between the design supply-air temperature and the design room air temperature.
+
+Air distribution systems serving zones that are likely to have constant loads, such as interior zones, shall be designed for the air flows resulting from the fully reset supply-air temperature.
+
+Exceptions:
+
+1.Systems that meet the requirements of Section 144(d) of Title 24, Part 6, without using Exception 1 or 2 to that section.
+
+2.Where supply-air temperature reset would increase overall building energy use.
+
+3.Zones in which specific humidity levels are required to satisfy process needs.
+
+A5.207.2.2 Electric resistance heating.
+
+Electric resistance heating systems shall not be used for space heating.
+
+Exceptions:
+
+1.Where an electric-resistance heating system supplements a heating system in which at least 60 percent of the annual energy requirement is supplied by site-solar or recovered energy.
+
+2.Where the total capacity of all electric-resistance heating systems serving the entire building is less than 10 percent of the total design output capacity of all heating equipment serving the entire building.
+
+3.Where an electric resistance heating system serves an entire building that is not a high-rise residential or hotel/motel building; and has a conditioned floor area no greater than 5,000 square feet; and has no mechanical cooling; and is in an area where natural gas is not currently available and an extension of a natural gas system is impractical, as determined by the natural gas utility.
+
+A5.207.2.3 Heat rejection systems.
+
+A5.207.2.3.1 General.
+
+Subsection A5.207.2.3 applies to heat rejection equipment used in comfort cooling systems such as air-cooled condensers, open cooling towers, closed-circuit cooling towers and evaporative condensers.
+
+A5.207.2.3.2 Fan speed control.
+
+Each fan powered by a motor of 7.5 hp (5.6 kW) or larger shall have the capability to operate that fan at 2/3 of full speed or less and shall have controls that automatically change the fan speed to control the leaving fluid temperature or condensing temperature/pressure of the heat rejection device.
+
+Exceptions:
+
+1.Heat rejection devices included as an integral part of the equipment listed in Tables A5.207.1-A through A5.207.1-E.
+
+2.Condenser fans serving multiple refrigerant circuits.
+
+3.Condenser fans serving flooded condensers.
+
+4.Up to 1/3 of the fans on a condenser or tower with multiple fans where the lead fans comply with the speed control requirement.
+
+A5.207.2.3.3 Tower flow turndown.
+
+Open cooling towers configured with multiple condenser water pumps shall be designed so that all cells can be run in parallel with the larger of:
+
+1.The flow that’s produced by the smallest pump or
+
+2.33 percent of the design flow for the cell.
+
+A5.207.2.3.4 Limitation on centrifugal fan cooling towers.
+
+Open cooling towers with a combined rated capacity of 900 gpm and greater at 95°F condenser water return, 85°F condenser water supply and 75°F outdoor wet-bulb temperature shall use propeller fans and shall not use centrifugal fans.
+
+Exceptions:
+
+1.Cooling towers that are ducted (inlet or discharge) or have an external sound trap that requires external static pressure capability.
+
+2.Cooling towers that meet the energy efficiency requirement for propeller fan towers in Section A5.207.1, Table A5.207.1-G.
+
+A5.207.2.4 Hydronic system measures.
+
+A5.207.2.4.1 Hydronic variable flow systems.
+
+HVAC chilled and hot water pumping shall be designed for variable fluid flow and shall be capable of reducing pump flow rates to no more than the larger of: a) 50 percent or less of the design flow rate; or b) the minimum flow required by the equipment manufacturer for the proper operation of equipment served by the system.
+
+Exceptions:
+
+1.Systems that include no more than three control valves.
+
+2.Systems having a total pump system power less than or equal to 11/2 HP.
+
+A5.207.2.4.2 Chiller isolation.
+
+When a chilled water plant includes more than one chiller, provisions shall be made so that flow through any chiller is automatically shut off when that chiller is shut off while still maintaining flow through other operating chiller(s). Chillers that are piped in series for the purpose of increased temperature differential shall be considered as one chiller.
+
+A5.207.2.4.3 Boiler isolation.
+
+When a hot water plant includes more than one boiler, provisions shall be made so that flow through any boiler is automatically shut off when that boiler is shut off while still maintaining flow through other operating boiler(s).
+
+A5.207.2.4.4 Chilled and hot water temperature reset controls.
+
+Chilled and hot water systems with a design capacity exceeding 500,000 Btu/hr supplying chilled or heated water (or both) shall include controls that automatically reset supply water temperatures as a function of representative building loads or outside air temperature.
+
+Exception: Hydronic systems that use variable flow to reduce pumping energy in accordance with Section A5.207.2.4.1.
+
+A5.207.2.4.5 Water-cooled air conditioner and hydronic heat pump systems.
+
+Water circulation systems serving water-cooled air conditioners, hydronic heat pumps or both that have total pump system power exceeding 5 hp shall have flow controls that meet the requirements of Section A5.207.2.4.6. Each air conditioner or heat pump shall have a two-position automatic valve interlocked to shut off water flow when the compressor is off.
+
+A5.207.2.4.6 Variable flow controls.
+
+A5.207.2.4.6.1 Variable speed drives.
+
+Individual pumps serving variable flow systems and having a motor horsepower exceeding 5 hp shall have controls and/or devices (such as variable speed control) that will result in pump motor demand of no more than 30 percent of design wattage at 50 percent of design water flow. The pumps shall be controlled as a function of required differential pressure.
+
+A5.207.2.4.6.2 Pressure sensor location and set-point.
+
+1.For systems without direct digital control of individual coils reporting to the central control panel, differential pressure shall be measured at or near the most remote heat exchanger or the heat exchanger requiring the greatest differential pressure.
+
+2.For systems with direct digital control of individual coils with central control panel, the static pressure set point shall be reset based on the valve requiring the most pressure and the set- point shall be no less than 80 percent open. The pressure sensor(s) may be mounted anywhere.
+
+Exceptions:
+
+1.Heating hot water systems.
+
+2.Condenser water systems serving only water-cooled chillers.
+
+A5.207.2.4.7 Hydronic heat pump (WLHP) controls.
+
+Hydronic heat pumps connected to a common heat pump water loop with central devices for heat rejection and heat addition shall have controls that are capable of providing a heat pump water supply temperature dead band of at least 20°F between initiation of heat rejection and heat addition by the central devices.
+
+Exception: Where a system loop temperature optimization controller is used to determine the most efficient operating temperature based on real-time conditions of demand and capacity, dead bands of less than 20°F shall be allowed.
+
+A5.207.2.5 Air distribution system duct leakage sealing.
+
+All duct systems shall be sealed to a leakage rate not to exceed 6 percent of the fan flow if the duct system:
+
+A5.207.2.5.1 
+
+Is connected to a constant volume, single zone, air conditioners, heat pumps or furnaces; and
+
+A5.207.2.5.2 
+
+Serves less than 5,000 square feet of floor area; and
+
+A5.207.2.5.3 
+
+Has more than 25 percent duct surface area located in one or more of the following spaces:
+
+1.Outdoors; or
+
+2.In a space directly under a roof where the U-factor of the roof is greater than the U-factor of the ceiling; or
+
+Exception: Where the roof meets the requirements of Section 143(a)1C of Title 24, Part 6.
+
+3.In a space directly under a roof with fixed vents or openings to the outside or unconditioned spaces; or
+
+4.In an unconditioned crawlspace; or
+
+5.In other unconditioned spaces.
+
+The leakage rate shall be confirmed through field verification and diagnostic testing, in accordance with procedures set forth in the Reference Nonresidential Appendix NA1 of the California Energy Commission 2008 Building Energy Efficiency Standards for Residential and Nonresidential Buildings.
+
+A5.207.2.6 Variable air volume control for single zone systems.
+
+Effective January 1, 2012, all unitary air conditioning equipment and air-handling units with mechanical cooling capacity at ARI conditions greater than or equal to 110,000 Btu/hr that serve single zones shall be designed for variable supply air volume with their supply fans controlled by two-speed motors, variable speed drives or equipment that has been demonstrated to the Executive Director to use no more energy. The supply fan controls shall modulate down to a minimum of 2/3 of the full fan speed or lower at low cooling demand.
+
+A5.207.3 Service water-heating systems and equipment.
+
+A5.207.3.1 Certification by manufacturers.
+
+Any service water-heating system or equipment may be installed only if the manufacturer has certified that the system or equipment complies with all of the requirements of this subsection for that system or equipment.
+
+A5.207.3.1.1 Temperature controls for service water-heating systems.
+
+Service water-heating systems shall be equipped with automatic temperature controls capable of adjustment from the lowest to the highest acceptable temperature settings for the intended use as listed in Table 2, Chapter 9 of the ASHRAE Handbook, HVAC Applications Volume.
+
+A5.207.3.2 Efficiency.
+
+Equipment shall meet the applicable requirements of the Appliance Efficiency Regulations as required by Section A5.210.1, subject to the following:
+
+1.If more than one standard is listed in the Appliance Efficiency Regulations, the equipment shall meet all the standards listed; and
+
+2.If more than one test method is listed in the Appliance Efficiency Regulations, the equipment shall comply with the applicable standard when tested with each test method; and
+
+3.Where equipment can serve more than one function, such as both heating and cooling or both space heating and water heating, it shall comply with all the requirements applicable to each function; and
+
+4.Where a requirement is for equipment rated at its “maximum rated capacity” or “minimum rated capacity,” the capacity shall be as provided for and allowed by the controls, during steady-state operation.
+
+A5.207.3.3 Installation.
+
+Any service water-heating system or equipment may be installed only if the system or equipment complies with all of the applicable requirements of this subsection for the system or equipment.
+
+A5.207.3.3.1 Outlet temperature controls.
+
+On systems that have a total capacity greater than 167,000 Btu/hr, outlets that require higher than service water temperatures as listed in the ASHRAE Handbook, Applications Volume, shall have separate remote heaters, heat exchangers or boosters to supply the outlet with the higher temperature.
+
+A5.207.3.3.2 Temperature controls for public lavatories.
+
+The controls shall limit the outlet temperature to 110°F.
+
+A5.207.3.3.3 Insulation.
+
+Unfired service water heater storage tanks and backup tanks for solar water-heating systems shall have:
+
+1.External insulation with an installed R-value of at least R-12; or
+
+2.Internal and external insulation with a combined R-value of at least R-16; or
+
+3.The heat loss of the tank surface based on an 80°F water-air temperature difference shall be less than 6.5 Btu per hour per square foot.
+
+A5.207.3.3.4 Service water heaters in state buildings.
+
+Any newly constructed building constructed by the State shall derive its service water heating from a system that provides at least 60 percent of the energy needed for service water heating from site solar energy or recovered energy.
+
+Exception: Buildings for which the state architect determines that service water heating from site solar energy or recovered energy is economically or physically infeasible.
+
+A5.207.4 Natural gas central furnaces, cooking equipment and pool and spa heaters: Pilot lights prohibited.
+
+Any natural gas system or equipment listed below may be installed only if it does not have a continuously burning pilot light:
+
+1.Fan-type central furnaces.
+
+2.Household cooking appliances.
+
+Exception: Household cooking appliances without an electrical supply voltage connection and in which each pilot consumes less than 150 Btu/hr.
+
+3.Pool heaters.
+
+4.Spa heaters.
+
+A5.207.5 Controls for space-conditioning systems.
+
+Space-conditioning systems shall be installed with controls that comply with the applicable requirements of Subsections A5.207.5.1 through A5.207.5.5.
+
+A5.207.5.1 Thermostatic controls for each zone.
+
+The supply of heating and cooling energy to each space-conditioning zone or dwelling unit shall be controlled by an individual thermostatic control that responds to temperature within the zone and that meets the applicable requirements of Section A5.207.5.2.
+
+Exception: An independent perimeter heating or cooling system may serve more than one zone without individual thermostatic controls if:
+
+1.All zones are also served by an interior cooling system;
+
+2.The perimeter system is designed solely to offset envelope heat losses or gains;
+
+3.The perimeter system has at least one thermostatic control for each building orientation of 50 feet or more; and
+
+4.The perimeter system is controlled by at least one thermostat located in one of the zones served by the system.
+
+A5.207.5.2 Criteria for zonal thermostatic controls.
+
+The individual thermostatic controls required by Section A5.207.5.1 shall meet the following requirements as applicable:
+
+1.Where used to control comfort heating, the thermostatic controls shall be capable of being set, locally or remotely, down to 55°F or lower.
+
+2.Where used to control comfort cooling, the thermostatic controls shall be capable of being set, locally or remotely, up to 85°F or higher.
+
+3.Where used to control both comfort heating and comfort cooling, the thermostatic controls shall meet Items 1 and 2 and shall be capable of providing a temperature range or dead band of at least 5°F within which the supply of heating and cooling energy to the zone is shut off or reduced to a minimum.
+
+Exception: Systems with thermostats that require manual changeover between heating and cooling modes.
+
+4.Thermostatic controls for all unitary single zone, air conditioners, heat pumps and furnaces, shall comply with the setback thermostat requirements of Section A5.207.1.3 or, if equipped with DDC to the Zone level, with the Automatic Demand Shed Controls of Section A5.207.5.5.
+
+Exception: Systems serving zones that must have constant temperatures to prevent degradation of materials, a process, plants or animals.
+
+A5.207.5.3 Heat pump controls.
+
+All heat pumps with supplementary electric resistance heaters shall be installed with controls that comply with Section A5.207.1.2.
+
+A5.207.5.4 Dampers for air supply and exhaust equipment.
+
+Outdoor air supply and exhaust equipment shall be installed with dampers that automatically close upon fan shutdown.
+
+Exceptions:
+
+1.Where it can be demonstrated to the satisfaction of the enforcing agency that the equipment serves an area that must operate continuously.
+
+2.Gravity and other nonelectrical equipment that has readily accessible manual damper controls.
+
+3.At combustion air intakes and shaft vents.
+
+4.Where prohibited by other provisions of law.
+
+A5.207.5.5 Automatic demand shed controls.
+
+HVAC systems with DDC to the Zone level shall be programmed to allow centralized demand shed for noncritical zones as follows:
+
+1.The controls shall have a capability to remotely setup the operating cooling temperature set points by 4 degrees or more in all noncritical zones on signal from a centralized contact or software point within an Energy Management Control System (EMCS).
+
+2.The controls shall remotely set down the operating heating temperature set points by 4 degrees or more in all noncritical zones on signal from a centralized contact or software point within an EMCS.
+
+3.The controls shall have capabilities to remotely reset the temperatures in all noncritical zones to original operating levels on signal from a centralized contact or software point within an EMCS.
+
+4.The controls shall be programmed to provide an adjustable rate of change for the temperature setup and reset.
+
+A5.207.6 Pipe insulation.
+
+The piping for all space- conditioning and service water-heating systems with fluid temperatures listed in Table A5.207.6-A shall have the amount of insulation specified in Subsection A5.207.6.1 or A5.207.6.2. Insulation conductivity shall be determined in accordance with ASTM C335 at the mean temperature listed in Table A5.207.6-A and shall be rounded to the nearest 1/100 Btu-inch per hour per square foot per °F.
+
+Insulation shall be protected from damage, including that due to sunlight, moisture, equipment maintenance and wind, including but not limited to, the following:
+
+Insulation exposed to weather shall be suitable for outdoor service, e.g., protected by aluminum, sheet metal, painted canvas or plastic cover. Cellular foam insulation shall be protected as above or painted with a coating that is water retardant and provides shielding from solar radiation that can cause degradation of the material.
+
+Insulation covering chilled water piping and refrigerant suction piping located outside the conditioned space shall include a vapor retardant located outside the insulation (unless the insulation is inherently vapor retardant), all penetrations and joints of which shall be sealed.
+
+Exceptions:
+
+1.Factory-installed piping within space-conditioning equipment certified under Section A5.210.1 or A5.207.1.
+
+2.Piping that conveys fluids with a design operating temperature range between 60°F and 105°F.
+
+3.Piping that serves process loads, gas piping, cold domestic water piping, condensate drains, roof drains, vents or waste piping.
+
+4.Where the heat gain or heat loss to or from piping without insulation will not increase building source energy use.
+
+5.Piping that penetrates framing members shall not be required to have pipe insulation for the distance of the framing penetration. Metal piping that penetrates metal framing shall use grommets, plugs, wrapping or other insulating material to assure that no contact is made with the metal framing.
+
+TABLE A5.207.6-A
+
+PIPE INSULATION THICKNESS
+
+FLUID TEMPERATURE RANGE (°F)	CONDUCTIVITY RANGE (in Btu-inch per hour per square foot per °F)	INSULATION MEAN RATING TEMPERATURE (°F)	NOMINAL PIPE DIAMETER (in inches)
+Runouts up to 2	1 and less	1.25-2	2.50-4	5-6	8 and larger
+INSULATION THICKNESS REQUIRED (in inches)
+Space heating systems (steam, steam condensate and hot water)
+Above 350	0.32-0.34	250	1.5	2.5	2.5	3.0	3.5	3.5
+251-350	0.29-0.31	200	1.5	2.0	2.5	2.5	3.5	3.5
+201-250	0.27-0.30	150	1.0	1.5	1.5	2.0	2.0	3.5
+141-200	0.25-0.29	125	0.5	1.5	1.5	1.5	1.5	1.5
+105-140	0.24-0.28	100	0.5	1.0	1.0	1.0	1.5	1.5
+Service water-heating systems (recirculating sections, all piping in electric trace tape systems and the first 8 feet of piping from the storage tank for nonrecirculating systems)
+Above 105	0.24-0.28	100	0.5	1.0	1.0	1.5	1.5	1.5
+Space cooling systems (chilled water, refrigerant and brine)
+40-60	0.23-0.27	75	0.5	0.5	0.5	1.0	1.0	1.0
+Below 40	0.23-0.27	75	1.0	1.0	1.5	1.5	1.5	1.5A5.207.6.1 
+
+For insulation with a conductivity in the range shown in Table A5.207.6-A for the applicable fluid temperature range, the insulation shall have the applicable thickness shown in Table A5.207.6-A.
+
+A5.207.6.2 
+
+For insulation with a conductivity outside the range shown in Table A5.207.6-A for the applicable fluid temperature range, the insulation shall have a minimum thickness as calculated with Equation A5.207.6-A below.
+
+where:
+
+T = Minimum insulation thickness for material with conductivity K, inches.
+
+PR = Pipe actual outside radius, inches.
+
+t = Insulation thickness from Table A5.207.6-A, inches.
+
+K = Conductivity of alternate material at the mean rating temperature indicated in Table A5.207.6-A, for the applicable fluid temperature range, in Btu-inch per hour per square foot per °F.
+
+k = The lower value of the conductivity range listed in Table A5.207.6-A, for the applicable fluid temperature range, Btu-inch per hour per square foot per °F.
+
+A5.208 Not used
+
+A5.209 [OSHPD 1, 2 & 4]
+
+ LIGHTING
+
+A5.209.1 Lighting control devices,
+
+ballasts and luminaires. Any lighting control device, ballast or luminaire subject to the requirements of Section A5.209 shall be installed only if the manufacturer has certified to the Commission that the device complies with all of the applicable requirements of Section A5.209.
+
+Lighting control devices may be individual devices or systems consisting of two or more components. For control systems consisting of two or more components, such as an Energy Management Control System (EMCS), the manufacturer of the control system shall certify each of the components required for the system to comply with Section A5.209.
+
+TABLE A5.209.1-A
+
+ULTRASOUND MAXIMUM DECIBEL VALUES
+
+MIDFREQUENCY OF SOUND PRESSURE THIRD-OCTAVE BAND (in kHz)	MAXIMUM dB LEVEL WITHIN THIRD-OCTAVE BAND (in dB reference 20 micropascals)
+Less than 20	80
+20 or more to less than 25	105
+25 or more to less than 31.5	110
+31.5 or more	115A5.209.1.1 All devices:
+
+Instructions for installation and calibration. The manufacturer shall provide step-by-step instructions for installation and start-up calibration of the device.
+
+A5.209.1.2 Indicator lights.
+
+Indicator lights integral to lighting control devices shall consume no more than one watt of power per indicator light.
+
+A5.209.1.3 Automatic time switch control devices.
+
+Automatic time switch control devices or system shall:
+
+1.Be capable of programming different schedules for weekdays and weekends; and
+
+2.Have program backup capabilities that prevent the loss of the device’s schedules for at least 7 days and the device’s time and date setting for at least 72 hours if power is interrupted.
+
+A5.209.1.4 Occupant sensors, motion sensors and vacancy sensors.
+
+Occupant sensors, motion sensors and vacancy sensors shall be capable of automatically turning off all the lights in an area no more than 30 minutes after the area has been vacated and shall have a visible status signal that indicates that the device is operating properly or that it has failed or malfunctioned. The visible status signal may have an override switch that turns the signal off. In addition, ultrasonic and microwave devices shall have a built-in mechanism that allows calibration of the sensitivity of the device to room movement in order to reduce the false sensing of occupants and shall comply with either Subsection A5.209.1.4.1 or A5.209.1.4.2 below, as applicable:
+
+A5.209.1.4.1 
+
+If the device emits ultrasonic radiation as a signal for sensing occupants within an area, the device shall:
+
+1.Have had a Radiation Safety Abbreviated Report submitted to the Center for Devices and Radiological Health, Federal Food and Drug Administration, under 21 Code of Federal Regulations, Section 1002.12 (1996) and a copy of the report shall have been submitted to the California Energy Commission; and
+
+2.Emit no audible sound; and
+
+3.Not emit ultrasound in excess of the decibel (dB) values shown in Table A5.209.1-A, measured no more than 5 feet from the source, on axis.
+
+A5.209.1.4.2 
+
+If the device emits microwave radiation as a signal for sensing occupants within the area, the device shall:
+
+1.Comply with all applicable provisions in 47 Code of Federal Regulations, Parts 2 and 15 (1996) and have an approved Federal Communications Commission Identifier that appears on all units of the device and that has been submitted to the California Energy Commission; and
+
+2.Not emit radiation in excess of 1 milliwatt per square centimeter measured at no more than 5 centimeters from the emission surface of the device; and
+
+3.Have permanently affixed to it installation instructions recommending that it be installed at least 12 inches from any area normally used by room occupants.
+
+A5.209.1.5 Multilevel occupant sensor.
+
+Multilevel occupant sensors shall have an automatic OFF function that turns off all the lights and either an automatic or a manually controlled ON function capable of meeting all the multilevel and uniformity requirements of Section A5.209.2.2 for the controlled lighting. The first stage shall be capable of activating between 30–70 percent of the lighting power in a room either through an automatic or manual action and may be a switching or dimming system. After that event occurs the device shall be capable of all of the following actions when manually called to do so by the occupant:
+
+1.Activating the alternate set of lights.
+
+2.Activating 100 percent of the lighting power.
+
+3.Deactivating all lights.
+
+A5.209.1.6 Automatic daylighting control devices.
+
+Automatic daylighting control devices used to control lights in daylit zones shall:
+
+1.Be capable of reducing the power consumption of the general lighting in the controlled area by at least two thirds in response to the availability of daylight; and
+
+2.If the device is a dimmer controlling incandescent or fluorescent lamps, provide electrical outputs to lamps for reduced flicker operation through the dimming range, so that the light output has an amplitude modulation of less than 30 percent for frequencies less than 200 Hz and without causing premature lamp failure; and
+
+3.If the devices reduce lighting in control steps, incorporate time-delay circuits to prevent cycling of light level changes of less than 3 minutes and have a manual or automatic means of adjusting the deadband to provide separation of on and off points for each control step; and
+
+4.If the device is placed in calibration mode, automatically restore its time delay settings to normal operation programmed time delays after no more than 60 minutes; and
+
+5.Have a setpoint control that easily distinguishes settings to within 10 percent of full scale adjustment; and
+
+6.Have a light sensor that has a linear response with 5 percent accuracy over the range of illuminance measured by the light sensor; and
+
+7.Have a light sensor that is physically separated from where calibration adjustments are made or is capable of being calibrated in a manner that the person initiating calibration is remote from the sensor during calibration to avoid influencing calibration accuracy.
+
+A5.209.1.7 Interior photosensors.
+
+Interior photosensor shall not have a mechanical slide cover or other device that permits easy unauthorized disabling of the control and shall not be incorporated into a wall-mounted occupant-sensor.
+
+A5.209.1.8 Multilevel astronomical time-switch controls.
+
+Multilevel astronomical time-switch controls used to control lighting in daylit zones shall:
+
+1.Contain at least two separately programmable steps per zone that reduces illuminance in a relatively uniform manner as specified in Section A5.209.2.2; and
+
+2.Have a separate offset control for each step of 1 to 240 minutes; and
+
+3.Have sunrise and sunset prediction accuracy within +/- 15 minutes and timekeeping accuracy within 5 minutes per year; and
+
+4.Store astronomical time parameters (used to develop longitude, latitude, time zone) for at least 7 days if power is interrupted; and
+
+5.Display date/time, sunrise and sunset and switching times for each step; and
+
+6.Have an automatic daylight savings time adjustment; and
+
+7.Have automatic time switch capabilities specified in Section A5.209.1.3.
+
+A5.209.1.9 Outdoor astronomical time-switch controls.
+
+Outdoor astronomical time-switch controls used to control outdoor lighting as specified in Section A5.209.3.3 shall:
+
+1.Contain at least two separately programmable steps per function area; and
+
+2.Have the ability to independently offset the on and off times for each channel by 0 to 99 minutes before or after sunrise or sunset; and
+
+3.Have sunrise and sunset prediction accuracy within +/- 15 minutes and timekeeping accuracy within 5 minutes per year; and
+
+4.Store astronomical time parameters (used to develop longitude, latitude, time zone) for at least 7 days if power is interrupted; and
+
+5.Display date/time, sunrise and sunset; and
+
+6.Have an automatic daylight savings time adjustment; and
+
+7.Have automatic time switch capabilities specified in Section A5.209.1.3.
+
+A5.209.1.10 Dimmers.
+
+Dimmers used to control lighting shall:
+
+1.Be capable of reducing power consumption by a minimum of 65 percent when the dimmer is at its lowest light level; and
+
+2.If the device is a dimmer controlling incandescent or fluorescent lamps, provide electrical outputs to lamps for reduced flicker operation through the dimming range, so that the light output has an amplitude modulation of less than 30 percent for frequencies less than 200 Hz and without causing premature lamp failure; and
+
+3.Be listed by a rating lab recognized by the International Code Council (ICC) as being in compliance with Underwriters Laboratories Standards; and
+
+4.If the device is a wall box dimmer designed to be used in a three- or more-way circuit with nondimmable switches, the level set by the dimmer, shall not be overridden by any of the switches in the circuit. The dimmer and all of the switches in the circuit shall have the capability of turning lighting OFF if it is ON and turning lighting ON to the level set by the dimmer if the lighting is OFF. Any wall box dimmer that is connected to a system with an emergency override function shall be controlled by the emergency override.
+
+5.If the device is a stepped dimmer, it shall include an off position to turn lights completely off.
+
+A5.209.2 Indoor lighting controls
+
+A5.209.2.1 Area controls.
+
+A5.209.2.1.1 
+
+Each area enclosed by ceiling-height partitions shall have an independent switching or control device. This switching or control device shall be:
+
+1.Readily accessible; and
+
+2.Located so that a person using the device can see the lights or area controlled by that switch or so that the area being lit is annunciated; and
+
+3.Manually operated or automatically controlled by an occupant-sensor that meets the applicable requirements of Section A5.209.1.
+
+A5.209.2.1.2 
+
+Other devices may be installed in conjunction with the switching or control device provided that they:
+
+1.Permit the switching or control device to manually turn the lights off in each area enclosed by ceiling-height partitions; and
+
+2.Reset the mode of any automatic system to normal operation without further action.
+
+Exception 1 to Section A5.209.2.1: Up to 0.3 watts per square foot of lighting in any area within a building that must be continuously illuminated for reasons of building security or emergency egress, if:
+
+1.The area is designated a security or emergency egress area on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Title 24, Part 1; and
+
+2.The security or egress lighting is controlled by switches accessible only to authorized personnel.
+
+Exception 2 to Section A5.209.2.1: Public areas with switches that are accessible only to authorized personnel.
+
+A5.209.2.2 Multilevel lighting controls.
+
+The general lighting of any enclosed space 100 square feet or larger and has a connected lighting load that exceeds 0.8 watts per square foot, shall have multilevel lighting controls. Multilevel controls shall have at least one control step that is between 30 percent and 70 percent of design lighting power and allow the power of all lights to be manually turned off. A reasonably uniform level of illuminance shall be achieved by any of the following:
+
+1.Continuous or stepped dimming of all lamps or luminaires; or
+
+2.Switching alternate lamps in luminaires, alternate luminaires and alternate rows of luminaires.
+
+Exceptions:
+
+1.Lights in corridors.
+
+2.A space that has only one luminaire with no more than two lamps.
+
+A5.209.2.3 Daylight areas.
+
+A5.209.2.3.1 Daylight areas shall be defined as follows:
+
+A5.209.2.3.1.1 Daylight area.
+
+The total daylight area shall not double count overlapping areas with any primary sidelit daylight area, secondary sidelit daylight area or skylit daylight area.
+
+A5.209.2.3.1.2 Daylight area, primary sidelit
+
+is the combined primary sidelit area without double counting overlapping areas. The floor area for each primary sidelit area is directly adjacent to vertical glazing below the ceiling with an area equal to the product of the sidelit width and the primary sidelit depth.
+
+The primary sidelit width is the width of the window plus, on each side, the smallest of:1.2 feet; or2.The distance to any 5 feet or higher permanent vertical obstruction.
+
+1.2 feet; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction.
+
+The primary sidelit depth is the horizontal distance perpendicular to the glazing which is the smaller of:1.One window head height; or2.The distance to any 5 feet or higher permanent vertical obstruction.
+
+1.One window head height; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction.
+The primary sidelit width is the width of the window plus, on each side, the smallest of:
+
+1.2 feet; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction.
+
+The primary sidelit depth is the horizontal distance perpendicular to the glazing which is the smaller of:
+
+1.One window head height; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction.
+
+A5.209.2.3.1.3 Daylight area, secondary sidelit
+
+is the combined secondary sidelit area without double counting overlapping areas. The floor area for each secondary sidelit area is directly adjacent to primary sidelit area with an area equal to the product of the sidelit width and the secondary sidelit depth.
+
+The secondary sidelit width is the width of the window plus, on each side, the smallest of:1.2 feet; or2.The distance to any 5 feet or higher permanent vertical obstruction; or3.The distance to any skylit daylight area.
+
+1.2 feet; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction; or
+
+3.The distance to any skylit daylight area.
+
+The secondary sidelit depth is the horizontal distance perpendicular to the glazing which begins from one window head height and ends at the smaller of:1.Two window head heights;2.The distance to any 5 feet or higher permanent vertical obstruction; or3.The distance to any skylit daylight area.
+
+1.Two window head heights;
+
+2.The distance to any 5 feet or higher permanent vertical obstruction; or
+
+3.The distance to any skylit daylight area.
+The secondary sidelit width is the width of the window plus, on each side, the smallest of:
+
+1.2 feet; or
+
+2.The distance to any 5 feet or higher permanent vertical obstruction; or
+
+3.The distance to any skylit daylight area.
+
+The secondary sidelit depth is the horizontal distance perpendicular to the glazing which begins from one window head height and ends at the smaller of:
+
+1.Two window head heights;
+
+2.The distance to any 5 feet or higher permanent vertical obstruction; or
+
+3.The distance to any skylit daylight area.
+
+A5.209.2.3.1.4 Daylight area, skylit
+
+is the combined daylight area under each skylight without double counting overlapping areas. The daylight area under each skylight is bounded by the rough opening of the skylight, plus horizontally in each direction the smallest of:
+
+1.70 percent of the floor-to-ceiling height; or
+
+2.The distance to any primary sidelit area or the daylight area under rooftop monitors; or
+
+3.The distance to any permanent partition or permanent rack which is farther away than 70 percent of the distance between the top of the permanent partition or permanent rack and the ceiling.
+
+A5.209.2.3.2 
+
+Luminaires providing general lighting that are in or are partially in the skylit daylight area and/or the primary sidelit daylight area shall be controlled as follows:
+
+A5.209.2.3.2.1 
+
+Primary sidelit and skylit daylight areas shall have at least one lighting control that:
+
+1.Controls at least 50 percent of the general lighting power in the primary sidelit and skylit daylight areas separately from other lighting in the enclosed space.
+
+2.Controls luminaires in primary sidelit areas separately from skylit areas.
+
+Exception: Primary sidelit and skylit daylight areas that have a combined area totaling less than or equal to 250 square feet within any enclosed space.
+
+A5.209.2.3.2.2 
+
+For all skylit daylight areas:
+
+1.The skylit daylight area shall be shown on the plans.
+
+2.All of the general lighting in the skylit area shall be controlled independently by an automatic daylighting control device that meets the applicable requirements of Section A5.209.1.
+
+3.The automatic daylighting control shall be installed in accordance with Section A5.209.2.3.2.4.
+
+Exceptions:
+
+1.Where the total skylit daylight area in any enclosed space is less than or equal to 2,500 square feet.
+
+2.Skylit daylight areas where existing adjacent structures obstruct direct beam sunlight for at least 6 hours per day during the equinox as calculated using computer or graphical methods.
+
+3.When the skylight effective aperture is greater than 4.0 percent and all general lighting in the skylit area is controlled by a multilevel astronomical time switch that meets the requirements of Section A5.209.1.8 and that has an override switch that meets the requirements of Section A5.209.2.4.2.
+
+4.Skylit daylight areas where the effective aperture is less than 0.006. The effective aperture for skylit daylight areas is specified in Section 146(a)2E of Title 24, Part 6.
+
+A5.209.2.3.2.3 
+
+The primary sidelit area(s) shall be shown on the plans and the general lighting in the primary sidelit areas shall be controlled independently by an automatic daylighting control device that meets the applicable requirements of Section A5.209.1 and is installed in accordance with Section A5.209.2.3.2.4.
+
+Exceptions:
+
+1.Where the total primary sidelit daylight area in any enclosed space has an area less than or equal to 2,500 square feet.
+
+2.Primary sidelit daylight areas where the effective aperture is less than 0.1. The effective aperture for primary sidelit daylight areas is specified in Section 146(a)2E of Title 24, Part 6.
+
+3.Primary sidelit daylight areas where existing adjacent structures are twice as tall as their distance away from the windows.
+
+4.Parking garages.
+
+A5.209.2.3.2.4 
+
+Automatic daylighting control device installation and operation. Automatic daylighting control devices shall be installed and configured to operate according to all of the following requirements:
+
+1.Automatic daylighting control devices shall have photosensors that are located so that they are not readily accessible in accordance with the designer’s or manufacturer’s instructions.
+
+2.The location where calibration adjustments are made to the automatic daylighting control device shall be readily accessible to authorized personnel or located within 2 feet of a ceiling access panel that is no higher than 11 feet above floor level.
+
+3.Automatic daylighting controls shall be multilevel, including continuous dimming and have at least one control step that is between 50 percent to 70 percent of rated power of the controlled lighting.
+
+Exceptions:
+
+1.Controlled lighting having a lighting power density less than 0.3 W/ft2.
+
+2.When skylights are replaced or added to on an existing building with an existing general lighting system.
+
+4.Under all daylight conditions in all areas served by the controlled lighting, the combined illuminance from the controlled lighting and daylight is not less than the illuminance from controlled lighting when no daylight is available.
+
+5.When all areas served by the controlled lighting are receiving daylight illuminance levels greater than 150 percent of the illuminance from controlled lighting when no daylight is available, the controlled lighting power consumption shall be no greater than 35 percent of the rated power of the controlled lighting.
+
+A5.209.2.4 Shut-off controls.
+
+A5.209.2.4.1 
+
+In addition to the manual controls installed to comply with Sections A5.209.2.1 and A5.209.2.2 for every floor, all indoor lighting systems shall be equipped with separate automatic controls to shut off the lighting. These automatic controls shall meet the requirements of Section A5.209.1and may be an occupant sensor, automatic time switch or other device capable of automatically shutting off the lighting.
+
+Exceptions:
+
+1.Where the lighting system is serving an area that must be continuously lit, 24 hours per day/365 days per year.
+
+2.Lighting in corridors, guestrooms, dwelling units of high-rise residential buildings and hotel/motels and parking garages.
+
+3.Up to 0.3 watts per square foot of lighting in any area within a building that must be continuously illuminated for reasons of building security or emergency egress, provided that the area is designated a security or emergency egress area on the plans and specifications submitted to the enforcement agency under Section 10-103(a)2 of Title 24, Part 1.
+
+A5.209.2.4.2 
+
+If an automatic control device is installed to comply with Section A5.209.2.4.1, it shall incorporate an override switching device that:
+
+1.Is readily accessible; and
+
+2.Is located so that a person using the device can see the lights or the area controlled by that switch or so that the area being lit is annunciated; and
+
+3.Is manually operated; and
+
+4.Allows the lighting to remain on for no more than 2 hours when an override is initiated; and
+
+Exception: In malls, auditoriums, single tenant retail spaces, industrial facilities and arenas, where captive-key override is utilized, override time may exceed 2 hours.
+
+5.Controls an area enclosed by ceiling height partitions not exceeding 5,000 square feet.
+
+Exception: In malls, auditoriums, single tenant retail spaces, industrial facilities, convention centers and arenas, the area controlled may not exceed 20,000 square feet.
+
+A5.209.2.4.3 
+
+If an automatic time switch control device is installed to comply with Section A5.209.2.4.1, it shall incorporate an automatic holiday “shut-off” feature that turns off all loads for at least 24 hours and then resumes the normally scheduled operation.
+
+Exception: Retail stores and associated malls, restaurants, grocery stores, churches and theaters.
+
+A5.209.2.4.4 
+
+Offices 250 square feet or smaller; multipurpose rooms of less than 1,000 square feet and classrooms and conference rooms of any size, shall be equipped with occupant sensor(s) to shut off the lighting. In addition, controls shall be provided that allow the lights to be manually shut off in accordance with Section A5.209.2.1 regardless of the sensor status.
+
+A5.209.3 Outdoor lighting controls and equipment.
+
+A5.209.3.1 Outdoor lighting.
+
+All permanently installed outdoor luminaires employing lamps rated over 100 watts shall either have a lamp efficacy of at least 60 lumens per watt or be controlled by a motion sensor.
+
+Exceptions:
+
+1.Lighting required by a health or life safety statute ordinance or regulation, including but not limited to, emergency lighting.
+
+2.Lighting used in or around swimming pools, water features or other locations subject to Article 680 of Title 24, Part 3, California Electrical Code.
+
+3.Searchlights.
+
+4.Theme lighting for use in theme parks.
+
+5.Lighting for film or live performances.
+
+6.Temporary outdoor lighting.
+
+7.Light emitting diode, light emitting capacitors, neon and cold cathode lighting.
+
+8.Sign lighting.
+
+A5.209.3.2 Luminaire cutoff requirements.
+
+All outdoor luminaires that use lamps rated greater than 175 watts in hardscape areas including parking lots, building entrances, sales and nonsales canopies and all outdoor sales areas shall be designated Cutoff for light distribution. To comply with this requirement, the luminaire shall be rated Cutoff in a photometric test report that includes any tilt or other nonlevel mounting condition of the installed luminaire. Cutoff is a luminaire light distribution classification where the candela per 1000 lamp lumens does not numerically exceed 25 at or above a vertical angle of 90 degrees above nadir and 100 at or above a vertical angle of 80 degrees above nadir. Nadir is in the direction of straight down, as would be indicated by a plumb line. 90 degrees above nadir is horizontal. 80 degrees above nadir is 10 degrees below horizontal.
+
+Exceptions:
+
+1.Signs.
+
+2.Lighting for building facades, public monuments, statues and vertical surfaces of bridges.
+
+3.Lighting required by a health or life safety statute ordinance or regulation, including but not limited to, emergency lighting.
+
+4.Temporary outdoor lighting.
+
+5.Lighting used in or around swimming pools, water features or other locations subject to Article 680 of the California Electrical Code.
+
+6.Replacement of existing pole mounted luminaires in hardscape areas meeting all of the following conditions:
+
+1.Where the existing luminaire does not meet the luminaire cutoff requirements in A5.209.3.2; and
+
+2.Spacing between existing poles is greater than 6 times the mounting height of the existing luminaires; and
+
+3.Where no additional poles are being added to the site; and
+
+4.Where new wiring to the luminaires is not being installed; and
+
+5.Provided that the connected lighting power wattage is not increased.
+
+A5.209.3.3 Controls for outdoor lighting.
+
+A5.209.3.3.1 
+
+All permanently installed outdoor lighting shall be controlled by a photocontrol or astronomical time switch that automatically turns off the outdoor lighting when daylight is available.
+
+Exception: Lighting in tunnels and large covered areas that require illumination during daylight hours.
+
+A5.209.3.3.2 
+
+For lighting of building facades, parking lots, sales and nonsales canopies, all outdoor sales areas and student pick-up/drop-off zones where two or more luminaires are used, an automatic time switch shall be installed that is capable of (1) turning off the lighting when not needed and (2) reducing the lighting power (in watts) by at least 50 percent but not exceeding 80 percent or providing continuous dimming through a range that includes 50 percent through 80 percent reduction. This control shall meet the requirements of Section A5.209.1.3.
+
+Exceptions:
+
+1.Lighting required by a health or life safety statute ordinance or regulation, including but not limited to, emergency lighting.
+
+2.Lighting for steps or stairs that require illumination during daylight hours.
+
+3.Lighting that is controlled by a motion sensor and photocontrol.
+
+4.Lighting for facilities that have equal lighting requirements at all hours and are designed to operate continuously.
+
+5.Temporary outdoor lighting.
+
+6.Signs.
+
+A5.209.4 Outdoor lighting.
+
+This section applies to all outdoor lighting, whether attached to buildings, poles, structures or self-supporting, including but not limited to, hardscape areas including parking lots, lighting for building entrances, sales and nonsales canopies; lighting for all outdoor sales areas; and lighting for building facades.
+
+Exceptions: When more than 50 percent of the light from a luminaire falls on one or more of the following applications, the lighting power for that luminaire shall be exempt from Section A5.209.4.2.
+
+1.Temporary outdoor lighting.
+
+2.Lighting required and regulated by the Federal Aviation Administration and the Coast Guard.
+
+3.Lighting for public streets, roadways, highways and traffic signage lighting, including lighting for driveway entrances occurring in the public right-of-way.
+
+4.Lighting for sports and athletic fields and children’s playground.
+
+5.Lighting for industrial sites, including but not limited to, rail yards, maritime shipyards and docks, piers and marinas, chemical and petroleum processing plants and aviation facilities.
+
+6.Lighting specifically for automated teller machines as required by California Financial Code Section 13040 or required by law through a local ordinance.
+
+7.Lighting of public monuments.
+
+8.Signs shall meet the requirements of Section A5.209.5.
+
+9.Lighting used in or around swimming pools, water features or other locations subject to Article 680 of Title 24, Part 3, California Electrical Code.
+
+10.Lighting of tunnels, bridges, stairs, wheelchair elevator lifts for American with Disabilities Act (ADA) compliance and ramps that are other than parking garage ramps.
+
+11.Landscape lighting.
+
+12.In theme parks: outdoor lighting for themes and special effects.
+
+13.Lighting for outdoor theatrical and other outdoor live performances, provided that these lighting systems are additions to area lighting systems and are controlled by a multiscene or theatrical cross-fade control station accessible only to authorized operators.
+
+14.Outdoor lighting systems for qualified historic buildings, as defined in Title 24, Part 8, California Historic Building Code, if they consist solely of historic lighting components or replicas of historic lighting components. If lighting systems for qualified historic buildings contain some historic lighting components or replicas of historic components, combined with other lighting components, only those historic or historic replica components are exempt. All other outdoor lighting systems for qualified historic buildings shall comply with Section A5.209.4.
+
+TABLE A5.209.4-A
+
+GENERAL HARDSCAPE LIGHTING POWER ALLOWANCE
+
+TYPE OF POWER ALLOWANCE	LIGHTING ZONE 1	LIGHTING ZONE 2	LIGHTING ZONE 3	LIGHTING ZONE 4
+Area wattage allowance (AWA)	0.036 W/ft2	0.045 W/ft2	0.092 W/ft2	0.115 W/ft2
+Linear wattage allowance (LWA)	0.36 W/lf	0.45 W/lf	0.92 W/lf	1.15 W/lf
+Initial wattage allowance (IWA)	340 W	510 W	770 W	1030 WTABLE A5.209.4-B
+
+ADDITIONAL LIGHTING POWER ALLOWANCE FOR SPECIFIC APPLICATIONS All area and distance measurements in plan view unless otherwise noted.
+
+	LIGHTING APPLICATION	Lighting Zone 1	Lighting Zone 2	Lighting Zone 3	Lighting Zone 4
+WATTAGE ALLOWANCE PER APPLICATION. Use all that apply as appropriate.
+	Building entrances or exits. Allowance per door. Luminaires qualifying for this allowance shall be within 20 feet of the door.	30 watts	75 watts	100 watts	120 watts
+	Primary entrances to senior care facilities, police stations, hospitals, fire stations and emergency vehicle facilities. Allowance per primary entrance(s) only. Primary entrances shall provide access for the general public and shall not be used exclusively for staff or service personnel. This allowance shall be in addition to the building entrance or exit allowance above. Luminaires qualifying for this allowance shall be within 100 feet of the primary entrance.	45 watts	80 watts	120 watts	130 watts
+	Drive up windows. Allowance per customer service location. Luminaires qualifying for this allowance shall be within two mounting heights of the sill of the window.	40 watts	75 watts	125 watts	200 watts
+	Vehicle service station uncovered fuel dispenser. Allowance per fueling dispenser. Luminaires qualifying for this allowance shall be within two mounting heights of the dispenser.	120 watts	175 watts	185 watts	330 watts
+WATTAGE ALLOWANCE PER UNIT LENGTH (w/linear ft). May be used for one or two frontage side(s) per site.
+	Outdoor sales frontage. Allowance for frontage immediately adjacent to the principal viewing location(s) and unobstructed for its viewing length. A corner sales lot may include two adjacent sides provided that a different principal viewing location exists for each side. Luminaires qualifying for this allowance shall be located between the principal viewing location and the frontage outdoor sales area.	No allowance	22.5 w/linear ft	36 w/linear ft	45 w/linear ft
+WATTAGE ALLOWANCE PER HARDSCAPE AREA (W/ft2). May be used for any illuminated hardscape area on the site.
+	Hardscape ornamental lighting. Allowance for the total site illuminated hardscape area. Luminaires qualifying for this allowance shall be rated for 100 watts or less as determined in accordance with Section 130(d) and shall be post-top luminaires, lanterns, pendant luminaires or chandeliers.	No allowance	0.02 w/ft2	0.04 w/ft2	0.06 w/ft2
+WATTAGE ALLOWANCE PER SPECIFIC AREA (W/ft2). Use as appropriate provided that none of the following specific applications shall be used for the same area.
+	Building facades. Only areas of building façade that are illuminated shall qualify for this allowance. Luminaires qualifying for this allowance shall be aimed at the façade and shall be capable of illuminating it without obstruction or interference by permanent building features or other objects.	No allowance	0.18 w/ft2	0.35 w/ft2	0.50 w/ft2
+	Outdoor sales lots. Allowance for uncovered sales lots used exclusively for the display of vehicles or other merchandise for sale. Driveways, parking lots or other nonsales areas shall be considered hardscape areas even if these areas are completely surrounded by sales lot on all sides. Luminaires qualifying for this allowance shall be within five mounting heights of the sales lot area.	0.164 w/ft2	0.555 w/ft2	0.758 w/ft2	1.285 w/ft2
+	Vehicle service station hardscape. Allowance for the total illuminated hardscape area less area of buildings, under canopies, off property or obstructed by signs or structures. Luminaires qualifying for this allowance shall be illuminating the hardscape area and shall not be within a building, below a canopy, beyond property lines or obstructed by a sign or other structure.	0.014 w/ft2	0.155 w/ft2	0.308 w/ft2	0.485 w/ft2
+	Vehicle service station canopies. Allowance for the total area within the drip line of the canopy. Luminaires qualifying for this allowance shall be located under the canopy.	0.514 w/ft2	1.005 w/ft2	1.358 w/ft2	2.285 w/ft2
+	Sales canopies allowance for the total area within the drip line of the canopy. Luminaires qualifying for this allowance shall be located under the canopy.	No allowance	0.655 w/ft2	0.908 w/ft2	1.135 w/ft2
+	Nonsales canopies. Allowance for the total area within the drip line of the canopy. Luminaires qualifying for this allowance shall be located under the canopy.	0.084 w/ft2	0.205 w/ft2	0.408 w/ft2	0.585 w/ft2
+	Guard stations. Allowance up to 1,000 square feet per vehicle lane. Guard stations provide access to secure areas controlled by security personnel who stop and may inspect vehicles and vehicle occupants, including identification, documentation, vehicle license plates and vehicle contents. Qualifying luminaires shall be within two mounting heights of a vehicle lane or the guardhouse.	0.154 w/ft2	0.355 w/ft2	0.708 w/ft2	0.985 w/ft2
+	Student pick-up/drop-off zone. Allowance for the area of the student pick-up/drop-off zone, with or without canopy, for preschool through 12th grade school campuses. A student pick-up/drop off zone is a curbside, controlled traffic area on a school campus where students are picked up and dropped off from vehicles. The allowed area shall be the smaller of the actual width or 25 feet, times the smaller of the actual length or 250 feet. Qualifying luminaires shall be within two mounting heights of the student pick-up/drop-off zone.	No allowance	0.12 w/ft2	0.45 w/ft2	No allowance
+	Outdoor dining. Allowance for the total illuminated hardscape of outdoor dining. Outdoor dining areas are hardscape areas used to serve and consume food and beverages. Qualifying luminaires shall be within 2 mounting heights of the hardscape area of outdoor dining.	0.014 w/ft2	0.135 w/ft2	0.258 w/ft2	0.435 w/ft2
+	Special security lighting for retail parking and pedestrian hardscape. This additional allowance is for illuminated retail parking and pedestrian hardscape identified as having special security needs. This allowance shall be in addition to the building entrance or exit allowance.	0.007 w/ft2	0.009 w/ft2	0.019 w/ft2	No allowanceTABLE A5.209.4-C
+
+ADDITIONAL LIGHTING POWER ALLOWANCE FOR ORDINANCE REQUIREMENTS
+
+ADDITIONAL LIGHTING POWER ALLOWANCE (W/ft2) WHEN AVERAGE LIGHT LEVELS ARE REQUIRED BY LOCAL ORDINANCE.
+Required (horizontal foot-candles, AVERAGE)	Lighting Zone 1	Lighting Zone 2	Lighting Zone 3	Lighting Zone 4
+0.5	0	0	0	0
+1.0	0.004	0	0	0
+1.5	0.024	0.015	0	0
+2.0	0.044	0.035	0	0
+3.0	0.084	0.075	0.028	0.005
+4.0 or greater	0.124	0.115	0.068	0.045
+ADDITIONAL LIGHTING POWER ALLOWANCE (W/ft2) WHEN MINIMUM LIGHT LEVELS ARE REQUIRED BY LOCAL ORDINANCE.
+Required (horizontal foot-candles, MINIMUM)	Lighting Zone 1	Lighting Zone 2	Lighting Zone 3	Lighting Zone 4
+0.5	0.044	0	0	0
+1.0	0.124	0.035	0	0
+1.5	0.164	0.115	0.068	0.045
+2.0	0.164	0.155	0.108	0.085
+3.0	0.164	0.155	0.108	0.085
+4.0 or greater	0.164	0.155	0.108	0.085A.5.209.4.1 Outdoor lighting power trade-offs.
+
+Outdoor lighting power trade-offs shall be determined as follows:
+
+1.Allowed lighting power determined according to Section A5.209.4.4.1 for general hardscape lighting allowance may be traded to specific applications in Section A5.209.4.4.2, provided the hardscape area from which the lighting power is traded continues to be illuminated in accordance with Section A5.209.4.4.1.1.
+
+2.Allowed lighting power determined according to Section A5.209.4.4.2 for additional lighting power allowances for specific applications shall not be traded between specific applications or to hardscape lighting in Section A5.209.4.4.1.
+
+3.Allowed lighting power determined according to Section A5.209.4.4.3 for additional lighting power allowances for local ordinance shall not be traded to specific applications in Section A5.209.4.4.2 or to hardscape areas not covered by the local ordinance.
+
+4.Trading off lighting power allowances between outdoor and indoor areas shall not be permitted.
+
+A5.209.4.2 Outdoor lighting power.
+
+An outdoor lighting installation complies with this section if the actual outdoor lighting power installed is no greater than the allowed outdoor lighting power calculated under Section A5.209.4.4 The allowed outdoor lighting shall be calculated by Lighting Zone as defined in Section 10-114 of Title 24, Part 1. Local governments may amend lighting zones in compliance with Section 10-114 of Title 24, Part 1.
+
+A5.209.4.3 Calculation of actual lighting power.
+
+The wattage of outdoor luminaires shall be determined in accordance with Section 130(d) of Title 24, Part 6.
+
+A5.209.4.4 Calculation of allowed lighting power.
+
+The allowed lighting power shall be the combined total of the sum of the general hardscape lighting allowance determined in accordance with Section A5.209.4.4.1, the sum of the additional lighting power allowance for specific applications determined in accordance with Section A5.209.4.4.2 and the sum of the additional lighting power allowances for local ordinance determined in accordance with Section A5.209.4.4.3.
+
+A5.209.4.4.1 General hardscape lighting allowance.
+
+Determine the general hardscape lighting power allowances as follows:
+
+A5.209.4.4.1.1 
+
+The general hardscape area of a site shall include parking lot(s), roadway(s), driveway(s), sidewalk(s), walkway(s), bikeway(s), plaza(s) and other improved area(s) that are illuminated. In plan view of the site, determine the illuminated hardscape area, which is defined as any hardscape area that is within a square pattern around each luminaire or pole that is ten times the luminaire mounting height with the luminaire in the middle of the pattern, less any areas that are within a building, beyond the hardscape area, beyond property lines or obstructed by a structure. The illuminated hardscape area shall include portions of planters and landscaped areas that are within the lighting application and are less than or equal to 10 feet wide in the short dimensions and are enclosed by hardscape or other improvement on at least three sides. Multiply the illuminated hardscape area by the Area Wattage Allowance (AWA) from Table A5.209.4-A for the appropriate Lighting Zone.
+
+A5.209.4.4.1.2 
+
+Determine the perimeter length of the general hardscape area. The total perimeter shall not include portions of hardscape that is not illuminated according to Section A5.209.4.4.1.1 Multiply the hardscape perimeter by the Linear Wattage Allowance (LWA) for hardscape from Table A5.209.4-A for the appropriate lighting zone. The perimeter length for hardscape around landscaped areas and permanent planters shall be determined as follows:
+
+1.Landscaped areas completely enclosed within the hardscape area and which have width or length less than 10 feet wide, shall not be added to the hardscape perimeter length.
+
+2.Landscaped areas completely enclosed within the hardscape area and which width or length are a minimum of 10 feet wide, the perimeter of the landscaped areas or permanent planter shall be added to the hardscape perimeter length.
+
+3.Landscaped edges that are not abutting the hardscape shall not be added to the hardscape perimeter length.
+
+A5.209.4.4.1.3 
+
+Determine the Initial Wattage Allowance (IWA) for general hardscape lighting from Table A.209.4-A for the appropriate lighting zone. The hardscape area shall be permitted one IWA per site.
+
+A5.209.4.4.1.4 
+
+The general hardscape lighting allowance shall be the sum of the allowed watts determined from Sections A5.209.4.4.1.1, A5.209.4.4.1.2 and A5.209.4.4.1.3 above.
+
+A5.209.4.4.2 Additional lighting power allowance for specific applications.
+
+Additional lighting power for specific applications shall be the smaller of the additional lighting allowances for specific applications determined in accordance with Table A5.209.4-B for the appropriate lighting zone or the actual installed lighting power meeting the requirements for the allowance.
+
+A5.209.4.4.3 Additional lighting power allowance for local ordinance requirements.
+
+For hardscape areas, including parking lots, site roadways, driveways, sidewalks, walkways or bikeways, when specific light levels are required by law through a local ordinance and provided the local ordinance meets Section 10-114 of Title 24, Part 1, additional lighting power for those hardscape areas covered by the local ordinance requirement shall be the smaller of the additional lighting allowances for local ordinance determined from Table A5.209.4-C for the appropriate lighting zone or the actual installed lighting power meeting the requirements for the allowance.
+
+A5.209.5 Signs.
+
+This section applies to all internally illuminated and externally illuminated signs, unfiltered light emitting diodes (LEDs) and unfiltered neon, both indoor and outdoor. Each sign shall comply with either Subsection A5.209.5.1 or A5.209.5.2, as applicable.
+
+A5.209.5.1 Maximum allowed lighting power.
+
+A5.209.5.1.1 
+
+For internally illuminated signs, the maximum allowed lighting power shall not exceed the product of the illuminated sign area and 12 watts per square foot. For double-faced signs, only the area of a single face shall be used to determine the allowed lighting power.
+
+A5.209.5.1.2 
+
+For externally illuminated signs, the maximum allowed lighting power shall not exceed the product of the illuminated sign area and 2.3 watts per square foot. Only areas of an externally lighted sign that are illuminated without obstruction or interference, by one or more luminaires, shall be used.
+
+A5.209.5.2 Alternate lighting sources.
+
+The sign shall comply if it is equipped only with one or more of the following light sources:
+
+A5.209.5.2.1 
+
+High pressure sodium lamps; or
+
+A5.209.5.2.2 
+
+Metal halide lamps that are:
+
+1.Pulse start or ceramic served by a ballast that has a minimum efficiency of 88 percent or greater or
+
+2.Pulse start that are 320 watts or smaller, are not 250 watt or 175 watt lamps and are served by a ballast that has a minimum efficiency of 80 percent.
+
+Where ballast efficiency is the measured output wattage to the lamp divided by the measured operating input wattage when tested according to ANSI C82.6-2005; or
+
+A5.209.5.2.3 
+
+Neon or cold cathode lamps with transformer or power supply efficiency greater than or equal to the following:
+
+1.A minimum efficiency of 75 percent when the transformer or power supply rated output current is less than 50 mA; or
+
+2.A minimum efficiency of 68 percent when the transformer or power supply rated output current is 50 mA or greater.
+
+Where the ratio of the output wattage to the input wattage is at 100-percent tubing load; or
+
+A5.209.5.2.4 
+
+Fluorescent lamps with a minimum color rendering index (CRI) of 80; or
+
+A5.209.5.2.5 
+
+Light emitting diodes (LEDs) with a power supply having an efficiency of 80 percent or greater; or
+
+Exception: Single voltage external power supplies that are designed to convert 120 volt AC input into lower voltage DC or AC output and have a nameplate output power less than or equal to 250 watts, shall comply with the applicable requirements of the Appliance Efficiency Regulations, Title 20.
+
+A5.209.5.2.6 
+
+Compact fluorescent lamps that do not contain medium screw base sockets (E24/E26); or
+
+A5.209.5.2.7 
+
+Electronic ballasts with a fundamental output frequency not less than 20 kHz;
+
+Exception 1 to Section A5.209.5: Unfiltered incandescent lamps that are not part of an electronic message center (EMC), an internally illuminated sign or an externally illuminated sign.
+
+Exception 2 to Section A5.209.5: Exit signs. Exit signs shall meet the requirements of the Appliance Efficiency Regulations.
+
+Exception 3 to Section A5.209.5: Traffic Signs. Traffic signs shall meet the requirements of the Appliance Efficiency Regulations.
+
+A5.209.6 Sign lighting controls.
+
+All signs with permanently connected lighting shall meet the requirements below:
+
+1.Automatic time switch control. All signs with permanently connected lighting shall be controlled with an automatic time switch control that complies with the applicable requirements of Section A5.209.1.
+
+2.Photocontrol or outdoor astronomical time switch control. All outdoor signs shall be controlled with a photocontrol or outdoor astronomical time switch control.
+
+Exception: Outdoor signs in tunnels and large covered areas that require illumination during daylight hours.
+
+3.Dimming. All outdoor signs shall be controlled with a dimmer that provides the ability to automatically reduce sign power by a minimum of 65 percent during nighttime hours.
+
+Exceptions:
+
+1.Signs that are illuminated for less than 1 hour per day during daylight hours.
+
+2.Outdoor signs in tunnels and large covered areas that require illumination during daylight hours.
+
+3.Metal halide, high pressure sodium, cold cathode and neon lamps used to illuminated signs or parts of signs.
+
+4.Demand Responsive Electronic Message Center Control. An Electronic Message Center (EMC) having a new connected lighting power load greater than 15 kW shall have a control installed that is capable of reducing the lighting power by a minimum of 30 percent when receiving a demand response signal that is sent out by the local utility.
+
+5.EMCs required by a health or life safety statue ordinance or regulation, including but not limited to exit signs and traffic signs.
+
+A5.209.7 Nonresidential lighting control acceptance.
+
+Before an occupancy permit is granted for a new building or space or a new lighting system serving a building, space or site is operated for normal use, all indoor and outdoor lighting controls serving the building, space or site shall be certified as meeting the Acceptance Requirements for Code Compliance. A Certificate of Acceptance shall be submitted to the enforcement agency under Section 10-103(a) of Title 24, Part 1, that:
+
+1.Certifies that plans, specifications, installation certificates and operating and maintenance information meet the requirements of Title 24, Part 6.
+
+2.Certifies that automatic daylighting controls meet the applicable requirements of Sections A5.209.1 and A5.209.2.3.2.4.
+
+3.Certifies that when a multilevel astronomical time switch is used to meet Exception 3 to Section A5.209.2.3.2.2 all general lighting in the skylit area is controlled by a multilevel astronomical time switch that meets the applicable requirements of Section A5.209.1 and that has an override switch that meets the requirements of Section A209.2.4.2.
+
+4.Certifies that lighting controls meet the requirements of Sections A5.209.2.1 through A5.209.2.3 and Title 24, Part 6, Sections 131(e) and (f) and 146(a)2, as applicable.
+
+5.Certifies that automatic lighting controls meet the applicable requirements of Sections A5.209.1 and A5.209.2.4.
+
+6.Certifies that occupant-sensors meet the applicable requirements of Sections A5.209.1 and A5.209.2.4.
+
+7.Certified that outdoor lighting controls meet the applicable requirements of Sections A5.209.1 and A5.209.3.
+
+SECTION A5.210 [OSHPD 1, 2 & 4] APPLIANCES APPLIANCES
+
+A5.210.1 Appliances regulated by the Appliance Efficiency Regulations. Appliance Efficiency Regulations.
+
+Any appliance for which there is a California standard established in the Appliance Efficiency Regulations may be installed only if the manufacturer has certified to the Commission, as specified in those regulations, that the appliance complies with the applicable standard for that appliance.
+
+Note: For certified appliances, go to www.energy.ca.gov/appliances/database/.
+Note: For certified appliances, go to www.energy.ca.gov/appliances/database/.
+
+DivisionA5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY Division Division A5.4 A5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY MATERIAL CONSERVATION AND RESOURCE EFFICIENCY
+
+SECTION A5.401 GENERAL
+
+A5.401.1 Scope.
+
+The provisions of this chapter shall outline means of achieving material conservation and resource efficiency through reuse of existing building stock and materials; use of recycled, regional, rapidly renewable and certified wood materials; and employment of techniques to reduce pollution through recycling of materials.
+
+SECTION A5.407 [OSHPD 1, 2 & 4] WATER RESISTANCE AND MOISTURE
+
+ MANAGEMENT
+
+A5.407.3 Weather protection.
+
+Provide a weather-resistant exterior wall and foundation envelope as required by California Building Code Section 1403.2 and California Energy Code Section 150, manufacturer’s installation instructions or local ordinance, whichever is more stringent.
+
+A5.407.4 Moisture control.
+
+Employ moisture control measures by the following methods.
+
+A5.407.4.1 Sprinklers.
+
+Design and maintain landscape irrigation systems to prevent spray on structures.
+
+A5.407.4.2 Entries and openings.
+
+Design exterior entries and/or openings subject to foot traffic or wind-driven rain to prevent water intrusion into buildings.
+
+Notes:
+
+1.Use features such as overhangs and recesses and flashings integrated with a drainage plane.
+
+2.Use nonabsorbent floor and wall finishes within at least two feet around and perpendicular to such openings.
+
+SECTION A5.408 CONSTRUCTION WASTE REDUCTION, DISPOSAL AND RECYCLING
+
+A5.408.5 Construction waste diversion.
+
+[OSHPD 1, 2 & 4] Establish a construction waste management plan for the diverted materials or meet local construction and demolition waste management ordinance, whichever is more stringent.
+
+A5.408.6 Construction waste reduction of at least 50 percent.
+
+[OSHPD 1, 2 & 4] Recycle and/or salvage for reuse a minimum of 50 percent of the nonhazardous construction and demolition debris or meet a local construction and demolition waste management ordinance, whichever is more stringent. Calculate the amount of materials diverted by weight or volume, but not by both.
+
+Exceptions:
+
+1.Excavated soil and land-clearing debris.
+
+2.Alternate waste reduction methods developed by working with local agencies if diversion or recycle facilities capable of compliance with this item do not exist.
+
+A5.408.7 Excavated soil and land clearing debris.
+
+[OSHPD 1, 2 & 4] 100 percent of trees, stumps, rocks and associated vegetation and soils resulting primarily from land clearing shall be reused or recycled. For a phased project, such material may be stockpiled on site until the storage site is developed.
+
+SECTION A5.410 BUILDING MAINTENANCE AND OPERATION
+
+A5.410.6 Recycling by occupants.
+
+[OSHPD 1, 2 & 4] Provide readily accessible areas that serve the entire building and are identified for the depositing, storage and collection of nonhazardous materials for recycling, including (at a minimum) paper, corrugated cardboard, glass, plastics and metals.
+
+DivisionA5.5 – ENVIRONMENTAL QUALITY Division A5.5 – ENVIRONMENTAL QUALITY
+
+SECTION A5.504 POLLUTANT CONTROL
+
+A5.504.4.5.1 No-added formaldehyde.
+
+Use composite wood products approved by the California Air Resources Board (ARB) as no-added formaldehyde (NAF) based resins or ultra-low-emitting formaldehyde (ULEF) resins.
+
+Notes:
+
+1.See Title 17, Section 93120.3(c) and (d), respectively.
+
+2.Documentation must be provided verifying that materials are certified to meet the pollutant emission limits. A list of manufacturers and their NAF and ULEF certified materials is provided at http://www.arb.ca.gov/toxics/compwood/naf_ulef/listofnaf_ulef.htm.
+
+A5.504.4.9 Acoustical ceilings and wall panels.
+
+Comply with Chapter 8 in Title 24, Part 2, the California Building Code and with the VOC-emission limits defined in the 2009 CHPS criteria and listed on its High Performance Products Database.
+
+A5.504.4.9.1 Verification of compliance.
+
+Documentation shall be provided verifying that acoustical finish materials meet the pollutant emission limits.
+
+Note: Products compliant with CHPS criteria certified under the Greenguard Children & Schools program may also be used.
+
+Note: [OSHPD 1, 2 &4] Documentation shall be provided that verifies that finish materials are certified to meet the pollutant emission limits.
+
+A5.504.5 Hazardous particulates and chemical pollutants.
+
+Minimize and control pollutant entry into buildings and cross-contamination of regularly occupied areas.
+
+A5.504.5.1 Entryway systems.
+
+Install permanent entryway systems measuring at least six feet in the primary direction of travel to capture dirt and particulates at entryways directly connected to the outdoors.
+
+1.Qualifying entryways are those that serve as regular entry points for building users.
+
+2.Acceptable entryway systems include, but are not limited to, permanently installed grates, grilles or slotted systems that allow cleaning underneath.
+
+3.Roll-out mats are acceptable only when maintained regularly by janitorial contractors as documented in service contract or by in-house staff as documented by written policies and procedures.
+
+A5.504.8 Finish material pollutant control.
+
+[OSHPD 1, 2 & 4] Finish materials shall comply with Sections A5.504.4.1 through A5.504.4.5.
+
+A5.504.8.1 Adhesives, sealants and caulks.
+
+Adhesives, sealants and caulks used on the project shall meet the requirements of the following standards:
+
+1.Adhesives, adhesive bonding primers, adhesive primers, sealants, sealant primers and caulks shall comply with local or regional air pollution control or air quality management district rules where applicable or SCAQMD Rule 1168 VOC limits, as shown in Tables A5.504.8.1 and A5.504.8.2. Such products also shall comply with the Rule 1168 prohibition on the use of certain toxic compounds (chloroform, ethylene dichloride, methylene chloride, perchloroethylene and trichloroethylene), except for aerosol products as specified in Subsection 2, below.
+
+2.Aerosol adhesives and smaller unit sizes of adhesives and sealant or caulking compounds (in units of product, less packaging, which do not weigh more than one pound and do not consist of more than 16 fluid ounces) shall comply with statewide VOC standards and other requirements, including prohibitions on use of certain toxic compounds, of California Code of Regulations, Title 17, commencing with Section 94507.
+
+Note: Title 17 may be found at http://ccr.oal.ca.gov/.
+Note: Title 17 may be found at http://ccr.oal.ca.gov/.
+
+TABLE A5.504.8.1
+
+ADHESIVE VOC LIMIT1,2 Less Water and Less Exempt Compounds in Grams per Liter
+
+ARCHITECTURAL APPLICATIONS	CURRENT VOC LIMIT
+Indoor carpet adhesives	50
+Carpet pad adhesives	50
+Outdoor carpet adhesives	150
+Wood flooring adhesive	100
+Rubber floor adhesives	60
+Subfloor adhesives	50
+Ceramic tile adhesives	65
+VCT and asphalt tile adhesives	50
+Drywall and panel adhesives	50
+Cove base adhesives	50
+Multipurpose construction adhesives	70
+Structural glazing adhesives	100
+Single-ply roof membrane adhesives	250
+Other adhesive not specifically listed	50
+SPECIALTY APPLICATIONS	
+PVC welding	510
+CPVC welding	490
+ABS welding	325
+Plastic cement welding	250
+Adhesive primer for plastic	550
+Contact adhesive	80
+Special purpose contact adhesive	250
+Structural wood member adhesive	140
+Top and trim adhesive	250
+SUBSTRATE SPECIFIC APPLICATIONS	
+Metal to metal	30
+Plastic foams	50
+Porous material (except wood)	50
+Wood	30
+Fiberglass	801.If an adhesive is used to bond dissimilar substrates together the adhesive with the highest VOC content shall be allowed.
+
+2.For additional information regarding methods to measure the VOC content specified in this table, see South Coast Air Quality Management District Rule 1168, http://www.arb.ca.gov/DRDB/SC/CURHTML/R1168.PDF.
+
+TABLE A5.504.8.2
+
+SEALANT VOC LIMIT Less Water and Less Exempt Compounds in Grams per Liter
+
+SEALANTS	CURRENT VOC LIMIT
+Architectural	250
+Marine deck	760
+Nonmembrane roof	300
+Roadway	250
+Single-ply roof membrane	450
+Other	420
+SEALANT PRIMERS	
+Architectural	
+ Nonporous	250
+ Porous	775
+Modified bituminous	500
+Marine deck	760
+Other	750Note: For additional information regarding methods to measure the VOC content specified in these tables, see South Coast Air Quality Management District Rule 1168: http://www.arb.ca.gov/DRDB/SC/CURHTML/R1168.PDF.
+
+A5.504.8.3 Paints and coatings.
+
+Architectural paints and coatings shall comply with VOC limits in Table 1 of the ARB Architectural Coatings Suggested Control Measure, as shown in Table A5.504.8.3, unless local limits apply. The VOC content limit for coatings that do not meet the definitions for the specialty coatings categories listed in Table A5.504.8.3, shall be determined by classifying the coating as a Flat, Nonflat or Nonflat-High Gloss coating, based on its gloss, as defined in Subsections 4.21, 4.36 and 4.37 of the 2007 California Air Resources Board, Suggested Control Measure and the corresponding Flat, Nonflat or Nonflat-High Gloss VOC limit in Table A5.504.8.3 shall apply.
+
+TABLE A5.504.8.3
+
+VOC CONTENT LIMITS FOR ARCHITECTURAL COATINGS2, 3 Grams of VOC Per Liter of Coating, Less Water and Less Exempt Compounds
+
+COATING CATEGORY	EFFECTIVE 1/1/2010	EFFECTIVE 1/1/2012
+Flat coatings	50	
+Nonflat coatings	100	
+Nonflat-high gloss coatings	150	
+Specialty coatings
+Aluminum roof coatings	400	
+Basement specialty coatings	400	
+Bituminous roof coatings	50	
+Bituminous roof primers	350	
+Bond breakers	350	
+Concrete curing compounds	350	
+Concrete/masonry sealers	100	
+Driveway sealers	50	
+Dry fog coatings	150	
+Faux finishing coatings	350	
+Fire-resistive coatings	350	
+Floor coatings	100	
+Form-release compounds	250	
+Graphic arts coatings (sign paints)	500	
+High-Temperature coatings	420	
+Industrial maintenance coatings	250	
+Low solids coatings1	120	
+Magnesite cement coatings	450	
+Mastic texture coatings	100	
+Metallic pigmented coatings	500	
+Multicolor coatings	250	
+Pretreatment wash primers	420	
+Primers, sealers and undercoaters	100	
+Reactive penetrating sealers	350	
+Recycled coatings	250	
+Roof coatings	50	
+Rust preventative coatings	400	250
+Shellacs:		
+ Clear	730	
+ Opaque	550	
+Specialty primers, sealers and undercoaters	350	100
+Stains	250	
+Stone consolidants	450	
+Swimming pool coatings	340	
+Traffic marking coatings	100	
+Tub and tile refinish coatings	420	
+Waterproofing membranes	250	
+Wood coatings	275	
+Wood preservatives	350	
+Zinc-rich primers	340	1.Grams of VOC Per liter of coating, including water and including exempt compounds.
+
+2.The specified limits remain in effect unless revised limits are listed in subsequent columns in the table.
+
+3.Values in this table are derived from those specified by the California Air Resources Board, Architectural Coatings Suggested Control Measure, February 1, 2008. More information is available at Air Resources Board.
+
+A5.504.8.3.1 Aerosol paints and coatings.
+
+Aerosol paints and coatings shall meet the Product-Weighted MIR Limits for ROC in Section 94522(a)(3) and other requirements, including prohibitions on use of certain toxic compounds and ozone depleting substances, in Sections 94522(c)(2) and (d)(2) of California Code of Regulations, Title 17, commencing with Section 94520; and in areas under the jurisdiction of the Bay Area Air Quality Management District additionally comply with the percent VOC by weight of product limits of Regulation 8 Rule 49.
+
+A5.504.8.3.2 Verification.
+
+Verification of compliance with this section shall be provided at the request of the enforcing agency. Documentation may include, but is not limited to, the following:
+
+1.Manufacturers product specification.
+
+2.Field verification of on-site product containers.
+
+A5.504.8.4 Carpet systems.
+
+All carpet installed in the building interior shall meet the testing and product requirements of one of the following:
+
+1.Carpet and Rug Institute’s Green Label Plus Program.
+
+2.California Department of Public Health Standard Practice for the testing of VOCs (Specification 01350).
+
+3.NSF/ANSI 140 at the Gold level.
+
+4.Scientific Certifications Systems Sustainable Choice.
+
+A5.504.8.4.1 Carpet cushion.
+
+All carpet cushion installed in the building interior shall meet the requirements of the Carpet and Rug Institute Green Label program.
+
+A5.504.8.4.2 Carpet adhesive.
+
+All carpet adhesive shall meet the requirements of Table A5.504.8.1.
+
+A5.504.8.5 Composite wood products.
+
+Hardwood plywood, particleboard and medium density fiberboard composite wood products used on the interior or exterior of the building shall meet the requirements for formaldehyde as specified in ARB’s Air Toxics Control Measure for Composite Wood (17 CCR 93120 et seq.), by or before the dates specified in those sections, as shown in Table A5.504.8.5
+
+TABLE A5.504.8.5
+
+FORMALDEHYDE LIMITS1
+
+Product	Current Limit	Jan 1, 2012	July 1, 2012
+Hardwood plywood veneer core	0.05		
+Hardwood plywood composite core	0.08		0.05
+Particle board	0.09		
+Medium density fiberboard	0.11		
+Thin medium density fiberboard2	0.21	.13	1.Values in this table are derived from those specified by the California Air Resources Board, Air Toxics Control Measure for Composite Wood as tested in accordance with ASTM E1333-96 (2002). For additional information, see California Code of Regulations, Title 17, Sections 93120 through 93120.12.
+
+2.Thin medium density fiberboard has a maximum thickness of eight millimeters.
+
+A5.504.8.5.2 Documentation.
+
+Verification of compliance with this section shall be provided as requested by the enforcing agency. Documentation shall include at least one of the following:
+
+1.Product certifications and specifications.
+
+2.Chain of custody certifications.
+
+3.Other methods acceptable to the enforcing agency.
+
+A5.504.9 Environmental tobacco smoke (ETS) control.
+
+[OSHPD 1, 2 & 4] Where outdoor areas are provided for smoking, prohibit smoking within 25 feet of building entries, outdoor air intakes and operable windows and within the building, if not already prohibited by other laws or regulations, or as enforced by ordinances, regulations or policies of any city, county, city and county, California Community College, campus of the California State University or campus of the University of California, whichever are more stringent. When ordinances, regulations or policies are not in place, post signage to inform building occupants of the prohibitions.
+
+SECTION A5.505 [OSHPD 1, 2 & 4] INDOOR MOISTURE CONTROL
+
+A5.505.2 Indoor moisture control.
+
+Buildings shall meet or exceed the provisions of California Building Code, CCR, Title 24, Part 2, Sections 1203 and Chapter 14.
+
+NONRESIDENTIAL OCCUPANCIES APPLICATION CHECKLIST [OSHPD 1, 2 and 4]
+
+FEATURE OR MEASURE	COMPLIANCE LEVELS	NOTES
+MandatoryCALGreen	VOLUNTARYCALGreen
+Tier 1	Tier 2
+DIVISION A5.1 – PLANNING AND DESIGN	
+SECTION Site Development
+A5.106.9 Building orientation. Locate and orient the building as follows:		□	□	
+ 1. When site and location permit, orient the building with the long sides facing north and south.
+ 2. Protect the building from thermal loss, drafts and degradation of the building envelope caused by wind and wind-driven materials such as dust.
+DIVISION A5.2 – ENERGY EFFICIENCY	
+SECTION A5.203 Performance Measures
+A5.203.1 Energy performance. [OSHPD 1]				
+A5.203.1.1 CALGreen Tier 1. [OSHPD 1] Buildings must comply with the latest edition of “Savings By Design, Healthcare Modeling Procedures.”	□	
+A.5.203.1.2 CALGreen Tier 2. [OSHPD 1] Buildings must exceed the latest edition of “Savings By Design, Healthcare Modeling Procedures” by 15 percent.		□
+SECTION A5.204 Prescriptive Measures	
+A5.204.1 ENERGY STAR equipment and appliances. All equipment and appliances provided by the builder shall be ENERGY STAR labeled if ENERGY STAR is applicable to that equipment or appliance.		□	□	
+A5.204.4 Commissioning. Building commissioning for all building systems covered by T24, Part 6, process systems and renewable energy systems shall be included in the design and construction processes of the building project. Commissioning requirements shall include as a minimum items listed in Section A5.204.4.		□	□	
+ A5.204.4.1 Owner’s Project Requirements (OPR). Documented before the design phase of the project begins the OPR shall include items listed in Section A5.204.4.	□	□
+ A5.204.4.2 Basis of Design (BOD). A written explanation of how the design of the building systems meets the OPR shall be completed at the design phase of the building project and updated periodically to cover the systems listed in Section A5.204.4.2.	□	□
+ A5.204.4.3 Commissioning plan. A commissioning plan describing how the project will be commissioned shall be started during the design phase of the building project and shall include as a minimum items listed in Section A5.204.4.3.	□	□
+ A5.204.4.4 Functional performance testing shall demonstrate the correct installation and operation of each component, system and system-to-system interface in accordance with the approved plans and specifications.	□	□
+ A5.204.4.5 Post construction documentation and training. A systems manual and systems operations training are required.	□	□
+  A5.204.4.5.1 Systems manual. The systems manual shall be delivered to the building owner and facilities operator and shall include the items listed in Section A5.204.4.5.1.	□	□
+  A5.204.4.5.2 Systems operations training. The training of the appropriate maintenance staff for each equipment type and/or system shall include as a minimum items listed in Section A5.204.4.5.2.	□	□
+ A5.204.4.6 Commissioning report. A complete report of commissioning process activities undertaken through the design, construction and postconstruction phases of the building project shall be completed and provided to the owner.	□	□
+A5.204.6 Building orientation and shading. Locate orient and shade the building as required in Section A5.106.11.		□	□	
+SECTION A5.205 Building Envelope	
+A5.205.1 Fenestration products and exterior doors.		□	□	
+A5.205.1.1 Certification of fenestration products and exterior door other than field-fabricated.
+A5.205.1.2 Installation of field-fabricated fenestration and exterior doors.		□	□	
+A5.205.2 Joints and other openings.		□	□	
+A5.205.3 Installation and roofing products.		□	□	
+SECTION A5.207 HVAC Design, Equipment and Installation				
+A5.207.1 Space-conditioning equipment certification by manufacturers.		□	□	
+ A5.207.1.1 Efficiency.	□	□
+ A5.207.1.2 Controls for heat pumps with supplementary electric resistance heaters.	□	□
+ A5.207.1.3 Thermostats.	□	□
+ A5.207.1.4 Gas-and oil-fired furnace standby loss controls.	□	□
+A5.207.2 Space conditioning systems.		□	□	
+ A5.207.2.1 Supply air temperature reset controls.	□	□
+ A5.207.2.2 Electric resistance heating.	□	□
+ A5.207.2.3 Heat rejection systems.	□	□
+ A5.207.2.4 Hydronic system measures.	□	□
+ A5.207.2.5 Air distribution system duct leakage sealing.	□	□
+ A5.207.2.6 Variable air volume control for single zone systems.	□	□
+A5.207.3 Service water-heating systems and equipment.		□	□	
+ A5.207.3.1 Certification by manufacturers.	□	□
+ A5.207.3.2 Efficiency.	□	□
+ A5.207.3.3 Installation.	□	□
+A5.207.4 Natural gas central furnaces, cooking equipment and pool and spa heaters. Pilot lights prohibited.		□	□	
+A5.207.5 Controls for space-conditioning systems.		□	□	
+ A5.207.5.1 Thermostatic controls for each zone.	□	□
+ A5.207.5.2 Criteria for zonal thermostatic controls.	□	□
+ A5.207.5.3 Heat pump controls.	□	□
+ A5.207.5.4 Dampers for air supply and exhaust equipment.	□	□
+ A5.207.5.5 Automatic demand shed controls.	□	□
+A5.207.6 Pipe insulation.		□	□	
+SECTION A5.209 Lighting				
+A5.209.1 Lighting control devices, ballasts and luminaires.		□	□	
+ A5.209.1.1 All devices: Instructions and calibration.	□	□
+ A5.209.1.2 Indicator lights.	□	□
+ A5.209.1.3 Automatic time switch control devices.	□	□
+ A5.209.1.4 Occupant sensors, motion sensors and vacancy sensors.	□	□
+ A5.209.1.5 Multilevel occupant sensor.	□	□
+ A5.209.1.6 Automatic daylighting control devices.	□	□
+ A5.209.1.7 Interior Photosensors.	□	□
+ A5.209.1.8 Multilevel astronomical time-switch controls.	□	□
+ A5.209.1.9 Outdoor astronomical time-switch controls.	□	□
+ A5.209.1.10 Dimmers.	□	□
+A5.209.2 Indoor lighting controls.		□	□	
+ A5.209.2.1 Area controls.	□	□
+ A5.209.2.2 Multilevel lighting controls.	□	□
+ A5.209.2.3 Daylight areas.	□	□
+ A5.209.2.3.1 Daylight area.	□	□
+   A5.209.2.3.1.2 Daylight area, primary sidelit.	□	□
+   A5.209.2.3.1.3 Daylight area, secondary sidelit.	□	□
+   A5.209.2.3.1.4 Daylight area, skylit.	□	□
+ A5.209.2.3.2 Controls for luminaires providing general lighting that are in or are partially in the skylit daylight area and or the primary sidelit daylight area.	□	□
+ A5.209.2.4 Shut-off controls.	□	□
+A5.209.3 Outdoor lighting controls and equipment.		□	□	
+ A5.209.3.1 Outdoor lighting.	□	□
+ A5.209.3.2 Luminaire cutoff requirements.	□	□
+ A5.209.3.3 Controls for outdoor lighting.	□	□
+A5.209.4 Outdoor lighting.		□	□	
+ A5.209.4.1 Outdoor lighting power trade-offs.	□	□
+ A5.209.4.2 Outdoor lighting power.	□	□
+ A5.209.4.3 Calculation of actual lighting power.	□	□
+ A5.209.4.4 Calculation of allowed lighting power.	□	□
+  A5.209.4.4.1 General hardscape lighting allowance.	□	□
+  A5.209.4.4.2 Additional lighting power allowance for specific applications.	□	□
+  A5.209.4.4.3 Additional lighting power allowance for local ordinance requirements.	□	□
+A5.209.5 Signs.		□	□	
+ A5.209.5.1 Maximum allowed lighting power.	□	□
+ A5.209.5.2 Alternate lighting sources.	□	□
+A5.209.6 Sign lighting controls.		□	□	
+A5.209.7 Nonresidential lighting control acceptance.		□	□	
+SECTION A5.210 Appliances	
+A5.210.1 Appliances regulated by the appliance efficiency regulations.				
+DIVISION A5.4 – MATERIAL CONSERVATION AND RESOURCE EFFICIENCY	
+SECTION A5.407 Water Resistance and Moisture Management
+A5.407.3 Weather Protection.		□	□	
+ A5.407.4.1 Moisture control.	□	□
+ A5.407.4.2 Sprinklers.	□	□
+ A5.407.4.3 Entries and openings.	□	□
+SECTION A5.408 Construction Waste Reduction, Disposal and Recycling	
+A5.408.5 Construction waste diversion. Establish a construction waste management plan or meet local ordinance, whichever is more stringent.		□	□	
+A5.408.6 Construction waste. Recycle and/or salvage for reuse a minimum of 50 percent of nonhazardous construction and demolition debris or meet local ordinance, whichever is more stringent.		□	□	
+ Exceptions:
+  1. Excavated soil and land-clearing debris.
+  2. Alternate waste reduction methods developed by working with local agencies if diversion or recycle facilities capable of compliance with this item do not exist.
+A5.408.7 Excavated soil and land clearing debris. 100 percent of trees, stumps, rocks and associated vegetation and soils resulting primarily from land clearing shall be reused or recycled.		□	□	
+SECTION A5.410 Building Maintenance and Operation	
+A5.410.6 Recycling by occupants.  Provide readily accessible areas that serve the entire building and are identified for the depositing, storage and collection of nonhazardous materials for recycling.		□	□	
+DIVISION A5.5 – ENVIRONMENTAL QUALITY	
+SECTION A5.504 Pollutant Control
+A5.504.4.5.1 No-added formaldehyde. Use composite wood products approved by the California Air Resources Board (ARB) as no-added formaldehyde (NAF) based resins or ultra-low-emitting formaldehyde (ULEF) resins.		□	□	
+ Notes:		
+  1. See Title 17, Section93120.3(c) and (d), respectively.		
+  2. Documentation must be provided verifying that materials are certified to meet the pollutant emission limits. A list of manufacturers and their NAF and ULEF certified materials is provided at http://www.arb.ca.gov/toxics/compwood/naf_ulef/listofnaf_ulef.htm.	□	□
+A5.504.8 Finish material pollutant control. Finish materials shall comply with Sections A5.504.8.1 through A5.504.8.4.	□	□
+ A5.504.8.1 Adhesives, sealants and caulks. Adhesives, sealants and caulks used on the project shall meet the requirements of the following standards.	□	□
+  1. Adhesives, adhesive bonding primers and adhesive primers, sealants and sealant primers shall comply with Table A5.504.8.1.	□	□
+  2. Aerosol adhesives shall meet the requirements of California Code of Regulations, Title 17, commencing with Section 94507, http://ccr.oal.ca.gov/.		
+ A5.504.8.3 Paints and coatings. Architectural paints and coatings shall comply with Table A5.504.8.3.		□	□	
+  A5.504.8.3.2 Verification.	□	□
+ A5.504.8.4 Carpet systems. All carpet installed in the building interior shall meet the testing and product requirements of one of the standards listed in Section A5.504.8.3.	□	□
+  A5.504.8.4.1 Carpet cushion. All carpet cushion installed in the building interior shall meet the requirements of the Carpet and Rug Institute Green Label program.	□	□
+  A5.504.8.4.2 Carpet adhesive. All carpet adhesive shall meet the requirements of Table A5.504.8.1.	□	□
+ A5.504.8.5 Composite wood products. Hardwood plywood, particleboard and medium density fiberboard composite wood products used on the interior or exterior of the building shall meet the requirements for formaldehyde as specified in Table A5.504.8.	□	□
+  A5.504.8.5.2 Documentation.Verification of compliance with this section shall be provided as requested by the enforcing agency. Documentation shall include at least one of the following.	□	□
+   1. Product certifications and specifications		
+   2. Chain of custody certifications		
+   3. Other methods acceptable to the enforcing agency		
+ A5.504.4.9 Acoustical ceilings and wall panels. Comply with Chapter 8 in Title 24, Part 2 and with the VOC-emission limits defined in the CHPS Low-emitting Materials List.		□	□	
+A5.504.5 Hazardous particulates and chemical pollutants. Minimize and control pollutant entry into buildings and cross-contamination of regularly occupied areas.		□	□	
+ A5.504.5.1 Entryway systems. Install permanent entryway systems measuring at least six feet in the primary direction of travel to capture dirt and particulates at entryways directly connected to the outdoors as listed in Items 1 through 3 in Section A5.504.5.1.	□	□
+A5.504.9 Environmental tobacco smoke (ETS) control. Prohibit smoking within 25 feet of building entries, outdoor air intakes and operable windows and in buildings; or as enforced by ordinances, regulations or policies of any city, county, city and county, California Community College, campus of the California State University or campus of the University of California, whichever are more stringent.		□	□	
+SECTION A5.505 Indoor Moisture Control	
+A5.505.2 Indoor moisture control. Buildings shall meet or exceed the provisions of California Building Code, CCR, Title 24, Part 2, Section 1203 and Chapter 14.		□	□	
+SECTION A5.507 Environmental Comfort Reserved	
